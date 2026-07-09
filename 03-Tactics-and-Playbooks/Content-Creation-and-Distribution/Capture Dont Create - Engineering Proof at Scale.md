@@ -52,5 +52,5 @@ AI disrupts creators from lowest risk to highest, in that order. To protect your
 - [[內容產製系統與募資紀律]]
 - [[可信度行銷與公開建構]]
 
-## Source
+## Source reference
 Alex Hormozi, "Building a Personal Brand in 2026" (podcast transcript). Full notes archived at [[2026-07-02_Podcast_AlexHormozi_PersonalBrandVsAI]].

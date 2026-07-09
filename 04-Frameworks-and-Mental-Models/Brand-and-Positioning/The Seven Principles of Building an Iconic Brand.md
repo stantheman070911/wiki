@@ -58,5 +58,5 @@ Principle 4 ("the audience comes last") sits in direct tension with 陳修平's 
 - [[身份、故事與致勝三步]]
 - [[業績公式與商業定位：從流量思維到變現路徑]]（框架張力：市場中心 vs 創作者本位）
 
-## Source
+## Source reference
 "Building an Iconic Personal Brand" (video transcript, seven core principles). Full notes archived at [[2026-07-02_Video_BuildingAnIconicPersonalBrand]].

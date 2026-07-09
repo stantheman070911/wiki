@@ -59,5 +59,5 @@ Note: AI taking live calls convincingly is likely only 1-2 years away, so real-t
 - [[AI、資料與內容的賭注理論]] (Hormozi's earlier "stakes theory" framework — this entry is a more granular, tiered elaboration of the same core idea: higher stakes require higher human credibility)
 - [[可信度行銷與公開建構]] (Bloom Nutrition's practical application of building public proof and credibility)
 
-## Source
+## Source reference
 Alex Hormozi, "Building a Personal Brand in 2026" (podcast transcript). Full notes archived at [[2026-07-02_Podcast_AlexHormozi_PersonalBrandVsAI]].

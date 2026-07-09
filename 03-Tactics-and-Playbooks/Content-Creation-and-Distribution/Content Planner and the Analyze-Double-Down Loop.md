@@ -61,5 +61,5 @@ Once the formula is understood — Creator Vision → studied formats → planne
 - [[短影音文案全公式：標題、開頭、結尾與腳本結構]]
 - [[對標方法論與靈感池系統]]
 
-## Source
+## Source reference
 "Building a Personal Brand in 2026" (video transcript). Full notes archived at [[2026-07-02_Video_BuildingAPersonalBrandIn2026]].

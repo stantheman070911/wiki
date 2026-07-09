@@ -27,6 +27,21 @@ const requiredReadmes = [
 const requiredFrontmatter = ['title', 'lang', 'tags', 'source', 'date_added', 'status'];
 const allowedLangs = new Set(['en', 'zh']);
 const tagFacets = ['person/', 'source/', 'topic/'];
+// Required entry sections, each as a set of accepted EN/ZH heading aliases.
+const requiredSections = [
+  { name: 'summary', aliases: ['One-line summary', '一句話總結'] },
+  { name: 'source', aliases: ['Source reference', '來源'] },
+  { name: 'related entries', aliases: ['Related entries', '相關條目'] },
+];
+// Domains organized into sub-topic folders: entries must live in a sub-folder, not the domain root.
+const subfolderedDomains = new Set([
+  '01-Business-Strategy',
+  '03-Tactics-and-Playbooks',
+  '04-Frameworks-and-Mental-Models',
+]);
+function headings(text) {
+  return new Set([...text.matchAll(/^##\s+(.+?)\s*$/gm)].map((m) => m[1]));
+}
 
 const errors = [];
 const warnings = [];
@@ -270,7 +285,8 @@ const tagCounts = new Map();
 for (const section of domainSections) {
   for (const relPath of markdownFiles.filter((file) => file.startsWith(`${section}/`))) {
     if (path.posix.basename(relPath) === 'README.md') continue;
-    const fm = frontmatter(read(relPath));
+    const text = read(relPath);
+    const fm = frontmatter(text);
     if (!fm) {
       errors.push(`${relPath}: missing YAML frontmatter`);
       continue;
@@ -278,6 +294,21 @@ for (const section of domainSections) {
     for (const key of requiredFrontmatter) {
       if (!new RegExp(`^${key}:`, 'm').test(fm)) {
         errors.push(`${relPath}: missing frontmatter field "${key}"`);
+      }
+    }
+    // Every entry must live in a sub-topic (or series) folder within a sub-foldered domain.
+    const parts = relPath.split('/');
+    if (subfolderedDomains.has(section) && parts.length < 3) {
+      errors.push(`${relPath}: entry sits in the domain root; move it into a sub-topic folder`);
+    }
+    // Required template sections (H1 title + summary/source/related, EN or ZH aliases).
+    if (!/^#\s+\S/m.test(text)) {
+      errors.push(`${relPath}: missing H1 title`);
+    }
+    const heads = headings(text);
+    for (const sec of requiredSections) {
+      if (!sec.aliases.some((a) => heads.has(a))) {
+        errors.push(`${relPath}: missing required section "${sec.name}" (${sec.aliases.join(' | ')})`);
       }
     }
     const lang = frontmatterValue(fm, 'lang');
@@ -313,19 +344,13 @@ for (const relPath of markdownFiles) {
   }
 }
 
+// Home.md section counts are generated live by Dataview inline queries, so they
+// cannot drift and are no longer statically validated here. Instead, confirm each
+// counted section is still linked from Home so nothing silently drops off the index.
 const home = fileExists('Home.md') ? read('Home.md') : '';
-for (const [section, label] of countedSections) {
-  const actual = markdownFiles.filter(
-    (file) => file.startsWith(`${section}/`) && path.posix.basename(file) !== 'README.md',
-  ).length;
-  const lineRegex = new RegExp(
-    `\\[\\[${section.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}/README\\|[^\\]]+\\]\\][^\\n]*\\*\\((\\d+) ${label}\\)\\*`,
-  );
-  const match = home.match(lineRegex);
-  if (!match) {
-    errors.push(`Home.md: missing ${label} count for ${section}`);
-  } else if (Number(match[1]) !== actual) {
-    errors.push(`Home.md: ${section} count is ${match[1]}, expected ${actual}`);
+for (const [section] of countedSections) {
+  if (!home.includes(`${section}/README`)) {
+    errors.push(`Home.md: section ${section} is not linked from the index`);
   }
 }
 

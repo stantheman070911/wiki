@@ -66,5 +66,5 @@ status: "reviewed"
 - [[決策、風險與人生下注：Branson 四步決策、凍結生活方式與 10-10 Forever]]
 - [[工作習慣與誠實忠告]]
 
-## 出處
+## 來源
 The Money Making Expert / Anatomy of a Dream —「How to 10x Your Business by Doing LESS」，來賓 Sharran Srivatsaa。原始逐字稿存檔於 [[2026-07-08_Podcast_AnatomyOfADream_SharranSrivatsaa_10xByDoingLess]]。

@@ -50,5 +50,5 @@ status: "reviewed"
 - [[財富公式：專屬知識、槓桿與判斷力]]
 - [[招募、領導與地理紅利]]
 
-## 出處
+## 來源
 The Money Making Expert / Anatomy of a Dream —「How to 10x Your Business by Doing LESS」，來賓 Sharran Srivatsaa。原始逐字稿存檔於 [[2026-07-08_Podcast_AnatomyOfADream_SharranSrivatsaa_10xByDoingLess]]。

@@ -64,5 +64,5 @@ status: "reviewed"
 - [[業績公式與商業定位：從流量思維到變現路徑]]
 - [[選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
 
-## 出處
+## 來源
 The Money Making Expert / Anatomy of a Dream —「How to 10x Your Business by Doing LESS」，來賓 Sharran Srivatsaa。原始逐字稿存檔於 [[2026-07-08_Podcast_AnatomyOfADream_SharranSrivatsaa_10xByDoingLess]]。

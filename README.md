@@ -58,10 +58,13 @@ Within a domain, drop the entry in the sub-topic folder that fits. Do not create
 
 ## Conventions
 
-### Language
-One language per entry. Set `lang: en` or `lang: zh` in front matter. The bridge across languages is
-shared `topic/…` tags (a topic surfaces entries in both languages) plus the graph. When an entry is a
-true translation of another, link the pair in *Related entries*.
+### Language (bilingual policy)
+One language per entry, set with `lang: en` or `lang: zh` in front matter; use the matching template
+(`Entry-Template.md` / `Entry-Template-ZH.md`), whose section headings map 1:1 across languages. The
+bridge across languages is **shared `topic/…` tags** — every topic surfaces entries in both languages.
+[[Topic-Index]] (`_meta/Topic-Index.md`) is the language-neutral map of content: each topic lists its
+English and Chinese entries together. When an entry is a true translation of another, also link the pair
+directly in *Related entries*.
 
 ### Tags — faceted and controlled
 Every tag carries a facet prefix and must already exist in [[Tags]] (`_meta/Tags.md`):
