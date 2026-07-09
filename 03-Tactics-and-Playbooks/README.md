@@ -2,6 +2,10 @@
 
 Step-by-step, repeatable how-tos and checklists for recurring, concrete tasks.
 
+## Placement rule
+
+Belongs here: repeatable execution steps, checklists, workflows, and operating procedures. Does not belong here: broad strategic principles, abstract mental models, or raw research that has not been converted into action.
+
 ## Index
 
 | Entry | Tags | Date added |

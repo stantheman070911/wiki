@@ -2,6 +2,10 @@
 
 Market intelligence, competitor analysis, research findings, and notable real-world examples worth remembering.
 
+## Placement rule
+
+Belongs here: observations, research, forecasts, examples, and cases not yet generalized. Does not belong here: evergreen frameworks, finished playbooks, or raw source archives.
+
 ## Index
 
 | Entry | Tags | Date added |

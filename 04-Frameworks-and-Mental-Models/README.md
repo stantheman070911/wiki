@@ -2,6 +2,10 @@
 
 Reusable thinking tools: mental models, decision frameworks, and named principles that generalize across situations.
 
+## Placement rule
+
+Belongs here: reusable decision tools and cross-domain thinking models. Does not belong here: one-off examples, source summaries, or tactical workflows unless the entry abstracts them into a reusable model.
+
 ## Index
 
 | Entry | Tags | Date added |

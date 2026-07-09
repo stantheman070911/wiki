@@ -1,5 +1,9 @@
 ---
 title: "$100M 擴張路線圖 · 總覽與方法論"
+aliases:
+  - "$100M 擴張路線圖 · 總覽與方法論"
+  - "$100M 擴張路線圖"
+  - "$100M 擴張路線圖（十階段系列）"
 category: "Business Strategy"
 tags: [scaling, 100m-roadmap, stages-of-growth, theory-of-constraints, operations, hormozi]
 source:

@@ -35,7 +35,7 @@ Concrete, actionable steps for using this knowledge. Be specific enough to execu
 Real examples, case studies, or quotes that illustrate the idea.
 
 ## Related entries
-- [[link to related entry]]
+- Related entry title or path
 
 ## Source reference
 Full citation / link, preserved for traceability. If archived, link to the copy in `06-Source-Library/`.

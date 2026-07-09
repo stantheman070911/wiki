@@ -2,19 +2,32 @@
 
 Raw source materials (transcripts, articles, PDFs, presentations, notes) preserved for traceability, organized by source type. Each processed source should be referenced from the WIKI entry/entries it produced.
 
+## Placement rule
+
+Belongs here: raw or semi-processed source material kept for traceability. Does not belong here: distilled evergreen entries, finished playbooks, or outward-facing articles.
+
 ## Structure
 
 ```
 06-Source-Library/
-├── Podcasts/
-├── Articles/
 ├── Books/
-├── Papers/
-├── Videos/
+├── Conversations/
+├── Courses/
+├── Diagrams/
+├── Podcasts/
 ├── Presentations/
-└── Conversations/
+└── README.md
 ```
 
-Create subfolders as needed. Name files descriptively, e.g. `2026-07-01_Podcast_HostName_Topic.md`.
+Create subfolders as needed only when a new source type has enough material to justify it. Name files with this pattern:
+
+`YYYY-MM-DD_SourceType_AuthorOrHost_Slug[_RawTranscript].md`
+
+Examples:
+
+- `2026-07-01_Podcast_HostName_Topic.md`
+- `2026-07-08_Video_AlexHormozi_AskMeAnything_RawTranscript.md`
+
+Videos, talks, and playlists currently remain in the closest existing source-type folder unless a future migration intentionally creates a dedicated `Videos/` folder.
 
 Larger structured courses may be archived as their own named subfolder (original slides/PDFs and any accompanying template spreadsheets), e.g. `Courses/陳宗賢的連鎖經營學/`, referenced from the WIKI entry/entries it produced.

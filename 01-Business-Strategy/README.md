@@ -2,6 +2,10 @@
 
 Business models, growth strategy, pricing, operations, negotiation, hiring, finance, and decision-making frameworks.
 
+## Placement rule
+
+Belongs here: markets, business models, positioning, pricing, growth, org strategy, and unit economics. Does not belong here: pure execution checklists, raw research clippings, or platform-specific content tactics unless they directly change the business model.
+
 ## Index
 
 | Entry | Tags | Date added |

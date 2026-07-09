@@ -24,6 +24,20 @@ THE WIKI/
 
 Each domain folder has its own `README.md` index listing its entries. Add new subfolders under a domain as topics accumulate (e.g. `02-Social-Media-Strategy/Content-Repurposing/`).
 
+## Placement rules
+
+Use the folder that describes the entry's primary job:
+
+- `01-Business-Strategy/` — markets, business models, positioning, pricing, growth, org strategy, and unit economics.
+- `02-Social-Media-Strategy/` — platforms, audience growth, distribution, creator positioning, and content strategy.
+- `03-Tactics-and-Playbooks/` — repeatable execution steps, checklists, workflows, and operating procedures.
+- `04-Frameworks-and-Mental-Models/` — reusable decision tools and cross-domain thinking models.
+- `05-Intelligence-and-Research/` — observations, research, forecasts, examples, and cases not yet generalized.
+- `06-Source-Library/` — raw or semi-processed source material kept for traceability.
+- `07-Articles/` — outward-facing synthesized essays built from multiple entries.
+
+When a topic becomes a series or dense cluster, create a subfolder with a `README.md` hub inside the relevant domain. Do not create a new top-level folder unless the existing taxonomy cannot hold the topic.
+
 ## How an entry gets created
 
 1. **Drop it in `_Inbox/`** — a raw transcript, article, note, or link, if it needs processing later.
@@ -35,6 +49,10 @@ Each domain folder has its own `README.md` index listing its entries. Add new su
 ## Tagging conventions
 
 Use lowercase, hyphenated tags in each entry's front matter, e.g. `tags: [pricing, saas, negotiation]`. Reuse existing tags before inventing new ones — check domain READMEs for tags already in use.
+
+## Maintenance
+
+Run `node tools/audit-vault.mjs` after structural edits to catch broken internal links, stale section counts, missing README files, front matter drift, and source-library documentation drift.
 
 ## Principles
 

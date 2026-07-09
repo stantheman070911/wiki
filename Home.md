@@ -14,7 +14,7 @@ A centralized knowledge vault for business strategy, social media strategy, tact
 - [[04-Frameworks-and-Mental-Models/README|04 — Frameworks and Mental Models]] — reusable thinking tools and mental models *(44 entries)*
 - [[05-Intelligence-and-Research/README|05 — Intelligence and Research]] — market/competitor intel, notable examples, research findings *(6 entries)*
 - [[06-Source-Library/README|06 — Source Library]] — raw source materials and extraction notes, organized by source *(34 items)*
-- [[07-Articles/README|07 — Articles]] — composed, outward-facing pieces synthesized from multiple entries
+- [[07-Articles/README|07 — Articles]] — composed, outward-facing pieces synthesized from multiple entries *(0 articles)*
 - [[_Inbox/README|Inbox]] — unprocessed material awaiting triage
 - [[00-Templates/Entry-Template|Entry Template]] — starting point for a new entry
 

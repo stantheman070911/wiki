@@ -2,6 +2,10 @@
 
 Platform-specific strategy, content strategy, audience growth, algorithms, distribution, and community building.
 
+## Placement rule
+
+Belongs here: platforms, audience growth, distribution, creator positioning, and content strategy. Does not belong here: generic business strategy, raw source notes, or execution checklists that should live as playbooks.
+
 ## Index
 
 | Entry | Tags | Date added |
