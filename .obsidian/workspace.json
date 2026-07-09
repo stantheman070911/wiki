@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "e2e7520d35c63e63",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8f0b6dea94c16b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f05276b13b99338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "品牌即媒體公司：注意力到信任框架"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4d4002dc2eacd0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6ce6740d7fce4c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89a9bc199bf83d9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2ed9de3d7fc42718",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a2574b0a4cee10cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba3200d8867e0897",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dc01253c1705223",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa30bb1a2f868d3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03-Tactics-and-Playbooks/Activation Before Automation - Manual Onboarding to Fix Churn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Activation Before Automation - Manual Onboarding to Fix Churn"
+            }
+          },
+          {
+            "id": "d609880053a2434c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03-Tactics-and-Playbooks/Activation Before Automation - Manual Onboarding to Fix Churn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Activation Before Automation - Manual Onboarding to Fix Churn"
+            }
+          },
+          {
+            "id": "eafe80af3194889f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4e21d22271c238eb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8b2bea4b124a1694",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03-Tactics-and-Playbooks/Activation Before Automation - Manual Onboarding to Fix Churn.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Activation Before Automation - Manual Onboarding to Fix Churn"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5f05276b13b99338",
+  "lastOpenFiles": [
+    "02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model.md",
+    "01-Business-Strategy/Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model.md",
+    "06-Source-Library/Podcasts/2026-07-08_Video_AlexHormozi_GrowAudienceFrom0Followers.md",
+    "04-Frameworks-and-Mental-Models/The Seven Principles of Building an Iconic Brand.md",
+    "Home.md",
+    "03-Tactics-and-Playbooks/Creator Monetization Ladder and Content-Concept Formulas.md",
+    "03-Tactics-and-Playbooks/Activation Before Automation - Manual Onboarding to Fix Churn.md",
+    "06-Source-Library/Books/2026-07-08_Book_AlexHormozi_100MSeriesSummary.md",
+    "07-Articles/README.md"
+  ]
+}
