@@ -1,7 +1,7 @@
 ---
 title: "連鎖經營學 · Module 1：連鎖本質與 3S 原則"
-category: "Business Strategy"
-tags: [chain-store, franchise, standardization, simplification, specialization, chen-tsung-hsien]
+lang: "zh"
+tags: [topic/chain-store, topic/franchise, topic/standardization, topic/simplification, topic/specialization, person/chen-tsung-hsien]
 source:
   type: "presentation"
   name: "陳宗賢的連鎖經營學（1-1〜1-4）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # 連鎖經營學 · Module 1：連鎖本質與 3S 原則
 
-> 系列導覽：[總覽與方法論](README.md)　｜　下一模組：[Module 2：連鎖類型與內創委任經營](Module-2-連鎖類型與內創委任經營.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　下一模組：[[Module-2-連鎖類型與內創委任經營|Module 2：連鎖類型與內創委任經營]]
 
 ## 一句話總結
 多店不等於連鎖——連鎖是「總部靠一套標準化、簡單化、專業化的系統，讓分店幫忙賺錢」，若總部尚未把系統做到可複製就急速展店，擴張只會加速倒閉。
@@ -58,8 +58,8 @@ status: "reviewed"
 - 把危機依可控/內外部分類建檔，可控項目建立預防 SOP，不可控項目建立應變計畫（而非事到臨頭才反應）。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Module 2：連鎖類型與內創委任經營](Module-2-連鎖類型與內創委任經營.md)
+- [[README|總覽與方法論]]
+- [[Module-2-連鎖類型與內創委任經營|Module 2：連鎖類型與內創委任經營]]
 - [[零售策略與通路飛輪]]
 - [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
 

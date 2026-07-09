@@ -1,3 +1,12 @@
+---
+title: "How To Make Your First100000"
+lang: "en"
+source_type: "playlist"
+author: "Alex Hormozi"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 # "How to Make Your First $100,000" (Alex Hormozi playlist) — Extraction Notes & Entry Map
 
 *Source: a compiled playlist of seven Alex Hormozi long-form videos (~29,400 words total), themed around making a first $100k and building durable businesses. Raw triaged from `_Inbox`. The seven episodes:*

@@ -1,3 +1,12 @@
+---
+title: "Grow Instagram2026"
+lang: "en"
+source_type: "video"
+author: "Personal Brand Launch"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 # How to Grow an Instagram Account in 2026 (Ava / Personal Brand Launch) — Extraction Notes & Entry Map
 
 *Source: video, "How to Grow an Instagram Account in 2026," by Ava (channel: Personal Brand Launch; short-form-video agency operator). A complete step-by-step 0→100k follower playbook (~5,300 words). Raw triaged from `_Inbox`.*

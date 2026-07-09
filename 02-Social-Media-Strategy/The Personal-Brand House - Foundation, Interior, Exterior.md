@@ -1,7 +1,7 @@
 ---
 title: "The Personal-Brand House - Foundation, Interior, Exterior"
-category: "Social Media Strategy"
-tags: [personal-brand, niche, content-pillars, branding, following-vs-brand, personal-brand-launch]
+lang: "en"
+tags: [topic/personal-brand, topic/niche, topic/content-pillars, topic/branding, topic/following-vs-brand, source/personal-brand-launch]
 source:
   type: "video"
   name: "How to Grow an Instagram Account in 2026"
@@ -56,4 +56,4 @@ Creators split into two kinds: those who build a *following* (fluctuating result
 - [[The Seven Factors of a Short - Topic to Editing]]
 
 ## Source reference
-Ava (Personal Brand Launch), *How to Grow an Instagram Account in 2026*. Extraction notes in `06-Source-Library/Podcasts/2026-07-08_Video_PersonalBrandLaunch_GrowInstagram2026.md`.
+Ava (Personal Brand Launch), *How to Grow an Instagram Account in 2026*. Extraction notes in [[2026-07-08_Video_PersonalBrandLaunch_GrowInstagram2026]].

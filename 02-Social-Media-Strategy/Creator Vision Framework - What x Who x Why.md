@@ -1,7 +1,7 @@
 ---
 title: "Creator Vision Framework: What x Who x Why"
-category: "Social Media Strategy"
-tags: [personal-brand, positioning, storytelling, content-pillars, avatar]
+lang: "en"
+tags: [topic/personal-brand, topic/positioning, topic/storytelling, topic/content-pillars, topic/avatar]
 source:
   type: "video"
   name: "Building a Personal Brand in 2026"
@@ -68,4 +68,4 @@ This is structurally the same pattern as 陳修平's story script formula (成�
 - [[Content Planner and the Analyze-Double-Down Loop]]
 
 ## Source
-"Building a Personal Brand in 2026" (video transcript). Full notes archived at `06-Source-Library/Podcasts/2026-07-02_Video_BuildingAPersonalBrandIn2026.md`.
+"Building a Personal Brand in 2026" (video transcript). Full notes archived at [[2026-07-02_Video_BuildingAPersonalBrandIn2026]].

@@ -1,7 +1,7 @@
 ---
 title: "連鎖經營學 · Module 5：商圈開發與市場行銷"
-category: "Business Strategy"
-tags: [chain-store, trade-area, site-selection, retail-marketing, database-marketing, chen-tsung-hsien]
+lang: "zh"
+tags: [topic/chain-store, topic/trade-area, topic/site-selection, topic/retail-marketing, topic/database-marketing, person/chen-tsung-hsien]
 source:
   type: "presentation"
   name: "陳宗賢的連鎖經營學（5-1〜5-7）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # 連鎖經營學 · Module 5：商圈開發與市場行銷
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一模組：[Module 4](Module-4-商品規劃與獲利結構.md)　｜　下一模組：[Module 6](Module-6-物流與供應鏈周轉.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　上一模組：[[Module-4-商品規劃與獲利結構|Module 4]]　｜　下一模組：[[Module-6-物流與供應鏈周轉|Module 6]]
 
 ## 一句話總結
 選址不是憑感覺,是用六大指標把商圈分級、用機構行銷主動走進商圈、用顧客資料庫（Database）驅動再購率——賺錢是單店獲利（一人吃全家飽）,成功是體系獲利（一人吃眾人飽）。
@@ -44,7 +44,7 @@ status: "reviewed"
 
 **其他三種分級維度：** 依功能特性（綜合型／專業型／特色型商圈）、依經濟規模與消費力（高端／中端／大眾商圈）、依發展階段（成熟型／成長型／衰退型商圈）——展店時應同時套用這四種分級（地理範圍、功能特性、經濟規模、發展階段），交叉判斷該商圈是否適合目前的品牌定位。
 
-**商圈調查的完整檢核清單：** 立地點地址與地圖、交通要道與站牌、在地人口數、流動人潮、商圈消費力、商圈屬性（辦公／商業／住宅／住辦／住商／商辦／混合）、商圈同業商家、商圈同定位商家、房租行情、經營成本、損益平衡業績、旺淡季、可／不可進駐、備註。（對應範本：`06-Source-Library/Courses/陳宗賢的連鎖經營學/陳宗賢的連鎖經營學｜5-1 商圈調查分級評估表.xlsx`）
+**商圈調查的完整檢核清單：** 立地點地址與地圖、交通要道與站牌、在地人口數、流動人潮、商圈消費力、商圈屬性（辦公／商業／住宅／住辦／住商／商辦／混合）、商圈同業商家、商圈同定位商家、房租行情、經營成本、損益平衡業績、旺淡季、可／不可進駐、備註。（對應範本：[陳宗賢的連鎖經營學｜5-1 商圈調查分級評估表.xlsx](<../../06-Source-Library/Courses/陳宗賢的連鎖經營學/陳宗賢的連鎖經營學｜5-1 商圈調查分級評估表.xlsx>)）
 
 **商圈經營的兩個實戰工具：**
 1. **機構行銷** — 主動盤點商圈周邊辦公大樓/企業，建立優惠合作合約，並用 LINE、Brochure 陳列引導顧客主動訂購，而非被動等客上門。
@@ -66,9 +66,9 @@ status: "reviewed"
 - 全國性與地方性行銷預算抓 80/20 分配基準，總部負責統一素材與大型活動，地方負責因地制宜的執行。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Module 4：商品規劃與獲利結構](Module-4-商品規劃與獲利結構.md)
-- [Module 6：物流與供應鏈周轉](Module-6-物流與供應鏈周轉.md)
+- [[README|總覽與方法論]]
+- [[Module-4-商品規劃與獲利結構|Module 4：商品規劃與獲利結構]]
+- [[Module-6-物流與供應鏈周轉|Module 6：物流與供應鏈周轉]]
 - [[TikTok Shop與飽和市場的白地策略]]
 - [[Add a Zero - Market Choice as a Force Multiplier]]
 

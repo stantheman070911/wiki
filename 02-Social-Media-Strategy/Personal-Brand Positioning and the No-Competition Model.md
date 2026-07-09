@@ -1,7 +1,7 @@
 ---
 title: "Personal-Brand Positioning and the No-Competition Model"
-category: "Social Media Strategy"
-tags: [personal-brand, positioning, differentiation, content-market-fit, niche, content-tam]
+lang: "en"
+tags: [topic/personal-brand, topic/positioning, topic/differentiation, topic/content-market-fit, topic/niche, topic/content-tam]
 source:
   type: "video"
   name: "The Art of the Personal Brand"
@@ -48,4 +48,4 @@ Two questions decide whether a personal brand cuts through: *where do I aim* (co
 - [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
 
 ## Source reference
-"The Art of the Personal Brand" (video). Extraction notes and raw transcript in `06-Source-Library/Podcasts/2026-07-08_Video_ArtOfThePersonalBrand.md`.
+"The Art of the Personal Brand" (video). Extraction notes and raw transcript in [[2026-07-08_Video_ArtOfThePersonalBrand]].

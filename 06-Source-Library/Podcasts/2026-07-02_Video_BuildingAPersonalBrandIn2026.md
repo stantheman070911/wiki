@@ -1,3 +1,12 @@
+---
+title: "Building APersonal Brand In2026"
+lang: "en"
+source_type: "video"
+author: ""
+date_archived: "2026-07-02"
+status: "source"
+---
+
 # Building a Personal Brand in 2026 — Notes & Takeaways
 
 ## Core Thesis

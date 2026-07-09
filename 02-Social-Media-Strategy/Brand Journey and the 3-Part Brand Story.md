@@ -1,7 +1,7 @@
 ---
 title: "Brand Journey and the 3-Part Brand Story"
-category: "Social Media Strategy"
-tags: [personal-brand, brand-story, positioning, narrative, reverse-engineering, caleb-ralston]
+lang: "en"
+tags: [topic/personal-brand, topic/brand-story, topic/positioning, topic/narrative, topic/reverse-engineering, person/caleb-ralston]
 source:
   type: "pdf"
   name: "How to Build Your Brand Workbook"
@@ -56,4 +56,4 @@ Working backward from the outcome ensures every piece of content and every skill
 - [[The Waterfall Distribution Method - One Pillar, a Week of Content]]
 
 ## Source reference
-Caleb Ralston, *How to Build Your Brand Workbook*, ch. 1–2. Extraction notes in `06-Source-Library/Books/2026-07-08_Workbook_CalebRalston_HowToBuildYourBrand.md`; PDF archived alongside.
+Caleb Ralston, *How to Build Your Brand Workbook*, ch. 1–2. Extraction notes in [[2026-07-08_Workbook_CalebRalston_HowToBuildYourBrand]]; PDF archived alongside.

@@ -1,3 +1,12 @@
+---
+title: "Raw Transcript"
+lang: "en"
+source_type: "video"
+author: "Art Of The Personal Brand"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 # The Art of the Personal Brand — Raw Transcript
 
 *Source: video, "The Art of the Personal Brand" (marketing/personal-brand creator; runs the "Cut/30" content training and the "Product vs Brand" signature series; ~1M followers; HubSpot-sponsored segment). Auto-generated captions, lightly cleaned. Archived for traceability.*

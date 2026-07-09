@@ -1,3 +1,12 @@
+---
+title: "How To Build Your Brand"
+lang: "en"
+source_type: "workbook"
+author: "Caleb Ralston"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 # How to Build Your Brand Workbook (Caleb Ralston) — Extraction Notes & Entry Map
 
 *Source: workbook (PDF, ~7,600 words, mostly worksheets and playbooks), "How To Build Your Brand Workbook," by Caleb Ralston (the "Caleb" credited for the 70/20/10 content-mix rule; paired with his free "How to Build a Brand" course). Original PDF archived alongside at `2026-07-08_Workbook_CalebRalston_HowToBuildYourBrand.pdf`.*

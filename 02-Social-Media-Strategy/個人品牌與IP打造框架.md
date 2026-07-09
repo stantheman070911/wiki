@@ -1,7 +1,7 @@
 ---
 title: "個人品牌與IP打造框架"
-category: "Social Media Strategy"
-tags: [personal-brand, persona, account-setup, ip, chen-xiuping]
+lang: "zh"
+tags: [topic/personal-brand, topic/persona, topic/account-setup, topic/ip, person/chen-xiuping]
 source:
   type: "presentation"
   name: "陳修平短影音變現課程｜完整知識庫"
@@ -75,4 +75,4 @@ status: "reviewed"
 - [[IP變現主流程與公域內容規劃循環]]（把人設與帳號定位放進完整的公域／私域渠道矩陣中檢視）
 
 ## 來源
-陳修平短影音變現課程｜完整知識庫。完整筆記存於 `06-Source-Library/Courses/2026-07-02_Course_陳修平_短影音變現課程完整知識庫.md`。
+陳修平短影音變現課程｜完整知識庫。完整筆記存於 [[2026-07-02_Course_陳修平_短影音變現課程完整知識庫]]。

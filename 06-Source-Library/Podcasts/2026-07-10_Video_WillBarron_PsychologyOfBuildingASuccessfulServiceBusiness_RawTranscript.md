@@ -1,3 +1,12 @@
+---
+title: "Psychology Of Building ASuccessful Service Business_Raw Transcript"
+lang: "en"
+source_type: "video"
+author: "Will Barron"
+date_archived: "2026-07-10"
+status: "source"
+---
+
 Raw transcript, triaged from `_Inbox/Transcript of The Psychology of Building a Successful Service Business Author _ Will Barron .md`.
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Interest Media and the Zero-Follower Reach Model"
-category: "Social Media Strategy"
-tags: [interest-graph, distribution, reach, organic-first, paid-amplification, volume, gary-vaynerchuk]
+lang: "en"
+tags: [topic/interest-graph, topic/distribution, topic/reach, topic/organic-first, topic/paid-amplification, topic/volume, person/gary-vaynerchuk]
 source:
   type: "video"
   name: "The New Rules of Social Media (2026)"
@@ -55,4 +55,4 @@ This turns the organic feed into a free, real-market pre-test and stops money be
 - [[Process as the Goal - The Zero-Follower Consistency Engine]]
 
 ## Source reference
-Gary Vaynerchuk, *The New Rules of Social Media (2026)*. Extraction notes in `06-Source-Library/Podcasts/2026-07-08_Talk_GaryVaynerchuk_NewRulesOfSocialMedia2026.md`.
+Gary Vaynerchuk, *The New Rules of Social Media (2026)*. Extraction notes in [[2026-07-08_Talk_GaryVaynerchuk_NewRulesOfSocialMedia2026]].

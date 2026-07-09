@@ -1,3 +1,12 @@
+---
+title: "Positioning"
+lang: "en"
+source_type: "book"
+author: "Ries Trout"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 # Positioning: The Battle for Your Mind (Al Ries & Jack Trout) — Extraction Notes & Entry Map
 
 *Source: book (markdown transcript), "Positioning: The Battle for Your Mind," by Al Ries and Jack Trout (concept coined 1972; classic marketing text, ~51,800 words, 25 chapters + Kotler foreword). Retained in `_Inbox` as a `.md`; the markdown is the archive.*

@@ -1,3 +1,12 @@
+---
+title: "Grow Audience From0 Followers"
+lang: "en"
+source_type: "video"
+author: "Alex Hormozi"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 # How to Grow an Audience if You Have 0 Followers (Alex Hormozi) — Extraction Notes & Entry Map
 
 *Source: short video, "How to Grow an Audience if You Have 0 Followers," by Alex Hormozi. Motivational single-theme talk (~1,600 words) answering the "it's easy for you, you already have an audience" objection. Raw transcript was triaged from `_Inbox`; substance captured in full below.*

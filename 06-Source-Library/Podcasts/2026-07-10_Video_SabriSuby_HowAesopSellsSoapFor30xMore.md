@@ -1,3 +1,12 @@
+---
+title: "How Aesop Sells Soap For30x More"
+lang: "en"
+source_type: "video"
+author: "Sabri Suby"
+date_archived: "2026-07-10"
+status: "source"
+---
+
 # How Aesop Sells Soap For 30x More Than Everyone Else — Extraction Notes & Entry Map
 
 *Source: short YouTube teardown by Sabri Suby (founder of a $250M agency, Shark Tank Australia) filmed inside an Aesop store, breaking the brand's premium-pricing playbook into five named tactics. Raw transcript preserved alongside as `2026-07-10_Video_SabriSuby_HowAesopSellsSoapFor30xMore_RawTranscript.md`.*

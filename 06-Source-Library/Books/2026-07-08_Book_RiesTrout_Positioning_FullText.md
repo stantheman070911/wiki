@@ -1,3 +1,12 @@
+---
+title: "Positioning_Full Text"
+lang: "en"
+source_type: "book"
+author: "Ries Trout"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 Positioning: The Battle for Your Mind  
 Al Ries Jack Trout
 

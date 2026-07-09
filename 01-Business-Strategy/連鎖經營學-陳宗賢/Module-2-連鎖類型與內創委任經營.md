@@ -1,7 +1,7 @@
 ---
 title: "連鎖經營學 · Module 2：連鎖類型與內部創業／委任經營"
-category: "Business Strategy"
-tags: [chain-store, franchise, licensing, internal-entrepreneurship, profit-sharing, chen-tsung-hsien]
+lang: "zh"
+tags: [topic/chain-store, topic/franchise, topic/licensing, topic/internal-entrepreneurship, topic/profit-sharing, person/chen-tsung-hsien]
 source:
   type: "presentation"
   name: "陳宗賢的連鎖經營學（2-1〜2-3）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # 連鎖經營學 · Module 2：連鎖類型與內部創業／委任經營
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一模組：[Module 1](Module-1-連鎖本質與3S原則.md)　｜　下一模組：[Module 3](Module-3-品牌四大共識與市場定位.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　上一模組：[[Module-1-連鎖本質與3S原則|Module 1]]　｜　下一模組：[[Module-3-品牌四大共識與市場定位|Module 3]]
 
 ## 一句話總結
 直營、加盟、授權、內部創業、委任經營是同一條「總部控制力 vs 展店速度」光譜上的五個點——選型不是憑喜好，而是看總部當下要的是控制力還是速度，以及能否設計出讓雙方都不會偷懶的分潤與合約結構。
@@ -64,9 +64,9 @@ status: "reviewed"
 - 明確劃分「總部規範」與「在地化管理規則」的清單，讓區域負責人清楚知道哪些可以因地制宜、哪些不行。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Module 1：連鎖本質與 3S 原則](Module-1-連鎖本質與3S原則.md)
-- [Module 7：招商加盟與組織人才](Module-7-招商加盟與組織人才.md)
+- [[README|總覽與方法論]]
+- [[Module-1-連鎖本質與3S原則|Module 1：連鎖本質與 3S 原則]]
+- [[Module-7-招商加盟與組織人才|Module 7：招商加盟與組織人才]]
 - [[選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
 - [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
 

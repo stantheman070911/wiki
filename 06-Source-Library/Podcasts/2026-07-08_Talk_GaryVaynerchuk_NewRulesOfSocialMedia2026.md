@@ -1,3 +1,12 @@
+---
+title: "New Rules Of Social Media2026"
+lang: "en"
+source_type: "talk"
+author: "Gary Vaynerchuk"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 # The New Rules of Social Media (2026) — Gary Vaynerchuk — Extraction Notes & Entry Map
 
 *Source: keynote talk, "The New Rules of Social Media (2026)," by Gary Vaynerchuk (GaryVee), delivered to a room of business owners (~1,900 words). Substance captured in full below; raw triaged from `_Inbox`.*

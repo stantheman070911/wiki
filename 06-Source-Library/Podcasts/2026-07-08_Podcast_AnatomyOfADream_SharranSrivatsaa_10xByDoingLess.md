@@ -1,3 +1,12 @@
+---
+title: "Sharran Srivatsaa_10x By Doing Less"
+lang: "en"
+source_type: "podcast"
+author: "Anatomy Of ADream"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 # The Money Making Expert — How to 10x Your Business by Doing LESS
 
 **節目：** The Money Making Expert / Anatomy of a Dream（主持人 Tiffany 與共同創辦人 Roy）

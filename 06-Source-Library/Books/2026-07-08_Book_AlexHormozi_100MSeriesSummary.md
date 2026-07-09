@@ -1,3 +1,12 @@
+---
+title: "100 MSeries Summary"
+lang: "en"
+source_type: "book"
+author: "Alex Hormozi"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 ## ***$100M Offers*** **— Alex Hormozi**
 
 **Core thesis:** Stop competing on price. Engineer an offer so valuable that prospects feel irrational *not* to buy it — a "Grand Slam Offer" that places you in a category of one.

@@ -1,3 +1,12 @@
+---
+title: "Personal Brand Vs AI"
+lang: "en"
+source_type: "podcast"
+author: "Alex Hormozi"
+date_archived: "2026-07-02"
+status: "source"
+---
+
 # Building a Personal Brand in 2026 — Notes
 ### Source: Alex Hormozi (podcast transcript)
 ### Core thesis: AI will not disrupt all creators equally. Your defensibility is a function of *proof*.

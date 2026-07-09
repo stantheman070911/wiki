@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 8：Specialize 專精"
-category: "Business Strategy"
-tags: [scaling, 100m-roadmap, stage-8, specialists, brand-building, hormozi]
+lang: "zh"
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-8, topic/specialists, topic/brand-building, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # $100M 擴張路線圖 · Stage 8：Specialize 專精
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一關：[Stage 7：Categorize 分工](Stage-7-Categorize.md)　｜　下一關：[Stage 9：Capitalize 下注](Stage-9-Capitalize.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　上一關：[[Stage-7-Categorize|Stage 7：Categorize 分工]]　｜　下一關：[[Stage-9-Capitalize|Stage 9：Capitalize 下注]]
 
 ## 關卡速覽
 | 項目 | 內容 |
@@ -53,10 +53,10 @@ status: "reviewed"
 - 把「最好的名單給最好的成交者」制度化，用自動追蹤量測，而非讓資源隨機分配。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Stage 7：Categorize 分工](Stage-7-Categorize.md)　｜　[Stage 9：Capitalize 下注](Stage-9-Capitalize.md)
+- [[README|總覽與方法論]]
+- [[Stage-7-Categorize|Stage 7：Categorize 分工]]　｜　[[Stage-9-Capitalize|Stage 9：Capitalize 下注]]
 - [[品牌即媒體公司：注意力到信任框架]]、[[可信度行銷與公開建構]]（Stage 8 從賣產品轉向建品牌）
 - [[招募、領導與地理紅利]]（引進各領域專才、創辦人把關關鍵職缺）
 
 ## 來源
-$100M Scaling Roadmap（Personalized Guide），Stage 8，Alex Hormozi / Acquisition.com。原始 PDF 存於 `../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.pdf`。
+$100M Scaling Roadmap（Personalized Guide），Stage 8，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。

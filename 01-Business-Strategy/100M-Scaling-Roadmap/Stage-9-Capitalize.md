@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 9：Capitalize 下注"
-category: "Business Strategy"
-tags: [scaling, 100m-roadmap, stage-9, m-and-a, big-bet, capital, hormozi]
+lang: "zh"
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-9, topic/m-and-a, topic/big-bet, topic/capital, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # $100M 擴張路線圖 · Stage 9：Capitalize 下注
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一關：[Stage 8：Specialize 專精](Stage-8-Specialize.md)　｜　下一關：—（路線圖終點）
+> 系列導覽：[[README|總覽與方法論]]　｜　上一關：[[Stage-8-Specialize|Stage 8：Specialize 專精]]　｜　下一關：—（路線圖終點）
 
 ## 關卡速覽
 | 項目 | 內容 |
@@ -53,11 +53,11 @@ status: "reviewed"
 - 最高階人才由創辦人親自出馬、用願景招募，並預留 6 個月以上耐心——這對應 [[招募、領導與地理紅利]] 與 [[內容產製系統與募資紀律]] 中「募資／招募是數字與耐心的遊戲」。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Stage 8：Specialize 專精](Stage-8-Specialize.md)
+- [[README|總覽與方法論]]
+- [[Stage-8-Specialize|Stage 8：Specialize 專精]]
 - [[零售策略與通路飛輪]]（願意犧牲已打贏的渠道去攻更大的——同源的「大賭注」邏輯）
 - [[內容產製系統與募資紀律]]（募資是數字遊戲、要有跑道與耐心）
 - [[財富公式：專屬知識、槓桿與判斷力]]（凱利公式：下注但避免破產）
 
 ## 來源
-$100M Scaling Roadmap（Personalized Guide），Stage 9，Alex Hormozi / Acquisition.com。原始 PDF 存於 `../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.pdf`。
+$100M Scaling Roadmap（Personalized Guide），Stage 9，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。

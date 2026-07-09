@@ -1,3 +1,12 @@
+---
+title: "Cash Cow Breakdowns"
+lang: "en"
+source_type: "video"
+author: "Alex Hormozi"
+date_archived: "2026-07-09"
+status: "source"
+---
+
 # Alex Hormozi Cash Cow Business Breakdowns & Scaling AMAs - Extraction Notes & Entry Map
 
 *Source: a compiled inbox file (`alex hormozi ama 2.md`, 830,830 characters) containing several distinct pieces of Hormozi content concatenated together — three themed scaling AMAs (service business scaling, e-commerce scaling, brick-and-mortar/HVAC scaling), a Skool/School-branded intro segment, and a long series of "Cash Cow"-branded 1:1 business-breakdown episodes covering roughly fourteen distinct businesses. Raw transcript archived as `2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript.md`.*

@@ -1,7 +1,7 @@
 ---
 title: "連鎖經營學 · Module 3：品牌四大共識與市場定位"
-category: "Business Strategy"
-tags: [chain-store, brand-consistency, cis, positioning, headquarters, chen-tsung-hsien]
+lang: "zh"
+tags: [topic/chain-store, topic/brand-consistency, topic/cis, topic/positioning, topic/headquarters, person/chen-tsung-hsien]
 source:
   type: "presentation"
   name: "陳宗賢的連鎖經營學（3-1〜3-4）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # 連鎖經營學 · Module 3：品牌四大共識與市場定位
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一模組：[Module 2](Module-2-連鎖類型與內創委任經營.md)　｜　下一模組：[Module 4](Module-4-商品規劃與獲利結構.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　上一模組：[[Module-2-連鎖類型與內創委任經營|Module 2]]　｜　下一模組：[[Module-4-商品規劃與獲利結構|Module 4]]
 
 ## 一句話總結
 連鎖擴張最常見的兩個迷思——「專業能力強就能順利展店」「快速展店就能做大規模」——根源都是缺乏可複製的商業模式；解法是把品牌拆成視覺、行為、管理、店格四層共識（CIS），並用清晰的市場定位與核心價值，讓每一家分店都「感覺是同一個品牌」。
@@ -60,9 +60,9 @@ status: "reviewed"
 - 擴張路徑規劃：先在本地驗證「可複製、可獲利」的模式，再談跨境或國際化，不要跳過驗證階段。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Module 2：連鎖類型與內創委任經營](Module-2-連鎖類型與內創委任經營.md)
-- [Module 4：商品規劃與獲利結構](Module-4-商品規劃與獲利結構.md)
+- [[README|總覽與方法論]]
+- [[Module-2-連鎖類型與內創委任經營|Module 2：連鎖類型與內創委任經營]]
+- [[Module-4-商品規劃與獲利結構|Module 4：商品規劃與獲利結構]]
 - [[Positioning - Own a Word in the Prospect's Mind]]
 - [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
 - [[The Seven Principles of Building an Iconic Brand]]

@@ -1,3 +1,12 @@
+---
+title: "Founder Marketing Roundup"
+lang: "en"
+source_type: "podcast"
+author: "Anatomy Of ADream"
+date_archived: "2026-07-02"
+status: "source"
+---
+
 # 創辦人、品牌與社群媒體實戰手冊 — 彙整筆記
 
 四集《Anatomy of a Dream》訪談的整合重點：

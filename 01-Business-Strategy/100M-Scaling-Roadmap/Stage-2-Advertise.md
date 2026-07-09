@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 2：Advertise 廣告"
-category: "Business Strategy"
-tags: [scaling, 100m-roadmap, stage-2, advertising, sales-script, rule-of-100, hormozi]
+lang: "zh"
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-2, topic/advertising, topic/sales-script, topic/rule-of-100, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # $100M 擴張路線圖 · Stage 2：Advertise 廣告
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一關：[Stage 1：Monetize 變現](Stage-1-Monetize.md)　｜　下一關：[Stage 3：Stabilize 穩定](Stage-3-Stabilize.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　上一關：[[Stage-1-Monetize|Stage 1：Monetize 變現]]　｜　下一關：[[Stage-3-Stabilize|Stage 3：Stabilize 穩定]]
 
 ## 關卡速覽
 | 項目 | 內容 |
@@ -63,10 +63,10 @@ status: "reviewed"
 - 把你目前的成交過程寫成一份可重複的銷售腳本並持續迭代，讓業績不再靠臨場發揮。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Stage 1：Monetize 變現](Stage-1-Monetize.md)　｜　[Stage 3：Stabilize 穩定](Stage-3-Stabilize.md)
+- [[README|總覽與方法論]]
+- [[Stage-1-Monetize|Stage 1：Monetize 變現]]　｜　[[Stage-3-Stabilize|Stage 3：Stabilize 穩定]]
 - [[網紅行銷引擎：以CPM反推的分散式機器]]（把行銷變成可預測系統的成熟版本）
 - [[短影音研究引擎、鉤子與格式]]（「加倍下注有效者」與只抄鉤子的同源邏輯）
 
 ## 來源
-$100M Scaling Roadmap（Personalized Guide），Stage 2，Alex Hormozi / Acquisition.com。原始 PDF 存於 `../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.pdf`。
+$100M Scaling Roadmap（Personalized Guide），Stage 2，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。

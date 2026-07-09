@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 6：Optimize 優化"
-category: "Business Strategy"
-tags: [scaling, 100m-roadmap, stage-6, efficiency, better-not-more, systems, hormozi]
+lang: "zh"
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-6, topic/efficiency, topic/better-not-more, topic/systems, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # $100M 擴張路線圖 · Stage 6：Optimize 優化
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一關：[Stage 5：Productize 產品化](Stage-5-Productize.md)　｜　下一關：[Stage 7：Categorize 分工](Stage-7-Categorize.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　上一關：[[Stage-5-Productize|Stage 5：Productize 產品化]]　｜　下一關：[[Stage-7-Categorize|Stage 7：Categorize 分工]]
 
 ## 關卡速覽
 | 項目 | 內容 |
@@ -64,9 +64,9 @@ status: "reviewed"
 - 把資安與到職／離職流程正式化：20–49 人規模，人員流動本身就是資料風險。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Stage 5：Productize 產品化](Stage-5-Productize.md)　｜　[Stage 7：Categorize 分工](Stage-7-Categorize.md)
+- [[README|總覽與方法論]]
+- [[Stage-5-Productize|Stage 5：Productize 產品化]]　｜　[[Stage-7-Categorize|Stage 7：Categorize 分工]]
 - [[孤獨、簡單勝過輕鬆與犧牲平庸]]（「專注是相乘不是相加」與 better-not-more 同源）
 
 ## 來源
-$100M Scaling Roadmap（Personalized Guide），Stage 6，Alex Hormozi / Acquisition.com。原始 PDF 存於 `../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.pdf`。
+$100M Scaling Roadmap（Personalized Guide），Stage 6，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。

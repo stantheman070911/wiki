@@ -1,7 +1,7 @@
 ---
 title: "連鎖經營學 · Module 8：財務會計與獲利核心"
-category: "Business Strategy"
-tags: [chain-store, accounting, budgeting, cash-flow, franchise-finance, chen-tsung-hsien]
+lang: "zh"
+tags: [topic/chain-store, topic/accounting, topic/budgeting, topic/cash-flow, topic/franchise-finance, person/chen-tsung-hsien]
 source:
   type: "presentation"
   name: "陳宗賢的連鎖經營學（8-1〜8-5）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # 連鎖經營學 · Module 8：財務會計與獲利核心
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一模組：[Module 7](Module-7-招商加盟與組織人才.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　上一模組：[[Module-7-招商加盟與組織人才|Module 7]]
 
 ## 一句話總結
 連鎖的獲利核心來自規模經濟、品牌優勢、營運優化三者的疊加,但前提是總部與門店櫃各自都有清楚的會計制度、預算編制與日結損益——多算勝,少算不勝,而況於無算乎。
@@ -69,9 +69,9 @@ status: "reviewed"
 - 設備投資優先評估租賃合作的可行性,把一次性資本支出轉換成分期攤還,保留現金用於展店。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Module 7：招商加盟與組織人才](Module-7-招商加盟與組織人才.md)
-- [Module 4：商品規劃與獲利結構](Module-4-商品規劃與獲利結構.md)
+- [[README|總覽與方法論]]
+- [[Module-7-招商加盟與組織人才|Module 7：招商加盟與組織人才]]
+- [[Module-4-商品規劃與獲利結構|Module 4：商品規劃與獲利結構]]
 - [[How Money Is Made - Value, Return on Time, and Money Rules]]
 - [[Billing-Cycle vs Value-Cycle Alignment]]
 

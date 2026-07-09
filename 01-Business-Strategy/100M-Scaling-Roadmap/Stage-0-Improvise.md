@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 0：Improvise 即興"
-category: "Business Strategy"
-tags: [scaling, 100m-roadmap, stage-0, validation, pre-revenue, hormozi]
+lang: "zh"
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-0, topic/validation, topic/pre-revenue, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # $100M 擴張路線圖 · Stage 0：Improvise 即興
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一關：—　｜　下一關：[Stage 1：Monetize 變現](Stage-1-Monetize.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　上一關：—　｜　下一關：[[Stage-1-Monetize|Stage 1：Monetize 變現]]
 
 ## 關卡速覽
 | 項目 | 內容 |
@@ -59,9 +59,9 @@ Stage 0 最重要的事，是弄清楚「人們是否真的想要你提供的東
 - 每一次試用都主動問兩個問題：「你覺得如何？」「怎樣會更好？」把答案記下來當作改版依據。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Stage 1：Monetize 變現](Stage-1-Monetize.md)
+- [[README|總覽與方法論]]
+- [[Stage-1-Monetize|Stage 1：Monetize 變現]]
 - [[從零到十萬美元聯盟套利劇本與商業基本面]]（同樣主張起步就做不可規模化、先讓人知道你存在）
 
 ## 來源
-$100M Scaling Roadmap（Personalized Guide），Stage 0，Alex Hormozi / Acquisition.com。原始 PDF 存於 `../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.pdf`。
+$100M Scaling Roadmap（Personalized Guide），Stage 0，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。

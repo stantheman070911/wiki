@@ -1,3 +1,12 @@
+---
+title: "Alex Hormozi"
+lang: "en"
+source_type: "podcast"
+author: "Modern Wisdom"
+date_archived: "2026-07-01"
+status: "source"
+---
+
 # Alex Hormozi × Chris Williamson（Modern Wisdom）— 筆記與重點整理
 
 以下筆記整理自本集訪談逐字稿（Chris Williamson 與 Alex Hormozi 的對談）。依主題編排，直陳核心概念，並在能點出重點之處保留原話。

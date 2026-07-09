@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 3：Stabilize 穩定"
-category: "Business Strategy"
-tags: [scaling, 100m-roadmap, stage-3, delegation, hiring, sop, hormozi]
+lang: "zh"
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-3, topic/delegation, topic/hiring, topic/sop, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # $100M 擴張路線圖 · Stage 3：Stabilize 穩定
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一關：[Stage 2：Advertise 廣告](Stage-2-Advertise.md)　｜　下一關：[Stage 4：Prioritize 取捨](Stage-4-Prioritize.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　上一關：[[Stage-2-Advertise|Stage 2：Advertise 廣告]]　｜　下一關：[[Stage-4-Prioritize|Stage 4：Prioritize 取捨]]
 
 ## 關卡速覽
 | 項目 | 內容 |
@@ -56,10 +56,10 @@ status: "reviewed"
 - 設一份「合格潛在客戶」判準，停止把時間花在不會買的人身上。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Stage 2：Advertise 廣告](Stage-2-Advertise.md)　｜　[Stage 4：Prioritize 取捨](Stage-4-Prioritize.md)
+- [[README|總覽與方法論]]
+- [[Stage-2-Advertise|Stage 2：Advertise 廣告]]　｜　[[Stage-4-Prioritize|Stage 4：Prioritize 取捨]]
 - [[全代操短影音代理商商業模式]]（用鉅細靡遺的 SOP＋分層管理者達成規模化品質）
 - [[招募、領導與地理紅利]]（招募判準與領導轉換）
 
 ## 來源
-$100M Scaling Roadmap（Personalized Guide），Stage 3，Alex Hormozi / Acquisition.com。原始 PDF 存於 `../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.pdf`。
+$100M Scaling Roadmap（Personalized Guide），Stage 3，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。

@@ -1,3 +1,12 @@
+---
+title: "The Book Of Elon"
+lang: "en"
+source_type: "book"
+author: "Eric Jorgenson"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 # The Book of Elon (Eric Jorgenson) — Extraction Notes & Entry Map
 
 *Source: book, "The Book of Elon: A Guide to Purpose and Success — Elon Musk's Most Useful Ideas, in His Own Words," by Eric Jorgenson (2026; foreword by Naval Ravikant; same series as the Almanack). ~68,800 words. Original PDF archived alongside at `2026-07-08_Book_EricJorgenson_TheBookOfElon.pdf`.*

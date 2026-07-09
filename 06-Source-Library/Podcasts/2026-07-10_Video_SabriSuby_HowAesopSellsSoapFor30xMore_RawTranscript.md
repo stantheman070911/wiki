@@ -1,3 +1,12 @@
+---
+title: "How Aesop Sells Soap For30x More_Raw Transcript"
+lang: "en"
+source_type: "video"
+author: "Sabri Suby"
+date_archived: "2026-07-10"
+status: "source"
+---
+
 Raw transcript, triaged from `_Inbox/Transcript of How Aesop Sells Soap For 30x More Than Everyone Else Author _ Sabri Suby.md`.
 
 ---

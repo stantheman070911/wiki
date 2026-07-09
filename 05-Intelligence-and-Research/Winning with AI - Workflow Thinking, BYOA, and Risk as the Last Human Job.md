@@ -1,7 +1,7 @@
 ---
 title: "Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job"
-category: "Intelligence"
-tags: [ai, workflow-thinking, automation, byoa, risk, barbell-strategy, alex-hormozi]
+lang: "en"
+tags: [topic/ai, topic/workflow-thinking, topic/automation, topic/byoa, topic/risk, topic/barbell-strategy, person/alex-hormozi]
 source:
   type: "video"
   name: "How to Win With AI in 2026 (playlist: How to Make Your First $100,000)"
@@ -59,4 +59,4 @@ Hormozi frames AI as the biggest coming shift for Main Street, not just tech, an
 - [[Fear, Regret, and Asymmetric Bets]]
 
 ## Source reference
-Alex Hormozi, *How to Win With AI in 2026* (playlist: *How to Make Your First $100,000*). Extraction notes in `06-Source-Library/Podcasts/2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000.md`.
+Alex Hormozi, *How to Win With AI in 2026* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].

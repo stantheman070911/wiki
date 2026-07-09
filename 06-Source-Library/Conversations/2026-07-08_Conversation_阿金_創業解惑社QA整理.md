@@ -1,3 +1,12 @@
+---
+title: "創業解惑社QA整理"
+lang: "zh"
+source_type: "conversation"
+author: "阿金"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 # 創業解惑社 Q&A 整理
 
 來源：創業解惑社 共用表單 的副本.xlsx

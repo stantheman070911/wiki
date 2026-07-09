@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 4：Prioritize 取捨"
-category: "Business Strategy"
-tags: [scaling, 100m-roadmap, stage-4, niche, saying-no, management, hormozi]
+lang: "zh"
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-4, topic/niche, topic/saying-no, topic/management, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # $100M 擴張路線圖 · Stage 4：Prioritize 取捨
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一關：[Stage 3：Stabilize 穩定](Stage-3-Stabilize.md)　｜　下一關：[Stage 5：Productize 產品化](Stage-5-Productize.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　上一關：[[Stage-3-Stabilize|Stage 3：Stabilize 穩定]]　｜　下一關：[[Stage-5-Productize|Stage 5：Productize 產品化]]
 
 ## 關卡速覽
 | 項目 | 內容 |
@@ -57,10 +57,10 @@ status: "reviewed"
 - 導入最基本的量測（成交率、回應速度、滿意度、損益表），沒有數字就無法管理一個 5–9 人的團隊。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Stage 3：Stabilize 穩定](Stage-3-Stabilize.md)　｜　[Stage 5：Productize 產品化](Stage-5-Productize.md)
+- [[README|總覽與方法論]]
+- [[Stage-3-Stabilize|Stage 3：Stabilize 穩定]]　｜　[[Stage-5-Productize|Stage 5：Productize 產品化]]
 - [[受眾定位與先小後大法則]]（先在小眾稱王的同源原則）
 - [[TikTok Shop與飽和市場的白地策略]]（用受眾白地聚焦特定客群）
 
 ## 來源
-$100M Scaling Roadmap（Personalized Guide），Stage 4，Alex Hormozi / Acquisition.com。原始 PDF 存於 `../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.pdf`。
+$100M Scaling Roadmap（Personalized Guide），Stage 4，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。

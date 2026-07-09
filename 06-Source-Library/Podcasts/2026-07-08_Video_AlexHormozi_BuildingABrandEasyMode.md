@@ -1,3 +1,12 @@
+---
+title: "Building ABrand Easy Mode"
+lang: "en"
+source_type: "video"
+author: "Alex Hormozi"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 # Building a Brand, But It's on Easy Mode (Alex Hormozi) — Extraction Notes & Entry Map
 
 *Source: video, "Building a brand, but it's on easy mode instead," by Alex Hormozi — a pulled Q&A segment from an 8-hour organic-marketing workshop with a room of business owners (~5,100 words). Dense with named frameworks. Raw triaged from `_Inbox`.*

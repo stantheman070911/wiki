@@ -1,3 +1,12 @@
+---
+title: "How To Get Rich In Your20s_7 Hour Guide"
+lang: "en"
+source_type: "video"
+author: "Alex Hormozi"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 # How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide) — Alex Hormozi — Extraction Notes & Entry Map
 
 *Source: YouTube compilation, "How To Actually Get Rich In Your 20s (7 HOUR ULTIMATE GUIDE)," Alex Hormozi (acquisition.com). A stitched-together anthology of roughly ten separate Hormozi talks/videos, ~100,000 words. Raw transcript preserved alongside this note as `2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_RawTranscript.md`.*

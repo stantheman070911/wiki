@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 7：Categorize 分工"
-category: "Business Strategy"
-tags: [scaling, 100m-roadmap, stage-7, departments, triage, organization, hormozi]
+lang: "zh"
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-7, topic/departments, topic/triage, topic/organization, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # $100M 擴張路線圖 · Stage 7：Categorize 分工
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一關：[Stage 6：Optimize 優化](Stage-6-Optimize.md)　｜　下一關：[Stage 8：Specialize 專精](Stage-8-Specialize.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　上一關：[[Stage-6-Optimize|Stage 6：Optimize 優化]]　｜　下一關：[[Stage-8-Specialize|Stage 8：Specialize 專精]]
 
 ## 關卡速覽
 | 項目 | 內容 |
@@ -61,9 +61,9 @@ status: "reviewed"
 - 為每個部門設季度預算與支出審批門檻，把「人人一張無規則信用卡」的失控狀態收束起來。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Stage 6：Optimize 優化](Stage-6-Optimize.md)　｜　[Stage 8：Specialize 專精](Stage-8-Specialize.md)
+- [[README|總覽與方法論]]
+- [[Stage-6-Optimize|Stage 6：Optimize 優化]]　｜　[[Stage-8-Specialize|Stage 8：Specialize 專精]]
 - [[供應鏈風險與關鍵人風險分散]]（消除單一管道／單點故障的同源邏輯）
 
 ## 來源
-$100M Scaling Roadmap（Personalized Guide），Stage 7，Alex Hormozi / Acquisition.com。原始 PDF 存於 `../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.pdf`。
+$100M Scaling Roadmap（Personalized Guide），Stage 7，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。

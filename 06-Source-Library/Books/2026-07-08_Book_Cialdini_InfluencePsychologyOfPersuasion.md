@@ -1,3 +1,12 @@
+---
+title: "Influence Psychology Of Persuasion"
+lang: "en"
+source_type: "book"
+author: "Cialdini"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 # Influence: The Psychology of Persuasion (Robert Cialdini) — Extraction Notes & Entry Map
 
 *Source: book, "Influence: The Psychology of Persuasion," by Robert B. Cialdini (~110,000 words — the largest source processed to date). The original PDF is archived alongside at `2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion.pdf`.*

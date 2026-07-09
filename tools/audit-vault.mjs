@@ -24,7 +24,9 @@ const requiredReadmes = [
   ...countedSections.map(([section]) => `${section}/README.md`),
   '_Inbox/README.md',
 ];
-const requiredFrontmatter = ['title', 'category', 'tags', 'source', 'date_added', 'status'];
+const requiredFrontmatter = ['title', 'lang', 'tags', 'source', 'date_added', 'status'];
+const allowedLangs = new Set(['en', 'zh']);
+const tagFacets = ['person/', 'source/', 'topic/'];
 
 const errors = [];
 const warnings = [];
@@ -224,7 +226,11 @@ function resolveMarkdownLink(rawTarget, fromRel) {
   return candidates.some((candidate) => fs.existsSync(path.join(root, candidate)));
 }
 
+// Templates and the README hold illustrative placeholder links; index them but don't check their links.
+const isTemplate = (relPath) => relPath.startsWith('00-Templates/') || relPath === 'README.md';
+
 for (const relPath of markdownFiles) {
+  if (isTemplate(relPath)) continue;
   const text = read(relPath);
   for (const target of extractWikilinks(text)) {
     if (!resolveWikilink(target, relPath)) {
@@ -244,6 +250,23 @@ for (const relPath of requiredReadmes) {
   }
 }
 
+function frontmatterTags(fm) {
+  const inline = fm.match(/^tags:\s*\[(.*)\]\s*$/m);
+  if (!inline) return [];
+  return inline[1].split(',').map((t) => stripQuotes(t)).filter(Boolean);
+}
+
+// Controlled vocabulary from _meta/Tags.md (backtick-quoted tags).
+const tagVocabulary = new Set();
+if (fileExists('_meta/Tags.md')) {
+  for (const m of read('_meta/Tags.md').matchAll(/`([^`]+?)`/g)) {
+    const slug = m[1].split(' ')[0];
+    if (slug.includes('/')) tagVocabulary.add(slug);
+  }
+}
+
+const tagCounts = new Map();
+
 for (const section of domainSections) {
   for (const relPath of markdownFiles.filter((file) => file.startsWith(`${section}/`))) {
     if (path.posix.basename(relPath) === 'README.md') continue;
@@ -256,6 +279,36 @@ for (const section of domainSections) {
       if (!new RegExp(`^${key}:`, 'm').test(fm)) {
         errors.push(`${relPath}: missing frontmatter field "${key}"`);
       }
+    }
+    const lang = frontmatterValue(fm, 'lang');
+    if (lang && !allowedLangs.has(lang)) {
+      errors.push(`${relPath}: invalid lang "${lang}" (expected en|zh)`);
+    }
+    for (const tag of frontmatterTags(fm)) {
+      tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1);
+      if (!tagFacets.some((f) => tag.startsWith(f))) {
+        warnings.push(`${relPath}: tag "${tag}" is missing a facet prefix (person/|source/|topic/)`);
+      } else if (tagVocabulary.size && !tagVocabulary.has(tag)) {
+        warnings.push(`${relPath}: tag "${tag}" is not in _meta/Tags.md vocabulary`);
+      }
+    }
+  }
+}
+
+// consolidation backlog: topic/ tags used only once across the vault
+const singletonTopics = [...tagCounts.entries()]
+  .filter(([tag, n]) => n === 1 && tag.startsWith('topic/'))
+  .map(([tag]) => tag);
+if (singletonTopics.length) {
+  warnings.push(`${singletonTopics.length} topic/ tags are used only once (see _meta/Tags.md consolidation backlog)`);
+}
+
+// regression guard: source-library FILE references should be links, not code-spans
+for (const relPath of markdownFiles) {
+  if (isTemplate(relPath)) continue;
+  for (const m of read(relPath).matchAll(/`((?:\.\.\/)*06-Source-Library\/[^`]+)`/g)) {
+    if (/\.(md|txt|pdf|xlsx)$/i.test(m[1])) {
+      warnings.push(`${relPath}: source reference "${m[1]}" is a code-span, not a link`);
     }
   }
 }

@@ -1,7 +1,7 @@
 ---
 title: "The Risk Continuum: Building an AI-Resistant Personal Brand"
-category: "Intelligence"
-tags: [ai, personal-brand, credibility, risk-continuum, hormozi]
+lang: "en"
+tags: [topic/ai, topic/personal-brand, topic/credibility, topic/risk-continuum, person/alex-hormozi]
 source:
   type: "podcast"
   name: "Alex Hormozi — Building a Personal Brand in 2026"
@@ -60,4 +60,4 @@ Note: AI taking live calls convincingly is likely only 1-2 years away, so real-t
 - [[可信度行銷與公開建構]] (Bloom Nutrition's practical application of building public proof and credibility)
 
 ## Source
-Alex Hormozi, "Building a Personal Brand in 2026" (podcast transcript). Full notes archived at `06-Source-Library/Podcasts/2026-07-02_Podcast_AlexHormozi_PersonalBrandVsAI.md`.
+Alex Hormozi, "Building a Personal Brand in 2026" (podcast transcript). Full notes archived at [[2026-07-02_Podcast_AlexHormozi_PersonalBrandVsAI]].

@@ -1,3 +1,12 @@
+---
+title: "Alex Hormozi"
+lang: "en"
+source_type: "podcast"
+author: "Jack Neil"
+date_archived: "2026-07-01"
+status: "source"
+---
+
 # Alex Hormozi — Jack Neil Podcast：重點筆記與心得
 
 本文件為訪談中關鍵觀念、框架與金句的整理。以主題分類，而非依時間順序排列。

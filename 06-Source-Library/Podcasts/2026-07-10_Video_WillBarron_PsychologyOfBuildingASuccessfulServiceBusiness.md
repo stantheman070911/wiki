@@ -1,3 +1,12 @@
+---
+title: "Psychology Of Building ASuccessful Service Business"
+lang: "en"
+source_type: "video"
+author: "Will Barron"
+date_archived: "2026-07-10"
+status: "source"
+---
+
 # The Psychology of Building a Successful Service Business — Extraction Notes & Entry Map
 
 *Source: YouTube video by Will Barron (founder of salesman.com, sales mentorship for service-business owners), drawn from working with 1,000+ business owners over a decade. Raw transcript preserved alongside as `2026-07-10_Video_WillBarron_PsychologyOfBuildingASuccessfulServiceBusiness_RawTranscript.md`.*

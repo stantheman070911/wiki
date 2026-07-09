@@ -1,3 +1,12 @@
+---
+title: "Building An Iconic Personal Brand"
+lang: "en"
+source_type: "video"
+author: ""
+date_archived: "2026-07-02"
+status: "source"
+---
+
 # Building an Iconic Personal Brand — Notes & Takeaways
 
 *Source: video transcript on the "seven core principles" of building an iconic personal brand (narrated by a founder referencing his own brand-building journey).*

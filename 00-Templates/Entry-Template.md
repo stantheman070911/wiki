@@ -1,15 +1,15 @@
 ---
 title: ""
-category: ""            # Business Strategy | Social Media Strategy | Tactics | Frameworks | Intelligence
-tags: []                # lowercase, hyphenated
+lang: "en"                # en | zh  (one language per entry; pair translations via Related entries)
+tags: []                  # faceted + controlled: topic/… person/… source/…  — reuse from [[Tags]] first
 source:
-  type: ""              # podcast | article | book | pdf | paper | video | image | presentation | interview | conversation
+  type: ""                # podcast | article | book | pdf | paper | video | image | presentation | interview | conversation
   name: ""
   author: ""
   url: ""
-  date_of_source: ""    # original publication date, if known
-date_added: ""           # YYYY-MM-DD
-status: "draft"          # draft | reviewed | evergreen
+  date_of_source: ""      # original publication date, if known
+date_added: ""            # YYYY-MM-DD
+status: "draft"           # draft | reviewed | evergreen
 ---
 
 # Title
@@ -35,7 +35,10 @@ Concrete, actionable steps for using this knowledge. Be specific enough to execu
 Real examples, case studies, or quotes that illustrate the idea.
 
 ## Related entries
-- Related entry title or path
+- [[Related entry]]
+- Cross-language pair (if this entry exists in the other language): [[其對應條目]]
 
 ## Source reference
-Full citation / link, preserved for traceability. If archived, link to the copy in `06-Source-Library/`.
+Full citation, then a real link to the archived copy — a wikilink for a Markdown note
+(`[[2026-07-08_Book_Author_Title]]`) or an angle-bracket link for an attachment
+(`[file.pdf](<../06-Source-Library/Books/file.pdf>)`). Never a bare code-span path.

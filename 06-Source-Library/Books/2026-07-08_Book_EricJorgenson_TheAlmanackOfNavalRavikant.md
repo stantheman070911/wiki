@@ -1,3 +1,12 @@
+---
+title: "The Almanack Of Naval Ravikant"
+lang: "en"
+source_type: "book"
+author: "Eric Jorgenson"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 # The Almanack of Naval Ravikant (Eric Jorgenson) — Extraction Notes & Entry Map
 
 *Source: book, "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness," by Eric Jorgenson (2020), built from Naval Ravikant's tweets, transcripts, and talks (~49,000 words). Free public-service book (Navalmanack.com). Original PDF archived alongside at `2026-07-08_Book_EricJorgenson_TheAlmanackOfNavalRavikant.pdf`.*

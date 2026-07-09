@@ -1,7 +1,7 @@
 ---
 title: "The Attention Barbell - Brand as the AI-Era Moat"
-category: "Intelligence"
-tags: [ai, brand-moat, barbell-strategy, jab-right-hook, human-touch, substack, gary-vaynerchuk]
+lang: "en"
+tags: [topic/ai, topic/brand-moat, topic/barbell-strategy, topic/jab-right-hook, topic/human-touch, topic/substack, person/gary-vaynerchuk]
 source:
   type: "video"
   name: "The New Rules of Social Media (2026)"
@@ -53,4 +53,4 @@ When every buyer asks an AI agent "who should I hire / go with?", discovery stop
 - [[Build Evidence, Not Confidence]]
 
 ## Source reference
-Gary Vaynerchuk, *The New Rules of Social Media (2026)*. Extraction notes in `06-Source-Library/Podcasts/2026-07-08_Talk_GaryVaynerchuk_NewRulesOfSocialMedia2026.md`.
+Gary Vaynerchuk, *The New Rules of Social Media (2026)*. Extraction notes in [[2026-07-08_Talk_GaryVaynerchuk_NewRulesOfSocialMedia2026]].

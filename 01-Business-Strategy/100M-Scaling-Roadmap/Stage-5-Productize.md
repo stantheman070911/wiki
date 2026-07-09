@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 5：Productize 產品化"
-category: "Business Strategy"
-tags: [scaling, 100m-roadmap, stage-5, ltv, second-product, upsell, hormozi]
+lang: "zh"
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-5, topic/ltv, topic/second-product, topic/upsell, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # $100M 擴張路線圖 · Stage 5：Productize 產品化
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一關：[Stage 4：Prioritize 取捨](Stage-4-Prioritize.md)　｜　下一關：[Stage 6：Optimize 優化](Stage-6-Optimize.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　上一關：[[Stage-4-Prioritize|Stage 4：Prioritize 取捨]]　｜　下一關：[[Stage-6-Optimize|Stage 6：Optimize 優化]]
 
 ## 關卡速覽
 | 項目 | 內容 |
@@ -56,10 +56,10 @@ status: "reviewed"
 - 把「延長 LTV 換來的現金 → 加碼廣告與招募高階人才」當成明確的資金循環邏輯，而非把利潤當個人消費。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Stage 4：Prioritize 取捨](Stage-4-Prioritize.md)　｜　[Stage 6：Optimize 優化](Stage-6-Optimize.md)
+- [[README|總覽與方法論]]
+- [[Stage-4-Prioritize|Stage 4：Prioritize 取捨]]　｜　[[Stage-6-Optimize|Stage 6：Optimize 優化]]
 - [[業績公式與商業定位：從流量思維到變現路徑]]（客單價／回購率變數）
 - [[零售策略與通路飛輪]]（把再投資紀律用在庫存與通路擴張）
 
 ## 來源
-$100M Scaling Roadmap（Personalized Guide），Stage 5，Alex Hormozi / Acquisition.com。原始 PDF 存於 `../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.pdf`。
+$100M Scaling Roadmap（Personalized Guide），Stage 5，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。

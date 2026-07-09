@@ -1,7 +1,7 @@
 ---
 title: "連鎖經營學 · Module 6：物流管理與供應鏈周轉"
-category: "Business Strategy"
-tags: [chain-store, logistics, supply-chain, inventory-turnover, jit, short-chain, chen-tsung-hsien]
+lang: "zh"
+tags: [topic/chain-store, topic/logistics, topic/supply-chain, topic/inventory-turnover, topic/jit, topic/short-chain, person/chen-tsung-hsien]
 source:
   type: "presentation"
   name: "陳宗賢的連鎖經營學（6-1〜6-4）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # 連鎖經營學 · Module 6：物流管理與供應鏈周轉
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一模組：[Module 5](Module-5-商圈開發與市場行銷.md)　｜　下一模組：[Module 7](Module-7-招商加盟與組織人才.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　上一模組：[[Module-5-商圈開發與市場行銷|Module 5]]　｜　下一模組：[[Module-7-招商加盟與組織人才|Module 7]]
 
 ## 一句話總結
 連鎖的物流管理不是「把貨送到店」,而是四套撥補法則（自動撥補、短鏈就近供貨、定期撥補、零庫存配送）的選擇題——管理到位,才能產生效益、省錢、增加營銷。
@@ -53,9 +53,9 @@ status: "reviewed"
 - 物流自營或外包的決策,先做物流費用分析,而非憑經驗或成本表面數字判斷。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Module 5：商圈開發與市場行銷](Module-5-商圈開發與市場行銷.md)
-- [Module 7：招商加盟與組織人才](Module-7-招商加盟與組織人才.md)
+- [[README|總覽與方法論]]
+- [[Module-5-商圈開發與市場行銷|Module 5：商圈開發與市場行銷]]
+- [[Module-7-招商加盟與組織人才|Module 7：招商加盟與組織人才]]
 - [[The Factory Is the Product - Manufacturing as the Moat]]
 
 ## 來源

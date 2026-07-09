@@ -1,3 +1,12 @@
+---
+title: "Ask Me Anything"
+lang: "en"
+source_type: "video"
+author: "Alex Hormozi"
+date_archived: "2026-07-08"
+status: "source"
+---
+
 # Alex Hormozi Ask Me Anything - Extraction Notes & Entry Map
 
 *Source: live AMA / "Hormozi Hotline" Q&A with million-dollar-plus business owners. Raw transcript triaged from `_Inbox` and archived as `2026-07-08_Video_AlexHormozi_AskMeAnything_RawTranscript.md`.*

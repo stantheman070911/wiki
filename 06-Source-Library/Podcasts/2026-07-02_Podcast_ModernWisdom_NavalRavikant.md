@@ -1,3 +1,12 @@
+---
+title: "Naval Ravikant"
+lang: "en"
+source_type: "podcast"
+author: "Modern Wisdom"
+date_archived: "2026-07-02"
+status: "source"
+---
+
 # 納瓦爾．拉維肯（Naval Ravikant）— 筆記與要點
 
 摘自兩場對談：一場關於幸福、自由與哲學的廣泛討論（Modern Wisdom，主持人 Chris Williamson），以及整合後的《如何致富（無需靠運氣）》系列。以主題方式編排，而非依對談先後順序。

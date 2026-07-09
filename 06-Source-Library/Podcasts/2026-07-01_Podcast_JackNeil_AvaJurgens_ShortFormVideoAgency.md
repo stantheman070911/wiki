@@ -1,3 +1,12 @@
+---
+title: "Ava Jurgens_Short Form Video Agency"
+lang: "en"
+source_type: "podcast"
+author: "Jack Neil"
+date_archived: "2026-07-01"
+status: "source"
+---
+
 # 短影音代理商操作手冊 — 筆記
 
 **來源：** Jack Neil Podcast — 來賓 Ava Jurgens（*Personal Brand Launch* 創辦人）

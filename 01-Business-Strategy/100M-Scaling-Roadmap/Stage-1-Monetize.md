@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 1：Monetize 變現"
-category: "Business Strategy"
-tags: [scaling, 100m-roadmap, stage-1, first-sale, v1-product, pricing, hormozi]
+lang: "zh"
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-1, topic/first-sale, topic/v1-product, topic/pricing, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # $100M 擴張路線圖 · Stage 1：Monetize 變現
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一關：[Stage 0：Improvise 即興](Stage-0-Improvise.md)　｜　下一關：[Stage 2：Advertise 廣告](Stage-2-Advertise.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　上一關：[[Stage-0-Improvise|Stage 0：Improvise 即興]]　｜　下一關：[[Stage-2-Advertise|Stage 2：Advertise 廣告]]
 
 ## 關卡速覽
 | 項目 | 內容 |
@@ -71,10 +71,10 @@ status: "reviewed"
 - 主動獵捕讓客戶不爽的「隱藏成本」（太慢、會漏、要等），這些沒說出口的不滿，才是留不住付費客戶的真正原因。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Stage 0：Improvise 即興](Stage-0-Improvise.md)　｜　[Stage 2：Advertise 廣告](Stage-2-Advertise.md)
+- [[README|總覽與方法論]]
+- [[Stage-0-Improvise|Stage 0：Improvise 即興]]　｜　[[Stage-2-Advertise|Stage 2：Advertise 廣告]]
 - [[從零到十萬美元聯盟套利劇本與商業基本面]]（第一筆現金流的具體戰術）
 - [[業績公式與商業定位：從流量思維到變現路徑]]（收錢後如何看流量×轉換×客單價×回購）
 
 ## 來源
-$100M Scaling Roadmap（Personalized Guide），Stage 1，Alex Hormozi / Acquisition.com。原始 PDF 存於 `../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.pdf`。
+$100M Scaling Roadmap（Personalized Guide），Stage 1，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。

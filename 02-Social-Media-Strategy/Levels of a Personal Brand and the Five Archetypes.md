@@ -1,7 +1,7 @@
 ---
 title: "Levels of a Personal Brand and the Five Archetypes"
-category: "Social Media Strategy"
-tags: [personal-brand, levels, archetypes, creator, positioning, content-strategy]
+lang: "en"
+tags: [topic/personal-brand, topic/levels, topic/archetypes, topic/creator, topic/positioning, topic/content-strategy]
 source:
   type: "video"
   name: "The Art of the Personal Brand"
@@ -56,4 +56,4 @@ Promoting yourself is now permanent cultural infrastructure — in an era of AI 
 - [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
 
 ## Source reference
-"The Art of the Personal Brand" (video). Extraction notes and raw transcript in `06-Source-Library/Podcasts/2026-07-08_Video_ArtOfThePersonalBrand.md`.
+"The Art of the Personal Brand" (video). Extraction notes and raw transcript in [[2026-07-08_Video_ArtOfThePersonalBrand]].

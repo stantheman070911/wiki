@@ -1,7 +1,7 @@
 ---
 title: "連鎖經營學 · Module 7：招商加盟與組織人才"
-category: "Business Strategy"
-tags: [chain-store, franchise-recruitment, organizational-design, talent-retention, kpi, erp, chen-tsung-hsien]
+lang: "zh"
+tags: [topic/chain-store, topic/franchise-recruitment, topic/organizational-design, topic/talent-retention, topic/kpi, topic/erp, person/chen-tsung-hsien]
 source:
   type: "presentation"
   name: "陳宗賢的連鎖經營學（7-1〜7-7）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # 連鎖經營學 · Module 7：招商加盟與組織人才
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一模組：[Module 6](Module-6-物流與供應鏈周轉.md)　｜　下一模組：[Module 8](Module-8-財務會計與獲利核心.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　上一模組：[[Module-6-物流與供應鏈周轉|Module 6]]　｜　下一模組：[[Module-8-財務會計與獲利核心|Module 8]]
 
 ## 一句話總結
 招商前先把總部旗艦店做出示範效果、把商業模式驗證到能複製,再用清楚的加盟商標準、費用結構與退場機制篩人——發展加盟連鎖前,先開設總部旗艦店,提供示範觀摩。
@@ -58,10 +58,10 @@ status: "reviewed"
 - 對照五層訓練架構,盤點目前組織在哪一層斷點（多數中小型連鎖卡在沒有 DT 儲備訓練與 TT 內部講師制度）,優先補上。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Module 2：連鎖類型與內創委任經營](Module-2-連鎖類型與內創委任經營.md)
-- [Module 6：物流與供應鏈周轉](Module-6-物流與供應鏈周轉.md)
-- [Module 8：財務會計與獲利核心](Module-8-財務會計與獲利核心.md)
+- [[README|總覽與方法論]]
+- [[Module-2-連鎖類型與內創委任經營|Module 2：連鎖類型與內創委任經營]]
+- [[Module-6-物流與供應鏈周轉|Module 6：物流與供應鏈周轉]]
+- [[Module-8-財務會計與獲利核心|Module 8：財務會計與獲利核心]]
 - [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
 - [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
 

@@ -1,3 +1,12 @@
+---
+title: "Bloom Nutrition"
+lang: "en"
+source_type: "podcast"
+author: "Greg La Vecchia"
+date_archived: "2026-07-02"
+status: "source"
+---
+
 # Bloom 商業手冊 — 筆記與重點整理
 
 **來賓：** Greg LaVecchia（LaVecchia），Bloom Nutrition 共同創辦人（與妻子 Mari Llewellyn）

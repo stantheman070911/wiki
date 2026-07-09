@@ -1,7 +1,7 @@
 ---
 title: "連鎖經營學 · Module 4：商品規劃與獲利結構"
-category: "Business Strategy"
-tags: [chain-store, product-mix, transfer-pricing, bcg-matrix, ansoff-matrix, gross-margin, chen-tsung-hsien]
+lang: "zh"
+tags: [topic/chain-store, topic/product-mix, topic/transfer-pricing, topic/bcg-matrix, topic/ansoff-matrix, topic/gross-margin, person/chen-tsung-hsien]
 source:
   type: "presentation"
   name: "陳宗賢的連鎖經營學（4-1〜4-5）"
@@ -14,7 +14,7 @@ status: "reviewed"
 
 # 連鎖經營學 · Module 4：商品規劃與獲利結構
 
-> 系列導覽：[總覽與方法論](README.md)　｜　上一模組：[Module 3](Module-3-品牌四大共識與市場定位.md)　｜　下一模組：[Module 5](Module-5-商圈開發與市場行銷.md)
+> 系列導覽：[[README|總覽與方法論]]　｜　上一模組：[[Module-3-品牌四大共識與市場定位|Module 3]]　｜　下一模組：[[Module-5-商圈開發與市場行銷|Module 5]]
 
 ## 一句話總結
 商品規劃的本質是數據決策：用內外部調查判斷主力商品與壽命週期，用同心圓（本業→周邊延伸→異業）規劃商品組合，再用「轉撥價」把總部與門店櫃的毛利同時鎖住——商品對了,你就贏一半;團隊對了,你全盤皆贏。
@@ -64,9 +64,9 @@ status: "reviewed"
 - 自製或外購的決策，用「我賣的是不是我做的」這句話快速自我定位，而非陷入樣樣自製或樣樣外購的極端。
 
 ## 相關條目
-- [總覽與方法論](README.md)
-- [Module 3：品牌四大共識與市場定位](Module-3-品牌四大共識與市場定位.md)
-- [Module 8：財務會計與獲利核心](Module-8-財務會計與獲利核心.md)
+- [[README|總覽與方法論]]
+- [[Module-3-品牌四大共識與市場定位|Module 3：品牌四大共識與市場定位]]
+- [[Module-8-財務會計與獲利核心|Module 8：財務會計與獲利核心]]
 - [[The Factory Is the Product - Manufacturing as the Moat]]
 - [[Barbell Pricing and the Unscalable Premium Offer]]
 

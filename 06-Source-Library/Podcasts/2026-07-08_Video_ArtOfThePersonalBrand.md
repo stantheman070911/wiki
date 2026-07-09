@@ -1,3 +1,12 @@
+---
+title: "Art Of The Personal Brand"
+lang: "en"
+source_type: "video"
+author: ""
+date_archived: "2026-07-08"
+status: "source"
+---
+
 # The Art of the Personal Brand — Extraction Notes & Entry Map
 
 *Source: video, "The Art of the Personal Brand," by a marketing/personal-brand creator (runs the "Cut/30" content training; "Product vs Brand" signature series; "hyper" newsletter; ~1M followers; contains a HubSpot-sponsored "Loop Marketing" segment). Raw transcript preserved alongside as `2026-07-08_Video_ArtOfThePersonalBrand_RawTranscript.md`.*
