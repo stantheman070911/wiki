@@ -8,12 +8,12 @@ A centralized knowledge vault for business strategy, social media strategy, tact
 
 ## Sections
 
-- [[01-Business-Strategy/README|01 — Business Strategy]] — business models, growth, ops, decision-making *(68 entries)*
+- [[01-Business-Strategy/README|01 — Business Strategy]] — business models, growth, ops, decision-making *(69 entries)*
 - [[02-Social-Media-Strategy/README|02 — Social Media Strategy]] — platform strategy, content strategy, growth tactics *(15 entries)*
 - [[03-Tactics-and-Playbooks/README|03 — Tactics and Playbooks]] — step-by-step, repeatable how-tos *(35 entries)*
-- [[04-Frameworks-and-Mental-Models/README|04 — Frameworks and Mental Models]] — reusable thinking tools and mental models *(44 entries)*
+- [[04-Frameworks-and-Mental-Models/README|04 — Frameworks and Mental Models]] — reusable thinking tools and mental models *(45 entries)*
 - [[05-Intelligence-and-Research/README|05 — Intelligence and Research]] — market/competitor intel, notable examples, research findings *(6 entries)*
-- [[06-Source-Library/README|06 — Source Library]] — raw source materials and extraction notes, organized by source *(34 items)*
+- [[06-Source-Library/README|06 — Source Library]] — raw source materials and extraction notes, organized by source *(38 items)*
 - [[07-Articles/README|07 — Articles]] — composed, outward-facing pieces synthesized from multiple entries *(0 articles)*
 - [[_Inbox/README|Inbox]] — unprocessed material awaiting triage
 - [[00-Templates/Entry-Template|Entry Template]] — starting point for a new entry
