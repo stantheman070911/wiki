@@ -241,8 +241,10 @@ function resolveMarkdownLink(rawTarget, fromRel) {
   return candidates.some((candidate) => fs.existsSync(path.join(root, candidate)));
 }
 
-// Templates and the README hold illustrative placeholder links; index them but don't check their links.
-const isTemplate = (relPath) => relPath.startsWith('00-Templates/') || relPath === 'README.md';
+// Templates, the README, and _meta docs hold illustrative or query-generated links;
+// index them (so links TO them resolve) but don't validate the links they contain.
+const isTemplate = (relPath) =>
+  relPath.startsWith('00-Templates/') || relPath.startsWith('_meta/') || relPath === 'README.md';
 
 for (const relPath of markdownFiles) {
   if (isTemplate(relPath)) continue;

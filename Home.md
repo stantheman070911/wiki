@@ -21,6 +21,7 @@ A centralized knowledge vault for business strategy, social media strategy, tact
 
 - **New entry** → duplicate `00-Templates/Entry-Template.md` (English) or `Entry-Template-ZH.md` (中文) into the right sub-topic folder
 - **Unsure where it goes** → drop it in `_Inbox/` first; see placement rules in [[README]]
+- **Process the inbox** → paste [[Process-Inbox]] into Claude (or use the `process-inbox` skill)
 - **Find a topic** → Quick Switcher (`Cmd+O`), global search (`Cmd+Shift+F`), or the tag pane
 - **Browse tags** → [[Tags]] — the controlled, faceted vocabulary (`topic/` `person/` `source/`)
 - **Browse by topic across languages** → [[Topic-Index]] — English + Chinese entries per topic
