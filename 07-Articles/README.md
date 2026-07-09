@@ -10,3 +10,4 @@ Belongs here: finished articles, essays, and publishable drafts that combine mul
 
 | Article | Source entries | Date added |
 |---|---|---|
+| [[Steal the Format, Not the Idea]] | content-strategy · copywriting · mental-models (8 entries) | 2026-07-10 |
