@@ -4,13 +4,13 @@ tags: [meta]
 
 # Tag Vocabulary
 
-Controlled, faceted tag vocabulary for THE WIKI — **154 tags** in use. Every entry tag must exist here and carry a facet prefix (`person/`, `source/`, `topic/`). Reuse an existing tag before coining a new one; new tags are added here first.
+Controlled, faceted tag vocabulary for THE WIKI — **157 tags** in use. Every entry tag must exist here and carry a facet prefix (`person/`, `source/`, `topic/`). Reuse an existing tag before coining a new one; new tags are added here first.
 
 The vault audit (`node tools/audit-vault.mjs`) **warns** on any tag missing its facet prefix or absent from this file, and on `topic/` tags used only once.
 
-## People (source authors) — 13
+## People (source authors) — 16
 
-`person/alex-hormozi` (83) `person/caleb-ralston` (3) `person/chen-tsung-hsien` (8) `person/chen-xiuping` (8) `person/elon-musk` (6) `person/gary-vaynerchuk` (2) `person/greg-lavecchia` (1) `person/naval-ravikant` (6) `person/ries-trout` (5) `person/robert-cialdini` (3) `person/sabri-suby` (1) `person/sharran-srivatsaa` (5) `person/will-barron` (1)
+`person/alex-hormozi` (83) `person/caleb-ralston` (3) `person/chen-tsung-hsien` (8) `person/chen-xiuping` (8) `person/elon-musk` (6) `person/gary-vaynerchuk` (2) `person/greg-lavecchia` (1) `person/jun-yuh` (2) `person/naval-ravikant` (6) `person/ries-trout` (5) `person/robert-cialdini` (3) `person/sabri-suby` (1) `person/sam-parr` (2) `person/sharran-srivatsaa` (5) `person/tuan-le` (1) `person/will-barron` (1)
 
 ## Sources (programs, podcasts, brands) — 5
 
