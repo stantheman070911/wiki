@@ -5,7 +5,7 @@ aliases:
   - "$100M 擴張路線圖 · 總覽與方法論"
   - "$100M 擴張路線圖"
   - "$100M 擴張路線圖（十階段系列）"
-tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stages-of-growth, topic/theory-of-constraints, topic/operations, person/alex-hormozi]
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/theory-of-constraints, topic/operations, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"

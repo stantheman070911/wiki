@@ -1,7 +1,7 @@
 ---
 title: "Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb"
 lang: "en"
-tags: [topic/theory-of-constraints, topic/diagnosis, topic/supply-and-demand, topic/prioritization, topic/sequencing, person/alex-hormozi]
+tags: [topic/theory-of-constraints, topic/decision-making, topic/supply-and-demand, topic/prioritization, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

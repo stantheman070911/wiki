@@ -1,7 +1,7 @@
 ---
 title: "Interest Media and the Zero-Follower Reach Model"
 lang: "en"
-tags: [topic/interest-graph, topic/distribution, topic/reach, topic/organic-first, topic/paid-amplification, topic/volume, person/gary-vaynerchuk]
+tags: [topic/marketing, topic/distribution, topic/reach, topic/volume, person/gary-vaynerchuk]
 source:
   type: "video"
   name: "The New Rules of Social Media (2026)"

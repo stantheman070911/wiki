@@ -1,7 +1,7 @@
 ---
 title: "The Creative Volume Engine - Ads Are an At-Bats Game"
 lang: "en"
-tags: [topic/paid-ads, topic/creative-volume, topic/at-bats, topic/cac, topic/testing, topic/media-buying, person/alex-hormozi]
+tags: [topic/paid-ads, topic/creative-volume, topic/cac, topic/marketing, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

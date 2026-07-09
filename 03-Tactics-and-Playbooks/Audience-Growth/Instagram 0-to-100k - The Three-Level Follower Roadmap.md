@@ -1,7 +1,7 @@
 ---
 title: "Instagram 0-to-100k - The Three-Level Follower Roadmap"
 lang: "en"
-tags: [topic/instagram, topic/short-form-video, topic/growth-roadmap, topic/profile-optimization, topic/filming-ops, source/personal-brand-launch]
+tags: [topic/instagram, topic/short-form-video, topic/scaling, source/personal-brand-launch]
 source:
   type: "video"
   name: "How to Grow an Instagram Account in 2026"

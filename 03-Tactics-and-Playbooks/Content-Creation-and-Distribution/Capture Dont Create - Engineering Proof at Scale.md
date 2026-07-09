@@ -1,7 +1,7 @@
 ---
 title: "Capture, Don't Create: Engineering Proof at Scale"
 lang: "en"
-tags: [topic/content-production, topic/proof, topic/personal-brand, topic/ai, person/alex-hormozi]
+tags: [topic/content-strategy, topic/proof, topic/personal-brand, topic/ai, person/alex-hormozi]
 source:
   type: "podcast"
   name: "Alex Hormozi — Building a Personal Brand in 2026"

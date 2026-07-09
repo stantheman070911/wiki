@@ -1,7 +1,7 @@
 ---
 title: "Activation Before Automation - Manual Onboarding to Fix Churn"
 lang: "en"
-tags: [topic/onboarding, topic/retention, topic/activation, topic/churn, topic/saas, topic/do-things-that-dont-scale, person/alex-hormozi]
+tags: [topic/onboarding, topic/retention, topic/churn, topic/business-model, topic/do-things-that-dont-scale, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

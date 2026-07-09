@@ -1,7 +1,7 @@
 ---
 title: "The First $100k - The Complete Six-Step Roadmap"
 lang: "en"
-tags: [topic/first-100k, topic/frugality, topic/time-management, topic/maker-manager, topic/learning, topic/skills, person/alex-hormozi]
+tags: [topic/first-100k, topic/frugality, topic/productivity, topic/learning, topic/skills, person/alex-hormozi]
 source:
   type: "video"
   name: "If I Wanted to Make My First $100K in 2026, I'd Do This (playlist: How to Make Your First $100,000)"

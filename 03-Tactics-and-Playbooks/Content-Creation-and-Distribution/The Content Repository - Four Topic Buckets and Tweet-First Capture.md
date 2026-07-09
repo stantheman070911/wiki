@@ -1,7 +1,7 @@
 ---
 title: "The Content Repository - Four Topic Buckets and Tweet-First Capture"
 lang: "en"
-tags: [topic/content-ideation, topic/repurposing, topic/capture-system, topic/topic-buckets, topic/niche-wide, person/alex-hormozi]
+tags: [topic/content-strategy, topic/repurposing, person/alex-hormozi]
 source:
   type: "video"
   name: "Building a brand, but it's on easy mode instead"

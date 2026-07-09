@@ -1,7 +1,7 @@
 ---
 title: "Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle"
 lang: "en"
-tags: [topic/cringe, topic/status, topic/shame, topic/guilt, topic/documenting, topic/self-belief, person/alex-hormozi]
+tags: [topic/mindset, topic/personal-brand, topic/self-belief, person/alex-hormozi]
 source:
   type: "video"
   name: "If You're Scared of Looking Cringe, Please Watch This (playlist: How to Make Your First $100,000)"

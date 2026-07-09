@@ -1,7 +1,7 @@
 ---
 title: "The Money Model - Sequencing Offers to Fund Growth"
 lang: "en"
-tags: [topic/money-model, topic/cash-flow, topic/cac, topic/offers, topic/continuity, person/alex-hormozi]
+tags: [topic/cash-flow, topic/cac, topic/offers, topic/continuity, person/alex-hormozi]
 source:
   type: "book"
   name: "$100M Money Models"

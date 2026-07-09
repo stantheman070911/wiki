@@ -1,7 +1,7 @@
 ---
 title: "Finite vs Infinite Games - Winning by Emptying the Tank"
 lang: "en"
-tags: [topic/infinite-game, topic/winning, topic/leading-metrics, topic/persistence, topic/mindset, person/alex-hormozi]
+tags: [topic/mindset, person/alex-hormozi]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"

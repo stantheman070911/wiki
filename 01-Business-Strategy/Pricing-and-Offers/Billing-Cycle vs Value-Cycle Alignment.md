@@ -1,7 +1,7 @@
 ---
 title: "Billing-Cycle vs Value-Cycle Alignment"
 lang: "en"
-tags: [topic/pricing, topic/billing, topic/retention, topic/memberships, topic/cash-flow, person/alex-hormozi]
+tags: [topic/pricing, topic/retention, topic/memberships, topic/cash-flow, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

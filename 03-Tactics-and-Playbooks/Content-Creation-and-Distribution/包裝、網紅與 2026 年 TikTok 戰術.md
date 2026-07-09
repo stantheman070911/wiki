@@ -1,7 +1,7 @@
 ---
 title: "包裝、網紅與 2026 年 TikTok 戰術"
 lang: "zh"
-tags: [topic/packaging, topic/influencer-marketing, topic/tiktok, topic/pattern-interrupt, topic/live-streaming]
+tags: [topic/brand, topic/influencer-marketing, topic/tiktok, topic/hooks, topic/short-form-video]
 source:
   type: "podcast"
   name: "Anatomy of a Dream — 創辦人與行銷實戰彙整（Charlotte Jarden、Grace Andrews、Natalie Barbou、Kent Yashimura）"

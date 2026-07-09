@@ -1,7 +1,7 @@
 ---
 title: "用數學做決策：損益表、PDCA與預測降低不確定性"
 lang: "zh"
-tags: [topic/decision-making, topic/pnl, topic/pdca, topic/forecasting, topic/roi, source/kim-startup-qa]
+tags: [topic/decision-making, topic/unit-economics, source/kim-startup-qa]
 source:
   type: "conversation"
   name: "創業解惑社 Q&A 整理（共用表單副本，344 則問答）"

@@ -1,7 +1,7 @@
 ---
 title: "The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One"
 lang: "en"
-tags: [topic/focus, topic/diversification, topic/founder-attention, topic/opportunity-cost, person/alex-hormozi]
+tags: [topic/focus, topic/diversification, topic/opportunity-cost, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi — Cash Cow Business Breakdowns & Service/E-commerce/HVAC Scaling AMAs (compilation)"

@@ -1,7 +1,7 @@
 ---
 title: "Skill Stacking and the Education-ROI Playbook"
 lang: "en"
-tags: [topic/skills, topic/education, topic/ignorance-debt, topic/learning, topic/self-investment, person/alex-hormozi]
+tags: [topic/skills, topic/education, topic/learning, person/alex-hormozi]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"

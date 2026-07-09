@@ -1,7 +1,7 @@
 ---
 title: "IP變現主流程與公域內容規劃循環"
 lang: "zh"
-tags: [topic/ip-monetization, topic/persona, topic/channel-matrix, topic/content-loop, topic/public-private-domain]
+tags: [topic/monetization, topic/persona, topic/channel-strategy, topic/content-strategy, topic/private-domain]
 source:
   type: "presentation"
   name: "IP 變現系統｜流程圖整理"

@@ -1,7 +1,7 @@
 ---
 title: "Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle"
 lang: "en"
-tags: [topic/persuasion, topic/influence, topic/heuristics, topic/contrast-principle, topic/decision-shortcuts, person/robert-cialdini]
+tags: [topic/persuasion, topic/influence, person/robert-cialdini]
 source:
   type: "book"
   name: "Influence: The Psychology of Persuasion"

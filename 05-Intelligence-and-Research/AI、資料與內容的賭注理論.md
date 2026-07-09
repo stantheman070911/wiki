@@ -1,7 +1,7 @@
 ---
 title: "AI、資料與內容的賭注理論"
 lang: "zh"
-tags: [topic/ai, topic/data-moat, topic/content-strategy, topic/competitive-advantage, person/alex-hormozi]
+tags: [topic/ai, topic/moat, topic/content-strategy, person/alex-hormozi]
 source:
   type: "podcast"
   name: "Jack Neil Podcast — 來賓 Alex Hormozi"

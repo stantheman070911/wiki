@@ -1,7 +1,7 @@
 ---
 title: "Build Evidence, Not Confidence"
 lang: "en"
-tags: [topic/confidence, topic/evidence, topic/proof, topic/self-belief, topic/reps, person/alex-hormozi]
+tags: [topic/mindset, topic/proof, topic/self-belief, topic/reps, person/alex-hormozi]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"

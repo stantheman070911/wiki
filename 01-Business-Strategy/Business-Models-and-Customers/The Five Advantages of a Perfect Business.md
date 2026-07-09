@@ -1,7 +1,7 @@
 ---
 title: "The Five Advantages of a Perfect Business"
 lang: "en"
-tags: [topic/business-selection, topic/retention, topic/gross-margins, topic/market-growth, topic/moat, topic/opportunity, person/alex-hormozi]
+tags: [topic/business-model, topic/retention, topic/unit-economics, topic/scaling, topic/moat, person/alex-hormozi]
 source:
   type: "video"
   name: "How to Build The Perfect Business (Step-by-Step) (playlist: How to Make Your First $100,000)"

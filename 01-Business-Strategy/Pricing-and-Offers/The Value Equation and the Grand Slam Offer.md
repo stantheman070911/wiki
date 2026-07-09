@@ -1,7 +1,7 @@
 ---
 title: "The Value Equation and the Grand Slam Offer"
 lang: "en"
-tags: [topic/offers, topic/value-equation, topic/pricing, topic/guarantees, person/alex-hormozi]
+tags: [topic/offers, topic/value-equation, topic/pricing, person/alex-hormozi]
 source:
   type: "book"
   name: "$100M Offers"

@@ -1,7 +1,7 @@
 ---
 title: "The Risk Continuum: Building an AI-Resistant Personal Brand"
 lang: "en"
-tags: [topic/ai, topic/personal-brand, topic/credibility, topic/risk-continuum, person/alex-hormozi]
+tags: [topic/ai, topic/personal-brand, topic/brand, topic/risk, person/alex-hormozi]
 source:
   type: "podcast"
   name: "Alex Hormozi — Building a Personal Brand in 2026"

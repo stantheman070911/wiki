@@ -1,7 +1,7 @@
 ---
 title: "Barbell Pricing and the Unscalable Premium Offer"
 lang: "en"
-tags: [topic/pricing, topic/offers, topic/value-equation, topic/high-ticket, topic/anchoring, topic/supply-and-demand, person/alex-hormozi]
+tags: [topic/pricing, topic/offers, topic/value-equation, topic/supply-and-demand, person/alex-hormozi]
 source:
   type: "video"
   name: "If I Started A Business in 2026, I'd Do This (playlist: How to Make Your First $100,000)"

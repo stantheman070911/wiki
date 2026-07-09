@@ -1,7 +1,7 @@
 ---
 title: "Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital"
 lang: "en"
-tags: [topic/scaling, topic/brick-and-mortar, topic/franchising, topic/licensing, topic/capital, topic/nail-it-then-scale-it, person/alex-hormozi]
+tags: [topic/scaling, topic/franchise, topic/licensing, topic/capital, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

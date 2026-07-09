@@ -1,7 +1,7 @@
 ---
 title: "Positioning Yourself - Find a Horse to Ride"
 lang: "en"
-tags: [topic/personal-positioning, topic/career, topic/specialist, topic/six-questions, topic/outside-in, person/ries-trout]
+tags: [topic/positioning, topic/career, person/ries-trout]
 source:
   type: "book"
   name: "Positioning: The Battle for Your Mind"

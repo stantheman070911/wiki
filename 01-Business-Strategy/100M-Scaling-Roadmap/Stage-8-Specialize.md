@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 8：Specialize 專精"
 lang: "zh"
-tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-8, topic/specialists, topic/brand-building, person/alex-hormozi]
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/hiring, topic/brand, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"

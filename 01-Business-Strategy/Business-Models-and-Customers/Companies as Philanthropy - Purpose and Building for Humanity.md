@@ -1,7 +1,7 @@
 ---
 title: "Companies as Philanthropy - Purpose and Building for Humanity"
 lang: "en"
-tags: [topic/purpose, topic/mission, topic/philanthropy, topic/value-creation, topic/impact, person/elon-musk]
+tags: [topic/mission, topic/value-creation, person/elon-musk]
 source:
   type: "book"
   name: "The Book of Elon: A Guide to Purpose and Success"

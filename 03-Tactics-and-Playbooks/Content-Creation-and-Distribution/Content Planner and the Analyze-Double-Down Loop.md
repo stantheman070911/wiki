@@ -1,7 +1,7 @@
 ---
 title: "Content Planner and the Analyze-Double-Down Loop"
 lang: "en"
-tags: [topic/content-planning, topic/repurposing, topic/hooks, topic/iteration]
+tags: [topic/content-strategy, topic/repurposing, topic/hooks]
 source:
   type: "video"
   name: "Building a Personal Brand in 2026"

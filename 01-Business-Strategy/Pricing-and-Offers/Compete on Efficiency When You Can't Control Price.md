@@ -1,7 +1,7 @@
 ---
 title: "Compete on Efficiency When You Can't Control Price"
 lang: "en"
-tags: [topic/margins, topic/efficiency, topic/cogs, topic/unit-economics, topic/operations, topic/fixed-price, person/alex-hormozi]
+tags: [topic/margins, topic/efficiency, topic/unit-economics, topic/operations, topic/pricing, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

@@ -1,7 +1,7 @@
 ---
 title: "Levels of a Personal Brand and the Five Archetypes"
 lang: "en"
-tags: [topic/personal-brand, topic/levels, topic/archetypes, topic/creator, topic/positioning, topic/content-strategy]
+tags: [topic/personal-brand, topic/positioning, topic/content-strategy]
 source:
   type: "video"
   name: "The Art of the Personal Brand"

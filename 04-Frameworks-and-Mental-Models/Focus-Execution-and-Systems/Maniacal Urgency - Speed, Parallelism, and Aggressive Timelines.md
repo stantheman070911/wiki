@@ -1,7 +1,7 @@
 ---
 title: "Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines"
 lang: "en"
-tags: [topic/urgency, topic/speed, topic/execution, topic/timelines, topic/parallelization, person/elon-musk]
+tags: [topic/execution, person/elon-musk]
 source:
   type: "book"
   name: "The Book of Elon: A Guide to Purpose and Success"

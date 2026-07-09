@@ -1,7 +1,7 @@
 ---
 title: "The Factory Is the Product - Manufacturing as the Moat"
 lang: "en"
-tags: [topic/manufacturing, topic/operations, topic/moat, topic/theory-of-constraints, topic/scale, person/elon-musk]
+tags: [topic/operations, topic/moat, topic/theory-of-constraints, topic/scaling, person/elon-musk]
 source:
   type: "book"
   name: "The Book of Elon: A Guide to Purpose and Success"

@@ -1,7 +1,7 @@
 ---
 title: "Outbound and Inbound Are Separate Teams - The Sales Career Ladder"
 lang: "en"
-tags: [topic/sales-team, topic/outbound, topic/inbound, topic/compensation, topic/org-design, person/alex-hormozi]
+tags: [topic/hiring, topic/sales, topic/compensation, topic/org-design, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi — Cash Cow Business Breakdowns & Service/E-commerce/HVAC Scaling AMAs (compilation)"

@@ -1,7 +1,7 @@
 ---
 title: "The Direct-Response Doom Loop and the One-Brand Bet"
 lang: "en"
-tags: [topic/ecommerce, topic/direct-response, topic/portfolio-strategy, topic/brand, topic/media-arbitrage, person/alex-hormozi]
+tags: [topic/business-model, topic/marketing, topic/brand, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi — Cash Cow Business Breakdowns & Service/E-commerce/HVAC Scaling AMAs (compilation)"

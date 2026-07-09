@@ -1,7 +1,7 @@
 ---
 title: "Delayed Gratification - Patience and Inputs vs Outputs"
 lang: "en"
-tags: [topic/delayed-gratification, topic/patience, topic/discipline, topic/inputs-vs-outputs, topic/mindset, person/alex-hormozi]
+tags: [topic/mindset, topic/patience, topic/inputs-vs-outputs, person/alex-hormozi]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"

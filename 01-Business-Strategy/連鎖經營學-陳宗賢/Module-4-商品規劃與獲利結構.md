@@ -1,7 +1,7 @@
 ---
 title: "連鎖經營學 · Module 4：商品規劃與獲利結構"
 lang: "zh"
-tags: [topic/chain-store, topic/product-mix, topic/transfer-pricing, topic/bcg-matrix, topic/ansoff-matrix, topic/gross-margin, person/chen-tsung-hsien]
+tags: [topic/chain-store, topic/product, topic/unit-economics, topic/scaling, person/chen-tsung-hsien]
 source:
   type: "presentation"
   name: "陳宗賢的連鎖經營學（4-1〜4-5）"

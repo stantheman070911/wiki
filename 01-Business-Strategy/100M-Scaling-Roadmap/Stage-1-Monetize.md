@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 1：Monetize 變現"
 lang: "zh"
-tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-1, topic/first-sale, topic/v1-product, topic/pricing, person/alex-hormozi]
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/pricing, topic/product, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"

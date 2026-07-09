@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 5：Productize 產品化"
 lang: "zh"
-tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-5, topic/ltv, topic/second-product, topic/upsell, person/alex-hormozi]
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/ltv, topic/offers, topic/upsell, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"

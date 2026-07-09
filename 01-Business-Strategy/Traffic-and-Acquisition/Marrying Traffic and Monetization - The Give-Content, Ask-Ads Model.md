@@ -1,7 +1,7 @@
 ---
 title: "Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model"
 lang: "en"
-tags: [topic/organic-marketing, topic/monetization, topic/traffic, topic/paid-ads, topic/give-ask-ratio, person/alex-hormozi]
+tags: [topic/marketing, topic/monetization, topic/growth, topic/paid-ads, topic/offers, person/alex-hormozi]
 source:
   type: "video"
   name: "Building a brand, but it's on easy mode instead"

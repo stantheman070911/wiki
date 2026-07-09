@@ -1,7 +1,7 @@
 ---
 title: "選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity"
 lang: "zh"
-tags: [topic/optionality, topic/exit-strategy, topic/valuation, topic/equity, topic/phantom-stock, topic/esop, person/sharran-srivatsaa]
+tags: [topic/optionality, topic/capital, topic/equity, person/sharran-srivatsaa]
 source:
   type: "podcast"
   name: "The Money Making Expert（Anatomy of a Dream 系列）— How to 10x Your Business by Doing LESS"

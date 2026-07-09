@@ -1,7 +1,7 @@
 ---
 title: "The Seven Factors of a Short - Topic to Editing"
 lang: "en"
-tags: [topic/scriptwriting, topic/short-form-video, topic/hooks, topic/script-angles, topic/cta, topic/video-formats, source/personal-brand-launch]
+tags: [topic/scriptwriting, topic/short-form-video, topic/hooks, topic/cta, source/personal-brand-launch]
 source:
   type: "video"
   name: "How to Grow an Instagram Account in 2026"

@@ -1,7 +1,7 @@
 ---
 title: "ICP Qualification Through Segmented Churn"
 lang: "en"
-tags: [topic/icp, topic/churn, topic/retention, topic/segmentation, topic/ltv, topic/messaging, person/alex-hormozi]
+tags: [topic/retention, topic/churn, topic/ltv, topic/messaging, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

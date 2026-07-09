@@ -1,7 +1,7 @@
 ---
 title: "The Waterfall Distribution Method - One Pillar, a Week of Content"
 lang: "en"
-tags: [topic/content-distribution, topic/repurposing, topic/pillar-content, topic/multi-platform, topic/content-calendar, person/caleb-ralston]
+tags: [topic/distribution, topic/repurposing, topic/content-strategy, person/caleb-ralston]
 source:
   type: "pdf"
   name: "How to Build Your Brand Workbook"

@@ -1,7 +1,7 @@
 ---
 title: "Don't Follow Competitors Down - The $50M Price-Cut Lesson"
 lang: "en"
-tags: [topic/competition, topic/pricing, topic/market-leader, topic/focus-on-customer, topic/moat, person/alex-hormozi]
+tags: [topic/competition, topic/pricing, topic/market-leader, topic/positioning, topic/moat, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

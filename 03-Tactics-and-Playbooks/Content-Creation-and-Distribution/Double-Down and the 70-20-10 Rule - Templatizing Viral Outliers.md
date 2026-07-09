@@ -1,7 +1,7 @@
 ---
 title: "Double-Down and the 70/20/10 Rule - Templatizing Viral Outliers"
 lang: "en"
-tags: [topic/outliers, topic/double-down, topic/content-mix, topic/5x-rule, topic/templatizing, source/personal-brand-launch]
+tags: [topic/content-strategy, source/personal-brand-launch]
 source:
   type: "video"
   name: "How to Grow an Instagram Account in 2026"

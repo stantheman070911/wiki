@@ -1,7 +1,7 @@
 ---
 title: "Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing"
 lang: "en"
-tags: [topic/personal-brand, topic/content-formats, topic/view-troubleshooting, topic/timing, topic/consistency, topic/feedback-loop]
+tags: [topic/personal-brand, topic/content-formats, topic/short-form-video, topic/consistency, topic/reps]
 source:
   type: "video"
   name: "The Art of the Personal Brand"

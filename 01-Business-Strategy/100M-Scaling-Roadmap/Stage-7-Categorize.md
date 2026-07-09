@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 7：Categorize 分工"
 lang: "zh"
-tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-7, topic/departments, topic/triage, topic/organization, person/alex-hormozi]
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/org-design, topic/decision-making, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"

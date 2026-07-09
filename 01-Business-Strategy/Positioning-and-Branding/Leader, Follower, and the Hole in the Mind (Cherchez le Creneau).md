@@ -1,7 +1,7 @@
 ---
 title: "Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)"
 lang: "en"
-tags: [topic/positioning, topic/competition, topic/market-leader, topic/niche, topic/repositioning, person/ries-trout]
+tags: [topic/positioning, topic/competition, topic/market-leader, topic/niche, person/ries-trout]
 source:
   type: "book"
   name: "Positioning: The Battle for Your Mind"

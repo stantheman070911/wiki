@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 2：Advertise 廣告"
 lang: "zh"
-tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-2, topic/advertising, topic/sales-script, topic/rule-of-100, person/alex-hormozi]
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/advertising, topic/sales, topic/rule-of-100, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"

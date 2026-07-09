@@ -1,7 +1,7 @@
 ---
 title: "Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue"
 lang: "en"
-tags: [topic/identity, topic/systems-over-willpower, topic/sales-psychology, topic/service-business, topic/decision-fatigue, topic/mindset, person/will-barron]
+tags: [topic/identity, topic/systems, topic/persuasion, topic/service-business, topic/decision-making, topic/mindset, person/will-barron]
 source:
   type: "video"
   name: "The Psychology of Building a Successful Service Business"

@@ -1,7 +1,7 @@
 ---
 title: "Fear, Regret, and Asymmetric Bets"
 lang: "en"
-tags: [topic/fear, topic/regret, topic/risk, topic/decision-making, topic/asymmetric-bets, topic/mindset, person/alex-hormozi]
+tags: [topic/mindset, topic/risk, topic/decision-making, person/alex-hormozi]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"

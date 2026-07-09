@@ -1,7 +1,7 @@
 ---
 title: "The Framework for Making Frameworks - Distill by Commonality"
 lang: "en"
-tags: [topic/frameworks, topic/systematization, topic/pattern-recognition, topic/distillation, person/alex-hormozi]
+tags: [topic/mental-models, person/alex-hormozi]
 source:
   type: "video"
   name: "Building a brand, but it's on easy mode instead"

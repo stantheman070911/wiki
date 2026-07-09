@@ -1,7 +1,7 @@
 ---
 title: "The Swamp - The Messy Middle and the 40-for-2 Management Trade"
 lang: "en"
-tags: [topic/scaling, topic/hiring, topic/delegation, topic/founder-time, topic/leverage, topic/decision-making, person/alex-hormozi]
+tags: [topic/scaling, topic/hiring, topic/delegation, topic/focus, topic/leverage, topic/decision-making, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

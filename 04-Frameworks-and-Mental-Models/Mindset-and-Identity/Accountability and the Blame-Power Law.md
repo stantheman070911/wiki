@@ -1,7 +1,7 @@
 ---
 title: "Accountability and the Blame-Power Law"
 lang: "en"
-tags: [topic/accountability, topic/mindset, topic/ownership, topic/agency, person/alex-hormozi]
+tags: [topic/mindset, topic/business-model, person/alex-hormozi]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"

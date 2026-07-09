@@ -1,7 +1,7 @@
 ---
 title: "Reciprocation and Commitment - Persuasion's Two Deepest Levers"
 lang: "en"
-tags: [topic/persuasion, topic/reciprocity, topic/commitment, topic/consistency, topic/foot-in-the-door, person/robert-cialdini]
+tags: [topic/persuasion, topic/commitment, topic/consistency, person/robert-cialdini]
 source:
   type: "book"
   name: "Influence: The Psychology of Persuasion"

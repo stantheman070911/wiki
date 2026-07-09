@@ -1,7 +1,7 @@
 ---
 title: "First-Principles Thinking - Reason from Physics, Not Analogy"
 lang: "en"
-tags: [topic/first-principles, topic/reasoning, topic/physics-thinking, topic/truth, topic/mental-models, person/elon-musk]
+tags: [topic/decision-making, topic/mental-models, person/elon-musk]
 source:
   type: "book"
   name: "The Book of Elon: A Guide to Purpose and Success"

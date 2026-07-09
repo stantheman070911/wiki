@@ -1,7 +1,7 @@
 ---
 title: "連鎖經營學 · Module 8：財務會計與獲利核心"
 lang: "zh"
-tags: [topic/chain-store, topic/accounting, topic/budgeting, topic/cash-flow, topic/franchise-finance, person/chen-tsung-hsien]
+tags: [topic/chain-store, topic/unit-economics, topic/cash-flow, topic/franchise, person/chen-tsung-hsien]
 source:
   type: "presentation"
   name: "陳宗賢的連鎖經營學（8-1〜8-5）"

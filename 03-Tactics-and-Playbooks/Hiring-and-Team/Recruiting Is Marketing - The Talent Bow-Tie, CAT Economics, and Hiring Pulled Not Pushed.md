@@ -1,7 +1,7 @@
 ---
 title: "Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed"
 lang: "en"
-tags: [topic/recruiting, topic/hiring, topic/talent-acquisition, topic/cat, topic/referrals, topic/funnels, person/alex-hormozi]
+tags: [topic/recruiting, topic/hiring, topic/referrals, topic/funnel, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

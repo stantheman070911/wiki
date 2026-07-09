@@ -1,7 +1,7 @@
 ---
 title: "Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative"
 lang: "en"
-tags: [topic/decision-making, topic/narrative-vs-metrics, topic/ai-disruption, topic/prioritization, person/alex-hormozi]
+tags: [topic/decision-making, topic/ai, topic/prioritization, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi — Cash Cow Business Breakdowns & Service/E-commerce/HVAC Scaling AMAs (compilation)"

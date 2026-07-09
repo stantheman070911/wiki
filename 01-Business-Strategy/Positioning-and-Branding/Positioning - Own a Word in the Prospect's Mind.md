@@ -1,7 +1,7 @@
 ---
 title: "Positioning - Own a Word in the Prospect's Mind"
 lang: "en"
-tags: [topic/positioning, topic/marketing, topic/brand, topic/perception, topic/differentiation, person/ries-trout]
+tags: [topic/positioning, topic/marketing, topic/brand, topic/differentiation, person/ries-trout]
 source:
   type: "book"
   name: "Positioning: The Battle for Your Mind"

@@ -1,7 +1,7 @@
 ---
 title: "Using AI in Your Business - Train Like an Employee and the Department Playbook"
 lang: "en"
-tags: [topic/ai, topic/automation, topic/agents, topic/training, topic/cloud-to-dirt, topic/operations, person/alex-hormozi]
+tags: [topic/ai, topic/automation, topic/hiring, topic/operations, person/alex-hormozi]
 source:
   type: "video"
   name: "How to Use AI in Your Business in 2026 (playlist: How to Make Your First $100,000)"

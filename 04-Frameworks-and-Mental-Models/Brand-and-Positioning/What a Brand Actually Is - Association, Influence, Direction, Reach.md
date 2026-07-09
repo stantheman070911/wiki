@@ -1,7 +1,7 @@
 ---
 title: "What a Brand Actually Is - Association, Influence, Direction, Reach"
 lang: "en"
-tags: [topic/brand, topic/associations, topic/influence, topic/reach, topic/cancellation, person/alex-hormozi]
+tags: [topic/brand, topic/influence, topic/reach, person/alex-hormozi]
 source:
   type: "video"
   name: "Building a brand, but it's on easy mode instead"

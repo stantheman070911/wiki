@@ -1,7 +1,7 @@
 ---
 title: "完美主義是恐懼的偽裝：用行動與deadline打破癱瘓"
 lang: "zh"
-tags: [topic/perfectionism, topic/action-bias, topic/deadline, topic/mindset, source/kim-startup-qa]
+tags: [topic/mindset, topic/execution, source/kim-startup-qa]
 source:
   type: "conversation"
   name: "創業解惑社 Q&A 整理（共用表單副本，344 則問答）"

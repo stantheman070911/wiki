@@ -1,7 +1,7 @@
 ---
 title: "Focus as Elimination - The Deep-Work Playbook"
 lang: "en"
-tags: [topic/focus, topic/deep-work, topic/elimination, topic/productivity, topic/work-ethic, person/alex-hormozi]
+tags: [topic/focus, topic/productivity, topic/mindset, person/alex-hormozi]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"

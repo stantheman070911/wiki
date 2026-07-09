@@ -1,7 +1,7 @@
 ---
 title: "The 22 Immutable Laws of Marketing"
 lang: "en"
-tags: [topic/marketing-laws, topic/positioning, topic/brand, topic/category-design, person/ries-trout]
+tags: [topic/positioning, topic/brand, person/ries-trout]
 source:
   type: "book"
   name: "The 22 Immutable Laws of Marketing"

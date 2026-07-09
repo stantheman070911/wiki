@@ -1,7 +1,7 @@
 ---
 title: "Personal-Brand Positioning and the No-Competition Model"
 lang: "en"
-tags: [topic/personal-brand, topic/positioning, topic/differentiation, topic/content-market-fit, topic/niche, topic/content-tam]
+tags: [topic/personal-brand, topic/positioning, topic/differentiation, topic/niche, topic/content-strategy]
 source:
   type: "video"
   name: "The Art of the Personal Brand"

@@ -1,7 +1,7 @@
 ---
 title: "Volume and Feedback - Sales as the Training Ground"
 lang: "en"
-tags: [topic/sales, topic/reps, topic/feedback-loops, topic/volume, topic/creative-volume, topic/habituation, topic/skill-acquisition, person/alex-hormozi]
+tags: [topic/sales, topic/reps, topic/volume, topic/creative-volume, topic/skill-acquisition, person/alex-hormozi]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"

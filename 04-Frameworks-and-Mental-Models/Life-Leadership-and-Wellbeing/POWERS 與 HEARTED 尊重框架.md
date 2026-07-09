@@ -1,7 +1,7 @@
 ---
 title: "POWERS 與 HEARTED 尊重框架"
 lang: "zh"
-tags: [topic/respect, topic/leadership, topic/management, topic/framework, person/alex-hormozi, source/modern-wisdom]
+tags: [topic/leadership, topic/management, topic/mental-models, person/alex-hormozi, source/modern-wisdom]
 source:
   type: "podcast"
   name: "Modern Wisdom — Chris Williamson × Alex Hormozi"

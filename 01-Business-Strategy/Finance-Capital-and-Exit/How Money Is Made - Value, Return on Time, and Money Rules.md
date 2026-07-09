@@ -1,7 +1,7 @@
 ---
 title: "How Money Is Made - Value, Return on Time, and Money Rules"
 lang: "en"
-tags: [topic/money, topic/value-creation, topic/return-on-time, topic/partnerships, topic/wealth, person/alex-hormozi]
+tags: [topic/money, topic/value-creation, topic/wealth, topic/partnerships, person/alex-hormozi]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"

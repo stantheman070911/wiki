@@ -1,7 +1,7 @@
 ---
 title: "The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance"
 lang: "en"
-tags: [topic/passion, topic/proficiency, topic/frustration-tolerance, topic/consistency, topic/reinforcement, person/alex-hormozi]
+tags: [topic/mindset, topic/consistency, person/alex-hormozi]
 source:
   type: "video"
   name: "If You're Ambitious but Inconsistent, Please Watch This (playlist: How to Make Your First $100,000)"

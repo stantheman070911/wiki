@@ -1,7 +1,7 @@
 ---
 title: "少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門"
 lang: "zh"
-tags: [topic/scaling, topic/simplicity, topic/theory-of-constraints, topic/funnel, topic/value-proposition, topic/growth-by-subtraction, person/sharran-srivatsaa]
+tags: [topic/scaling, topic/simplicity, topic/theory-of-constraints, topic/funnel, topic/positioning, person/sharran-srivatsaa]
 source:
   type: "podcast"
   name: "The Money Making Expert（Anatomy of a Dream 系列）— How to 10x Your Business by Doing LESS"

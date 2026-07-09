@@ -1,7 +1,7 @@
 ---
 title: "The Aesop Playbook - Ritual Economics, Diagnostic Selling, and Engineering the Second Sale"
 lang: "en"
-tags: [topic/premium-pricing, topic/positioning, topic/ritual-economics, topic/consultative-selling, topic/ltv, topic/packaging-as-marketing, topic/differentiation, person/sabri-suby]
+tags: [topic/pricing, topic/positioning, topic/brand, topic/persuasion, topic/ltv, topic/differentiation, person/sabri-suby]
 source:
   type: "video"
   name: "How Aesop Sells Soap For 30x More Than Everyone Else"

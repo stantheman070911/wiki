@@ -1,7 +1,7 @@
 ---
 title: "Centers of Influence - Selling Through Trusted Referrers"
 lang: "en"
-tags: [topic/centers-of-influence, topic/referrals, topic/affiliates, topic/enterprise, topic/channel-strategy, topic/trust, person/alex-hormozi]
+tags: [topic/sales, topic/referrals, topic/business-model, topic/enterprise, topic/channel-strategy, topic/trust, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

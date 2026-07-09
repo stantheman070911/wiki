@@ -1,7 +1,7 @@
 ---
 title: "Reframing Trauma and Labels - Logic, Evidence, Utility"
 lang: "en"
-tags: [topic/mindset, topic/identity, topic/behavior, topic/reframing, topic/decision-making, person/alex-hormozi]
+tags: [topic/mindset, topic/identity, topic/decision-making, person/alex-hormozi]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"

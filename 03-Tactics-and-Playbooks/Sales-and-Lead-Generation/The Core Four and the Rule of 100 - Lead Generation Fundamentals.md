@@ -1,7 +1,7 @@
 ---
 title: "The Core Four and the Rule of 100 - Lead Generation Fundamentals"
 lang: "en"
-tags: [topic/lead-generation, topic/lead-magnet, topic/core-four, topic/rule-of-100, person/alex-hormozi]
+tags: [topic/sales, topic/rule-of-100, person/alex-hormozi]
 source:
   type: "book"
   name: "$100M Leads"

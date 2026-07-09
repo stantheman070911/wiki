@@ -1,7 +1,7 @@
 ---
 title: "連鎖經營學 · Module 6：物流管理與供應鏈周轉"
 lang: "zh"
-tags: [topic/chain-store, topic/logistics, topic/supply-chain, topic/inventory-turnover, topic/jit, topic/short-chain, person/chen-tsung-hsien]
+tags: [topic/chain-store, topic/supply-chain, person/chen-tsung-hsien]
 source:
   type: "presentation"
   name: "陳宗賢的連鎖經營學（6-1〜6-4）"

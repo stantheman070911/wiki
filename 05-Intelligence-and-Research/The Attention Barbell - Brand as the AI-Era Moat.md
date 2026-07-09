@@ -1,7 +1,7 @@
 ---
 title: "The Attention Barbell - Brand as the AI-Era Moat"
 lang: "en"
-tags: [topic/ai, topic/brand-moat, topic/barbell-strategy, topic/jab-right-hook, topic/human-touch, topic/substack, person/gary-vaynerchuk]
+tags: [topic/ai, topic/brand, topic/barbell-strategy, topic/content-strategy, topic/do-things-that-dont-scale, topic/email-marketing, person/gary-vaynerchuk]
 source:
   type: "video"
   name: "The New Rules of Social Media (2026)"

@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 4：Prioritize 取捨"
 lang: "zh"
-tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-4, topic/niche, topic/saying-no, topic/management, person/alex-hormozi]
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/niche, topic/focus, topic/management, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"

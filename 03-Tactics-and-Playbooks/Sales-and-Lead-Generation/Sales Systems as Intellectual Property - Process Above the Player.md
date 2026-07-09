@@ -1,7 +1,7 @@
 ---
 title: "Sales Systems as Intellectual Property - Process Above the Player"
 lang: "en"
-tags: [topic/sales, topic/sales-ops, topic/scripts, topic/culture, topic/systems, topic/ip, topic/consistency, person/alex-hormozi]
+tags: [topic/sales, topic/culture, topic/systems, topic/ip, topic/consistency, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

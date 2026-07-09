@@ -1,7 +1,7 @@
 ---
 title: "Happiness Is a Skill - Presence, Peace, and Self-Care"
 lang: "en"
-tags: [topic/happiness, topic/peace, topic/presence, topic/meditation, topic/health, topic/habits, person/naval-ravikant]
+tags: [topic/happiness, topic/mindset, person/naval-ravikant]
 source:
   type: "book"
   name: "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness"

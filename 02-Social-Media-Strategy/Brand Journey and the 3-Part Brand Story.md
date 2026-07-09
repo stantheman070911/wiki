@@ -1,7 +1,7 @@
 ---
 title: "Brand Journey and the 3-Part Brand Story"
 lang: "en"
-tags: [topic/personal-brand, topic/brand-story, topic/positioning, topic/narrative, topic/reverse-engineering, person/caleb-ralston]
+tags: [topic/personal-brand, topic/brand, topic/positioning, topic/narrative, person/caleb-ralston]
 source:
   type: "pdf"
   name: "How to Build Your Brand Workbook"

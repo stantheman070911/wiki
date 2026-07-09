@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 9：Capitalize 下注"
 lang: "zh"
-tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-9, topic/m-and-a, topic/big-bet, topic/capital, person/alex-hormozi]
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/m-and-a, topic/decision-making, topic/capital, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"

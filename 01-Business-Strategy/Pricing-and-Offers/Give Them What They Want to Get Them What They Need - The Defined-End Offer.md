@@ -1,7 +1,7 @@
 ---
 title: "Give Them What They Want to Get Them What They Need - The Defined-End Offer"
 lang: "en"
-tags: [topic/offers, topic/front-end-offer, topic/continuity, topic/sales-motion, topic/upsell, person/alex-hormozi]
+tags: [topic/offers, topic/front-end-offer, topic/continuity, topic/sales, topic/upsell, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

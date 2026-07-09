@@ -1,7 +1,7 @@
 ---
 title: "Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts"
 lang: "en"
-tags: [topic/persuasion, topic/social-proof, topic/liking, topic/authority, topic/scarcity, topic/reactance, person/robert-cialdini]
+tags: [topic/persuasion, person/robert-cialdini]
 source:
   type: "book"
   name: "Influence: The Psychology of Persuasion"

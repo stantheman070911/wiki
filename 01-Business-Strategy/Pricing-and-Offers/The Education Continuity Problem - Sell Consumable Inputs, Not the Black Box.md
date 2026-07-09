@@ -1,7 +1,7 @@
 ---
 title: "The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box"
 lang: "en"
-tags: [topic/education, topic/memberships, topic/continuity, topic/recurring-revenue, topic/offers, topic/network-effects, person/alex-hormozi]
+tags: [topic/education, topic/memberships, topic/continuity, topic/cash-flow, topic/offers, topic/moat, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

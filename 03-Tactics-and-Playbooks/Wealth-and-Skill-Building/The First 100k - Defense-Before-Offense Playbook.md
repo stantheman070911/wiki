@@ -1,7 +1,7 @@
 ---
 title: "The First 100k - Defense-Before-Offense Playbook"
 lang: "en"
-tags: [topic/saving, topic/first-100k, topic/frugality, topic/runway, topic/side-hustle, person/alex-hormozi]
+tags: [topic/cash-flow, topic/first-100k, topic/frugality, topic/business-model, person/alex-hormozi]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"

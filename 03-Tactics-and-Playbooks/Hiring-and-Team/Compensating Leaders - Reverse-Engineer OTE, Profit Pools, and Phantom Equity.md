@@ -1,7 +1,7 @@
 ---
 title: "Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity"
 lang: "en"
-tags: [topic/compensation, topic/incentives, topic/profit-share, topic/phantom-equity, topic/ote, topic/leadership, person/alex-hormozi]
+tags: [topic/compensation, topic/incentives, topic/equity, topic/leadership, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

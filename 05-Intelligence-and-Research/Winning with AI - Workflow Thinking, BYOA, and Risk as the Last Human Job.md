@@ -1,7 +1,7 @@
 ---
 title: "Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job"
 lang: "en"
-tags: [topic/ai, topic/workflow-thinking, topic/automation, topic/byoa, topic/risk, topic/barbell-strategy, person/alex-hormozi]
+tags: [topic/ai, topic/automation, topic/risk, topic/barbell-strategy, person/alex-hormozi]
 source:
   type: "video"
   name: "How to Win With AI in 2026 (playlist: How to Make Your First $100,000)"

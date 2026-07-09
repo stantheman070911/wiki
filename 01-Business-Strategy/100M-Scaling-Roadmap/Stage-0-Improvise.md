@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 0：Improvise 即興"
 lang: "zh"
-tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-0, topic/validation, topic/pre-revenue, person/alex-hormozi]
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/research, topic/business-model, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"

@@ -1,7 +1,7 @@
 ---
 title: "The Change Cost Filter - Stay, Scale, or Burn It Down"
 lang: "en"
-tags: [topic/change-management, topic/opportunity-cost, topic/focus, topic/decision-making, topic/shiny-object, person/alex-hormozi]
+tags: [topic/decision-making, topic/opportunity-cost, topic/focus, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

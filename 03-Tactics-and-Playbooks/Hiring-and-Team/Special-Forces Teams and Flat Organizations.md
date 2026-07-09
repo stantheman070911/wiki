@@ -1,7 +1,7 @@
 ---
 title: "Special-Forces Teams and Flat Organizations"
 lang: "en"
-tags: [topic/hiring, topic/teams, topic/org-design, topic/feedback, topic/culture, person/elon-musk]
+tags: [topic/hiring, topic/org-design, topic/leadership, topic/culture, person/elon-musk]
 source:
   type: "book"
   name: "The Book of Elon: A Guide to Purpose and Success"

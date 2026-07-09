@@ -1,7 +1,7 @@
 ---
 title: "Add a Zero - Market Choice as a Force Multiplier"
 lang: "en"
-tags: [topic/market-selection, topic/geographic-arbitrage, topic/pricing, topic/local-services, topic/positioning, person/alex-hormozi]
+tags: [topic/scaling, topic/pricing, topic/local-services, topic/positioning, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

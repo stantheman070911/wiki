@@ -1,7 +1,7 @@
 ---
 title: "The Virtuous Cycle of Service Businesses"
 lang: "en"
-tags: [topic/service-business, topic/pricing, topic/a-players, topic/reputation, topic/supply-constraint, topic/margins, person/alex-hormozi]
+tags: [topic/service-business, topic/pricing, topic/hiring, topic/reputation, topic/supply-constraint, topic/margins, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

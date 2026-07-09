@@ -1,7 +1,7 @@
 ---
 title: "The Seven Principles of Building an Iconic Brand"
 lang: "en"
-tags: [topic/personal-brand, topic/consistency, topic/obsession, topic/mastery, topic/simplicity, topic/mindset]
+tags: [topic/personal-brand, topic/consistency, topic/mindset, topic/simplicity]
 source:
   type: "video"
   name: "Building an Iconic Personal Brand (seven core principles)"

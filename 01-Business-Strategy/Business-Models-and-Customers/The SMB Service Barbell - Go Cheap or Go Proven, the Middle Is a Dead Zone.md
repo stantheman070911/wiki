@@ -1,7 +1,7 @@
 ---
 title: "The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone"
 lang: "en"
-tags: [topic/smb, topic/agency-model, topic/churn, topic/pricing, topic/barbell, topic/cac, person/alex-hormozi]
+tags: [topic/business-model, topic/agency-model, topic/churn, topic/pricing, topic/cac, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi — Cash Cow Business Breakdowns & Service/E-commerce/HVAC Scaling AMAs (compilation)"

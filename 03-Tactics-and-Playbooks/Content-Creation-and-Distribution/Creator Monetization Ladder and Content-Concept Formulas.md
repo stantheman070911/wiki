@@ -1,7 +1,7 @@
 ---
 title: "Creator Monetization Ladder and Content-Concept Formulas"
 lang: "en"
-tags: [topic/personal-brand, topic/monetization, topic/email-marketing, topic/brand-deals, topic/content-formats, topic/offers]
+tags: [topic/personal-brand, topic/monetization, topic/email-marketing, topic/content-formats, topic/offers]
 source:
   type: "video"
   name: "The Art of the Personal Brand"

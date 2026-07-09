@@ -1,7 +1,7 @@
 ---
 title: "Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint"
 lang: "en"
-tags: [topic/m-and-a, topic/private-equity, topic/buy-and-hold, topic/founders, topic/talent, topic/demand-generation, person/alex-hormozi]
+tags: [topic/m-and-a, topic/capital, topic/leadership, topic/hiring, topic/marketing, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

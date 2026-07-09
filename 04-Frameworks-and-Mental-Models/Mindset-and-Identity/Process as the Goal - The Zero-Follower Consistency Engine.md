@@ -1,7 +1,7 @@
 ---
 title: "Process as the Goal - The Zero-Follower Consistency Engine"
 lang: "en"
-tags: [topic/consistency, topic/process-goals, topic/inputs-vs-outputs, topic/patience, topic/personal-brand, person/alex-hormozi]
+tags: [topic/consistency, topic/mindset, topic/inputs-vs-outputs, topic/patience, topic/personal-brand, person/alex-hormozi]
 source:
   type: "video"
   name: "How to Grow an Audience if You Have 0 Followers"

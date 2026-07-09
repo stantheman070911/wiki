@@ -1,7 +1,7 @@
 ---
 title: "The Paid Front Door - Warm Cold Traffic Before the Core Offer"
 lang: "en"
-tags: [topic/paid-workshop, topic/front-end-offer, topic/cold-traffic, topic/qualification, topic/funnel, person/alex-hormozi]
+tags: [topic/offers, topic/front-end-offer, topic/sales, topic/funnel, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

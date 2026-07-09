@@ -1,7 +1,7 @@
 ---
 title: "連鎖經營學 · Module 3：品牌四大共識與市場定位"
 lang: "zh"
-tags: [topic/chain-store, topic/brand-consistency, topic/cis, topic/positioning, topic/headquarters, person/chen-tsung-hsien]
+tags: [topic/chain-store, topic/brand, topic/positioning, topic/operations, person/chen-tsung-hsien]
 source:
   type: "presentation"
   name: "陳宗賢的連鎖經營學（3-1〜3-4）"

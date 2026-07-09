@@ -1,7 +1,7 @@
 ---
 title: "The Line-Extension Trap - Why One Name Can't Own Two Things"
 lang: "en"
-tags: [topic/line-extension, topic/brand, topic/positioning, topic/share-of-mind, topic/naming, person/ries-trout]
+tags: [topic/positioning, topic/brand, person/ries-trout]
 source:
   type: "book"
   name: "Positioning: The Battle for Your Mind"

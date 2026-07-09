@@ -1,7 +1,7 @@
 ---
 title: "連鎖經營學 · Module 5：商圈開發與市場行銷"
 lang: "zh"
-tags: [topic/chain-store, topic/trade-area, topic/site-selection, topic/retail-marketing, topic/database-marketing, person/chen-tsung-hsien]
+tags: [topic/chain-store, topic/operations, topic/business-model, topic/growth, person/chen-tsung-hsien]
 source:
   type: "presentation"
   name: "陳宗賢的連鎖經營學（5-1〜5-7）"

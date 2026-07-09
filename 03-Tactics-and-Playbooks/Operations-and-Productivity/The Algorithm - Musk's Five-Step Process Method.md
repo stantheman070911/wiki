@@ -1,7 +1,7 @@
 ---
 title: "The Algorithm - Musk's Five-Step Process Method"
 lang: "en"
-tags: [topic/process-improvement, topic/engineering, topic/simplification, topic/deletion, topic/automation, person/elon-musk]
+tags: [topic/operations, topic/simplification, topic/automation, person/elon-musk]
 source:
   type: "book"
   name: "The Book of Elon: A Guide to Purpose and Success"

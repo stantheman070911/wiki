@@ -1,7 +1,7 @@
 ---
 title: "個人品牌與IP打造框架"
 lang: "zh"
-tags: [topic/personal-brand, topic/persona, topic/account-setup, topic/ip, person/chen-xiuping]
+tags: [topic/personal-brand, topic/persona, topic/ip, person/chen-xiuping]
 source:
   type: "presentation"
   name: "陳修平短影音變現課程｜完整知識庫"

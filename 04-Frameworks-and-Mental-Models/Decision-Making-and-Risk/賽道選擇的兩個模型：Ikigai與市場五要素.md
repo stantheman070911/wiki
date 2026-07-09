@@ -1,7 +1,7 @@
 ---
 title: "賽道選擇的兩個模型：Ikigai與市場五要素"
 lang: "zh"
-tags: [topic/niche-selection, topic/ikigai, topic/career-change, source/kim-startup-qa]
+tags: [topic/positioning, topic/career, source/kim-startup-qa]
 source:
   type: "conversation"
   name: "創業解惑社 Q&A 整理（共用表單副本，344 則問答）"

@@ -1,7 +1,7 @@
 ---
 title: "Building a Content Team - Hiring Funnel, Contractors, and Onboarding"
 lang: "en"
-tags: [topic/hiring, topic/content-team, topic/onboarding, topic/contractors, topic/one-on-ones, person/caleb-ralston]
+tags: [topic/hiring, topic/onboarding, person/caleb-ralston]
 source:
   type: "pdf"
   name: "How to Build Your Brand Workbook"

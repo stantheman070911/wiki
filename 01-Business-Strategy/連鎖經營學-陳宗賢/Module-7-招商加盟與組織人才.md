@@ -1,7 +1,7 @@
 ---
 title: "連鎖經營學 · Module 7：招商加盟與組織人才"
 lang: "zh"
-tags: [topic/chain-store, topic/franchise-recruitment, topic/organizational-design, topic/talent-retention, topic/kpi, topic/erp, person/chen-tsung-hsien]
+tags: [topic/chain-store, topic/franchise, topic/org-design, topic/hiring, topic/unit-economics, topic/operations, person/chen-tsung-hsien]
 source:
   type: "presentation"
   name: "陳宗賢的連鎖經營學（7-1〜7-7）"

@@ -1,7 +1,7 @@
 ---
 title: "The TAM Illusion - Saturated Markets, the Puddle-to-Ocean Path, and Five Directions to Move"
 lang: "en"
-tags: [topic/tam, topic/market-saturation, topic/skill-gap, person/alex-hormozi]
+tags: [topic/tam, topic/market-saturation, topic/scaling, person/alex-hormozi]
 source:
   type: "video"
   name: "Business Advice AMA (Ask Me Anything)"

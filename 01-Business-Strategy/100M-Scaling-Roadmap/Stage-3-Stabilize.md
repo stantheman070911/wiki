@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 3：Stabilize 穩定"
 lang: "zh"
-tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-3, topic/delegation, topic/hiring, topic/sop, person/alex-hormozi]
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/delegation, topic/hiring, topic/operations, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"

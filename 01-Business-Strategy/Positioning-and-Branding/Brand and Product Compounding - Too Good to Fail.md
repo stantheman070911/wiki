@@ -1,7 +1,7 @@
 ---
 title: "Brand and Product Compounding - Too Good to Fail"
 lang: "en"
-tags: [topic/brand, topic/product, topic/compounding, topic/word-of-mouth, topic/reputation, topic/retention, person/alex-hormozi]
+tags: [topic/brand, topic/product, topic/reputation, topic/retention, person/alex-hormozi]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"

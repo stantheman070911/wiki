@@ -1,7 +1,7 @@
 ---
 title: "連鎖經營學 · Module 2：連鎖類型與內部創業／委任經營"
 lang: "zh"
-tags: [topic/chain-store, topic/franchise, topic/licensing, topic/internal-entrepreneurship, topic/profit-sharing, person/chen-tsung-hsien]
+tags: [topic/chain-store, topic/franchise, topic/licensing, topic/compensation, person/chen-tsung-hsien]
 source:
   type: "presentation"
   name: "陳宗賢的連鎖經營學（2-1〜2-3）"

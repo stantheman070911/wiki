@@ -1,7 +1,7 @@
 ---
 title: "Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value"
 lang: "en"
-tags: [topic/ltv, topic/intent-vs-interruption, topic/memberships, topic/positioning, topic/offers, topic/retention, person/alex-hormozi]
+tags: [topic/ltv, topic/offers, topic/memberships, topic/positioning, topic/retention, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

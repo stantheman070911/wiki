@@ -1,7 +1,7 @@
 ---
 title: "The Reference Group and Re-engineering Your Circle"
 lang: "en"
-tags: [topic/reference-group, topic/environment, topic/friends, topic/standards, topic/mindset, person/alex-hormozi]
+tags: [topic/mindset, topic/leadership, person/alex-hormozi]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"

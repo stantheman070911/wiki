@@ -1,7 +1,7 @@
 ---
 title: "Performance-Based Pricing - When It Works and How Not to Get Cheated"
 lang: "en"
-tags: [topic/pricing, topic/performance-based, topic/incentives, topic/enterprise, topic/agencies, topic/risk, person/alex-hormozi]
+tags: [topic/pricing, topic/incentives, topic/enterprise, topic/business-model, topic/risk, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

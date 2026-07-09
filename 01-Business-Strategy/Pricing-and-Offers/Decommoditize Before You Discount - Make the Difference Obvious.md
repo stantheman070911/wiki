@@ -1,7 +1,7 @@
 ---
 title: "Decommoditize Before You Discount - Make the Difference Obvious"
 lang: "en"
-tags: [topic/decommoditization, topic/offers, topic/positioning, topic/copywriting, topic/local-services, person/alex-hormozi]
+tags: [topic/positioning, topic/offers, topic/copywriting, topic/local-services, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

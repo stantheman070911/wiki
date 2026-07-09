@@ -1,7 +1,7 @@
 ---
 title: "連鎖經營學 · Module 1：連鎖本質與 3S 原則"
 lang: "zh"
-tags: [topic/chain-store, topic/franchise, topic/standardization, topic/simplification, topic/specialization, person/chen-tsung-hsien]
+tags: [topic/chain-store, topic/franchise, topic/operations, topic/simplification, topic/positioning, person/chen-tsung-hsien]
 source:
   type: "presentation"
   name: "陳宗賢的連鎖經營學（1-1〜1-4）"

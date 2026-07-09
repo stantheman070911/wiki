@@ -1,7 +1,7 @@
 ---
 title: "$100M 擴張路線圖 · Stage 6：Optimize 優化"
 lang: "zh"
-tags: [topic/scaling, source/acquisition-100m-roadmap, topic/stage-6, topic/efficiency, topic/better-not-more, topic/systems, person/alex-hormozi]
+tags: [topic/scaling, source/acquisition-100m-roadmap, topic/efficiency, topic/focus, topic/systems, person/alex-hormozi]
 source:
   type: "pdf"
   name: "$100M Scaling Roadmap（Personalized Guide）"

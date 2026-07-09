@@ -1,7 +1,7 @@
 ---
 title: "備忘錄文化與 A 級人才招募 playbook"
 lang: "zh"
-tags: [topic/memo-culture, topic/decision-making, topic/hiring, topic/recruiting, topic/ai-tools, person/sharran-srivatsaa]
+tags: [topic/leadership, topic/decision-making, topic/hiring, topic/recruiting, topic/ai, person/sharran-srivatsaa]
 source:
   type: "podcast"
   name: "The Money Making Expert（Anatomy of a Dream 系列）— How to 10x Your Business by Doing LESS"

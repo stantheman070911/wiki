@@ -1,7 +1,7 @@
 ---
 title: "決策、風險與人生下注：Branson 四步決策、凍結生活方式與 10-10 Forever"
 lang: "zh"
-tags: [topic/decision-making, topic/risk, topic/lifestyle-design, topic/optionality, topic/relationships, topic/leadership, person/sharran-srivatsaa]
+tags: [topic/decision-making, topic/risk, topic/optionality, topic/mindset, topic/leadership, person/sharran-srivatsaa]
 source:
   type: "podcast"
   name: "The Money Making Expert（Anatomy of a Dream 系列）— How to 10x Your Business by Doing LESS"

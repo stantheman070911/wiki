@@ -1,7 +1,7 @@
 ---
 title: "Clear Over Clever - Write Below Third Grade and Meet the Avatar"
 lang: "en"
-tags: [topic/copywriting, topic/messaging, topic/clarity, topic/avatar, topic/advertising, topic/positioning, person/alex-hormozi]
+tags: [topic/copywriting, topic/messaging, topic/avatar, topic/advertising, topic/positioning, person/alex-hormozi]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"

@@ -1,7 +1,7 @@
 ---
 title: "網紅行銷引擎：以CPM反推的分散式機器"
 lang: "zh"
-tags: [topic/influencer-marketing, topic/cpm, topic/growth-engine, source/bloom-nutrition, person/greg-lavecchia]
+tags: [topic/influencer-marketing, topic/marketing, topic/growth, source/bloom-nutrition, person/greg-lavecchia]
 source:
   type: "podcast"
   name: "Greg LaVecchia（Bloom Nutrition 共同創辦人）訪談"

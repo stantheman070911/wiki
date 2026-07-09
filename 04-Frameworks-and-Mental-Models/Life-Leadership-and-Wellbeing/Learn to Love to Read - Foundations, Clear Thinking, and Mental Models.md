@@ -1,7 +1,7 @@
 ---
 title: "Learn to Love to Read - Foundations, Clear Thinking, and Mental Models"
 lang: "en"
-tags: [topic/reading, topic/learning, topic/clear-thinking, topic/foundations, topic/mental-models, person/naval-ravikant]
+tags: [topic/learning, topic/mental-models, person/naval-ravikant]
 source:
   type: "book"
   name: "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness"

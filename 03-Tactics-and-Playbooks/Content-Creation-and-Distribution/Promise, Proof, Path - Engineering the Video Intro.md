@@ -1,7 +1,7 @@
 ---
 title: "Promise, Proof, Path - Engineering the Video Intro"
 lang: "en"
-tags: [topic/video-intros, topic/hooks, topic/retention, topic/educators-vs-entertainers, topic/quality, person/alex-hormozi]
+tags: [topic/short-form-video, topic/hooks, topic/retention, topic/content-strategy, person/alex-hormozi]
 source:
   type: "video"
   name: "Building a brand, but it's on easy mode instead"

@@ -1,7 +1,7 @@
 ---
 title: "Hardship as Origin Story - Heroes Use Pain"
 lang: "en"
-tags: [topic/resilience, topic/pain, topic/fulfillment, topic/storytelling, topic/mindset, person/alex-hormozi]
+tags: [topic/mindset, topic/storytelling, person/alex-hormozi]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"
