@@ -40,6 +40,7 @@ Hormozi frames accountability as the concrete foundation beneath every other ski
 - [[Reframing Trauma and Labels - Logic, Evidence, Utility]]
 - [[Hardship as Origin Story - Heroes Use Pain]]
 - [[The First 100k - Defense-Before-Offense Playbook]]
+- [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].

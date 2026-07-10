@@ -51,6 +51,7 @@ Most operators sit in one of two worlds: they have a business that makes money b
 - [[業績公式與商業定位：從流量思維到變現路徑]]
 - [[網紅行銷引擎：以CPM反推的分散式機器]]
 - [[Interest Media and the Zero-Follower Reach Model]]
+- [[The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
 
 ## Source reference
 Alex Hormozi, *Building a brand, but it's on easy mode instead*. Extraction notes in [[2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode]]. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].

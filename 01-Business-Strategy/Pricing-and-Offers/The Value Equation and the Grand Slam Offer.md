@@ -79,6 +79,7 @@ Beginners tend to inflate the numerator with bigger claims; the harder, more def
 - [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
 - [[The Money Model - Sequencing Offers to Fund Growth]]
 - [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
+- [[The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]]
 
 ## Source reference
 Alex Hormozi, *$100M Offers* (2021). Extraction notes in `_Inbox/$100M series — Alex Hormozi.md` (processed; source condensed and archived per WIKI workflow). Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
