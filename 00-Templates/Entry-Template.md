@@ -35,8 +35,8 @@ Concrete, actionable steps for using this knowledge. Be specific enough to execu
 Real examples, case studies, or quotes that illustrate the idea.
 
 ## Related entries
-- [[Related entry]]
-- Cross-language pair (if this entry exists in the other language): [[其對應條目]]
+- Wikilink to a related entry, e.g. `[[Entry Title]]`
+- Cross-language pair (if this entry exists in the other language): `[[其對應條目]]`
 
 ## Source reference
 Full citation, then a real link to the archived copy — a wikilink for a Markdown note

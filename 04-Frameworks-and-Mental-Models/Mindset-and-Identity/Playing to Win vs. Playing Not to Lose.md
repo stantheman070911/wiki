@@ -1,0 +1,40 @@
+---
+title: "Playing to Win vs. Playing Not to Lose"
+lang: "en"
+tags: [topic/mindset, topic/risk, topic/decision-making, person/t-harv-eker]
+source:
+  type: "book"
+  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
+  author: "T. Harv Eker"
+  url: ""
+  date_of_source: "2005"
+date_added: "2026-07-13"
+status: "draft"
+---
+
+# Playing to Win vs. Playing Not to Lose
+
+## One-line summary
+Rich people set "massive wealth" as the goal and play offense; poor and middle-class people set "enough to pay the bills" or "comfortable" as the goal and play defense — and by the law of intention, each group gets exactly what it aimed for, no more.
+
+## Context
+Wealth File #2. Eker argues the size of the goal itself, not effort or ability, is one of the clearest predictors of financial outcome, because a defensive goal caps upside by design — you can't play a sport purely on defense and expect to win.
+
+## Key insights
+- **Three financial goal-levels, in ascending order:** "enough to pay the bills" (poor), "comfortable" (middle-class), "rich" (rich). Each is a different intention, and intention determines results — aiming for comfortable typically caps you well short of rich.
+- **"If your goal is to be comfortable, chances are you'll never get rich. But if your goal is to be rich, chances are you'll end up mighty comfortable."** Comfort is a byproduct of a bigger goal, not a goal in itself.
+- **"Shoot for the stars, you'll at least hit the moon."** Middle-class goal-setting habitually undershoots — Eker's diagnostic is whether you order off the price side of a restaurant menu (comfortable) or the food side (rich).
+- The "comfortable" trap is subtle because it feels like progress from being broke — but it's still a defensive ceiling, distinguishable from "rich" mainly by which side of the menu you're reading.
+
+## Tactics / how to apply
+- Write explicit "play to win" numeric goals for both annual income and net worth, set on a realistic but stretch timeframe.
+- Practice deliberately overriding the comfortable-goal reflex: order at market price without checking the cost first (share the bill if funds are tight) — the point is training the goal-setting instinct, not the specific purchase.
+- Audit your own stated financial goals for whether they're phrased as "enough to X" (defensive) or as an unambiguous target (offensive), and rewrite the defensive ones.
+
+## Related entries
+- [[Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting]]
+- [[Think Big vs. Think Small - The Law of Income]]
+- [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
+
+## Source reference
+T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #2. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

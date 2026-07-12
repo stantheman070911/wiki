@@ -35,8 +35,8 @@ status: "draft"           # draft | reviewed | evergreen
 真實案例、個案研究或能佐證觀點的引述。
 
 ## 相關條目
-- [[相關條目]]
-- 跨語言對應（若另一語言也有此條目）：[[Its English counterpart]]
+- 相關條目的 wikilink，例如 `[[條目標題]]`
+- 跨語言對應（若另一語言也有此條目）：`[[Its English counterpart]]`
 
 ## 來源
 完整引註，接著給出封存副本的「真實連結」：Markdown 筆記用 wikilink
