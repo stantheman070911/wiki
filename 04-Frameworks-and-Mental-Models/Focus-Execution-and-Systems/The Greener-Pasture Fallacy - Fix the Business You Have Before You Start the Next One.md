@@ -1,7 +1,7 @@
 ---
 title: "The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One"
 lang: "en"
-tags: [topic/focus, topic/diversification, topic/opportunity-cost, person/alex-hormozi]
+tags: [topic/focus, topic/diversification, topic/opportunity-cost, person/alex-hormozi, person/sabri-suby]
 source:
   type: "video"
   name: "Alex Hormozi — Cash Cow Business Breakdowns & Service/E-commerce/HVAC Scaling AMAs (compilation)"
@@ -43,6 +43,12 @@ Fixing a known constraint is specific, often tedious work with a real chance of 
 ## Example from the AMA
 Several callers illustrated this pattern from different angles. A hair-extensions business founder wanted to build a separate SaaS product rather than address gaps in her core business. A CFO-advisory founder wanted to launch a course business instead of fixing retention in the advisory practice. A direct-response e-commerce operator running four capped brands kept looking for a fifth opportunity rather than concentrating on the one brand with real potential. And a couple running "Coupleneur" built an entire new low-touch product line instead of resolving the supply constraint limiting their core, higher-value offering. In each case, Hormozi's redirect was the same: identify and fix the specific constraint in the existing business first, since the new venture's appeal was mostly the absence of a known problem, not a genuinely superior opportunity.
 
+## Corroboration — "Die From Indigestion, Not Starvation" (Suby)
+Sabri Suby frames the same fallacy as the more common cause of business death: not too little (starvation) but too many half-chased opportunities (indigestion). His extra angles sharpen the model:
+- **Shiny Object Syndrome (SOS).** The moment something starts working, founders start scanning the perimeter for something shinier, sexier, or easier — diluting focus across everything. The cure is laser-like focus on optimizing the system that already works.
+- **Protect the golden goose.** A working selling system (put $1 into ads, get $5 back) is a goose laying gold — don't leave it to go find another goose in the forest because you heard someone else is running a quiz funnel. Treat the working system like a god.
+- **Make hay while the sun shines.** Don't take for granted that favourable market conditions last forever; when you find something that works, crank it down and ride the wave rather than diversifying prematurely.
+
 ## Caveats / Exceptions
 - Not every new idea is an escape — some founders correctly recognize a business is structurally capped (see [[The TAM Illusion - Saturated Markets, the Puddle-to-Ocean Path, and Five Directions to Move]]) and a new venture is the right call after genuinely exhausting the current one.
 - A new venture that directly leverages the same supply, brand, or customer base as the core business is a different, often legitimate case of scaling (see [[The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]]), not a distraction.
@@ -57,3 +63,5 @@ Several callers illustrated this pattern from different angles. A hair-extension
 
 ## Source reference
 Alex Hormozi, business-breakdown/AMA compilation (multiple Cash Cow breakdown episodes). Raw transcript archived in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript]]; extraction notes in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
+
+The "die from indigestion, not starvation" corroboration is from Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #7) — raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].

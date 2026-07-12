@@ -24,6 +24,9 @@ Suby's construction method for what he calls a "Godfather Offer" — the offer n
 - **Write the offer before you worry about delivering it.** The construction method is to first write down the most ridiculous, over-the-top offer you could make — the one where nine out of ten prospects would grab their credit card mid-explanation — and only then walk it back to something deliverable. Starting from what you *can* deliver anchors you too low.
 - **Without a credible rationale, a great offer just looks fake.** A price or value claim that seems too good to be true needs a believable reason it exists (an insider business-model advantage, a lean supply chain, eliminated middlemen) or prospects discount the whole thing as a scam.
 - **You want your prospect asking how you can afford to do this.** That's the tell of a correctly-priced offer — not "is this worth it" but "how are they not losing money."
+- **If the offer doesn't keep *you* up at night, it isn't strong enough.** The internal signal of a real offer is the founder's own "holy hell, how am I going to deliver on this?" When the seller feels that, prospects feel it too and buy — and a genuinely irresistible offer can drop CAC to roughly one-third of its current level by converting far more of the same traffic.
+- **A "get a quote and buy my stuff" landing page is not an offer.** Running ads and paying salespeople against a weak or absent offer means your close rate is already terrible — the missing offer is silently costing you more than a bold one ever would.
+- **Add a hero mechanism to become a category of one.** Beyond the value stack, name the one distinct mechanism that makes your offer different from every other option in the market, so prospects can't itemize you line-by-line against competitors ("these guys are basically like those guys"). Escaping direct comparison is what protects price and conversion.
 - **A guarantee's real cost is invisible, not the guarantee itself.** Not offering one doesn't save money — it raises perceived risk, which raises CAC by suppressing conversion. Suby's estimate: adding a guarantee typically converts 2–3x more leads, meaning the "cost" of not having one is roughly a 70% inflation of your current CAC.
 - **Redemption rate on a guarantee is a live pricing signal.** Above ~3% redemption means the claims are too aggressive or the guarantee is poorly targeted — dial it back. Below ~1% means the offer isn't being pushed hard enough — there's room to be more aggressive and convert more people.
 - **Real scarcity converts; fake scarcity gets caught and destroys trust.** Prospects routinely fact-check countdown timers and "limited stock" claims. Genuine constraints (actual inventory limits, actual cohort caps) always exist in every business — advertise the real one rather than manufacturing a fake one.
@@ -56,6 +59,9 @@ Suby's construction method for what he calls a "Godfather Offer" — the offer n
 - [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
 - [[Barbell Pricing and the Unscalable Premium Offer]]
 - [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
+- [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
 
 ## Source reference
 Sabri Suby, customer-acquisition training video (part of a four-video compilation). Raw transcript and extraction notes archived at [[2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook]].
+
+The "keeps-you-up-at-night" test, the one-third-CAC claim, and the hero-mechanism / category-of-one point are corroborated in Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #5) — raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].
