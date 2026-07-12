@@ -1,7 +1,7 @@
 ---
 title: "Design Improvements to Your Machine to Get Around Your Problems"
 lang: "en"
-tags: [topic/systems, topic/management, topic/org-design, topic/operations, person/ray-dalio, source/bridgewater-associates]
+tags: [topic/systems, topic/management, topic/org-design, topic/operations, person/ray-dalio, source/bridgewater-associates, person/michael-gerber, source/e-myth-revisited]
 source:
   type: "book"
   name: "Principles"
@@ -26,6 +26,9 @@ Thirteenth chapter of Work Principles, the design step of the perceive → diagn
 - **A good plan resembles a movie script.** Put yourself in the position of the person who will feel the pain to understand what you're actually designing for. Visualize multiple alternative configurations before committing to one. Weigh second- and third-order consequences. Use standing meetings that run "like a Swiss clock" — reliable, predictable, not reinvented every time. Design for the fact that people are imperfect, not for an idealized version of them.
 - **Design is iterative — expect a "working through it" period** between a bad "now" and a good "then." Occasional harsh corrections (layoffs, cutbacks) function like a "cleansing storm" — a forest fire that clears stagnation and enables new growth, painful but sometimes structurally necessary.
 - **Build the organization around goals, not around existing tasks or existing people.** Build top-down: hire managers before you hire their reports. Match the different skill requirements of the [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)|5-Step Process]] to different specialized people rather than expecting one person to be equally strong at all five. Design the organization first, then staff it — don't let existing headcount dictate the design. Cap manager-to-report ratios (roughly 1:5 to 1:10) to preserve real communication quality. Build succession pipelines deliberately. For mission-critical work, prefer "double-do" (two people independently do the same task and results are compared) over "double-check" (one person reviews another's work), since double-checking still has a single point of failure. Use consultants for genuinely specialized, part-time needs, but watch for "consultant addiction" — a standing dependency that should have become an internal capability.
+- **Draw the future-state organization before assigning today’s people.** Model every function the finished business will require even if the founder currently occupies several boxes. This keeps current personalities and convenience from becoming the architecture.
+- **Attach a position contract to each box.** Define the result owned, work accountabilities, evaluation standards, reporting line, and explicit acceptance by the person occupying the role. This is stronger than a descriptive job listing because it makes ownership testable.
+- **Prototype roles from the bottom up.** While temporarily performing a tactical role, the founder should simultaneously improve, measure, and document it; only after the system works should a new operator take the role and the founder move up to managing the system.
 - **The org chart should look like a pyramid, with non-crossing lines.** Involve the person at the point of the pyramid for genuinely cross-departmental issues, and watch for "department slip," where a support function quietly starts deciding strategy instead of just supporting it.
 - **Create guardrails when they're needed, but prefer designs that don't need them.** Don't expect people to compensate for their own blind spots unaided. When no single excellent Responsible Party exists for something important, use a "clover-leaf design" — two or three believable people checking each other, rather than one under-qualified sole owner.
 - **Keep strategic vision constant while making tactical adjustments** — don't let the expedient displace the strategic just because it's more urgent in the moment.
@@ -38,6 +41,8 @@ Thirteenth chapter of Work Principles, the design step of the perceive → diagn
 
 ## Tactics / how to apply
 - Before finalizing a fix to a recurring problem, ask whether you're solving the immediate case or systemizing the fix — the latter costs more upfront but compounds.
+- Build an organization chart for the intended end state, write the contract for every position, and then place current names into the boxes; any unowned box is visible design debt rather than invisible shared responsibility.
+- When replacing yourself in a tactical position, train against the tested manual and retain accountability for the role’s system until its new owner can produce the standard without intervention.
 - For genuinely mission-critical outputs, consider having two people independently produce the result and compare, rather than a single producer plus a single checker.
 - When a department starts making decisions beyond its original support mandate, name that explicitly as "department slip" before it becomes entrenched.
 - Build a standing 1.5x buffer into time and cost estimates as a default assumption, not something you apply only after being burned.
@@ -51,6 +56,10 @@ Thirteenth chapter of Work Principles, the design step of the perceive → diagn
 - [[Manage as Someone Operating a Machine to Achieve a Goal]]
 - [[Use Tools and Protocols to Shape How Work Is Done]]
 - [[Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
+- [[The Franchise Prototype - Build the Business as the Product]]
+- [[The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 13 ("Design Improvements to Your Machine to Get Around Your Problems"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+Additional source: Michael E. Gerber, *The E-Myth Revisited*, chapter 14, [[2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript]].
