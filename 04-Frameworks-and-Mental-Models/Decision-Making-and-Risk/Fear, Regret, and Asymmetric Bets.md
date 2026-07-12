@@ -1,7 +1,7 @@
 ---
 title: "Fear, Regret, and Asymmetric Bets"
 lang: "en"
-tags: [topic/mindset, topic/risk, topic/decision-making, person/alex-hormozi, person/daniel-priestley, source/daniel-priestley-youtube]
+tags: [topic/mindset, topic/risk, topic/decision-making, person/alex-hormozi, person/daniel-priestley, person/nassim-nicholas-taleb, source/daniel-priestley-youtube, source/skin-in-the-game]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"
@@ -27,12 +27,14 @@ Hormozi took six months to quit his consulting job. This entry captures how he d
 - **Potency = short gap between decision and action.** You can measure how powerful someone is by the distance between deciding and doing. Move deadlines from end-of-week → end-of-day → end-of-hour → now.
 - **Asymmetric bets in your 20s.** With little to lose, every attempt is a scratch-off ticket paid for in time: worst case you get a "no" and learn, best case you win. Take as many shots as possible because the downside is ~zero.
 - **Risk capacity changes with responsibility.** A young person with low fixed obligations can absorb reputational, financial, and career experiments that become much more expensive when dependents, employees, and accumulated trust share the downside; use the low-obligation season deliberately rather than treating risk tolerance as timeless.
+- **An asymmetric bet must exclude ruin.** Repeated small chances of bankruptcy, permanent injury, or another absorbing loss are not attractive merely because each attempt has high upside; preserve the ability to take the next shot.
 - **"Greatness rejects all first-time applicants."** Failure is a prerequisite; the second attempt takes twice the emotional effort but half the actual effort (you move from uninformed optimism to informed realism).
 
 ## Tactics / how to apply
 - When afraid, write the fear out step by step and pre-mortem plan B until the vague dread becomes a manageable list.
 - Name the specific person whose judgment is stopping you; usually it's one or two voices, and usually not worth surrendering your life to.
 - Compress decision timelines deliberately; when no new information will change the call, decide now and correct later (deciding, not doing, is what bogs people down).
+- Before taking repeated shots, define the ruin boundary and cap each exposure so a bad sequence cannot end the game.
 
 ## Notable examples
 - Hormozi nearly didn't sell Gym Launch for $46M because one colleague might think the number unimpressive — realizing he was handing that person control over his life broke the paralysis.
@@ -52,8 +54,11 @@ Source for this section: *Alex Hormozi Answers Your Questions (Ask Me Anything)*
 - [[How Money Is Made - Value, Return on Time, and Money Rules]]
 - [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
 - [[When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
+- [[Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
 
 Additional source: Daniel Priestley, *25 Harsh Truths at 45*, [[2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript]].
+
+Additional source: Nassim Nicholas Taleb, *Skin in the Game: Hidden Asymmetries in Daily Life* (2018), [[2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript]].
