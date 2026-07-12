@@ -1,0 +1,61 @@
+---
+title: "The Effective Executive - Five Learnable Practices"
+lang: "en"
+tags: [topic/management, topic/leadership, topic/productivity, topic/decision-making, topic/focus, person/peter-drucker]
+source:
+  type: "book"
+  name: "The Effective Executive"
+  author: "Peter F. Drucker"
+  url: ""
+  date_of_source: "1967"
+date_added: "2026-07-13"
+status: "draft"
+---
+
+# The Effective Executive - Five Learnable Practices
+
+## One-line summary
+Effectiveness is not a personality or talent but a trainable discipline: manage time, define contribution, build on strength, concentrate resources, and make a few consequential decisions systematically.
+
+## Context
+Knowledge work cannot be judged by visible effort or volume. Its value appears only when another person or the organization uses it to produce an external result, so intelligence, expertise, and hard work are inputs rather than proof of effectiveness.
+
+## Key insights
+- **An executive is anyone whose decisions materially affect the whole.** Authority over staff is not the test; responsibility for consequential knowledge and judgment is. A specialist without direct reports may therefore be more “executive” than a manager of hundreds.
+- **Effectiveness is a practice, not a type of person.** Effective people differ in temperament, charisma, knowledge, and working style. Their common trait is repeated use of a small set of habits until those habits become reflexive.
+- **The environment defaults toward ineffectiveness.** Other people claim the executive’s time, events pull attention into operations, useful output depends on colleagues outside direct control, and internal data crowds out changing external reality.
+- **Results exist outside the organization.** Internal activity is cost and effort until it changes a customer, market, patient, citizen, or other external condition. Executives must deliberately look beyond dashboards, because important changes often appear first as qualitative signals rather than countable facts.
+- **Effectiveness converts ordinary capacity into uncommon performance.** Organizations cannot depend on universal geniuses. Their job is to multiply specific strengths and make individual limitations irrelevant.
+
+## Framework / model (if applicable)
+**The five-practice effectiveness system:**
+
+1. **Know where time goes.** Record actual use, remove waste, and consolidate the remainder into uninterrupted blocks.
+2. **Focus on contribution.** Define the external result expected from the role, not merely its activities or authority.
+3. **Make strength productive.** Deploy people—including yourself and your boss—where a specific strength can create a material result.
+4. **Concentrate on first things.** Select one major opportunity, stop feeding yesterday, and explicitly choose what not to do.
+5. **Make effective decisions.** Resolve recurring situations through principles, specify what success requires, convert the choice into assignments, and test it against reality.
+
+The sequence progresses from mechanics to responsibility: time produces capacity; contribution establishes direction; strength supplies leverage; concentration commits resources; decision converts judgment into action.
+
+## Tactics / how to apply
+- Run the five practices as a recurring operating review rather than a one-time self-assessment.
+- Ask first, “What needs to be done now?” and then select the one or at most two items you are best positioned to own; delegate or defer the rest.
+- Translate priorities into an action plan with expected results, deadlines, constraints, review points, and named owners. Treat the plan as revisable intent, not a straitjacket.
+- Put opportunities before problems in reports and meetings. Problems prevent damage; opportunities create results.
+- Review consequential decisions against their original expectations so that errors, blind spots, and obsolete assumptions become inputs to the next cycle.
+
+## Notable examples
+- Harry Truman entered the presidency intending to continue domestic reform, but asking what needed to be done redirected his attention to foreign affairs and the postwar order.
+- Jack Welch repeatedly reset GE’s priority by asking what needed to be done *now*, rather than automatically taking the next item from an old list.
+- Drucker contrasts countable internal data with early qualitative signals: the Edsel’s research missed a shift from income-based to taste-based car buying because the old categories still produced reassuring numbers.
+
+## Related entries
+- [[Know Thy Time - Record, Eliminate, and Consolidate]]
+- [[Contribution Before Activity - Define Results and Make Knowledge Usable]]
+- [[Staff for Strength - Design Jobs Around Exceptional Contribution]]
+- [[The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
+- [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
+
+## Source reference
+Peter F. Drucker, *The Effective Executive* (1967; 2006 edition). Raw archived text in [[2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript]].

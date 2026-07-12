@@ -1,7 +1,7 @@
 ---
 title: "Focus as Elimination - The Deep-Work Playbook"
 lang: "en"
-tags: [topic/focus, topic/productivity, topic/mindset, person/alex-hormozi]
+tags: [topic/focus, topic/productivity, topic/mindset, person/alex-hormozi, person/peter-drucker]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"
@@ -27,6 +27,8 @@ Hormozi's model of productivity is subtractive. People try to *add* hacks; the r
 - **Micro-speed, macro-patience.** Break tasks into minutes, stack them, then ask "how can this take less time / be automated / given away / deemed unnecessary?" Pull the future forward by attacking timelines.
 - **When it's easy, do more; when it's hard, do different.** Once something works, put on blinders and hit the gas (a bigger competitor will try to copy you with more distribution).
 - **Rest is a requisite, not a betrayal.** The goal is maximum *net output over the longest period*; Hormozi found ~12 hrs/day, 7 days sustainable, with rare 3-shift seasons — but 18-hour days steal from tomorrow.
+- **A priority is incomplete without a posteriority.** Drucker's sharper test is not whether you can rank tasks, but whether you have the courage to decide what will not be done and keep resources away from it. Trying to preserve every stakeholder's priority guarantees that none receives enough concentration to become a result.
+- **Stop feeding yesterday before starting tomorrow.** Periodically ask of every program, product, and recurring task: “If we were not already doing this, would we start now?” Unless the answer is an unconditional yes, curtail or stop it and move proven performers to future opportunities. New work without deliberate abandonment produces organizational obesity, not growth.
 
 ## Framework / model (if applicable)
 **Environment & phone setup for focus:**
@@ -43,6 +45,9 @@ Hormozi's model of productivity is subtractive. People try to *add* hacks; the r
 - List everything that isn't your one main thing and cut or defer it; treat distraction like an addiction you refight daily.
 - Convert "end of week" deadlines to "end of day" (a ~7× pace increase) and "5-minute task + 5 minutes free = do it now."
 - Protect hyper-focused blocks (weekends/weeks) where you talk to no one and hammer one output.
+- Before adding a project, name the existing activity that will release its time, people, and attention. Do not fund the new from imaginary spare capacity.
+- Review recurring work on a fixed cadence with the zero-based question, “Would we enter this today?” Give sunset decisions the same status as launch decisions.
+- Choose priorities by four courage tests: future over past, opportunity over problem, an independent direction over the bandwagon, and material impact over safe activity.
 
 ## Notable examples
 - When Gym Launch first worked, an eight-figure mentor told Hormozi "when it gets easy is when you go hard"; he and Leila worked as if a hypothetical enemy were trying to destroy them and got far ahead.
@@ -53,6 +58,10 @@ Hormozi's model of productivity is subtractive. People try to *add* hacks; the r
 - [[The Reference Group and Re-engineering Your Circle]]
 - [[Volume and Feedback - Sales as the Training Ground]]
 - [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- [[Know Thy Time - Record, Eliminate, and Consolidate]]
+- [[The Effective Executive - Five Learnable Practices]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
+
+Peter F. Drucker, *The Effective Executive*, ch. 5, “First Things First” (1967; 2006 edition). Raw archived text in [[2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript]].

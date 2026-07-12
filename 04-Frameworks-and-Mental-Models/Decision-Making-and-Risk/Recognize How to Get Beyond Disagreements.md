@@ -1,7 +1,7 @@
 ---
 title: "Recognize How to Get Beyond Disagreements"
 lang: "en"
-tags: [topic/decision-making, topic/idea-meritocracy, topic/believability, topic/culture, person/ray-dalio, source/bridgewater-associates]
+tags: [topic/decision-making, topic/idea-meritocracy, topic/believability, topic/culture, person/ray-dalio, person/peter-drucker, source/bridgewater-associates]
 source:
   type: "book"
   name: "Principles"
@@ -27,6 +27,7 @@ Sixth chapter of Work Principles, immediately following believability-weighting:
 - **Once a decision is made, everyone gets behind it — even if they still personally disagree.** See the situation from the higher level: an idea meritocracy that tolerates quiet non-compliance after a fair process has run isn't an idea meritocracy anymore, it's heading toward anarchy. There's no room for mob rule or lynch-mob-style informal enforcement either.
 - **If the idea meritocracy process conflicts with the organization's actual survival, the process will lose.** Dalio allows for a rare, explicitly declared "martial law" — a temporary, openly acknowledged suspension of full transparency in extreme circumstances — but warns to be very wary of anyone invoking "the good of the organization" casually to shut down debate, since that phrase is also the easiest one to abuse.
 - **If the powerful don't want to operate by the agreed principles, principled operation fails.** Power ultimately governs any system in practice — a court-like process only works as long as the people with real power choose to submit to it.
+- **Disagreement is also a required input before resolution.** Drucker argues that consequential decisions should not begin from consensus: disciplined dissent exposes special pleading, creates fallback alternatives, and forces the group to understand why an intelligent person could see a different reality. Resolution procedures work better when the opposing cases have first been made as strong and testable as possible.
 
 ## Framework / model (if applicable)
 **Escalation, not avoidance.** The chapter's core procedural move is that disagreements have a defined path forward — debate, then a believability-weighted vote or an explicit decision by the Responsible Party, then binding commitment — rather than an implicit expectation that persistent disagreement will just be tolerated indefinitely or will resolve itself through attrition.
@@ -36,16 +37,21 @@ Sixth chapter of Work Principles, immediately following believability-weighting:
 - Build an explicit norm that after a fair decision process, people voice continued private disagreement through the sanctioned channel (not by quietly under-executing) — and make clear that's expected, not just hoped for.
 - If you ever need to invoke organizational survival as a reason to override the normal process, do it explicitly and temporarily, and say so out loud — never let "for the good of the org" become a silent, permanent override.
 - Watch whether your most powerful people actually submit to the same disagreement-resolution process as everyone else; if they routinely don't, the process is decorative, not real.
+- Before closing a high-impact decision, assign someone to develop the strongest reasoned alternative and specify what evidence would support it. Treat unexplained unanimity as a prompt to inspect assumptions, not as automatic proof.
 
 ## Notable examples
 - **The family Thanksgiving turkey-carving fight** and the historical **Protestant-Catholic schism** are Dalio's two illustrations, at wildly different scales, of the same "narcissism of small differences" mechanism — people who fundamentally agree, dividing sharply over what should be a minor procedural point.
 - **A media leak forced Bridgewater to temporarily and explicitly restrict some internal transparency** — cited as the real-world instance of the rare, declared "martial law" exception, done openly rather than quietly.
+- **Alfred Sloan reportedly postponed a unanimous GM committee decision** so the group could develop disagreement before reconvening—using dissent to discover what the decision was actually about, not to prolong conflict for its own sake.
 
 ## Related entries
 - [[Believability-Weight Your Decision Making]]
 - [[Get and Stay in Sync]]
 - [[Don't Overlook Governance]]
 - [[Trust in Radical Truth and Radical Transparency]]
+- [[The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 6 ("Recognize How to Get Beyond Disagreements"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+Peter F. Drucker, *The Effective Executive*, ch. 7, “Effective Decisions” (1967; 2006 edition). Raw archived text in [[2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript]].
