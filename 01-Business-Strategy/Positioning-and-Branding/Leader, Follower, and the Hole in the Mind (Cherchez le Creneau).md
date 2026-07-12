@@ -54,6 +54,8 @@ Position strategy depends entirely on where you already stand on the mental ladd
 ## Related entries
 - [[Positioning - Own a Word in the Prospect's Mind]]
 - [[The Line-Extension Trap - Why One Name Can't Own Two Things]]
+- [[Own What the Prospect Already Gives You - Research-Based Positioning]]
+- [[Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
 - [[TikTok Shop與飽和市場的白地策略]]
 - [[Personal-Brand Positioning and the No-Competition Model]]
 - [[The Five Advantages of a Perfect Business]]

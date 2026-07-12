@@ -49,6 +49,7 @@ The rule of thumb: use a **new name** for a genuinely new position; use the **ho
 ## Related entries
 - [[Positioning - Own a Word in the Prospect's Mind]]
 - [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- [[Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
 - [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
 - [[Brand and Product Compounding - Too Good to Fail]]
 - [[The Personal-Brand House - Foundation, Interior, Exterior]]

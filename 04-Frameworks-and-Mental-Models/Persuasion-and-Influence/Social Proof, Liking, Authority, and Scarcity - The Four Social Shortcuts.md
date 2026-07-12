@@ -57,6 +57,7 @@ Rounding out Cialdini's six principles. Each is a heuristic that outsources a ha
 - [[可信度行銷與公開建構]]
 - [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
 - [[Barbell Pricing and the Unscalable Premium Offer]]
+- [[Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
 
 ## Source reference
 Robert B. Cialdini, *Influence: The Psychology of Persuasion*, ch. 4–7. Extraction notes in [[2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion]]; PDF archived alongside.
