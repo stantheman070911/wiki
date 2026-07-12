@@ -1,0 +1,61 @@
+---
+title: "Level 5 Leadership - Humility and Professional Will"
+lang: "en"
+tags: [topic/leadership, topic/identity, topic/org-design, topic/management, person/jim-collins, source/good-to-great]
+source:
+  type: "book"
+  name: "Good to Great"
+  author: "Jim Collins"
+  url: ""
+  date_of_source: "2001"
+date_added: "2026-07-13"
+status: "draft"
+---
+
+# Level 5 Leadership - Humility and Professional Will
+
+## One-line summary
+The leaders most likely to build enduring greatness combine personal humility with fierce professional will, directing ambition toward the institution rather than their own celebrity.
+
+## Context
+Organizations often mistake charisma, visibility, and personal dominance for leadership quality. Collins's comparison research found a different pattern: every good-to-great transition had a Level 5 leader, while celebrity-style leaders were common among companies whose gains proved temporary.
+
+## Key insights
+- **Level 5 is a duality, not meekness.** These leaders are modest and understated personally, but uncompromising about standards, results, and difficult decisions.
+- **Ambition is redirected, not absent.** The leader's ego serves the organization, its purpose, and its next generation rather than personal fame or control.
+- **Succession is the durability test.** A Level 5 leader develops successors capable of doing even better; an ego-driven leader often chooses weaker successors or leaves a system dependent on one personality.
+- **The window-and-mirror discipline governs attribution.** In success, look out the window and credit the team, circumstances, and luck. In failure, look in the mirror and accept responsibility.
+- **Workmanlike consistency beats theatrical leadership.** Inspired standards, quiet resolve, and sustained execution are more durable than speeches, charisma, or transformation theater.
+- **Promoting from within can preserve the operating system.** Ten of the eleven transition CEOs came from inside their companies; comparison companies reached for outsiders far more often.
+
+## Framework / model (if applicable)
+**The five-level hierarchy:**
+
+1. Highly capable individual — contributes through talent and disciplined work.
+2. Contributing team member — works effectively toward group objectives.
+3. Competent manager — organizes people and resources toward goals.
+4. Effective leader — catalyzes commitment to a compelling direction.
+5. Level 5 executive — builds enduring greatness through personal humility and professional will.
+
+Level 5 contains the capabilities below it; humility does not substitute for competence, management, or leadership.
+
+## Tactics / how to apply
+- Evaluate leaders by the strength of the organization after they leave, not only by results during their tenure.
+- In reviews, require leaders to name external contributors to success and their own responsibility for failures.
+- Give high-potential internal operators consequential assignments before defaulting to a famous outsider.
+- Track whether a leader creates independent decision makers or merely capable helpers who execute the leader's ideas.
+- Ask of every major decision: does this maximize the institution's long-term value, or the leader's short-term image?
+- Develop Level 5 traits indirectly by practicing truth-seeking, rigorous people decisions, disciplined focus, and responsibility for outcomes.
+
+## Notable examples
+Darwin Smith redirected Kimberly-Clark from coated-paper mills into consumer products despite ridicule, then quietly credited the people around him. Colman Mockler resisted a lucrative Gillette takeover because its price ignored the long-term value of Sensor and Mach3. By contrast, Rubbermaid's rise under Stanley Gault did not survive the shallow management bench he left behind.
+
+## Related entries
+- [[Remember That the WHO Is More Important Than the WHAT]]
+- [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- [[Staff for Strength - Design Jobs Around Exceptional Contribution]]
+- [[The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]]
+- [[Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
+
+## Source reference
+Jim Collins, *Good to Great*, chapter 2, "Level 5 Leadership" (2001). [[2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript]].
