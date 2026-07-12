@@ -1,7 +1,7 @@
 ---
 title: "How to Do Great Work - Curiosity, Taste, Projects, and Endurance"
 lang: "en"
-tags: [topic/learning, topic/skills, topic/focus, topic/innovation, topic/consistency, person/paul-graham, source/paul-graham-essays]
+tags: [topic/learning, topic/skills, topic/focus, topic/innovation, topic/consistency, person/paul-graham, person/steve-jobs, source/paul-graham-essays]
 source:
   type: "essay collection"
   name: "Paul Graham - Collected Essays"
@@ -24,6 +24,7 @@ There is no guaranteed recipe for exceptional work, but productive patterns recu
 - **Choose a field with aptitude, deep interest, and room for contribution.** These are discovered by doing, not solved entirely through introspection.
 - **Curiosity is a navigational signal.** Questions that repeatedly pull attention may indicate work for which effort feels less costly to you than to others.
 - **Projects create agency.** A project of one's own forces decisions, exposes standards, and produces artifacts from which the next question can arise.
+- **Useful paths often become legible only in retrospect.** Curiosity can justify an exploration before its practical value is visible; the discipline is to collect real skills and experiences, not to demand a complete future narrative in advance.
 - **Taste precedes capability.** The gap between what you can make and what you recognize as good is painful but useful; it directs practice.
 - **Early work is allowed to be unimpressive.** Great projects commonly pass through a fragile stage that outsiders—and creators—misjudge by mature standards.
 - **Work hard without protecting a dead end.** Endurance matters, but periodic re-evaluation keeps determination attached to a fertile direction.
@@ -33,6 +34,7 @@ Cycle through **explore → choose a promising question → build a small projec
 
 ## Tactics / how to apply
 - Follow curiosity into the details until the edge of existing knowledge becomes visible.
+- Leave room for one rigorous exploration with no obvious immediate payoff, then retain the skill, artifact, or observation it produces so it can connect with later work.
 - Maintain a project you control, even when employed or studying within someone else's agenda.
 - Protect uninterrupted time and use demanding peers as a quality environment.
 - Publish or show work early enough to receive evidence, while accepting an awkward first version.
@@ -41,6 +43,8 @@ Cycle through **explore → choose a promising question → build a small projec
 ## Notable examples
 The “bus ticket theory” describes obsessive interest as the third ingredient beside ability and determination. Seemingly pointless absorption creates enough detailed knowledge to notice connections that a merely diligent outsider cannot.
 
+After leaving Reed College's required curriculum, Steve Jobs studied calligraphy because it was intrinsically compelling. A decade later, that knowledge shaped the Macintosh's proportional fonts and typography—an application he could not have planned when choosing the class.
+
 ## Related entries
 - [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 - [[Finding New Ideas - Work at the Fractal Edge of Knowledge]]
@@ -48,3 +52,5 @@ The “bus ticket theory” describes obsessive interest as the third ingredient
 
 ## Source reference
 Paul Graham, “How to Do Great Work,” “The Bus Ticket Theory of Genius,” “Early Work,” “A Project of One's Own,” and “How to Work Hard,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
+
+Additional source: Steve Jobs, *Stanford Commencement Address* (2005), [[2026-07-13_Presentation_SteveJobs_StanfordCommencementAddress_RawTranscript]].

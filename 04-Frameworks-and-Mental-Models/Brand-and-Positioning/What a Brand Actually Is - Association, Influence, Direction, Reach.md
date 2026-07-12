@@ -1,7 +1,7 @@
 ---
 title: "What a Brand Actually Is - Association, Influence, Direction, Reach"
 lang: "en"
-tags: [topic/brand, topic/influence, topic/reach, person/alex-hormozi]
+tags: [topic/brand, topic/influence, topic/reach, person/alex-hormozi, person/matt-gray]
 source:
   type: "video"
   name: "Building a brand, but it's on easy mode instead"
@@ -24,6 +24,8 @@ A brand is an association between two things — and its value is measured on th
 - **A brand is an association between two things.** Branding is a form of *teaching*: wear a hat in every video and people associate the hat with you; provide value and eventually you can take the hat off and the value-association remains. Make content on a topic and you become associated with the topic.
 - **Origin of the word is instructive.** Branding a cow marks it so people *change their behavior* toward it (return it, leave it, steal it). Brands change behavior at scale — that is why they are valuable.
 - **"You are your brand."** The purest version of your brand is you; leaning into more of yourself is what builds influence, direction, and reach. Some people being turned away is fine.
+- **People are often the entry point to companies.** A founder supplies a face, voice, beliefs, and continuity that an abstract logo cannot; attention earned by the person can transfer to the company when both repeatedly deliver the same promise.
+- **Language creates proprietary associations.** Intentional names for products, methods, and recurring ideas give the audience stable handles through which to remember and repeat the brand's worldview.
 - **"All publicity is publicity," not "all publicity is good."** Publicity reliably increases *reach*; it does not necessarily improve influence or move direction toward you.
 
 ## Framework / model (if applicable)
@@ -49,12 +51,15 @@ The hypothetical maximum brand: as many people as possible, all changing behavio
 - Treat yourself as the brand asset; concentrate rather than dilute your identity across it.
 - Evaluate stages, podcasts, spokespeople, and collaborators as association trades: estimate who will be introduced, which existing people may leave, and how the pairing changes the market's category for you.
 - Preserve the loop after purchase: what you claim, what other people report, and what the customer personally experiences must converge, or each launch must rebuild trust from zero.
+- Define a small vocabulary for the brand's products and methods; use each term consistently and retire labels that do not create a clear, useful association.
+- Decide which communications require the founder's voice and which can be institutionalized without breaking the association between person, company, and promise.
 
 ## Notable examples
 - The hat: association transfers from object to value, then persists once value is established.
 - The branded cow: the mark changes third-party behavior — the primitive form of brand value.
 - Trump / Taylor Swift as high-influence brands with opposite directionality profiles across audiences.
 - Martha Stewart built influence by giving useful instructions for years; each successful result lowered the perceived risk of following her next recommendation.
+- Apple's keynotes, product names, and campaigns repeatedly paired Steve Jobs's personal conviction with the company's products. The person attracted attention, while consistent product delivery transferred trust to Apple.
 
 ## Related entries
 - [[The Seven Principles of Building an Iconic Brand]]
@@ -67,3 +72,5 @@ The hypothetical maximum brand: as many people as possible, all changing behavio
 Alex Hormozi, *Building a brand, but it's on easy mode instead*. Extraction notes in [[2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode]].
 
 Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+
+Additional source: Matt Gray, *What Steve Jobs Can Teach You About Business (That Harvard Can't)*, [[2026-07-13_Video_MattGray_WhatSteveJobsCanTeachYouAboutBusiness_RawTranscript]].

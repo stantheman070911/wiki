@@ -1,7 +1,7 @@
 ---
 title: "Life Is Short - Ruthless Attention Allocation"
 lang: "en"
-tags: [topic/focus, topic/happiness, topic/opportunity-cost, topic/decision-making, topic/mindset, person/paul-graham, person/daniel-priestley, source/paul-graham-essays, source/daniel-priestley-youtube]
+tags: [topic/focus, topic/happiness, topic/opportunity-cost, topic/decision-making, topic/mindset, person/paul-graham, person/daniel-priestley, person/steve-jobs, source/paul-graham-essays, source/daniel-priestley-youtube]
 source:
   type: "essay collection"
   name: "Paul Graham - Collected Essays"
@@ -26,11 +26,12 @@ Knowing abstractly that life is finite rarely changes a calendar. A more actiona
 - **The top idea captures background thought.** Whatever occupies the mind in showers and walks receives a hidden allocation far beyond scheduled hours.
 - **Possessions consume after purchase.** They require choosing, storing, protecting, repairing, and eventually discarding.
 - **Regret can be operationalized.** Dreams, friendships, candor, happiness, and sustainable work belong on current schedules rather than a distant “later.”
+- **Mortality removes borrowed criteria.** Imagining the end strips status, embarrassment, and other people's expectations from a decision, exposing whether the activity itself still deserves scarce time.
 - **Children expose finite seasons.** Many experiences have not only a limited total count but a closing window.
 - **Shared passage is an achievement.** Staying present through a friend's grief, a parent's decline, a wedding, or a long collaboration often matters more in retrospect than the status experiences that are easier to display publicly.
 
 ## Framework / model (if applicable)
-Conduct an **attention audit**: list recurring activities, estimate scheduled time plus background mental residue, and label each as creation, connection, recovery, maintenance, or counterfeit. Remove or contain the counterfeit category and deliberately assign the recovered attention.
+Conduct an **attention audit**: list recurring activities, estimate scheduled time plus background mental residue, and label each as creation, connection, recovery, maintenance, or counterfeit. Remove or contain the counterfeit category and deliberately assign the recovered attention. Add a **last-day streak test**: if the answer to “Would I choose today's central activity if time were visibly limited?” is no for several consecutive days, treat the pattern—not a single bad day—as evidence that something needs to change.
 
 ## Tactics / how to apply
 - Ask each morning what currently occupies the top of your mind and whether it deserves that position.
@@ -38,9 +39,12 @@ Conduct an **attention audit**: list recurring activities, estimate scheduled ti
 - Prefer experiences and tools that reduce future maintenance over possessions that add it.
 - Schedule relationships and meaningful projects while their windows remain open.
 - Use mortality as a filter for attention, not as an excuse for frantic consumption.
+- Track the last-day question for two weeks; investigate repeated “no” answers by changing the activity, its conditions, or the commitment that keeps it in place.
 
 ## Notable examples
 The number of weekends with one's young children is countable and falls quickly. Seeing a season as a finite set turns “someday” into a concrete allocation decision.
+
+Steve Jobs used a daily mortality question for decades. Its value was not predicting death but making fear of failure, pride, and external expectations temporarily irrelevant to major choices.
 
 ## Related entries
 - [[Focus as Elimination - The Deep-Work Playbook]]
@@ -51,3 +55,5 @@ The number of weekends with one's young children is countable and falls quickly.
 Paul Graham, “Life is Short,” “The Top Idea in Your Mind,” “Stuff,” “How to Lose Time and Money,” “Having Kids,” and “The Top of My Todo List,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
 
 Additional source: Daniel Priestley, *25 Harsh Truths at 45*, [[2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript]].
+
+Additional source: Steve Jobs, *Stanford Commencement Address* (2005), [[2026-07-13_Presentation_SteveJobs_StanfordCommencementAddress_RawTranscript]].

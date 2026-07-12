@@ -1,7 +1,7 @@
 ---
 title: "The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance"
 lang: "en"
-tags: [topic/mindset, topic/consistency, topic/career, topic/skills, person/alex-hormozi, person/paul-graham, source/paul-graham-essays]
+tags: [topic/mindset, topic/consistency, topic/career, topic/skills, person/alex-hormozi, person/paul-graham, person/steve-jobs, source/paul-graham-essays]
 source:
   type: "video"
   name: "If You're Ambitious but Inconsistent, Please Watch This (playlist: How to Make Your First $100,000)"
@@ -29,6 +29,7 @@ Hormozi addresses a young man who quit sales to "find his passion." Having gone 
 - **Consistency breaks where it gets boring, not hard.** People fall off when the work becomes repetitive (Hormozi has made ~5,000 ads/year for 14 years). "You will be cringe / you will suck for a long time" — improving is just finding better ways to do the repeated thing you hate.
 - **“What doesn't seem like work?” is evidence about comparative fit.** A task that feels naturally absorbing to you but effortful to others can reveal a durable advantage; the signal is stronger than a glamorous occupational label.
 - **Love often applies to the core activity, not the job wrapper.** Every field contains administration, rejection, and drudgery. The practical question is whether the central work generates enough pull to justify its surrounding costs.
+- **Loss reveals whether the attachment is to status or to the work.** After a title, company, or public identity disappears, returning voluntarily to the underlying craft is stronger evidence of fit than enthusiasm while success is rewarding it.
 - **Use projects to discover fit before making identity claims.** Graham's career advice converges with the anti-passion argument: try real work, notice what sustains curiosity, and allow the answer to evolve rather than waiting for an inner revelation.
 
 ## Framework / model (if applicable)
@@ -44,12 +45,14 @@ Hormozi addresses a young man who quit sales to "find his passion." Having gone 
 - Build frustration tolerance deliberately: keep knocking on the next door, shipping the next video, rebuilding the buggy page — reps without immediate reward.
 - Replace "what will people think?" with the specific name and voice, then decide if that person should rule 80 years of your life.
 - Run short, real projects in candidate fields and record which parts create energy, which merely confer status, and which costs remain tolerable after novelty fades.
+- Use a setback as a diagnostic: once the recognition and accumulated identity are stripped away, ask whether you still want to practice the core activity as a beginner.
 - Train frustration tolerance with deliberately increasing unrewarded reps: do 10 outreaches, then 20, 30, 50, and 100 even when the prior batch produced nothing. The target is the ability to continue an aversive action without immediate reinforcement, not enthusiasm for a task you already enjoy.
 
 ## Notable examples
 - The cookie entrepreneur "passionate about being excellent," not cookies.
 - A new YouTube-team hire stunned that Hormozi is at HQ at 4–6am every day, including Sundays, at his level of success.
 - Hormozi's own arc: went all the way with fitness, and today makes money elsewhere while keeping fitness as a non-commercial love.
+- Being fired from Apple removed Steve Jobs's position but not his desire to build. Starting NeXT and Pixar returned him to beginner mode and distinguished love of the work from attachment to the company title.
 
 ## Related entries
 - [[Hardship as Origin Story - Heroes Use Pain]]
@@ -64,3 +67,5 @@ Alex Hormozi, *If You're Ambitious but Inconsistent, Please Watch This* (playlis
 Paul Graham, “How to Do What You Love,” “When To Do What You Love,” and “What Doesn't Seem Like Work?,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
 
 Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+
+Additional source: Steve Jobs, *Stanford Commencement Address* (2005), [[2026-07-13_Presentation_SteveJobs_StanfordCommencementAddress_RawTranscript]].
