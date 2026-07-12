@@ -4,13 +4,13 @@ tags: [meta]
 
 # Tag Vocabulary
 
-Controlled, faceted tag vocabulary for THE WIKI — **190 tags** in use. Every entry tag must exist here and carry a facet prefix (`person/`, `source/`, `topic/`). Reuse an existing tag before coining a new one; new tags are added here first.
+Controlled, faceted tag vocabulary for THE WIKI — **191 tags** in use. Every entry tag must exist here and carry a facet prefix (`person/`, `source/`, `topic/`). Reuse an existing tag before coining a new one; new tags are added here first.
 
 The vault audit (`node tools/audit-vault.mjs`) **warns** on any tag missing its facet prefix or absent from this file, and on `topic/` tags used only once.
 
 *Counts below are exact (recomputed from every entry's frontmatter as of 2026-07-13), not hand-maintained — regenerate by counting `tags:` frontmatter across the vault rather than incrementing by hand.*
 
-## People (source authors) — 27
+## People (source authors) — 28
 
 `person/alex-hormozi` (94) `person/caleb-ralston` (3) `person/chen-tsung-hsien` (8) `person/chen-xiuping` (8) `person/elon-musk` (6) `person/gary-vaynerchuk` (2) `person/greg-lavecchia` (1) `person/jun-yuh` (2) `person/naval-ravikant` (6) `person/paul-graham` (21) `person/peter-drucker` (7) `person/peter-thiel` (12) `person/ray-dalio` (23) `person/ries-trout` (8) `person/robert-cialdini` (3) `person/sabri-suby` (17) `person/sam-parr` (2) `person/sharran-srivatsaa` (5) `person/t-harv-eker` (19) `person/tuan-le` (1) `person/will-barron` (1)
 
@@ -23,6 +23,8 @@ The vault audit (`node tools/audit-vault.mjs`) **warns** on any tag missing its 
 `person/michael-gerber` (9)
 
 `person/jim-collins` (8)
+
+`person/steven-bartlett` (21)
 
 ## Sources (programs, podcasts, brands) — 10
 

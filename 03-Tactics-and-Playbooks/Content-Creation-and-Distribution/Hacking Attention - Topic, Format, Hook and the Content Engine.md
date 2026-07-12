@@ -1,7 +1,7 @@
 ---
 title: "Hacking Attention - Topic, Format, Hook and the Content Engine"
 lang: "en"
-tags: [topic/content-strategy, topic/hooks, topic/short-form-video, topic/creative-volume, topic/research, person/tuan-le]
+tags: [topic/content-strategy, topic/hooks, topic/short-form-video, topic/creative-volume, topic/research, person/tuan-le, person/steven-bartlett]
 source:
   type: "video"
   name: "How to Go Insanely Viral (Almost) Every Time by Hacking Attention"
@@ -27,6 +27,9 @@ For anyone posting short-form video for a brand or personal brand who gets low v
 - **Copy the format, insert your brand — don't invent.** Start at layer two (format), not layer one (topic).
 - **"Almost" every time is the honest ceiling** — even MrBeast doesn't hit every time. ~20% of videos drive ~80% of results; the misses still build the library, train instinct, and generate the data that raises your hit rate over time.
 - **Build a content engine, not content.** A repeatable system (format-finding process + proven hooks + consistent cadence + weekly review of what worked and why) compounds; brainstorming from zero every week does not. One engine produced 900M views over 12 months — a system, not one genius idea.
+- **Habituation turns effective language into wallpaper.** Repeated phrases, visual patterns, and calls to action lose meaning as the brain learns they carry no new information. A message can remain recognizable while becoming behaviorally inert.
+- **Familiarity and novelty need each other.** Familiar structures reduce processing cost, while a novel opening prevents the habituation filter from discarding the message. Keep the proven format; refresh the first stimulus and wording.
+- **Emotion preserves attention longer than neutrality.** Threat, surprise, conflict, and specificity demand a response. A message that produces love or dislike can travel; indifference produces neither memory nor action.
 
 ## Framework / model (if applicable)
 **Reverse-engineer a viral video in ~15 minutes:**
@@ -36,11 +39,15 @@ For anyone posting short-form video for a brand or personal brand who gets low v
 4. **Rebuild that skeleton with your brand inside it** (same pacing, beats, cuts), changing only the subject.
 5. **Build a hook that does at least one of:** ask a question they can't leave unanswered, show something visually unexpected, or drop an instant-trust credential. Two of the three in one hook nearly guarantees the win. (e.g. "Pad Thai recipe" is a topic; "Thai Express Pad Thai vs a real Thai chef's Pad Thai" is a hook — credential + comparison + implied question.)
 
+**The five-second test:** remove introductions, logos, establishing shots, and pleasantries from the opening. Lead with the strongest promise, provocation, or unresolved contrast, then deliver on it immediately. The opening earns the right to every second that follows.
+
 ## Tactics / how to apply
 - Before editing, pressure-test the first 2 seconds in isolation: would it beat the group chat?
 - Keep a running library of proven formats and hooks for your niche so you never start from a blank page.
 - Run a weekly review: what performed, why, and where viewers dropped — feed it back into next week's picks.
 - Treat underperformers as paid data, not failures; don't blow up the whole strategy over one 2,000-view post.
+- Audit common phrases in your niche—especially “like and subscribe,” “game-changing,” and other default calls to action—and replace them with specific, current evidence and a reason to act.
+- Rotate the expression once performance declines through repetition; preserve the underlying promise rather than endlessly repeating the same hook.
 
 ## Notable examples
 - A cinematic food channel's beautiful videos got ~200 views; a copied "hey chef, make me something" format got a restaurant 700k on the first try — the format carried it.
@@ -53,6 +60,9 @@ For anyone posting short-form video for a brand or personal brand who gets low v
 - [[對標方法論與靈感池系統]]
 - [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
 - [[Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing]]
+- [[Absurdity as a Brand Signal]]
 
 ## Source reference
 Tuan Le, *How to Go Insanely Viral (Almost) Every Time by Hacking Attention* (video). Extraction notes and raw transcript archived at [[2026-07-10_Video_TuanLe_HowToGoViralByHackingAttention]].
+
+Additional source: Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Laws 11, 12, and 18. [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].

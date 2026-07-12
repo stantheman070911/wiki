@@ -1,7 +1,7 @@
 ---
 title: "Constantly Train, Test, Evaluate, and Sort People"
 lang: "en"
-tags: [topic/hiring, topic/feedback, topic/leadership, topic/management, person/ray-dalio, source/bridgewater-associates]
+tags: [topic/hiring, topic/feedback, topic/leadership, topic/management, topic/culture, person/ray-dalio, person/steven-bartlett, source/bridgewater-associates]
 source:
   type: "book"
   name: "Principles"
@@ -32,9 +32,13 @@ Ninth chapter of Work Principles, the second "people" chapter — where [[Hire R
 - **Train, guardrail, or remove people — don't try to rehabilitate them indefinitely,** since values and abilities rarely change much. Don't "collect" people in roles that don't suit them out of sentimentality, and be willing to remove underperformers you genuinely care about personally. Be cautious about letting someone step back into an old role after failing forward into a new one.
 - **The goal of any transfer is the best community-wide use of the person**, not just resolving the immediate friction — and let people "complete their swing" (finish what they're mid-way through) before moving them, where possible.
 - **Don't lower the bar.** If someone can't meet the culture's standard within a reasonable time, they need to leave, regardless of how much effort or goodwill has already been invested.
+- **Evaluate cultural effect as well as individual output.** A talented person who normalizes lower standards, misconduct, or cynicism can reduce the performance of people around them; positive performers rarely cancel that contagion simply by working harder.
+- **A manager multiplies culture.** Promotion changes more than one person’s scope: the manager’s values and behavior become the local operating environment for an entire team.
 
 ## Framework / model (if applicable)
 **Baseball Cards**, evolving over time from accumulated "dots" (individual observations) — see [[Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]. This chapter is where the tool is actually operated on an ongoing basis: continuous small inputs, aggregated honestly, rather than a once-a-year snapshot.
+
+Add the **three-bars test**: “If everyone here had this person’s cultural values, attitude, and level of talent, would the organization’s average be raised, maintained, or lowered?” Use it as a prompt for evidence, not a one-question verdict. Repeated bar raisers belong in larger leadership roles; maintainers need development toward a clearer contribution; persistent bar lowerers require role redesign or removal.
 
 ## Tactics / how to apply
 - Give feedback close in time to the event it's about, rather than batching it for a scheduled review months later.
@@ -42,6 +46,9 @@ Ninth chapter of Work Principles, the second "people" chapter — where [[Hire R
 - Before writing off (or over-praising) someone based on a single incident, ask whether you have enough "dots" to support that conclusion, or whether you're over-squeezing one data point.
 - Explicitly invite your own direct reports to assess you, not just the reverse — and treat their input as real data, not a formality.
 - If you and someone are both aware of a real weakness and it isn't improving after a fair runway (Dalio's rough benchmark: about a year), make the training/guardrail/remove decision rather than extending the runway indefinitely.
+- Run the three-bars assessment separately for results and cultural behavior, citing multiple observed examples for each rating.
+- Before promoting someone, ask whether scaling their everyday behavior across a whole team would improve or damage the environment.
+- Act quickly on persistent cultural harm while maintaining a fair, documented process; delay lets one person’s behavior become a group norm.
 
 ## Notable examples
 - **The 301% finding.** When Bridgewater asked employees to estimate their own percentage contribution to shared outcomes, the self-reported totals summed to 301% — cited as hard evidence that self-assessment of contribution is systematically inflated and shouldn't be trusted uncorrected.
@@ -52,6 +59,9 @@ Ninth chapter of Work Principles, the second "people" chapter — where [[Hire R
 - [[Remember That the WHO Is More Important Than the WHAT]]
 - [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
 - [[Manage as Someone Operating a Machine to Achieve a Goal]]
+- [[Adaptive Leadership - Consistent Standards, Individual Treatment]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 9 ("Constantly Train, Test, Evaluate, and Sort People"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+Additional source: Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 30. [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].

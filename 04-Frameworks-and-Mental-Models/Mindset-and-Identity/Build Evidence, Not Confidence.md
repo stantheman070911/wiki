@@ -1,7 +1,7 @@
 ---
 title: "Build Evidence, Not Confidence"
 lang: "en"
-tags: [topic/mindset, topic/proof, topic/self-belief, topic/reps, person/alex-hormozi]
+tags: [topic/mindset, topic/proof, topic/self-belief, topic/reps, person/alex-hormozi, person/steven-bartlett]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"
@@ -27,9 +27,14 @@ Hormozi inverts "fake it till you make it." Confidence without evidence is delus
 - **Proof beats content — the message is ~10%, context is ~90%.** Elon can tweet anything and get a million likes because of who he is. Solve for proof and the content takes care of itself.
 - **Confidence is domain-specific.** Great at public speaking, bad at talking to girls — skills rarely transfer, so to get good at a thing, do *that* thing, not something adjacent.
 - **Preparation beats psych-up.** Reviewing the script makes you a better salesperson than 30 minutes of mirror affirmations; you'll feel more confident having *not* done the affirmations.
+- **Beliefs update through evidence, not commands.** A person cannot simply choose a new belief; the mind compares new evidence and its credibility against the evidence already stored. First-party experience is usually the strongest update.
+- **Every difficult choice writes the self-story.** Quiet decisions—finishing the final repetition, having the avoided conversation, returning after failure—become evidence about what kind of person you are and predict how you respond next time.
+- **Interrogate a limiting belief at mechanism level.** Asking someone to explain exactly why a belief is true, how it works, and what evidence would disconfirm it exposes gaps that generic reassurance leaves untouched.
 
 ## Framework / model (if applicable)
 **Confidence as a statistical prediction.** Your confidence = the likelihood that what you think will happen actually happens. To raise it, have it happen already. Practice under high-stakes conditions repeatedly so the game-winning shot is one you've effectively taken before.
+
+**Belief update:** current evidence + confidence in current evidence are weighed against new evidence + confidence in its source. To change a limiting self-belief, design a safe but real action that produces trusted counter-evidence, then repeat it until the new story has more weight than the old one.
 
 ## Tactics / how to apply
 - Replace affirmation time with rep time — drill the actual script, pitch, or motion.
@@ -45,6 +50,9 @@ Hormozi inverts "fake it till you make it." Confidence without evidence is delus
 - [[Volume and Feedback - Sales as the Training Ground]]
 - [[Finite vs Infinite Games - Winning by Emptying the Tank]]
 - [[Brand and Product Compounding - Too Good to Fail]]
+- [[Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
+
+Additional source: Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Laws 4 and 7. [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
