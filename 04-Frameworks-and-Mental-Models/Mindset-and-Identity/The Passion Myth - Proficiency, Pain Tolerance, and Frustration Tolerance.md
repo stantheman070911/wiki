@@ -1,7 +1,7 @@
 ---
 title: "The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance"
 lang: "en"
-tags: [topic/mindset, topic/consistency, person/alex-hormozi]
+tags: [topic/mindset, topic/consistency, topic/career, topic/skills, person/alex-hormozi, person/paul-graham, source/paul-graham-essays]
 source:
   type: "video"
   name: "If You're Ambitious but Inconsistent, Please Watch This (playlist: How to Make Your First $100,000)"
@@ -27,6 +27,9 @@ Hormozi addresses a young man who quit sales to "find his passion." Having gone 
 - **Frustration tolerance is a learnable skill.** It's the number of times you can be rejected and try again — sitting in the unknown, confident a problem is solvable even before you know how. Because it's a skill, it can be trained.
 - **Reinforcement, not reward, drives behavior.** We repeat what we're *reinforced* for. A shock is punishing — unless taking it spares your family, at which point you'll take another (a negative event made reinforcing). Translate difficulty into a reinforcing event by tying it to who/what you're providing for.
 - **Consistency breaks where it gets boring, not hard.** People fall off when the work becomes repetitive (Hormozi has made ~5,000 ads/year for 14 years). "You will be cringe / you will suck for a long time" — improving is just finding better ways to do the repeated thing you hate.
+- **“What doesn't seem like work?” is evidence about comparative fit.** A task that feels naturally absorbing to you but effortful to others can reveal a durable advantage; the signal is stronger than a glamorous occupational label.
+- **Love often applies to the core activity, not the job wrapper.** Every field contains administration, rejection, and drudgery. The practical question is whether the central work generates enough pull to justify its surrounding costs.
+- **Use projects to discover fit before making identity claims.** Graham's career advice converges with the anti-passion argument: try real work, notice what sustains curiosity, and allow the answer to evolve rather than waiting for an inner revelation.
 
 ## Framework / model (if applicable)
 **"All failure besides death is psychological"** (Jocko Willink) — the goal lines and stakes are self-drawn; you decide where you "fell short." Paired with Phil Knight (*Shoe Dog*): you're not out of business when the bank account empties, only when padlocks are on the door and people physically stop you. Most quitting is perceived failure in the mind.
@@ -40,6 +43,7 @@ Hormozi addresses a young man who quit sales to "find his passion." Having gone 
 - Reframe your goal around becoming excellent and around who you provide for, so hard, boring work becomes reinforcing.
 - Build frustration tolerance deliberately: keep knocking on the next door, shipping the next video, rebuilding the buggy page — reps without immediate reward.
 - Replace "what will people think?" with the specific name and voice, then decide if that person should rule 80 years of your life.
+- Run short, real projects in candidate fields and record which parts create energy, which merely confer status, and which costs remain tolerable after novelty fades.
 
 ## Notable examples
 - The cookie entrepreneur "passionate about being excellent," not cookies.
@@ -55,3 +59,5 @@ Hormozi addresses a young man who quit sales to "find his passion." Having gone 
 
 ## Source reference
 Alex Hormozi, *If You're Ambitious but Inconsistent, Please Watch This* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].
+
+Paul Graham, “How to Do What You Love,” “When To Do What You Love,” and “What Doesn't Seem Like Work?,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

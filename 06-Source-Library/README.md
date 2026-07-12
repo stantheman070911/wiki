@@ -14,6 +14,7 @@ Belongs here: raw or semi-processed source material kept for traceability. Does 
 ├── Conversations/
 ├── Courses/
 ├── Diagrams/
+├── Essays/
 ├── Podcasts/
 ├── Presentations/
 └── README.md

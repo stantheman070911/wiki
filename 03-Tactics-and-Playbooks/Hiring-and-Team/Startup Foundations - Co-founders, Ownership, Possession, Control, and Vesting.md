@@ -1,7 +1,7 @@
 ---
 title: "Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting"
 lang: "en"
-tags: [topic/hiring, topic/org-design, topic/equity, topic/compensation, person/peter-thiel]
+tags: [topic/hiring, topic/org-design, topic/equity, topic/compensation, topic/startups, person/peter-thiel, person/paul-graham, source/paul-graham-essays]
 source:
   type: "book"
   name: "Zero to One: Notes on Startups, or How to Build the Future"
@@ -27,6 +27,9 @@ Beginnings are qualitatively different from everything that follows: like a cons
 - **"On the bus or off the bus" — no fractional commitment.** Anyone without stock options or a regular salary is structurally biased to claim near-term value instead of building future value; consultants, part-timers, and (per Thiel's view) even full remote work erode the alignment that comes from being together, full-time, on one thing. Outside lawyers and accountants are the sanctioned exception, not the rule.
 - **Cash compensation and equity pull in opposite directions.** Cash is pure optionality — once paid, it can go anywhere — which is exactly why high cash pay teaches people to extract value from what already exists rather than build new value. A cash-poor CEO is forced to focus on growing the company's total value. Equity is unattractive to many people precisely because it's illiquid, single-company, and worthless if the company fails — which is what makes accepting it a genuine signal of long-term commitment, not a consolation prize.
 - **There's no formula for "fair" equity, so keep the cap table private.** Early employees usually get more equity for taking more risk, but a critical later hire can matter just as much with far less ownership (an eBay employee who joined in 1996 might out-earn a 1999 hire by 200x; Facebook's 2005 office muralist reportedly earned ~$200M in stock, more than some skilled engineers who joined in 2010). Since perfect fairness is unreachable, broadcasting the cap table internally tends to produce resentment disproportionate to any insight it provides.
+- **Cofounder quality is difficult to repair later.** Graham compares cofounders to location in real estate: ideas, products, and tactics can change rapidly, but replacing a founder is structurally and emotionally expensive. Shared history is therefore evidence, not a sentimental bonus.
+- **Founder control and investor protection must be distinguished.** Retaining board control can preserve the long-term product judgment investors selected in the first place; it also raises the standard for choosing founders trustworthy enough to hold it. Protective provisions should address identifiable risks rather than quietly converting investment into operational control.
+- **Use the equity equation, not fixed folklore.** Giving up *n* percent is rational when the recipient's money, labor, or access makes the remaining *(100 − n)* percent worth more than the original whole on a probability-adjusted basis.
 
 ## Framework / model (if applicable)
 **CEO pay ceiling as a forcing function.** No early-stage, venture-backed CEO should draw more than $150,000/year in salary — the number matters less than the principle: a CEO's own pay sets the psychological ceiling for the company (Aaron Levie at Box lived in a nearly-unfurnished one-bedroom apartment four years after founding, and it visibly set the tone for everyone hired under him). If a CEO won't set the floor by taking the lowest salary, the fallback is to at least keep his own the effective ceiling, so long as it stays modest.
@@ -51,3 +54,5 @@ Beginnings are qualitatively different from everything that follows: like a cons
 
 ## Source reference
 Peter Thiel with Blake Masters, *Zero to One*, ch. 9 ("Foundations"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.
+
+Paul Graham, “Founder Control,” “The Equity Equation,” “What We Look for in Founders,” and “Startups in 13 Sentences,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

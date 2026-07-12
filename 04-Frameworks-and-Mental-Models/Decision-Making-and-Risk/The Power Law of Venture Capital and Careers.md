@@ -1,7 +1,7 @@
 ---
 title: "The Power Law of Venture Capital and Careers"
 lang: "en"
-tags: [topic/power-law, topic/risk, topic/capital, topic/decision-making, person/peter-thiel]
+tags: [topic/power-law, topic/risk, topic/capital, topic/decision-making, topic/startups, person/peter-thiel, person/paul-graham, source/paul-graham-essays]
 source:
   type: "book"
   name: "Zero to One: Notes on Startups, or How to Build the Future"
@@ -26,6 +26,9 @@ Named after Vilfredo Pareto's 1906 observation that 20% of Italy's landowners he
 - **Two strange rules follow.** Rule 1: only invest in companies that could plausibly return the entire fund on their own — this eliminates the vast majority of otherwise-good opportunities. Rule 2: because rule 1 is so restrictive, there can't be any other rules (over-diversifying to hedge rule 1 defeats its purpose). Andreessen Horowitz's $250K → $78M (312x) Instagram return was spectacular and still "not enough" relative to their $1.5B fund — they'd have needed 19 Instagrams at that check size just to break even, which is why serious investors write bigger checks into fewer, higher-conviction bets.
 - **The power law is invisible in daily experience.** Investors spend most of their time on early-stage, still-similar-looking companies and on their most troubled portfolio companies (nobody wants to give up on a struggling bet) — the eventual gulf between the one dominant winner and everything else only becomes visible in hindsight, years into a fund's life, which is exactly why it's easy to miss in real time.
 - **The power law applies to individuals, not just funds.** Every entrepreneur is investing her own time; every person choosing a career is betting that the kind of work she does will be valuable decades from now. But "don't put all your eggs in one basket" — sound advice for a diversified financial portfolio — doesn't transfer: an individual cannot run several careers or companies in parallel and average the outcome, because life isn't a portfolio. One market, one distribution strategy, and some specific decisions/moments matter far more than all the others combined, in a person's life exactly as in a fund.
+- **Superlinear returns come from thresholds and compounding.** Crossing a quality threshold can direct most demand to the best performer, while advantages in learning, reputation, distribution, or capital then compound. Small initial differences can therefore create enormous outcome gaps without a comparable difference in effort.
+- **Averages are especially misleading in startup investing.** The median company can fail while the portfolio succeeds spectacularly; excluding outliers removes the phenomenon the analysis is meant to explain.
+- **Black-swan farming requires both selection and support.** Early evidence is weak, so investors need enough independent bets to encounter an outlier, then enough attention and ownership for the winner to matter. Uniform treatment after evidence emerges wastes the power-law structure.
 
 ## Framework / model (if applicable)
 **The J-curve mental model:** in the early years of a fund (or a career, or a company's channel-testing phase), winners and losers look similar — differences are visible but not yet exponential. Only years later does the portfolio split cleanly into "one dominant outcome" and "everything else." Don't mistake the early flat-looking period for evidence that the power law isn't operating; it's operating, it just hasn't become visible yet.
@@ -36,6 +39,7 @@ Named after Vilfredo Pareto's 1906 observation that 20% of Italy's landowners he
 - When evaluating any investment, hiring decision, or personal bet, ask explicitly: "if this is the best-case outcome, does it dwarf everything else I'm doing, or just add a modest amount to it?" If the answer is the latter, it's probably not worth the concentration of attention a power-law bet requires.
 - Don't let a portfolio of small, similar-sized bets substitute for identifying and doubling down on the one that could actually be the outlier — mediocre diversification is comfortable but structurally loses to concentrated conviction in a power-law domain.
 - Watch for the trap of spending more time "fixing" your weakest bets than nurturing your strongest one — it's the natural instinct, and it's backwards in a power-law world.
+- Identify whether a field rewards performance linearly or through thresholds and compounding; concentrate only when the latter structure is real and the upside can dominate the portfolio.
 - When choosing a career path or company to join, weigh the difference between companies (which follows a power law) against the difference between roles inside a company — the former usually dwarfs the latter, so joining the right company matters more than optimizing your title within a mediocre one.
 
 ## Notable examples
@@ -51,3 +55,5 @@ Named after Vilfredo Pareto's 1906 observation that 20% of Italy's landowners he
 
 ## Source reference
 Peter Thiel with Blake Masters, *Zero to One*, ch. 7 ("Follow the Money"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.
+
+Paul Graham, “Superlinear Returns,” “Black Swan Farming,” “A Way to Detect Bias,” and “The Power of the Marginal,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
