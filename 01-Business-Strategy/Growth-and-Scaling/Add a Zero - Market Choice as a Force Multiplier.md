@@ -39,9 +39,12 @@ Price is set by the buyer's market, not by the effort. A dollar is stronger in s
 3. Build for today and tomorrow at once — keep serving current customers for cash flow while duplicating your marketing into the target market (translate content, run a second geo page).
 4. To exploit the local advantage, drop a pin, define a radius, and apply global-grade offers, creative, and sales process against unsophisticated local competitors — local high-ticket services are "hard to lose money."
 5. Pick a single avatar and market; two avatars are two businesses.
+6. Permit a market test before a full switch only when the value difference is extreme and operational effort is nearly unchanged. Keep the existing engine stable, validate acquisition and repeat purchase in one new vertical, and commit only after the new economics survive.
 
 ## Example from the AMA
 A Slovenian founder ran content and ads for local realtors at ~$3k/month total across four clients. Hormozi told him the skill was fine but the market was the ceiling: sell the same work into the US, "take whatever you're charging, add a zero, and that's your US price," build content in Slovenian with AI-translated English captions, and serve both markets while transitioning. Separately, a Harvard-trained clinic owner was told that local high-ticket services are the easiest game there is — "you're the only Harvard guy in the 25-mile radius" — and that global-level marketing dropped into a local market wins by default.
+
+AMA 3 provides the threshold case: a custom-apparel company could sell roughly the same operational work to a college organization ordering dozens of shirts or a construction company ordering thousands. Because the potential order value was about 100× with little fulfillment difference, a controlled construction test was justified—but only one vertical, with the existing college operation left intact and repeat purchasing validated before expansion.
 
 ## Caveats / Exceptions
 - Concepts transfer across markets; specifics (laws, taxes, norms) do not — remake the local version of a proven concept rather than assuming it ports unchanged.
@@ -58,3 +61,5 @@ A Slovenian founder ran content and ads for local realtors at ~$3k/month total a
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
+
+Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

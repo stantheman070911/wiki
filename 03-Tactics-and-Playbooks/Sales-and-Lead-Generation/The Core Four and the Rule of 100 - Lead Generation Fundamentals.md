@@ -23,6 +23,7 @@ Applies to any business trying to fix an unstable or insufficient flow of leads,
 ## Key insights
 - **A lead is not the same as an engaged lead.** A lead is simply "a person you can contact," but the real goal is an *engaged* lead — someone who actively raises their hand (demo signup, webinar registrant, newsletter subscriber); a list of cold contacts is worth little without that intent signal.
 - **Improve lead flow along four dimensions:** more leads (reach more people), better leads (qualify for budget and urgency), cheaper leads (reduce acquisition cost), reliable leads (diversify across channels so no single source controls the pipeline).
+- **Growth is constrained by irrelevance.** Whether the missing input is customers or talent, the business is smaller because too few of the right people know it exists; advertising includes recruiting outreach as well as buyer outreach.
 - **A mediocre free offer signals a mediocre paid offer.** The lead magnet's value should exceed the perceived cost of the core offer *before* anyone has bought anything — if the free stuff is weak, prospects assume the paid product is worse too.
 - **Chasing novelty before exhausting depth is the most common failure mode.** Founders who treat "getting leads" as one vague problem, rather than a decomposable system of four discrete channels, spread effort thin instead of building mastery in one channel at a time.
 
@@ -50,10 +51,12 @@ Applies to any business trying to fix an unstable or insufficient flow of leads,
 - Build or upgrade the lead magnet before investing further in traffic; a weak free offer will cap conversion regardless of channel spend.
 - Apply the Rule of 100 as a floor, not a ceiling — pick one channel-appropriate unit of action and hold it daily for 100 days before judging the channel.
 - Before adding a new channel, verify the current one is genuinely maxed out (More → Better already exhausted) rather than assuming a new platform will outperform out of novelty.
+- In an early service business, use the **three fours** as a forcing cadence: four focused hours promoting, four delivering, and four learning. Pause the timer when attention leaves the task; elapsed time is not work volume.
 
 ## Notable examples
 - The "referral thought experiment": imagine losing all customers but one, and being banned from the Core Four — all new customers must come from that single remaining customer. The forced answer (improve the product, reduce churn, systematize referrals) is presented as the foundation all lead generation should be built on, since a mediocre product cannot be rescued by superior marketing at scale.
 - The four-stage progression mapped to Hormozi's own history: warm outreach first, content second, cold outreach/paid ads third, lead getters (team, affiliates, agencies) last — explicitly sequenced rather than run in parallel from day one.
+- A solo trainer with ten clients was told that posting and outreach were the only free acquisition paths under his control; passive-income architecture was a distraction until sustained promotion produced active income and a repeatable sales motion.
 
 ## Related entries
 - [[The Value Equation and the Grand Slam Offer]]
@@ -63,4 +66,6 @@ Applies to any business trying to fix an unstable or insufficient flow of leads,
 - [[人群場景痛點解決方案：客戶洞察與需求驗證框架]]
 
 ## Source reference
-Alex Hormozi, *$100M Leads* (2023). Extraction notes in `_Inbox/$100M series — Alex Hormozi.md` (processed; source condensed and archived per WIKI workflow).
+Alex Hormozi, *$100M Leads* (2023). Series notes: [[2026-07-08_Book_AlexHormozi_100MSeriesSummary]].
+
+Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

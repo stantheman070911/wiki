@@ -43,11 +43,14 @@ Founders build a customer-acquisition engine and neglect the "back side" — the
 7. For small businesses without a recognizable employer brand, recruit on character and story rather than compensation alone — "punch above your weight class" by selling the mission and the person's own growth arc to attract talent a bigger, better-funded competitor would otherwise win.
 8. Decide buy-vs-build deliberately for key roles: poaching a proven operator (e.g. a brand manager) buys speed and a track record at a wage premium, while developing someone internally is slower but builds loyalty and cultural fit — pick based on how urgent the constraint is, not by default.
 9. When a relocation or signing bonus is needed to close a hire, split it rather than paying it all up front: e.g. 50% at start, 50% vesting over six months, which functions as a retention mechanism as much as an acquisition incentive.
+10. Match the recruiting channel to repeat frequency: outsource a one-off executive or specialist search to a headhunter with an existing warm network; keep recurring, core roles such as sales, editing, or customer success inside an owned recruiting engine.
 
 ## Example from the AMA
 A construction-safety founder working 60–70 hour weeks couldn't hire while executing. Hormozi introduced CAT ("just like you have CAC, we need CAT") and lifetime gross profit per employee, reframed recruiting as a bow-tie ("demand-gen funnels and supply-gen funnels… everyone misses the backside"), and reset the referral bonus from $1,500 to ~$10k because a hire produced ~$130k gross profit. He recounted scaling a sales team 0→80 in 90 days by spinning up 15 recruiters at a negotiated $5/head. A luxury-home builder wanting one great salesperson was told talent is found the same way as customers — outreach at volume, "add two zeros to effort." A golf-retail owner's "overexpansion" was diagnosed as *undertalent* (his key man left), prompting the rule to hire pulled ("I really want this person"), not to stop the pain, and to keep the bar high because "the best talent is always in the future."
 
 A later Cash Cow business breakdown added the small-business angle: an operator without a recognizable brand was told to recruit on character and story — "punch above your weight class" — since a compelling personal narrative can win talent a bigger competitor would otherwise take on comp alone. Another breakdown weighed poaching an experienced brand manager against growing one internally, framed explicitly as a buy-vs-build capital allocation decision, and recommended splitting a relocation bonus 50% up front and 50% vesting over six months so the incentive also functions as a retention mechanism.
+
+AMA 3 sharpened the repeat-frequency rule: use an external recruiter when the role is rare enough that building a pipeline is wasteful, but internalize recruiting for roles the company will fill continuously. The same session reiterates that talent outreach suffers from the same insufficient-volume error as customer acquisition—contacting 15 candidates is not a search strategy.
 
 ## Caveats / Exceptions
 - Contingency recruiters suit one-off/specialized roles; repeatable roles justify building the internal system because they're core to the business.
@@ -65,3 +68,5 @@ A later Cash Cow business breakdown added the small-business angle: an operator 
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
+
+Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

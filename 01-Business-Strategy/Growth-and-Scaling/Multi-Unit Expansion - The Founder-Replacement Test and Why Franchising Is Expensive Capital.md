@@ -42,11 +42,14 @@ Founders confuse a bigger footprint with scaling. A new location run by the foun
 6. Prefer margin improvement or M&A of already-stood-up units over franchising; only franchise/license once you clear the per-quarter bar and genuinely want the arms-length capital.
 7. Recognize that founder or original-owner "magic" doesn't automatically transfer to a new or acquired location — each new site under-performs the flagship until the specific behaviors that created that magic are identified, documented, and actively trained into the new site's team, not merely assumed to travel with the brand name.
 8. When expansion speed itself is the temptation (multiple partnership or acquisition offers arriving at once), resist rushing into unvetted deals purely to hit a location-count milestone — the fastest way to five locations is not the fastest way to fifty, and hasty early partnerships can structurally cap or damage the very expansion they were meant to accelerate.
+9. Measure **scale zero** economics after paying the replacement leader and normal customer-acquisition costs. A unit subsidized by founder labor, founder audience, or unpaid management is not yet the unit being offered to franchisees.
 
 ## Example from the AMA
 A veneers business doing $2.4M across two locations (the second struggling) wanted to open a third; Hormozi showed it could reach ~$25M within the *existing* two locations' capacity and said not to open a third until the first is maxed. A pizza shop owner got the litmus test verbatim: train the GM, step out for 3–6 months, and if the flagship dips, don't open number two. A dietitian group weighing franchising heard the capital argument in full — franchising is "the most expensive form of capital you can get" because "you're giving literally almost all the business away and you're getting a royalty" — and earned a conditional green light: licensing is fine "once you can open up a location per quarter with a team that's not you that you're not involved in at all."
 
 A chiropractic-chain breakdown (Raymond) surfaced the founder-magic dilution problem directly: each new or acquired location performed below the flagship because it lacked the original owner's personal touch, and the fix was to isolate exactly what that touch consisted of operationally and build it into training rather than treating it as an unrepeatable personal quality. An eyelash-salon-chain breakdown (Annie) illustrated the expansion-speed trap — facing pressure to accept multiple new location or partnership opportunities quickly, the caller was warned that "the fastest way to five locations isn't the fastest way to fifty," and that rushing into partnerships without proper vetting to hit a short-term location count can create structural problems that slow or cap the long-run expansion.
+
+A premium nail salon in AMA 3 added the economic-independence test: its reported margin was partly supported by the founder's social-media reach. Before franchising, the unit needed to sustain acquisition, quality, staffing, and stronger margins without founder magic. Only then could media become a national franchise-sales engine rather than a hidden subsidy inside the unit model.
 
 ## Caveats / Exceptions
 - Franchising/licensing can be right for capital-intensive expansion or genuine geographic reach you can't otherwise fund — the point is to price the trade honestly.
@@ -63,3 +66,5 @@ A chiropractic-chain breakdown (Raymond) surfaced the founder-magic dilution pro
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
+
+Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

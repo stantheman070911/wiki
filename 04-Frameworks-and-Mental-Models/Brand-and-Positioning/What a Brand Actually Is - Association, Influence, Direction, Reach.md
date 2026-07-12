@@ -36,6 +36,10 @@ The hypothetical maximum brand: as many people as possible, all changing behavio
 
 **Association management.** Because a brand is built from associations, guard whom and what you appear beside. Hormozi stopped speaking on stages he doesn't own (the audience associates him with the other speakers) and grew strict about podcast appearances (an hour beside another person fuses the associations).
 
+**Reinforcement history.** Influence compounds when a person follows your direction and repeatedly gets a good outcome. Brand therefore compresses future sales: the audience needs less new information because prior promises and deliveries already established a behavioral expectation.
+
+**Association trades.** Any repositioning loses some people and gains others. The decision is not whether anyone objects, but whether the reach, influence, and favorable direction gained exceed what is lost without violating the values the brand claims to hold.
+
 **The cancellation model.** You can only be canceled if *all* means of communicating with an audience are removed **and** you stop making content. R. Kelly was effectively canceled partly because he stopped; a creator who keeps producing (e.g. Ye/Kanye through controversy) stays "uncancelable" as long as they refuse to accept it. Controversy behaves like a trending topic — it drives reach and click-through, but not necessarily influence or favorable direction, which is why Hormozi personally avoids it.
 
 ## Tactics / how to apply
@@ -43,11 +47,14 @@ The hypothetical maximum brand: as many people as possible, all changing behavio
 - Audit your appearances: decline stages, panels, and collaborations whose other participants you would not want fused to your name.
 - When weighing a "reach" opportunity (publicity, controversy, a trend), separate it from influence and direction — more eyes is not more trust or more pull toward you.
 - Treat yourself as the brand asset; concentrate rather than dilute your identity across it.
+- Evaluate stages, podcasts, spokespeople, and collaborators as association trades: estimate who will be introduced, which existing people may leave, and how the pairing changes the market's category for you.
+- Preserve the loop after purchase: what you claim, what other people report, and what the customer personally experiences must converge, or each launch must rebuild trust from zero.
 
 ## Notable examples
 - The hat: association transfers from object to value, then persists once value is established.
 - The branded cow: the mark changes third-party behavior — the primitive form of brand value.
 - Trump / Taylor Swift as high-influence brands with opposite directionality profiles across audiences.
+- Martha Stewart built influence by giving useful instructions for years; each successful result lowered the perceived risk of following her next recommendation.
 
 ## Related entries
 - [[The Seven Principles of Building an Iconic Brand]]
@@ -58,3 +65,5 @@ The hypothetical maximum brand: as many people as possible, all changing behavio
 
 ## Source reference
 Alex Hormozi, *Building a brand, but it's on easy mode instead*. Extraction notes in [[2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode]].
+
+Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

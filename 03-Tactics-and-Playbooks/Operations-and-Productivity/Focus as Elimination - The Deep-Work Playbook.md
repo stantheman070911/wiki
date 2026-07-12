@@ -29,6 +29,8 @@ Hormozi's model of productivity is subtractive. People try to *add* hacks; the r
 - **Rest is a requisite, not a betrayal.** The goal is maximum *net output over the longest period*; Hormozi found ~12 hrs/day, 7 days sustainable, with rare 3-shift seasons — but 18-hour days steal from tomorrow.
 - **A priority is incomplete without a posteriority.** Drucker's sharper test is not whether you can rank tasks, but whether you have the courage to decide what will not be done and keep resources away from it. Trying to preserve every stakeholder's priority guarantees that none receives enough concentration to become a result.
 - **Stop feeding yesterday before starting tomorrow.** Periodically ask of every program, product, and recurring task: “If we were not already doing this, would we start now?” Unless the answer is an unconditional yes, curtail or stop it and move proven performers to future opportunities. New work without deliberate abandonment produces organizational obesity, not growth.
+- **Strategy is concentrated resource allocation.** Better entrepreneurs put more time and money behind fewer opportunities with higher expected returns. One outcome may require twenty supporting actions; that is still focus because every action reinforces the same bridge.
+- **One major outcome per year can be enough.** Depth comes from repeated passes, risk reviews, and “coats of paint” that split attention never allows; the later passes often produce the order-of-magnitude improvement.
 - **Maker and manager schedules use incompatible units.** Managers can divide a day into hourly meetings; makers often need half-day blocks because a single meeting splits the day and imposes ramp-down, context switching, and ramp-up costs.
 - **The top idea receives hidden time.** The issue occupying your mind during showers and walks consumes more attention than its calendar allocation suggests. Money disputes and administrative drama are dangerous because they displace creative problems from this background channel.
 - **Separate devices and environments by function.** Graham's unsuccessful attempts to rely on willpower against the internet reinforce the environmental approach: make the focused machine incapable—or at least inconvenient—for browsing, and keep communication on another device or schedule.
@@ -53,6 +55,7 @@ Hormozi's model of productivity is subtractive. People try to *add* hacks; the r
 - Before adding a project, name the existing activity that will release its time, people, and attention. Do not fund the new from imaginary spare capacity.
 - Review recurring work on a fixed cadence with the zero-based question, “Would we enter this today?” Give sunset decisions the same status as launch decisions.
 - Choose priorities by four courage tests: future over past, opportunity over problem, an independent direction over the bandwagon, and material impact over safe activity.
+- Reduce a long event or planning backlog to the one outcome that would make the others irrelevant, then redirect the people, calendar, and money needed to make failure on that outcome implausible.
 
 ## Notable examples
 - When Gym Launch first worked, an eight-figure mentor told Hormozi "when it gets easy is when you go hard"; he and Leila worked as if a hypothetical enemy were trying to destroy them and got far ahead.
@@ -72,3 +75,5 @@ Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Ex
 Peter F. Drucker, *The Effective Executive*, ch. 5, “First Things First” (1967; 2006 edition). Raw archived text in [[2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript]].
 
 Paul Graham, “Maker's Schedule, Manager's Schedule,” “The Top Idea in Your Mind,” and “Disconnecting Distraction,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
+
+Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

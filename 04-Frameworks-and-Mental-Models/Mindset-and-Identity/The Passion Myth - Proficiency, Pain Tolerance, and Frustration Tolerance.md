@@ -44,6 +44,7 @@ Hormozi addresses a young man who quit sales to "find his passion." Having gone 
 - Build frustration tolerance deliberately: keep knocking on the next door, shipping the next video, rebuilding the buggy page — reps without immediate reward.
 - Replace "what will people think?" with the specific name and voice, then decide if that person should rule 80 years of your life.
 - Run short, real projects in candidate fields and record which parts create energy, which merely confer status, and which costs remain tolerable after novelty fades.
+- Train frustration tolerance with deliberately increasing unrewarded reps: do 10 outreaches, then 20, 30, 50, and 100 even when the prior batch produced nothing. The target is the ability to continue an aversive action without immediate reinforcement, not enthusiasm for a task you already enjoy.
 
 ## Notable examples
 - The cookie entrepreneur "passionate about being excellent," not cookies.
@@ -61,3 +62,5 @@ Hormozi addresses a young man who quit sales to "find his passion." Having gone 
 Alex Hormozi, *If You're Ambitious but Inconsistent, Please Watch This* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].
 
 Paul Graham, “How to Do What You Love,” “When To Do What You Love,” and “What Doesn't Seem Like Work?,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
+
+Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

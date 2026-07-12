@@ -41,11 +41,14 @@ Customers do not buy the operator's effort. They buy the removal of pain, risk, 
 5. Use visuals when the outcome is visual; before/after is often stronger than explanation.
 6. Sell the higher price against the removed friction, not against more effort.
 7. Only then decide whether to add payment terms, a smaller starter offer, or a guarantee.
+8. When the category is easy to compare, design the difference on at least one of three vectors: **faster**, **less risky**, or **easier**. Ask what it would take to deliver in one-third the time, insure the buyer's largest fear, or complete more pre-work before intake; then raise price to fund the operational difference.
 
 ## Example from the AMA
 An exhaust-hood cleaning founder felt trapped in "beat your price" conversations with restaurants. Hormozi pushed him to stop accepting the premise that the service was a commodity. The useful question was not "how cheap can I be?" but "what makes bad hood cleaning bad?" If competitors are unreliable, incomplete, hard to schedule, risky for fire compliance, or unwilling to return, the offer should say those things plainly and show how this company removes them.
 
 In a medical clinic selling TMS for depression, the founder described the procedure as highly technical. Hormozi's advice was to take the marketing down many levels: depressed customer, better outcome, insurance covers it, more effective than talk therapy. The technical sophistication matters, but the ad must be clear enough to absorb immediately.
+
+AMA 3 generalizes the offer design into three value vectors. A home-service company can pay contractors more to create same-day capacity, include insurance against the buyer's feared damage, or prepare measurements and paperwork before arrival. The premium is justified because the operation is now materially different, not because the copy claims it is.
 
 ## Caveats / Exceptions
 - Decommoditization is not wordplay. If the service is genuinely identical in delivery, the difference must be created operationally before it can be claimed.
@@ -62,3 +65,5 @@ In a medical clinic selling TMS for depression, the founder described the proced
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
+
+Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

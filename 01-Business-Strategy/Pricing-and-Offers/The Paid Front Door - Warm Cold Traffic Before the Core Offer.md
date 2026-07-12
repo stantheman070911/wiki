@@ -41,11 +41,15 @@ Cold traffic has not yet absorbed the context that warm traffic already has: who
 5. Track qualified conversion, not just raw lead conversion.
 6. Feed qualification data back into ad optimization, messaging, and sales prioritization.
 7. Make the front door feel absurdly valuable, even if it only breaks even or loses money.
+8. When a broad lead magnet fails, use a quiz to segment the buyer into a small number of problem paths. Put belief-breaking explanations and proof between questions, then route each completed profile to the matching offer.
+9. Concentrate follow-up immediately after opt-in, when intent is highest: a short welcome sequence can use two emails per day plus text for the first four days, then fall back to the normal cadence.
 
 ## Example from the AMA
 A poker coaching business had a $5,000 five-day offer, 200k YouTube subscribers, and strong warm conversion, but cold webinars flopped. Hormozi diagnosed that cold traffic was being pushed through a warm motion. His fix was a $49-$99 paid workshop, expanded to about three hours, with real value before the ask. He also told the founder to collect average poker buy-in as a qualification field so the business could optimize around qualified buyers rather than raw registrants.
 
 The same pattern appeared in other calls: a cloud-services expert was advised to sell a paid improvement patch or assessment before managed services; a genetic-testing business could let affiliates keep the front-end test profit and monetize downstream; an outdoor-lighting company could offer a small driveway or walkway install rather than a vague free sales pitch.
+
+For a health newsletter in AMA 3, repeated generic meal-plan offers had failed. Hormozi recommended a quiz funnel that identifies the reader's actual pain, weaves education and proof between questions, and routes the reader to a specific self-liquidating offer. He paired it with an intensive four-day welcome window promoting the product the publisher owns.
 
 ## Caveats / Exceptions
 - A paid front door does not fix a weak core offer. It only improves trust, qualification, and sequencing.
@@ -62,3 +66,5 @@ The same pattern appeared in other calls: a cloud-services expert was advised to
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
+
+Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

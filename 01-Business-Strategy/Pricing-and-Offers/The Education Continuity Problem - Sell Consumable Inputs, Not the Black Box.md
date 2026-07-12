@@ -39,11 +39,14 @@ Education's value curve spikes at the moment of learning and collapses afterward
 4. Niche down so a single machine is possible — you can only manufacture inputs (e.g. tested ads) for one avatar, which is why niching enables continuity.
 5. Keep recurring price well below the ongoing value (rule of thumb: ongoing value ≈ 3–4× the fee) so cancelling always feels irrational.
 6. Add network effects where each member increases value rather than diluting it.
+7. In skill-based trades, treat paid education as customer acquisition for a consumable back end: certify the operator, make the supplied tool central to the operator's income, and earn continuity from the inputs that must be replenished to perform the service.
 
 ## Example from the AMA
 A creator selling a paid community to overseas Chinese entrepreneurs asked how to hit high monthly recurring revenue. Hormozi explained the education-continuity trap and the fix — sell consumable inputs, not the one-time lesson — with examples: a low-churn 3D-printing community uploads fresh trending print blueprints weekly; a wholesaling community posts prevetted local deals each week; news subscriptions work because last week's news is worthless; and Gym Launch stayed sticky with high margins because it handed gym owners *newly tested winning ads* every month rather than selling education once. He also noted willingness-to-pay for the recurring piece is far below the one-time piece — which is acceptable if the ongoing value stays several times the price. A separate cold-email agency was told to sell a one-time fee to find message-market fit, then a recurring tier for volume, because a one-time offer sells far more easily than an ongoing one.
 
 A financial-advisor-focused business made the same split explicit between two adjacent offers: lead generation was framed as the recurring, consumable side (fresh leads delivered every cycle, genuinely renewable value), while sales coaching was framed as the one-time skill-transfer side (a technique, once learned, doesn't need to be re-taught). Hormozi's point was to keep the two revenue lines conceptually and commercially separate — price and market the coaching as a bounded, one-time transformation, and let the lead-generation service carry the ongoing recurring relationship, rather than trying to bill the coaching component monthly indefinitely.
+
+AMA 3 adds the strongest form of this model: hair-extension and permanent-makeup academies can use certification and a machine to acquire practitioners, then compound revenue through extensions, needles, tips, or other consumables. The critical test is whether the new technique becomes the practitioner's core economic activity; if it remains an optional add-on, supplies will be the first thing abandoned when attention tightens.
 
 ## Caveats / Exceptions
 - Larger/advanced audiences may value network, access, and group-negotiated benefits over inputs — match the consumable to the tier.
@@ -60,3 +63,5 @@ A financial-advisor-focused business made the same split explicit between two ad
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
+
+Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

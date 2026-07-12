@@ -31,6 +31,9 @@ Bake proof components into how you already service customers, so documentation a
 **c) If you lack enough customers, manufacture the opportunity.**
 Offer free audits or free work to 5-10 people, and document them. "Let me do real work for free and give it away" — few refuse, and you generate proof publicly.
 
+**d) State facts and show what only you can show.**
+Make the strongest verifiable fact or artifact the center of the content: results, customer records, product behavior, reviews, or a live demonstration. If the truthful facts are not compelling, improve the product and collect better evidence rather than warping the claim.
+
 ## Content production philosophy: "Capture, don't create"
 Volume comes from **capturing** activity you already do, not sitting down to record from scratch. Recording every piece from scratch is miserable and caps your output; instead, do what you enjoy in the course of running your business (e.g. live Q&As with customers) and document/capture those moments. The goal is to feed the proof machine continuously by documenting while you deliver — not by adding a separate content-creation workload on top of your real work.
 
@@ -46,6 +49,7 @@ AI disrupts creators from lowest risk to highest, in that order. To protect your
 - Audit your last month of customer interactions: which ones would have made compelling proof content if you'd simply hit record or taken a screenshot?
 - If you're short on customers to showcase, design a small free-work offer (5-10 people) specifically to generate your first batch of documented proof.
 - Replace at least one item on your content calendar with "capture" instead of "create" this week — document something you were already going to do anyway.
+- Ask of every claim: “What could I show so I no longer need to say this?” Then build that evidence into delivery and capture it by default.
 
 ## Related entries
 - [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
@@ -54,3 +58,5 @@ AI disrupts creators from lowest risk to highest, in that order. To protect your
 
 ## Source reference
 Alex Hormozi, "Building a Personal Brand in 2026" (podcast transcript). Full notes archived at [[2026-07-02_Podcast_AlexHormozi_PersonalBrandVsAI]].
+
+Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

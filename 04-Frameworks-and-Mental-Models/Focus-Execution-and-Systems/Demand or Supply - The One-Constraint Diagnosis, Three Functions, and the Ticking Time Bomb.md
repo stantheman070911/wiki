@@ -39,9 +39,12 @@ Effort spread across a non-binding constraint doesn't move the system — only t
 3. Map hires to the constraint via the three functions: promote (get customers, including conversion), deliver (build/serve the product), operate (run the day-to-day, culture, standards). Fill the deficiency that ties to the constraint.
 4. Don't market your way out of a delivery problem: if you're supply-constrained, fix delivery (operating leverage, offshoring, tooling) before spending on demand.
 5. Use an Eisenhower lens for the future: an existential-but-not-urgent constraint (e.g. an expiring facility) must be planned; solve today's binding constraint first if doing so frees the cash to defuse the future one, and parallelize when different leaders can own each.
+6. When many problems appear simultaneously, ask which repair would remove more than one. A training system that improves both the product and the staff used to deliver it can outrank several louder but downstream issues.
 
 ## Example from the AMA
 Hormozi repeatedly reduced businesses to "are you supply or demand constrained," then ignored the non-binding side: a CFO-advisory firm that had *stopped* taking new sales was told it was supply-constrained and shouldn't try to market its way out — fix delivery via offshoring and AI first. He rejected the "three key people" question from a holding-company founder, reframing it as the three functions (promote, deliver, operate) mapped to the constraint, and described alternating with his wife — "one of us is always killing ourselves, never both at the same time" — as they trade between demand and supply. For a manufacturer facing a dilapidated facility in 24–36 months while sales/marketing was today's constraint, he used the Eisenhower matrix (important, not urgent): solve sales/marketing now to free cash, fund the facility move, and run the move in parallel under a separate project-manager.
+
+In AMA 3, a virtual-assistant business appeared to have many constraints, but the VAs were both the delivery product and the mechanism used to grow it. Fixing their training therefore attacked several symptoms at once. Hormozi's operating rule was to let lower-ranked fires burn, solve the first constraint completely, and then re-rank because the remaining system will have changed.
 
 ## Caveats / Exceptions
 - "Ignore the other side" is temporary discipline, not permanent neglect — you alternate as the constraint shifts.
@@ -60,3 +63,5 @@ Hormozi repeatedly reduced businesses to "are you supply or demand constrained,"
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
+
+Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
