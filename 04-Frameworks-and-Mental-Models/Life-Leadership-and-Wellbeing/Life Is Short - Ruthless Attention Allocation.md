@@ -1,7 +1,7 @@
 ---
 title: "Life Is Short - Ruthless Attention Allocation"
 lang: "en"
-tags: [topic/focus, topic/happiness, topic/opportunity-cost, topic/decision-making, topic/mindset, person/paul-graham, source/paul-graham-essays]
+tags: [topic/focus, topic/happiness, topic/opportunity-cost, topic/decision-making, topic/mindset, person/paul-graham, person/daniel-priestley, source/paul-graham-essays, source/daniel-priestley-youtube]
 source:
   type: "essay collection"
   name: "Paul Graham - Collected Essays"
@@ -27,6 +27,7 @@ Knowing abstractly that life is finite rarely changes a calendar. A more actiona
 - **Possessions consume after purchase.** They require choosing, storing, protecting, repairing, and eventually discarding.
 - **Regret can be operationalized.** Dreams, friendships, candor, happiness, and sustainable work belong on current schedules rather than a distant “later.”
 - **Children expose finite seasons.** Many experiences have not only a limited total count but a closing window.
+- **Shared passage is an achievement.** Staying present through a friend's grief, a parent's decline, a wedding, or a long collaboration often matters more in retrospect than the status experiences that are easier to display publicly.
 
 ## Framework / model (if applicable)
 Conduct an **attention audit**: list recurring activities, estimate scheduled time plus background mental residue, and label each as creation, connection, recovery, maintenance, or counterfeit. Remove or contain the counterfeit category and deliberately assign the recovered attention.
@@ -48,3 +49,5 @@ The number of weekends with one's young children is countable and falls quickly.
 
 ## Source reference
 Paul Graham, “Life is Short,” “The Top Idea in Your Mind,” “Stuff,” “How to Lose Time and Money,” “Having Kids,” and “The Top of My Todo List,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
+
+Additional source: Daniel Priestley, *25 Harsh Truths at 45*, [[2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript]].

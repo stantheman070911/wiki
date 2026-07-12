@@ -1,7 +1,7 @@
 ---
 title: "The Power Law of Venture Capital and Careers"
 lang: "en"
-tags: [topic/power-law, topic/risk, topic/capital, topic/decision-making, topic/startups, person/peter-thiel, person/paul-graham, source/paul-graham-essays]
+tags: [topic/power-law, topic/risk, topic/capital, topic/decision-making, topic/startups, person/peter-thiel, person/paul-graham, person/daniel-priestley, source/paul-graham-essays, source/daniel-priestley-youtube]
 source:
   type: "book"
   name: "Zero to One: Notes on Startups, or How to Build the Future"
@@ -29,6 +29,7 @@ Named after Vilfredo Pareto's 1906 observation that 20% of Italy's landowners he
 - **Superlinear returns come from thresholds and compounding.** Crossing a quality threshold can direct most demand to the best performer, while advantages in learning, reputation, distribution, or capital then compound. Small initial differences can therefore create enormous outcome gaps without a comparable difference in effort.
 - **Averages are especially misleading in startup investing.** The median company can fail while the portfolio succeeds spectacularly; excluding outliers removes the phenomenon the analysis is meant to explain.
 - **Black-swan farming requires both selection and support.** Early evidence is weak, so investors need enough independent bets to encounter an outlier, then enough attention and ownership for the winner to matter. Uniform treatment after evidence emerges wastes the power-law structure.
+- **A person can define a narrower power-law game, then expand.** Combining a specific customer, context, and outcome can create a category small enough to become genuinely top-tier; after authority and proof compound, pivot into a broader adjacent market rather than competing as an average generalist from day one.
 
 ## Framework / model (if applicable)
 **The J-curve mental model:** in the early years of a fund (or a career, or a company's channel-testing phase), winners and losers look similar — differences are visible but not yet exponential. Only years later does the portfolio split cleanly into "one dominant outcome" and "everything else." Don't mistake the early flat-looking period for evidence that the power law isn't operating; it's operating, it just hasn't become visible yet.
@@ -57,3 +58,5 @@ Named after Vilfredo Pareto's 1906 observation that 20% of Italy's landowners he
 Peter Thiel with Blake Masters, *Zero to One*, ch. 7 ("Follow the Money"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.
 
 Paul Graham, “Superlinear Returns,” “Black Swan Farming,” “A Way to Detect Bias,” and “The Power of the Marginal,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
+
+Additional source: Daniel Priestley, *AI and the Digital Income Shift*, [[2026-07-13_Video_DanielPriestley_AIAndTheDigitalIncomeShift_RawTranscript]].

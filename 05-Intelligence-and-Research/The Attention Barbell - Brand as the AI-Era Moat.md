@@ -1,7 +1,7 @@
 ---
 title: "The Attention Barbell - Brand as the AI-Era Moat"
 lang: "en"
-tags: [topic/ai, topic/brand, topic/barbell-strategy, topic/content-strategy, topic/do-things-that-dont-scale, topic/email-marketing, person/gary-vaynerchuk]
+tags: [topic/ai, topic/brand, topic/barbell-strategy, topic/content-strategy, topic/do-things-that-dont-scale, topic/email-marketing, person/gary-vaynerchuk, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
   type: "video"
   name: "The New Rules of Social Media (2026)"
@@ -26,6 +26,8 @@ When every buyer asks an AI agent "who should I hire / go with?", discovery stop
 - **The barbell, not the middle.** The world is splitting into two extremes: extreme technology (AI, bots, automation) and extreme old-fashioned humanity (1950s-style personal contact). Winners operate at *both* ends; the un-differentiated middle loses.
 - **The human end is transaction-free.** Reach out to every past client just to say hello — genuinely, with no ask. The value ("karma") compounds into business as a residual effect, not as a pitched transaction.
 - **Adaptability over grievance.** Rather than mourn that 20 years of work got commoditized, go on offense with the same new tools that commoditized it ("I'm not going to cry… I'm just going to go on the offense of the same thing").
+- **Software features need an experience moat around them.** A narrow top-tier reputation reinforced by selective access, a valuable peer community, and memorable human experiences is harder to reproduce than code alone.
+- **Conversational discovery may strengthen the barbell.** If AI systems increasingly mediate recommendations, machine-readable proof and extreme human accountability become complementary rather than opposing advantages; the advertising details remain a forecast until verified.
 
 ## Framework / model (if applicable)
 **Jab, jab, jab, right hook (value-first sequencing).** Content is boxing. Jabs/feints = free information given with the hope it helps. The right hook = the ask/sale. If every post is a right hook, the audience learns to duck; the jabs create the karma and energy that make the eventual right hook land. "Doing good things leads to good results."
@@ -54,3 +56,5 @@ When every buyer asks an AI agent "who should I hire / go with?", discovery stop
 
 ## Source reference
 Gary Vaynerchuk, *The New Rules of Social Media (2026)*. Extraction notes in [[2026-07-08_Talk_GaryVaynerchuk_NewRulesOfSocialMedia2026]].
+
+Additional sources: Daniel Priestley, *Your Business Is Dead - AI Reinvention*, [[2026-07-13_Video_DanielPriestley_YourBusinessIsDeadAIReinvention_RawTranscript]], and *ChatGPT Ads Opportunity*, [[2026-07-13_Video_DanielPriestley_ChatGPTAdsOpportunity_RawTranscript]].

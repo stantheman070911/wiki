@@ -1,7 +1,7 @@
 ---
 title: "Finish and Release - Abundance Beats Perfectionism"
 lang: "en"
-tags: [topic/creativity, topic/execution, topic/commitment, topic/mindset, person/rick-rubin]
+tags: [topic/creativity, topic/execution, topic/commitment, topic/mindset, person/rick-rubin, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
   type: "book"
   name: "The Creative Act - A Way of Being"
@@ -27,6 +27,7 @@ Perfectionism often disguises scarcity: the belief that this may be the only goo
 - **Deadlines belong late.** Early fixed release dates can prevent a better direction from developing; near completion, a due date focuses time and defeats inconsequential revision.
 - **Finishers and experimenters need opposite medicine.** Finishers should widen early exploration; experimenters should complete a small component to create momentum and reduce the remaining load.
 - **Release the reception.** Audience response, market timing, and critical judgment are outside the maker's control. They should not be smuggled into the standard for whether the work itself is ready.
+- **Prolific beats perfect when distribution supplies feedback.** In algorithmic markets, weak work usually disappears quietly while strong work earns more reach; publishing more considered attempts gives quality more chances to emerge and turns mediocre results into data.
 
 ## Framework / model (if applicable)
 Apply the **Close–Release–Regenerate loop**:
@@ -56,3 +57,5 @@ Rubin contrasts musicians who delay an album because it might define them foreve
 
 ## Source reference
 Rick Rubin with Neil Strauss, *The Creative Act: A Way of Being* (2023). Raw transcript archived at [[2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript]].
+
+Additional source: Daniel Priestley, *25 Harsh Truths at 45*, [[2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript]].

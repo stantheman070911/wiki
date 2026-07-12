@@ -1,7 +1,7 @@
 ---
 title: "The Core Four and the Rule of 100 - Lead Generation Fundamentals"
 lang: "en"
-tags: [topic/sales, topic/rule-of-100, person/alex-hormozi]
+tags: [topic/sales, topic/rule-of-100, topic/qualification, person/alex-hormozi, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
   type: "book"
   name: "$100M Leads"
@@ -26,6 +26,7 @@ Applies to any business trying to fix an unstable or insufficient flow of leads,
 - **Growth is constrained by irrelevance.** Whether the missing input is customers or talent, the business is smaller because too few of the right people know it exists; advertising includes recruiting outreach as well as buyer outreach.
 - **A mediocre free offer signals a mediocre paid offer.** The lead magnet's value should exceed the perceived cost of the core offer *before* anyone has bought anything — if the free stuff is weak, prospects assume the paid product is worse too.
 - **Chasing novelty before exhausting depth is the most common failure mode.** Founders who treat "getting leads" as one vague problem, rather than a decomposable system of four discrete channels, spread effort thin instead of building mastery in one channel at a time.
+- **An assessment can turn traffic into an engaged, qualified lead.** Ten best-practice questions create immediate diagnostic value, while five questions on situation, desired outcome, obstacle, preferred solution, and open context support routing and sales follow-up.
 
 ## Framework / model (if applicable)
 **Building a lead magnet — seven steps:** (1) identify a narrow, painful problem, (2) decide how to solve it (diagnose, sample/trial, or one step of a multi-step process), (3) choose the delivery format, (4) test names/headlines, (5) make it frictionless and fast to consume, (6) make it genuinely excellent — the brand is judged by the free stuff, (7) include a clear CTA with a reason to act now.
@@ -69,3 +70,5 @@ Applies to any business trying to fix an unstable or insufficient flow of leads,
 Alex Hormozi, *$100M Leads* (2023). Series notes: [[2026-07-08_Book_AlexHormozi_100MSeriesSummary]].
 
 Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+
+Additional source: Daniel Priestley, *Online-Assessment Lead-Generation System*, [[2026-07-13_Video_DanielPriestley_OnlineAssessmentLeadGenerationSystem_RawTranscript]].

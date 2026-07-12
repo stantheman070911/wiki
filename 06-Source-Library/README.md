@@ -17,6 +17,7 @@ Belongs here: raw or semi-processed source material kept for traceability. Does 
 ├── Essays/
 ├── Podcasts/
 ├── Presentations/
+├── Videos/
 └── README.md
 ```
 
@@ -29,7 +30,7 @@ Examples:
 - `2026-07-01_Podcast_HostName_Topic.md`
 - `2026-07-08_Video_AlexHormozi_AskMeAnything_RawTranscript.md`
 
-Videos, talks, and playlists currently remain in the closest existing source-type folder unless a future migration intentionally creates a dedicated `Videos/` folder.
+Videos and their transcripts belong in `Videos/`; talks and playlists remain in the closest existing source-type folder unless a future migration gives them a dedicated folder.
 
 Larger structured courses may be archived as their own named subfolder (original slides/PDFs and any accompanying template spreadsheets), e.g. `Courses/陳宗賢的連鎖經營學/`, referenced from the WIKI entry/entries it produced.
 

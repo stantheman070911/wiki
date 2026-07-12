@@ -1,7 +1,7 @@
 ---
 title: "The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet"
 lang: "en"
-tags: [topic/funnel, topic/content-strategy, topic/research, topic/avatar, person/sabri-suby]
+tags: [topic/funnel, topic/content-strategy, topic/research, topic/avatar, person/sabri-suby, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
   type: "video"
   name: "Customer Acquisition, Offers, and Ads Playbook (compilation)"
@@ -26,6 +26,7 @@ Suby's answer to why most small businesses have an artificially high CAC: they o
 - **Give away the secrets, sell the implementation.** The instinct to protect "secret" methods from competitors is usually backwards — competitors can already watch how you operate; what they can't replicate is your execution quality. Giving away the how builds trust disproportionately (10x more people come to learn something than to buy something), and the free content itself becomes the proof that the paid version is credible.
 - **The fortune is in the follow-up.** The largest, highest-value customer cohort in Suby's own tracking bought more than 90 days after first contact — meaning the business was "investing" in the prospect for months before the prospect ever invested back. Most sales teams follow up 2–3 times and give up; simply tripling follow-up volume on existing leads is presented as the single fastest, cheapest way to increase sales, because leads that don't convert on contact #3 are not dead — they're just not there yet.
 - **Curiosity-first research beats guessing.** Writing ad or offer copy from a blank page means guessing at the market's language. Mining forums and reviews for verbatim language removes the guesswork and produces copy that reads as if you were "reading their group chat."
+- **Different awareness stages need different experiences.** Problem-aware buyers need diagnosis and empathy, process-aware buyers need methods and cases, and solution-ready buyers need trials, demonstrations, calculators, or direct discussion that make the prize credible.
 
 ## Framework / model (if applicable)
 **The Larger Market Formula (buyer awareness pyramid), top to bottom:**
@@ -63,3 +64,5 @@ Marketing engineered to speak to the *entire* pyramid — not just the top 3% �
 
 ## Source reference
 Sabri Suby, customer-acquisition training video (part of a four-video compilation). Raw transcript and extraction notes archived at [[2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook]].
+
+Additional source: Daniel Priestley, *Marketing Playground*, [[2026-07-13_Video_DanielPriestley_MarketingPlayground_RawTranscript]].

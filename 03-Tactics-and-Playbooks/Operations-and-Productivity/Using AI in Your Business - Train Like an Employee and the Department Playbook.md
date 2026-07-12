@@ -1,7 +1,7 @@
 ---
 title: "Using AI in Your Business - Train Like an Employee and the Department Playbook"
 lang: "en"
-tags: [topic/ai, topic/automation, topic/hiring, topic/operations, person/alex-hormozi]
+tags: [topic/ai, topic/automation, topic/hiring, topic/operations, person/alex-hormozi, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
   type: "video"
   name: "How to Use AI in Your Business in 2026 (playlist: How to Make Your First $100,000)"
@@ -27,6 +27,7 @@ The companion operations piece to the AI strategy: how Hormozi's ~$250M-revenue 
 - **Apples-to-apples, not John Henry.** Don't pit a half-built AI function against a process optimized over 10–20 years and conclude it fails. Give the AI the same SOP rigor and iteration you gave the human system.
 - **AI accelerates a process; it doesn't remove the need for one.** An AI setter dropped into a business with no real sales motion still fails — worse if your process was already bad. It makes what you do easier and faster, not optional.
 - **Human psychology won't change.** The rules of persuasion still apply, which is why **proof is the bottleneck of AI content** — endless AI output makes proof the differentiator (B2B especially: a proof-less AI avatar is "just GPT words"; consumer is less sensitive because a beautiful avatar visually implies proof).
+- **Agent availability should expand the offer, not only cut cost.** Ask what research, analysis, preparation, and personalized guidance every customer could receive if capable assistants were abundant; this reveals new value that an efficiency-only audit misses.
 
 ## Framework / model (if applicable)
 **Replace "magic" with pattern recognition.** Whenever you catch yourself saying "I just know / gut / intuition / taste," reframe it as pattern recognition (stimuli + reinforcement generalized into a pattern) and write down the *observable behaviors* that produce the outcome — then an agent can be trained on them. Copy example: instead of "write this email," give "12 rules you can't break + 16 of my writing samples, write only to these" → ~5× better; repeat the loop 100 times (100 minutes vs ~1.5 years with a person).
@@ -69,3 +70,5 @@ Source for this section: *Alex Hormozi Answers Your Questions (Ask Me Anything)*
 
 ## Source reference
 Alex Hormozi, *How to Use AI in Your Business in 2026* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].
+
+Additional source: Daniel Priestley, *Your Business Is Dead - AI Reinvention*, [[2026-07-13_Video_DanielPriestley_YourBusinessIsDeadAIReinvention_RawTranscript]].

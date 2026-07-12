@@ -1,7 +1,7 @@
 ---
 title: "Levels of a Personal Brand and the Five Archetypes"
 lang: "en"
-tags: [topic/personal-brand, topic/positioning, topic/content-strategy]
+tags: [topic/personal-brand, topic/positioning, topic/content-strategy, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
   type: "video"
   name: "The Art of the Personal Brand"
@@ -25,6 +25,7 @@ Promoting yourself is now permanent cultural infrastructure — in an era of AI 
 - **The "views are down" / flattening theorem.** More creators plus sharper algorithms (geography, interest, overlapping interest) fragment the market, so universal content competes against far more relevant niche content. That is the *opportunity* for small brands: a niche of 1–2k genuinely interested people can meet your objective.
 - **The 3–10k-view sweet spot.** For most personal brands, consistently landing ~3–10k views per video is the target — reaching invested people, not chasing scale. Going much higher usually means you've drifted outside what you're trying to achieve. (Goal-dependent: true creators chasing reach need more.)
 - **Entertain or give value — always.** No one cares about you; they care about themselves. Content that only talks about you has a smaller addressable market.
+- **A business-linked personal brand needs leverage skills beyond posting.** Pitching, publishing, productizing, profile-building, and partnerships determine whether attention turns into authority and commercial opportunity.
 
 ## Framework / model (if applicable)
 **The four levels:**
@@ -57,3 +58,5 @@ Promoting yourself is now permanent cultural infrastructure — in an era of AI 
 
 ## Source reference
 "The Art of the Personal Brand" (video). Extraction notes and raw transcript in [[2026-07-08_Video_ArtOfThePersonalBrand]].
+
+Additional source: Daniel Priestley, *Five Ps of a Key Person of Influence*, [[2026-07-13_Video_DanielPriestley_FivePsOfKeyPersonOfInfluence_RawTranscript]].

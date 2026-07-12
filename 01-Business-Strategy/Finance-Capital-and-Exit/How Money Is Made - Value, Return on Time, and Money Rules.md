@@ -1,7 +1,7 @@
 ---
 title: "How Money Is Made - Value, Return on Time, and Money Rules"
 lang: "en"
-tags: [topic/money, topic/value-creation, topic/wealth, topic/partnerships, person/alex-hormozi]
+tags: [topic/money, topic/value-creation, topic/wealth, topic/partnerships, person/alex-hormozi, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"
@@ -28,6 +28,8 @@ This consolidates Hormozi's "money rules" — the principles he says separate lo
 - **"If you can't buy it twice, don't buy it once."** Price purchases in the post-tax hours of work they cost (Hormozi's Smoothie King "two hours per lunch" realization); saving doesn't make money but lets you look further out and take bigger, money-making risks.
 - **You should only have to get rich once.** Don't bet what you have and need for something you don't have and don't need.
 - **Automate investing, add friction to spending.** Skim investment off the top before you see it; make spending manual (write checks, delete shopping apps, don't save cards). Invest first, spend the rest (Switzerland's high millionaire density as the "different rules" case).
+- **Money responds to opportunity, not requests.** Capital providers need a legible opportunity expressed through the appropriate structure and documents—an offer, model, pitch deck, terms, and expected return—not merely the founder's need or passion.
+- **The deepest benefit of reserves is optionality.** Money is a score and coordination tool, but a buffer buys mental freedom, time freedom, and the ability to explore a high-value idea without immediate income pressure.
 
 ## Framework / model (if applicable)
 **"It's easier to make a million than $100k."** $100k assumes trading time for wages, capping you. A million forces a different *solution set* — more skill in less time (walk one block vs. drive five). Thinking bigger changes your tools.
@@ -55,3 +57,5 @@ This consolidates Hormozi's "money rules" — the principles he says separate lo
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
+
+Additional source: Daniel Priestley, *25 Harsh Truths at 45*, [[2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript]].

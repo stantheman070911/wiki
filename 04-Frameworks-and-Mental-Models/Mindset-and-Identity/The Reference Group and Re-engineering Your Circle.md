@@ -1,7 +1,7 @@
 ---
 title: "The Reference Group and Re-engineering Your Circle"
 lang: "en"
-tags: [topic/mindset, topic/leadership, person/alex-hormozi]
+tags: [topic/mindset, topic/leadership, person/alex-hormozi, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"
@@ -28,6 +28,7 @@ Hormozi cites the Harvard finding on "reference group" and sharpens it: it's who
 - **The lonely in-between.** You'll usually go from a group of friends → no friends → one or two at a new level, repeatedly. "To be exceptional is to be the exception" — it's normal for normal people to find you abnormal. Loneliness is where the disproportionate work gets done.
 - **Standards are borrowed.** If you don't know successful people, borrow a measuring stick: "Is this the standard Musk/Bezos/Jobs would accept?" You rose only because "what they deemed acceptable, I deemed intolerable."
 - **Winners focus on winning; losers focus on winners.** Hate comes from below, never above.
+- **Environment changes the normal action.** Repeated exposure to ambitious builders, mentors, accelerators, and unfamiliar high-standard rooms makes behaviors that once felt awkward become ordinary; information inputs are part of that environment too.
 
 ## Framework / model (if applicable)
 **Five questions to decide whether to keep a friend:**
@@ -55,3 +56,5 @@ Plus a partner/friend filter: same *scale* of goals (not identical goals) and th
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
+
+Additional source: Daniel Priestley, *25 Harsh Truths at 45*, [[2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript]].

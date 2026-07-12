@@ -1,7 +1,7 @@
 ---
 title: "The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight"
 lang: "en"
-tags: [topic/startups, topic/product, topic/feedback, topic/retention, person/paul-graham, source/paul-graham-essays]
+tags: [topic/startups, topic/product, topic/feedback, topic/retention, person/paul-graham, person/daniel-priestley, source/paul-graham-essays, source/daniel-priestley-youtube]
 source:
   type: "essay collection"
   name: "Paul Graham - Collected Essays"
@@ -36,6 +36,10 @@ Use a five-step loop: **launch a quantum of utility → observe behavior → spe
 - Segment for intensity: find the group using the product most urgently and recruit more people like them.
 - Let founders handle support until recurring problems and language are unmistakable.
 - Prefer changes that deepen necessity for the core group before adding features for marginal users.
+- Before building, run a waiting-list survey that captures current situation, desired outcome, obstacle, preferred solution, and open context.
+- With existing customers, segment by how disappointed they would be if the product disappeared; study the “very disappointed” group as the strongest ICP signal and ask the “somewhat disappointed” group what would materially change their answer.
+- Package a visibly testable Gold–Silver–Bronze offer, present it in at least thirty customer conversations, and look for several paid commitments rather than compliments.
+- After roughly ninety days of delivery, retest disappearance disappointment, experience score, and recommendation intent before declaring product-market fit and scaling acquisition.
 
 ## Notable examples
 Airbnb's founders improved listings in person and learned the marketplace by working beside hosts. Wufoo sent handwritten notes. These actions looked inefficient but turned user contact into product intelligence and a culture of care.
@@ -47,3 +51,5 @@ Airbnb's founders improved listings in person and learned the marketplace by wor
 
 ## Source reference
 Paul Graham, “Startups in 13 Sentences,” “What I've Learned from Users,” “Be Good,” and “Do Things that Don't Scale,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
+
+Additional source: Daniel Priestley, *Product-Market Fit Framework*, [[2026-07-13_Video_DanielPriestley_ProductMarketFitFramework_RawTranscript]].

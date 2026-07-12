@@ -1,7 +1,7 @@
 ---
 title: "Fear, Regret, and Asymmetric Bets"
 lang: "en"
-tags: [topic/mindset, topic/risk, topic/decision-making, person/alex-hormozi]
+tags: [topic/mindset, topic/risk, topic/decision-making, person/alex-hormozi, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
   type: "video"
   name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"
@@ -26,6 +26,7 @@ Hormozi took six months to quit his consulting job. This entry captures how he d
 - **Fear of regret must exceed fear of rejection.** "Losers fear rejection; winners fear regret." At 85 you won't wish for fewer crazy stories — you'll wish you'd taken more shots.
 - **Potency = short gap between decision and action.** You can measure how powerful someone is by the distance between deciding and doing. Move deadlines from end-of-week → end-of-day → end-of-hour → now.
 - **Asymmetric bets in your 20s.** With little to lose, every attempt is a scratch-off ticket paid for in time: worst case you get a "no" and learn, best case you win. Take as many shots as possible because the downside is ~zero.
+- **Risk capacity changes with responsibility.** A young person with low fixed obligations can absorb reputational, financial, and career experiments that become much more expensive when dependents, employees, and accumulated trust share the downside; use the low-obligation season deliberately rather than treating risk tolerance as timeless.
 - **"Greatness rejects all first-time applicants."** Failure is a prerequisite; the second attempt takes twice the emotional effort but half the actual effort (you move from uninformed optimism to informed realism).
 
 ## Tactics / how to apply
@@ -54,3 +55,5 @@ Source for this section: *Alex Hormozi Answers Your Questions (Ask Me Anything)*
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
+
+Additional source: Daniel Priestley, *25 Harsh Truths at 45*, [[2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript]].

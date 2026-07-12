@@ -1,7 +1,7 @@
 ---
 title: "The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume"
 lang: "en"
-tags: [topic/sales, topic/volume, topic/automation, topic/ai, topic/funnel, person/alex-hormozi]
+tags: [topic/sales, topic/volume, topic/automation, topic/ai, topic/funnel, person/alex-hormozi, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
   type: "conversation"
   name: "Alex Hormozi AMA 3"
@@ -26,6 +26,7 @@ Tools become widely available, but execution remains uneven. The advantage comes
 - **Personalization raises penetration.** AI makes message and presentation adaptation cheaper, but the advantage lasts only while competitors lag.
 - **Volume supplies the denominator.** Even excellent conversion mechanics fail when too few qualified people receive the message.
 - **Tools do not equal execution.** Equal access to software does not produce equal throughput.
+- **Speed includes preserving the next commitment.** Follow up immediately after a signal, and when a prospect needs time, put the next conversation in the calendar before ending the current one; undefined follow-up turns interest into leakage.
 
 ## Framework / model (if applicable)
 Audit the lead path across four levers:
@@ -57,3 +58,5 @@ Hormozi cites appointment data from thousands of daily bookings: businesses limi
 
 ## Source reference
 Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+
+Additional source: Daniel Priestley, *Complete Sales Process - LAPS*, [[2026-07-13_Video_DanielPriestley_CompleteSalesProcessLAPS_RawTranscript]].
