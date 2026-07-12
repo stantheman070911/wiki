@@ -1,0 +1,51 @@
+---
+title: "Recognize How to Get Beyond Disagreements"
+lang: "en"
+tags: [topic/decision-making, topic/idea-meritocracy, topic/believability, topic/culture, person/ray-dalio, source/bridgewater-associates]
+source:
+  type: "book"
+  name: "Principles"
+  author: "Ray Dalio"
+  url: ""
+  date_of_source: "2017"
+date_added: "2026-07-13"
+status: "draft"
+---
+
+# Recognize How to Get Beyond Disagreements
+
+## One-line summary
+An idea meritocracy needs court-like, fair, and consistently enforced procedures for resolving disagreements that don't resolve on their own — without them, encouraging independent thinking just devolves into chaos, because open debate has to have a defined endpoint or it never actually produces a decision.
+
+## Context
+Sixth chapter of Work Principles, immediately following believability-weighting: this chapter is the escalation path for when believability-weighting alone doesn't produce enough consensus to move forward.
+
+## Key insights
+- **Principles can't be ignored by mutual agreement.** They function like laws — not optional even when both parties involved would rather set them aside in a given moment; the whole point of having them is that they hold under pressure, not just in easy cases.
+- **Don't confuse the right to complain or debate with the right to decide.** Everyone has standing to raise an issue; not everyone has standing to resolve it unilaterally.
+- **Don't leave important conflicts unresolved.** Watch for the "narcissism of small differences" — people who agree on almost everything letting a minor point become a wedge issue — and either escalate the disagreement to a decision-maker or put it to a believability-weighted vote rather than letting it fester.
+- **Once a decision is made, everyone gets behind it — even if they still personally disagree.** See the situation from the higher level: an idea meritocracy that tolerates quiet non-compliance after a fair process has run isn't an idea meritocracy anymore, it's heading toward anarchy. There's no room for mob rule or lynch-mob-style informal enforcement either.
+- **If the idea meritocracy process conflicts with the organization's actual survival, the process will lose.** Dalio allows for a rare, explicitly declared "martial law" — a temporary, openly acknowledged suspension of full transparency in extreme circumstances — but warns to be very wary of anyone invoking "the good of the organization" casually to shut down debate, since that phrase is also the easiest one to abuse.
+- **If the powerful don't want to operate by the agreed principles, principled operation fails.** Power ultimately governs any system in practice — a court-like process only works as long as the people with real power choose to submit to it.
+
+## Framework / model (if applicable)
+**Escalation, not avoidance.** The chapter's core procedural move is that disagreements have a defined path forward — debate, then a believability-weighted vote or an explicit decision by the Responsible Party, then binding commitment — rather than an implicit expectation that persistent disagreement will just be tolerated indefinitely or will resolve itself through attrition.
+
+## Tactics / how to apply
+- When a small disagreement keeps resurfacing between two people who agree on the big things, name it explicitly as a "narcissism of small differences" pattern and force a real resolution rather than letting it recur.
+- Build an explicit norm that after a fair decision process, people voice continued private disagreement through the sanctioned channel (not by quietly under-executing) — and make clear that's expected, not just hoped for.
+- If you ever need to invoke organizational survival as a reason to override the normal process, do it explicitly and temporarily, and say so out loud — never let "for the good of the org" become a silent, permanent override.
+- Watch whether your most powerful people actually submit to the same disagreement-resolution process as everyone else; if they routinely don't, the process is decorative, not real.
+
+## Notable examples
+- **The family Thanksgiving turkey-carving fight** and the historical **Protestant-Catholic schism** are Dalio's two illustrations, at wildly different scales, of the same "narcissism of small differences" mechanism — people who fundamentally agree, dividing sharply over what should be a minor procedural point.
+- **A media leak forced Bridgewater to temporarily and explicitly restrict some internal transparency** — cited as the real-world instance of the rare, declared "martial law" exception, done openly rather than quietly.
+
+## Related entries
+- [[Believability-Weight Your Decision Making]]
+- [[Get and Stay in Sync]]
+- [[Don't Overlook Governance]]
+- [[Trust in Radical Truth and Radical Transparency]]
+
+## Source reference
+Ray Dalio, *Principles*, Part III, Ch. 6 ("Recognize How to Get Beyond Disagreements"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
