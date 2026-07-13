@@ -1,5 +1,7 @@
 ---
 title: "Risk of Ruin - Time Probability, Repeated Exposure, and Survival First"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/risk, topic/decision-making, topic/barbell-strategy, topic/optionality, topic/mental-models, person/nassim-nicholas-taleb, source/skin-in-the-game]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2018"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -49,11 +53,11 @@ Use the **survival-first test**:
 ## Notable examples
 One hundred people each visiting a casino once may show a stable percentage of failures; one person visiting repeatedly stops forever on the day of ruin. Russian roulette can have a positive one-shot monetary expectation yet guarantees eventual death if repeated. The same logic applies less dramatically to leverage, chronic exposure, and operations with a small but persistent catastrophe rate.
 
-## Related entries
-- [[Fear, Regret, and Asymmetric Bets]]
-- [[The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
-- [[Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
-- [[The Pre-Mortem - Imagine Failure Before It Happens]]
+## Relationships
+- **related:** [[Fear, Regret, and Asymmetric Bets]]
+- **related:** [[The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
+- **related:** [[Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
+- **related:** [[The Pre-Mortem - Imagine Failure Before It Happens]]
 
 ## Source reference
 Nassim Nicholas Taleb, *Skin in the Game: Hidden Asymmetries in Daily Life* (2018), [[2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript]].

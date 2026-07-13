@@ -1,5 +1,7 @@
 ---
 title: "Finite vs Infinite Games - Winning by Emptying the Tank"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -40,10 +44,10 @@ Hormozi says it took him too long to learn the difference between finite and inf
 - Kobe Bryant, asked whether he feared losing or loved winning, rejected both frames in favor of playing to the best of his ability.
 - Naval Ravikant: "What looks like work to other people should feel like play for you" — the artist paints to paint, not to finish.
 
-## Related entries
-- [[Delayed Gratification - Patience and Inputs vs Outputs]]
-- [[Volume and Feedback - Sales as the Training Ground]]
-- [[Hardship as Origin Story - Heroes Use Pain]]
+## Relationships
+- **related:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
+- **related:** [[Volume and Feedback - Sales as the Training Ground]]
+- **related:** [[Hardship as Origin Story - Heroes Use Pain]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].

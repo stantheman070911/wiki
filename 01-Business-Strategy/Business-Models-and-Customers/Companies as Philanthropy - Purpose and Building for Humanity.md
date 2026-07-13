@@ -1,5 +1,7 @@
 ---
 title: "Companies as Philanthropy - Purpose and Building for Humanity"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/mission, topic/value-creation, person/elon-musk]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2026"
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -42,12 +46,12 @@ Asked why he doesn't "put his name on a hospital wing," Musk reframes company-bu
 - Musk framing Tesla (sustainable energy) and SpaceX (multiplanetary life) as philanthropic missions executed as companies.
 - His stance that fixing something within the market system generally beats a nonprofit donation for real-world impact.
 
-## Related entries
-- [[The Factory Is the Product - Manufacturing as the Moat]]
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- [[財富公式：專屬知識、槓桿與判斷力]]
-- [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
-- [[Hardship as Origin Story - Heroes Use Pain]]
+## Relationships
+- **related:** [[The Factory Is the Product - Manufacturing as the Moat]]
+- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
+- **related:** [[財富公式：專屬知識、槓桿與判斷力]]
+- **applies:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
+- **applies:** [[Hardship as Origin Story - Heroes Use Pain]]
 
 ## Source reference
 Eric Jorgenson, *The Book of Elon* (2026), "Building Our Future — Companies Are Philanthropy." Extraction notes in [[2026-07-08_Book_EricJorgenson_TheBookOfElon]]; PDF archived alongside.

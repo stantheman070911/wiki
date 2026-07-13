@@ -1,5 +1,7 @@
 ---
 title: "Price, Churn, and EPC - Optimize the Whole Revenue System"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/pricing, topic/churn, topic/ltv, topic/funnel, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,12 +52,12 @@ A lower price that cuts churn 20% but cuts revenue per customer 50% is usually a
 ## Notable examples
 Hormozi contrasts a hypothetical 50% price reduction with only a 20% churn improvement: the retention chart looks better, but the economics deteriorate. Conversely, raising a launch price from $6,000 to $9,000 would not automatically add 50% revenue because conversion, expectations, and card approvals would also change.
 
-## Related entries
-- [[Billing-Cycle vs Value-Cycle Alignment]]
-- [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
-- [[Maximize Net Cash, Not ROAS - The Percentage Lies]]
-- [[ICP Qualification Through Segmented Churn]]
-- [[The Value Equation and the Grand Slam Offer]]
+## Relationships
+- **related:** [[Billing-Cycle vs Value-Cycle Alignment]]
+- **related:** [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
+- **related:** [[Maximize Net Cash, Not ROAS - The Percentage Lies]]
+- **related:** [[ICP Qualification Through Segmented Churn]]
+- **related:** [[The Value Equation and the Grand Slam Offer]]
 
 ## Source reference
 Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

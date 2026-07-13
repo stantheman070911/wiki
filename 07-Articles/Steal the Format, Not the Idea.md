@@ -1,8 +1,12 @@
 ---
 title: "Steal the Format, Not the Idea"
+type: "article"
+domain: "articles"
 lang: "en"
 tags: [topic/content-strategy, topic/short-form-video, topic/copywriting, topic/hooks, topic/mental-models]
 date_added: "2026-07-10"
+updated: "2026-07-10"
+reviewed_on: ""
 status: "draft"
 ---
 

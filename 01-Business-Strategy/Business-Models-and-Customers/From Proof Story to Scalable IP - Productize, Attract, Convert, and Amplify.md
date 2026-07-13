@@ -1,5 +1,7 @@
 ---
 title: "From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/ip, topic/product, topic/business-model, topic/marketing, topic/sales, topic/scaling, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,11 +52,11 @@ Use the five-step chain:
 ## Notable examples
 Priestley traces his “Key Person of Influence” business to a proof story: helping credible experts become known through a repeatable five-part method, then turning that result into a book and accelerator.
 
-## Related entries
-- [[Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships]]
-- [[The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
-- [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
-- [[The Money Model - Sequencing Offers to Fund Growth]]
+## Relationships
+- **related:** [[Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships]]
+- **related:** [[The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
+- **related:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- **related:** [[The Money Model - Sequencing Offers to Fund Growth]]
 
 ## Source reference
 Daniel Priestley, *Five Steps to Monetize Intellectual Property*. Raw transcript in [[2026-07-13_Video_DanielPriestley_FiveStepsToMonetizeIntellectualProperty_RawTranscript]].

@@ -1,5 +1,7 @@
 ---
 title: "Relentlessly Resourceful - The Founder Trait Stack"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/startups, topic/mindset, topic/execution, topic/courage, topic/feedback, person/paul-graham, source/paul-graham-essays]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2006-2024"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -41,10 +45,10 @@ When blocked, separate **goal, current method, constraint, and next experiment**
 ## Notable examples
 Airbnb's founders sold novelty cereal to finance the company and personally worked through marketplace problems. The details were unusual; the reusable trait was refusal to treat the apparent lack of a conventional path as final.
 
-## Related entries
-- [[Build Evidence, Not Confidence]]
-- [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
-- [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
+## Relationships
+- **related:** [[Build Evidence, Not Confidence]]
+- **related:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- **related:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 
 ## Source reference
 Paul Graham, “Relentlessly Resourceful,” “The Anatomy of Determination,” “Earnestness,” “A Word to the Resourceful,” and “The Right Kind of Stubborn,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

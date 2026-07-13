@@ -1,5 +1,7 @@
 ---
 title: "The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/decision-making, topic/moat, topic/mindset, person/sabri-suby]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-12"
+updated: "2026-07-12"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -39,11 +43,11 @@ Owners make hundreds of decisions a month, and most default to the easy option b
 - Ad spend: the easy road is hoarding cash now; the hard road spends more on ads, accepting a lower bank balance today for more leads and more cash months later.
 - Culture, team, and office build-out framed as moats — hard, slow, un-copyable investments that produce durable rather than fleeting advantage.
 
-## Related entries
-- [[Fear, Regret, and Asymmetric Bets]]
-- [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- [[Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]]
-- [[Delayed Gratification - Patience and Inputs vs Outputs]]
+## Relationships
+- **related:** [[Fear, Regret, and Asymmetric Bets]]
+- **related:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **related:** [[Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]]
+- **related:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
 
 ## Source reference
 Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #11). Raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].

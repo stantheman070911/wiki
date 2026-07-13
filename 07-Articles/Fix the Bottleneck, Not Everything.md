@@ -1,8 +1,12 @@
 ---
 title: "Fix the Bottleneck, Not Everything"
+type: "article"
+domain: "articles"
 lang: "en"
 tags: [topic/theory-of-constraints, topic/focus, topic/prioritization, topic/decision-making, topic/scaling, topic/simplification]
 date_added: "2026-07-10"
+updated: "2026-07-10"
+reviewed_on: ""
 status: "draft"
 ---
 

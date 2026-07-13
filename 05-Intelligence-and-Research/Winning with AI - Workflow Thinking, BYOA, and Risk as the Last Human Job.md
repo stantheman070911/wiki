@@ -1,5 +1,7 @@
 ---
 title: "Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job"
+type: "research"
+domain: "intelligence-and-research"
 lang: "en"
 tags: [topic/ai, topic/automation, topic/risk, topic/barbell-strategy, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -51,12 +55,12 @@ Hormozi frames AI as the biggest coming shift for Main Street, not just tech, an
 - Anthropic's reportedly one-person marketing department as the BYOA archetype.
 - Fed data cited in-video: near-zero net private-sector job creation — attributed partly to automation.
 
-## Related entries
-- [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
-- [[The Attention Barbell - Brand as the AI-Era Moat]]
-- [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
-- [[AI、資料與內容的賭注理論]]
-- [[Fear, Regret, and Asymmetric Bets]]
+## Relationships
+- **example:** [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
+- **related:** [[The Attention Barbell - Brand as the AI-Era Moat]]
+- **related:** [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
+- **related:** [[AI、資料與內容的賭注理論]]
+- **example:** [[Fear, Regret, and Asymmetric Bets]]
 
 ## Source reference
 Alex Hormozi, *How to Win With AI in 2026* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].

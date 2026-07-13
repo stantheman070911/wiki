@@ -1,7 +1,11 @@
 ---
 title: "Zero to One"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "book"
+source_format: "source-note"
+processing_status: "processed"
 author: "Peter Thiel"
 date_archived: "2026-07-13"
 status: "source"
@@ -60,3 +64,8 @@ Fourteen chapters, each condensed into one idea-cluster:
 - **PayPal's "Igor"**: human-plus-computer fraud detection hybrid that turned PayPal profitable in Q1 2002 after losing $29.3M the year before — the seed of the "complementarity, not substitution" thesis and later Palantir.
 - **Board size**: three is ideal, never exceed five (private companies). CEO salary ceiling: no more than $150,000/year at an early-stage venture-backed startup.
 - **Founder fat-tailed distribution**: founders are simultaneously insider/outsider, rich/poor-on-paper, charismatic/disagreeable — examples: Branson, Sean Parker, Howard Hughes, Bill Gates, Steve Jobs.
+
+
+## Archived attachment
+
+- [2026-07-13_Book_PeterThiel_ZeroToOne.txt](<2026-07-13_Book_PeterThiel_ZeroToOne.txt>)

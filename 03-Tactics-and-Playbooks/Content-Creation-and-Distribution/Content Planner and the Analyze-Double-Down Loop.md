@@ -1,5 +1,7 @@
 ---
 title: "Content Planner and the Analyze-Double-Down Loop"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/content-strategy, topic/repurposing, topic/hooks]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-02"
+updated: "2026-07-13"
+reviewed_on: "2026-07-13"
 status: "reviewed"
 ---
 
@@ -17,6 +21,11 @@ status: "reviewed"
 ## One-line summary
 Judge content against an objective checklist rather than vague adjectives, plan a weekly mix of low- and high-intensity pieces, and when something works, repurpose and repost it rather than treating that as lazy.
 
+
+
+## Context
+
+This page organizes **Content Planner and the Analyze-Double-Down Loop** as a reusable playbook; the sections below preserve its original framework, steps, and examples.
 ## Good vs. bad content
 | Good content | Bad content |
 |---|---|
@@ -56,10 +65,10 @@ Once the formula is understood — Creator Vision → studied formats → planne
 - Plan next week's content as a three-row table (idea/format/intensity) and check the mix lands around 1-2 high-intensity plus ~5 low-intensity pieces.
 - When a piece of content clearly outperforms, immediately schedule at least one repurposed version in a different format before moving on to a new idea.
 
-## Related entries
-- [[Creator Vision Framework - What x Who x Why]]
-- [[短影音文案全公式：標題、開頭、結尾與腳本結構]]
-- [[對標方法論與靈感池系統]]
+## Relationships
+- **applies:** [[Creator Vision Framework - What x Who x Why]]
+- **related:** [[短影音文案全公式：標題、開頭、結尾與腳本結構]]
+- **applies:** [[對標方法論與靈感池系統]]
 
 ## Source reference
 "Building a Personal Brand in 2026" (video transcript). Full notes archived at [[2026-07-02_Video_BuildingAPersonalBrandIn2026]].

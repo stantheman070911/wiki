@@ -1,5 +1,7 @@
 ---
 title: "The Core Four and the Rule of 100 - Lead Generation Fundamentals"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/sales, topic/rule-of-100, topic/qualification, person/alex-hormozi, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2023"
 date_added: "2026-07-08"
+updated: "2026-07-13"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -29,9 +33,11 @@ Applies to any business trying to fix an unstable or insufficient flow of leads,
 - **An assessment can turn traffic into an engaged, qualified lead.** Ten best-practice questions create immediate diagnostic value, while five questions on situation, desired outcome, obstacle, preferred solution, and open context support routing and sales follow-up.
 
 ## Framework / model (if applicable)
-**Building a lead magnet — seven steps:** (1) identify a narrow, painful problem, (2) decide how to solve it (diagnose, sample/trial, or one step of a multi-step process), (3) choose the delivery format, (4) test names/headlines, (5) make it frictionless and fast to consume, (6) make it genuinely excellent — the brand is judged by the free stuff, (7) include a clear CTA with a reason to act now.
+### Building a lead magnet — seven steps
 
-**The Core Four — worked in sequence, not simultaneously:**
+(1) identify a narrow, painful problem, (2) decide how to solve it (diagnose, sample/trial, or one step of a multi-step process), (3) choose the delivery format, (4) test names/headlines, (5) make it frictionless and fast to consume, (6) make it genuinely excellent — the brand is judged by the free stuff, (7) include a clear CTA with a reason to act now.
+
+### The Core Four — worked in sequence, not simultaneously
 | Channel | Type | Description |
 |---|---|---|
 | Warm Outreach | Private | Contact people who already know you; don't pitch directly — ask who *they* know that might need help |
@@ -39,13 +45,21 @@ Applies to any business trying to fix an unstable or insufficient flow of leads,
 | Content Marketing | Public | Post free content consistently; every piece grabs attention, sustains curiosity, delivers a payoff |
 | Paid Ads | Public | Run ads where buyers already live; prioritize speed over perfection — launch many, kill losers fast, scale winners |
 
-**The Rule of 100:** do 100 units of action daily for 100 days straight — contact 100 people, *or* spend 100 minutes creating content, *or* spend $100 on ads. Volume creates surface area for conversion; most businesses fail from doing too little of a working strategy, not from a broken one.
+### The Rule of 100
 
-**Growth hierarchy once a channel works: More → Better → New.** Do more of what's already working before touching anything else; then fix the specific stage where leads drop off; only after maximizing the existing channel, add a new platform or Core Four method.
+do 100 units of action daily for 100 days straight — contact 100 people, *or* spend 100 minutes creating content, *or* spend $100 on ads. Volume creates surface area for conversion; most businesses fail from doing too little of a working strategy, not from a broken one.
 
-**Scaling beyond yourself with "lead getters":** customers (ask for introductions at the moment of purchase, not weeks later), employees (document and demonstrate processes so staff replicate what works), agencies (hire to *teach* their methods, then bring in-house rather than staying dependent), affiliates/partners (pay commission per referred lead — influencer marketing is the most visible form).
+### Growth hierarchy once a channel works: More → Better → New
 
-**The four-stage progression: Start → Build → Grow → Scale.** Start with warm outreach using your existing network; build with consistent content creation to compound audience growth; grow via cold outreach and paid ads once you have proof of concept; scale by deploying employees, affiliates, and agencies to multiply what already works.
+Do more of what's already working before touching anything else; then fix the specific stage where leads drop off; only after maximizing the existing channel, add a new platform or Core Four method.
+
+### Scaling beyond yourself with "lead getters"
+
+customers (ask for introductions at the moment of purchase, not weeks later), employees (document and demonstrate processes so staff replicate what works), agencies (hire to *teach* their methods, then bring in-house rather than staying dependent), affiliates/partners (pay commission per referred lead — influencer marketing is the most visible form).
+
+### The four-stage progression: Start → Build → Grow → Scale
+
+Start with warm outreach using your existing network; build with consistent content creation to compound audience growth; grow via cold outreach and paid ads once you have proof of concept; scale by deploying employees, affiliates, and agencies to multiply what already works.
 
 ## Tactics / how to apply
 - Audit which of the Core Four you're actually running today versus which you're neglecting — most stalled businesses are over-relying on one channel (often referrals or paid ads alone).
@@ -59,12 +73,12 @@ Applies to any business trying to fix an unstable or insufficient flow of leads,
 - The four-stage progression mapped to Hormozi's own history: warm outreach first, content second, cold outreach/paid ads third, lead getters (team, affiliates, agencies) last — explicitly sequenced rather than run in parallel from day one.
 - A solo trainer with ten clients was told that posting and outreach were the only free acquisition paths under his control; passive-income architecture was a distraction until sustained promotion produced active income and a repeatable sales motion.
 
-## Related entries
-- [[The Value Equation and the Grand Slam Offer]]
-- [[The Money Model - Sequencing Offers to Fund Growth]]
-- [[五大流量模型與私域轉換：從你找人到人找你]]
-- [[The Creative Volume Engine - Ads Are an At-Bats Game]]
-- [[人群場景痛點解決方案：客戶洞察與需求驗證框架]]
+## Relationships
+- **applies:** [[The Value Equation and the Grand Slam Offer]]
+- **applies:** [[The Money Model - Sequencing Offers to Fund Growth]]
+- **applies:** [[五大流量模型與私域轉換：從你找人到人找你]]
+- **applies:** [[The Creative Volume Engine - Ads Are an At-Bats Game]]
+- **applies:** [[人群場景痛點解決方案：客戶洞察與需求驗證框架]]
 
 ## Source reference
 Alex Hormozi, *$100M Leads* (2023). Series notes: [[2026-07-08_Book_AlexHormozi_100MSeriesSummary]].

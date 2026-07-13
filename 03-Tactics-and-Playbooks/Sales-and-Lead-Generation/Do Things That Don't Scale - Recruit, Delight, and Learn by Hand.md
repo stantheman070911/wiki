@@ -1,5 +1,7 @@
 ---
 title: "Do Things That Don't Scale - Recruit, Delight, and Learn by Hand"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/startups, topic/do-things-that-dont-scale, topic/sales, topic/onboarding, topic/feedback, person/paul-graham, source/paul-graham-essays]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2013"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -40,10 +44,10 @@ The unscalable-growth sequence is: **recruit one user → install or onboard imm
 ## Notable examples
 Stripe's founders performed “Collison installations” by taking a willing user's laptop and integrating Stripe immediately. Airbnb's founders traveled to New York, recruited hosts door to door, and photographed listings themselves.
 
-## Related entries
-- [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
-- [[Activation Before Automation - Manual Onboarding to Fix Churn]]
-- [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
+## Relationships
+- **applies:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- **related:** [[Activation Before Automation - Manual Onboarding to Fix Churn]]
+- **related:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
 
 ## Source reference
 Paul Graham, “Do Things that Don't Scale,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

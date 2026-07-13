@@ -1,5 +1,7 @@
 ---
 title: "Innovation, Quantification, and Orchestration - The Business Development Loop"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/innovation, topic/systems, topic/operations, topic/feedback, topic/decision-making, topic/consistency, person/michael-gerber, source/e-myth-revisited]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1995"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,12 +52,12 @@ The unit of improvement can be small—a greeting, checklist, handoff, layout, o
 ## Notable examples
 The book illustrates the loop with small retail changes: alter a greeting, measure visits and purchases before and after, and standardize the version that converts better. The durable insight is the experimental discipline, not the dated claim that any particular phrase or color will work universally.
 
-## Related entries
-- [[The Franchise Prototype - Build the Business as the Product]]
-- [[The Algorithm - Musk's Five-Step Process Method]]
-- [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
-- [[Design Improvements to Your Machine to Get Around Your Problems]]
-- [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
+## Relationships
+- **related:** [[The Franchise Prototype - Build the Business as the Product]]
+- **related:** [[The Algorithm - Musk's Five-Step Process Method]]
+- **related:** [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
+- **related:** [[Design Improvements to Your Machine to Get Around Your Problems]]
+- **related:** [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
 
 ## Source reference
 Michael E. Gerber, *The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It*, chapter 10. Archived transcript: [[2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript]].

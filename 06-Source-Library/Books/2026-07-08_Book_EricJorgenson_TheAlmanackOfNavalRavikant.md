@@ -1,7 +1,11 @@
 ---
 title: "The Almanack Of Naval Ravikant"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "book"
+source_format: "source-note"
+processing_status: "processed"
 author: "Eric Jorgenson"
 date_archived: "2026-07-08"
 status: "source"
@@ -49,3 +53,8 @@ Two clusters are under-covered by the existing entries and are processed here:
 ## Caveats
 - Assembled from tweets/transcripts, edited for brevity; the disclaimer asks readers to verify phrasing against primary sources and "interpret generously."
 - Much of the book is already in the vault (see overlap); processing here is deliberately limited to the under-covered reading/thinking and happiness-practice clusters to avoid duplication.
+
+
+## Archived attachment
+
+- [2026-07-08_Book_EricJorgenson_TheAlmanackOfNavalRavikant.txt](<2026-07-08_Book_EricJorgenson_TheAlmanackOfNavalRavikant.txt>)

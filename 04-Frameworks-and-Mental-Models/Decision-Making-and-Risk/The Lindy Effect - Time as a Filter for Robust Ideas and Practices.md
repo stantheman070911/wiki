@@ -1,5 +1,7 @@
 ---
 title: "The Lindy Effect - Time as a Filter for Robust Ideas and Practices"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/decision-making, topic/risk, topic/research, topic/learning, topic/mental-models, person/nassim-nicholas-taleb, source/skin-in-the-game]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2018"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,11 +52,11 @@ Apply the **Lindy evidence test**:
 ## Notable examples
 Taleb contrasts fresh food with old laws and books: biological goods perish, while a repeatedly used nonperishable rule can gain evidence with age. Plumbing and other practiced crafts are filtered continuously by whether they work; a fashionable theory can circulate through peer approval without comparable contact with consequences.
 
-## Related entries
-- [[Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]]
-- [[Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
-- [[Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
-- [[The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
+## Relationships
+- **related:** [[Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]]
+- **related:** [[Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
+- **related:** [[Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
+- **related:** [[The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
 
 ## Source reference
 Nassim Nicholas Taleb, *Skin in the Game: Hidden Asymmetries in Daily Life* (2018), [[2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript]].

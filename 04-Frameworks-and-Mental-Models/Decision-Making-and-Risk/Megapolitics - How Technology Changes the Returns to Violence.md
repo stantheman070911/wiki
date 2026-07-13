@@ -1,5 +1,7 @@
 ---
 title: "Megapolitics - How Technology Changes the Returns to Violence"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mental-models, topic/decision-making, topic/risk, topic/systems, topic/innovation, person/james-dale-davidson, person/william-rees-mogg, source/the-sovereign-individual]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1997"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -49,11 +53,11 @@ The likely institutional direction is the joint result: concentration when scale
 ## Notable examples
 Farming created storable, stationary surplus and raised the rewards to organized plunder and protection. Gunpowder later increased the cost and scale of warfare, helping large fiscal states outcompete fragmented feudal authorities. The book argues that microprocessing reverses part of that equation by letting small groups create, move, protect, and sometimes disrupt value at much lower cost.
 
-## Related entries
-- [[Technology Platforms - How New Protocols and Tools Shift Power]]
-- [[The Factory Is the Product - Manufacturing as the Moat]]
-- [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
-- [[Commercialized Sovereignty - Jurisdictions Competing as Service Providers]]
+## Relationships
+- **related:** [[Technology Platforms - How New Protocols and Tools Shift Power]]
+- **related:** [[The Factory Is the Product - Manufacturing as the Moat]]
+- **related:** [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
+- **related:** [[Commercialized Sovereignty - Jurisdictions Competing as Service Providers]]
 
 ## Source reference
 James Dale Davidson and William Rees-Mogg, *The Sovereign Individual* (1997), [[2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript]].

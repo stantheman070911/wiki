@@ -1,5 +1,7 @@
 ---
 title: "Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/culture, topic/management, topic/leadership, topic/systems, topic/hiring, person/alex-hormozi, person/michael-gerber, source/e-myth-revisited]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -54,14 +58,14 @@ Founders often try to replicate culture through slogans or proximity. That fails
 ## Notable examples
 In the AMA, a real-estate brokerage opening a second market is advised to codify meeting and interaction rules, install its new leader under “training wheels” at the original office, and role-play leadership conversations before moving that leader to the new location.
 
-## Related entries
-- [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
-- [[Sales Systems as Intellectual Property - Process Above the Player]]
-- [[Special-Forces Teams and Flat Organizations]]
-- [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- [[Use Tools and Protocols to Shape How Work Is Done]]
-- [[Primary Aim and Strategic Objective - Make the Business Serve the Life]]
-- [[The Franchise Prototype - Build the Business as the Product]]
+## Relationships
+- **applies:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **related:** [[Sales Systems as Intellectual Property - Process Above the Player]]
+- **related:** [[Special-Forces Teams and Flat Organizations]]
+- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **related:** [[Use Tools and Protocols to Shape How Work Is Done]]
+- **applies:** [[Primary Aim and Strategic Objective - Make the Business Serve the Life]]
+- **applies:** [[The Franchise Prototype - Build the Business as the Product]]
 
 ## Source reference
 Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

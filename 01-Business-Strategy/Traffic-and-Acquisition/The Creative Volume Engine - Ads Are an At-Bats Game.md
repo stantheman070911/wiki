@@ -1,5 +1,7 @@
 ---
 title: "The Creative Volume Engine - Ads Are an At-Bats Game"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/paid-ads, topic/creative-volume, topic/cac, topic/marketing, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -50,12 +54,12 @@ A fitness-coaching business co-founded with a well-known athlete was spending $1
 - More creative is not more *random* creative — reuse winning hooks and iterate rather than reinventing every asset.
 - Brands with large existing awareness may not need more top-of-funnel recognition, only more creative and spend.
 
-## Related entries
-- [[Volume and Feedback - Sales as the Training Ground]]
-- [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
-- [[網紅行銷引擎：以CPM反推的分散式機器]]
-- [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
+## Relationships
+- **related:** [[Volume and Feedback - Sales as the Training Ground]]
+- **related:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **related:** [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
+- **related:** [[網紅行銷引擎：以CPM反推的分散式機器]]
+- **related:** [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.

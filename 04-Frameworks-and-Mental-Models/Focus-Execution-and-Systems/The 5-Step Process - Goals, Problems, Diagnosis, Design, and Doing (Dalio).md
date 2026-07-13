@@ -1,5 +1,7 @@
 ---
 title: "The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/execution, topic/decision-making, topic/systems, topic/prioritization, topic/root-cause, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -29,6 +33,11 @@ This is Dalio's general-purpose engine for achieving anything, introduced in Lif
 - **Weaknesses don't matter if you find a solution for them.** Identify at which of the five steps you personally tend to fail, then either build the skill yourself or get help from someone strong where you're weak — there are only two paths to success: have what you need yourself, or get it from others through humility.
 
 ## Framework / model (if applicable)
+```mermaid
+flowchart LR
+    A["1. Goals"] --> B["2. Problems"] --> C["3. Diagnosis"] --> D["4. Design"] --> E["5. Doing"] --> A
+```
+
 **Mental-map × humility matrix.** Plot two axes: quality of your mental map of a situation (vertical) against your degree of open-minded humility in seeking better answers (horizontal). The best outcomes sit at the intersection of both being high — but critically, humility alone (genuinely seeking a better answer from someone else) can outperform having a good mental map alone. This is why Step 2 and Step 3 in particular benefit more from asking the right people than from personal brilliance.
 
 ## Tactics / how to apply
@@ -40,12 +49,12 @@ This is Dalio's general-purpose engine for achieving anything, introduced in Lif
 ## Notable examples
 - Dalio frames the whole process as directly transferable between a single person's career and an entire organization — Work Principles' chapters on managing, diagnosing, and designing (Chs. 10–13) are this same five-step loop applied at the machine/organization level rather than the individual level.
 
-## Related entries
-- [[Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
-- [[Diagnose Problems to Get at Their Root Causes]]
-- [[Design Improvements to Your Machine to Get Around Your Problems]]
-- [[The Framework for Making Frameworks - Distill by Commonality]]
-- Related but distinct framework, same name: [[The Algorithm - Musk's Five-Step Process Method]] (Musk's engineering process — question requirements, delete, simplify, accelerate, automate — is a different five-step method for the same general purpose)
+## Relationships
+- **related:** [[Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
+- **related:** [[Diagnose Problems to Get at Their Root Causes]]
+- **related:** [[Design Improvements to Your Machine to Get Around Your Problems]]
+- **related:** [[The Framework for Making Frameworks - Distill by Commonality]]
+- **related:** Related but distinct framework, same name: [[The Algorithm - Musk's Five-Step Process Method]] (Musk's engineering process — question requirements, delete, simplify, accelerate, automate — is a different five-step method for the same general purpose)
 
 ## Source reference
 Ray Dalio, *Principles*, Part II, Ch. 2 ("Use the 5-Step Process to Get What You Want Out of Life"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

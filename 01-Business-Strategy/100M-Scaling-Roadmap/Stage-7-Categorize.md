@@ -1,5 +1,10 @@
 ---
 title: "$100M 擴張路線圖 · Stage 7：Categorize 分工"
+aliases:
+  - "$100M 擴張路線圖 · Stage 7：Categorize 分工"
+type: "series-entry"
+domain: "business-strategy"
+series: "$100M Scaling Roadmap"
 lang: "zh"
 tags: [topic/scaling, source/acquisition-100m-roadmap, topic/org-design, topic/decision-making, person/alex-hormozi]
 source:
@@ -9,14 +14,27 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
 # $100M 擴張路線圖 · Stage 7：Categorize 分工
 
-> 系列導覽：[[README|總覽與方法論]]　｜　上一關：[[Stage-6-Optimize|Stage 6：Optimize 優化]]　｜　下一關：[[Stage-8-Specialize|Stage 8：Specialize 專精]]
+> 系列導覽：[[$100M Scaling Roadmap Overview|總覽與方法論]]　｜　上一關：[[Stage-6-Optimize|Stage 6：Optimize 優化]]　｜　下一關：[[Stage-8-Specialize|Stage 8：Specialize 專精]]
 
-## 關卡速覽
+## 一句話總結
+
+公司大到一切都亂成一團——這一關要像整理凌亂的車庫一樣，把人、名單、客戶、資料、錢全部「分門別類」，再為每一類建立各自的系統。
+
+## 背景
+
+你有了 50–99 名員工，底下有三層領導，你已是「高階主管」。這一關的核心感受是「一切又亂又失序」。心法是開始把事情**分類**（所以叫 Categorize），為每一類建立能妥善處理它的系統——像整理凌亂的車庫：先把東西分堆（工具、運動器材、節慶裝飾），再為每一堆建立收納方式。
+
+## 核心內容
+
+### 關卡速覽
+
 | 項目 | 內容 |
 |---|---|
 | 你的角色 | Executive 高階主管（底下有三層領導） |
@@ -25,13 +43,8 @@ status: "reviewed"
 | 畢業標準 | 適當分流（triage），把一切分門別類 |
 | 達標普及度 | 僅約 120 萬家美國公司到此 |
 
-## 一句話總結
-公司大到一切都亂成一團——這一關要像整理凌亂的車庫一樣，把人、名單、客戶、資料、錢全部「分門別類」，再為每一類建立各自的系統。
+### 各功能面的問題與解法
 
-## 這一關的處境
-你有了 50–99 名員工，底下有三層領導，你已是「高階主管」。這一關的核心感受是「一切又亂又失序」。心法是開始把事情**分類**（所以叫 Categorize），為每一類建立能妥善處理它的系統——像整理凌亂的車庫：先把東西分堆（工具、運動器材、節慶裝飾），再為每一堆建立收納方式。
-
-## 各功能面的問題與解法
 - **產品：** 產品開始顯得過時、改版慢如老爺車——讓各團隊「一次專注修一個問題」，特定團隊負責特定功能。
 - **行銷：** 你像一艘只有單引擎的船，引擎一壞就卡死——目前只有一條主要獲客管道，風險極高。加上第二條獲客管道（如「滿意客戶帶新客」的推薦計畫），並把名單評分（lead scoring）做得更好。
 - **銷售：** 名單被浪費，因為業務跟進不一致（像有花園卻忘了澆某些盆）——排班讓隨時有人能接洽潛在客戶、建立跟進檢查清單、獎勵能把客戶找來開會的業務。
@@ -41,7 +54,8 @@ status: "reviewed"
 - **人資：** 員工資訊散在太多地方（醫療表一抽屜、稅單一抽屜、考核一抽屜）——導入 HRIS（人資資訊系統），一個數位大檔案櫃統一管理。
 - **金錢：** 團隊花錢不經思考（像人人有張沒規則的信用卡）——為每個部門建立季度預算、設支出上限、大額採購需審批；加強保險與財務預測。
 
-## 核心心法：分流（triage）
+### 核心心法：分流（triage）
+
 這一關唯一的工作，是**在混亂中分門別類、為每一類建立系統**。要分類的六樣東西：
 1. 你的員工（誰做什麼）
 2. 你的名單（該聚焦哪些）
@@ -52,18 +66,23 @@ status: "reviewed"
 
 唯有把這些妥善分類、組織好之後，才能進入下一階段——這是變成更大公司的地基。
 
-## 畢業標準
+### 畢業標準
+
 每個功能面都從「散亂」走向「分類＋有系統」：產品有專責團隊、獲客有第二管道、名單與客戶已分群、資料上雲集中、招募與人資有系統、財務有部門預算與審批。
 
 ## 應用
+
 - 別再想「親自救每一把火」——這一關的產出是「分類系統」，而非個人英雄式救火。
 - 立刻消除單點風險：若你只有一條主要獲客管道，優先建立第二條（如推薦計畫）——單引擎的船不該出海。呼應 [[供應鏈風險與關鍵人風險分散]] 的分散原則。
 - 為每個部門設季度預算與支出審批門檻，把「人人一張無規則信用卡」的失控狀態收束起來。
 
-## 相關條目
-- [[README|總覽與方法論]]
-- [[Stage-6-Optimize|Stage 6：Optimize 優化]]　｜　[[Stage-8-Specialize|Stage 8：Specialize 專精]]
-- [[供應鏈風險與關鍵人風險分散]]（消除單一管道／單點故障的同源邏輯）
+## 關係
+
+- **related:** [[$100M Scaling Roadmap Overview|總覽與方法論]]
+- **prerequisite:** [[Stage-6-Optimize|Stage 6：Optimize 優化]]
+- **related:** [[Stage-8-Specialize|Stage 8：Specialize 專精]]
+- **related:** [[供應鏈風險與關鍵人風險分散]]（消除單一管道／單點故障的同源邏輯）
 
 ## 來源
+
 $100M Scaling Roadmap（Personalized Guide），Stage 7，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。

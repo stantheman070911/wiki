@@ -1,5 +1,7 @@
 ---
 title: "Using AI in Your Business - Train Like an Employee and the Department Playbook"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/ai, topic/automation, topic/hiring, topic/operations, person/alex-hormozi, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-13"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -30,11 +34,15 @@ The companion operations piece to the AI strategy: how Hormozi's ~$250M-revenue 
 - **Agent availability should expand the offer, not only cut cost.** Ask what research, analysis, preparation, and personalized guidance every customer could receive if capable assistants were abundant; this reveals new value that an efficiency-only audit misses.
 
 ## Framework / model (if applicable)
-**Replace "magic" with pattern recognition.** Whenever you catch yourself saying "I just know / gut / intuition / taste," reframe it as pattern recognition (stimuli + reinforcement generalized into a pattern) and write down the *observable behaviors* that produce the outcome — then an agent can be trained on them. Copy example: instead of "write this email," give "12 rules you can't break + 16 of my writing samples, write only to these" → ~5× better; repeat the loop 100 times (100 minutes vs ~1.5 years with a person).
+### Replace "magic" with pattern recognition
 
-**The one-task automation drill.** List what you do at the most granular level (not "I run ads" but: build campaigns, set budgets, write copy, make creative, test headlines, analyze results). Take the first task, put it into AI — "help me automate this, what steps would you take?" — do the first step, and when stuck, **screenshot the screen and ask "what do I do now?"**, repeating. Everyone has an AI tutor at their fingertips.
+Whenever you catch yourself saying "I just know / gut / intuition / taste," reframe it as pattern recognition (stimuli + reinforcement generalized into a pattern) and write down the *observable behaviors* that produce the outcome — then an agent can be trained on them. Copy example: instead of "write this email," give "12 rules you can't break + 16 of my writing samples, write only to these" → ~5× better; repeat the loop 100 times (100 minutes vs ~1.5 years with a person).
 
-**Department use cases (make it better/cheaper/faster/risk-free):**
+### The one-task automation drill
+
+List what you do at the most granular level (not "I run ads" but: build campaigns, set budgets, write copy, make creative, test headlines, analyze results). Take the first task, put it into AI — "help me automate this, what steps would you take?" — do the first step, and when stuck, **screenshot the screen and ask "what do I do now?"**, repeating. Everyone has an AI tutor at their fingertips.
+
+### Department use cases (make it better/cheaper/faster/risk-free)
 - *Marketing:* idea generation; scripting/packaging (headlines, thumbnails, topics); auto-A/B thumbnail tests that build a winning-pattern skill; trend research (formats, verbal *and* visual hooks) cross-referenced with your brand corpus → a Venn of trending × on-brand → idea → headline → script.
 - *The self-licking ice cream cone:* content auto-overlaid with a CTA → auto-loaded into an ad campaign that launches daily with yesterday's content; a community "wins" tab → six high-converting templates → auto-run as ads.
 - *Sales:* enrich leads, instant personalized voice notes / DMs pulling business-specific detail, AI-to-AI dynamic scheduling.
@@ -61,12 +69,12 @@ Later Q&A sharpened three points for operators:
 
 Source for this section: *Alex Hormozi Answers Your Questions (Ask Me Anything)* — see [[2026-07-08_Video_AlexHormozi_AskMeAnything]].
 
-## Related entries
-- [[Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
-- [[The Framework for Making Frameworks - Distill by Commonality]]
-- [[Capture Dont Create - Engineering Proof at Scale]]
-- [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
-- [[AI、資料與內容的賭注理論]]
+## Relationships
+- **related:** [[Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
+- **applies:** [[The Framework for Making Frameworks - Distill by Commonality]]
+- **related:** [[Capture Dont Create - Engineering Proof at Scale]]
+- **related:** [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
+- **related:** [[AI、資料與內容的賭注理論]]
 
 ## Source reference
 Alex Hormozi, *How to Use AI in Your Business in 2026* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].

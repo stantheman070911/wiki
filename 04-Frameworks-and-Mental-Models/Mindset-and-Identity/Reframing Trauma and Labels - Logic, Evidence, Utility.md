@@ -1,5 +1,7 @@
 ---
 title: "Reframing Trauma and Labels - Logic, Evidence, Utility"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/identity, topic/decision-making, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -41,10 +45,10 @@ Hormozi argues that mystical self-talk ("I have demons," "it's stored in my body
 - A young man insisting he had "demons"; unpacked, it meant "under condition X, I behave Y" — a skill deficiency, not a spiritual one.
 - Hormozi has to actively defend against hometown labels ("hothead," "short temper") — a case for changing your *environment* so it stops reinforcing labels you then perpetuate.
 
-## Related entries
-- [[Accountability and the Blame-Power Law]]
-- [[Hardship as Origin Story - Heroes Use Pain]]
-- [[Finite vs Infinite Games - Winning by Emptying the Tank]]
+## Relationships
+- **related:** [[Accountability and the Blame-Power Law]]
+- **related:** [[Hardship as Origin Story - Heroes Use Pain]]
+- **related:** [[Finite vs Infinite Games - Winning by Emptying the Tank]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].

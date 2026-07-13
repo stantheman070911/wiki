@@ -1,5 +1,7 @@
 ---
 title: "The Seven Questions Every Business Must Answer"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/monopoly, topic/business-model, topic/secrets, topic/product, person/peter-thiel]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2014"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: "2026-07-13"
 status: "reviewed"
 ---
 
@@ -40,12 +44,12 @@ Thiel uses the cleantech bubble as a diagnostic case study precisely because the
 - More than 40 solar manufacturers went bankrupt or shut down in 2012 alone; Solyndra is the most famous case but far from the only one (Evergreen Solar, Abound Solar, Energy Conversion Devices, Q-Cells, SpectraWatt all cited).
 - MiaSolé's CEO told Congress his company was one of several "very strong" competitors in thin-film solar, then minutes later predicted it would become the world's largest thin-film producer within a year — a live example of the monopoly-question self-contradiction; the company was later acquired for hundreds of millions less than investors had put in.
 
-## Related entries
-- [[Monopoly vs. Competition - Why All Happy Companies Are Different]]
-- [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
-- [[Secrets - How to Find What Everyone Else Has Missed]]
-- [[Distribution Is Destiny - The Sales Channel Power Law]]
-- [[The Five Advantages of a Perfect Business]]
+## Relationships
+- **related:** [[Monopoly vs. Competition - Why All Happy Companies Are Different]]
+- **related:** [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
+- **applies:** [[Secrets - How to Find What Everyone Else Has Missed]]
+- **related:** [[Distribution Is Destiny - The Sales Channel Power Law]]
+- **related:** [[The Five Advantages of a Perfect Business]]
 
 ## Source reference
 Peter Thiel with Blake Masters, *Zero to One*, ch. 13 ("Seeing Green"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.

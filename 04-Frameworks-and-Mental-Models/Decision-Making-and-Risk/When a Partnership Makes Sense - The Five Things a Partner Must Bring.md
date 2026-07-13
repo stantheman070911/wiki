@@ -1,5 +1,7 @@
 ---
 title: "When a Partnership Makes Sense - The Five Things a Partner Must Bring"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/partnerships, topic/equity, topic/decision-making, topic/career, topic/skill-acquisition, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -50,12 +54,12 @@ An 18-year-old weighing a partnership in a $200k pest-control business (5% equit
 - "Learn not earn" is stage-specific advice for early operators; it doesn't override a clear, high-value opportunity in front of you.
 - Even a well-matched partnership needs explicit agreements on roles and effort to survive the perception gap.
 
-## Related entries
-- [[Skill Stacking and the Education-ROI Playbook]]
-- [[Fear, Regret, and Asymmetric Bets]]
-- [[選擇、承諾與人生取捨]]
-- [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
+## Relationships
+- **related:** [[Skill Stacking and the Education-ROI Playbook]]
+- **related:** [[Fear, Regret, and Asymmetric Bets]]
+- **related:** [[選擇、承諾與人生取捨]]
+- **related:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.

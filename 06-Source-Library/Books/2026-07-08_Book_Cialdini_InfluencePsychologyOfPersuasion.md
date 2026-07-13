@@ -1,7 +1,11 @@
 ---
 title: "Influence Psychology Of Persuasion"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "book"
+source_format: "source-note"
+processing_status: "processed"
 author: "Cialdini"
 date_archived: "2026-07-08"
 status: "source"
@@ -52,3 +56,8 @@ The compliance principles themselves are not in the vault. Three clusters:
 ## Caveats
 - These are documented compliance mechanisms; Cialdini frames each with an explicit **defense**, because the same shortcuts that serve us are exploited against us. Every derived entry preserves the defense.
 - Use ethically: the book's own stance is that exploiting these against someone's interest invites justified retaliation and erodes trust.
+
+
+## Archived attachment
+
+- [2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion.txt](<2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion.txt>)

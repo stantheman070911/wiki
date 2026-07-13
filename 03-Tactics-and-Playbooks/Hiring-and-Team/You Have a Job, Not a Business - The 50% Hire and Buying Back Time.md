@@ -1,5 +1,7 @@
 ---
 title: "You Have a Job, Not a Business - The 50% Hire and Buying Back Time"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/hiring, topic/delegation, topic/scaling, person/sabri-suby, person/michael-gerber, source/e-myth-revisited]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-12"
+updated: "2026-07-12"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,13 +52,13 @@ The most common complaint among owners is "I can't find good people." Because th
 ## Notable examples
 - Suby selling all day and doing client work every evening until he had 70 clients — unsustainable. His first account manager didn't need his depth, bought back ~100 hours/month, and those hours went into building a sales team and process — turning a one-man agency into a scalable business.
 
-## Related entries
-- [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
-- [[Special-Forces Teams and Flat Organizations]]
-- [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
-- [[Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]]
-- [[The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician]]
-- [[The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
+## Relationships
+- **applies:** [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **related:** [[Special-Forces Teams and Flat Organizations]]
+- **applies:** [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
+- **applies:** [[Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]]
+- **applies:** [[The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician]]
+- **applies:** [[The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
 
 ## Source reference
 Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #3). Raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].

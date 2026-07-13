@@ -1,5 +1,7 @@
 ---
 title: "The Algorithm - Musk's Five-Step Process Method"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/operations, topic/simplification, topic/automation, person/elon-musk]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2026"
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -47,12 +51,12 @@ Musk made every team at his companies "rigorously implement" this five-step meth
 - The Tesla battery-pack fiberglass mats — automated and optimized for years before being deleted outright.
 - "The best part is no part" as Method #26 of the 69 Core Musk Methods.
 
-## Related entries
-- [[First-Principles Thinking - Reason from Physics, Not Analogy]]
-- [[The Factory Is the Product - Manufacturing as the Moat]]
-- [[Focus as Elimination - The Deep-Work Playbook]]
-- [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
-- [[Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]]
+## Relationships
+- **applies:** [[First-Principles Thinking - Reason from Physics, Not Analogy]]
+- **applies:** [[The Factory Is the Product - Manufacturing as the Moat]]
+- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
+- **applies:** [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
+- **applies:** [[Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]]
 
 ## Source reference
 Eric Jorgenson, *The Book of Elon* (2026), "Designing the Organization — The Algorithm." Extraction notes in [[2026-07-08_Book_EricJorgenson_TheBookOfElon]]; PDF archived alongside.

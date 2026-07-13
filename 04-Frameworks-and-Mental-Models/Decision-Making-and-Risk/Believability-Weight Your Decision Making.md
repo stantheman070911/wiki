@@ -1,5 +1,7 @@
 ---
 title: "Believability-Weight Your Decision Making"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/believability, topic/decision-making, topic/idea-meritocracy, topic/leadership, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -42,11 +46,11 @@ Fifth chapter of Work Principles; supplies the third leg of Dalio's master formu
 - **The 2012 Dot Collector vote on Mario Draghi.** Bridgewater's raw team was split roughly 50/50 on whether Draghi would defy German objections and print money to buy Eurozone bonds; the believability-weighted vote correctly predicted he would — a case where weighting genuinely outperformed a flat headcount.
 - **The 1982 collapse** (see [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]) is the direct origin of this entire chapter: Dalio's own confident-but-wrong depression call taught him that unweighted confidence — his own included — is not a reliable decision input.
 
-## Related entries
-- [[Trust in Radical Truth and Radical Transparency]]
-- [[Recognize How to Get Beyond Disagreements]]
-- [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
-- [[Remember That the WHO Is More Important Than the WHAT]]
+## Relationships
+- **related:** [[Trust in Radical Truth and Radical Transparency]]
+- **related:** [[Recognize How to Get Beyond Disagreements]]
+- **related:** [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **related:** [[Remember That the WHO Is More Important Than the WHAT]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 5 ("Believability Weight Your Decision Making"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

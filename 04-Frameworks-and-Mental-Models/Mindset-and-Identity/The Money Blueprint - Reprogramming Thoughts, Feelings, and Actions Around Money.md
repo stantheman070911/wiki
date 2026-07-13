@@ -1,5 +1,7 @@
 ---
 title: "The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/identity, topic/decision-making, person/t-harv-eker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -50,11 +54,11 @@ Eker frames wealth as having both an "outer game" (business knowledge, investing
 - Eker's own inability to profit in stocks traced to his father slamming the table nightly shouting "those stinkin' stocks" — reconditioning that one belief coincided with the start of consistent stock market success.
 - A well-dressed seminar attendee stuck at a consistent $500,000/year for seven years had simply never reset his blueprint past that number — "the actual amounts don't matter, what matters is whether you're reaching your full financial potential."
 
-## Related entries
-- [[I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle]]
-- [[Manage Your Money Well - The Habit Matters More Than the Amount]]
-- [[Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE]]
-- [[Accountability and the Blame-Power Law]]
+## Relationships
+- **related:** [[I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle]]
+- **related:** [[Manage Your Money Well - The Habit Matters More Than the Amount]]
+- **related:** [[Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE]]
+- **related:** [[Accountability and the Blame-Power Law]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Part One: "Your Money Blueprint." Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

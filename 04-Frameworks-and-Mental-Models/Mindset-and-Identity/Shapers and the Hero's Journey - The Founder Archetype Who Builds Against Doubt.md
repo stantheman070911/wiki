@@ -1,5 +1,7 @@
 ---
 title: "Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/leadership, topic/mindset, topic/identity, topic/founder-brand, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -39,11 +43,11 @@ Developed while Dalio was transitioning out of the CEO role at Bridgewater (2011
 - Dalio names Steve Jobs, Elon Musk, Bill Gates, Jeff Bezos, Muhammad Yunus, Lee Kuan Yew, and Deng Xiaoping as Shapers across very different domains (technology, microfinance, nation-building), arguing the underlying trait pattern is the same regardless of field.
 - Dalio's own mapping: Call to Adventure (starting Bridgewater from his apartment, 1975), Road of Trials (the 1970s–80s build-up), Abyss (the 1982 depression-call collapse — see [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]), Ultimate Boon (Bridgewater's systematized success from the mid-1990s on), and Returning the Boon (writing *Principles* itself, and his philanthropic giving, explicitly framed as passing along what he'd learned before he dies).
 
-## Related entries
-- [[The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]] (a different but complementary lens on unusual founders — Thiel's contradictory-traits framing vs. Dalio's trait-checklist framing)
-- [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
-- [[Hardship as Origin Story - Heroes Use Pain]]
-- [[Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
+## Relationships
+- **related:** [[The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]] (a different but complementary lens on unusual founders — Thiel's contradictory-traits framing vs. Dalio's trait-checklist framing)
+- **related:** [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **related:** [[Hardship as Origin Story - Heroes Use Pain]]
+- **related:** [[Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part I memoir, "Looking Back from a Higher Level" and surrounding chapters (c. 2011–2017). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

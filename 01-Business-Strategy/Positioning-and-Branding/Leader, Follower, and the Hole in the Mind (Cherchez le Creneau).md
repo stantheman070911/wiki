@@ -1,5 +1,7 @@
 ---
 title: "Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/positioning, topic/competition, topic/market-leader, topic/niche, person/ries-trout]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1981"
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -51,14 +55,14 @@ Position strategy depends entirely on where you already stand on the mental ladd
 - Tylenol repositioning aspirin; Avis "We're No. 2"; 7Up "the uncola."
 - Nuprin and Advil failing by not repositioning Tylenol.
 
-## Related entries
-- [[Positioning - Own a Word in the Prospect's Mind]]
-- [[The Line-Extension Trap - Why One Name Can't Own Two Things]]
-- [[Own What the Prospect Already Gives You - Research-Based Positioning]]
-- [[Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
-- [[TikTok Shop與飽和市場的白地策略]]
-- [[Personal-Brand Positioning and the No-Competition Model]]
-- [[The Five Advantages of a Perfect Business]]
+## Relationships
+- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
+- **applies:** [[The Line-Extension Trap - Why One Name Can't Own Two Things]]
+- **applies:** [[Own What the Prospect Already Gives You - Research-Based Positioning]]
+- **related:** [[Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
+- **related:** [[TikTok Shop與飽和市場的白地策略]]
+- **related:** [[Personal-Brand Positioning and the No-Competition Model]]
+- **related:** [[The Five Advantages of a Perfect Business]]
 
 ## Source reference
 Al Ries & Jack Trout, *Positioning: The Battle for Your Mind*, ch. 6–8. Extraction notes in [[2026-07-08_Book_RiesTrout_Positioning]].

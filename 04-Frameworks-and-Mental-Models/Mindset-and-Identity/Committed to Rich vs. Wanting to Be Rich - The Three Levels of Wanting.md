@@ -1,5 +1,7 @@
 ---
 title: "Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/commitment, topic/mindset, topic/decision-making, person/t-harv-eker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -31,10 +35,10 @@ Wealth File #3. Eker's seminar exercise — asking people to list the possible d
 - Make the commitment external and social: state it aloud to a supportive person with a hand on your heart ("I hereby commit to becoming a millionaire or more by [date]") and have them respond "I believe in you."
 - Notice your own reaction to committing: freedom or a tinge of fear both indicate you're on the right track; indifference or avoidance signals you're still in "wanting" mode.
 
-## Related entries
-- [[Playing to Win vs. Playing Not to Lose]]
-- [[Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
-- [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
+## Relationships
+- **related:** [[Playing to Win vs. Playing Not to Lose]]
+- **related:** [[Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
+- **related:** [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #3. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

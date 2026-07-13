@@ -1,5 +1,7 @@
 ---
 title: "The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/positioning, topic/sales, topic/marketing, person/sabri-suby]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-12"
+updated: "2026-07-12"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -35,11 +39,11 @@ The foundational reframe most founders resist: they build and sell from *their* 
 ## Notable examples
 - Suby's first sales job cold-calling to buy back empty ink cartridges: pitching his company's mission ("saving the turtles") got him hung up on all day. Switching to "I'll wire you $500 and you just read me the serial number" made him the #1 salesperson at every company he worked at.
 
-## Related entries
-- [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
-- [[The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]]
-- [[Distribution Beats Product - The Best-Known Wins, Not the Best]]
-- [[Positioning - Own a Word in the Prospect's Mind]]
+## Relationships
+- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **related:** [[The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]]
+- **related:** [[Distribution Beats Product - The Best-Known Wins, Not the Best]]
+- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
 
 ## Source reference
 Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #1). Raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].

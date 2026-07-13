@@ -1,5 +1,7 @@
 ---
 title: "Billing-Cycle vs Value-Cycle Alignment"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/pricing, topic/retention, topic/memberships, topic/cash-flow, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -48,12 +52,12 @@ A real-estate-focused SaaS at $60/month was losing ~100 of 150 weekly signups, l
 - Annual-only can suppress top-of-funnel conversion for some audiences; test rather than assume.
 - Prepaid terms improve cash flow and stickiness, but over-long commitments can raise the barrier to the first sale.
 
-## Related entries
-- [[Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value]]
-- [[ICP Qualification Through Segmented Churn]]
-- [[The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
-- [[Barbell Pricing and the Unscalable Premium Offer]]
-- [[Activation Before Automation - Manual Onboarding to Fix Churn]]
+## Relationships
+- **related:** [[Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value]]
+- **related:** [[ICP Qualification Through Segmented Churn]]
+- **related:** [[The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
+- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
+- **related:** [[Activation Before Automation - Manual Onboarding to Fix Churn]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.

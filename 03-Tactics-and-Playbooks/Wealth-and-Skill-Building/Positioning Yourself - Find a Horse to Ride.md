@@ -1,5 +1,7 @@
 ---
 title: "Positioning Yourself - Find a Horse to Ride"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/positioning, topic/career, topic/skills, topic/value-creation, person/ries-trout, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1981"
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -61,13 +65,13 @@ The book's most personal chapter turns the doctrine inward. The same rules that 
 - Nyquil's "nighttime cold remedy" as the model of a narrow, ownable position applied to career specialization.
 - The concentrate-your-fire rule: become #1 scotch in New York first, then roll out nationally.
 
-## Related entries
-- [[Positioning - Own a Word in the Prospect's Mind]]
-- [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
-- [[Personal-Brand Positioning and the No-Competition Model]]
-- [[The Personal-Brand House - Foundation, Interior, Exterior]]
-- [[財富公式：專屬知識、槓桿與判斷力]]
-- [[Skill Stacking and the Education-ROI Playbook]]
+## Relationships
+- **applies:** [[Positioning - Own a Word in the Prospect's Mind]]
+- **applies:** [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **applies:** [[Personal-Brand Positioning and the No-Competition Model]]
+- **applies:** [[The Personal-Brand House - Foundation, Interior, Exterior]]
+- **applies:** [[財富公式：專屬知識、槓桿與判斷力]]
+- **related:** [[Skill Stacking and the Education-ROI Playbook]]
 
 ## Source reference
 Al Ries & Jack Trout, *Positioning: The Battle for Your Mind*, ch. 23–25. Extraction notes in [[2026-07-08_Book_RiesTrout_Positioning]].

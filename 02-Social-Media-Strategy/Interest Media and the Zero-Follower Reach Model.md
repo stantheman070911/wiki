@@ -1,5 +1,7 @@
 ---
 title: "Interest Media and the Zero-Follower Reach Model"
+type: "strategy"
+domain: "social-media-strategy"
 lang: "en"
 tags: [topic/marketing, topic/distribution, topic/reach, topic/volume, person/gary-vaynerchuk]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -47,12 +51,12 @@ This turns the organic feed into a free, real-market pre-test and stops money be
 - GaryVee: a fresh "You're Somebody Now" TikTok account's first post — a slight edit of a video that had worked for him — got 8.2M organic views with zero followers.
 - He runs a distributed machine: multiple handles (GaryVee, "GaryVee on podcast," "Uncle V") heading toward 1,000+ accounts, and claims 432 posts in a single day — an agency-scale illustration of reach-without-followers.
 
-## Related entries
-- [[品牌即媒體公司：注意力到信任框架]]
-- [[The Attention Barbell - Brand as the AI-Era Moat]]
-- [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
-- [[對標方法論與靈感池系統]]
-- [[Process as the Goal - The Zero-Follower Consistency Engine]]
+## Relationships
+- **related:** [[品牌即媒體公司：注意力到信任框架]]
+- **related:** [[The Attention Barbell - Brand as the AI-Era Moat]]
+- **related:** [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
+- **related:** [[對標方法論與靈感池系統]]
+- **applies:** [[Process as the Goal - The Zero-Follower Consistency Engine]]
 
 ## Source reference
 Gary Vaynerchuk, *The New Rules of Social Media (2026)*. Extraction notes in [[2026-07-08_Talk_GaryVaynerchuk_NewRulesOfSocialMedia2026]].

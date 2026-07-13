@@ -1,5 +1,7 @@
 ---
 title: "Building a Content Team - Hiring Funnel, Contractors, and Onboarding"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/hiring, topic/onboarding, person/caleb-ralston]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -47,12 +51,12 @@ The operational half of Caleb Ralston's brand workbook: the practical playbooks 
 ## Notable examples
 - The workbook's rule of thumb: content slows after filming → hire an editor first; growth is the goal → hire a strategist before more creatives.
 
-## Related entries
-- [[備忘錄文化與 A 級人才招募 playbook]]
-- [[Special-Forces Teams and Flat Organizations]]
-- [[招募、領導與地理紅利]]
-- [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
-- [[The Waterfall Distribution Method - One Pillar, a Week of Content]]
+## Relationships
+- **related:** [[備忘錄文化與 A 級人才招募 playbook]]
+- **related:** [[Special-Forces Teams and Flat Organizations]]
+- **applies:** [[招募、領導與地理紅利]]
+- **applies:** [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
+- **related:** [[The Waterfall Distribution Method - One Pillar, a Week of Content]]
 
 ## Source reference
 Caleb Ralston, *How to Build Your Brand Workbook*, ch. 6–11. Extraction notes in [[2026-07-08_Workbook_CalebRalston_HowToBuildYourBrand]]; PDF archived alongside.

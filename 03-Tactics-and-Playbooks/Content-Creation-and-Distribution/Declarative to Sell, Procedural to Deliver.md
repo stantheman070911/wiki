@@ -1,5 +1,7 @@
 ---
 title: "Declarative to Sell, Procedural to Deliver"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/content-strategy, topic/education, topic/sales, topic/messaging, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -45,12 +49,12 @@ Structure sales education in four layers:
 ## Notable examples
 For an AI education business, Hormozi recommends showing an automation working in different businesses instead of walking through every connection. For live events, he distinguishes explaining why personalized outreach improves results from teaching the entire technical setup; the first creates informed demand, while the second creates homework.
 
-## Related entries
-- [[Skill Stacking and the Education-ROI Playbook]]
-- [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
-- [[Promise, Proof, Path - Engineering the Video Intro]]
-- [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- [[Capture Dont Create - Engineering Proof at Scale]]
+## Relationships
+- **related:** [[Skill Stacking and the Education-ROI Playbook]]
+- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
+- **applies:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **related:** [[Capture Dont Create - Engineering Proof at Scale]]
 
 ## Source reference
 Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

@@ -1,5 +1,7 @@
 ---
 title: "Do What You Set Out to Do"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/execution, topic/productivity, topic/prioritization, topic/operations, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -39,11 +43,11 @@ This chapter doesn't introduce a new framework so much as it closes the loop on 
 ## Notable examples
 - Dalio frames Churchill's "success consists of going from failure to failure without loss of enthusiasm" as the emotional posture execution actually requires — not because failure is desirable, but because sustained execution guarantees you'll hit a long string of setbacks before the goal, and the people who keep going are the ones who treat that as normal rather than as a signal to stop.
 
-## Related entries
-- [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
-- [[Design Improvements to Your Machine to Get Around Your Problems]]
-- [[Use Tools and Protocols to Shape How Work Is Done]]
-- [[Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]]
+## Relationships
+- **applies:** [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
+- **related:** [[Design Improvements to Your Machine to Get Around Your Problems]]
+- **related:** [[Use Tools and Protocols to Shape How Work Is Done]]
+- **applies:** [[Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 14 ("Do What You Set Out to Do"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

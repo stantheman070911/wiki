@@ -1,5 +1,7 @@
 ---
 title: "Creative Receptivity - Awareness, Attention, and the Artist's Filter"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/creativity, topic/mindset, topic/focus, topic/learning, person/rick-rubin]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2023"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -49,11 +53,11 @@ Improve output upstream: expand Source exposure, soften the filter, and keep the
 ## Notable examples
 AlphaGo's famous move 37 looked wrong to experienced Go players because it did not inherit the culture's unwritten conventions. Rubin uses it to distinguish fixed rules from accumulated assumptions: expertise can explain the known board while innocence can expose a move outside its accepted map.
 
-## Related entries
-- [[Finding New Ideas - Work at the Fractal Edge of Knowledge]]
-- [[Independent-Mindedness - Separate Truth from Identity and Conformism]]
-- [[The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
-- [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
+## Relationships
+- **related:** [[Finding New Ideas - Work at the Fractal Edge of Knowledge]]
+- **related:** [[Independent-Mindedness - Separate Truth from Identity and Conformism]]
+- **related:** [[The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
+- **related:** [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
 
 ## Source reference
 Rick Rubin with Neil Strauss, *The Creative Act: A Way of Being* (2023). Raw transcript archived at [[2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript]].

@@ -1,5 +1,7 @@
 ---
 title: "Know Thy Time - Record, Eliminate, and Consolidate"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/productivity, topic/focus, topic/operations, topic/prioritization, person/peter-drucker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1967"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -50,11 +54,11 @@ Time is the limiting resource of knowledge work: it cannot be stored, replaced, 
 - A bank president used ninety-minute, single-topic sessions with no calls because he found that important issues needed that long to become clear, while his attention deteriorated beyond it.
 - A hospital’s recurring search for beds was caused by a simple information defect: admissions received a 5 a.m. count but not the discharge notices already sent elsewhere.
 
-## Related entries
-- [[The Effective Executive - Five Learnable Practices]]
-- [[Focus as Elimination - The Deep-Work Playbook]]
-- [[Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
-- [[Do What You Set Out to Do]]
+## Relationships
+- **applies:** [[The Effective Executive - Five Learnable Practices]]
+- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
+- **related:** [[Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
+- **related:** [[Do What You Set Out to Do]]
 
 ## Source reference
 Peter F. Drucker, *The Effective Executive*, ch. 2, “Know Thy Time” (1967; 2006 edition). Raw archived text in [[2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript]].

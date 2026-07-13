@@ -1,5 +1,7 @@
 ---
 title: "The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mental-models, topic/decision-making, topic/mindset, person/peter-thiel]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2014"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: "2026-07-13"
 status: "reviewed"
 ---
 
@@ -44,11 +48,11 @@ Thiel opens every job interview and this book with the same question because it 
 - Building 100 typewriters is horizontal progress; inventing the word processor is vertical progress.
 - The Founding Fathers, the Royal Society, and Fairchild Semiconductor's "traitorous eight" are examples of small, mission-bound groups that changed the world — the startup pattern, before "startup" was a word.
 
-## Related entries
-- [[Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
-- [[Monopoly vs. Competition - Why All Happy Companies Are Different]]
-- [[Secrets - How to Find What Everyone Else Has Missed]]
-- [[First-Principles Thinking - Reason from Physics, Not Analogy]]
+## Relationships
+- **related:** [[Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
+- **related:** [[Monopoly vs. Competition - Why All Happy Companies Are Different]]
+- **related:** [[Secrets - How to Find What Everyone Else Has Missed]]
+- **related:** [[First-Principles Thinking - Reason from Physics, Not Analogy]]
 
 ## Source reference
 Peter Thiel with Blake Masters, *Zero to One*, Preface and ch. 1 ("The Challenge of the Future"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.

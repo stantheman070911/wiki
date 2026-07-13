@@ -1,5 +1,7 @@
 ---
 title: "The Seven Principles of Building an Iconic Brand"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/personal-brand, topic/consistency, topic/mindset, topic/simplicity]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-02"
+updated: "2026-07-13"
+reviewed_on: "2026-07-13"
 status: "reviewed"
 ---
 
@@ -17,6 +21,11 @@ status: "reviewed"
 ## One-line summary
 Iconic brands are built, not born — they emerge from decades of devotion to a craft, not from chasing metrics, money, or audience approval.
 
+
+
+## Context
+
+This page organizes **The Seven Principles of Building an Iconic Brand** as a reusable framework; the sections below preserve its original framework, steps, and examples.
 ## 1. Consistency
 Compounding rewards those who show up daily over years, not months. Casey Neistat vlogged for 800 consecutive days, filming and editing within the same 24 hours everyone has. Illustrative math: 100 reps at ~10% improvement each compounds to roughly 13,800x better by the 100th rep — growth is exponential, not linear, if you keep showing up. Rule of thumb: focus on decades, not years; pick a craft you'd enjoy for 10+ years and don't break the chain.
 
@@ -52,11 +61,11 @@ Survivorship bias: the examples cited (Nvidia, MrBeast, Jordan, Jobs) are extrem
 ## Note on a real tension in this WIKI
 Principle 4 ("the audience comes last") sits in direct tension with 陳修平's explicit "以市場為中心" stance in [[業績公式與商業定位：從流量思維到變現路徑]] ("拍平台算法想推的" rather than "拍我想拍的"). This is not a one-off disagreement — Naval Ravikant's "find what feels like play to you" ([[財富公式：專屬知識、槓桿與判斷力]]) and Bloom Nutrition's "give creators creative freedom, rigid briefs kill reach" ([[網紅行銷引擎：以CPM反推的分散式機器]]) sit on the same side as this entry. See the tension note in [[業績公式與商業定位：從流量思維到變現路徑]] for a suggested reconciliation.
 
-## Related entries
-- [[創作心態：六大陷阱與執行路線圖]]
-- [[決策、幸福與心智管理]]
-- [[身份、故事與致勝三步]]
-- [[業績公式與商業定位：從流量思維到變現路徑]]（框架張力：市場中心 vs 創作者本位）
+## Relationships
+- **related:** [[創作心態：六大陷阱與執行路線圖]]
+- **related:** [[決策、幸福與心智管理]]
+- **related:** [[身份、故事與致勝三步]]
+- **related:** [[業績公式與商業定位：從流量思維到變現路徑]]（框架張力：市場中心 vs 創作者本位）
 
 ## Source reference
 "Building an Iconic Personal Brand" (video transcript, seven core principles). Full notes archived at [[2026-07-02_Video_BuildingAnIconicPersonalBrand]].

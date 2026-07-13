@@ -1,5 +1,7 @@
 ---
 title: "Contribution Before Activity - Define Results and Make Knowledge Usable"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/management, topic/leadership, topic/productivity, topic/systems, person/peter-drucker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1967"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -52,11 +56,11 @@ Specialized knowledge is incomplete by itself. It becomes productive only when a
 - A bank’s agency department redefined itself from accurate clerical processing into a relationship channel to the senior financial executives who bought the bank’s other services.
 - A retail-chain president concluded that only he could make management development real, then repeatedly checked whether managers had followed through on development commitments.
 
-## Related entries
-- [[The Effective Executive - Five Learnable Practices]]
-- [[Manage as Someone Operating a Machine to Achieve a Goal]]
-- [[Remember That the WHO Is More Important Than the WHAT]]
-- [[Get and Stay in Sync]]
+## Relationships
+- **related:** [[The Effective Executive - Five Learnable Practices]]
+- **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
+- **related:** [[Remember That the WHO Is More Important Than the WHAT]]
+- **related:** [[Get and Stay in Sync]]
 
 ## Source reference
 Peter F. Drucker, *The Effective Executive*, ch. 3, “What Can I Contribute?” (1967; 2006 edition). Raw archived text in [[2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript]].

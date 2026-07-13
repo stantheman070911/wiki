@@ -1,5 +1,7 @@
 ---
 title: "Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/wealth, topic/money, topic/decision-making, person/t-harv-eker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -32,10 +36,10 @@ Wealth File #13. Eker points out that income alone reliably fails to create weal
 - Deliberately work on all four factors rather than only chasing higher income: increase savings rate, improve investment returns, and look for one specific lifestyle simplification that meaningfully lowers fixed cost of living.
 - When evaluating a raise, sale, or windfall, ask which of the four factors it actually improves — a bigger paycheck that increases spending proportionally hasn't moved net worth at all.
 
-## Related entries
-- [[Paid on Results vs. Paid on Time]]
-- [[Manage Your Money Well - The Habit Matters More Than the Amount]]
-- [[Have Money Work Hard for You vs. Working Hard for Your Money]]
+## Relationships
+- **related:** [[Paid on Results vs. Paid on Time]]
+- **related:** [[Manage Your Money Well - The Habit Matters More Than the Amount]]
+- **related:** [[Have Money Work Hard for You vs. Working Hard for Your Money]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #13. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

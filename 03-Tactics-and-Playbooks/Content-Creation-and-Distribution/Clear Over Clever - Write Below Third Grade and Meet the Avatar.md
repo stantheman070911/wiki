@@ -1,5 +1,7 @@
 ---
 title: "Clear Over Clever - Write Below Third Grade and Meet the Avatar"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/copywriting, topic/messaging, topic/avatar, topic/advertising, topic/positioning, person/alex-hormozi, person/matt-gray]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -54,12 +58,12 @@ Steve Jobs introduced the iPhone as three familiar things in one: a widescreen i
 - Some technical audiences do want precision; match reading level to the actual buyer, not to peers.
 - "Clear over clever" applies to marketing and sales copy; internal documentation may need more precision.
 
-## Related entries
-- [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
-- [[Positioning - Own a Word in the Prospect's Mind]]
-- [[Add a Zero - Market Choice as a Force Multiplier]]
-- [[Promise, Proof, Path - Engineering the Video Intro]]
+## Relationships
+- **applies:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
+- **applies:** [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
+- **applies:** [[Positioning - Own a Word in the Prospect's Mind]]
+- **applies:** [[Add a Zero - Market Choice as a Force Multiplier]]
+- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.

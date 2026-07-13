@@ -1,5 +1,7 @@
 ---
 title: "The Five Advantages of a Perfect Business"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/business-model, topic/retention, topic/unit-economics, topic/scaling, topic/moat, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -48,14 +52,14 @@ This is an S-tier ranking for opportunity vehicles: a way to diagnose whether a 
 - Skool: community + consumable content drives month-over-month payment; retention data above.
 - Coca-Cola as the near-complete five-advantage business (Buffett's long hold).
 
-## Related entries
-- [[Barbell Pricing and the Unscalable Premium Offer]]
-- [[Activation Before Automation - Manual Onboarding to Fix Churn]]
-- [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- [[$100M 擴張路線圖 · 總覽與方法論|$100M 擴張路線圖（十階段系列）]]
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- [[從零到十萬美元聯盟套利劇本與商業基本面]]
-- [[TikTok Shop與飽和市場的白地策略]]
+## Relationships
+- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
+- **related:** [[Activation Before Automation - Manual Onboarding to Fix Churn]]
+- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
+- **related:** [[$100M 擴張路線圖 · 總覽與方法論|$100M 擴張路線圖（十階段系列）]]
+- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
+- **related:** [[從零到十萬美元聯盟套利劇本與商業基本面]]
+- **related:** [[TikTok Shop與飽和市場的白地策略]]
 
 ## Source reference
 Alex Hormozi, *How to Build The Perfect Business (Step-by-Step)* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].

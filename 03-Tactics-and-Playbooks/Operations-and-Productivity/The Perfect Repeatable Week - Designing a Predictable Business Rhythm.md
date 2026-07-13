@@ -1,5 +1,7 @@
 ---
 title: "The Perfect Repeatable Week - Designing a Predictable Business Rhythm"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/operations, topic/systems, topic/execution, topic/consistency, topic/leadership, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -50,11 +54,11 @@ Bookend each week with a Monday **three-to-six priorities** meeting and a Friday
 ## Notable examples
 Priestley compares the model with a touring band: the show, pack-down, travel, setup, and rehearsal form a machine that repeats. The creative work is not eliminated; it is embedded in a reliable operating cycle.
 
-## Related entries
-- [[The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
-- [[The 5A Operating System - Alignment, Awareness, Accountabilities, Activities, and Assets]]
-- [[Do What You Set Out to Do]]
-- [[Know Thy Time - Record, Eliminate, and Consolidate]]
+## Relationships
+- **related:** [[The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
+- **applies:** [[The 5A Operating System - Alignment, Awareness, Accountabilities, Activities, and Assets]]
+- **related:** [[Do What You Set Out to Do]]
+- **related:** [[Know Thy Time - Record, Eliminate, and Consolidate]]
 
 ## Source reference
 Daniel Priestley, *Seven Boring Habits for Seven-Figure Businesses*. Raw transcript in [[2026-07-13_Video_DanielPriestley_SevenBoringHabitsForSevenFigureBusinesses_RawTranscript]].

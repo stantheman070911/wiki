@@ -1,5 +1,7 @@
 ---
 title: "Sales Systems as Intellectual Property - Process Above the Player"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/sales, topic/culture, topic/systems, topic/ip, topic/consistency, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -58,12 +62,12 @@ AMA 3 makes the feedback loop more explicit: a world-class team role-plays every
 - Off-script improvisation that "closes" often sells things the company can't deliver — consistency protects fulfillment, not just conversion.
 - Tactics come after the root: fix the process and leader first; if that fails, restructure the team.
 
-## Related entries
-- [[Volume and Feedback - Sales as the Training Ground]]
-- [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- [[The Algorithm - Musk's Five-Step Process Method]]
-- [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
-- [[The Framework for Making Frameworks - Distill by Commonality]]
+## Relationships
+- **related:** [[Volume and Feedback - Sales as the Training Ground]]
+- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **related:** [[The Algorithm - Musk's Five-Step Process Method]]
+- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **applies:** [[The Framework for Making Frameworks - Distill by Commonality]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].

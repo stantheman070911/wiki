@@ -1,5 +1,7 @@
 ---
 title: "Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/learning, topic/mindset, topic/identity, person/t-harv-eker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -33,10 +37,10 @@ Wealth File #17, closing the seventeen-file sequence. Eker calls "I know that" o
 - Allocate a portion of income specifically to an education fund (courses, books, coaching) so continued learning has dedicated resourcing rather than competing against other spending.
 - When you catch yourself thinking "I already know that" about a domain where your results don't match your stated knowledge, treat the phrase itself as a diagnostic flag.
 
-## Related entries
-- [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
-- [[Association - Rich People Model Winners, Poor People Hang Around Losers]]
-- [[Skill Stacking and the Education-ROI Playbook]]
+## Relationships
+- **related:** [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
+- **related:** [[Association - Rich People Model Winners, Poor People Hang Around Losers]]
+- **related:** [[Skill Stacking and the Education-ROI Playbook]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #17. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

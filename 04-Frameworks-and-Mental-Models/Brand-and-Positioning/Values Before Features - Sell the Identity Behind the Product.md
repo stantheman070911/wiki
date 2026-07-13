@@ -1,5 +1,7 @@
 ---
 title: "Values Before Features - Sell the Identity Behind the Product"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/brand, topic/identity, topic/sales, topic/positioning, person/matt-gray]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,11 +52,11 @@ A value that cannot produce a behavior or proof point is decoration, not positio
 ## Notable examples
 Apple's “Think Different” positioning associated the company with people who challenge conventions. The products still needed to perform, but the campaign gave buyers a compact belief and identity through which to interpret the functional evidence.
 
-## Related entries
-- [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- [[Creator Vision Framework - What x Who x Why]]
-- [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
-- [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+## Relationships
+- **related:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **related:** [[Creator Vision Framework - What x Who x Why]]
+- **related:** [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
+- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
 
 ## Source reference
 Matt Gray, *What Steve Jobs Can Teach You About Business (That Harvard Can't)*, [[2026-07-13_Video_MattGray_WhatSteveJobsCanTeachYouAboutBusiness_RawTranscript]].

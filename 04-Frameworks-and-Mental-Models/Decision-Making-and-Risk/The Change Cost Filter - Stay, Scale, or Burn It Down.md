@@ -1,5 +1,7 @@
 ---
 title: "The Change Cost Filter - Stay, Scale, or Burn It Down"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/decision-making, topic/opportunity-cost, topic/focus, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -62,15 +66,15 @@ To a serial-visionary founder juggling five businesses, Hormozi laid out the 20%
 - Not every process defect deserves immediate repair. Some issues should stay broken until the cost of fixing them is lower than the cost of living with them.
 - A new location is not scaling if the existing location still depends on the founder or has large unused demand capacity.
 
-## Related entries
-- [[Focus as Elimination - The Deep-Work Playbook]]
-- [[Fear, Regret, and Asymmetric Bets]]
-- [[選擇、承諾與人生取捨]]
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
-- [[Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
-- [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
-- [[Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
+## Relationships
+- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
+- **related:** [[Fear, Regret, and Asymmetric Bets]]
+- **related:** [[選擇、承諾與人生取捨]]
+- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
+- **related:** [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
+- **related:** [[Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
+- **related:** [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
+- **related:** [[Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.

@@ -1,5 +1,7 @@
 ---
 title: "Startup Equals Growth - Weekly Compounding and Market Size"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/startups, topic/growth, topic/scaling, topic/tam, topic/inputs-vs-outputs, person/paul-graham, source/paul-graham-essays]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2012"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -40,10 +44,10 @@ Model the company as **initial active users × weekly growth multiplier × numbe
 ## Notable examples
 At 10% weekly growth, 100 users become roughly 14,000 in a year and about two million in two years. The actions used later will change, but early manual acquisition can start the same compounding curve.
 
-## Related entries
-- [[The TAM Illusion - Saturated Markets, the Puddle-to-Ocean Path, and Five Directions to Move]]
-- [[Do Things That Don't Scale - Recruit, Delight, and Learn by Hand]]
-- [[Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
+## Relationships
+- **related:** [[The TAM Illusion - Saturated Markets, the Puddle-to-Ocean Path, and Five Directions to Move]]
+- **related:** [[Do Things That Don't Scale - Recruit, Delight, and Learn by Hand]]
+- **related:** [[Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
 
 ## Source reference
 Paul Graham, “Startup = Growth,” “How to Earn a Billion Dollars,” and “Do Things that Don't Scale,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

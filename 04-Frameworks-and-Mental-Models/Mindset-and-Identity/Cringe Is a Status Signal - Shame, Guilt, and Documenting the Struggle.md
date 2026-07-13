@@ -1,5 +1,7 @@
 ---
 title: "Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/personal-brand, topic/self-belief, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -42,12 +46,12 @@ Everyone's first content, first ad, first product is embarrassing. Hormozi shows
 - Hormozi's archived first ad, first post ("please give me money"), first YouTube video and IG post — deliberately shown as painfully bad, then contrasted with his later work.
 - 90 days after that first ad he lost everything a second time and made his first podcast — the documented comeback.
 
-## Related entries
-- [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
-- [[Capture Dont Create - Engineering Proof at Scale]]
-- [[Build Evidence, Not Confidence]]
-- [[Hardship as Origin Story - Heroes Use Pain]]
-- [[Process as the Goal - The Zero-Follower Consistency Engine]]
+## Relationships
+- **related:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
+- **related:** [[Capture Dont Create - Engineering Proof at Scale]]
+- **related:** [[Build Evidence, Not Confidence]]
+- **related:** [[Hardship as Origin Story - Heroes Use Pain]]
+- **related:** [[Process as the Goal - The Zero-Follower Consistency Engine]]
 
 ## Source reference
 Alex Hormozi, *If You're Scared of Looking Cringe, Please Watch This* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].

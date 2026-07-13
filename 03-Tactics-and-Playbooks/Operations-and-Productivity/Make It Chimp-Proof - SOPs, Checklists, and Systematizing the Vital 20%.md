@@ -1,5 +1,7 @@
 ---
 title: "Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/operations, topic/systems, person/sabri-suby, person/michael-gerber, source/e-myth-revisited]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-12"
+updated: "2026-07-12"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -51,13 +55,13 @@ A business that depends on hiring the *best* staff isn't systematized; it's frag
 - Suby sitting in his bedroom obsessing over writing the best offers and copy and designing the cleanest funnels, doing it laboriously better than anyone, then systematizing the vital 20% and hiring against it — producing better client results than any competitor.
 - Gerber’s Franchise Prototype makes the same principle a business-wide design constraint: the operation must reliably deliver its promise in the hands of properly trained ordinary people, not depend on the founder or another rare expert.
 
-## Related entries
-- [[Focus as Elimination - The Deep-Work Playbook]]
-- [[The Algorithm - Musk's Five-Step Process Method]]
-- [[Sales Systems as Intellectual Property - Process Above the Player]]
-- [[You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
-- [[The Franchise Prototype - Build the Business as the Product]]
-- [[Innovation, Quantification, and Orchestration - The Business Development Loop]]
+## Relationships
+- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
+- **related:** [[The Algorithm - Musk's Five-Step Process Method]]
+- **related:** [[Sales Systems as Intellectual Property - Process Above the Player]]
+- **related:** [[You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
+- **applies:** [[The Franchise Prototype - Build the Business as the Product]]
+- **applies:** [[Innovation, Quantification, and Orchestration - The Business Development Loop]]
 
 ## Source reference
 Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #9). Raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].

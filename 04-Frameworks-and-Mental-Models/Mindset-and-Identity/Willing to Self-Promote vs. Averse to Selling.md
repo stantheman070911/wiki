@@ -1,5 +1,7 @@
 ---
 title: "Willing to Self-Promote vs. Averse to Selling"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/persuasion, topic/marketing, topic/mindset, person/t-harv-eker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -32,10 +36,10 @@ Wealth File #8. Eker locates aversion to selling as one of the more disguised bl
 - Invest specifically in marketing and sales skill (books, courses) until you can promote with full integrity and competence, rather than avoiding the skill because early attempts felt uncomfortable.
 - Separate the three historical roots (past bad experience, past rejection, parental conditioning) and address each explicitly rather than treating "I don't like selling" as one undifferentiated block.
 
-## Related entries
-- [[Think Big vs. Think Small - The Law of Income]]
-- [[Association - Rich People Model Winners, Poor People Hang Around Losers]]
-- [[Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself]]
+## Relationships
+- **related:** [[Think Big vs. Think Small - The Law of Income]]
+- **related:** [[Association - Rich People Model Winners, Poor People Hang Around Losers]]
+- **related:** [[Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #8. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

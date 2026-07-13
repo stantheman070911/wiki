@@ -1,5 +1,7 @@
 ---
 title: "Primary Aim and Strategic Objective - Make the Business Serve the Life"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/decision-making, topic/mission, topic/leadership, topic/focus, topic/business-model, topic/wealth, person/michael-gerber, source/e-myth-revisited]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1995"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -50,12 +54,12 @@ Review decisions in the opposite direction: an initiative is valuable only if it
 ## Notable examples
 Sarah reframes her pie shops around “caring” rather than pies, sets a seven-year vision for four founder-independent locations, and attaches revenue, margin, and sale-value standards. The numbers make the dream testable; the deeper purpose determines what the system should preserve while scaling.
 
-## Related entries
-- [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
-- [[The Seven Levels of Business Growth - From Side Hustle to Exit]]
-- [[The 5A Operating System - Alignment, Awareness, Accountabilities, Activities, and Assets]]
-- [[The Effective Executive - Five Learnable Practices]]
-- [[Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment]]
+## Relationships
+- **related:** [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **related:** [[The Seven Levels of Business Growth - From Side Hustle to Exit]]
+- **related:** [[The 5A Operating System - Alignment, Awareness, Accountabilities, Activities, and Assets]]
+- **related:** [[The Effective Executive - Five Learnable Practices]]
+- **related:** [[Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment]]
 
 ## Source reference
 Michael E. Gerber, *The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It*, chapters 11–13. Archived transcript: [[2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript]].

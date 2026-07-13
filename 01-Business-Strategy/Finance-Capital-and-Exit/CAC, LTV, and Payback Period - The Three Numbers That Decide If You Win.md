@@ -1,5 +1,7 @@
 ---
 title: "CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/cac, topic/ltv, topic/unit-economics, topic/cash-flow, person/sabri-suby]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-10"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -28,12 +32,12 @@ Suby built a $250M agency and generated $7.8B in client sales across 1,000+ nich
 - **Most businesses spend their time on the wrong side of the ledger.** The default is to spend 80% of effort trying to lower CAC and 20% trying to raise LTV. The biggest businesses invert this — they spend roughly 80% of their effort on retention, upsells, and increasing what a customer is worth, because a small LTV increase compounds into a much larger allowable CAC.
 
 ## Framework / model (if applicable)
-**The three numbers:**
+### The three numbers
 1. **LTV (lifetime value)** — total revenue over the last 12–36 months ÷ number of customers in that period, adjusted for typical profit margin. Example: $250,000 revenue ÷ 110 clients = $2,279 LTV.
 2. **CAC (customer acquisition cost)** — every cost tied to converting attention into a customer (agency fees, sales team, media spend).
 3. **Payback period** — how long it takes to recoup the CAC in cash, not just on paper (revenue can trickle back over 90/180/360-day windows even when the lifetime LTV:CAC ratio looks healthy).
 
-**Target ratios:**
+### Target ratios
 | LTV:CAC | Read |
 |---|---|
 | 1:1 | Losing proposition — not making money |
@@ -42,7 +46,7 @@ Suby built a $250M agency and generated $7.8B in client sales across 1,000+ nich
 
 Rule of thumb: be willing to spend up to ~33% of LTV to acquire a customer.
 
-**Shortening payback period:**
+### Shortening payback period
 - E-commerce: target ~90 days; the fastest lever is a one-click post-purchase upsell (discounted add-on, expedited shipping, extended warranty) that lifts day-one ROAS.
 - Service business: front-load setup fees, deposits, and paid upsells rather than relying on total contract value trickling in over time.
 - Target: recoup CAC within a single credit-card billing cycle (~30 days, interest-free) so financing ad spend never becomes the bottleneck.
@@ -60,11 +64,11 @@ Rule of thumb: be willing to spend up to ~33% of LTV to acquire a customer.
 - SaaS businesses with 5-year payback periods still raising venture capital because the LTV:CAC ratio is healthy even though the cash-recoupment window is long — illustrating why payback period and LTV:CAC are tracked as separate numbers.
 - Businesses that raise ad spend from $10K/month to $50K/month and see 30-day ROAS drop, but need to be evaluated on lifetime ROAS instead of first-purchase ROAS before concluding the spend increase failed.
 
-## Related entries
-- [[The Value Equation and the Grand Slam Offer]]
-- [[The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]]
-- [[Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value]]
-- [[ICP Qualification Through Segmented Churn]]
+## Relationships
+- **related:** [[The Value Equation and the Grand Slam Offer]]
+- **related:** [[The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]]
+- **related:** [[Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value]]
+- **related:** [[ICP Qualification Through Segmented Churn]]
 
 ## Source reference
 Sabri Suby, customer-acquisition training video (part of a four-video compilation). Raw transcript and extraction notes archived at [[2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook]].

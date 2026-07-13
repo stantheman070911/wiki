@@ -1,5 +1,7 @@
 ---
 title: "Admire vs. Resent the Rich - Bless That Which You Want"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/wealth, topic/identity, person/t-harv-eker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -31,10 +35,10 @@ Wealth File #6. Eker notes people who view the rich as "bad" but still want to b
 - Practice the Huna exercise: browse homes, cars, or businesses you admire (in person or in media) and deliberately bless the owner and the object rather than critiquing it.
 - Send a short note of genuine admiration to someone highly successful (not necessarily someone you know personally) — the act of articulating admiration, not just feeling it, does the reprogramming.
 
-## Related entries
-- [[I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle]]
-- [[Association - Rich People Model Winners, Poor People Hang Around Losers]]
-- [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
+## Relationships
+- **related:** [[I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle]]
+- **related:** [[Association - Rich People Model Winners, Poor People Hang Around Losers]]
+- **related:** [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #6. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

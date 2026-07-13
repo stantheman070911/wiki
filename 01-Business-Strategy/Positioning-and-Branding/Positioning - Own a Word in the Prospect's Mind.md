@@ -1,5 +1,7 @@
 ---
 title: "Positioning - Own a Word in the Prospect's Mind"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/positioning, topic/marketing, topic/brand, topic/differentiation, person/ries-trout]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1981"
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -47,16 +51,16 @@ Ries and Trout's founding thesis (coined 1972). Kotler frames it as the step tha
 - Avis "We try harder" and 7Up "the uncola" — the classic against-the-leader positions.
 - Rheingold's ethnic-appeal beer — the everybody-trap failure.
 
-## Related entries
-- [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
-- [[The Line-Extension Trap - Why One Name Can't Own Two Things]]
-- [[Positioning Yourself - Find a Horse to Ride]]
-- [[Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
-- [[Own What the Prospect Already Gives You - Research-Based Positioning]]
-- [[Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
-- [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- [[Personal-Brand Positioning and the No-Competition Model]]
+## Relationships
+- **related:** [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **applies:** [[The Line-Extension Trap - Why One Name Can't Own Two Things]]
+- **related:** [[Positioning Yourself - Find a Horse to Ride]]
+- **related:** [[Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
+- **applies:** [[Own What the Prospect Already Gives You - Research-Based Positioning]]
+- **related:** [[Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
+- **applies:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
+- **related:** [[Personal-Brand Positioning and the No-Competition Model]]
 
 ## Source reference
 Al Ries & Jack Trout, *Positioning: The Battle for Your Mind*, ch. 1–5. Extraction notes in [[2026-07-08_Book_RiesTrout_Positioning]].

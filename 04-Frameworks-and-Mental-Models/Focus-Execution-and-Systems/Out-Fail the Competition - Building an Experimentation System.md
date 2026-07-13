@@ -1,5 +1,7 @@
 ---
 title: "Out-Fail the Competition - Building an Experimentation System"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/innovation, topic/feedback, topic/decision-making, topic/risk, topic/culture, topic/execution, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2023"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -52,11 +56,11 @@ Before testing, classify the decision: **one-way door** (hard to reverse; slow d
 ## Notable examples
 Booking.com built an experimentation platform and normalized thousands of concurrent tests to discover customer behavior rather than settle product arguments by authority. Amazon treats invention and failure as inseparable, using the asymmetric payoff of rare winners such as AWS to justify a portfolio of bounded experiments.
 
-## Related entries
-- [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
-- [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
-- [[Innovation, Quantification, and Orchestration - The Business Development Loop]]
-- [[Fear, Regret, and Asymmetric Bets]]
+## Relationships
+- **related:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **related:** [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
+- **related:** [[Innovation, Quantification, and Orchestration - The Business Development Loop]]
+- **related:** [[Fear, Regret, and Asymmetric Bets]]
 
 ## Source reference
 Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 21. Raw transcript archived in [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].

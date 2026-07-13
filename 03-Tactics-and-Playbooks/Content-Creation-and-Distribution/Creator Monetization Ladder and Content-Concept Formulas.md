@@ -1,5 +1,7 @@
 ---
 title: "Creator Monetization Ladder and Content-Concept Formulas"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/personal-brand, topic/monetization, topic/email-marketing, topic/content-formats, topic/offers]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -50,11 +54,11 @@ Reliable, repeatable content shapes that build a buying audience:
 - Maggie Sellers' "Hot Smart Rich" podcast — a marquee property that became more known than the person.
 - A lighting-expert photographer selling a $50 "two-light home setup" course, upsold to a $1,000 done-for-you Zoom.
 
-## Related entries
-- [[電子郵件名單：最被低估的自有高意圖資產]]
-- [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
-- [[Levels of a Personal Brand and the Five Archetypes]]
-- [[私域經營三段邏輯：引流、留存、轉換]]
+## Relationships
+- **applies:** [[電子郵件名單：最被低估的自有高意圖資產]]
+- **related:** [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
+- **applies:** [[Levels of a Personal Brand and the Five Archetypes]]
+- **applies:** [[私域經營三段邏輯：引流、留存、轉換]]
 
 ## Source reference
 "The Art of the Personal Brand" (video). Extraction notes and raw transcript in [[2026-07-08_Video_ArtOfThePersonalBrand]].

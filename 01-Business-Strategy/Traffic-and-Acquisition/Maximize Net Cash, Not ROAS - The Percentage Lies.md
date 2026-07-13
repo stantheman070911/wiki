@@ -1,5 +1,7 @@
 ---
 title: "Maximize Net Cash, Not ROAS - The Percentage Lies"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/paid-ads, topic/unit-economics, topic/cash-flow, topic/decision-making, person/sabri-suby]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-12"
+updated: "2026-07-12"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -37,11 +41,11 @@ Founders instinctively defend a high ROAS and refuse to let it drop, so they cap
 - Business owners bragging about a 5x ROAS at $5k/month who won't scale to $10–15k because the ratio slips to 4x — leaving large net profit on the table.
 - Suby: he could afford five Ferraris for years before buying one, because he reinvested that money into the business, team, offices, and new markets — compounding one Ferrari's worth into five.
 
-## Related entries
-- [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
-- [[The Creative Volume Engine - Ads Are an At-Bats Game]]
-- [[Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
-- [[Delayed Gratification - Patience and Inputs vs Outputs]]
+## Relationships
+- **related:** [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
+- **related:** [[The Creative Volume Engine - Ads Are an At-Bats Game]]
+- **applies:** [[Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
+- **applies:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
 
 ## Source reference
 Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #6). Raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].

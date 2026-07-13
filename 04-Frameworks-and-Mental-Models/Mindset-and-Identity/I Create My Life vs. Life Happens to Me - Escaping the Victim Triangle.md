@@ -1,5 +1,7 @@
 ---
 title: "I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/decision-making, topic/identity, person/t-harv-eker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -35,11 +39,11 @@ This is Wealth File #1 in Eker's seventeen contrasts between rich and poor minds
 - A seminar attendee tells Eker "money's not really important"; he replies "you're broke, right?" — the tell is that people minimize what they don't have, not what they do.
 - Eker's own real-time catch: watching Oprah interview Halle Berry about a $20M film deal, he noticed resentment rising in himself mid-broadcast and consciously flipped it to "Way to go, girl!" — evidence that even someone who teaches this has to keep practicing it (see the related admiration-vs-resentment file).
 
-## Related entries
-- [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
-- [[Admire vs. Resent the Rich - Bless That Which You Want]]
-- [[Bigger Than Your Problems vs. Smaller Than Your Problems]]
-- [[Accountability and the Blame-Power Law]]
+## Relationships
+- **related:** [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
+- **related:** [[Admire vs. Resent the Rich - Bless That Which You Want]]
+- **related:** [[Bigger Than Your Problems vs. Smaller Than Your Problems]]
+- **related:** [[Accountability and the Blame-Power Law]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #1. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

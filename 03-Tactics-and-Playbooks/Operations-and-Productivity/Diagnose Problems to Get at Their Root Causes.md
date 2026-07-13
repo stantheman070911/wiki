@@ -1,5 +1,7 @@
 ---
 title: "Diagnose Problems to Get at Their Root Causes"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/root-cause, topic/management, topic/decision-making, topic/operations, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -41,11 +45,11 @@ Twelfth chapter of Work Principles, continuing the Client Service Department cas
 - **A "why?" chain about a programmer named Harry's bad code** is Dalio's worked example of drilling from a surface-level complaint ("the code was buggy") down to a root-cause trait (e.g., Harry works fast and instinctively deprioritizes edge-case testing under deadline pressure) that actually predicts and prevents the next incident, rather than just explaining the last one.
 - **"The Ray gap."** When Dalio stepped back as CEO in 2011 and his successors struggled, Bridgewater diagnosed the shortfall the same way it would diagnose any machine problem — cataloguing the specific attributes ("shaping" ability, in this case) that Dalio brought which his successors didn't, rather than settling for a vague sense that "something feels off." The lesson: when a team underperforms after a personnel change, map the gap in specific attributes, not general dissatisfaction.
 
-## Related entries
-- [[Perceive and Don't Tolerate Problems]]
-- [[Design Improvements to Your Machine to Get Around Your Problems]]
-- [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
-- [[Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
+## Relationships
+- **related:** [[Perceive and Don't Tolerate Problems]]
+- **related:** [[Design Improvements to Your Machine to Get Around Your Problems]]
+- **applies:** [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
+- **applies:** [[Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 12 ("Diagnose Problems to Get at Their Root Causes"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

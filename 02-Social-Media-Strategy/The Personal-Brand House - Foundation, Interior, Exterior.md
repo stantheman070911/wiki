@@ -1,5 +1,7 @@
 ---
 title: "The Personal-Brand House - Foundation, Interior, Exterior"
+type: "strategy"
+domain: "social-media-strategy"
 lang: "en"
 tags: [topic/personal-brand, topic/niche, topic/content-pillars, topic/brand, source/personal-brand-launch]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -48,12 +52,12 @@ Creators split into two kinds: those who build a *following* (fluctuating result
 - The fitness example: broad niche "fitness" → subniches lifting, cardio, protein, sleep, six-pack — each a topic bank.
 - Creator 1 (following) posts trends/aesthetic/B-roll+text and gets fluctuating views; Creator 2 (personal brand) posts the three pillars and gets consistent results.
 
-## Related entries
-- [[Creator Vision Framework - What x Who x Why]]
-- [[個人品牌與IP打造框架]]
-- [[Levels of a Personal Brand and the Five Archetypes]]
-- [[Instagram 0-to-100k - The Three-Level Follower Roadmap]]
-- [[The Seven Factors of a Short - Topic to Editing]]
+## Relationships
+- **related:** [[Creator Vision Framework - What x Who x Why]]
+- **related:** [[個人品牌與IP打造框架]]
+- **related:** [[Levels of a Personal Brand and the Five Archetypes]]
+- **related:** [[Instagram 0-to-100k - The Three-Level Follower Roadmap]]
+- **related:** [[The Seven Factors of a Short - Topic to Editing]]
 
 ## Source reference
 Ava (Personal Brand Launch), *How to Grow an Instagram Account in 2026*. Extraction notes in [[2026-07-08_Video_PersonalBrandLaunch_GrowInstagram2026]].

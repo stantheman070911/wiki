@@ -1,5 +1,7 @@
 ---
 title: "Add a Zero - Market Choice as a Force Multiplier"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/scaling, topic/pricing, topic/local-services, topic/positioning, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -52,12 +56,12 @@ AMA 3 provides the threshold case: a custom-apparel company could sell roughly t
 - Market-switching is cheapest early; for an established business the change cost may outweigh the arbitrage.
 - A stronger market often means colder, less-trusting traffic — expect to rebuild trust and the sales motion.
 
-## Related entries
-- [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- [[ICP Qualification Through Segmented Churn]]
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+## Relationships
+- **related:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
+- **related:** [[ICP Qualification Through Segmented Churn]]
+- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
+- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.

@@ -1,5 +1,7 @@
 ---
 title: "The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/consistency, topic/career, topic/skills, person/alex-hormozi, person/paul-graham, person/steve-jobs, source/paul-graham-essays]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-13"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -33,11 +37,17 @@ Hormozi addresses a young man who quit sales to "find his passion." Having gone 
 - **Use projects to discover fit before making identity claims.** Graham's career advice converges with the anti-passion argument: try real work, notice what sustains curiosity, and allow the answer to evolve rather than waiting for an inner revelation.
 
 ## Framework / model (if applicable)
-**"All failure besides death is psychological"** (Jocko Willink) — the goal lines and stakes are self-drawn; you decide where you "fell short." Paired with Phil Knight (*Shoe Dog*): you're not out of business when the bank account empties, only when padlocks are on the door and people physically stop you. Most quitting is perceived failure in the mind.
+### "All failure besides death is psychological"
 
-**Name the specific voice.** "What would other people think?" dissolves when you ask *whose* actual voice you're hearing — usually one to four people, often someone who won't be at your funeral. The only voice you're obliged to listen to for 80 years is your own.
+(Jocko Willink) — the goal lines and stakes are self-drawn; you decide where you "fell short." Paired with Phil Knight (*Shoe Dog*): you're not out of business when the bank account empties, only when padlocks are on the door and people physically stop you. Most quitting is perceived failure in the mind.
 
-**Nostalgia = memory minus pain.** Don't trust rose-tinted "I loved the struggle" recollections; at the time it was existential dread. This corrects the survivorship bias that makes "follow your passion" sound wise in hindsight.
+### Name the specific voice
+
+"What would other people think?" dissolves when you ask *whose* actual voice you're hearing — usually one to four people, often someone who won't be at your funeral. The only voice you're obliged to listen to for 80 years is your own.
+
+### Nostalgia = memory minus pain
+
+Don't trust rose-tinted "I loved the struggle" recollections; at the time it was existential dread. This corrects the survivorship bias that makes "follow your passion" sound wise in hindsight.
 
 ## Tactics / how to apply
 - When choosing a path, assume most of it will suck and last longer than expected; pick one you can commit to and commit.
@@ -54,12 +64,12 @@ Hormozi addresses a young man who quit sales to "find his passion." Having gone 
 - Hormozi's own arc: went all the way with fitness, and today makes money elsewhere while keeping fitness as a non-commercial love.
 - Being fired from Apple removed Steve Jobs's position but not his desire to build. Starting NeXT and Pixar returned him to beginner mode and distinguished love of the work from attachment to the company title.
 
-## Related entries
-- [[Hardship as Origin Story - Heroes Use Pain]]
-- [[Process as the Goal - The Zero-Follower Consistency Engine]]
-- [[Delayed Gratification - Patience and Inputs vs Outputs]]
-- [[Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]]
-- [[The Reference Group and Re-engineering Your Circle]]
+## Relationships
+- **related:** [[Hardship as Origin Story - Heroes Use Pain]]
+- **related:** [[Process as the Goal - The Zero-Follower Consistency Engine]]
+- **related:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
+- **related:** [[Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]]
+- **related:** [[The Reference Group and Re-engineering Your Circle]]
 
 ## Source reference
 Alex Hormozi, *If You're Ambitious but Inconsistent, Please Watch This* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].

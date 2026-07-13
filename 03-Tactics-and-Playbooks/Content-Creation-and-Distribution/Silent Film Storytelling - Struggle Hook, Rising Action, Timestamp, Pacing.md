@@ -1,5 +1,7 @@
 ---
 title: "Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/storytelling, topic/short-form-video, topic/content-strategy, topic/hooks, person/jun-yuh]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-10"
+updated: "2026-07-10"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -45,13 +49,13 @@ This is the "double-down" loop in practice: once a format like this wins, templa
 ## Notable examples
 - Jun Yuh's own "silent film storytelling" reels: the same struggle→transformation storyline reposted across Instagram and TikTok, each pulling millions of views, built on 8M+ followers grown with the format.
 
-## Related entries
-- [[Promise, Proof, Path - Engineering the Video Intro]]
-- [[Creator Vision Framework - What x Who x Why]]
-- [[Content Planner and the Analyze-Double-Down Loop]]
-- [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
-- [[Hacking Attention - Topic, Format, Hook and the Content Engine]]
-- [[The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop]]
+## Relationships
+- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
+- **applies:** [[Creator Vision Framework - What x Who x Why]]
+- **related:** [[Content Planner and the Analyze-Double-Down Loop]]
+- **related:** [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
+- **related:** [[Hacking Attention - Topic, Format, Hook and the Content Engine]]
+- **related:** [[The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop]]
 
 ## Source reference
 Jun Yuh, *4 Steps On How To Start Your Personal Brand From Scratch In 2026* (video). Raw transcript archived at [[2026-07-10_Video_JunYuh_HowToStartAPersonalBrandFromScratch2026]]; expanded across the long-form interview [[2026-07-10_Podcast_JunYuh_HowToBlowUpAnyPersonalBrand2026_The505Podcast]]. (The video's Creator Vision and content-planner material is captured in [[Creator Vision Framework - What x Who x Why]] and [[Content Planner and the Analyze-Double-Down Loop]].)

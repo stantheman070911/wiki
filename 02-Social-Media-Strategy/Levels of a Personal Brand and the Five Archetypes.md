@@ -1,5 +1,7 @@
 ---
 title: "Levels of a Personal Brand and the Five Archetypes"
+type: "strategy"
+domain: "social-media-strategy"
 lang: "en"
 tags: [topic/personal-brand, topic/positioning, topic/content-strategy, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -50,11 +54,11 @@ Promoting yourself is now permanent cultural infrastructure — in an era of AI 
 - Creative directors with ~70k followers who essentially just "carousel dump" cool work.
 - A cinematographer making good-looking car content builds a portfolio that proves craft without anyone questioning the passion.
 
-## Related entries
-- [[Creator Vision Framework - What x Who x Why]]
-- [[Personal-Brand Positioning and the No-Competition Model]]
-- [[品牌即媒體公司：注意力到信任框架]]
-- [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
+## Relationships
+- **related:** [[Creator Vision Framework - What x Who x Why]]
+- **related:** [[Personal-Brand Positioning and the No-Competition Model]]
+- **related:** [[品牌即媒體公司：注意力到信任框架]]
+- **related:** [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
 
 ## Source reference
 "The Art of the Personal Brand" (video). Extraction notes and raw transcript in [[2026-07-08_Video_ArtOfThePersonalBrand]].

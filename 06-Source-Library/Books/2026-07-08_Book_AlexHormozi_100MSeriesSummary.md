@@ -1,7 +1,11 @@
 ---
 title: "100 MSeries Summary"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "book"
+source_format: "source-note"
+processing_status: "processed"
 author: "Alex Hormozi"
 date_archived: "2026-07-08"
 status: "source"

@@ -1,5 +1,7 @@
 ---
 title: "Independent-Mindedness - Separate Truth from Identity and Conformism"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/decision-making, topic/identity, topic/courage, topic/research, topic/mental-models, person/paul-graham, source/paul-graham-essays]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2004-2022"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -41,10 +45,10 @@ For a charged belief, write four columns: **claim, evidence, identity/group payo
 ## Notable examples
 The disagreement hierarchy moves from name-calling and ad hominem attacks toward counterargument and direct refutation of the central point. Moving upward makes both truth-seeking and civil conversation more likely.
 
-## Related entries
-- [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
-- [[The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
-- [[Secrets - How to Find What Everyone Else Has Missed]]
+## Relationships
+- **related:** [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **related:** [[The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
+- **related:** [[Secrets - How to Find What Everyone Else Has Missed]]
 
 ## Source reference
 Paul Graham, “How to Think for Yourself,” “Keep Your Identity Small,” “The Four Quadrants of Conformism,” “What You Can't Say,” “Heresy,” and “How to Disagree,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

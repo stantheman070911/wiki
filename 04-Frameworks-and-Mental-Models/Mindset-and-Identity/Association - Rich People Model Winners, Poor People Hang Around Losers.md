@@ -1,5 +1,7 @@
 ---
 title: "Association - Rich People Model Winners, Poor People Hang Around Losers"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/identity, topic/focus, person/t-harv-eker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -32,10 +36,10 @@ Wealth File #7. Follows directly from admiring vs. resenting the rich (Wealth Fi
 - Identify one specific person or recurring situation that reliably drags your energy down, and reduce exposure to it — even if that means less time with family in that specific context.
 - Cut low-value negative inputs (trash TV, doom-scrolling bad news) that function as background "infection" even when no single instance seems significant.
 
-## Related entries
-- [[Admire vs. Resent the Rich - Bless That Which You Want]]
-- [[Willing to Self-Promote vs. Averse to Selling]]
-- [[Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE]]
+## Relationships
+- **related:** [[Admire vs. Resent the Rich - Bless That Which You Want]]
+- **related:** [[Willing to Self-Promote vs. Averse to Selling]]
+- **related:** [[Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #7. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

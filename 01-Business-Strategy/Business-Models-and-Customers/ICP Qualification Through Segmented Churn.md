@@ -1,5 +1,7 @@
 ---
 title: "ICP Qualification Through Segmented Churn"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/retention, topic/churn, topic/ltv, topic/messaging, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -53,12 +57,12 @@ A financial-advisor-focused lead-generation agency provided the three-bucket ava
 - Qualifiers should be observable and predictive of retention, not arbitrary gatekeeping.
 - Some churn is a delivery or activation problem, not a fit problem; segmentation tells you which.
 
-## Related entries
-- [[Activation Before Automation - Manual Onboarding to Fix Churn]]
-- [[The Five Advantages of a Perfect Business]]
-- [[Billing-Cycle vs Value-Cycle Alignment]]
-- [[The Virtuous Cycle of Service Businesses]]
-- [[Add a Zero - Market Choice as a Force Multiplier]]
+## Relationships
+- **related:** [[Activation Before Automation - Manual Onboarding to Fix Churn]]
+- **related:** [[The Five Advantages of a Perfect Business]]
+- **related:** [[Billing-Cycle vs Value-Cycle Alignment]]
+- **related:** [[The Virtuous Cycle of Service Businesses]]
+- **related:** [[Add a Zero - Market Choice as a Force Multiplier]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].

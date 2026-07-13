@@ -1,5 +1,7 @@
 ---
 title: "The Virtuous Cycle of Service Businesses"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/service-business, topic/pricing, topic/hiring, topic/reputation, topic/supply-constraint, topic/margins, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -53,12 +57,12 @@ A later Cash Cow business breakdown extended the reinvestment side of the cycle:
 - Raising the fee percentage is a weaker lever than raising client value; prefer bigger clients.
 - Efficiency and price rises must not erode the delivery elements that drive reputation and retention.
 
-## Related entries
-- [[ICP Qualification Through Segmented Churn]]
-- [[The Five Advantages of a Perfect Business]]
-- [[Compete on Efficiency When You Can't Control Price]]
-- [[Barbell Pricing and the Unscalable Premium Offer]]
-- [[Centers of Influence - Selling Through Trusted Referrers]]
+## Relationships
+- **related:** [[ICP Qualification Through Segmented Churn]]
+- **related:** [[The Five Advantages of a Perfect Business]]
+- **related:** [[Compete on Efficiency When You Can't Control Price]]
+- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
+- **related:** [[Centers of Influence - Selling Through Trusted Referrers]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].

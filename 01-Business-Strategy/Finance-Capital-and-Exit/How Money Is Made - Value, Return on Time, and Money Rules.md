@@ -1,5 +1,7 @@
 ---
 title: "How Money Is Made - Value, Return on Time, and Money Rules"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/money, topic/value-creation, topic/wealth, topic/partnerships, person/alex-hormozi, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -50,10 +54,10 @@ This consolidates Hormozi's "money rules" — the principles he says separate lo
 - Hormozi's nine simultaneous income streams (chiro agency, dental agency, gym turnarounds, six gyms) fed his ego, not his bank account — spreading seven ways, not multiplying. Cutting to one thing (Leila's prompt) was the turnaround.
 - Realizing a $500 sale took 30 minutes while a month of grocery/prep/cleaning cost $500 and far more time — the case for buying time back.
 
-## Related entries
-- [[Brand and Product Compounding - Too Good to Fail]]
-- [[Skill Stacking and the Education-ROI Playbook]]
-- [[The First 100k - Defense-Before-Offense Playbook]]
+## Relationships
+- **related:** [[Brand and Product Compounding - Too Good to Fail]]
+- **related:** [[Skill Stacking and the Education-ROI Playbook]]
+- **related:** [[The First 100k - Defense-Before-Offense Playbook]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].

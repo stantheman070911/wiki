@@ -1,5 +1,7 @@
 ---
 title: "Decommoditize Before You Discount - Make the Difference Obvious"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/positioning, topic/offers, topic/copywriting, topic/local-services, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -56,12 +60,12 @@ AMA 3 generalizes the offer design into three value vectors. A home-service comp
 - Being clear is not being simplistic internally. The operator may need technical depth; the buyer needs a clean reason to care.
 - If a competitor underprices because their model is broken, copying them can destroy profit without improving retention.
 
-## Related entries
-- [[Positioning - Own a Word in the Prospect's Mind]]
-- [[The Five Advantages of a Perfect Business]]
-- [[Barbell Pricing and the Unscalable Premium Offer]]
-- [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- [[Promise, Proof, Path - Engineering the Video Intro]]
+## Relationships
+- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
+- **related:** [[The Five Advantages of a Perfect Business]]
+- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
+- **related:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.

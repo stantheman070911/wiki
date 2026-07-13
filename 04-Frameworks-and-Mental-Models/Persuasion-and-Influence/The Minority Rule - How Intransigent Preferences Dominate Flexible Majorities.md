@@ -1,5 +1,7 @@
 ---
 title: "The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/influence, topic/decision-making, topic/systems, topic/distribution, topic/commitment, person/nassim-nicholas-taleb, source/skin-in-the-game]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2018"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -49,11 +53,11 @@ Test for a minority-rule cascade:
 ## Notable examples
 Kosher consumers will not accept non-kosher food, while most other consumers can accept kosher food, so suppliers often standardize on the compatible option. Similar dynamics appear in allergen-free menus, accessibility defaults, language choice in international meetings, and markets where a small urgent seller can move the price more than passive holders.
 
-## Related entries
-- [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
-- [[Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
-- [[Distribution Beats Product - The Best-Known Wins, Not the Best]]
-- [[The Power Law of Venture Capital and Careers]]
+## Relationships
+- **related:** [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
+- **related:** [[Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
+- **related:** [[Distribution Beats Product - The Best-Known Wins, Not the Best]]
+- **related:** [[The Power Law of Venture Capital and Careers]]
 
 ## Source reference
 Nassim Nicholas Taleb, *Skin in the Game: Hidden Asymmetries in Daily Life* (2018), [[2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript]].

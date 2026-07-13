@@ -1,5 +1,7 @@
 ---
 title: "Distribution Beats Product - The Best-Known Wins, Not the Best"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/distribution, topic/sales, topic/marketing, topic/moat, person/sabri-suby]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-12"
+updated: "2026-07-12"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -35,11 +39,11 @@ A hard pill for product-obsessed founders: the market rarely rewards the finest 
 ## Notable examples
 - Apple / Steve Jobs: arguably the best products in the world, driven by one of the greatest salespeople ever. Jobs framed the iPod as "a thousand songs in your pocket," reportedly spent ~80% of his time on recruiting, ~10–15% on sales and marketing, and only ~5% on actual product — the cash from selling let him hire Jony Ive to build the best products.
 
-## Related entries
-- [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
-- [[Brand and Product Compounding - Too Good to Fail]]
-- [[Positioning - Own a Word in the Prospect's Mind]]
-- [[The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
+## Relationships
+- **related:** [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
+- **related:** [[Brand and Product Compounding - Too Good to Fail]]
+- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
+- **related:** [[The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
 
 ## Source reference
 Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #4). Raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].

@@ -1,5 +1,7 @@
 ---
 title: "Personal-Brand Positioning and the No-Competition Model"
+type: "strategy"
+domain: "social-media-strategy"
 lang: "en"
 tags: [topic/personal-brand, topic/positioning, topic/differentiation, topic/niche, topic/content-strategy]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -41,11 +45,11 @@ Two questions decide whether a personal brand cuts through: *where do I aim* (co
 - The creator's own observation: marketing/branding has near-infinite demand on YouTube yet only a handful of creators above ~50k — proof the "no competition" model holds in practice.
 - Shelby Sap's women-focused sales-training angle as a clean "standout demographic" play.
 
-## Related entries
-- [[Levels of a Personal Brand and the Five Archetypes]]
-- [[受眾定位與先小後大法則]]
-- [[Creator Vision Framework - What x Who x Why]]
-- [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
+## Relationships
+- **related:** [[Levels of a Personal Brand and the Five Archetypes]]
+- **related:** [[受眾定位與先小後大法則]]
+- **related:** [[Creator Vision Framework - What x Who x Why]]
+- **related:** [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
 
 ## Source reference
 "The Art of the Personal Brand" (video). Extraction notes and raw transcript in [[2026-07-08_Video_ArtOfThePersonalBrand]].

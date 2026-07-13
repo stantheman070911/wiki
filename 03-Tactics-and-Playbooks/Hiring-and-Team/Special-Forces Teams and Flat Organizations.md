@@ -1,5 +1,7 @@
 ---
 title: "Special-Forces Teams and Flat Organizations"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/hiring, topic/org-design, topic/leadership, topic/culture, person/elon-musk]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2026"
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -45,12 +49,12 @@ Musk's team and org philosophy is a sharper cut of "hire A-players": keep the gr
 - SpaceX/Tesla's small elite engineering teams and direct cross-functional communication.
 - Musk's insistence on removing "chain of command" barriers to information flow.
 
-## Related entries
-- [[備忘錄文化與 A 級人才招募 playbook]]
-- [[招募、領導與地理紅利]]
-- [[POWERS 與 HEARTED 尊重框架]]
-- [[Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
-- [[The Algorithm - Musk's Five-Step Process Method]]
+## Relationships
+- **related:** [[備忘錄文化與 A 級人才招募 playbook]]
+- **applies:** [[招募、領導與地理紅利]]
+- **applies:** [[POWERS 與 HEARTED 尊重框架]]
+- **related:** [[Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
+- **related:** [[The Algorithm - Musk's Five-Step Process Method]]
 
 ## Source reference
 Eric Jorgenson, *The Book of Elon* (2026), "Building Exceptional Teams" and "Designing the Organization." Extraction notes in [[2026-07-08_Book_EricJorgenson_TheBookOfElon]]; PDF archived alongside.

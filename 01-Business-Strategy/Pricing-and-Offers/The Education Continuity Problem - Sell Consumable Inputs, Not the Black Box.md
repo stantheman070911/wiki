@@ -1,5 +1,7 @@
 ---
 title: "The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/education, topic/memberships, topic/continuity, topic/cash-flow, topic/offers, topic/moat, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -54,12 +58,12 @@ AMA 3 adds the strongest form of this model: hair-extension and permanent-makeup
 - Manufacturing fresh inputs is real operational work; without a niche it doesn't scale.
 - Consumable value must be genuinely fresh each cycle; recycled "new" content is quickly seen through.
 
-## Related entries
-- [[Billing-Cycle vs Value-Cycle Alignment]]
-- [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
-- [[The Creative Volume Engine - Ads Are an At-Bats Game]]
-- [[The Five Advantages of a Perfect Business]]
-- [[Performance-Based Pricing - When It Works and How Not to Get Cheated]]
+## Relationships
+- **related:** [[Billing-Cycle vs Value-Cycle Alignment]]
+- **related:** [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
+- **related:** [[The Creative Volume Engine - Ads Are an At-Bats Game]]
+- **related:** [[The Five Advantages of a Perfect Business]]
+- **related:** [[Performance-Based Pricing - When It Works and How Not to Get Cheated]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].

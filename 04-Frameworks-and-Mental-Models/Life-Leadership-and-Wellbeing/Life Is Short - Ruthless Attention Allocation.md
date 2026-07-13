@@ -1,5 +1,7 @@
 ---
 title: "Life Is Short - Ruthless Attention Allocation"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/focus, topic/happiness, topic/opportunity-cost, topic/decision-making, topic/mindset, person/paul-graham, person/daniel-priestley, person/steve-jobs, person/steven-bartlett, source/paul-graham-essays, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2005-2026"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -52,11 +56,11 @@ The number of weekends with one's young children is countable and falls quickly.
 
 Steve Jobs used a daily mortality question for decades. Its value was not predicting death but making fear of failure, pride, and external expectations temporarily irrelevant to major choices.
 
-## Related entries
-- [[Focus as Elimination - The Deep-Work Playbook]]
-- [[Happiness Is a Skill - Presence, Peace, and Self-Care]]
-- [[選擇、承諾與人生取捨]]
-- [[A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
+## Relationships
+- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
+- **related:** [[Happiness Is a Skill - Presence, Peace, and Self-Care]]
+- **related:** [[選擇、承諾與人生取捨]]
+- **related:** [[A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
 
 ## Source reference
 Paul Graham, “Life is Short,” “The Top Idea in Your Mind,” “Stuff,” “How to Lose Time and Money,” “Having Kids,” and “The Top of My Todo List,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

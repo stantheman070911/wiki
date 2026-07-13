@@ -1,5 +1,7 @@
 ---
 title: "The Passionate Visionary Scientist - A Three-Part Founder Mindset"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/identity, topic/startups, topic/execution, topic/decision-making, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,11 +52,11 @@ A venture is ready for stronger commitment only when the story creates energy, t
 ## Notable examples
 Priestley uses Batman as a deliberately simple narrative model: an origin in personal loss, a mission expressed through present action, and a vision of a safer Gotham. The coherence makes the character's willingness to struggle intelligible.
 
-## Related entries
-- [[Relentlessly Resourceful - The Founder Trait Stack]]
-- [[Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt]]
-- [[Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
-- [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+## Relationships
+- **related:** [[Relentlessly Resourceful - The Founder Trait Stack]]
+- **related:** [[Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt]]
+- **related:** [[Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
+- **related:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
 
 ## Source reference
 Daniel Priestley, *Passionate Visionary Scientist Mindset*. Raw transcript in [[2026-07-13_Video_DanielPriestley_PassionateVisionaryScientistMindset_RawTranscript]].

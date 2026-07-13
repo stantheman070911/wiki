@@ -1,5 +1,7 @@
 ---
 title: "Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/risk, topic/focus, person/t-harv-eker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -35,10 +39,10 @@ Wealth File #5. Eker distinguishes this from generic "positive thinking": it's a
 ## Notable examples
 - Eker researched a dessert café by eating the competition's product and gaining weight; switching to "enter the corridor" — taking a busboy job at a pie shop — led to real supplier contacts and, eventually, his first million (via exercise equipment, not pies).
 
-## Related entries
-- [[Bigger Than Your Problems vs. Smaller Than Your Problems]]
-- [[Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
-- [[Think Big vs. Think Small - The Law of Income]]
+## Relationships
+- **related:** [[Bigger Than Your Problems vs. Smaller Than Your Problems]]
+- **related:** [[Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
+- **related:** [[Think Big vs. Think Small - The Law of Income]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #5. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

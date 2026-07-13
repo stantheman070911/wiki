@@ -1,5 +1,7 @@
 ---
 title: "Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/culture, topic/feedback, topic/learning, topic/leadership, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -40,11 +44,11 @@ Third chapter of Work Principles, directly downstream of radical transparency: a
 - **The origin of the Issue Log.** A Bridgewater trader named Ross forgot to execute a client trade, costing real money. Dalio chose not to fire him — firing would have taught everyone else to hide mistakes rather than surface them. Instead he and Ross built the first version of what became the Issue Log: every bad outcome recorded, characterized by severity, and assigned an owner.
 - **Michael Jordan's ski instructor** reportedly said Jordan "reveled in his mistakes" on the slopes, treating each one as a puzzle to be solved rather than a source of shame — Dalio's illustration of "failing well" at the individual level.
 
-## Related entries
-- [[Trust in Radical Truth and Radical Transparency]]
-- [[Perceive and Don't Tolerate Problems]]
-- [[Diagnose Problems to Get at Their Root Causes]]
-- [[Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
+## Relationships
+- **related:** [[Trust in Radical Truth and Radical Transparency]]
+- **related:** [[Perceive and Don't Tolerate Problems]]
+- **related:** [[Diagnose Problems to Get at Their Root Causes]]
+- **related:** [[Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 3 ("Create a Culture in Which It Is Okay to Make Mistakes and Unacceptable Not to Learn from Them"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

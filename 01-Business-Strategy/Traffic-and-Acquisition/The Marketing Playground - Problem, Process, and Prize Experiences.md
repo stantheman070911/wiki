@@ -1,5 +1,7 @@
 ---
 title: "The Marketing Playground - Problem, Process, and Prize Experiences"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/marketing, topic/funnel, topic/content-strategy, topic/persuasion, topic/product, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -47,11 +51,11 @@ Every experience should be valuable on its own and offer a clear but optional ne
 ## Notable examples
 A lead-generation software company can use a course to explain why demand is failing, a blueprint to teach its methodology, and a free trial to let the buyer experience the solution. No single asset has to perform the entire sale.
 
-## Related entries
-- [[The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
-- [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- [[Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
-- [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
+## Relationships
+- **related:** [[The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
+- **related:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **related:** [[Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
+- **related:** [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
 
 ## Source reference
 Daniel Priestley, *Marketing Playground*. Raw transcript in [[2026-07-13_Video_DanielPriestley_MarketingPlayground_RawTranscript]].

@@ -1,5 +1,7 @@
 ---
 title: "Give Them What They Want to Get Them What They Need - The Defined-End Offer"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/offers, topic/front-end-offer, topic/continuity, topic/sales, topic/upsell, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -54,12 +58,12 @@ A cocktail-consulting business (Ben) had been trying to sell a single cold $30k 
 - The upsell must be earned inside the program through momentum, not forced at signup.
 - Guarantees must be honest and bounded to a realistic outcome.
 
-## Related entries
-- [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- [[The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
-- [[Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value]]
-- [[Barbell Pricing and the Unscalable Premium Offer]]
-- [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+## Relationships
+- **related:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **related:** [[The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
+- **related:** [[Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value]]
+- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
+- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].

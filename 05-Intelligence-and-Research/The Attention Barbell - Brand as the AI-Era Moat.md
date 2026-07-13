@@ -1,5 +1,7 @@
 ---
 title: "The Attention Barbell - Brand as the AI-Era Moat"
+type: "research"
+domain: "intelligence-and-research"
 lang: "en"
 tags: [topic/ai, topic/brand, topic/barbell-strategy, topic/content-strategy, topic/do-things-that-dont-scale, topic/email-marketing, person/gary-vaynerchuk, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -47,12 +51,12 @@ When every buyer asks an AI agent "who should I hire / go with?", discovery stop
 - GaryVee reframes his own commoditization as opportunity, spinning up new accounts and formats rather than defending old advantage.
 - The "chiropractor" scenario: when a prospect asks an AI "I need a chiropractor now, who should I go with?", only brand decides the answer.
 
-## Related entries
-- [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
-- [[Interest Media and the Zero-Follower Reach Model]]
-- [[品牌即媒體公司：注意力到信任框架]]
-- [[電子郵件名單：最被低估的自有高意圖資產]]
-- [[Build Evidence, Not Confidence]]
+## Relationships
+- **related:** [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
+- **example:** [[Interest Media and the Zero-Follower Reach Model]]
+- **example:** [[品牌即媒體公司：注意力到信任框架]]
+- **example:** [[電子郵件名單：最被低估的自有高意圖資產]]
+- **example:** [[Build Evidence, Not Confidence]]
 
 ## Source reference
 Gary Vaynerchuk, *The New Rules of Social Media (2026)*. Extraction notes in [[2026-07-08_Talk_GaryVaynerchuk_NewRulesOfSocialMedia2026]].

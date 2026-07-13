@@ -1,5 +1,7 @@
 ---
 title: "The Content Repository - Four Topic Buckets and Tweet-First Capture"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/content-strategy, topic/repurposing, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -47,12 +51,12 @@ Never run out of content by capturing ideas in real time into a single repositor
 - The pre-public "lessons and failures" email thread — the same repository idea before Twitter.
 - The "lessons to my younger self" videos drew the whole workshop room despite ~1/3 the views of his case studies — top-of-funnel that feeds the niche.
 
-## Related entries
-- [[Content Planner and the Analyze-Double-Down Loop]]
-- [[Capture Dont Create - Engineering Proof at Scale]]
-- [[Promise, Proof, Path - Engineering the Video Intro]]
-- [[Creator Vision Framework - What x Who x Why]]
-- [[對標方法論與靈感池系統]]
+## Relationships
+- **related:** [[Content Planner and the Analyze-Double-Down Loop]]
+- **related:** [[Capture Dont Create - Engineering Proof at Scale]]
+- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
+- **applies:** [[Creator Vision Framework - What x Who x Why]]
+- **applies:** [[對標方法論與靈感池系統]]
 
 ## Source reference
 Alex Hormozi, *Building a brand, but it's on easy mode instead*. Extraction notes in [[2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode]].

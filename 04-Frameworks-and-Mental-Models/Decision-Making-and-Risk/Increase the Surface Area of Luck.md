@@ -1,5 +1,7 @@
 ---
 title: "Increase the Surface Area of Luck"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/risk, topic/optionality, topic/decision-making, topic/volume, topic/reps, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -46,11 +50,11 @@ If any factor approaches zero, opportunity has fewer ways to find you. Improving
 ## Notable examples
 Priestley cites Richard Branson's repeated emphasis on luck while noting the large number of companies and artists behind the famous successes. The lucky outcomes were real, but so was the deliberate expansion of attempts.
 
-## Related entries
-- [[Fear, Regret, and Asymmetric Bets]]
-- [[The Creative Volume Engine - Ads Are an At-Bats Game]]
-- [[The Power Law of Venture Capital and Careers]]
-- [[The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
+## Relationships
+- **related:** [[Fear, Regret, and Asymmetric Bets]]
+- **related:** [[The Creative Volume Engine - Ads Are an At-Bats Game]]
+- **related:** [[The Power Law of Venture Capital and Careers]]
+- **related:** [[The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
 
 ## Source reference
 Daniel Priestley, *What Billionaires Do Differently*. Raw transcript in [[2026-07-13_Video_DanielPriestley_WhatBillionairesDoDifferently_RawTranscript]].

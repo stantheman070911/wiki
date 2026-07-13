@@ -1,5 +1,7 @@
 ---
 title: "The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/startups, topic/product, topic/feedback, topic/retention, person/paul-graham, person/daniel-priestley, source/paul-graham-essays, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2001-2026"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -28,6 +32,11 @@ An initial idea is a hypothesis, not a specification. The purpose of an early pr
 - **Understanding users is the central variable.** User count and improvement per user form the two dimensions of value; founders control the second more directly, and it drives the first.
 
 ## Framework / model (if applicable)
+```mermaid
+flowchart LR
+    A["Launch"] --> B["Observe behavior"] --> C["Talk with engaged users"] --> D["Find the strongest unmet need"] --> E["Revise and relaunch"] --> A
+```
+
 Use a five-step loop: **launch a quantum of utility → observe behavior → speak directly with the most engaged users → identify the strongest unmet need → revise and relaunch**. Repeat until users would be genuinely upset if the product disappeared. Measure behavior and retention, not compliments.
 
 ## Tactics / how to apply
@@ -44,10 +53,10 @@ Use a five-step loop: **launch a quantum of utility → observe behavior → spe
 ## Notable examples
 Airbnb's founders improved listings in person and learned the marketplace by working beside hosts. Wufoo sent handwritten notes. These actions looked inefficient but turned user contact into product intelligence and a culture of care.
 
-## Related entries
-- [[Do Things That Don't Scale - Recruit, Delight, and Learn by Hand]]
-- [[Organic Startup Ideas - Live in the Future and Notice What Is Missing]]
-- [[Activation Before Automation - Manual Onboarding to Fix Churn]]
+## Relationships
+- **related:** [[Do Things That Don't Scale - Recruit, Delight, and Learn by Hand]]
+- **related:** [[Organic Startup Ideas - Live in the Future and Notice What Is Missing]]
+- **related:** [[Activation Before Automation - Manual Onboarding to Fix Churn]]
 
 ## Source reference
 Paul Graham, “Startups in 13 Sentences,” “What I've Learned from Users,” “Be Good,” and “Do Things that Don't Scale,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

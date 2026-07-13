@@ -1,5 +1,7 @@
 ---
 title: "Skill Stacking and the Education-ROI Playbook"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/skills, topic/education, topic/learning, person/alex-hormozi, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -49,11 +53,11 @@ Hormozi's core allocation rule for the early years: put savings into yourself, n
 - Hormozi wrote a $350,000 check for a single dinner with a person worth $7B and "got exactly what I wanted."
 - He learned Facebook ads existed (declarative) in 2013 and how to run them (procedural) in one weekend, riding that skill for years.
 
-## Related entries
-- [[The First 100k - Defense-Before-Offense Playbook]]
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- [[Volume and Feedback - Sales as the Training Ground]]
-- [[Teach to Learn - Public Obligation and the Feynman Loop]]
+## Relationships
+- **related:** [[The First 100k - Defense-Before-Offense Playbook]]
+- **applies:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
+- **related:** [[Volume and Feedback - Sales as the Training Ground]]
+- **related:** [[Teach to Learn - Public Obligation and the Feynman Loop]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].

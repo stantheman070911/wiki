@@ -1,5 +1,7 @@
 ---
 title: "No One's Opinion Pays Your Bills - Immunity to Critics"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/reputation, person/sabri-suby]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-12"
+updated: "2026-07-12"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -37,11 +41,11 @@ As a business grows it draws attention, and attention brings detractors, one-sta
 - Suby's exercise with founders: ask their favorite restaurant, then show them a one-star Google review of it — they instantly agree "you can't please everybody," which reframes their own critics.
 - His office kept as a "shrine" of client results and testimonials, used as the deliberate counterweight to negativity.
 
-## Related entries
-- [[The Reference Group and Re-engineering Your Circle]]
-- [[Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]]
-- [[Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]]
-- [[Capture Dont Create - Engineering Proof at Scale]]
+## Relationships
+- **related:** [[The Reference Group and Re-engineering Your Circle]]
+- **related:** [[Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]]
+- **related:** [[Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]]
+- **related:** [[Capture Dont Create - Engineering Proof at Scale]]
 
 ## Source reference
 Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #10). Raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].

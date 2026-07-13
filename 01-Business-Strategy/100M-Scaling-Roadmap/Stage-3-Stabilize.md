@@ -1,5 +1,10 @@
 ---
 title: "$100M 擴張路線圖 · Stage 3：Stabilize 穩定"
+aliases:
+  - "$100M 擴張路線圖 · Stage 3：Stabilize 穩定"
+type: "series-entry"
+domain: "business-strategy"
+series: "$100M Scaling Roadmap"
 lang: "zh"
 tags: [topic/scaling, source/acquisition-100m-roadmap, topic/delegation, topic/hiring, topic/operations, person/alex-hormozi]
 source:
@@ -9,14 +14,27 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
 # $100M 擴張路線圖 · Stage 3：Stabilize 穩定
 
-> 系列導覽：[[README|總覽與方法論]]　｜　上一關：[[Stage-2-Advertise|Stage 2：Advertise 廣告]]　｜　下一關：[[Stage-4-Prioritize|Stage 4：Prioritize 取捨]]
+> 系列導覽：[[$100M Scaling Roadmap Overview|總覽與方法論]]　｜　上一關：[[Stage-2-Advertise|Stage 2：Advertise 廣告]]　｜　下一關：[[Stage-4-Prioritize|Stage 4：Prioritize 取捨]]
 
-## 關卡速覽
+## 一句話總結
+
+從「什麼都自己做」走向「有一個小團隊能幫你運營」——角色從執行者變成訓練者，靠一次修一個最大的問題把混亂穩定下來。
+
+## 背景
+
+你有了第一批 1–4 名正職員工。你的角色從「執行者」變成「訓練者」——現在你的工作是教會別人怎麼幫你運營。這一關之所以叫「穩定」，是因為一切都有點混亂，你要把它變穩。
+
+## 核心內容
+
+### 關卡速覽
+
 | 項目 | 內容 |
 |---|---|
 | 你的角色 | Trainer 訓練者（從「執行者」轉為「教別人做」） |
@@ -25,41 +43,43 @@ status: "reviewed"
 | 畢業標準 | 找到並教會一個小團隊分擔運營 |
 | 達標普及度 | 約 24%（約 700 萬家）；也有約 24% 卡在這裡 |
 
-## 一句話總結
-從「什麼都自己做」走向「有一個小團隊能幫你運營」——角色從執行者變成訓練者，靠一次修一個最大的問題把混亂穩定下來。
+### 核心約束：一個人做不完
 
-## 這一關的處境
-你有了第一批 1–4 名正職員工。你的角色從「執行者」變成「訓練者」——現在你的工作是教會別人怎麼幫你運營。這一關之所以叫「穩定」，是因為一切都有點混亂，你要把它變穩。
-
-## 核心約束：一個人做不完
 最大的問題很簡單——工作量遠超一個人能負荷。解這關的心法是**一次只修一個最大的問題**：別想同時修好所有事，找出客戶抱怨最多的那「一件」，把它徹底修好，再處理下一個。
 
-## 各功能面的挑戰與解法
+### 各功能面的挑戰與解法
+
 - **產品與客戶（Products & Customers）：** 你無法修好客戶抱怨的每一件事——挑出最困擾客戶的「那一個」先修。潛在客戶因為還不夠認識你而成交較慢——開始寄 email、產出內容，隨時間累積信任。
 - **銷售與服務（Sales & Service）：** 你在不認真的潛在客戶身上浪費太多時間——列出「什麼樣才算好的潛在客戶」的判準（合格名單標準）。新客戶剛上手時常一頭霧水——建立一套正式的迎新與引導流程（onboarding）。
 - **技術與工具（Tech & Tools）：** 你大概買了太多以為會用的軟體——盤點真正需要的，其餘退訂；對留下的工具爭取延長試用或折扣；建立一套基本的銷售管線（pipeline）追蹤系統。
 - **人與人資（People & HR）：** 找到好人才很難——學會寫好職缺描述、正確篩履歷；你大概沒把員工稅務處理對——導入薪資服務（payroll service）來正確處理稅與費用。
 - **金錢（Money Matters）：** 目前可能還在「非正式發薪」（不好）——建立正式薪資處理；導入基本記帳，追蹤進出的每一筆；妥善管理發票與收付款。
 
-## 成功長什麼樣（四件事）
+### 成功長什麼樣（四件事）
+
 1. **先修最大的問題** — 別一次全修，找出第一名客訴、修好，再往下一個。
 2. **把錢理順** — 正式薪資、基本會計軟體、進出全追蹤、帳單與收款有系統。
 3. **讓團隊能幫你** — 把重要任務的做法寫下來（SOP）、好好訓練、給對工具、檢查成果是否做對。
 4. **讓客戶滿意** — 正式迎新流程、確保他們會用、幫他們快速拿到成果、定期保持聯繫。
 
-## 畢業標準
+### 畢業標準
+
 從「一個人的秀」變成「有真正員工的真正事業」：小團隊到位、被好好訓練、重要流程有 SOP、金錢與人事系統上軌道、客戶能穩定拿到好結果。核心心法：**從混亂到穩定，一次修一個最大的問題。**
 
 ## 應用
+
 - 把「客訴清單」排序，只鎖定第一名去修，其餘暫時擱著——同時修全部，是這一關最常見的失敗。
 - 開始把你腦中的關鍵流程寫成文字版 SOP，這既是訓練新人的教材，日後也是自動化與 AI 的輸入（見 [[AI、資料與內容的賭注理論]]）。
 - 設一份「合格潛在客戶」判準，停止把時間花在不會買的人身上。
 
-## 相關條目
-- [[README|總覽與方法論]]
-- [[Stage-2-Advertise|Stage 2：Advertise 廣告]]　｜　[[Stage-4-Prioritize|Stage 4：Prioritize 取捨]]
-- [[全代操短影音代理商商業模式]]（用鉅細靡遺的 SOP＋分層管理者達成規模化品質）
-- [[招募、領導與地理紅利]]（招募判準與領導轉換）
+## 關係
+
+- **related:** [[$100M Scaling Roadmap Overview|總覽與方法論]]
+- **prerequisite:** [[Stage-2-Advertise|Stage 2：Advertise 廣告]]
+- **related:** [[Stage-4-Prioritize|Stage 4：Prioritize 取捨]]
+- **related:** [[全代操短影音代理商商業模式]]（用鉅細靡遺的 SOP＋分層管理者達成規模化品質）
+- **applies:** [[招募、領導與地理紅利]]（招募判準與領導轉換）
 
 ## 來源
+
 $100M Scaling Roadmap（Personalized Guide），Stage 3，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。

@@ -1,7 +1,11 @@
 ---
 title: "Principles"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "book"
+source_format: "source-note"
+processing_status: "processed"
 author: "Ray Dalio"
 date_archived: "2026-07-13"
 status: "source"
@@ -89,3 +93,8 @@ Three-part book: Part I is Dalio's autobiographical memoir (founding and running
 - **The 301% finding**: when Bridgewater asked employees to estimate their percentage contribution to team outcomes, the self-reported total came to 301% — cited as proof everyone overestimates their own contribution.
 - **Governance gap**: Dalio didn't build formal board governance until after the painful 2016 co-CEO reshuffle (Greg Jensen overloaded as co-CEO/co-CIO), on advice from Jim Collins — Bridgewater's post-2016 structure uses 1–3 chairmen + 7–15 board members overseeing 1–3 co-CEOs.
 - **Tool glossary**: Coach, Dot Collector, Baseball Cards, People Profile, Combinator, Issue Log, Pain Button, Dispute Resolver, Daily Update Tool, Contract Tool, Process Flow Diagram.
+
+
+## Archived attachment
+
+- [2026-07-13_Book_RayDalio_Principles.txt](<2026-07-13_Book_RayDalio_Principles.txt>)

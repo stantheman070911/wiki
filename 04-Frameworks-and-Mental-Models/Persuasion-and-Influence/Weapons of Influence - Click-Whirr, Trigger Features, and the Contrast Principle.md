@@ -1,5 +1,7 @@
 ---
 title: "Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/persuasion, topic/influence, person/robert-cialdini, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -54,13 +58,13 @@ Chapter 1's foundation for the whole of *Influence*. Because we're overloaded wi
 - The jewelry that sold out only after its price was accidentally *doubled* — "expensive = good" click-whirr in tourists unsure of gem value.
 - Langer's copier line: "because I have to make copies."
 
-## Related entries
-- [[Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
-- [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
-- [[Barbell Pricing and the Unscalable Premium Offer]]
-- [[短影音文案全公式：標題、開頭、結尾與腳本結構]]
-- [[行為主義、風險定價與環境設計]]
-- [[Goldilocks Pricing - Anchors, Decoys, and the Middle Option]]
+## Relationships
+- **related:** [[Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
+- **related:** [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
+- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
+- **related:** [[短影音文案全公式：標題、開頭、結尾與腳本結構]]
+- **related:** [[行為主義、風險定價與環境設計]]
+- **related:** [[Goldilocks Pricing - Anchors, Decoys, and the Middle Option]]
 
 ## Source reference
 Robert B. Cialdini, *Influence: The Psychology of Persuasion*, ch. 1. Extraction notes in [[2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion]]; PDF archived alongside.

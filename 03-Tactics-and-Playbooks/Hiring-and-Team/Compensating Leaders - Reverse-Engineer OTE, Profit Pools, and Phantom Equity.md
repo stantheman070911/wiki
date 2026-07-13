@@ -1,5 +1,7 @@
 ---
 title: "Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/compensation, topic/incentives, topic/equity, topic/leadership, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -51,12 +55,12 @@ An auto-hail-repair owner asked how to design leadership comp without eroding co
 - Growth-only comp demotivates in geo-constrained businesses where growth is genuinely hard; use profit-share there.
 - Profit pools require clean, separated P&Ls per unit to calculate fairly.
 
-## Related entries
-- [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
-- [[選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
-- [[Special-Forces Teams and Flat Organizations]]
-- [[The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
+## Relationships
+- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **applies:** [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
+- **applies:** [[選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
+- **related:** [[Special-Forces Teams and Flat Organizations]]
+- **applies:** [[The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.

@@ -1,5 +1,9 @@
 ---
 title: "Capture, Don't Create: Engineering Proof at Scale"
+aliases:
+  - "Capture, Don't Create: Engineering Proof at Scale"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/content-strategy, topic/proof, topic/personal-brand, topic/ai, person/alex-hormozi]
 source:
@@ -9,6 +13,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-02"
+updated: "2026-07-13"
+reviewed_on: "2026-07-13"
 status: "reviewed"
 ---
 
@@ -17,6 +23,11 @@ status: "reviewed"
 ## One-line summary
 Bake proof-generation into how you already run your business and document what's already happening, rather than manufacturing content from scratch.
 
+
+
+## Context
+
+This page organizes **Capture, Don't Create: Engineering Proof at Scale** as a reusable playbook; the sections below preserve its original framework, steps, and examples.
 ## Tactics you can apply today
 
 **a) Mine your real meetings for real stories.**
@@ -51,10 +62,10 @@ AI disrupts creators from lowest risk to highest, in that order. To protect your
 - Replace at least one item on your content calendar with "capture" instead of "create" this week — document something you were already going to do anyway.
 - Ask of every claim: “What could I show so I no longer need to say this?” Then build that evidence into delivery and capture it by default.
 
-## Related entries
-- [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
-- [[內容產製系統與募資紀律]]
-- [[可信度行銷與公開建構]]
+## Relationships
+- **related:** [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
+- **applies:** [[內容產製系統與募資紀律]]
+- **applies:** [[可信度行銷與公開建構]]
 
 ## Source reference
 Alex Hormozi, "Building a Personal Brand in 2026" (podcast transcript). Full notes archived at [[2026-07-02_Podcast_AlexHormozi_PersonalBrandVsAI]].

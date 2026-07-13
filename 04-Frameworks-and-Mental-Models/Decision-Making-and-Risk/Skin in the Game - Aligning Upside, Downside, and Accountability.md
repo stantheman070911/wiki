@@ -1,5 +1,7 @@
 ---
 title: "Skin in the Game - Aligning Upside, Downside, and Accountability"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/incentives, topic/risk, topic/decision-making, topic/trust, topic/feedback, topic/leadership, person/nassim-nicholas-taleb, source/skin-in-the-game]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2018"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -51,11 +55,11 @@ Misalignment is greatest when control and reward sit together while delayed down
 ## Notable examples
 Taleb contrasts hedge-fund owner-operators, who often invest substantial personal wealth alongside clients, with executives who keep years of compensation before a taxpayer-funded failure. Hammurabi's builder rule is an extreme historical attempt to prevent an expert from hiding structural risk that only appears after delivery.
 
-## Related entries
-- [[Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
-- [[Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]]
-- [[Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets]]
-- [[Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
+## Relationships
+- **related:** [[Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
+- **related:** [[Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]]
+- **related:** [[Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets]]
+- **related:** [[Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
 
 ## Source reference
 Nassim Nicholas Taleb, *Skin in the Game: Hidden Asymmetries in Daily Life* (2018), [[2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript]].

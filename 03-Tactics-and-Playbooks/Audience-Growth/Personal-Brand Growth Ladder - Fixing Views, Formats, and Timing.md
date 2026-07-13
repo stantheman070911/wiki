@@ -1,5 +1,7 @@
 ---
 title: "Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/personal-brand, topic/content-formats, topic/short-form-video, topic/consistency, topic/reps]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -48,11 +52,11 @@ A practical operating manual for the middle of the personal-brand journey: what 
 - Maintain ~4 pillars in rotation; cap any signature series at ~3×/month; remix every winner into at least one other format.
 - Set expectations against the timing ladder — commit to the 30- and 100-day marks first, and don't judge the venture on money before ~year one.
 
-## Related entries
-- [[Personal-Brand Positioning and the No-Competition Model]]
-- [[Content Planner and the Analyze-Double-Down Loop]]
-- [[短影音研究引擎、鉤子與格式]]
-- [[Delayed Gratification - Patience and Inputs vs Outputs]]
+## Relationships
+- **applies:** [[Personal-Brand Positioning and the No-Competition Model]]
+- **related:** [[Content Planner and the Analyze-Double-Down Loop]]
+- **applies:** [[短影音研究引擎、鉤子與格式]]
+- **applies:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
 
 ## Source reference
 "The Art of the Personal Brand" (video). Extraction notes and raw transcript in [[2026-07-08_Video_ArtOfThePersonalBrand]].

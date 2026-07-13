@@ -1,5 +1,7 @@
 ---
 title: "Manage as Someone Operating a Machine to Achieve a Goal"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/management, topic/leadership, topic/systems, topic/org-design, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -35,7 +39,9 @@ Tenth chapter of Work Principles and the hinge into the rest of the book's opera
 - **Communicate the plan clearly, with tracking metrics attached**, and treat escalating when you can't handle something as a *responsibility*, not a failure — the real failure is not escalating.
 
 ## Framework / model (if applicable)
-**The organization as a machine with two parts: culture and people.** A manager's job is diagnosing whether a given shortfall traces to the machine's design or to the specific people running it, then fixing whichever one is actually broken rather than defaulting to blaming effort or motivation.
+### The organization as a machine with two parts: culture and people
+
+A manager's job is diagnosing whether a given shortfall traces to the machine's design or to the specific people running it, then fixing whichever one is actually broken rather than defaulting to blaming effort or motivation.
 
 ## Tactics / how to apply
 - When building a metric or dashboard, write down the specific question you need answered first — if you can't state the question, don't build the metric yet.
@@ -49,12 +55,12 @@ Tenth chapter of Work Principles and the hinge into the rest of the book's opera
 - **The "Systemizing Good Management" memo (2012).** Dalio realized Bridgewater's investment decisions were reliably excellent because they were embedded in systemized decision rules that people merely executed and refined — insulating results from any one person's off day — while management decisions were not systemized and were therefore only as good as whoever happened to be in the room. This directly motivated building the Dot Collector and Baseball Cards as "management algorithms," applying the same rigor to people-decisions as to market-decisions.
 - **The Client Service Department quality breakdown (~2011–12)**, where sloppy client memos slipped through after Dalio stepped back from direct oversight, is the running case study across this and the next three chapters (diagnosis, design, execution) — its fix included David McCormick's departmental reforms and biannual "Quality Day" peer-review meetings.
 
-## Related entries
-- [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
-- [[Perceive and Don't Tolerate Problems]]
-- [[Diagnose Problems to Get at Their Root Causes]]
-- [[Get and Stay in Sync]]
-- [[Special-Forces Teams and Flat Organizations]]
+## Relationships
+- **applies:** [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
+- **related:** [[Perceive and Don't Tolerate Problems]]
+- **related:** [[Diagnose Problems to Get at Their Root Causes]]
+- **applies:** [[Get and Stay in Sync]]
+- **related:** [[Special-Forces Teams and Flat Organizations]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 10 ("Manage as Someone Operating a Machine to Achieve a Goal"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

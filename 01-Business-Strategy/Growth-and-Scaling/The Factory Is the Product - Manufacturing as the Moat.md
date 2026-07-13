@@ -1,5 +1,7 @@
 ---
 title: "The Factory Is the Product - Manufacturing as the Moat"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/operations, topic/moat, topic/theory-of-constraints, topic/scaling, person/elon-musk]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2026"
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -43,12 +47,12 @@ Musk's "biggest epiphany" building Tesla was that competitive advantage lives in
 - Tesla reorienting engineering toward "the machine that builds the machines."
 - Living on the battery-pack line to break the production constraint (see also [[The Algorithm - Musk's Five-Step Process Method]], where deleting a part removed a $2M robotic bottleneck).
 
-## Related entries
-- [[The Algorithm - Musk's Five-Step Process Method]]
-- [[The Five Advantages of a Perfect Business]]
-- [[$100M 擴張路線圖 · 總覽與方法論|$100M 擴張路線圖（十階段系列）]]
-- [[供應鏈風險與關鍵人風險分散]]
-- [[零售策略與通路飛輪]]
+## Relationships
+- **related:** [[The Algorithm - Musk's Five-Step Process Method]]
+- **related:** [[The Five Advantages of a Perfect Business]]
+- **related:** [[$100M 擴張路線圖 · 總覽與方法論|$100M 擴張路線圖（十階段系列）]]
+- **related:** [[供應鏈風險與關鍵人風險分散]]
+- **related:** [[零售策略與通路飛輪]]
 
 ## Source reference
 Eric Jorgenson, *The Book of Elon* (2026), "We Must Make Stuff." Extraction notes in [[2026-07-08_Book_EricJorgenson_TheBookOfElon]]; PDF archived alongside.

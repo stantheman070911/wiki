@@ -1,5 +1,7 @@
 ---
 title: "Absurdity as a Brand Signal"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/brand, topic/differentiation, topic/storytelling, topic/reach, topic/positioning, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2023"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -47,11 +51,11 @@ Evaluate a proposed **brand signal** with four questions:
 ## Notable examples
 Bartlett’s early agency installed an oversized blue slide in an office with few employees. It was rarely used for transport, but it became the image journalists repeatedly used to convey youth, disruption, and playfulness. Tesla’s unconventional mode names and hidden playful features similarly generated conversation that conventional specifications did not.
 
-## Related entries
-- [[The Seven Principles of Building an Iconic Brand]]
-- [[Values Before Features - Sell the Identity Behind the Product]]
-- [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
+## Relationships
+- **related:** [[The Seven Principles of Building an Iconic Brand]]
+- **related:** [[Values Before Features - Sell the Identity Behind the Product]]
+- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
+- **related:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
 
 ## Source reference
 Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Laws 10 and 12. Raw transcript archived in [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].

@@ -1,5 +1,7 @@
 ---
 title: "Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/marketing, topic/qualification, topic/funnel, topic/cta, topic/automation, topic/sales, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -46,11 +50,11 @@ Build four layers:
 ## Notable examples
 Priestley's model uses a sleep assessment to show the structure: test the environment, routine, and related best practices, then route someone seeking education differently from someone seeking fully managed help.
 
-## Related entries
-- [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
-- [[The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
-- [[ICP Qualification Through Segmented Churn]]
-- [[The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
+## Relationships
+- **related:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
+- **related:** [[The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
+- **applies:** [[ICP Qualification Through Segmented Churn]]
+- **related:** [[The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
 
 ## Source reference
 Daniel Priestley, *Online-Assessment Lead-Generation System*. Raw transcript in [[2026-07-13_Video_DanielPriestley_OnlineAssessmentLeadGenerationSystem_RawTranscript]].

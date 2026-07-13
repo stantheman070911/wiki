@@ -1,5 +1,7 @@
 ---
 title: "The Effective Executive - Five Learnable Practices"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/management, topic/leadership, topic/productivity, topic/decision-making, topic/focus, person/peter-drucker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1967"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -50,12 +54,12 @@ The sequence progresses from mechanics to responsibility: time produces capacity
 - Jack Welch repeatedly reset GE’s priority by asking what needed to be done *now*, rather than automatically taking the next item from an old list.
 - Drucker contrasts countable internal data with early qualitative signals: the Edsel’s research missed a shift from income-based to taste-based car buying because the old categories still produced reassuring numbers.
 
-## Related entries
-- [[Know Thy Time - Record, Eliminate, and Consolidate]]
-- [[Contribution Before Activity - Define Results and Make Knowledge Usable]]
-- [[Staff for Strength - Design Jobs Around Exceptional Contribution]]
-- [[The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
-- [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
+## Relationships
+- **related:** [[Know Thy Time - Record, Eliminate, and Consolidate]]
+- **related:** [[Contribution Before Activity - Define Results and Make Knowledge Usable]]
+- **related:** [[Staff for Strength - Design Jobs Around Exceptional Contribution]]
+- **related:** [[The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
+- **related:** [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
 
 ## Source reference
 Peter F. Drucker, *The Effective Executive* (1967; 2006 edition). Raw archived text in [[2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript]].

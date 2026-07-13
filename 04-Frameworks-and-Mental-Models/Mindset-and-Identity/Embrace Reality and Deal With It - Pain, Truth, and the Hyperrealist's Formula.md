@@ -1,5 +1,7 @@
 ---
 title: "Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/decision-making, topic/identity, topic/learning, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -41,11 +45,11 @@ This is the opening chapter of Dalio's "Life Principles" and the philosophical f
 - Dalio recounts watching hyenas kill a wildebeest in Africa and noticing his own visceral horror was a human bias, not a truth about nature — nature optimizes for the health of the whole ecosystem, not the individual, and "good" in that light means operating consistently with reality's laws rather than with personal sentiment.
 - A friend who became quadriplegic still found happiness by taking responsibility for how he responded to his circumstances — Dalio's illustration of internal locus of control under the worst-case pressure test.
 
-## Related entries
-- [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
-- [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
-- [[Trust in Radical Truth and Radical Transparency]]
-- [[Build Evidence, Not Confidence]]
+## Relationships
+- **related:** [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
+- **related:** [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **related:** [[Trust in Radical Truth and Radical Transparency]]
+- **related:** [[Build Evidence, Not Confidence]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part II, Ch. 1 ("Embrace Reality and Deal with It"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

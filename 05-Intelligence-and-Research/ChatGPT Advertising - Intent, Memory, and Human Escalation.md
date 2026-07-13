@@ -1,5 +1,7 @@
 ---
 title: "ChatGPT Advertising - Intent, Memory, and Human Escalation"
+type: "research"
+domain: "intelligence-and-research"
 lang: "en"
 tags: [topic/ai, topic/advertising, topic/paid-ads, topic/personal-brand, topic/cta, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,11 +52,11 @@ Prepare a channel-agnostic conversational-ad test:
 ## Notable examples
 Priestley compares the possible opening with early search and social advertising, when large attention pools initially had limited advertiser competition. The analogy suggests a testable opportunity, not guaranteed channel economics.
 
-## Related entries
-- [[The Attention Barbell - Brand as the AI-Era Moat]]
-- [[Maximize Net Cash, Not ROAS - The Percentage Lies]]
-- [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
+## Relationships
+- **related:** [[The Attention Barbell - Brand as the AI-Era Moat]]
+- **example:** [[Maximize Net Cash, Not ROAS - The Percentage Lies]]
+- **example:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **related:** [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
 
 ## Source reference
 Daniel Priestley, *ChatGPT Ads Opportunity*. Raw transcript in [[2026-07-13_Video_DanielPriestley_ChatGPTAdsOpportunity_RawTranscript]].

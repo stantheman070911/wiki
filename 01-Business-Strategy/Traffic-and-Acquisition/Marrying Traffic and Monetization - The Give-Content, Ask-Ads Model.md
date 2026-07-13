@@ -1,5 +1,7 @@
 ---
 title: "Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/marketing, topic/monetization, topic/growth, topic/paid-ads, topic/offers, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-13"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -27,9 +31,13 @@ Most operators sit in one of two worlds: they have a business that makes money b
 - **CTAs in content kill reach.** Asking inside the content feels weird, no one likes it, and it suppresses distribution. People take the next step naturally if you simply state what you do and keep the ask in the description and link-in-bio.
 
 ## Framework / model (if applicable)
-**Give-only content, ask-only ads.** The standard advice is a 3:1 give-to-ask ratio *inside* content. The advanced move dissolves that balance: make **content 100% give** and put **100% of CTAs in ads**. The 3:1 ratio still holds, but *across the feed* — three organic value pieces plus one ad — where the ad is "the money one" and everything else is free. Because value and ask exist in completely separate units, the brand is protected: constant right-hooking ("go here, go here") trains the audience to leave, while constant giving deposits goodwill that an ad can later convert.
+### Give-only content, ask-only ads
 
-**Operating the traffic machine (agency-first, then in-house).** For every new medium, start with an agency to buy lessons and shrink timelines — even a mediocre one earns its fee by keeping you accountable to a cadence (e.g. three videos/week). When serious, hire one overpaid, genuinely smart person to build the in-house team; run both in parallel and "pay twice until your team beats their team," then retire the agency. Choose an agency by talking to ten — the good ones are obvious and, tellingly, don't need to run ads for themselves.
+The standard advice is a 3:1 give-to-ask ratio *inside* content. The advanced move dissolves that balance: make **content 100% give** and put **100% of CTAs in ads**. The 3:1 ratio still holds, but *across the feed* — three organic value pieces plus one ad — where the ad is "the money one" and everything else is free. Because value and ask exist in completely separate units, the brand is protected: constant right-hooking ("go here, go here") trains the audience to leave, while constant giving deposits goodwill that an ad can later convert.
+
+### Operating the traffic machine (agency-first, then in-house)
+
+For every new medium, start with an agency to buy lessons and shrink timelines — even a mediocre one earns its fee by keeping you accountable to a cadence (e.g. three videos/week). When serious, hire one overpaid, genuinely smart person to build the in-house team; run both in parallel and "pay twice until your team beats their team," then retire the agency. Choose an agency by talking to ten — the good ones are obvious and, tellingly, don't need to run ads for themselves.
 
 ## Tactics / how to apply
 - Diagnose which world you're in (money-needs-traffic vs traffic-needs-money) and design the specific merger that completes the loop.
@@ -44,14 +52,14 @@ Most operators sit in one of two worlds: they have a business that makes money b
 - Hormozi paid ~$5k/month to an unremarkable agency early on; its real value was accountability to three videos a week (he says he still barely knows how to post a video himself).
 - A real-estate coaching business was walked through the pyramid visualization directly: years of organic content had built a wide base that continued compounding on its own, while paid ads were reframed as a way to harvest an immediate, uncompounding lift off the current top layer — useful for near-term revenue, but not a substitute for continuing to build the base.
 
-## Related entries
-- [[The Attention Barbell - Brand as the AI-Era Moat]]
-- [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- [[業績公式與商業定位：從流量思維到變現路徑]]
-- [[網紅行銷引擎：以CPM反推的分散式機器]]
-- [[Interest Media and the Zero-Follower Reach Model]]
-- [[The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
+## Relationships
+- **related:** [[The Attention Barbell - Brand as the AI-Era Moat]]
+- **applies:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **related:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **related:** [[業績公式與商業定位：從流量思維到變現路徑]]
+- **related:** [[網紅行銷引擎：以CPM反推的分散式機器]]
+- **related:** [[Interest Media and the Zero-Follower Reach Model]]
+- **related:** [[The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
 
 ## Source reference
 Alex Hormozi, *Building a brand, but it's on easy mode instead*. Extraction notes in [[2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode]]. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].

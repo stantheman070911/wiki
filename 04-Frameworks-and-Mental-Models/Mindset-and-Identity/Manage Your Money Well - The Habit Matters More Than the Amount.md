@@ -1,5 +1,7 @@
 ---
 title: "Manage Your Money Well - The Habit Matters More Than the Amount"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/money-management, topic/mindset, topic/money, person/t-harv-eker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -31,11 +35,11 @@ Wealth File #14. This is the mindset half of the file; the concrete money-manage
 - If the amount feels too small to bother with, treat that feeling itself as the signal to start immediately — the habit is what compounds, not the starting balance.
 - Track the felt difference between "managing money" and "avoiding money" over a few months — Eker's seminar participants consistently report the habit becomes enjoyable once established, not just tolerable.
 
-## Related entries
-- [[The 6 Jars Money Management System]]
-- [[Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself]]
-- [[Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
-- [[The First 100k - Defense-Before-Offense Playbook]]
+## Relationships
+- **related:** [[The 6 Jars Money Management System]]
+- **related:** [[Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself]]
+- **related:** [[Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
+- **related:** [[The First 100k - Defense-Before-Offense Playbook]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #14. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

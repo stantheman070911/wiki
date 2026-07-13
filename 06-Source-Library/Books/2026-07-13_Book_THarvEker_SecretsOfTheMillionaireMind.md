@@ -1,7 +1,11 @@
 ---
 title: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "book"
+source_format: "source-note"
+processing_status: "processed"
 author: "T. Harv Eker"
 date_archived: "2026-07-13"
 status: "source"

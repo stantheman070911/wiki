@@ -1,5 +1,7 @@
 ---
 title: "Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/startups, topic/cash-flow, topic/growth, topic/hiring, topic/frugality, person/paul-graham, source/paul-graham-essays]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2007-2015"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -41,10 +45,10 @@ Each month calculate **cash remaining ÷ net monthly burn = runway**, then proje
 ## Notable examples
 Airbnb waited four months after YC fundraising to hire its first employee. The founders remained overloaded, but their labor was directed at evolving the product rather than scaling an uncertain model.
 
-## Related entries
-- [[Startup Equals Growth - Weekly Compounding and Market Size]]
-- [[The First 100k - Defense-Before-Offense Playbook]]
-- [[You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
+## Relationships
+- **related:** [[Startup Equals Growth - Weekly Compounding and Market Size]]
+- **related:** [[The First 100k - Defense-Before-Offense Playbook]]
+- **related:** [[You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
 
 ## Source reference
 Paul Graham, “Default Alive or Default Dead?,” “The Fatal Pinch,” “Ramen Profitable,” and “How Not to Die,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

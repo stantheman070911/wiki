@@ -1,5 +1,7 @@
 ---
 title: "The Digital-Economy Income Shift - IP, Media, Data, and Code"
+type: "research"
+domain: "intelligence-and-research"
 lang: "en"
 tags: [topic/ai, topic/ip, topic/automation, topic/personal-brand, topic/power-law, topic/wealth, topic/career, person/daniel-priestley, person/james-dale-davidson, person/william-rees-mogg, source/daniel-priestley-youtube, source/the-sovereign-individual]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -54,13 +58,13 @@ Add a portability test: identify which assets, customer relationships, licenses,
 ## Notable examples
 Priestley contrasts an industrial-era “average worker” with a globally discoverable specialist at the intersection of executive fitness and first-marathon coaching. Narrowing the game changes the competitive set; it does not eliminate the need to become genuinely good.
 
-## Related entries
-- [[The Power Law of Venture Capital and Careers]]
-- [[Paid on Results vs. Paid on Time]]
-- [[The Attention Barbell - Brand as the AI-Era Moat]]
-- [[Technology Platforms - How New Protocols and Tools Shift Power]]
-- [[Commercialized Sovereignty - Jurisdictions Competing as Service Providers]]
-- [[The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
+## Relationships
+- **example:** [[The Power Law of Venture Capital and Careers]]
+- **example:** [[Paid on Results vs. Paid on Time]]
+- **related:** [[The Attention Barbell - Brand as the AI-Era Moat]]
+- **related:** [[Technology Platforms - How New Protocols and Tools Shift Power]]
+- **related:** [[Commercialized Sovereignty - Jurisdictions Competing as Service Providers]]
+- **example:** [[The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
 
 ## Source reference
 Daniel Priestley, *AI and the Digital Income Shift*. Raw transcript in [[2026-07-13_Video_DanielPriestley_AIAndTheDigitalIncomeShift_RawTranscript]].

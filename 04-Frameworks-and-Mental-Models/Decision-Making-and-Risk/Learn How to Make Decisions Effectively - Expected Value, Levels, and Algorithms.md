@@ -1,5 +1,7 @@
 ---
 title: "Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/decision-making, topic/mental-models, topic/ai, topic/automation, topic/believability, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -44,12 +48,12 @@ Closes out Dalio's Life Principles by turning the preceding chapters (reality, t
 - Dalio once called an unlisted house he liked, purely because "it never hurts to ask" — the owner not only agreed to sell but offered him a personal loan, illustrating the asymmetric upside of low-cost, high-optionality bets under expected-value thinking.
 - The 1971 Nixon gold shock (a currency default Dalio didn't see coming) and his 1982 depression miscall were both, in hindsight, "another one of those" — recurring historical patterns (excess-debt-driven currency devaluations) he could have anticipated had he studied history more broadly rather than trusting only his own lived experience.
 
-## Related entries
-- [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
-- [[Believability-Weight Your Decision Making]]
-- [[Man and Machine - Why Computers Complement Humans Instead of Replacing Them]] (Thiel's substitution-vs-complementarity lens is a useful companion to Dalio's expert-systems-vs-mimicking-vs-data-mining framework — both argue for human+machine over either alone, from different angles)
-- [[The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
-- [[用數學做決策：損益表、PDCA與預測降低不確定性]]
+## Relationships
+- **related:** [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **related:** [[Believability-Weight Your Decision Making]]
+- **related:** [[Man and Machine - Why Computers Complement Humans Instead of Replacing Them]] (Thiel's substitution-vs-complementarity lens is a useful companion to Dalio's expert-systems-vs-mimicking-vs-data-mining framework — both argue for human+machine over either alone, from different angles)
+- **related:** [[The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
+- **related:** [[用數學做決策：損益表、PDCA與預測降低不確定性]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part II, Ch. 5 ("Learn How to Make Decisions Effectively"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

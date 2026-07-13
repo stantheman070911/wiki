@@ -1,5 +1,7 @@
 ---
 title: "Volume and Feedback - Sales as the Training Ground"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/sales, topic/reps, topic/volume, topic/creative-volume, topic/skill-acquisition, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -43,10 +47,10 @@ Hormozi observes that nearly every millionaire and billionaire he knows started 
 - In the AMA, a fitness offer at roughly $3,500 CAC and $1,300/day spend was expected to feel lumpy; Hormozi wanted spend closer to daily CAC and creative volume closer to 100 ads/week.
 - A luxury-home builder looking for one salesperson was told most business owners have an advertising problem for talent: use LinkedIn, outreach, and relocation, then add two zeros to the effort before deciding it cannot work.
 
-## Related entries
-- [[Build Evidence, Not Confidence]]
-- [[Focus as Elimination - The Deep-Work Playbook]]
-- [[Skill Stacking and the Education-ROI Playbook]]
+## Relationships
+- **applies:** [[Build Evidence, Not Confidence]]
+- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
+- **related:** [[Skill Stacking and the Education-ROI Playbook]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].

@@ -1,5 +1,7 @@
 ---
 title: "What a Brand Actually Is - Association, Influence, Direction, Reach"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/brand, topic/influence, topic/reach, person/alex-hormozi, person/matt-gray]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-13"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -29,20 +33,28 @@ A brand is an association between two things — and its value is measured on th
 - **"All publicity is publicity," not "all publicity is good."** Publicity reliably increases *reach*; it does not necessarily improve influence or move direction toward you.
 
 ## Framework / model (if applicable)
-**The three elements of a brand:**
+### The three elements of a brand
 1. **Strength of influence** — when people see you / your logo / your thing, what percentage change their behavior? (Trump and Taylor Swift both score high.)
 2. **Direction** — is that changed behavior *toward* you or *away*? Directionality is person-dependent; a strong brand can repel some while attracting others.
 3. **Reach** — how many people in general hold the association at all.
 
 The hypothetical maximum brand: as many people as possible, all changing behavior at once, all moving *toward* you (Taylor Swift approximates this).
 
-**Association management.** Because a brand is built from associations, guard whom and what you appear beside. Hormozi stopped speaking on stages he doesn't own (the audience associates him with the other speakers) and grew strict about podcast appearances (an hour beside another person fuses the associations).
+### Association management
 
-**Reinforcement history.** Influence compounds when a person follows your direction and repeatedly gets a good outcome. Brand therefore compresses future sales: the audience needs less new information because prior promises and deliveries already established a behavioral expectation.
+Because a brand is built from associations, guard whom and what you appear beside. Hormozi stopped speaking on stages he doesn't own (the audience associates him with the other speakers) and grew strict about podcast appearances (an hour beside another person fuses the associations).
 
-**Association trades.** Any repositioning loses some people and gains others. The decision is not whether anyone objects, but whether the reach, influence, and favorable direction gained exceed what is lost without violating the values the brand claims to hold.
+### Reinforcement history
 
-**The cancellation model.** You can only be canceled if *all* means of communicating with an audience are removed **and** you stop making content. R. Kelly was effectively canceled partly because he stopped; a creator who keeps producing (e.g. Ye/Kanye through controversy) stays "uncancelable" as long as they refuse to accept it. Controversy behaves like a trending topic — it drives reach and click-through, but not necessarily influence or favorable direction, which is why Hormozi personally avoids it.
+Influence compounds when a person follows your direction and repeatedly gets a good outcome. Brand therefore compresses future sales: the audience needs less new information because prior promises and deliveries already established a behavioral expectation.
+
+### Association trades
+
+Any repositioning loses some people and gains others. The decision is not whether anyone objects, but whether the reach, influence, and favorable direction gained exceed what is lost without violating the values the brand claims to hold.
+
+### The cancellation model
+
+You can only be canceled if *all* means of communicating with an audience are removed **and** you stop making content. R. Kelly was effectively canceled partly because he stopped; a creator who keeps producing (e.g. Ye/Kanye through controversy) stays "uncancelable" as long as they refuse to accept it. Controversy behaves like a trending topic — it drives reach and click-through, but not necessarily influence or favorable direction, which is why Hormozi personally avoids it.
 
 ## Tactics / how to apply
 - State the exact association you want to own (person ↔ topic) and make repetitive, consistent content that teaches it.
@@ -61,12 +73,12 @@ The hypothetical maximum brand: as many people as possible, all changing behavio
 - Martha Stewart built influence by giving useful instructions for years; each successful result lowered the perceived risk of following her next recommendation.
 - Apple's keynotes, product names, and campaigns repeatedly paired Steve Jobs's personal conviction with the company's products. The person attracted attention, while consistent product delivery transferred trust to Apple.
 
-## Related entries
-- [[The Seven Principles of Building an Iconic Brand]]
-- [[Brand and Product Compounding - Too Good to Fail]]
-- [[The Attention Barbell - Brand as the AI-Era Moat]]
-- [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
-- [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
+## Relationships
+- **related:** [[The Seven Principles of Building an Iconic Brand]]
+- **related:** [[Brand and Product Compounding - Too Good to Fail]]
+- **related:** [[The Attention Barbell - Brand as the AI-Era Moat]]
+- **related:** [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
+- **related:** [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
 
 ## Source reference
 Alex Hormozi, *Building a brand, but it's on easy mode instead*. Extraction notes in [[2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode]].

@@ -1,5 +1,7 @@
 ---
 title: "Fear, Regret, and Asymmetric Bets"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/risk, topic/decision-making, person/alex-hormozi, person/daniel-priestley, person/nassim-nicholas-taleb, source/daniel-priestley-youtube, source/skin-in-the-game]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -48,13 +52,13 @@ A later Q&A added three nuances to the same framework:
 
 Source for this section: *Alex Hormozi Answers Your Questions (Ask Me Anything)* — see [[2026-07-08_Video_AlexHormozi_AskMeAnything]].
 
-## Related entries
-- [[Hardship as Origin Story - Heroes Use Pain]]
-- [[The Reference Group and Re-engineering Your Circle]]
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- [[When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
-- [[Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
+## Relationships
+- **related:** [[Hardship as Origin Story - Heroes Use Pain]]
+- **related:** [[The Reference Group and Re-engineering Your Circle]]
+- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
+- **related:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **related:** [[When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
+- **related:** [[Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].

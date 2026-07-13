@@ -1,5 +1,7 @@
 ---
 title: "The X-Factor Dilution Problem - Four Ways to Scale Past Yourself"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/scaling, topic/supply-constraint, topic/personal-brand, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-09"
+updated: "2026-07-09"
+reviewed_on: "2026-07-09"
 status: "reviewed"
 ---
 
@@ -50,12 +54,12 @@ A couple running "Coupleneur," a relationship-coaching business built on their o
 - The right choice depends on which dilution the founder and the customer base can tolerate — some categories (therapy-adjacent coaching, high-trust advisory) punish productization or delegation much harder than others.
 - This is a companion framework to [[Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]] for the specific case where the supply constraint is the founder's own personal skill rather than a general operational bottleneck.
 
-## Related entries
-- [[Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
-- [[Sales Systems as Intellectual Property - Process Above the Player]]
-- [[The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]
-- [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
-- [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
+## Relationships
+- **related:** [[Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
+- **related:** [[Sales Systems as Intellectual Property - Process Above the Player]]
+- **related:** [[The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]
+- **related:** [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
+- **related:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
 
 ## Source reference
 Alex Hormozi, business-breakdown/AMA compilation (Coupleneur relationship-coaching breakdown). Raw transcript archived in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript]]; extraction notes in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].

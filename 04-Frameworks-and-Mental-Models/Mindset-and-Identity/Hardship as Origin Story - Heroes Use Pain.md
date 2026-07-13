@@ -1,5 +1,7 @@
 ---
 title: "Hardship as Origin Story - Heroes Use Pain"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/storytelling, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -37,10 +41,10 @@ Hormozi reframes suffering as neither avoidable nor meaningless but as the raw m
 - Hormozi lost everything twice; his father's story (failing medical school years in a foreign language, rebuilding from $1,000 after a revolution seized the family's assets) taught that only education/skills can't be taken from you.
 - Epictetus, paraphrased: what a shame to never meet hardship and so never see who you are.
 
-## Related entries
-- [[Accountability and the Blame-Power Law]]
-- [[Fear, Regret, and Asymmetric Bets]]
-- [[Finite vs Infinite Games - Winning by Emptying the Tank]]
+## Relationships
+- **related:** [[Accountability and the Blame-Power Law]]
+- **related:** [[Fear, Regret, and Asymmetric Bets]]
+- **related:** [[Finite vs Infinite Games - Winning by Emptying the Tank]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].

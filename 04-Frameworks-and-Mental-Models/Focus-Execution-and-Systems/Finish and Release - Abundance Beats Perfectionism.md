@@ -1,5 +1,7 @@
 ---
 title: "Finish and Release - Abundance Beats Perfectionism"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/creativity, topic/execution, topic/commitment, topic/mindset, person/rick-rubin, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2023"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -49,11 +53,11 @@ A useful stopping test: if you love the work, the essence is clear, major altern
 ## Notable examples
 Rubin contrasts musicians who delay an album because it might define them forever with the diary-entry model: an album captures one period, not an entire life. Protecting a single chapter from imperfection can leave the rest of the book unwritten.
 
-## Related entries
-- [[The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
-- [[Do What You Set Out to Do]]
-- [[Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
-- [[Creative Success - Judge the Work Before the Outcome]]
+## Relationships
+- **related:** [[The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
+- **related:** [[Do What You Set Out to Do]]
+- **related:** [[Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
+- **related:** [[Creative Success - Judge the Work Before the Outcome]]
 
 ## Source reference
 Rick Rubin with Neil Strauss, *The Creative Act: A Way of Being* (2023). Raw transcript archived at [[2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript]].

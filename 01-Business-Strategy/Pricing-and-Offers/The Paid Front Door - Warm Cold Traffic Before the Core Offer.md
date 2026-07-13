@@ -1,5 +1,7 @@
 ---
 title: "The Paid Front Door - Warm Cold Traffic Before the Core Offer"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/offers, topic/front-end-offer, topic/sales, topic/funnel, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -57,12 +61,12 @@ For a health newsletter in AMA 3, repeated generic meal-plan offers had failed. 
 - The front door must be a genuine value delivery mechanism, not a disguised pitch. If the customer feels tricked, it damages the back-end sale.
 - For very simple, low-ticket products, adding a paid intermediate step can add friction without enough benefit.
 
-## Related entries
-- [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
-- [[Barbell Pricing and the Unscalable Premium Offer]]
-- [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
-- [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- [[Volume and Feedback - Sales as the Training Ground]]
+## Relationships
+- **related:** [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
+- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
+- **related:** [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
+- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
+- **related:** [[Volume and Feedback - Sales as the Training Ground]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.

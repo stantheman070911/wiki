@@ -1,5 +1,7 @@
 ---
 title: "The Holy Grail of Investing - Diversification via Uncorrelated Return Streams"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/capital, topic/risk, topic/diversification, topic/decision-making, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -37,10 +41,10 @@ Discovered around 1990 by Dalio with Bob Prince and Dan Bernstein while research
 ## Notable examples
 - **Pure Alpha** (originally "Top 5%") and **All Weather** are Bridgewater's two flagship products built directly on this insight — All Weather specifically was built for Dalio's own family trust using the growth/inflation 2x2 to balance exposure across all four macro-environment quadrants.
 
-## Related entries
-- [[Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms]]
-- [[Fear, Regret, and Asymmetric Bets]]
-- [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
+## Relationships
+- **applies:** [[Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms]]
+- **applies:** [[Fear, Regret, and Asymmetric Bets]]
+- **related:** [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part I memoir (c. 1990 discovery, and the 1996–2003 development of All Weather). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

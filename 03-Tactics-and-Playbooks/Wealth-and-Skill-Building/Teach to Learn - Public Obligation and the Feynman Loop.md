@@ -1,5 +1,7 @@
 ---
 title: "Teach to Learn - Public Obligation and the Feynman Loop"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/learning, topic/skills, topic/writing, topic/consistency, topic/feedback, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2023"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,11 +52,11 @@ The obligation should specify a cadence, medium, and consequence. “I want to w
 ## Notable examples
 Bartlett committed to learning and publishing one idea each day. The constraint of a short social post forced compression, while audience response refined both his thinking and delivery; the practice eventually produced a large audience around the learning habit itself.
 
-## Related entries
-- [[Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
-- [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
-- [[Skill Stacking and the Education-ROI Playbook]]
-- [[Process as the Goal - The Zero-Follower Consistency Engine]]
+## Relationships
+- **related:** [[Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
+- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **related:** [[Skill Stacking and the Education-ROI Playbook]]
+- **applies:** [[Process as the Goal - The Zero-Follower Consistency Engine]]
 
 ## Source reference
 Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 2. Raw transcript archived in [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].

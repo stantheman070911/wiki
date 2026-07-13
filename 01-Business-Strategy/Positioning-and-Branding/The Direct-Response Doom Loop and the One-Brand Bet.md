@@ -1,5 +1,7 @@
 ---
 title: "The Direct-Response Doom Loop and the One-Brand Bet"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/business-model, topic/marketing, topic/brand, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-09"
+updated: "2026-07-09"
+reviewed_on: "2026-07-09"
 status: "reviewed"
 ---
 
@@ -52,11 +56,11 @@ AMA 3 contrasts two superficially similar e-commerce outcomes: checkout optimiza
 - Not every product category has brand potential; picking the "wrong" one to concentrate on wastes the bet. Choose based on category dynamics and founder passion/expertise, not just current revenue.
 - This is distinct from simply having too many businesses at once for operational reasons (see [[The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]) — here, each business is individually sound but the ceiling is structural to the model, not a distraction problem.
 
-## Related entries
-- [[The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]
-- [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
-- [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
+## Relationships
+- **applies:** [[The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]
+- **related:** [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
+- **applies:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **applies:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
 
 ## Source reference
 Alex Hormozi, business-breakdown/AMA compilation (e-commerce scaling segment). Raw transcript archived in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript]]; extraction notes in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].

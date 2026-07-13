@@ -1,5 +1,7 @@
 ---
 title: "The 22 Immutable Laws of Marketing"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/positioning, topic/brand, person/ries-trout]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1993"
 date_added: "2026-07-08"
+updated: "2026-07-13"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -29,7 +33,7 @@ Ries and Trout's 1993 follow-up to *Positioning: The Battle for Your Mind* (see 
 ## Framework / model (if applicable)
 The 22 laws, grouped by theme:
 
-**Getting into the mind first**
+### Getting into the mind first
 1. **Leadership** — It's better to be first than it is to be better (Lindbergh vs. the forgotten second Atlantic solo flyer, Bert Hinkler).
 2. **The Category** — If you can't be first in a category, create a new category you can be first in (Michelob as the first *high-priced domestic* beer, rather than chasing Heineken as an import).
 3. **The Mind** — Better to be first in the mind than first in the marketplace (IBM beat first-to-market Remington Rand/UNIVAC by winning the mind first).
@@ -41,7 +45,7 @@ The 22 laws, grouped by theme:
 9. **The Opposite** — If you're a strong No. 2, position against the leader's strength rather than imitating it (7Up as "the Uncola").
 10. **Division** — Categories split and multiply over time (computers → mainframe, mini, workstation, PC — each spawning its own leader); don't assume a category stays singular forever.
 
-**Managing perception, focus, and change**
+### Managing perception, focus, and change
 11. **Perspective** — Marketing effects take time to play out and can even run opposite the immediate effect (short-term price cuts can permanently teach customers to wait for sales).
 12. **Line Extension** — There is an almost irresistible temptation to extend an established brand's equity onto new products, and it almost always dilutes the brand (a "Harley-Davidson car" would undermine, not extend, the Harley brand — see [[The Line-Extension Trap - Why One Name Can't Own Two Things]]).
 13. **Sacrifice** — You must give something up to get somewhere: sacrifice the product line (Federal Express dropped everything but overnight small-package delivery to own "overnight"), the target market, or constant change.
@@ -50,7 +54,7 @@ The 22 laws, grouped by theme:
 16. **Singularity** — In any given situation, only one bold move produces substantial results — not a combination of half-measures.
 17. **Unpredictability** — You cannot reliably predict competitors' reactions to your plans by only studying your own plans; write competitors' plans, not just your own, and build in flexibility.
 
-**Sustaining and knowing the limits**
+### Sustaining and knowing the limits
 18. **Success** — Success often leads to arrogance, and arrogance to failure; as brands succeed, egos tend to replace market judgment (see also [[Don't Follow Competitors Down - The $50M Price-Cut Lesson]] for a market-leader-arrogance case).
 19. **Failure** — Failure is to be expected and accepted; most companies try to correct problems rather than abandon them and move on.
 20. **Hype** — The situation that gets the most press (hype) is usually the opposite of a real marketing success in the making; genuine revolutions often arrive quietly.
@@ -67,13 +71,13 @@ The 22 laws, grouped by theme:
 ## Notable examples
 - Lindbergh vs. Bert Hinkler (first vs. second solo Atlantic flight); Hertz/Avis/National ladder in rent-a-cars; Heineken vs. Michelob (new category vs. me-too import); Volvo/safety, Domino's/home delivery, Federal Express/overnight; Wang's failed pivot from word processors to computers; New Coke winning blind taste tests yet losing the market to Coca-Cola Classic; Atari abandoning "video games" only for Nintendo to take the category; BMW losing focus by chasing Mercedes into large sedans, then recovering by re-emphasizing "driving."
 
-## Related entries
-- [[Positioning - Own a Word in the Prospect's Mind]]
-- [[The Line-Extension Trap - Why One Name Can't Own Two Things]]
-- [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
-- [[Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
-- [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- [[情緒價值與功能性價值：跳脫價格戰的定位框架]]
+## Relationships
+- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
+- **applies:** [[The Line-Extension Trap - Why One Name Can't Own Two Things]]
+- **related:** [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **related:** [[Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
+- **applies:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **related:** [[情緒價值與功能性價值：跳脫價格戰的定位框架]]
 
 ## Source reference
 Al Ries & Jack Trout, *The 22 Immutable Laws of Marketing: Violate Them at Your Own Risk* (1993). Archived original PDF in [2026-07-08_Book_RiesTrout_22ImmutableLawsOfMarketing.txt](<../../06-Source-Library/Books/2026-07-08_Book_RiesTrout_22ImmutableLawsOfMarketing.txt>).

@@ -1,5 +1,7 @@
 ---
 title: "Startup Hubs - Ambition, Density, and the People Who Matter"
+type: "research"
+domain: "intelligence-and-research"
 lang: "en"
 tags: [topic/startups, topic/culture, topic/recruiting, topic/capital, topic/growth, person/paul-graham, source/paul-graham-essays]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2006-2016"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -41,10 +45,10 @@ Assess an ecosystem across **talent density, founder ambition, experienced capit
 ## Notable examples
 Silicon Valley's advantage is not a monument but a high probability that a chance meeting includes someone who can help start, fund, or understand a technology company. Pittsburgh's plausible path was to become more intensely itself, using universities, affordability, and existing technical strengths.
 
-## Related entries
-- [[The Reference Group and Re-engineering Your Circle]]
-- [[Association - Rich People Model Winners, Poor People Hang Around Losers]]
-- [[Startup Equals Growth - Weekly Compounding and Market Size]]
+## Relationships
+- **example:** [[The Reference Group and Re-engineering Your Circle]]
+- **example:** [[Association - Rich People Model Winners, Poor People Hang Around Losers]]
+- **example:** [[Startup Equals Growth - Weekly Compounding and Market Size]]
 
 ## Source reference
 Paul Graham, “Why Startup Hubs Work,” “Cities and Ambition,” “How to Be Silicon Valley,” “How to Make Pittsburgh a Startup Hub,” and “Why to Move to a Startup Hub,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

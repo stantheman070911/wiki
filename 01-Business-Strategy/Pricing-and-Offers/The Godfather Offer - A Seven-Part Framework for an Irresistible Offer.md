@@ -1,5 +1,7 @@
 ---
 title: "The Godfather Offer - A Seven-Part Framework for an Irresistible Offer"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/offers, topic/pricing, topic/persuasion, person/sabri-suby]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-10"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -32,7 +36,7 @@ Suby's construction method for what he calls a "Godfather Offer" — the offer n
 - **Real scarcity converts; fake scarcity gets caught and destroys trust.** Prospects routinely fact-check countdown timers and "limited stock" claims. Genuine constraints (actual inventory limits, actual cohort caps) always exist in every business — advertise the real one rather than manufacturing a fake one.
 
 ## Framework / model (if applicable)
-**The seven parts of a Godfather Offer:**
+### The seven parts of a Godfather Offer
 1. **Rationale** — a credible "why does this deal even exist" (insider access, a lean/no-middleman model, an unusual cost structure) that makes the offer believable rather than too-good-to-be-true.
 2. **Value build** — stack the perceived value against the market's normal "everyday price" for equivalent solutions, then anchor with a strikethrough/drop from that reference price.
 3. **Price the first sale to barely profit (or lose)** — lead with the most aggressive price you can justify; the loss-leader logic (same one supermarkets use pricing diapers near cost to get the shopper in-store) converts far more people on sale one, and the real margin is made on sale two, three, four, and beyond.
@@ -54,12 +58,12 @@ Suby's construction method for what he calls a "Godfather Offer" — the offer n
 - Pricing something the market is used to paying $2,000 for at $1.99 (or an equivalent aggressive anchor) specifically to make prospects question how the seller can afford it — cited as the signal of a correctly-engineered irresistible offer.
 - Weight-loss / fitness offer example of a stacked guarantee: "follow the system, do the workouts, lose 9kg in 12 weeks — or your money back / we work with you for free until you do."
 
-## Related entries
-- [[The Value Equation and the Grand Slam Offer]]
-- [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
-- [[Barbell Pricing and the Unscalable Premium Offer]]
-- [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
-- [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
+## Relationships
+- **related:** [[The Value Equation and the Grand Slam Offer]]
+- **related:** [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
+- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
+- **related:** [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
+- **related:** [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
 
 ## Source reference
 Sabri Suby, customer-acquisition training video (part of a four-video compilation). Raw transcript and extraction notes archived at [[2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook]].

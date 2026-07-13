@@ -1,5 +1,7 @@
 ---
 title: "A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/culture, topic/systems, topic/operations, topic/management, topic/focus, person/jim-collins, source/good-to-great]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2001"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,14 +52,14 @@ Growing companies often respond to disorder by adding hierarchy and rules. That 
 ## Notable examples
 Abbott used responsibility accounting to assign every meaningful cost, investment, and result to one accountable person while preserving room for entrepreneurial action. Nucor combined only four management layers with clear performance economics and shared sacrifice. By contrast, Burroughs and Rubbermaid achieved temporary discipline through dominant CEOs, then declined when the disciplinarian left.
 
-## Related entries
-- [[Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
-- [[Use Tools and Protocols to Shape How Work Is Done]]
-- [[Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
-- [[Special-Forces Teams and Flat Organizations]]
-- [[Focus as Elimination - The Deep-Work Playbook]]
-- [[The Hedgehog Concept - Three Circles and the Economic Denominator]]
-- [[The Flywheel and the Doom Loop - Compound Momentum in One Direction]]
+## Relationships
+- **related:** [[Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
+- **related:** [[Use Tools and Protocols to Shape How Work Is Done]]
+- **related:** [[Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
+- **related:** [[Special-Forces Teams and Flat Organizations]]
+- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
+- **related:** [[The Hedgehog Concept - Three Circles and the Economic Denominator]]
+- **related:** [[The Flywheel and the Doom Loop - Compound Momentum in One Direction]]
 
 ## Source reference
 Jim Collins, *Good to Great*, chapter 6, "A Culture of Discipline" (2001). [[2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript]].

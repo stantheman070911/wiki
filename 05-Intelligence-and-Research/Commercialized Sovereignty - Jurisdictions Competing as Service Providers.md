@@ -1,5 +1,7 @@
 ---
 title: "Commercialized Sovereignty - Jurisdictions Competing as Service Providers"
+type: "research"
+domain: "intelligence-and-research"
 lang: "en"
 tags: [topic/business-model, topic/competition, topic/pricing, topic/risk, topic/optionality, topic/research, person/james-dale-davidson, person/william-rees-mogg, source/the-sovereign-individual]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1997"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -51,11 +55,11 @@ The relevant comparison is risk-adjusted lifetime value, not the headline tax ra
 ## Notable examples
 The book uses medieval march regions and Andorra to illustrate how competing authorities limited extraction, then predicts digital work would broaden jurisdictional shopping. Later developments in remote work, digital services, residency programs, and international tax coordination support parts of the mechanism while also showing that territorial states remain adaptive and powerful.
 
-## Related entries
-- [[The Digital-Economy Income Shift - IP, Media, Data, and Code]]
-- [[Megapolitics - How Technology Changes the Returns to Violence]]
-- [[Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
-- [[The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
+## Relationships
+- **related:** [[The Digital-Economy Income Shift - IP, Media, Data, and Code]]
+- **example:** [[Megapolitics - How Technology Changes the Returns to Violence]]
+- **example:** [[Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
+- **example:** [[The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
 
 ## Source reference
 James Dale Davidson and William Rees-Mogg, *The Sovereign Individual* (1997), [[2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript]].

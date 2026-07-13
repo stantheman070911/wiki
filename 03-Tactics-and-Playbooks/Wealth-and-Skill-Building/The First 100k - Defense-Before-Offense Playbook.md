@@ -1,5 +1,7 @@
 ---
 title: "The First 100k - Defense-Before-Offense Playbook"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/cash-flow, topic/first-100k, topic/frugality, topic/business-model, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -47,10 +51,10 @@ Then: **wait ~36 months** — patient with outputs, impatient with inputs.
 - Hormozi's neighbor Jacob was expected to do $100/day; told to double the hardest worker, he did $300–400/day and got better faster.
 - Hormozi cleaned, billed, sold, taught, and fixed equipment himself at his first gym because he didn't know he could hire — using what he had.
 
-## Related entries
-- [[Accountability and the Blame-Power Law]]
-- [[Skill Stacking and the Education-ROI Playbook]]
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
+## Relationships
+- **applies:** [[Accountability and the Blame-Power Law]]
+- **related:** [[Skill Stacking and the Education-ROI Playbook]]
+- **applies:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].

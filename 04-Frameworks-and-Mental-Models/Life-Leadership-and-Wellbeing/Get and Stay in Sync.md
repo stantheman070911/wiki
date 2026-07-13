@@ -1,5 +1,7 @@
 ---
 title: "Get and Stay in Sync"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/culture, topic/leadership, topic/feedback, topic/decision-making, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -40,11 +44,11 @@ Fourth chapter of Work Principles: having established truth, relationships, and 
 ## Notable examples
 - Dalio frames "3 to 5 is more than 20" as counterintuitive to most managers' instinct to add more people to a stuck problem — the book argues the opposite instinct (shrink the room) usually produces better outcomes for genuinely hard, conceptual problems.
 
-## Related entries
-- [[Cultivate Meaningful Work and Meaningful Relationships]]
-- [[Recognize How to Get Beyond Disagreements]]
-- [[Believability-Weight Your Decision Making]]
-- [[Manage as Someone Operating a Machine to Achieve a Goal]]
+## Relationships
+- **related:** [[Cultivate Meaningful Work and Meaningful Relationships]]
+- **related:** [[Recognize How to Get Beyond Disagreements]]
+- **related:** [[Believability-Weight Your Decision Making]]
+- **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 4 ("Get and Stay in Sync"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

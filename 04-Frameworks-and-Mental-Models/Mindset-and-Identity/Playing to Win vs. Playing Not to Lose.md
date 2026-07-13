@@ -1,5 +1,7 @@
 ---
 title: "Playing to Win vs. Playing Not to Lose"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/risk, topic/decision-making, topic/commitment, person/t-harv-eker, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -35,11 +39,11 @@ Wealth File #2. Eker argues the size of the goal itself, not effort or ability, 
 - Distinguish a **contingency** that protects Plan A from a **competing Plan B** that gives attention and motivation somewhere else.
 - For one important effort-dependent goal, define a committed review period during which you will improve the plan rather than replace the objective; set explicit safety and stop conditions in advance.
 
-## Related entries
-- [[Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting]]
-- [[Think Big vs. Think Small - The Law of Income]]
-- [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
-- [[Finite vs Infinite Games - Winning by Emptying the Tank]]
+## Relationships
+- **related:** [[Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting]]
+- **related:** [[Think Big vs. Think Small - The Law of Income]]
+- **related:** [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
+- **related:** [[Finite vs Infinite Games - Winning by Emptying the Tank]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #2. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

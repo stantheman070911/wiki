@@ -1,5 +1,7 @@
 ---
 title: "Staff for Strength - Design Jobs Around Exceptional Contribution"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/hiring, topic/management, topic/org-design, topic/leadership, person/peter-drucker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1967"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -53,12 +57,12 @@ Organizations exist to combine specific strengths while making weaknesses irrele
 - General Marshall selected and developed World War II commanders by asking what each could do, moved failures out of the wrong command, and then searched for a role in which their strength fit.
 - Drucker’s rule for impossible jobs is deliberately structural: after two or three proven performers fail, redesign the job rather than blame the next person.
 
-## Related entries
-- [[Constantly Train, Test, Evaluate, and Sort People]]
-- [[Remember That the WHO Is More Important Than the WHAT]]
-- [[Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
-- [[Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
-- [[The Effective Executive - Five Learnable Practices]]
+## Relationships
+- **related:** [[Constantly Train, Test, Evaluate, and Sort People]]
+- **related:** [[Remember That the WHO Is More Important Than the WHAT]]
+- **related:** [[Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
+- **applies:** [[Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
+- **applies:** [[The Effective Executive - Five Learnable Practices]]
 
 ## Source reference
 Peter F. Drucker, *The Effective Executive*, ch. 4, “Making Strength Productive” (1967; 2006 edition). Raw archived text in [[2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript]].

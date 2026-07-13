@@ -1,5 +1,7 @@
 ---
 title: "The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/sales, topic/volume, topic/automation, topic/ai, topic/funnel, person/alex-hormozi, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -49,12 +53,12 @@ The first two maximize conversion after interest appears; the latter two maximiz
 ## Notable examples
 Hormozi cites appointment data from thousands of daily bookings: businesses limiting calls to four afternoons a week could leave multiples of sales on the table. At the opposite extreme, zero availability guarantees zero appointments, making calendar access a more fundamental lever than many copy optimizations.
 
-## Related entries
-- [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
-- [[Volume and Feedback - Sales as the Training Ground]]
-- [[Outbound and Inbound Are Separate Teams - The Sales Career Ladder]]
-- [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
-- [[Centers of Influence - Selling Through Trusted Referrers]]
+## Relationships
+- **related:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
+- **related:** [[Volume and Feedback - Sales as the Training Ground]]
+- **related:** [[Outbound and Inbound Are Separate Teams - The Sales Career Ladder]]
+- **related:** [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
+- **applies:** [[Centers of Influence - Selling Through Trusted Referrers]]
 
 ## Source reference
 Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

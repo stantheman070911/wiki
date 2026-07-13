@@ -1,5 +1,7 @@
 ---
 title: "The Hedgehog Concept - Three Circles and the Economic Denominator"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/focus, topic/business-model, topic/unit-economics, topic/positioning, topic/decision-making, person/jim-collins, source/good-to-great]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2001"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,13 +52,13 @@ The intersection becomes a short decision rule. A standing **Council** of roughl
 ## Notable examples
 Walgreens organized around convenient drugstores and profit per customer visit, allowing dense store clusters and drive-through pharmacies to reinforce one another. Abbott accepted that it could no longer become the best pharmaceutical researcher and shifted toward cost-effective health care through diagnostics and nutrition. Wells Fargo exited global banking ambitions and focused on running a western bank like a business, measured by profit per employee.
 
-## Related entries
-- [[The Seven Questions Every Business Must Answer]]
-- [[The Five Advantages of a Perfect Business]]
-- [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
-- [[Focus as Elimination - The Deep-Work Playbook]]
-- [[The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]
-- [[A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
+## Relationships
+- **related:** [[The Seven Questions Every Business Must Answer]]
+- **related:** [[The Five Advantages of a Perfect Business]]
+- **related:** [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
+- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
+- **applies:** [[The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]
+- **applies:** [[A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
 
 ## Source reference
 Jim Collins, *Good to Great*, chapter 5, "The Hedgehog Concept" (2001). [[2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript]].

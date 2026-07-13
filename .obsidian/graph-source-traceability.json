@@ -1,0 +1,28 @@
+{
+  "collapse-filter": false,
+  "search": "path:\"06-Source-Library\" OR path:\"01-Business-Strategy\" OR path:\"02-Social-Media-Strategy\" OR path:\"03-Tactics-and-Playbooks\" OR path:\"04-Frameworks-and-Mental-Models\" OR path:\"05-Intelligence-and-Research\" OR path:\"07-Articles\"",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {"query": "path:\"06-Source-Library/Books\"", "color": {"a": 1, "rgb": 11184810}},
+    {"query": "path:\"06-Source-Library/Courses\"", "color": {"a": 1, "rgb": 16753920}},
+    {"query": "path:\"06-Source-Library/Podcasts\" OR path:\"06-Source-Library/Videos\"", "color": {"a": 1, "rgb": 4886754}},
+    {"query": "path:\"06-Source-Library/Essays\" OR path:\"06-Source-Library/Conversations\"", "color": {"a": 1, "rgb": 10181046}},
+    {"query": "-path:\"06-Source-Library\"", "color": {"a": 1, "rgb": 14701138}}
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.52,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.35,
+  "close": true
+}

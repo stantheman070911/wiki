@@ -1,5 +1,7 @@
 ---
 title: "The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/sales, topic/funnel, topic/qualification, topic/retention, topic/systems, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -47,11 +51,11 @@ Revenue becomes difficult to diagnose when marketing, appointment setting, selli
 ## Notable examples
 Priestley illustrates a weekly dashboard such as 50 leads, 10 appointments, six presentations, and two sales. The point is not the particular ratio; it is knowing which transition must improve and being able to staff against predictable demand.
 
-## Related entries
-- [[The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
-- [[Sales Systems as Intellectual Property - Process Above the Player]]
-- [[Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
-- [[Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
+## Relationships
+- **related:** [[The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
+- **related:** [[Sales Systems as Intellectual Property - Process Above the Player]]
+- **related:** [[Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
+- **related:** [[Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
 
 ## Source reference
 Daniel Priestley, *Complete Sales Process - LAPS*. Raw transcript in [[2026-07-13_Video_DanielPriestley_CompleteSalesProcessLAPS_RawTranscript]].

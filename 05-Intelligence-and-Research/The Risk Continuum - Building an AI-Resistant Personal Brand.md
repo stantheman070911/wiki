@@ -1,5 +1,9 @@
 ---
 title: "The Risk Continuum: Building an AI-Resistant Personal Brand"
+aliases:
+  - "The Risk Continuum: Building an AI-Resistant Personal Brand"
+type: "research"
+domain: "intelligence-and-research"
 lang: "en"
 tags: [topic/ai, topic/personal-brand, topic/brand, topic/risk, person/alex-hormozi]
 source:
@@ -9,6 +13,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-02"
+updated: "2026-07-13"
+reviewed_on: "2026-07-13"
 status: "reviewed"
 ---
 
@@ -17,6 +23,11 @@ status: "reviewed"
 ## One-line summary
 AI disrupts creators from lowest risk to highest, in that order — your defensibility is a function of demonstrable proof, not content quality.
 
+
+
+## Context
+
+This page organizes **The Risk Continuum: Building an AI-Resistant Personal Brand** as a reusable research; the sections below preserve its original framework, steps, and examples.
 ## Core thesis
 AI can replicate content, but it struggles to replicate credibility. Creators sit on a risk continuum defined by how much the audience risks when acting on the content. AI erodes the low-risk end first (entertainment, light tutorials) and advances upward. The durable moat is demonstrable proof delivered at scale, in real time — something AI cannot yet fake for high-stakes advice.
 
@@ -55,9 +66,9 @@ Note: AI taking live calls convincingly is likely only 1-2 years away, so real-t
 - Map your own content across the four tiers — if most of it sits in the "entertainer" or "light educator" zone, treat that as your most AI-exposed surface area and prioritize building higher-proof content.
 - Don't wait for perfect credentials to start demonstrating — even a small, real, verifiable result beats a polished but unproven claim.
 
-## Related entries
-- [[AI、資料與內容的賭注理論]] (Hormozi's earlier "stakes theory" framework — this entry is a more granular, tiered elaboration of the same core idea: higher stakes require higher human credibility)
-- [[可信度行銷與公開建構]] (Bloom Nutrition's practical application of building public proof and credibility)
+## Relationships
+- **related:** [[AI、資料與內容的賭注理論]] (Hormozi's earlier "stakes theory" framework — this entry is a more granular, tiered elaboration of the same core idea: higher stakes require higher human credibility)
+- **example:** [[可信度行銷與公開建構]] (Bloom Nutrition's practical application of building public proof and credibility)
 
 ## Source reference
 Alex Hormozi, "Building a Personal Brand in 2026" (podcast transcript). Full notes archived at [[2026-07-02_Podcast_AlexHormozi_PersonalBrandVsAI]].

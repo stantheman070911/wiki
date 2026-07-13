@@ -1,5 +1,7 @@
 ---
 title: "Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/m-and-a, topic/capital, topic/wealth, topic/decision-making, topic/optionality, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,11 +52,11 @@ Compare these with the value, enjoyment, optionality, and compounding lost by se
 ## Notable examples
 Priestley argues that repeated exits let founders consolidate finances and learning between ventures. The claim is not that every company should be sold, but that indefinite attachment can prevent the next learning round.
 
-## Related entries
-- [[The Seven Levels of Business Growth - From Side Hustle to Exit]]
-- [[Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint]]
-- [[Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
-- [[Alternative Currencies - Reputation, Distribution, and Equity]]
+## Relationships
+- **related:** [[The Seven Levels of Business Growth - From Side Hustle to Exit]]
+- **related:** [[Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint]]
+- **related:** [[Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
+- **related:** [[Alternative Currencies - Reputation, Distribution, and Equity]]
 
 ## Source reference
 Daniel Priestley, *What Billionaires Do Differently*. Raw transcript in [[2026-07-13_Video_DanielPriestley_WhatBillionairesDoDifferently_RawTranscript]].

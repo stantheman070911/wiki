@@ -1,5 +1,7 @@
 ---
 title: "The Waterfall Distribution Method - One Pillar, a Week of Content"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/distribution, topic/repurposing, topic/content-strategy, person/caleb-ralston]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -51,12 +55,12 @@ The most effective way to maximize content output without constantly creating fr
 ## Notable examples
 - The workbook's model week: one pillar on Monday cascading into threads, carousels, shorts, and a newsletter through Friday.
 
-## Related entries
-- [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
-- [[Content Planner and the Analyze-Double-Down Loop]]
-- [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
-- [[Interest Media and the Zero-Follower Reach Model]]
-- [[Brand Journey and the 3-Part Brand Story]]
+## Relationships
+- **related:** [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
+- **related:** [[Content Planner and the Analyze-Double-Down Loop]]
+- **related:** [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
+- **applies:** [[Interest Media and the Zero-Follower Reach Model]]
+- **applies:** [[Brand Journey and the 3-Part Brand Story]]
 
 ## Source reference
 Caleb Ralston, *How to Build Your Brand Workbook*, ch. 3. Extraction notes in [[2026-07-08_Workbook_CalebRalston_HowToBuildYourBrand]]; PDF archived alongside.

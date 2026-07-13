@@ -1,5 +1,7 @@
 ---
 title: "Positioning a Company - Stand for a Specific Achievement, Not Diversification"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/positioning, topic/brand, topic/diversification, topic/differentiation, person/ries-trout]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1981"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -44,11 +48,11 @@ Positioning a *company* (as opposed to a single product) has extra pitfalls: eve
 - Xerox: owns "copiers" outright, but Xerox Data Systems (from the Scientific Data Systems acquisition) folded after six years trying to cross into IBM's leg; the durable opportunity was the adjacent "third leg" (laser/output technology), not computers.
 - Ford's "better ideas" corporate theme as a middling example — not a true position, since it doesn't answer why Ford doesn't out-execute GM if the ideas are really better.
 
-## Related entries
-- [[Positioning - Own a Word in the Prospect's Mind]]
-- [[The Line-Extension Trap - Why One Name Can't Own Two Things]]
-- [[Own What the Prospect Already Gives You - Research-Based Positioning]]
-- [[Monopoly vs. Competition - Why All Happy Companies Are Different]]
+## Relationships
+- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
+- **applies:** [[The Line-Extension Trap - Why One Name Can't Own Two Things]]
+- **applies:** [[Own What the Prospect Already Gives You - Research-Based Positioning]]
+- **related:** [[Monopoly vs. Competition - Why All Happy Companies Are Different]]
 
 ## Source reference
 Al Ries & Jack Trout, *Positioning: The Battle for Your Mind*, ch. 14 ("Positioning a Company: Xerox"). Full text in [[2026-07-08_Book_RiesTrout_Positioning_FullText]]; extraction notes in [[2026-07-08_Book_RiesTrout_Positioning]].

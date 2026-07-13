@@ -1,5 +1,7 @@
 ---
 title: "Remember That the WHO Is More Important Than the WHAT"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/hiring, topic/leadership, topic/org-design, topic/believability, person/ray-dalio, person/jim-collins, source/bridgewater-associates, source/good-to-great]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -50,13 +54,13 @@ Collins extends the rule into three people disciplines:
 - An executive once presented Dalio an impressively systematized succession/transition plan with no answer for *who* would replace him or what specific qualities that successor would need — Dalio's standing illustration of the WHO/WHAT confusion: a beautifully specified WHAT with no credible WHO behind it.
 - Wells Fargo recruited exceptional executives before it knew exactly how banking deregulation would unfold; that adaptable bench later produced leaders for numerous major banks. Fannie Mae replaced fourteen of twenty-six executives before finalizing its turnaround path. In contrast, the "genius with a thousand helpers" model at Eckerd and Teledyne weakened when the central genius departed.
 
-## Related entries
-- [[Believability-Weight Your Decision Making]]
-- [[Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
-- [[Constantly Train, Test, Evaluate, and Sort People]]
-- [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
-- [[Level 5 Leadership - Humility and Professional Will]]
-- [[A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
+## Relationships
+- **applies:** [[Believability-Weight Your Decision Making]]
+- **related:** [[Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
+- **related:** [[Constantly Train, Test, Evaluate, and Sort People]]
+- **applies:** [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **applies:** [[Level 5 Leadership - Humility and Professional Will]]
+- **applies:** [[A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 7 ("Remember That the WHO Is More Important than the WHAT"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

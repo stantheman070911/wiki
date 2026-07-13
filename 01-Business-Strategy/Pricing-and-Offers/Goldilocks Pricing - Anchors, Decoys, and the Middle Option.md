@@ -1,5 +1,7 @@
 ---
 title: "Goldilocks Pricing - Anchors, Decoys, and the Middle Option"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/pricing, topic/offers, topic/persuasion, topic/value-equation, topic/positioning, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2023"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -49,11 +53,11 @@ Design a **Good–Better–Best ladder**:
 ## Notable examples
 Panasonic added a higher-priced microwave beside two existing models; the former premium product became the middle option and its sales increased. Bartlett also describes a property agent who showed one inferior, one target, and one extremely expensive property, allowing the target to feel like the obvious balance.
 
-## Related entries
-- [[Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
-- [[Barbell Pricing and the Unscalable Premium Offer]]
-- [[The Value Equation and the Grand Slam Offer]]
-- [[Decommoditize Before You Discount - Make the Difference Obvious]]
+## Relationships
+- **applies:** [[Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
+- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
+- **related:** [[The Value Equation and the Grand Slam Offer]]
+- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
 
 ## Source reference
 Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 16. Raw transcript archived in [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].

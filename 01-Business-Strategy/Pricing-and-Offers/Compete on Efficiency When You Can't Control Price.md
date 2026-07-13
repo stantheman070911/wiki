@@ -1,5 +1,7 @@
 ---
 title: "Compete on Efficiency When You Can't Control Price"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/margins, topic/efficiency, topic/unit-economics, topic/operations, topic/pricing, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -49,12 +53,12 @@ A dietitian group faced fixed insurance reimbursement (~$150/hour). Hormozi's co
 - Cost-cutting must not degrade the retention-driving parts of delivery; cut waste, not value.
 - Margin harvesting funds growth; it is a means to reinvest, not an end in itself.
 
-## Related entries
-- [[The Factory Is the Product - Manufacturing as the Moat]]
-- [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
-- [[The Five Advantages of a Perfect Business]]
-- [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
+## Relationships
+- **related:** [[The Factory Is the Product - Manufacturing as the Moat]]
+- **related:** [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
+- **related:** [[The Five Advantages of a Perfect Business]]
+- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
+- **related:** [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.

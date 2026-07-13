@@ -1,5 +1,7 @@
 ---
 title: "The Stockdale Paradox - Confront Reality Without Losing Faith"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/decision-making, topic/risk, topic/leadership, topic/feedback, person/jim-collins, source/good-to-great]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2001"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -52,12 +56,12 @@ Optimism becomes dangerous when it promises a painless timetable or filters out 
 ## Notable examples
 Admiral Jim Stockdale survived eight years as a prisoner of war by never doubting the eventual outcome while refusing comforting predictions about when release would come. Kroger accepted that its old grocery format was becoming obsolete and rebuilt its store system; A&P saw similar evidence, closed an experiment that contradicted its preferences, and kept deteriorating.
 
-## Related entries
-- [[Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
-- [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
-- [[Trust in Radical Truth and Radical Transparency]]
-- [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
-- [[The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
+## Relationships
+- **related:** [[Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
+- **related:** [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **related:** [[Trust in Radical Truth and Radical Transparency]]
+- **related:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **related:** [[The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
 
 ## Source reference
 Jim Collins, *Good to Great*, chapter 4, "Confront the Brutal Facts (Yet Never Lose Faith)" (2001). [[2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript]].

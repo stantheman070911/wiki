@@ -1,5 +1,7 @@
 ---
 title: "Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/sales, topic/pricing, topic/offers, topic/value-equation, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -45,12 +49,12 @@ Hourly and session-based pricing makes buyers compare inputs while penalizing th
 ## Notable examples
 For weight loss, Hormozi maps the difference between current and target weight to realistic loss and maintenance phases, then prices the entire journey. For personal training, he recommends a goal-based three-month package rather than isolated hours, with part of the price returned only if the client follows the process and reaches the agreed result.
 
-## Related entries
-- [[The Value Equation and the Grand Slam Offer]]
-- [[Performance-Based Pricing - When It Works and How Not to Get Cheated]]
-- [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
-- [[Barbell Pricing and the Unscalable Premium Offer]]
-- [[The Aesop Playbook - Ritual Economics, Diagnostic Selling, and Engineering the Second Sale]]
+## Relationships
+- **applies:** [[The Value Equation and the Grand Slam Offer]]
+- **applies:** [[Performance-Based Pricing - When It Works and How Not to Get Cheated]]
+- **applies:** [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
+- **applies:** [[Barbell Pricing and the Unscalable Premium Offer]]
+- **applies:** [[The Aesop Playbook - Ritual Economics, Diagnostic Selling, and Engineering the Second Sale]]
 
 ## Source reference
 Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

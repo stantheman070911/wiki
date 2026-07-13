@@ -1,7 +1,13 @@
 ---
 title: "The Sovereign Individual - Raw Transcript"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "book"
+source_format: "raw-transcript"
+large_source: true
+split_decision: "retained-single-file"
+processing_status: "processed"
 author: "James Dale Davidson and William Rees-Mogg"
 date_archived: "2026-07-13"
 status: "source"

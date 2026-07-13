@@ -1,549 +1,343 @@
 ---
-tags: [meta]
+title: "Topic Index"
+type: "topic-index"
+domain: "meta"
+lang: "en"
+generated_on: "2026-07-13"
+status: "generated"
 ---
 
-# Topic Index (language-neutral)
-
-Cross-language navigation: each topic below lists its entries in **both English and Chinese** together, bridged by shared `topic/` tags. Requires the **Dataview** plugin.
-
-*77 topics currently span both languages.*
-
-## mindset
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/mindset
-SORT lang ASC, file.name ASC
-```
-
-## scaling
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/scaling
-SORT lang ASC, file.name ASC
-```
-
-## positioning
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/positioning
-SORT lang ASC, file.name ASC
-```
-
-## decision-making
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/decision-making
-SORT lang ASC, file.name ASC
-```
-
-## personal-brand
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/personal-brand
-SORT lang ASC, file.name ASC
-```
-
-## business-model
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/business-model
-SORT lang ASC, file.name ASC
-```
-
-## brand
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/brand
-SORT lang ASC, file.name ASC
-```
-
-## content-strategy
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/content-strategy
-SORT lang ASC, file.name ASC
-```
-
-## hiring
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/hiring
-SORT lang ASC, file.name ASC
-```
-
-## pricing
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/pricing
-SORT lang ASC, file.name ASC
-```
-
-## offers
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/offers
-SORT lang ASC, file.name ASC
-```
-
-## leadership
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/leadership
-SORT lang ASC, file.name ASC
-```
-
-## risk
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/risk
-SORT lang ASC, file.name ASC
-```
-
-## operations
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/operations
-SORT lang ASC, file.name ASC
-```
-
-## marketing
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/marketing
-SORT lang ASC, file.name ASC
-```
-
-## ai
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/ai
-SORT lang ASC, file.name ASC
-```
-
-## short-form-video
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/short-form-video
-SORT lang ASC, file.name ASC
-```
-
-## sales
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/sales
-SORT lang ASC, file.name ASC
-```
-
-## retention
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/retention
-SORT lang ASC, file.name ASC
-```
-
-## focus
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/focus
-SORT lang ASC, file.name ASC
-```
-
-## unit-economics
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/unit-economics
-SORT lang ASC, file.name ASC
-```
-
-## capital
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/capital
-SORT lang ASC, file.name ASC
-```
-
-## hooks
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/hooks
-SORT lang ASC, file.name ASC
-```
-
-## growth
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/growth
-SORT lang ASC, file.name ASC
-```
-
-## funnel
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/funnel
-SORT lang ASC, file.name ASC
-```
-
-## franchise
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/franchise
-SORT lang ASC, file.name ASC
-```
-
-## cash-flow
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/cash-flow
-SORT lang ASC, file.name ASC
-```
-
-## product
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/product
-SORT lang ASC, file.name ASC
-```
-
-## partnerships
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/partnerships
-SORT lang ASC, file.name ASC
-```
-
-## niche
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/niche
-SORT lang ASC, file.name ASC
-```
-
-## moat
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/moat
-SORT lang ASC, file.name ASC
-```
-
-## mental-models
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/mental-models
-SORT lang ASC, file.name ASC
-```
-
-## equity
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/equity
-SORT lang ASC, file.name ASC
-```
-
-## org-design
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/org-design
-SORT lang ASC, file.name ASC
-```
-
-## monetization
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/monetization
-SORT lang ASC, file.name ASC
-```
-
-## ltv
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/ltv
-SORT lang ASC, file.name ASC
-```
-
-## identity
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/identity
-SORT lang ASC, file.name ASC
-```
-
-## email-marketing
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/email-marketing
-SORT lang ASC, file.name ASC
-```
-
-## differentiation
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/differentiation
-SORT lang ASC, file.name ASC
-```
-
-## automation
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/automation
-SORT lang ASC, file.name ASC
-```
-
-## theory-of-constraints
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/theory-of-constraints
-SORT lang ASC, file.name ASC
-```
-
-## tam
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/tam
-SORT lang ASC, file.name ASC
-```
-
-## systems
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/systems
-SORT lang ASC, file.name ASC
-```
-
-## referrals
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/referrals
-SORT lang ASC, file.name ASC
-```
-
-## productivity
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/productivity
-SORT lang ASC, file.name ASC
-```
-
-## instagram
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/instagram
-SORT lang ASC, file.name ASC
-```
-
-## execution
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/execution
-SORT lang ASC, file.name ASC
-```
-
-## do-things-that-dont-scale
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/do-things-that-dont-scale
-SORT lang ASC, file.name ASC
-```
-
-## distribution
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/distribution
-SORT lang ASC, file.name ASC
-```
-
-## copywriting
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/copywriting
-SORT lang ASC, file.name ASC
-```
-
-## compensation
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/compensation
-SORT lang ASC, file.name ASC
-```
-
-## commitment
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/commitment
-SORT lang ASC, file.name ASC
-```
-
-## channel-strategy
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/channel-strategy
-SORT lang ASC, file.name ASC
-```
-
-## career
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/career
-SORT lang ASC, file.name ASC
-```
-
-## wealth
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/wealth
-SORT lang ASC, file.name ASC
-```
-
-## upsell
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/upsell
-SORT lang ASC, file.name ASC
-```
-
-## trust
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/trust
-SORT lang ASC, file.name ASC
-```
-
-## simplification
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/simplification
-SORT lang ASC, file.name ASC
-```
-
-## simplicity
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/simplicity
-SORT lang ASC, file.name ASC
-```
-
-## scriptwriting
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/scriptwriting
-SORT lang ASC, file.name ASC
-```
-
-## rule-of-100
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/rule-of-100
-SORT lang ASC, file.name ASC
-```
-
-## recruiting
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/recruiting
-SORT lang ASC, file.name ASC
-```
-
-## narrative
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/narrative
-SORT lang ASC, file.name ASC
-```
-
-## money
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/money
-SORT lang ASC, file.name ASC
-```
-
-## mission
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/mission
-SORT lang ASC, file.name ASC
-```
-
-## market-saturation
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/market-saturation
-SORT lang ASC, file.name ASC
-```
-
-## m-and-a
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/m-and-a
-SORT lang ASC, file.name ASC
-```
-
-## licensing
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/licensing
-SORT lang ASC, file.name ASC
-```
-
-## leverage
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/leverage
-SORT lang ASC, file.name ASC
-```
-
-## ip
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/ip
-SORT lang ASC, file.name ASC
-```
-
-## happiness
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/happiness
-SORT lang ASC, file.name ASC
-```
-
-## efficiency
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/efficiency
-SORT lang ASC, file.name ASC
-```
-
-## diversification
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/diversification
-SORT lang ASC, file.name ASC
-```
-
-## delegation
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/delegation
-SORT lang ASC, file.name ASC
-```
-
-## cta
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/cta
-SORT lang ASC, file.name ASC
-```
-
-## agency-model
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/agency-model
-SORT lang ASC, file.name ASC
-```
-
-## advertising
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", file.folder AS "Where"
-FROM #topic/advertising
-SORT lang ASC, file.name ASC
-```
-
+# Topic Index
+
+This is the complete, generated topic-navigation layer for THE WIKI. Select any tag to open Obsidian's tag results. Do not edit counts or topic lists here; update entry metadata or the governed registry in [[Tags]], then run `node tools/generate-topic-index.mjs`.
+
+## All topics (153)
+
+| Topic | EN | ZH | Total | State |
+|---|---:|---:|---:|---|
+| #topic/advertising | 4 | 1 | 5 | active |
+| #topic/agency-model | 1 | 1 | 2 | active |
+| #topic/ai | 15 | 3 | 18 | active |
+| #topic/automation | 9 | 1 | 10 | active |
+| #topic/avatar | 3 | 0 | 3 | active |
+| #topic/barbell-strategy | 3 | 0 | 3 | active |
+| #topic/believability | 7 | 0 | 7 | active |
+| #topic/brand | 20 | 6 | 26 | active |
+| #topic/business-model | 22 | 9 | 31 | active |
+| #topic/cac | 5 | 0 | 5 | active |
+| #topic/capital | 9 | 5 | 14 | active |
+| #topic/career | 5 | 1 | 6 | active |
+| #topic/cash-flow | 10 | 2 | 12 | active |
+| #topic/chain-store | 0 | 9 | 9 | active |
+| #topic/channel-strategy | 2 | 2 | 4 | active |
+| #topic/churn | 4 | 0 | 4 | active |
+| #topic/commitment | 6 | 2 | 8 | active |
+| #topic/compensation | 5 | 1 | 6 | active |
+| #topic/competition | 5 | 0 | 5 | active |
+| #topic/consistency | 15 | 0 | 15 | active |
+| #topic/content-formats | 4 | 0 | 4 | active |
+| #topic/content-pillars | 2 | 0 | 2 | active |
+| #topic/content-strategy | 20 | 7 | 27 | active |
+| #topic/continuity | 4 | 0 | 4 | active |
+| #topic/copywriting | 6 | 1 | 7 | active |
+| #topic/courage | 3 | 2 | 5 | active |
+| #topic/creative-volume | 3 | 0 | 3 | active |
+| #topic/creativity | 7 | 0 | 7 | active |
+| #topic/cta | 3 | 1 | 4 | active |
+| #topic/culture | 14 | 0 | 14 | active |
+| #topic/decision-making | 61 | 10 | 71 | active |
+| #topic/delegation | 6 | 1 | 7 | active |
+| #topic/differentiation | 10 | 1 | 11 | active |
+| #topic/distribution | 8 | 1 | 9 | active |
+| #topic/diversification | 3 | 1 | 4 | active |
+| #topic/do-things-that-dont-scale | 3 | 1 | 4 | active |
+| #topic/education | 3 | 0 | 3 | active |
+| #topic/efficiency | 3 | 1 | 4 | active |
+| #topic/email-marketing | 2 | 2 | 4 | active |
+| #topic/enterprise | 3 | 0 | 3 | active |
+| #topic/equity | 6 | 3 | 9 | active |
+| #topic/execution | 16 | 2 | 18 | active |
+| #topic/feedback | 23 | 0 | 23 | active |
+| #topic/first-100k | 2 | 0 | 2 | active |
+| #topic/focus | 16 | 4 | 20 | active |
+| #topic/founder-brand | 3 | 2 | 5 | active |
+| #topic/franchise | 2 | 6 | 8 | active |
+| #topic/front-end-offer | 2 | 0 | 2 | active |
+| #topic/frugality | 3 | 0 | 3 | active |
+| #topic/funnel | 9 | 4 | 13 | active |
+| #topic/growth | 9 | 5 | 14 | active |
+| #topic/happiness | 2 | 1 | 3 | active |
+| #topic/hiring | 20 | 6 | 26 | active |
+| #topic/hooks | 8 | 3 | 11 | active |
+| #topic/idea-meritocracy | 5 | 0 | 5 | active |
+| #topic/identity | 21 | 2 | 23 | active |
+| #topic/incentives | 6 | 0 | 6 | active |
+| #topic/influence | 5 | 0 | 5 | active |
+| #topic/influencer-marketing | 0 | 2 | 2 | active |
+| #topic/innovation | 13 | 0 | 13 | active |
+| #topic/inputs-vs-outputs | 4 | 0 | 4 | active |
+| #topic/instagram | 1 | 2 | 3 | active |
+| #topic/ip | 3 | 1 | 4 | active |
+| #topic/leadership | 34 | 7 | 41 | active |
+| #topic/learning | 16 | 0 | 16 | active |
+| #topic/leverage | 3 | 1 | 4 | active |
+| #topic/licensing | 1 | 1 | 2 | active |
+| #topic/local-services | 2 | 0 | 2 | active |
+| #topic/ltv | 6 | 1 | 7 | active |
+| #topic/m-and-a | 3 | 1 | 4 | active |
+| #topic/management | 17 | 2 | 19 | active |
+| #topic/margins | 3 | 0 | 3 | active |
+| #topic/market-leader | 2 | 0 | 2 | active |
+| #topic/market-saturation | 1 | 1 | 2 | active |
+| #topic/marketing | 14 | 3 | 17 | active |
+| #topic/memberships | 5 | 0 | 5 | active |
+| #topic/mental-models | 16 | 2 | 18 | active |
+| #topic/messaging | 3 | 0 | 3 | active |
+| #topic/mindset | 51 | 10 | 61 | active |
+| #topic/mission | 3 | 1 | 4 | active |
+| #topic/moat | 9 | 1 | 10 | active |
+| #topic/monetization | 3 | 2 | 5 | active |
+| #topic/money | 3 | 1 | 4 | active |
+| #topic/money-management | 2 | 0 | 2 | active |
+| #topic/monopoly | 3 | 0 | 3 | active |
+| #topic/multi-unit | 0 | 1 | 1 | active |
+| #topic/narrative | 2 | 1 | 3 | active |
+| #topic/niche | 4 | 2 | 6 | active |
+| #topic/offers | 15 | 2 | 17 | active |
+| #topic/onboarding | 3 | 0 | 3 | active |
+| #topic/operations | 20 | 6 | 26 | active |
+| #topic/operations-manual | 0 | 1 | 1 | active |
+| #topic/opportunity-cost | 3 | 0 | 3 | active |
+| #topic/optionality | 4 | 4 | 8 | active |
+| #topic/org-design | 21 | 2 | 23 | active |
+| #topic/owned-audience | 0 | 2 | 2 | active |
+| #topic/paid-ads | 5 | 0 | 5 | active |
+| #topic/parenting | 0 | 2 | 2 | active |
+| #topic/partnerships | 5 | 3 | 8 | active |
+| #topic/passive-income | 2 | 0 | 2 | active |
+| #topic/patience | 2 | 0 | 2 | active |
+| #topic/persona | 0 | 2 | 2 | active |
+| #topic/personal-brand | 19 | 4 | 23 | active |
+| #topic/persuasion | 15 | 0 | 15 | active |
+| #topic/positioning | 29 | 9 | 38 | active |
+| #topic/power-law | 3 | 0 | 3 | active |
+| #topic/pricing | 18 | 3 | 21 | active |
+| #topic/prioritization | 7 | 0 | 7 | active |
+| #topic/private-domain | 0 | 4 | 4 | active |
+| #topic/product | 12 | 4 | 16 | active |
+| #topic/productivity | 6 | 1 | 7 | active |
+| #topic/proof | 7 | 0 | 7 | active |
+| #topic/qualification | 6 | 0 | 6 | active |
+| #topic/radical-transparency | 2 | 0 | 2 | active |
+| #topic/reach | 3 | 0 | 3 | active |
+| #topic/recruiting | 4 | 1 | 5 | active |
+| #topic/referrals | 2 | 1 | 3 | active |
+| #topic/reps | 5 | 0 | 5 | active |
+| #topic/repurposing | 3 | 0 | 3 | active |
+| #topic/reputation | 5 | 0 | 5 | active |
+| #topic/research | 12 | 5 | 17 | active |
+| #topic/retention | 11 | 1 | 12 | active |
+| #topic/risk | 29 | 5 | 34 | active |
+| #topic/root-cause | 4 | 0 | 4 | active |
+| #topic/rule-of-100 | 1 | 1 | 2 | active |
+| #topic/sales | 20 | 1 | 21 | active |
+| #topic/scaling | 18 | 17 | 35 | active |
+| #topic/scriptwriting | 1 | 1 | 2 | active |
+| #topic/secrets | 3 | 0 | 3 | active |
+| #topic/self-belief | 4 | 0 | 4 | active |
+| #topic/service-business | 2 | 0 | 2 | active |
+| #topic/short-form-video | 8 | 4 | 12 | active |
+| #topic/simplicity | 3 | 1 | 4 | active |
+| #topic/simplification | 2 | 1 | 3 | active |
+| #topic/skill-acquisition | 2 | 0 | 2 | active |
+| #topic/skills | 9 | 0 | 9 | active |
+| #topic/startups | 16 | 0 | 16 | active |
+| #topic/storytelling | 5 | 0 | 5 | active |
+| #topic/supply-and-demand | 3 | 0 | 3 | active |
+| #topic/supply-chain | 0 | 2 | 2 | active |
+| #topic/supply-constraint | 3 | 0 | 3 | active |
+| #topic/systems | 29 | 1 | 30 | active |
+| #topic/tam | 2 | 2 | 4 | active |
+| #topic/theory-of-constraints | 3 | 2 | 5 | active |
+| #topic/tiktok | 0 | 2 | 2 | active |
+| #topic/trust | 8 | 1 | 9 | active |
+| #topic/unit-economics | 5 | 5 | 10 | active |
+| #topic/upsell | 1 | 1 | 2 | active |
+| #topic/value-creation | 6 | 0 | 6 | active |
+| #topic/value-equation | 4 | 0 | 4 | active |
+| #topic/volume | 4 | 0 | 4 | active |
+| #topic/wealth | 10 | 1 | 11 | active |
+| #topic/writing | 3 | 0 | 3 | active |
+
+## Bilingual topics (82)
+
+Topics currently used by at least one English and one Chinese page.
+
+| Topic | EN | ZH | Total | State |
+|---|---:|---:|---:|---|
+| #topic/advertising | 4 | 1 | 5 | active |
+| #topic/agency-model | 1 | 1 | 2 | active |
+| #topic/ai | 15 | 3 | 18 | active |
+| #topic/automation | 9 | 1 | 10 | active |
+| #topic/brand | 20 | 6 | 26 | active |
+| #topic/business-model | 22 | 9 | 31 | active |
+| #topic/capital | 9 | 5 | 14 | active |
+| #topic/career | 5 | 1 | 6 | active |
+| #topic/cash-flow | 10 | 2 | 12 | active |
+| #topic/channel-strategy | 2 | 2 | 4 | active |
+| #topic/commitment | 6 | 2 | 8 | active |
+| #topic/compensation | 5 | 1 | 6 | active |
+| #topic/content-strategy | 20 | 7 | 27 | active |
+| #topic/copywriting | 6 | 1 | 7 | active |
+| #topic/courage | 3 | 2 | 5 | active |
+| #topic/cta | 3 | 1 | 4 | active |
+| #topic/decision-making | 61 | 10 | 71 | active |
+| #topic/delegation | 6 | 1 | 7 | active |
+| #topic/differentiation | 10 | 1 | 11 | active |
+| #topic/distribution | 8 | 1 | 9 | active |
+| #topic/diversification | 3 | 1 | 4 | active |
+| #topic/do-things-that-dont-scale | 3 | 1 | 4 | active |
+| #topic/efficiency | 3 | 1 | 4 | active |
+| #topic/email-marketing | 2 | 2 | 4 | active |
+| #topic/equity | 6 | 3 | 9 | active |
+| #topic/execution | 16 | 2 | 18 | active |
+| #topic/focus | 16 | 4 | 20 | active |
+| #topic/founder-brand | 3 | 2 | 5 | active |
+| #topic/franchise | 2 | 6 | 8 | active |
+| #topic/funnel | 9 | 4 | 13 | active |
+| #topic/growth | 9 | 5 | 14 | active |
+| #topic/happiness | 2 | 1 | 3 | active |
+| #topic/hiring | 20 | 6 | 26 | active |
+| #topic/hooks | 8 | 3 | 11 | active |
+| #topic/identity | 21 | 2 | 23 | active |
+| #topic/instagram | 1 | 2 | 3 | active |
+| #topic/ip | 3 | 1 | 4 | active |
+| #topic/leadership | 34 | 7 | 41 | active |
+| #topic/leverage | 3 | 1 | 4 | active |
+| #topic/licensing | 1 | 1 | 2 | active |
+| #topic/ltv | 6 | 1 | 7 | active |
+| #topic/m-and-a | 3 | 1 | 4 | active |
+| #topic/management | 17 | 2 | 19 | active |
+| #topic/market-saturation | 1 | 1 | 2 | active |
+| #topic/marketing | 14 | 3 | 17 | active |
+| #topic/mental-models | 16 | 2 | 18 | active |
+| #topic/mindset | 51 | 10 | 61 | active |
+| #topic/mission | 3 | 1 | 4 | active |
+| #topic/moat | 9 | 1 | 10 | active |
+| #topic/monetization | 3 | 2 | 5 | active |
+| #topic/money | 3 | 1 | 4 | active |
+| #topic/narrative | 2 | 1 | 3 | active |
+| #topic/niche | 4 | 2 | 6 | active |
+| #topic/offers | 15 | 2 | 17 | active |
+| #topic/operations | 20 | 6 | 26 | active |
+| #topic/optionality | 4 | 4 | 8 | active |
+| #topic/org-design | 21 | 2 | 23 | active |
+| #topic/partnerships | 5 | 3 | 8 | active |
+| #topic/personal-brand | 19 | 4 | 23 | active |
+| #topic/positioning | 29 | 9 | 38 | active |
+| #topic/pricing | 18 | 3 | 21 | active |
+| #topic/product | 12 | 4 | 16 | active |
+| #topic/productivity | 6 | 1 | 7 | active |
+| #topic/recruiting | 4 | 1 | 5 | active |
+| #topic/referrals | 2 | 1 | 3 | active |
+| #topic/research | 12 | 5 | 17 | active |
+| #topic/retention | 11 | 1 | 12 | active |
+| #topic/risk | 29 | 5 | 34 | active |
+| #topic/rule-of-100 | 1 | 1 | 2 | active |
+| #topic/sales | 20 | 1 | 21 | active |
+| #topic/scaling | 18 | 17 | 35 | active |
+| #topic/scriptwriting | 1 | 1 | 2 | active |
+| #topic/short-form-video | 8 | 4 | 12 | active |
+| #topic/simplicity | 3 | 1 | 4 | active |
+| #topic/simplification | 2 | 1 | 3 | active |
+| #topic/systems | 29 | 1 | 30 | active |
+| #topic/tam | 2 | 2 | 4 | active |
+| #topic/theory-of-constraints | 3 | 2 | 5 | active |
+| #topic/trust | 8 | 1 | 9 | active |
+| #topic/unit-economics | 5 | 5 | 10 | active |
+| #topic/upsell | 1 | 1 | 2 | active |
+| #topic/wealth | 10 | 1 | 11 | active |
+
+## Monolingual topics (71)
+
+Topics currently used in one language only. They remain part of the complete taxonomy.
+
+| Topic | EN | ZH | Total | State |
+|---|---:|---:|---:|---|
+| #topic/avatar | 3 | 0 | 3 | active |
+| #topic/barbell-strategy | 3 | 0 | 3 | active |
+| #topic/believability | 7 | 0 | 7 | active |
+| #topic/cac | 5 | 0 | 5 | active |
+| #topic/chain-store | 0 | 9 | 9 | active |
+| #topic/churn | 4 | 0 | 4 | active |
+| #topic/competition | 5 | 0 | 5 | active |
+| #topic/consistency | 15 | 0 | 15 | active |
+| #topic/content-formats | 4 | 0 | 4 | active |
+| #topic/content-pillars | 2 | 0 | 2 | active |
+| #topic/continuity | 4 | 0 | 4 | active |
+| #topic/creative-volume | 3 | 0 | 3 | active |
+| #topic/creativity | 7 | 0 | 7 | active |
+| #topic/culture | 14 | 0 | 14 | active |
+| #topic/education | 3 | 0 | 3 | active |
+| #topic/enterprise | 3 | 0 | 3 | active |
+| #topic/feedback | 23 | 0 | 23 | active |
+| #topic/first-100k | 2 | 0 | 2 | active |
+| #topic/front-end-offer | 2 | 0 | 2 | active |
+| #topic/frugality | 3 | 0 | 3 | active |
+| #topic/idea-meritocracy | 5 | 0 | 5 | active |
+| #topic/incentives | 6 | 0 | 6 | active |
+| #topic/influence | 5 | 0 | 5 | active |
+| #topic/influencer-marketing | 0 | 2 | 2 | active |
+| #topic/innovation | 13 | 0 | 13 | active |
+| #topic/inputs-vs-outputs | 4 | 0 | 4 | active |
+| #topic/learning | 16 | 0 | 16 | active |
+| #topic/local-services | 2 | 0 | 2 | active |
+| #topic/margins | 3 | 0 | 3 | active |
+| #topic/market-leader | 2 | 0 | 2 | active |
+| #topic/memberships | 5 | 0 | 5 | active |
+| #topic/messaging | 3 | 0 | 3 | active |
+| #topic/money-management | 2 | 0 | 2 | active |
+| #topic/monopoly | 3 | 0 | 3 | active |
+| #topic/multi-unit | 0 | 1 | 1 | active |
+| #topic/onboarding | 3 | 0 | 3 | active |
+| #topic/operations-manual | 0 | 1 | 1 | active |
+| #topic/opportunity-cost | 3 | 0 | 3 | active |
+| #topic/owned-audience | 0 | 2 | 2 | active |
+| #topic/paid-ads | 5 | 0 | 5 | active |
+| #topic/parenting | 0 | 2 | 2 | active |
+| #topic/passive-income | 2 | 0 | 2 | active |
+| #topic/patience | 2 | 0 | 2 | active |
+| #topic/persona | 0 | 2 | 2 | active |
+| #topic/persuasion | 15 | 0 | 15 | active |
+| #topic/power-law | 3 | 0 | 3 | active |
+| #topic/prioritization | 7 | 0 | 7 | active |
+| #topic/private-domain | 0 | 4 | 4 | active |
+| #topic/proof | 7 | 0 | 7 | active |
+| #topic/qualification | 6 | 0 | 6 | active |
+| #topic/radical-transparency | 2 | 0 | 2 | active |
+| #topic/reach | 3 | 0 | 3 | active |
+| #topic/reps | 5 | 0 | 5 | active |
+| #topic/repurposing | 3 | 0 | 3 | active |
+| #topic/reputation | 5 | 0 | 5 | active |
+| #topic/root-cause | 4 | 0 | 4 | active |
+| #topic/secrets | 3 | 0 | 3 | active |
+| #topic/self-belief | 4 | 0 | 4 | active |
+| #topic/service-business | 2 | 0 | 2 | active |
+| #topic/skill-acquisition | 2 | 0 | 2 | active |
+| #topic/skills | 9 | 0 | 9 | active |
+| #topic/startups | 16 | 0 | 16 | active |
+| #topic/storytelling | 5 | 0 | 5 | active |
+| #topic/supply-and-demand | 3 | 0 | 3 | active |
+| #topic/supply-chain | 0 | 2 | 2 | active |
+| #topic/supply-constraint | 3 | 0 | 3 | active |
+| #topic/tiktok | 0 | 2 | 2 | active |
+| #topic/value-creation | 6 | 0 | 6 | active |
+| #topic/value-equation | 4 | 0 | 4 | active |
+| #topic/volume | 4 | 0 | 4 | active |
+| #topic/writing | 3 | 0 | 3 | active |
+
+## Deprecated topics (0)
+
+Deprecated topics remain visible for migration and audit purposes but must not be added to new pages.
+
+_None._

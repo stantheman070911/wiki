@@ -1,5 +1,7 @@
 ---
 title: "Organic Startup Ideas - Live in the Future and Notice What Is Missing"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/startups, topic/business-model, topic/research, topic/innovation, topic/niche, person/paul-graham, source/paul-graham-essays]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2005-2025"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -40,10 +44,10 @@ Screen an idea with four questions: **Who urgently needs it? How do we know firs
 ## Notable examples
 Dropbox emerged from Drew Houston's own need; Airbnb from its founders' need for rent; Stripe from programmers' frustration with payments. Stripe's unattractive schlep was also its protection from casual competitors.
 
-## Related entries
-- [[Secrets - How to Find What Everyone Else Has Missed]]
-- [[Finding New Ideas - Work at the Fractal Edge of Knowledge]]
-- [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+## Relationships
+- **applies:** [[Secrets - How to Find What Everyone Else Has Missed]]
+- **applies:** [[Finding New Ideas - Work at the Fractal Edge of Knowledge]]
+- **related:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
 
 ## Source reference
 Paul Graham, “How to Get Startup Ideas,” “Organic Startup Ideas,” “Schlep Blindness,” and “How to Get New Ideas,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

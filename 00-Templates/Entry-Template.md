@@ -1,5 +1,8 @@
 ---
 title: ""
+type: "template"
+template_for: "generic-knowledge"
+domain: ""
 lang: "en"                # en | zh  (one language per entry; pair translations via Related entries)
 tags: []                  # faceted + controlled: topic/… person/… source/…  — reuse from [[Tags]] first
 source:
@@ -9,6 +12,8 @@ source:
   url: ""
   date_of_source: ""      # original publication date, if known
 date_added: ""            # YYYY-MM-DD
+updated: ""               # YYYY-MM-DD
+reviewed_on: ""           # blank for drafts; date for reviewed / evergreen
 status: "draft"           # draft | reviewed | evergreen
 ---
 
@@ -34,9 +39,9 @@ Concrete, actionable steps for using this knowledge. Be specific enough to execu
 ## Notable examples
 Real examples, case studies, or quotes that illustrate the idea.
 
-## Related entries
-- Wikilink to a related entry, e.g. `[[Entry Title]]`
-- Cross-language pair (if this entry exists in the other language): `[[其對應條目]]`
+## Relationships
+- **related:** Wikilink to a relevant entry, e.g. `[[Entry Title]]`
+- **translation:** True cross-language equivalent, e.g. `[[其對應條目]]`
 
 ## Source reference
 Full citation, then a real link to the archived copy — a wikilink for a Markdown note

@@ -1,5 +1,7 @@
 ---
 title: "The Line-Extension Trap - Why One Name Can't Own Two Things"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/positioning, topic/brand, person/ries-trout]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1981"
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -46,13 +50,13 @@ The rule of thumb: use a **new name** for a genuinely new position; use the **ho
 - Scott paper (share of market without share of mind); Protein 21 → 2% after extension; Levi's jeans position undermined by its own casual-wear extension.
 - Johnson's Baby Shampoo — successful *reverse* extension (broadening the base to adults).
 
-## Related entries
-- [[Positioning - Own a Word in the Prospect's Mind]]
-- [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
-- [[Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
-- [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- [[Brand and Product Compounding - Too Good to Fail]]
-- [[The Personal-Brand House - Foundation, Interior, Exterior]]
+## Relationships
+- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
+- **related:** [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **related:** [[Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
+- **related:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **related:** [[Brand and Product Compounding - Too Good to Fail]]
+- **related:** [[The Personal-Brand House - Foundation, Interior, Exterior]]
 
 ## Source reference
 Al Ries & Jack Trout, *Positioning: The Battle for Your Mind*, ch. 11–13. Extraction notes in [[2026-07-08_Book_RiesTrout_Positioning]].

@@ -1,5 +1,7 @@
 ---
 title: "Business Is 80% Mindset - Risk Tolerance and Refusing to Quit"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/risk, person/sabri-suby]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-12"
+updated: "2026-07-12"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -37,11 +41,11 @@ Founders overweight tactics (the "mechanics") and underweight the psychological 
 - Musk going all-in post-PayPal into SpaceX and Tesla, back to sleeping on a couch — cited as the extreme of risk tolerance.
 - Suby losing a $35,000 website deal because a prospect wanted to visit an office he didn't have, then walking into the forest for a "meeting with himself," deciding to build a real business, and taking on the office, fit-out, deposit, and first hires.
 
-## Related entries
-- [[Delayed Gratification - Patience and Inputs vs Outputs]]
-- [[Fear, Regret, and Asymmetric Bets]]
-- [[The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats]]
-- [[Finite vs Infinite Games - Winning by Emptying the Tank]]
+## Relationships
+- **related:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
+- **related:** [[Fear, Regret, and Asymmetric Bets]]
+- **related:** [[The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats]]
+- **related:** [[Finite vs Infinite Games - Winning by Emptying the Tank]]
 
 ## Source reference
 Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #2). Raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].

@@ -1,5 +1,7 @@
 ---
 title: "Distribution Is Destiny - The Sales Channel Power Law"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/distribution, topic/sales, topic/cac, topic/ltv, topic/power-law, person/peter-thiel]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2014"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: "2026-07-13"
 status: "reviewed"
 ---
 
@@ -28,7 +32,9 @@ Engineers and founders systematically underrate sales and distribution because g
 - **You're also always selling your company, not just your product.** To employees ("clamor to join" doesn't happen without deliberate recruiting), to investors ("banging down our door" doesn't happen without pitching), and to media (nerds who mistrust the press and try to ignore it are ignoring a channel that shapes what employees and investors find when they research you). Everybody sells — "if you don't see any salespeople, you're the salesperson."
 
 ## Framework / model (if applicable)
-**Placing a product on the continuum:** plot your price point against the CLV/CAC math to identify which of the five regimes (complex / personal / doldrums / marketing-advertising / viral) actually fits, rather than defaulting to whichever channel is culturally comfortable (engineers default to "build it and let it go viral," which only works for genuinely viral-mechanic products). If the honest placement lands in the "doldrums," that's a signal to either raise the price to justify personal sales or find a viral hook — not to force advertising or personal sales to work anyway.
+### Placing a product on the continuum
+
+plot your price point against the CLV/CAC math to identify which of the five regimes (complex / personal / doldrums / marketing-advertising / viral) actually fits, rather than defaulting to whichever channel is culturally comfortable (engineers default to "build it and let it go viral," which only works for genuinely viral-mechanic products). If the honest placement lands in the "doldrums," that's a signal to either raise the price to justify personal sales or find a viral hook — not to force advertising or personal sales to work anyway.
 
 ## Tactics / how to apply
 - Calculate CAC and CLV explicitly for your actual price point before choosing a distribution strategy — let the math pick the regime, not preference.
@@ -41,12 +47,12 @@ Engineers and founders systematically underrate sales and distribution because g
 - PayPal's early referral program cost $20/customer but produced 7% daily growth (user base nearly doubling every 10 days) — a case where a paid-acquisition cost looked expensive in isolation but was justified by the CLV math and viral compounding together.
 - Better Place's confusing purchase process (Israeli EV startup, $800M raised, ~1,000 cars sold before 2013 bankruptcy) — even excellent underlying technology fails without a legible way to buy it, tying to [[The Seven Questions Every Business Must Answer]]'s distribution question.
 
-## Related entries
-- [[The Power Law of Venture Capital and Careers]]
-- [[The Seven Questions Every Business Must Answer]]
-- [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
-- [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
-- [[The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch]]
+## Relationships
+- **applies:** [[The Power Law of Venture Capital and Careers]]
+- **applies:** [[The Seven Questions Every Business Must Answer]]
+- **applies:** [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
+- **related:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
+- **related:** [[The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch]]
 
 ## Source reference
 Peter Thiel with Blake Masters, *Zero to One*, ch. 11 ("If You Build It, Will They Come?"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.

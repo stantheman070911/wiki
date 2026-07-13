@@ -1,5 +1,7 @@
 ---
 title: "Instagram 0-to-100k - The Three-Level Follower Roadmap"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/instagram, topic/short-form-video, topic/scaling, source/personal-brand-launch]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -48,12 +52,12 @@ Most accounts die in the first level because 0–1k is the hardest, least-reward
 - The creator's own accounts: an established account reached 1k in ~2 weeks; a brand-new account took ~3 months — new accounts are harder to grow early.
 - Typical range to 1k: ~50–100 videos, shorter or longer per person.
 
-## Related entries
-- [[The Personal-Brand House - Foundation, Interior, Exterior]]
-- [[The Seven Factors of a Short - Topic to Editing]]
-- [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
-- [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
-- [[短影音平台戰術與工具箱]]
+## Relationships
+- **applies:** [[The Personal-Brand House - Foundation, Interior, Exterior]]
+- **related:** [[The Seven Factors of a Short - Topic to Editing]]
+- **related:** [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
+- **related:** [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
+- **related:** [[短影音平台戰術與工具箱]]
 
 ## Source reference
 Ava (Personal Brand Launch), *How to Grow an Instagram Account in 2026*. Extraction notes in [[2026-07-08_Video_PersonalBrandLaunch_GrowInstagram2026]].

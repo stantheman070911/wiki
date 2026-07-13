@@ -1,5 +1,7 @@
 ---
 title: "Performance-Based Pricing - When It Works and How Not to Get Cheated"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/pricing, topic/incentives, topic/enterprise, topic/business-model, topic/risk, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -50,12 +54,12 @@ A high-volume cold-email agency ($2.2M) wanted to switch to performance at scale
 - Custom per-client pricing is a last resort; it fits when you have few, high-value customers.
 - Even with enterprises, define attribution windows and reporting up front to avoid disputes.
 
-## Related entries
-- [[The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
-- [[Barbell Pricing and the Unscalable Premium Offer]]
-- [[The Virtuous Cycle of Service Businesses]]
-- [[全代操短影音代理商商業模式]]
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
+## Relationships
+- **related:** [[The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
+- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
+- **related:** [[The Virtuous Cycle of Service Businesses]]
+- **related:** [[全代操短影音代理商商業模式]]
+- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.

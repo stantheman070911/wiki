@@ -1,5 +1,7 @@
 ---
 title: "Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/mission, topic/brand, topic/innovation, topic/consistency, topic/leadership, person/jim-collins, source/good-to-great]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2001"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -52,13 +56,13 @@ The governing question is: *Is this element core ideology, or merely a current e
 ## Notable examples
 Hewlett-Packard preserved technical contribution, respect, and purpose while moving through generations of products. Disney kept creative imagination, attention to detail, and the aim of bringing happiness while expanding from cartoons into films, television, parks, and other formats. Boeing's commercial-jet BHAG worked because large-aircraft capability, attractive economics, and genuine passion had converged.
 
-## Related entries
-- [[Companies as Philanthropy - Purpose and Building for Humanity]]
-- [[Primary Aim and Strategic Objective - Make the Business Serve the Life]]
-- [[Cultivate Meaningful Work and Meaningful Relationships]]
-- [[The Hedgehog Concept - Three Circles and the Economic Denominator]]
-- [[Level 5 Leadership - Humility and Professional Will]]
-- [[Brand and Product Compounding - Too Good to Fail]]
+## Relationships
+- **related:** [[Companies as Philanthropy - Purpose and Building for Humanity]]
+- **applies:** [[Primary Aim and Strategic Objective - Make the Business Serve the Life]]
+- **applies:** [[Cultivate Meaningful Work and Meaningful Relationships]]
+- **related:** [[The Hedgehog Concept - Three Circles and the Economic Denominator]]
+- **applies:** [[Level 5 Leadership - Humility and Professional Will]]
+- **related:** [[Brand and Product Compounding - Too Good to Fail]]
 
 ## Source reference
 Jim Collins, *Good to Great*, chapter 9, "From Good to Great to Built to Last" (2001). [[2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript]].

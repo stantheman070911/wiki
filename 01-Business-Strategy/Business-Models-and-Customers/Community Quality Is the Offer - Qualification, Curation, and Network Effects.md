@@ -1,5 +1,7 @@
 ---
 title: "Community Quality Is the Offer - Qualification, Curation, and Network Effects"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/memberships, topic/retention, topic/continuity, topic/brand, topic/qualification, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,12 +52,12 @@ The community quality cycle:
 ## Notable examples
 Hormozi compares an unqualified community to a party where everyone is admitted: the gathering becomes strange because no boundary defines it. He notes that removing members paying $3,000 per month can still be rational when they damage the “garden” and reduce the value experienced by everyone else.
 
-## Related entries
-- [[The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
-- [[ICP Qualification Through Segmented Churn]]
-- [[Billing-Cycle vs Value-Cycle Alignment]]
-- [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
-- [[The Five Advantages of a Perfect Business]]
+## Relationships
+- **related:** [[The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
+- **related:** [[ICP Qualification Through Segmented Churn]]
+- **related:** [[Billing-Cycle vs Value-Cycle Alignment]]
+- **applies:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **related:** [[The Five Advantages of a Perfect Business]]
 
 ## Source reference
 Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

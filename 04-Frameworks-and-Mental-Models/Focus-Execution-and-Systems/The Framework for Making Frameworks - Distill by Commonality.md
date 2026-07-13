@@ -1,5 +1,7 @@
 ---
 title: "The Framework for Making Frameworks - Distill by Commonality"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mental-models, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -47,11 +51,11 @@ Hormozi is known for framework-ing everything; asked for his method, he gives a 
 - **The Five Horsemen of Retention** — at Gym Launch, Hormozi had industry-average churn; he called ~20 gyms with under 3% monthly churn, each doing 20+ things, and found all 20 shared only five — which became the retention framework.
 - **Discipline as a falsification test** — defining discipline as merely “action” fails because many pleasurable actions require no discipline. A useful definition must distinguish doing what is immediately reinforcing from persisting through unrewarded or aversive action.
 
-## Related entries
-- [[Promise, Proof, Path - Engineering the Video Intro]]
-- [[Content Planner and the Analyze-Double-Down Loop]]
-- [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
-- [[對標方法論與靈感池系統]]
+## Relationships
+- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
+- **related:** [[Content Planner and the Analyze-Double-Down Loop]]
+- **related:** [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
+- **related:** [[對標方法論與靈感池系統]]
 
 ## Source reference
 Alex Hormozi, *Building a brand, but it's on easy mode instead*. Extraction notes in [[2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode]].

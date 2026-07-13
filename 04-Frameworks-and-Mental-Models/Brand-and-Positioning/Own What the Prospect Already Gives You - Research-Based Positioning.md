@@ -1,5 +1,7 @@
 ---
 title: "Own What the Prospect Already Gives You - Research-Based Positioning"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/positioning, topic/research, topic/differentiation, person/ries-trout]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1981"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -45,11 +49,11 @@ Ries and Trout's Long Island Trust and United Jersey bank case studies show a di
 - Long Island Trust: last on branches/services/capital vs. Citibank and Chase, first on "helps Long Island" — built the entire campaign ("Why send your money to the city if you live on the Island?") on that one attribute.
 - United Jersey Bank: "the fast-moving bank" vs. "Lethargic National Bank," backed by seven operational commitments (decentralized lending, cross-training, statewide ATMs, six-times-daily lock-box pickup, central Princeton HQ); unaided awareness nearly tripled and earnings rose 26% in a year.
 
-## Related entries
-- [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
-- [[Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
-- [[Positioning - Own a Word in the Prospect's Mind]]
-- [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
+## Relationships
+- **related:** [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **related:** [[Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
+- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
+- **related:** [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
 
 ## Source reference
 Al Ries & Jack Trout, *Positioning: The Battle for Your Mind*, ch. 19–20 ("Positioning a Long Island Bank," "Positioning a New Jersey Bank"). Full text in [[2026-07-08_Book_RiesTrout_Positioning_FullText]]; extraction notes in [[2026-07-08_Book_RiesTrout_Positioning]].

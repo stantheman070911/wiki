@@ -1,5 +1,7 @@
 ---
 title: "Founder Is the Lid - Who-Not-How and Planning Backward From the Goal"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/leadership, topic/mindset, topic/decision-making, topic/delegation, topic/hiring, person/sabri-suby, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-10"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -30,12 +34,14 @@ Drawn from Suby's account of building his $250M agency over 17 years, including 
 - **Delegate weaknesses instead of endlessly repairing them.** A leader does not need personal mastery of every function; they need enough judgment to define the outcome, select the right owner, and evaluate the result.
 
 ## Framework / model (if applicable)
-**Annual planning, worked backward:**
+### Annual planning, worked backward
 1. **Audit the prior year first** — top-line revenue, bottom-line profit, and the specific inputs that drove both (leads, traffic, conversion rate, customer count).
 2. **Define the future state** — what would the same review need to show in 12 months for you to be genuinely satisfied with the year's progress, using the *same* metrics just audited (not new, vaguer ones)?
 3. **Reverse the timeline** — break the gap between current and target state into quarterly, weekly, and daily requirements. That decomposition *is* the roadmap — not a separate strategy document.
 
-**Who-not-how test:** before attempting to personally solve a capacity bottleneck, ask "who could I hire that would solve this" before "how do I solve this myself" — sourced from the book *Who Not How* and applied as Suby's operating filter once he outgrew being able to personally do 150 cold calls, 5 proposals, and 1 close per day.
+### Who-not-how test
+
+before attempting to personally solve a capacity bottleneck, ask "who could I hire that would solve this" before "how do I solve this myself" — sourced from the book *Who Not How* and applied as Suby's operating filter once he outgrew being able to personally do 150 cold calls, 5 proposals, and 1 close per day.
 
 For each critical outcome, separate the founder’s non-delegable role—mission, standards, key people, and final accountability—from the specialist work that should belong to someone with greater skill and energy for it.
 
@@ -53,11 +59,11 @@ For each critical outcome, separate the founder’s non-delegable role—mission
 - Three years drawing a combined $36,000/year household income while reinvesting agency profit into hiring and office infrastructure, prior to the business scaling past founder-led capacity.
 - A common owner exchange cited as evidence of blind execution: owner says they want to double the business; when asked if they've tried doubling ad spend, the answer is "I've just never thought about it."
 
-## Related entries
-- [[Accountability and the Blame-Power Law]]
-- [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
-- [[The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
-- [[Remember That the WHO Is More Important Than the WHAT]]
+## Relationships
+- **related:** [[Accountability and the Blame-Power Law]]
+- **related:** [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
+- **related:** [[The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
+- **related:** [[Remember That the WHO Is More Important Than the WHAT]]
 
 ## Source reference
 Sabri Suby, "seven truths" business-lessons training video (part of a four-video compilation). Raw transcript and extraction notes archived at [[2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook]].

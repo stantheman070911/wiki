@@ -1,5 +1,7 @@
 ---
 title: "Technology Platforms - How New Protocols and Tools Shift Power"
+type: "research"
+domain: "intelligence-and-research"
 lang: "en"
 tags: [topic/innovation, topic/distribution, topic/moat, topic/product, topic/ai, topic/writing, person/paul-graham, person/james-dale-davidson, person/william-rees-mogg, source/paul-graham-essays, source/the-sovereign-individual]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2001-2026"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -42,12 +46,12 @@ For an emerging technology, ask: **What became radically cheaper? What can a sma
 ## Notable examples
 Twitter behaved like a new recipient-unspecified messaging protocol; web applications made server-based continuous delivery possible; open source weakened proprietary server monopolies; early personal computers looked like hobbyist toys to established hardware companies.
 
-## Related entries
-- [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
-- [[Man and Machine - Why Computers Complement Humans Instead of Replacing Them]]
-- [[The Factory Is the Product - Manufacturing as the Moat]]
-- [[Megapolitics - How Technology Changes the Returns to Violence]]
-- [[The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
+## Relationships
+- **example:** [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
+- **example:** [[Man and Machine - Why Computers Complement Humans Instead of Replacing Them]]
+- **example:** [[The Factory Is the Product - Manufacturing as the Moat]]
+- **example:** [[Megapolitics - How Technology Changes the Returns to Violence]]
+- **example:** [[The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
 
 ## Source reference
 Paul Graham, “Why Twitter is a Big Deal,” “The Other Road Ahead,” “What Business Can Learn from Open Source,” “The Hardware Renaissance,” “The Power of the Marginal,” and “Writes and Write-Nots,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

@@ -1,5 +1,7 @@
 ---
 title: "Perceive and Don't Tolerate Problems"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/management, topic/culture, topic/feedback, topic/operations, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -39,11 +43,11 @@ Eleventh chapter of Work Principles, and the first of the four-chapter run (perc
 ## Notable examples
 - The Client Service Department's quality slippage (memos going out with sloppy errors) after Dalio stepped back from direct oversight is this chapter's running example of Frog-in-Boiling-Water normalization — nobody had dramatically lowered the bar, it drifted down gradually while attention was elsewhere.
 
-## Related entries
-- [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
-- [[Diagnose Problems to Get at Their Root Causes]]
-- [[Manage as Someone Operating a Machine to Achieve a Goal]]
-- [[Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
+## Relationships
+- **applies:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **related:** [[Diagnose Problems to Get at Their Root Causes]]
+- **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
+- **applies:** [[Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 11 ("Perceive and Don't Tolerate Problems"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

@@ -1,5 +1,7 @@
 ---
 title: "The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mental-models, topic/management, topic/leadership, topic/org-design, topic/business-model, person/michael-gerber, source/e-myth-revisited]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1995"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -47,12 +51,12 @@ The roles should form a loop: vision sets direction, management builds the envir
 ## Notable examples
 Gerber’s running example is Sarah, an excellent pie baker whose love of the craft becomes exhaustion after she opens a shop. Customers are buying Sarah’s personal performance rather than the shop’s reliable capability, so her supposed business is a job that cannot function without her.
 
-## Related entries
-- [[The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
-- [[The Franchise Prototype - Build the Business as the Product]]
-- [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
-- [[You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
-- [[Manage as Someone Operating a Machine to Achieve a Goal]]
+## Relationships
+- **related:** [[The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
+- **related:** [[The Franchise Prototype - Build the Business as the Product]]
+- **related:** [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **related:** [[You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
+- **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
 
 ## Source reference
 Michael E. Gerber, *The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It*, chapters 1–3 and 6. Archived transcript: [[2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript]].

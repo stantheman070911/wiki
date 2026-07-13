@@ -1,5 +1,7 @@
 ---
 title: "The Value Equation and the Grand Slam Offer"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/offers, topic/value-equation, topic/pricing, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2021"
 date_added: "2026-07-08"
+updated: "2026-07-13"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -30,7 +34,7 @@ Hormozi's core thesis for escaping commoditized, price-competitive markets: most
 - **Feature bloat can quietly erode margin without moving retention.** Amenities or add-ons added to strengthen the value equation only help retention if members actually use them; unused features are pure cost with no retention return, so usage data — not intuition — should decide what stays in the offer.
 
 ## Framework / model (if applicable)
-**The Value Equation:**
+### The Value Equation
 ```
 Value = (Dream Outcome × Perceived Likelihood of Achievement) / (Time Delay × Effort & Sacrifice)
 ```
@@ -43,20 +47,22 @@ Value = (Dream Outcome × Perceived Likelihood of Achievement) / (Time Delay × 
 
 Beginners tend to inflate the numerator with bigger claims; the harder, more defensible move is compressing the denominator — making results feel immediate and effortless (Amazon vs. a slower competitor; a pill vs. meditation).
 
-**Building the offer, four steps:**
+### Building the offer, four steps
 1. Define the dream outcome the buyer ultimately wants.
 2. List every problem/obstacle standing between the buyer and that outcome — every unresolved objection is a lost sale.
 3. Convert each problem into a specific delivery vehicle (course, checklist, done-for-you service, tool, community).
 4. Trim and stack: remove high-cost/low-perceived-value solutions, keep high-value/low-cost ones, and bundle the remainder into a single named package. Guiding test: *"What could you do that someone would immediately say, 'All that? Seriously? Yes, I'm in.'"*
 
-**Enhancing the offer — four psychological layers stacked on top of the core:**
+### Enhancing the offer — four psychological layers stacked on top of the core
 - **Scarcity** — limit by client count, cohort size, or access tier; when demand rises, cut supply rather than expand it (manufactured scarcity destroys credibility; real scarcity works).
 - **Urgency** — external deadlines tied to real events (price increases, expiring bonuses); the final hours of a campaign can account for 50–60% of total sales.
 - **Bonuses** — never discount the core offer; add named bonuses instead. The same content broken into stacked, named parts is perceived as more valuable than the identical content presented as one lump sum.
 - **Guarantees** — the single highest-leverage conversion tool. Types: *unconditional* (money-back, best for low-ticket B2C), *conditional* (keep working for free until the result is achieved — Hormozi's personal favorite), *performance-based* (pay only on results), *anti-guarantee* ("all sales final" — for high-ticket offers where buyers who need a guarantee are the wrong clients anyway). Stacking two guarantees (e.g., 30-day unconditional + 90-day conditional triple-money-back) compounds perceived safety.
 - **Damaging admissions** — proactively naming an offer's real limitations or downsides before the prospect discovers them independently. Counterintuitively, admitting a genuine weakness up front increases trust and perceived honesty enough to raise overall conversion, rather than hiding the weakness and risking it surfacing later as a reason to distrust the whole offer.
 
-**Naming — the MAGIC formula:** **M**agnetic reason (why now), **A**vatar (who it's for), **G**oal (the dream outcome), **I**nterval (the timeframe), **C**ontainer (program type — Blueprint, System, Masterclass). Example: *"5 Clients in 5 Days Blueprint."*
+### Naming — the MAGIC formula
+
+**M**agnetic reason (why now), **A**vatar (who it's for), **G**oal (the dream outcome), **I**nterval (the timeframe), **C**ontainer (program type — Blueprint, System, Masterclass). Example: *"5 Clients in 5 Days Blueprint."*
 
 ## Tactics / how to apply
 - Before touching price, verify the market itself scores high on pain, purchasing power, targetability, and growth — a weak market will sink even a perfectly engineered offer.
@@ -73,13 +79,13 @@ Beginners tend to inflate the numerator with bigger claims; the harder, more def
 - A travel-hedging business (Joel) used damaging admissions as a core sales tactic — openly naming the scenarios where the hedge product would *not* pay out before the prospect could raise it as an objection, which increased perceived honesty and converted better than omitting the limitation.
 - A Planet Fitness case illustrated both the "reason to buy vs. reason to stay" split and the feature-bloat caution: the low $10/month price is what gets people in the door, but retention correlates more with a recurring social ritual like "pizza night" than with the price itself; meanwhile, amenities added to the club only justify their cost if usage data shows members actually engage with them — unused amenities quietly erode margin without improving retention. A relationship-coaching business (Kyle & Ariel) hit the same feature-bloat pattern from the deliverables side, having added program components members rarely used.
 
-## Related entries
-- [[情緒價值與功能性價值：跳脫價格戰的定位框架]]
-- [[Barbell Pricing and the Unscalable Premium Offer]]
-- [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
-- [[The Money Model - Sequencing Offers to Fund Growth]]
-- [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
-- [[The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]]
+## Relationships
+- **related:** [[情緒價值與功能性價值：跳脫價格戰的定位框架]]
+- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
+- **related:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
+- **related:** [[The Money Model - Sequencing Offers to Fund Growth]]
+- **related:** [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
+- **related:** [[The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]]
 
 ## Source reference
-Alex Hormozi, *$100M Offers* (2021). Extraction notes in `_Inbox/$100M series — Alex Hormozi.md` (processed; source condensed and archived per WIKI workflow). Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
+Alex Hormozi, *$100M Offers* (2021). Archived extraction: [[2026-07-08_Book_AlexHormozi_100MSeriesSummary]]. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].

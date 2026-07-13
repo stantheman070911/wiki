@@ -1,5 +1,7 @@
 ---
 title: "The Power Law of Venture Capital and Careers"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/power-law, topic/risk, topic/capital, topic/decision-making, topic/startups, person/peter-thiel, person/paul-graham, person/daniel-priestley, source/paul-graham-essays, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2014"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: "2026-07-13"
 status: "reviewed"
 ---
 
@@ -32,9 +36,13 @@ Named after Vilfredo Pareto's 1906 observation that 20% of Italy's landowners he
 - **A person can define a narrower power-law game, then expand.** Combining a specific customer, context, and outcome can create a category small enough to become genuinely top-tier; after authority and proof compound, pivot into a broader adjacent market rather than competing as an average generalist from day one.
 
 ## Framework / model (if applicable)
-**The J-curve mental model:** in the early years of a fund (or a career, or a company's channel-testing phase), winners and losers look similar — differences are visible but not yet exponential. Only years later does the portfolio split cleanly into "one dominant outcome" and "everything else." Don't mistake the early flat-looking period for evidence that the power law isn't operating; it's operating, it just hasn't become visible yet.
+### The J-curve mental model
 
-**Applying it to your own decisions:** ask which one thing (market, skill, relationship, channel) is most likely to be the outlier that dwarfs everything else you could pursue in parallel — then commit disproportionate time/capital to that one thing rather than spreading effort evenly across several "pretty good" options, which is the individual-level version of "spray and pray."
+in the early years of a fund (or a career, or a company's channel-testing phase), winners and losers look similar — differences are visible but not yet exponential. Only years later does the portfolio split cleanly into "one dominant outcome" and "everything else." Don't mistake the early flat-looking period for evidence that the power law isn't operating; it's operating, it just hasn't become visible yet.
+
+### Applying it to your own decisions
+
+ask which one thing (market, skill, relationship, channel) is most likely to be the outlier that dwarfs everything else you could pursue in parallel — then commit disproportionate time/capital to that one thing rather than spreading effort evenly across several "pretty good" options, which is the individual-level version of "spray and pray."
 
 ## Tactics / how to apply
 - When evaluating any investment, hiring decision, or personal bet, ask explicitly: "if this is the best-case outcome, does it dwarf everything else I'm doing, or just add a modest amount to it?" If the answer is the latter, it's probably not worth the concentration of attention a power-law bet requires.
@@ -48,11 +56,11 @@ Named after Vilfredo Pareto's 1906 observation that 20% of Italy's landowners he
 - Less than 1% of new US businesses each year receive venture funding, and total VC investment is <0.2% of GDP — yet venture-backed companies create 11% of private-sector jobs and revenue equal to ~21% of GDP, with the 12 largest venture-backed tech companies worth more than $2 trillion combined, more than all other tech companies combined.
 - Owning 0.01% of Google was worth more than $35M at time of writing — illustrating why joining the right company at a small ownership stake can beat founding a smaller, riskier one at 100% ownership.
 
-## Related entries
-- [[Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
-- [[Distribution Is Destiny - The Sales Channel Power Law]]
-- [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
-- [[Fear, Regret, and Asymmetric Bets]]
+## Relationships
+- **related:** [[Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
+- **related:** [[Distribution Is Destiny - The Sales Channel Power Law]]
+- **related:** [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
+- **related:** [[Fear, Regret, and Asymmetric Bets]]
 
 ## Source reference
 Peter Thiel with Blake Masters, *Zero to One*, ch. 7 ("Follow the Money"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.

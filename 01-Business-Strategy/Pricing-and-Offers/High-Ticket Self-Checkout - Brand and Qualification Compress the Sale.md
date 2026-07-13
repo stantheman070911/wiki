@@ -1,5 +1,7 @@
 ---
 title: "High-Ticket Self-Checkout - Brand and Qualification Compress the Sale"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/pricing, topic/sales, topic/funnel, topic/brand, topic/qualification, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -46,12 +50,12 @@ High qualification + low relative price + strong trust favors self-checkout. Low
 ## Notable examples
 Hormozi points to six-figure cars bought online as a counterexample to the claim that every offer over $3,000 needs a salesperson. His own large launch also used no conventional sales team: brand and a sufficiently complete offer allowed buyers to decide directly.
 
-## Related entries
-- [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- [[The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
-- [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- [[The Value Equation and the Grand Slam Offer]]
-- [[Sales Systems as Intellectual Property - Process Above the Player]]
+## Relationships
+- **related:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **related:** [[The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
+- **applies:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **related:** [[The Value Equation and the Grand Slam Offer]]
+- **related:** [[Sales Systems as Intellectual Property - Process Above the Player]]
 
 ## Source reference
 Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

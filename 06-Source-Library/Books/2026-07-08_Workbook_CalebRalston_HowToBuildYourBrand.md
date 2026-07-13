@@ -1,7 +1,11 @@
 ---
 title: "How To Build Your Brand"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "workbook"
+source_format: "source-note"
+processing_status: "processed"
 author: "Caleb Ralston"
 date_archived: "2026-07-08"
 status: "source"
@@ -46,3 +50,8 @@ An action-oriented workbook of eleven chapters split into two halves: brand/cont
 ## Caveats
 - A lead magnet for a paid/free course; light on depth, heavy on worksheets. The frameworks (Waterfall, 3-part story, hiring funnel) are the durable value.
 - Much of the brand-definition and storytelling material restates concepts already in the vault; processing is limited to the genuinely additive frameworks.
+
+
+## Archived attachment
+
+- [2026-07-08_Workbook_CalebRalston_HowToBuildYourBrand.txt](<2026-07-08_Workbook_CalebRalston_HowToBuildYourBrand.txt>)

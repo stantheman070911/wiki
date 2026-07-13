@@ -1,5 +1,7 @@
 ---
 title: "The Pre-Mortem - Imagine Failure Before It Happens"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/decision-making, topic/risk, topic/root-cause, topic/prioritization, topic/feedback, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2023"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -47,11 +51,11 @@ Run a five-step pre-mortem:
 ## Notable examples
 Bartlett’s team spent a year preparing a podcast network. Immediately before the irreversible hiring decision, imagining why it would fail surfaced talent dilution, host dependence, economic risk, and loss of focus. The team stopped the project and concentrated on the existing podcast, which then grew rapidly.
 
-## Related entries
-- [[The Seven Questions Every Business Must Answer]]
-- [[The Stockdale Paradox - Confront Reality Without Losing Faith]]
-- [[Fear, Regret, and Asymmetric Bets]]
-- [[Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
+## Relationships
+- **related:** [[The Seven Questions Every Business Must Answer]]
+- **related:** [[The Stockdale Paradox - Confront Reality Without Losing Faith]]
+- **related:** [[Fear, Regret, and Asymmetric Bets]]
+- **related:** [[Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
 
 ## Source reference
 Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 25. Raw transcript archived in [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].

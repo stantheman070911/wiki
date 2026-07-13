@@ -1,5 +1,9 @@
 ---
 title: "Creator Vision Framework: What x Who x Why"
+aliases:
+  - "Creator Vision Framework: What x Who x Why"
+type: "strategy"
+domain: "social-media-strategy"
 lang: "en"
 tags: [topic/personal-brand, topic/positioning, topic/storytelling, topic/content-pillars, topic/avatar]
 source:
@@ -9,6 +13,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-02"
+updated: "2026-07-13"
+reviewed_on: "2026-07-13"
 status: "reviewed"
 ---
 
@@ -17,6 +23,11 @@ status: "reviewed"
 ## One-line summary
 Your personal brand sits at the intersection of What (message and content pillars), Who (target avatar), and Why (your story) — "become the niche" instead of niching down to one topic.
 
+
+
+## Context
+
+This page organizes **Creator Vision Framework: What x Who x Why** as a reusable strategy; the sections below preserve its original framework, steps, and examples.
 ## Core thesis
 A personal brand is simply how the world views you — the modern equivalent of a reputation that earns trust and attracts opportunity. Content creation is treated as a science and a learnable skill, not spontaneous creativity: the best creators reuse identifiable patterns rather than reinventing the wheel.
 
@@ -61,11 +72,11 @@ This is structurally the same pattern as 陳修平's story script formula (成�
 - Before publishing a new content series, check it against your four pillars (skill/mindset/lifestyle/passions) — if everything you post is only "skill," you're likely under-using the other three for connection-building.
 - When writing a hook, replace any generic pain statement with the most specific psychographic version you can — name the exact person and exact pain.
 
-## Related entries
-- [[個人品牌與IP打造框架]]
-- [[受眾定位與先小後大法則]]
-- [[短影音文案全公式：標題、開頭、結尾與腳本結構]]（3P 故事框架與陳修平的說故事腳本公式是同一種結構）
-- [[Content Planner and the Analyze-Double-Down Loop]]
+## Relationships
+- **related:** [[個人品牌與IP打造框架]]
+- **related:** [[受眾定位與先小後大法則]]
+- **related:** [[短影音文案全公式：標題、開頭、結尾與腳本結構]]（3P 故事框架與陳修平的說故事腳本公式是同一種結構）
+- **related:** [[Content Planner and the Analyze-Double-Down Loop]]
 
 ## Source reference
 "Building a Personal Brand in 2026" (video transcript). Full notes archived at [[2026-07-02_Video_BuildingAPersonalBrandIn2026]].

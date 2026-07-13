@@ -1,7 +1,11 @@
 ---
 title: "The Diary of a CEO - The 33 Laws of Business and Life"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "book"
+source_format: "raw-transcript"
+processing_status: "processed"
 author: "Steven Bartlett"
 date_archived: "2026-07-13"
 status: "source"

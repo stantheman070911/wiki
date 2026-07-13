@@ -1,5 +1,7 @@
 ---
 title: "Don't Follow Competitors Down - The $50M Price-Cut Lesson"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/competition, topic/pricing, topic/market-leader, topic/positioning, topic/moat, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -50,12 +54,12 @@ A motocross-training founder feared a copycat replicating his low-margin single-
 - Focusing on the customer still requires real differentiation (see [[Decommoditize Before You Discount - Make the Difference Obvious]]).
 - A legitimate quality-vs-quantity stance must be backed by actual quality, not slogans.
 
-## Related entries
-- [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
-- [[Barbell Pricing and the Unscalable Premium Offer]]
-- [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- [[Brand and Product Compounding - Too Good to Fail]]
+## Relationships
+- **related:** [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
+- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
+- **applies:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **related:** [[Brand and Product Compounding - Too Good to Fail]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.

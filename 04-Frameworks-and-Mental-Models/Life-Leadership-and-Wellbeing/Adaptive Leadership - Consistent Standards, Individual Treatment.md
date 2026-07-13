@@ -1,5 +1,7 @@
 ---
 title: "Adaptive Leadership - Consistent Standards, Individual Treatment"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/leadership, topic/management, topic/feedback, topic/identity, topic/org-design, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2023"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -49,11 +53,11 @@ Use an **Individual Motivation Map** for each direct report:
 ## Notable examples
 Sir Alex Ferguson’s former players described sharply different treatment: some received direct pressure, others reassurance or a personal reminder tied to family and identity. The common thread was not a fixed style but detailed knowledge of each person and an unwavering team standard.
 
-## Related entries
-- [[Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
-- [[Constantly Train, Test, Evaluate, and Sort People]]
-- [[Soft Skills Are Observable Behavior Chains]]
-- [[Level 5 Leadership - Humility and Professional Will]]
+## Relationships
+- **related:** [[Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
+- **related:** [[Constantly Train, Test, Evaluate, and Sort People]]
+- **related:** [[Soft Skills Are Observable Behavior Chains]]
+- **related:** [[Level 5 Leadership - Humility and Professional Will]]
 
 ## Source reference
 Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 32. Raw transcript archived in [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].

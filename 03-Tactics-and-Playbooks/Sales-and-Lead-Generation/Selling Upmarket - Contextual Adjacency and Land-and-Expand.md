@@ -1,5 +1,7 @@
 ---
 title: "Selling Upmarket - Contextual Adjacency and Land-and-Expand"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/sales, topic/positioning, topic/trust, topic/enterprise, topic/partnerships, topic/proof, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,11 +52,11 @@ Use **Land and Expand**:
 ## Notable examples
 A property-sourcing adviser repositioned exclusively for senior leaders at major accounting firms, replaced generic testimonials with segment-specific proof, and required a multi-year acquisition journey. Relevance and commitment increased together.
 
-## Related entries
-- [[Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
-- [[Centers of Influence - Selling Through Trusted Referrers]]
-- [[High-Ticket Self-Checkout - Brand and Qualification Compress the Sale]]
-- [[Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
+## Relationships
+- **related:** [[Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
+- **applies:** [[Centers of Influence - Selling Through Trusted Referrers]]
+- **applies:** [[High-Ticket Self-Checkout - Brand and Qualification Compress the Sale]]
+- **applies:** [[Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
 
 ## Source reference
 Daniel Priestley, *How to Sell to Rich People*. Raw transcript in [[2026-07-13_Video_DanielPriestley_HowToSellToRichPeople_RawTranscript]].

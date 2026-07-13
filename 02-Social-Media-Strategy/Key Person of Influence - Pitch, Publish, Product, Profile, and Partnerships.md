@@ -1,5 +1,7 @@
 ---
 title: "Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships"
+type: "strategy"
+domain: "social-media-strategy"
 lang: "en"
 tags: [topic/personal-brand, topic/positioning, topic/content-strategy, topic/product, topic/partnerships, topic/influence, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,11 +52,11 @@ Audit the **Five Ps**:
 ## Notable examples
 Priestley contrasts a worker who repeatedly changes industries to chase visible winners with one who stays in a valued field and develops the five leverage skills. The first repeatedly returns to beginner status; the second moves toward the power-law edge of the same field.
 
-## Related entries
-- [[Levels of a Personal Brand and the Five Archetypes]]
-- [[The Personal-Brand House - Foundation, Interior, Exterior]]
-- [[From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify]]
-- [[The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid]]
+## Relationships
+- **related:** [[Levels of a Personal Brand and the Five Archetypes]]
+- **related:** [[The Personal-Brand House - Foundation, Interior, Exterior]]
+- **related:** [[From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify]]
+- **related:** [[The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid]]
 
 ## Source reference
 Daniel Priestley, *Five Ps of a Key Person of Influence*. Raw transcript in [[2026-07-13_Video_DanielPriestley_FivePsOfKeyPersonOfInfluence_RawTranscript]].

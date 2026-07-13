@@ -1,7 +1,11 @@
 ---
 title: "How to Sell to Rich People - Raw Transcript"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "video"
+source_format: "raw-transcript"
+processing_status: "processed"
 author: "Daniel Priestley"
 date_archived: "2026-07-13"
 status: "source"

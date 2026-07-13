@@ -1,5 +1,7 @@
 ---
 title: "Monopoly vs. Competition - Why All Happy Companies Are Different"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/monopoly, topic/competition, topic/positioning, topic/differentiation, person/peter-thiel]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2014"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: "2026-07-13"
 status: "reviewed"
 ---
 
@@ -28,11 +32,13 @@ Thiel inverts the common belief that competition is healthy and monopoly is bad.
 - **Monopoly is dynamic, not a static rent.** In a static world (Monopoly the board game) a monopolist just collects rent; in the real, dynamic world, a creative monopolist adds a genuinely new category of abundance (the iPhone), and the threat of future competition is exactly what keeps old monopolies innovating and eventually getting replaced by better ones (IBM → Microsoft → Apple/iOS).
 
 ## Framework / model (if applicable)
-**The two truth-tests for "am I in a monopoly or a commodity business?":**
+### The two truth-tests for "am I in a monopoly or a commodity business?"
 1. *Union test* — if you had to describe your market as the union of several broad categories to sound competitive, you may actually be a near-monopoly hiding from scrutiny.
 2. *Intersection test* — if you had to describe your market as the intersection of several narrow categories to sound differentiated, you're probably in a competitive commodity market and the differentiation is trivial (a "unique" family recipe doesn't change that you're one of many restaurants).
 
-**Fight-or-merge rule:** in real rivalries, there's no productive middle ground — either avoid the fight entirely (best), merge with the rival (PayPal/X.com, 2000, when Thiel and Musk realized the dot-com crash threatened them both more than each other did), or fight decisively and end it fast. Prolonged, prideful rivalry (Oracle's Larry Ellison vs. Siebel Systems' Tom Siebel; the online pet-store wars) burns resources on the fight itself and blinds both sides to whether the market was even worth winning.
+### Fight-or-merge rule
+
+in real rivalries, there's no productive middle ground — either avoid the fight entirely (best), merge with the rival (PayPal/X.com, 2000, when Thiel and Musk realized the dot-com crash threatened them both more than each other did), or fight decisively and end it fast. Prolonged, prideful rivalry (Oracle's Larry Ellison vs. Siebel Systems' Tom Siebel; the online pet-store wars) burns resources on the fight itself and blinds both sides to whether the market was even worth winning.
 
 ## Tactics / how to apply
 - Before calling a market "ours," write both the union story and the intersection story for it — if the honest answer is closer to the intersection story, treat that as a warning about margins, not a differentiation win.
@@ -45,12 +51,12 @@ Thiel inverts the common belief that competition is healthy and monopoly is bad.
 - Pets.com vs. PetStore.com vs. Petopia.com: intense rivalry over tactics (who could price dog toys most aggressively, who had the best Super Bowl ad) while nobody asked if the online pet-supply market was worth being in at all — $300M evaporated when Pets.com folded.
 - Bernard Loiseau, a three-Michelin-star chef, killed himself in 2003 after a rival guide downgraded his restaurant — an extreme illustration of what a purely competitive, no-margin-for-error ecosystem does to the people inside it.
 
-## Related entries
-- [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
-- [[The Seven Questions Every Business Must Answer]]
-- [[Distribution Beats Product - The Best-Known Wins, Not the Best]]
-- [[Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
-- [[The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
+## Relationships
+- **related:** [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
+- **related:** [[The Seven Questions Every Business Must Answer]]
+- **related:** [[Distribution Beats Product - The Best-Known Wins, Not the Best]]
+- **related:** [[Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
+- **applies:** [[The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
 
 ## Source reference
 Peter Thiel with Blake Masters, *Zero to One*, ch. 3 ("All Happy Companies Are Different") and ch. 4 ("The Ideology of Competition"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.

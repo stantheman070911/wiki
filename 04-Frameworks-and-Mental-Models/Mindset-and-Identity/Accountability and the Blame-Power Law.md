@@ -1,5 +1,7 @@
 ---
 title: "Accountability and the Blame-Power Law"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/business-model, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -36,11 +40,11 @@ Hormozi frames accountability as the concrete foundation beneath every other ski
 - Hormozi, 19, wrote a college essay from his mother's perspective; reframing her hardship dissolved years of blame and, by extension, the excuses he'd attached to his own relationships.
 - A woman at a conference listed "six reasons this won't work for my business"; told "you're right, it never will," she immediately fought back with why it *would* — the extreme exposes the frame.
 
-## Related entries
-- [[Reframing Trauma and Labels - Logic, Evidence, Utility]]
-- [[Hardship as Origin Story - Heroes Use Pain]]
-- [[The First 100k - Defense-Before-Offense Playbook]]
-- [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+## Relationships
+- **related:** [[Reframing Trauma and Labels - Logic, Evidence, Utility]]
+- **related:** [[Hardship as Origin Story - Heroes Use Pain]]
+- **related:** [[The First 100k - Defense-Before-Offense Playbook]]
+- **related:** [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].

@@ -1,5 +1,7 @@
 ---
 title: "Design Improvements to Your Machine to Get Around Your Problems"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/systems, topic/management, topic/org-design, topic/operations, person/ray-dalio, source/bridgewater-associates, person/michael-gerber, source/e-myth-revisited]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -37,7 +41,9 @@ Thirteenth chapter of Work Principles, the design step of the perceive → diagn
 - **Almost everything takes about 1.5x longer and costs about 1.5x more than expected** — build that multiplier into planning as a default, not an exception.
 
 ## Framework / model (if applicable)
-**The plan as a movie script.** Rather than a static org chart or a bullet-point plan, visualize the specific sequence of who does what, in what order, through time — this surfaces gaps (missing owners, unclear handoffs) that a static document hides.
+### The plan as a movie script
+
+Rather than a static org chart or a bullet-point plan, visualize the specific sequence of who does what, in what order, through time — this surfaces gaps (missing owners, unclear handoffs) that a static document hides.
 
 ## Tactics / how to apply
 - Before finalizing a fix to a recurring problem, ask whether you're solving the immediate case or systemizing the fix — the latter costs more upfront but compounds.
@@ -51,13 +57,13 @@ Thirteenth chapter of Work Principles, the design step of the perceive → diagn
 ## Notable examples
 - The Client Service Department redesign (David McCormick's reforms, following the diagnosis in the previous chapter) and the resulting biannual "Quality Day" peer-review meetings are the concrete design output of this running case study.
 
-## Related entries
-- [[Diagnose Problems to Get at Their Root Causes]]
-- [[Manage as Someone Operating a Machine to Achieve a Goal]]
-- [[Use Tools and Protocols to Shape How Work Is Done]]
-- [[Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
-- [[The Franchise Prototype - Build the Business as the Product]]
-- [[The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
+## Relationships
+- **related:** [[Diagnose Problems to Get at Their Root Causes]]
+- **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
+- **related:** [[Use Tools and Protocols to Shape How Work Is Done]]
+- **related:** [[Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
+- **applies:** [[The Franchise Prototype - Build the Business as the Product]]
+- **applies:** [[The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 13 ("Design Improvements to Your Machine to Get Around Your Problems"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

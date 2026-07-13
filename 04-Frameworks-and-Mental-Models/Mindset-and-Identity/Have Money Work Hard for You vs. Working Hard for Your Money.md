@@ -1,5 +1,7 @@
 ---
 title: "Have Money Work Hard for You vs. Working Hard for Your Money"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/passive-income, topic/wealth, topic/mindset, person/t-harv-eker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -36,10 +40,10 @@ Wealth File #15. Eker's blunt observation: billions of people work extremely har
 ## Notable examples
 - Eker's in-laws saved modestly from a low-margin variety store for 25 years and retired comfortably on the accumulated capital; his own parents bought $60,000 of land that a developer later purchased for $600,000 — in both cases, the passive/appreciating asset outperformed decades of the family's working income.
 
-## Related entries
-- [[Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
-- [[The 6 Jars Money Management System]]
-- [[Manage Your Money Well - The Habit Matters More Than the Amount]]
+## Relationships
+- **related:** [[Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
+- **related:** [[The 6 Jars Money Management System]]
+- **related:** [[Manage Your Money Well - The Habit Matters More Than the Amount]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #15. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

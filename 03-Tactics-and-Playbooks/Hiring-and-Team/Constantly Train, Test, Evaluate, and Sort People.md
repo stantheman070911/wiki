@@ -1,5 +1,7 @@
 ---
 title: "Constantly Train, Test, Evaluate, and Sort People"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/hiring, topic/feedback, topic/leadership, topic/management, topic/culture, person/ray-dalio, person/steven-bartlett, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -54,12 +58,12 @@ Add the **three-bars test**: “If everyone here had this person’s cultural va
 - **The 301% finding.** When Bridgewater asked employees to estimate their own percentage contribution to shared outcomes, the self-reported totals summed to 301% — cited as hard evidence that self-assessment of contribution is systematically inflated and shouldn't be trusted uncorrected.
 - **An employee's blunt "D-" grade email to Dalio himself**, sent after a client meeting and copied to colleagues, is used as the standing illustration of genuine nonhierarchical sync — subordinates assessing leadership as openly as the reverse.
 
-## Related entries
-- [[Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
-- [[Remember That the WHO Is More Important Than the WHAT]]
-- [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
-- [[Manage as Someone Operating a Machine to Achieve a Goal]]
-- [[Adaptive Leadership - Consistent Standards, Individual Treatment]]
+## Relationships
+- **related:** [[Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
+- **related:** [[Remember That the WHO Is More Important Than the WHAT]]
+- **applies:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
+- **applies:** [[Adaptive Leadership - Consistent Standards, Individual Treatment]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 9 ("Constantly Train, Test, Evaluate, and Sort People"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

@@ -1,5 +1,7 @@
 ---
 title: "Barbell Pricing and the Unscalable Premium Offer"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/pricing, topic/offers, topic/value-equation, topic/supply-and-demand, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -50,13 +54,13 @@ A business is an arbitrage between the cost of getting a customer and what you m
 - Hormozi's early gym: one referred client did 5×/week 90-minute sessions at ~$125/hr ≈ $45k/month cash, funding reinvestment in the business.
 - Tesla's Roadster → Model S → Model 3 descent from premium to mass.
 
-## Related entries
-- [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
-- [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- [[The Five Advantages of a Perfect Business]]
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- [[業績公式與商業定位：從流量思維到變現路徑]]
-- [[選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
+## Relationships
+- **related:** [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
+- **related:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **related:** [[The Five Advantages of a Perfect Business]]
+- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
+- **related:** [[業績公式與商業定位：從流量思維到變現路徑]]
+- **related:** [[選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
 
 ## Source reference
 Alex Hormozi, *If I Started A Business in 2026, I'd Do This* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].

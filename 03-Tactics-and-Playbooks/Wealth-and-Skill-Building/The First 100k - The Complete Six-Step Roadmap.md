@@ -1,5 +1,9 @@
 ---
 title: "The First $100k - The Complete Six-Step Roadmap"
+aliases:
+  - "The First $100k - The Complete Six-Step Roadmap"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/first-100k, topic/frugality, topic/productivity, topic/learning, topic/skills, person/alex-hormozi]
 source:
@@ -9,6 +13,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -44,12 +50,12 @@ Hormozi says he felt wealthiest not at his $46.2M exit but at his first $100k, w
 - Hormozi split a bedroom in a six-bedroom house at ~$400/month while building; at ~$20k/month income from his first gym he still paid $400 rent to fund expansion and learning.
 - The first-$100k moment: telling Leila "we did it — we could do nothing for three and a half years," the first time he could think long-term.
 
-## Related entries
-- [[The First 100k - Defense-Before-Offense Playbook]]
-- [[Focus as Elimination - The Deep-Work Playbook]]
-- [[Skill Stacking and the Education-ROI Playbook]]
-- [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
+## Relationships
+- **related:** [[The First 100k - Defense-Before-Offense Playbook]]
+- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
+- **related:** [[Skill Stacking and the Education-ROI Playbook]]
+- **applies:** [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
+- **applies:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
 
 ## Source reference
 Alex Hormozi, *If I Wanted to Make My First $100K in 2026, I'd Do This* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].

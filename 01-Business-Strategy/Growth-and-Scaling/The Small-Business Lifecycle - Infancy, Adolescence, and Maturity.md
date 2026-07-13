@@ -1,5 +1,7 @@
 ---
 title: "The Small-Business Lifecycle - Infancy, Adolescence, and Maturity"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/growth, topic/scaling, topic/delegation, topic/operations, topic/management, topic/org-design, person/michael-gerber, source/e-myth-revisited]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1995"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -47,12 +51,12 @@ Maturity does not require completing Infancy and Adolescence badly first. The co
 ## Notable examples
 Sarah delegates much of her pie shop to Elizabeth but never constructs a real owner–employee agreement or management system. When Elizabeth leaves, the business collapses back into founder labor. The problem is not simply misplaced trust; it is a relationship and organization left undefined because the owner avoided managerial work.
 
-## Related entries
-- [[The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician]]
-- [[The Franchise Prototype - Build the Business as the Product]]
-- [[The Seven Levels of Business Growth - From Side Hustle to Exit]]
-- [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
-- [[The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
+## Relationships
+- **applies:** [[The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician]]
+- **related:** [[The Franchise Prototype - Build the Business as the Product]]
+- **related:** [[The Seven Levels of Business Growth - From Side Hustle to Exit]]
+- **related:** [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
+- **applies:** [[The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
 
 ## Source reference
 Michael E. Gerber, *The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It*, chapters 3–6. Archived transcript: [[2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript]].

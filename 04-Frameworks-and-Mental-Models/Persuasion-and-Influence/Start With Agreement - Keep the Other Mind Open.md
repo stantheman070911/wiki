@@ -1,5 +1,7 @@
 ---
 title: "Start With Agreement - Keep the Other Mind Open"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/persuasion, topic/influence, topic/trust, topic/feedback, topic/decision-making, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2023"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -45,11 +49,11 @@ Use **Hear–Bridge–Reframe–Test**:
 ## Notable examples
 Bartlett uses polarized political arguments to illustrate the failure mode: presenting more hostile evidence can reduce belief rather than strengthen it. The people most able to change our minds are often those with whom we already share substantial trust and agreement.
 
-## Related entries
-- [[Recognize How to Get Beyond Disagreements]]
-- [[Get and Stay in Sync]]
-- [[Creative Cooperation - Feedback, Friction, and Choice C]]
-- [[Believability-Weight Your Decision Making]]
+## Relationships
+- **related:** [[Recognize How to Get Beyond Disagreements]]
+- **related:** [[Get and Stay in Sync]]
+- **related:** [[Creative Cooperation - Feedback, Friction, and Choice C]]
+- **related:** [[Believability-Weight Your Decision Making]]
 
 ## Source reference
 Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 3. Raw transcript archived in [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].

@@ -1,5 +1,7 @@
 ---
 title: "Secrets - How to Find What Everyone Else Has Missed"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/secrets, topic/mental-models, topic/decision-making, topic/research, person/peter-thiel]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2014"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: "2026-07-13"
 status: "reviewed"
 ---
 
@@ -28,7 +32,9 @@ The business version of the contrarian question ("what valuable company is nobod
 - **A company stops finding secrets when its culture stops looking for them.** HP's decline (from $9B in 1990 to $135B by 2000 on real invention — the DeskJet 500C, OmniBook, OfficeJet — down to $23B by 2012 after pivoting to services, a Compaq merger, and boardroom infighting) is presented as a cautionary case: once the technologist faction lost to the "night watchman" governance faction, the company stopped inventing and started managing decline.
 
 ## Framework / model (if applicable)
-**What to do once you find one — the "company" answer:** there's a golden mean between telling nobody (you build nothing with anyone) and telling everybody (you have no edge left). That mean is a company: the best entrepreneurs build every great business around a secret hidden from the outside, and sharing it deliberately, with only the people you need, turns each recipient into a fellow conspirator invested in protecting and executing on it.
+### What to do once you find one — the "company" answer
+
+there's a golden mean between telling nobody (you build nothing with anyone) and telling everybody (you have no edge left). That mean is a company: the best entrepreneurs build every great business around a secret hidden from the outside, and sharing it deliberately, with only the people you need, turns each recipient into a fellow conspirator invested in protecting and executing on it.
 
 **Diagnostic questions for finding a business secret**, run both angles: *Natural* — "what important truth about how the world works has nature not yet told anyone?" *Human* — "what are people in this space not allowed to say, or not admitting to themselves?" Airbnb, Uber, and Lyft found secrets by seeing spare capacity (empty rooms, idle cars, willing drivers) that regulators, incumbents, and even most entrepreneurs looked past — the secret wasn't a new technology, it was noticing untapped supply and demand hiding in plain sight.
 
@@ -43,11 +49,11 @@ The business version of the contrarian question ("what valuable company is nobod
 - Andrew Wiles kept his work on Fermat's Last Theorem secret for years before revealing it in 1993, finally proving the 358-year-old conjecture in 1995 — evidence that sustained failure by everyone else doesn't prove a problem is impossible.
 - Financial bubbles (1999 internet, 2005 housing — Greenspan's "no bubble in home prices nationwide") are what happens when a whole market stops believing prices could hold secrets, i.e., stops believing markets can be systematically wrong.
 
-## Related entries
-- [[The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
-- [[Monopoly vs. Competition - Why All Happy Companies Are Different]]
-- [[The Seven Questions Every Business Must Answer]]
-- [[The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
+## Relationships
+- **related:** [[The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
+- **related:** [[Monopoly vs. Competition - Why All Happy Companies Are Different]]
+- **related:** [[The Seven Questions Every Business Must Answer]]
+- **related:** [[The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
 
 ## Source reference
 Peter Thiel with Blake Masters, *Zero to One*, ch. 8 ("Secrets"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.

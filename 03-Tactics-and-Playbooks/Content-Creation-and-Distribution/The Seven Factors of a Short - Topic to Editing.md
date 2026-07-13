@@ -1,5 +1,7 @@
 ---
 title: "The Seven Factors of a Short - Topic to Editing"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/scriptwriting, topic/short-form-video, topic/hooks, topic/cta, source/personal-brand-launch]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -42,12 +46,12 @@ This is the atomic unit beneath any Instagram growth roadmap: a repeatable check
 - Jeff Nippard's fitness shorts illustrate value sourcing: some break down a *study* (informational source), others share his own eating/experience (own knowledge) — both produce measurable takeaways.
 - Angle transformation: a single "abs" topic spun into seven distinct video ideas via the seven angles.
 
-## Related entries
-- [[短影音文案全公式：標題、開頭、結尾與腳本結構]]
-- [[Instagram 0-to-100k - The Three-Level Follower Roadmap]]
-- [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
-- [[Promise, Proof, Path - Engineering the Video Intro]]
-- [[口播、拍攝與剪輯實戰技巧]]
+## Relationships
+- **related:** [[短影音文案全公式：標題、開頭、結尾與腳本結構]]
+- **related:** [[Instagram 0-to-100k - The Three-Level Follower Roadmap]]
+- **related:** [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
+- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
+- **related:** [[口播、拍攝與剪輯實戰技巧]]
 
 ## Source reference
 Ava (Personal Brand Launch), *How to Grow an Instagram Account in 2026*. Extraction notes in [[2026-07-08_Video_PersonalBrandLaunch_GrowInstagram2026]].

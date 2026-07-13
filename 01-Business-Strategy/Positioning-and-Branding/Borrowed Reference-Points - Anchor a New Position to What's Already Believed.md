@@ -1,5 +1,7 @@
 ---
 title: "Borrowed Reference-Points - Anchor a New Position to What's Already Believed"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/positioning, topic/brand, topic/believability, person/ries-trout]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1981"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -45,10 +49,10 @@ Ries and Trout's place-marketing cases (Belgium, Jamaica, the Stowe ski resort) 
 - Jamaica tourism: "The Hawaii of the Caribbean" (borrowed Hawaii's mental picture instead of competing directly with the Bahamas, Puerto Rico, or Bermuda on their own terms).
 - Stowe, Vermont: "One of the world's top 10 ski resorts" (borrowed from a named outside travel writer's published ranking, alongside Aspen, St. Moritz, and Kitzbühel).
 
-## Related entries
-- [[Positioning - Own a Word in the Prospect's Mind]]
-- [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
-- [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
+## Relationships
+- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
+- **related:** [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **applies:** [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
 
 ## Source reference
 Al Ries & Jack Trout, *Positioning: The Battle for Your Mind*, ch. 15–16, 21 ("Positioning a Country: Belgium," "Positioning an Island: Jamaica," "Positioning a Ski Resort: Stowe"). Full text in [[2026-07-08_Book_RiesTrout_Positioning_FullText]]; extraction notes in [[2026-07-08_Book_RiesTrout_Positioning]].

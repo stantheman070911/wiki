@@ -1,5 +1,7 @@
 ---
 title: "Hire Right, Because the Penalties for Hiring Wrong Are Huge"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/hiring, topic/recruiting, topic/compensation, topic/org-design, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -42,12 +46,12 @@ Eighth chapter of Work Principles, the first of the two "people" chapters that f
 - Dalio explicitly warns against using personal pull to get someone a job — a values violation of the hiring process itself, regardless of the candidate's actual qualifications.
 - Great people, in this framework, are treated as scarce and worth retention-planning for proactively, not just recruiting reactively when a role opens.
 
-## Related entries
-- [[Remember That the WHO Is More Important Than the WHAT]]
-- [[Constantly Train, Test, Evaluate, and Sort People]]
-- [[Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
-- [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- [[備忘錄文化與 A 級人才招募 playbook]]
+## Relationships
+- **related:** [[Remember That the WHO Is More Important Than the WHAT]]
+- **related:** [[Constantly Train, Test, Evaluate, and Sort People]]
+- **applies:** [[Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
+- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **related:** [[備忘錄文化與 A 級人才招募 playbook]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 8 ("Hire Right, Because the Penalties for Hiring Wrong Are Huge"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

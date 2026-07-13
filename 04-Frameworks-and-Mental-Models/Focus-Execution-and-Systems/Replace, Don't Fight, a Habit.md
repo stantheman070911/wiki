@@ -1,5 +1,7 @@
 ---
 title: "Replace, Don't Fight, a Habit"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/systems, topic/consistency, topic/mindset, topic/identity, topic/execution, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2023"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,11 +52,11 @@ Use the **Replace the Loop protocol**:
 ## Notable examples
 Bartlett’s father smoked only in his car. Once he recognized the car as the cue, he removed the cigarettes and put miniature lollipops in the same container. He retained the reach-and-reward sequence while replacing the harmful routine.
 
-## Related entries
-- [[Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue]]
-- [[行為主義、風險定價與環境設計]]
-- [[Do What You Set Out to Do]]
-- [[Process as the Goal - The Zero-Follower Consistency Engine]]
+## Relationships
+- **related:** [[Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue]]
+- **related:** [[行為主義、風險定價與環境設計]]
+- **related:** [[Do What You Set Out to Do]]
+- **related:** [[Process as the Goal - The Zero-Follower Consistency Engine]]
 
 ## Source reference
 Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 8. Raw transcript archived in [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].

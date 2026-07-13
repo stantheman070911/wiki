@@ -1,5 +1,7 @@
 ---
 title: "Delayed Gratification - Patience and Inputs vs Outputs"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/patience, topic/inputs-vs-outputs, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -36,10 +40,10 @@ Hormozi's meta-skill of wealth-building is the ability to act without an immedia
 - Hormozi's first podcast: ~4.5 years and 300–400 episodes at ~2–3k downloads/month before it took off — patience with the output, relentless with the input of publishing.
 - Reframing "20 pounds heavier in four years" by future-pacing the specific pain, to make change less painful than staying the same (Tony Robbins' pain-of-change threshold).
 
-## Related entries
-- [[Finite vs Infinite Games - Winning by Emptying the Tank]]
-- [[Build Evidence, Not Confidence]]
-- [[Focus as Elimination - The Deep-Work Playbook]]
+## Relationships
+- **related:** [[Finite vs Infinite Games - Winning by Emptying the Tank]]
+- **related:** [[Build Evidence, Not Confidence]]
+- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].

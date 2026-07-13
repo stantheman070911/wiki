@@ -1,5 +1,7 @@
 ---
 title: "Wealth Creation - Measurement, Leverage, and Compressed Work"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/wealth, topic/value-creation, topic/leverage, topic/equity, topic/startups, person/paul-graham, source/paul-graham-essays]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2004-2021"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -41,10 +45,10 @@ Analyze an opportunity through **value per user × number of users × degree of 
 ## Notable examples
 Viaweb's small team built software that served many merchants, combining direct measurement of a few people's work with software replication. The same structure explains why technology founders can create and capture more value than equally hardworking people in low-leverage settings.
 
-## Related entries
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- [[Companies as Philanthropy - Purpose and Building for Humanity]]
-- [[The Power Law of Venture Capital and Careers]]
+## Relationships
+- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
+- **related:** [[Companies as Philanthropy - Purpose and Building for Humanity]]
+- **applies:** [[The Power Law of Venture Capital and Careers]]
 
 ## Source reference
 Paul Graham, “How to Make Wealth,” “How People Get Rich Now,” “Billionaires Build,” “The Equity Equation,” and “Inequality and Risk,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

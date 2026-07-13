@@ -1,5 +1,7 @@
 ---
 title: "Trust in Radical Truth and Radical Transparency"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/radical-transparency, topic/culture, topic/leadership, topic/trust, topic/idea-meritocracy, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -40,12 +44,12 @@ Opens Dalio's Work Principles and sets the foundation formula for the rest of th
 - **The 1993 "Ray Feedback Memo."** Bob Prince, Giselle Wagner, and Dan Bernstein confronted Dalio directly with a memo saying his bluntness under stress made people feel "incompetent, unnecessary, humiliated, overwhelmed, belittled, oppressed." This forced a fork-in-the-road choice between radical truthfulness and happy employees — resolved by finding a path that delivered both: writing down explicit principles for how people would treat each other, and taping every meeting so people could see and understand *why* Dalio operated the way he did, rather than just experiencing the bluntness without context.
 - **Taping all meetings**, despite lawyers warning it created legal exposure, proved over decades to reduce Bridgewater's legal and regulatory risk rather than increase it — Dalio's reasoning: "if we're handling things well, transparency proves it; if badly, it ensures we get what we deserve."
 
-## Related entries
-- [[Believability-Weight Your Decision Making]]
-- [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
-- [[Cultivate Meaningful Work and Meaningful Relationships]]
-- [[Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
-- [[工作習慣與誠實忠告]]
+## Relationships
+- **related:** [[Believability-Weight Your Decision Making]]
+- **related:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **related:** [[Cultivate Meaningful Work and Meaningful Relationships]]
+- **related:** [[Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
+- **related:** [[工作習慣與誠實忠告]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 1 ("Trust in Radical Truth and Radical Transparency"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

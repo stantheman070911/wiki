@@ -1,5 +1,7 @@
 ---
 title: "Alternative Currencies - Reputation, Distribution, and Equity"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/wealth, topic/capital, topic/equity, topic/brand, topic/distribution, topic/leverage, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -50,11 +54,11 @@ For each, define how it is measured, who values it, what it can purchase, and th
 ## Notable examples
 Priestley describes a company that sells a minority stake to establish an external valuation, then uses another portion of its shares in a proposed acquisition. The shares function like currency because another party has already priced and trusted them.
 
-## Related entries
-- [[Wealth Creation - Measurement, Leverage, and Compressed Work]]
-- [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
-- [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
-- [[When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
+## Relationships
+- **related:** [[Wealth Creation - Measurement, Leverage, and Compressed Work]]
+- **related:** [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
+- **related:** [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
+- **applies:** [[When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
 
 ## Source reference
 Daniel Priestley, *What Billionaires Do Differently*. Raw transcript in [[2026-07-13_Video_DanielPriestley_WhatBillionairesDoDifferently_RawTranscript]].

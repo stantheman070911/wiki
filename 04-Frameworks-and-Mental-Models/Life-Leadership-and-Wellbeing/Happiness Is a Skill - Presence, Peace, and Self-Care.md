@@ -1,5 +1,7 @@
 ---
 title: "Happiness Is a Skill - Presence, Peace, and Self-Care"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/happiness, topic/mindset, person/naval-ravikant]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://navalmanack.com"
   date_of_source: "2020"
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -48,12 +52,12 @@ The existing entry [[決策、幸福與心智管理]] covers Naval's happiness *
 - Naval's own arc: daily exercise and a 60-day meditation practice as direct happiness levers.
 - "Don't take yourself so seriously. You're just a monkey with a plan" — deflating the self as a path to peace.
 
-## Related entries
-- [[決策、幸福與心智管理]]
-- [[Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
-- [[孤獨、簡單勝過輕鬆與犧牲平庸]]
-- [[Delayed Gratification - Patience and Inputs vs Outputs]]
-- [[The Reference Group and Re-engineering Your Circle]]
+## Relationships
+- **related:** [[決策、幸福與心智管理]]
+- **related:** [[Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
+- **related:** [[孤獨、簡單勝過輕鬆與犧牲平庸]]
+- **related:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
+- **related:** [[The Reference Group and Re-engineering Your Circle]]
 
 ## Source reference
 Eric Jorgenson, *The Almanack of Naval Ravikant* (2020), "Learning Happiness" and "Saving Yourself." Extraction notes in [[2026-07-08_Book_EricJorgenson_TheAlmanackOfNavalRavikant]]; PDF archived alongside.

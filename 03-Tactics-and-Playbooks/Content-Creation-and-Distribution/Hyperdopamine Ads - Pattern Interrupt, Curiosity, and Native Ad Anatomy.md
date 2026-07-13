@@ -1,5 +1,7 @@
 ---
 title: "Hyperdopamine Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/paid-ads, topic/hooks, topic/content-formats, person/sabri-suby]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-10"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -29,12 +33,14 @@ This is Suby's creative-construction layer for paid social ads, built by studyin
 - **"Learn More" is the safe default CTA.** Across split-testing, a low-commitment, non-threatening CTA outperformed harder asks like "Buy Now" or "Inquire Now" — the CTA's job is to lower friction to the next step, not to close the sale itself.
 
 ## Framework / model (if applicable)
-**The hyperdopamine ad formula:** sits at the intersection of two axes — pure clickbait (high intrigue, no real benefit → poor user experience, platform penalizes it) and a pure targeted benefit with no intrigue (accurate but ignorable). The combination of all three of the following is what the source calls a hyperdopamine ad:
+### The hyperdopamine ad formula
+
+sits at the intersection of two axes — pure clickbait (high intrigue, no real benefit → poor user experience, platform penalizes it) and a pure targeted benefit with no intrigue (accurate but ignorable). The combination of all three of the following is what the source calls a hyperdopamine ad:
 1. **Pattern interrupt** — an image or opening frame odd/unexpected enough to stop the scroll (a weird prop, an intense stare, an unusual composition).
 2. **Burning intrigue** — a headline or lead-in that creates an open question the reader must click to close ("This client getting hacked feels illegal — watch carefully, then click").
 3. **Targeted specific benefit** — the intrigue is pointed at a named audience and outcome, not blind curiosity bait ("You won't believe what Ivanka Trump does" pulls a broad, low-relevance audience; "Supermodels use these 3 simple tricks to look younger" pulls people who specifically want that benefit).
 
-**Anatomy of the ad, in order of what the reader hits first:**
+### Anatomy of the ad, in order of what the reader hits first
 1. **Scroll-stopping image** — the pattern interrupt.
 2. **Eyeball-grabbing headline** — the intrigue, ideally paired with a specific benefit.
 3. **Slippery lead-in copy** — the first line under the headline; changing only this line has produced 5x ROAS lifts in the source's testing.
@@ -42,7 +48,7 @@ This is Suby's creative-construction layer for paid social ads, built by studyin
 5. **Body copy** — long-form is generally fine (up to ~2,200 characters, the Facebook/Instagram cross-placement limit at time of recording), but only if genuinely compelling; write first without regard to length, then edit down aggressively rather than padding to fill space.
 6. **Non-threatening CTA** — "Learn More" as the tested default.
 
-**Native ad styles (creative formats that read as organic content rather than ads):**
+### Native ad styles (creative formats that read as organic content rather than ads)
 - **Raw native** — an unpolished smartphone photo; performs well partly because it doesn't visually read as paid content.
 - **SMS-style** — a mocked-up text message screenshot.
 - **Breaking news** — tabloid/news-headline framing ("Shark Tank Investor drops [X] bombshell").
@@ -62,11 +68,11 @@ This is Suby's creative-construction layer for paid social ads, built by studyin
 - "This client getting hacked feels illegal" paired with an image of the narrator holding a USB drive and staring into camera — cited as a working example combining all three hyperdopamine elements.
 - A billion-dollar teeth-whitening advertiser (HiSmile) running "She was skeptical. Wait until you see her results" — gossip-magazine phrasing from a large, sophisticated advertiser, offered as evidence the format isn't just a small-business hack.
 
-## Related entries
-- [[Direct-Response Copywriting - NEWIF, the Nine Questions, and Three Conversion-Killing Mistakes]]
-- [[Hacking Attention - Topic, Format, Hook and the Content Engine]]
-- [[Promise, Proof, Path - Engineering the Video Intro]]
-- [[The Creative Volume Engine - Ads Are an At-Bats Game]]
+## Relationships
+- **related:** [[Direct-Response Copywriting - NEWIF, the Nine Questions, and Three Conversion-Killing Mistakes]]
+- **related:** [[Hacking Attention - Topic, Format, Hook and the Content Engine]]
+- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
+- **applies:** [[The Creative Volume Engine - Ads Are an At-Bats Game]]
 
 ## Source reference
 Sabri Suby, Facebook-ads training video (part of a four-video compilation). Raw transcript and extraction notes archived at [[2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook]].

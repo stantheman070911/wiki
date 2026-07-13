@@ -1,5 +1,7 @@
 ---
 title: "Taste for Makers - Constraints for Designing Good Things"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/innovation, topic/simplicity, topic/product, topic/feedback, topic/skills, topic/creativity, person/paul-graham, person/rick-rubin, source/paul-graham-essays]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2002-2024"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -45,12 +49,12 @@ Review a design through six lenses: **function, simplicity, coherence, durabilit
 ## Notable examples
 Programming languages, paintings, mathematical proofs, and physical products share recurring design virtues despite different media. This cross-domain recurrence is evidence that taste tracks properties beyond personal preference.
 
-## Related entries
-- [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
-- [[The Seven Principles of Building an Iconic Brand]]
-- [[First-Principles Thinking - Reason from Physics, Not Analogy]]
-- [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
-- [[The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
+## Relationships
+- **related:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- **related:** [[The Seven Principles of Building an Iconic Brand]]
+- **related:** [[First-Principles Thinking - Reason from Physics, Not Analogy]]
+- **related:** [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
+- **related:** [[The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
 
 ## Source reference
 Paul Graham, “Taste for Makers,” “Six Principles for Making New Things,” “Copy What You Like,” “Design and Research,” and “Is There Such a Thing as Good Taste?,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

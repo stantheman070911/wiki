@@ -1,5 +1,9 @@
 ---
 title: "Double-Down and the 70/20/10 Rule - Templatizing Viral Outliers"
+aliases:
+  - "Double-Down and the 70/20/10 Rule - Templatizing Viral Outliers"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/content-strategy, source/personal-brand-launch]
 source:
@@ -9,6 +13,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -52,12 +58,12 @@ Once past the initial grind, growth is driven less by novelty than by systematic
 - The creator ran a 90-day double-down experiment (templatizing outliers) and reports ~12 million views and +83,000 followers — attributing it to disciplined reuse rather than constant novelty.
 - Mode C in practice: take a video that worked and re-shoot the identical value/hook in a new engaging format.
 
-## Related entries
-- [[Content Planner and the Analyze-Double-Down Loop]]
-- [[對標方法論與靈感池系統]]
-- [[The Seven Factors of a Short - Topic to Editing]]
-- [[Instagram 0-to-100k - The Three-Level Follower Roadmap]]
-- [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
+## Relationships
+- **related:** [[Content Planner and the Analyze-Double-Down Loop]]
+- **applies:** [[對標方法論與靈感池系統]]
+- **related:** [[The Seven Factors of a Short - Topic to Editing]]
+- **related:** [[Instagram 0-to-100k - The Three-Level Follower Roadmap]]
+- **related:** [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
 
 ## Source reference
 Ava (Personal Brand Launch), *How to Grow an Instagram Account in 2026*. Extraction notes in [[2026-07-08_Video_PersonalBrandLaunch_GrowInstagram2026]].

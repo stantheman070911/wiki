@@ -1,5 +1,7 @@
 ---
 title: "How to Do Great Work - Curiosity, Taste, Projects, and Endurance"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/learning, topic/skills, topic/focus, topic/innovation, topic/consistency, person/paul-graham, person/steve-jobs, source/paul-graham-essays]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2006-2023"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -45,10 +49,10 @@ The “bus ticket theory” describes obsessive interest as the third ingredient
 
 After leaving Reed College's required curriculum, Steve Jobs studied calligraphy because it was intrinsically compelling. A decade later, that knowledge shaped the Macintosh's proportional fonts and typography—an application he could not have planned when choosing the class.
 
-## Related entries
-- [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
-- [[Finding New Ideas - Work at the Fractal Edge of Knowledge]]
-- [[Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
+## Relationships
+- **related:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
+- **related:** [[Finding New Ideas - Work at the Fractal Edge of Knowledge]]
+- **related:** [[Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
 
 ## Source reference
 Paul Graham, “How to Do Great Work,” “The Bus Ticket Theory of Genius,” “Early Work,” “A Project of One's Own,” and “How to Work Hard,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

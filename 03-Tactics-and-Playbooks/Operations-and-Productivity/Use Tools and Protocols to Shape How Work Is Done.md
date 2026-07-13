@@ -1,5 +1,7 @@
 ---
 title: "Use Tools and Protocols to Shape How Work Is Done"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/systems, topic/management, topic/idea-meritocracy, topic/radical-transparency, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -44,11 +48,11 @@ Fifteenth chapter of Work Principles, and the direct argument for why Bridgewate
 ## Notable examples
 - Dalio's own framing of the risk this chapter addresses: readers who finish *Principles* and feel like they understand it, but never build or adopt any tool to practice it, are the expected failure mode — understanding a principle intellectually and having it actually shape behavior under pressure are treated as two different, separately-earned things.
 
-## Related entries
-- [[Believability-Weight Your Decision Making]]
-- [[Manage as Someone Operating a Machine to Achieve a Goal]]
-- [[Design Improvements to Your Machine to Get Around Your Problems]]
-- [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+## Relationships
+- **applies:** [[Believability-Weight Your Decision Making]]
+- **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
+- **related:** [[Design Improvements to Your Machine to Get Around Your Problems]]
+- **applies:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 15 ("Use Tools and Protocols to Shape How Work Is Done"), plus the "Tools and Protocols for Bridgewater's Idea Meritocracy" appendix. Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

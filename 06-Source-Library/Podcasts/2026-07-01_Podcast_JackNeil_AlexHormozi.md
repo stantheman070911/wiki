@@ -1,7 +1,11 @@
 ---
 title: "Alex Hormozi"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "podcast"
+source_format: "source-note"
+processing_status: "processed"
 author: "Jack Neil"
 date_archived: "2026-07-01"
 status: "source"

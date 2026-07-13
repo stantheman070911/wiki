@@ -1,5 +1,7 @@
 ---
 title: "Man and Machine - Why Computers Complement Humans Instead of Replacing Them"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/ai, topic/automation, topic/mental-models, topic/decision-making, person/peter-thiel]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2014"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: "2026-07-13"
 status: "reviewed"
 ---
 
@@ -28,9 +32,13 @@ Written against the backdrop of "software is eating the world" (Marc Andreessen)
 - **Computer science's own training pushes toward substitution framing.** Academic incentives reward "solving" narrow, well-specified tasks (this is what "machine learning" and "big data" optimize for — pattern extraction from huge datasets, without the judgment to compare patterns across sources or interpret complex behavior). That's why replacement-flavored achievements (Deep Blue, Watson) get more attention than complementarity, even when complementarity is where the larger value is being created.
 
 ## Framework / model (if applicable)
-**Supply/demand grid for substitution vs. complementarity:** on the *supply* side, globalization = substitution (other humans can do your job); technology = complementarity (computers are too different from people to substitute for them). On the *demand* side, globalization = competition for the same resources (both sides want more food, fuel, land — the "world is flat" competitive story); technology = mostly non-competing demand (a computer doesn't want a beachfront villa, so the efficiency gains from working with it don't get consumed by its own rising wants). Use this 2x2 to sort any new technology's likely economic effect before assuming it's either purely job-destroying or purely benign.
+### Supply/demand grid for substitution vs. complementarity
 
-**Strong AI caveat:** Thiel treats "computers eclipse humans on every dimension" as a real but distant possibility (a "22nd-century worry"), and explicitly refuses to let indefinite fear about that far future block definite plans in the present — the practical frame for the next few decades is building complementary systems, not resolving the philosophical AI-safety question first.
+on the *supply* side, globalization = substitution (other humans can do your job); technology = complementarity (computers are too different from people to substitute for them). On the *demand* side, globalization = competition for the same resources (both sides want more food, fuel, land — the "world is flat" competitive story); technology = mostly non-competing demand (a computer doesn't want a beachfront villa, so the efficiency gains from working with it don't get consumed by its own rising wants). Use this 2x2 to sort any new technology's likely economic effect before assuming it's either purely job-destroying or purely benign.
+
+### Strong AI caveat
+
+Thiel treats "computers eclipse humans on every dimension" as a real but distant possibility (a "22nd-century worry"), and explicitly refuses to let indefinite fear about that far future block definite plans in the present — the practical frame for the next few decades is building complementary systems, not resolving the philosophical AI-safety question first.
 
 ## Tactics / how to apply
 - When designing a product that touches AI/automation, ask which specific judgment calls should stay human and which specific data-processing tasks should be automated — design the interface at that seam (as PayPal's Igor did), rather than trying to fully automate or fully staff the problem.
@@ -42,11 +50,11 @@ Written against the backdrop of "software is eating the world" (Marc Andreessen)
 - 1997 Deep Blue beats Kasparov at chess; 2011 Watson beats Ken Jennings at Jeopardy!; Google self-driving cars on California roads by the book's writing — all framed as narrow substitution wins that fuel an oversized "will a machine replace you?" narrative.
 - Palantir's software has reportedly supported predicting insurgent IED placement in Afghanistan, prosecuting insider-trading cases, dismantling a major child-pornography ring, and CDC foodborne-illness outbreak response — all cases requiring the software-plus-analyst combination, not software alone.
 
-## Related entries
-- [[Secrets - How to Find What Everyone Else Has Missed]]
-- [[The Power Law of Venture Capital and Careers]]
-- [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
-- [[Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms]] (Dalio's expert-systems-vs-mimicking-vs-data-mining framework is a useful companion angle on human+machine decision-making)
+## Relationships
+- **related:** [[Secrets - How to Find What Everyone Else Has Missed]]
+- **related:** [[The Power Law of Venture Capital and Careers]]
+- **related:** [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
+- **related:** [[Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms]] (Dalio's expert-systems-vs-mimicking-vs-data-mining framework is a useful companion angle on human+machine decision-making)
 
 ## Source reference
 Peter Thiel with Blake Masters, *Zero to One*, ch. 12 ("Man and Machine"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.

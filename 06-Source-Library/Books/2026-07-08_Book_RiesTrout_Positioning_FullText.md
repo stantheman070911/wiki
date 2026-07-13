@@ -1,7 +1,11 @@
 ---
 title: "Positioning_Full Text"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "book"
+source_format: "source-note"
+processing_status: "processed"
 author: "Ries Trout"
 date_archived: "2026-07-08"
 status: "source"

@@ -1,8 +1,12 @@
 ---
 title: "Confidence Is a Receipt, Not a Requirement"
+type: "article"
+domain: "articles"
 lang: "en"
 tags: [topic/mindset, topic/proof, topic/self-belief, topic/reps, topic/learning, topic/identity, topic/inputs-vs-outputs]
 date_added: "2026-07-11"
+updated: "2026-07-11"
+reviewed_on: ""
 status: "draft"
 ---
 

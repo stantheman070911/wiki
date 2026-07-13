@@ -1,5 +1,7 @@
 ---
 title: "Writing as a Discovery Tool - Useful, Simple, and Rewritten"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/writing, topic/content-strategy, topic/simplicity, topic/research, topic/learning, person/paul-graham, source/paul-graham-essays]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2001-2026"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -41,10 +45,10 @@ Draft with the loop **question → provisional answer → examples and counterex
 ## Notable examples
 Graham reports essays changing their subject during revision when a secondary distinction proved more important than the original thesis. The draft was not a record of completed thinking; it was the instrument that produced the better idea.
 
-## Related entries
-- [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
-- [[The Framework for Making Frameworks - Distill by Commonality]]
-- [[Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]
+## Relationships
+- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **applies:** [[The Framework for Making Frameworks - Distill by Commonality]]
+- **related:** [[Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]
 
 ## Source reference
 Paul Graham, “Putting Ideas into Words,” “How to Write Usefully,” “Good Writing,” “Write Simply,” “Write Like You Talk,” “A Version 1.0,” and “Writing, Briefly,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

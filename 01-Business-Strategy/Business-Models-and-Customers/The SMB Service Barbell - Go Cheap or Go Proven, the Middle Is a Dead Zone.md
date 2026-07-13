@@ -1,5 +1,7 @@
 ---
 title: "The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/business-model, topic/agency-model, topic/churn, topic/pricing, topic/cac, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-09"
+updated: "2026-07-09"
+reviewed_on: "2026-07-09"
 status: "reviewed"
 ---
 
@@ -49,11 +53,11 @@ A digital-marketing agency serving Australian SMBs (cleaning companies, yard-wor
 - Moving up-market requires actually qualifying prospects on sophistication (existing sales process, known metrics), not just raising the sticker price.
 - Some founders can profitably serve the middle if they've solved distribution so cheaply that CAC stays structurally low — the dead zone is a default, not a law of physics.
 
-## Related entries
-- [[Barbell Pricing and the Unscalable Premium Offer]]
-- [[ICP Qualification Through Segmented Churn]]
-- [[Compete on Efficiency When You Can't Control Price]]
-- [[The Virtuous Cycle of Service Businesses]]
+## Relationships
+- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
+- **related:** [[ICP Qualification Through Segmented Churn]]
+- **related:** [[Compete on Efficiency When You Can't Control Price]]
+- **related:** [[The Virtuous Cycle of Service Businesses]]
 
 ## Source reference
 Alex Hormozi, business-breakdown/AMA compilation (service business scaling segment). Raw transcript archived in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript]]; extraction notes in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].

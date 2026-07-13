@@ -1,5 +1,7 @@
 ---
 title: "Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mental-models, topic/decision-making, topic/systems, topic/feedback, topic/risk, person/james-dale-davidson, person/william-rees-mogg, source/the-sovereign-individual]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1997"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,11 +52,11 @@ Use the **form-function transition test**:
 ## Notable examples
 After the last Western Roman emperor was removed, the Senate, offices, insignia, and nominal allegiance to the Eastern emperor continued—the book calls this “persistent make-believe.” It also compares the late-medieval Church, whose productive role had decayed while its rituals endured, with modern institutions whose costs have outgrown the conditions that once justified them.
 
-## Related entries
-- [[The Stockdale Paradox - Confront Reality Without Losing Faith]]
-- [[Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
-- [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- [[Megapolitics - How Technology Changes the Returns to Violence]]
+## Relationships
+- **related:** [[The Stockdale Paradox - Confront Reality Without Losing Faith]]
+- **related:** [[Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
+- **related:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **related:** [[Megapolitics - How Technology Changes the Returns to Violence]]
 
 ## Source reference
 James Dale Davidson and William Rees-Mogg, *The Sovereign Individual* (1997), [[2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript]].

@@ -1,5 +1,7 @@
 ---
 title: "The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/creativity, topic/execution, topic/systems, topic/innovation, person/rick-rubin]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2023"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -47,11 +51,11 @@ At every transition, explicitly name the current phase. Then use its matching cr
 ## Notable examples
 Chinese alchemists seeking immortality produced gunpowder; penicillin and Post-it notes likewise emerged as unplanned results. The reusable lesson is not that accidents guarantee breakthroughs, but that an experiment must be observed for what it produced rather than judged only against its original intention.
 
-## Related entries
-- [[Creative Receptivity - Awareness, Attention, and the Artist's Filter]]
-- [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
-- [[Finish and Release - Abundance Beats Perfectionism]]
-- [[Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
+## Relationships
+- **related:** [[Creative Receptivity - Awareness, Attention, and the Artist's Filter]]
+- **related:** [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
+- **related:** [[Finish and Release - Abundance Beats Perfectionism]]
+- **related:** [[Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
 
 ## Source reference
 Rick Rubin with Neil Strauss, *The Creative Act: A Way of Being* (2023). Raw transcript archived at [[2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript]].

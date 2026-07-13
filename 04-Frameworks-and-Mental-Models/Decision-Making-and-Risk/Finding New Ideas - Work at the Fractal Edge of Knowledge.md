@@ -1,5 +1,7 @@
 ---
 title: "Finding New Ideas - Work at the Fractal Edge of Knowledge"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/innovation, topic/research, topic/learning, topic/secrets, topic/risk, person/paul-graham, source/paul-graham-essays]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2004-2025"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -41,10 +45,10 @@ Move through four layers: **learn the canonical map → collect anomalies and ne
 ## Notable examples
 Knowledge grows like a fractal: its edge appears smooth from afar, yet becomes more irregular as one approaches. Entire new branches can grow from gaps that are invisible until someone learns enough to stand beside them.
 
-## Related entries
-- [[Secrets - How to Find What Everyone Else Has Missed]]
-- [[Organic Startup Ideas - Live in the Future and Notice What Is Missing]]
-- [[Independent-Mindedness - Separate Truth from Identity and Conformism]]
+## Relationships
+- **related:** [[Secrets - How to Find What Everyone Else Has Missed]]
+- **related:** [[Organic Startup Ideas - Live in the Future and Notice What Is Missing]]
+- **related:** [[Independent-Mindedness - Separate Truth from Identity and Conformism]]
 
 ## Source reference
 Paul Graham, “How to Get New Ideas,” “Fashionable Problems,” “General and Surprising,” “Novelty and Heresy,” “Crazy New Ideas,” and “The Risk of Discovery,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

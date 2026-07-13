@@ -1,5 +1,9 @@
 ---
 title: "Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections"
+aliases:
+  - "Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/storytelling, topic/copywriting, topic/advertising, topic/persuasion, topic/narrative, person/sam-parr]
 source:
@@ -9,6 +13,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-10"
+updated: "2026-07-10"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -52,13 +58,13 @@ The product is revealed *late* (Trojan horse), after desire and belief are built
 - Sam Parr's viral "how my dad sells $10M of onions a year" reel — a raw, frame-breaking founder story (80% 3-second stop rate, ~4M views) re-cut into one of Hampton's best-performing ads.
 - The Lenovo-headphones script — handles the "$40, must be cheap" objection with anecdote ("I wore them in the shower," "haven't charged in 3 weeks") instead of spec claims.
 
-## Related entries
-- [[Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]
-- [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
-- [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- [[Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
-- [[Capture Dont Create - Engineering Proof at Scale]]
-- [[Promise, Proof, Path - Engineering the Video Intro]]
+## Relationships
+- **related:** [[Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]
+- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **applies:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **applies:** [[Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
+- **related:** [[Capture Dont Create - Engineering Proof at Scale]]
+- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
 
 ## Source reference
 Sam Parr, *The $2 Billion Copywriting Secret Behind The Most Successful Ad Ever* (Sweat Equity podcast). Raw transcript archived at [[2026-07-10_Podcast_SamParr_The2BillionCopywritingSecret]].

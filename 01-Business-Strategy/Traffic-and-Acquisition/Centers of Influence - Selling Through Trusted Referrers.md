@@ -1,5 +1,7 @@
 ---
 title: "Centers of Influence - Selling Through Trusted Referrers"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/sales, topic/referrals, topic/business-model, topic/enterprise, topic/channel-strategy, topic/trust, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -50,12 +54,12 @@ A real-estate tax-strategy business got ~60–70% of revenue from four CPA firms
 - Integration (owning their onboarding) is far more valuable than a one-off launch, but takes trust to earn.
 - Proof and credibility remain the backdrop; referrers won't stake their relationship on an unproven partner.
 
-## Related entries
-- [[The Virtuous Cycle of Service Businesses]]
-- [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
-- [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
+## Relationships
+- **related:** [[The Virtuous Cycle of Service Businesses]]
+- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **applies:** [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
+- **related:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.

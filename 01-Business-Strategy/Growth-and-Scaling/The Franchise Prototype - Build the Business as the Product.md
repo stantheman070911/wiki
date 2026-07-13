@@ -1,5 +1,7 @@
 ---
 title: "The Franchise Prototype - Build the Business as the Product"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/business-model, topic/scaling, topic/systems, topic/operations, topic/consistency, topic/franchise, person/michael-gerber, source/e-myth-revisited]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1995"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -52,12 +56,12 @@ The test is not “Could another expert run this?” It is “Could a properly s
 ## Notable examples
 Gerber uses McDonald’s as the canonical prototype: Ray Kroc treated the restaurant—not the hamburger—as the product sold first to franchisees. Details were tested, documented, trained, and controlled so a customer could receive the same promise across locations and the operation could work in the hands of people other than its creator.
 
-## Related entries
-- [[Innovation, Quantification, and Orchestration - The Business Development Loop]]
-- [[Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
-- [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
-- [[Sales Systems as Intellectual Property - Process Above the Player]]
-- [[The Factory Is the Product - Manufacturing as the Moat]]
+## Relationships
+- **applies:** [[Innovation, Quantification, and Orchestration - The Business Development Loop]]
+- **related:** [[Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
+- **related:** [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
+- **related:** [[Sales Systems as Intellectual Property - Process Above the Player]]
+- **related:** [[The Factory Is the Product - Manufacturing as the Moat]]
 
 ## Source reference
 Michael E. Gerber, *The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It*, chapters 7–9. Archived transcript: [[2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript]].

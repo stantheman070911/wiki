@@ -1,5 +1,7 @@
 ---
 title: "Recognize How to Get Beyond Disagreements"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/decision-making, topic/idea-meritocracy, topic/believability, topic/culture, person/ray-dalio, person/peter-drucker, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -44,12 +48,12 @@ Sixth chapter of Work Principles, immediately following believability-weighting:
 - **A media leak forced Bridgewater to temporarily and explicitly restrict some internal transparency** — cited as the real-world instance of the rare, declared "martial law" exception, done openly rather than quietly.
 - **Alfred Sloan reportedly postponed a unanimous GM committee decision** so the group could develop disagreement before reconvening—using dissent to discover what the decision was actually about, not to prolong conflict for its own sake.
 
-## Related entries
-- [[Believability-Weight Your Decision Making]]
-- [[Get and Stay in Sync]]
-- [[Don't Overlook Governance]]
-- [[Trust in Radical Truth and Radical Transparency]]
-- [[The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
+## Relationships
+- **related:** [[Believability-Weight Your Decision Making]]
+- **related:** [[Get and Stay in Sync]]
+- **related:** [[Don't Overlook Governance]]
+- **related:** [[Trust in Radical Truth and Radical Transparency]]
+- **related:** [[The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 6 ("Recognize How to Get Beyond Disagreements"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

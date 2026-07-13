@@ -1,5 +1,7 @@
 ---
 title: "Founder Mode - Direct Engagement Without Delegation Theater"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/startups, topic/management, topic/leadership, topic/delegation, topic/org-design, person/paul-graham, person/matt-gray, source/paul-graham-essays]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2024"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -46,10 +50,10 @@ Brian Chesky's account of scaling Airbnb prompted the distinction: the accepted 
 
 Steve Jobs's involvement in product details, naming, marketing, and rehearsed launches illustrates lifecycle ownership: the founder did not merely set a vision and inspect financial output, but repeatedly connected the product's internal standard with the story experienced by customers.
 
-## Related entries
-- [[Manage as Someone Operating a Machine to Achieve a Goal]]
-- [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
-- [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
+## Relationships
+- **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
+- **related:** [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **related:** [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
 
 ## Source reference
 Paul Graham, “Founder Mode,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

@@ -1,5 +1,7 @@
 ---
 title: "Process as the Goal - The Zero-Follower Consistency Engine"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/consistency, topic/mindset, topic/inputs-vs-outputs, topic/patience, topic/personal-brand, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -43,12 +47,12 @@ The near-universal reason people never build an audience from zero is that they 
 - A friend who sold a gym chain posted daily short-form for 6 months before videos took off; now ~$100k/mo — but only broke through the coast-and-relapse cycle after shifting focus from sales to process.
 - 52% of 18-year-olds expect to be millionaires by 25; most share the goal and skip the activities, so "that's just math" — few make it.
 
-## Related entries
-- [[Delayed Gratification - Patience and Inputs vs Outputs]]
-- [[Finite vs Infinite Games - Winning by Emptying the Tank]]
-- [[Volume and Feedback - Sales as the Training Ground]]
-- [[Build Evidence, Not Confidence]]
-- [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
+## Relationships
+- **related:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
+- **related:** [[Finite vs Infinite Games - Winning by Emptying the Tank]]
+- **related:** [[Volume and Feedback - Sales as the Training Ground]]
+- **related:** [[Build Evidence, Not Confidence]]
+- **related:** [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
 
 ## Source reference
 Alex Hormozi, *How to Grow an Audience if You Have 0 Followers*. Extraction notes in [[2026-07-08_Video_AlexHormozi_GrowAudienceFrom0Followers]].

@@ -1,7 +1,11 @@
 ---
 title: "The Book Of Elon"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "book"
+source_format: "source-note"
+processing_status: "processed"
 author: "Eric Jorgenson"
 date_archived: "2026-07-08"
 status: "source"
@@ -60,3 +64,8 @@ The Musk operating frameworks are not in the vault. Processed (transferable fram
 ## Caveats
 - Musk is a polarizing figure; the book is a curated, favorable "in his own words" compilation. Entries capture the *methods*, not an endorsement of the person, and note where claims are self-serving.
 - The Mars/colonization, existential-risk, and company-history narratives are recorded here but not turned into entries (biography and speculation over transferable method).
+
+
+## Archived attachment
+
+- [2026-07-08_Book_EricJorgenson_TheBookOfElon.txt](<2026-07-08_Book_EricJorgenson_TheBookOfElon.txt>)

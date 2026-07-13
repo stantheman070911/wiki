@@ -1,5 +1,7 @@
 ---
 title: "The Flywheel and the Doom Loop - Compound Momentum in One Direction"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/consistency, topic/execution, topic/systems, topic/scaling, topic/growth, person/jim-collins, source/good-to-great]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2001"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -50,13 +54,13 @@ Outsiders see the moment results become undeniable and invent an overnight-succe
 ## Notable examples
 Circuit City spent roughly a decade refining its warehouse-showroom model before the press noticed its breakthrough. Nucor accumulated culture, mini-mills, customers, and learning for years before becoming the industry's profit leader. Warner-Lambert repeatedly changed direction with each CEO, never allowing a coherent strategy to compound.
 
-## Related entries
-- [[Process as the Goal - The Zero-Follower Consistency Engine]]
-- [[Brand and Product Compounding - Too Good to Fail]]
-- [[Startup Equals Growth - Weekly Compounding and Market Size]]
-- [[The Direct-Response Doom Loop and the One-Brand Bet]]
-- [[A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
-- [[The Hedgehog Concept - Three Circles and the Economic Denominator]]
+## Relationships
+- **related:** [[Process as the Goal - The Zero-Follower Consistency Engine]]
+- **related:** [[Brand and Product Compounding - Too Good to Fail]]
+- **related:** [[Startup Equals Growth - Weekly Compounding and Market Size]]
+- **related:** [[The Direct-Response Doom Loop and the One-Brand Bet]]
+- **related:** [[A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
+- **related:** [[The Hedgehog Concept - Three Circles and the Economic Denominator]]
 
 ## Source reference
 Jim Collins, *Good to Great*, chapter 8, "The Flywheel and the Doom Loop" (2001). [[2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript]].

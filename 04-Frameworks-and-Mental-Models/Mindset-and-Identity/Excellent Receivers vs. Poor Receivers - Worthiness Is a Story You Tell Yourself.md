@@ -1,5 +1,7 @@
 ---
 title: "Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/identity, topic/self-belief, person/t-harv-eker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -35,10 +39,10 @@ Wealth File #10. Eker ties poor receiving to childhood conditioning around punis
 ## Notable examples
 - A seminar participant in tears says he can't feel good about having money "when others have so little"; Eker's reframe — "whom do you help by being broke?" — shifts him toward creating wealth first, then helping from strength.
 
-## Related entries
-- [[Willing to Self-Promote vs. Averse to Selling]]
-- [[Manage Your Money Well - The Habit Matters More Than the Amount]]
-- [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
+## Relationships
+- **related:** [[Willing to Self-Promote vs. Averse to Selling]]
+- **related:** [[Manage Your Money Well - The Habit Matters More Than the Amount]]
+- **related:** [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #10. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

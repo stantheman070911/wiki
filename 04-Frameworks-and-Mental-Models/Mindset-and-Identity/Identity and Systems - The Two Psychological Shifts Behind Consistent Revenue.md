@@ -1,5 +1,7 @@
 ---
 title: "Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/identity, topic/systems, topic/persuasion, topic/service-business, topic/decision-making, topic/mindset, person/will-barron]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-10"
+updated: "2026-07-13"
+reviewed_on: "2026-07-10"
 status: "reviewed"
 ---
 
@@ -29,7 +33,7 @@ Will Barron (salesman.com), after working with over 1,000 service-business owner
 - **Consistent performers haven't found more willpower — they've removed friction.** They design their week so the correct action is also the easiest one to complete, rather than relying on motivation to override a cognitively expensive, undocumented process.
 
 ## Framework / model (if applicable)
-**Two shifts:**
+### Two shifts
 1. **Identity shift.** Write how you currently describe yourself and your role when someone asks "what do you do?" Below it, write the description of the person and role you want to have once you've broken through your current revenue bottleneck. The gap between the two descriptions is the work that needs to be done — writing it down is what makes it actionable instead of invisible.
 2. **System shift.** List the selling activities your business needs (prospecting, follow-up, pipeline review). Identify the one you consistently fail to do in practice — not the one you dislike most in theory — usually prospecting. Ask why it's hard to start: unclear process, wrong time of day, no defined ICP, no template or cadence. Fix the friction directly: simplify, reschedule to a higher-energy part of the day, automate, or delegate — until the activity happens with minimal decision-making.
 
@@ -44,13 +48,13 @@ Will Barron (salesman.com), after working with over 1,000 service-business owner
 - Jimali, a consultant who hated sales after a manipulative first job at a used-car dealership: reframed selling as helping a buyer decide, modeled a systematized sales process for a few weeks, and now proactively says he loves sales.
 - Paul, a business owner overwhelmed by the idea of building "all the sales processes" he thought he needed: instead ran a simple daily 30-minute block (pick a customer, find a look-alike contact, ask for a referral, book the meeting) and filled his calendar with meetings within weeks.
 
-## Related entries
-- [[Volume and Feedback - Sales as the Training Ground]]
-- [[Build Evidence, Not Confidence]]
-- [[Process as the Goal - The Zero-Follower Consistency Engine]]
-- [[Focus as Elimination - The Deep-Work Playbook]]
-- [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
-- [[The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]]
+## Relationships
+- **related:** [[Volume and Feedback - Sales as the Training Ground]]
+- **related:** [[Build Evidence, Not Confidence]]
+- **related:** [[Process as the Goal - The Zero-Follower Consistency Engine]]
+- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
+- **related:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
+- **related:** [[The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]]
 
 ## Source reference
 Will Barron, *The Psychology of Building a Successful Service Business* (YouTube, salesman.com). Raw transcript and extraction notes archived at [[2026-07-10_Video_WillBarron_PsychologyOfBuildingASuccessfulServiceBusiness]].

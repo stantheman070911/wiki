@@ -1,5 +1,7 @@
 ---
 title: "The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/business-model, topic/org-design, topic/product, topic/founder-brand, topic/operations, topic/scaling, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -49,11 +53,11 @@ As a financial floor, test whether the model can support roughly $125,000 in ann
 ## Notable examples
 Priestley notes that complex, low-margin restaurant units are routinely run by young general managers. Many expert-service businesses overestimate the credentials needed to operate their simpler daily system and keep the founder trapped unnecessarily.
 
-## Related entries
-- [[The Seven Levels of Business Growth - From Side Hustle to Exit]]
-- [[The Perfect Repeatable Week - Designing a Predictable Business Rhythm]]
-- [[Founder Mode - Direct Engagement Without Delegation Theater]]
-- [[You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
+## Relationships
+- **related:** [[The Seven Levels of Business Growth - From Side Hustle to Exit]]
+- **related:** [[The Perfect Repeatable Week - Designing a Predictable Business Rhythm]]
+- **applies:** [[Founder Mode - Direct Engagement Without Delegation Theater]]
+- **related:** [[You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
 
 ## Source reference
 Daniel Priestley, *How to Build a Profitable Lifestyle Business*. Raw transcript in [[2026-07-13_Video_DanielPriestley_HowToBuildAProfitableLifestyleBusiness_RawTranscript]].

@@ -1,5 +1,7 @@
 ---
 title: "Build Evidence, Not Confidence"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/proof, topic/self-belief, topic/reps, person/alex-hormozi, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -46,11 +50,11 @@ Hormozi inverts "fake it till you make it." Confidence without evidence is delus
 - Hormozi's first-ever sales consult: he let the prospect "go home for her card" and told his boss he'd closed her; the room laughed for a full minute. He's now known for sales purely from accumulated experience.
 - Top-1% podcaster = 21 uploads: 90% quit before one, 9% before 20; the "price of excellence" is low because people give up so easily.
 
-## Related entries
-- [[Volume and Feedback - Sales as the Training Ground]]
-- [[Finite vs Infinite Games - Winning by Emptying the Tank]]
-- [[Brand and Product Compounding - Too Good to Fail]]
-- [[Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
+## Relationships
+- **related:** [[Volume and Feedback - Sales as the Training Ground]]
+- **related:** [[Finite vs Infinite Games - Winning by Emptying the Tank]]
+- **related:** [[Brand and Product Compounding - Too Good to Fail]]
+- **related:** [[Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].

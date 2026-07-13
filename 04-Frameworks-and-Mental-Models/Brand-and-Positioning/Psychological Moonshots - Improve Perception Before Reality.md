@@ -1,5 +1,7 @@
 ---
 title: "Psychological Moonshots - Improve Perception Before Reality"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/brand, topic/positioning, topic/persuasion, topic/value-creation, topic/retention, topic/product, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2023"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -50,11 +54,11 @@ Run a **Perception-before-production audit**:
 ## Notable examples
 Domino’s reduced uncertainty with an order tracker rather than merely promising faster pizza. Japan Railway made a rapid cleaning process visible through bright uniforms and a choreographed “seven-minute theatre,” reducing cleanliness complaints. Uber’s maps, arrival stages, price explanations, and progress cues reduced cancellations without making cars travel faster.
 
-## Related entries
-- [[The Marketing Playground - Problem, Process, and Prize Experiences]]
-- [[The Aesop Playbook - Ritual Economics, Diagnostic Selling, and Engineering the Second Sale]]
-- [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- [[The Value Equation and the Grand Slam Offer]]
+## Relationships
+- **related:** [[The Marketing Playground - Problem, Process, and Prize Experiences]]
+- **related:** [[The Aesop Playbook - Ritual Economics, Diagnostic Selling, and Engineering the Second Sale]]
+- **related:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **related:** [[The Value Equation and the Grand Slam Offer]]
 
 ## Source reference
 Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Laws 13–15. Raw transcript archived in [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].

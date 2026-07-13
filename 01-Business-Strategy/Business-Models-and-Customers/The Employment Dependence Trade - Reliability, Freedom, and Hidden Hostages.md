@@ -1,5 +1,7 @@
 ---
 title: "The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/business-model, topic/org-design, topic/career, topic/incentives, topic/risk, topic/hiring, person/nassim-nicholas-taleb, source/skin-in-the-game]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2018"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -49,11 +53,11 @@ High priority, specificity, and continuity favor employment; modular output and 
 ## Notable examples
 Taleb's airline thought experiment shows a contractor accepting a better offer despite a penalty, leaving the airline unable to operate; employment would have purchased dependable availability. Conversely, the employee who cannot risk a mortgage or reputation may remain silent about a dangerous decision, placing someone else's skin in the organization's game.
 
-## Related entries
-- [[The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
-- [[You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
-- [[Staff for Strength - Design Jobs Around Exceptional Contribution]]
-- [[When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
+## Relationships
+- **related:** [[The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
+- **related:** [[You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
+- **related:** [[Staff for Strength - Design Jobs Around Exceptional Contribution]]
+- **applies:** [[When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
 
 ## Source reference
 Nassim Nicholas Taleb, *Skin in the Game: Hidden Asymmetries in Daily Life* (2018), [[2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript]].

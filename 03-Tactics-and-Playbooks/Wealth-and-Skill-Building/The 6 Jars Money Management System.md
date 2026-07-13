@@ -1,5 +1,7 @@
 ---
 title: "The 6 Jars Money Management System"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/money-management, topic/passive-income, topic/cash-flow, person/t-harv-eker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -43,11 +47,11 @@ This is the concrete allocation system Eker teaches inside Wealth File #14 ("Ric
 - A seminar participant near bankruptcy started with $1/month total (10¢ into FFA) and committed to doubling the monthly amount; by month twelve she was allocating $2,048/month and, within two years, was able to route a $10,000 bonus entirely into savings without needing any of it for expenses.
 - A participant facing a $400 impulse coat purchase caught herself mid-decision with "you'd be much better off putting that toward your FFA account" — evidence the system's value is as much behavioral (a reflex, once installed) as arithmetic.
 
-## Related entries
-- [[Manage Your Money Well - The Habit Matters More Than the Amount]]
-- [[Have Money Work Hard for You vs. Working Hard for Your Money]]
-- [[The First 100k - Defense-Before-Offense Playbook]]
-- [[Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
+## Relationships
+- **applies:** [[Manage Your Money Well - The Habit Matters More Than the Amount]]
+- **applies:** [[Have Money Work Hard for You vs. Working Hard for Your Money]]
+- **related:** [[The First 100k - Defense-Before-Offense Playbook]]
+- **applies:** [[Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #14. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

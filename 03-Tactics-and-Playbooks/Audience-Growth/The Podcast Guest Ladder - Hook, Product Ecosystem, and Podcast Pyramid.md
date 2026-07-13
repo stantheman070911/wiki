@@ -1,5 +1,7 @@
 ---
 title: "The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/personal-brand, topic/content-strategy, topic/distribution, topic/partnerships, topic/positioning, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -49,11 +53,11 @@ Move upward after repeated outperformance, not after merely appearing once.
 ## Notable examples
 Priestley attributes his first invitation to *The Diary of a CEO* to two unusually strong appearances on Ali Abdaal's show. The later booking was downstream of visible performance, not a direct attempt to skip the lower tiers.
 
-## Related entries
-- [[Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships]]
-- [[The Waterfall Distribution Method - One Pillar, a Week of Content]]
-- [[Centers of Influence - Selling Through Trusted Referrers]]
-- [[Brand Journey and the 3-Part Brand Story]]
+## Relationships
+- **applies:** [[Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships]]
+- **related:** [[The Waterfall Distribution Method - One Pillar, a Week of Content]]
+- **applies:** [[Centers of Influence - Selling Through Trusted Referrers]]
+- **applies:** [[Brand Journey and the 3-Part Brand Story]]
 
 ## Source reference
 Daniel Priestley, *How to Get on the World's Biggest Podcasts*. Raw transcript in [[2026-07-13_Video_DanielPriestley_HowToGetOnTheWorldsBiggestPodcasts_RawTranscript]].

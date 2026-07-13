@@ -1,5 +1,7 @@
 ---
 title: "Activation Before Automation - Manual Onboarding to Fix Churn"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/onboarding, topic/retention, topic/churn, topic/business-model, topic/do-things-that-dont-scale, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -54,12 +58,12 @@ He also noted that if many real-estate agents only sell a few houses per year, m
 - Do not optimize onboarding around users who should not be customers. If the wrong avatar churns, change acquisition rather than over-serving them.
 - A manual process can mask product weakness if the human does all the work. The goal is to learn what the product must make easier.
 
-## Related entries
-- [[The Five Advantages of a Perfect Business]]
-- [[Brand and Product Compounding - Too Good to Fail]]
-- [[The Framework for Making Frameworks - Distill by Commonality]]
-- [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
-- [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
+## Relationships
+- **applies:** [[The Five Advantages of a Perfect Business]]
+- **applies:** [[Brand and Product Compounding - Too Good to Fail]]
+- **applies:** [[The Framework for Making Frameworks - Distill by Commonality]]
+- **related:** [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
+- **applies:** [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.

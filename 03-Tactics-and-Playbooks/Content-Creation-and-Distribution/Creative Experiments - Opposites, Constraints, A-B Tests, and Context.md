@@ -1,5 +1,7 @@
 ---
 title: "Creative Experiments - Opposites, Constraints, A-B Tests, and Context"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/creativity, topic/innovation, topic/decision-making, topic/feedback, person/rick-rubin]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2023"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -50,11 +54,11 @@ If neither A nor B works, treat both as information and create C; the purpose is
 ## Notable examples
 Georges Perec wrote a novel without the letter “e,” Yves Klein limited his palette to a signature blue, and Dogme 95 constrained filmmakers to location shooting, available sound, handheld cameras, and other restrictions. Each constraint narrowed the means while opening a distinctive solution space.
 
-## Related entries
-- [[The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
-- [[Taste for Makers - Constraints for Designing Good Things]]
-- [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
-- [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+## Relationships
+- **applies:** [[The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
+- **applies:** [[Taste for Makers - Constraints for Designing Good Things]]
+- **applies:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- **applies:** [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
 
 ## Source reference
 Rick Rubin with Neil Strauss, *The Creative Act: A Way of Being* (2023). Raw transcript archived at [[2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript]].

@@ -1,5 +1,7 @@
 ---
 title: "First-Principles Thinking - Reason from Physics, Not Analogy"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/decision-making, topic/mental-models, person/elon-musk]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2026"
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -45,12 +49,12 @@ Musk credits a physicist's mode of thinking for most of his non-obvious decision
 - SpaceX pricing rockets from raw-material costs (first principles) instead of historical launch prices (analogy).
 - Thinking in limits to define the theoretical minimum mass or cost, then engineering toward it.
 
-## Related entries
-- [[The Algorithm - Musk's Five-Step Process Method]]
-- [[Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
-- [[The Framework for Making Frameworks - Distill by Commonality]]
-- [[Build Evidence, Not Confidence]]
-- [[決策、幸福與心智管理]]
+## Relationships
+- **related:** [[The Algorithm - Musk's Five-Step Process Method]]
+- **related:** [[Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
+- **related:** [[The Framework for Making Frameworks - Distill by Commonality]]
+- **related:** [[Build Evidence, Not Confidence]]
+- **related:** [[決策、幸福與心智管理]]
 
 ## Source reference
 Eric Jorgenson, *The Book of Elon* (2026), "Think Like a Physicist." Extraction notes in [[2026-07-08_Book_EricJorgenson_TheBookOfElon]]; PDF archived alongside.

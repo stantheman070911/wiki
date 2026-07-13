@@ -1,7 +1,11 @@
 ---
 title: "How To Make Your First100000"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "playlist"
+source_format: "source-note"
+processing_status: "processed"
 author: "Alex Hormozi"
 date_archived: "2026-07-08"
 status: "source"

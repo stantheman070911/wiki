@@ -1,5 +1,7 @@
 ---
 title: "The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/monetization, topic/offers, topic/content-strategy, topic/personal-brand, person/jun-yuh]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-10"
+updated: "2026-07-10"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -52,13 +56,13 @@ For creators selling a digital product, course, or event who post "it's live," e
 ## Notable examples
 - Jun Yuh's launch plan across products from his first digital product to the multi-million "Creator College," ~$10M total; used to sell out a 300-ticket Creator Life event in NYC.
 
-## Related entries
-- [[Creator Monetization Ladder and Content-Concept Formulas]]
-- [[Creator Vision Framework - What x Who x Why]]
-- [[Capture Dont Create - Engineering Proof at Scale]]
-- [[可信度行銷與公開建構]]
-- [[Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing]]
-- [[電子郵件名單：最被低估的自有高意圖資產]]
+## Relationships
+- **related:** [[Creator Monetization Ladder and Content-Concept Formulas]]
+- **applies:** [[Creator Vision Framework - What x Who x Why]]
+- **related:** [[Capture Dont Create - Engineering Proof at Scale]]
+- **applies:** [[可信度行銷與公開建構]]
+- **related:** [[Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing]]
+- **applies:** [[電子郵件名單：最被低估的自有高意圖資產]]
 
 ## Source reference
 Jun Yuh, *How To Actually Grow And Monetize Online in 2026 (PROVEN)* (event talk). Raw transcript archived at [[2026-07-10_Video_JunYuh_HowToGrowAndMonetizeOnline2026]]; further context in [[2026-07-10_Podcast_JunYuh_HowToBlowUpAnyPersonalBrand2026_The505Podcast]].

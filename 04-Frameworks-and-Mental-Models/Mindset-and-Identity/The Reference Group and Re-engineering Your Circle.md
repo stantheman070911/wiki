@@ -1,5 +1,7 @@
 ---
 title: "The Reference Group and Re-engineering Your Circle"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/leadership, person/alex-hormozi, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -49,10 +53,10 @@ Plus a partner/friend filter: same *scale* of goals (not identical goals) and th
 - Hormozi talks to one friend from school and one or two from college; convenience-based friendships fade as conditions change.
 - He used the goal-scale + dedication filter to choose Leila as his most important reference point.
 
-## Related entries
-- [[Fear, Regret, and Asymmetric Bets]]
-- [[Accountability and the Blame-Power Law]]
-- [[Focus as Elimination - The Deep-Work Playbook]]
+## Relationships
+- **related:** [[Fear, Regret, and Asymmetric Bets]]
+- **related:** [[Accountability and the Blame-Power Law]]
+- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].

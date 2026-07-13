@@ -1,5 +1,7 @@
 ---
 title: "The Swamp - The Messy Middle and the 40-for-2 Management Trade"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/scaling, topic/hiring, topic/delegation, topic/focus, topic/leverage, topic/decision-making, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -50,12 +54,12 @@ An apartment broker doing $250k couldn't identify his highest-leverage 6am actio
 - "Do twice the work for the same result" applies to headwinds you can't control — it's not license to ignore fixable problems.
 - The trade only works if you actually stop doing the handed-off work; staying in it means you bought a title, not leverage.
 
-## Related entries
-- [[Focus as Elimination - The Deep-Work Playbook]]
-- [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- [[Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
-- [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
+## Relationships
+- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
+- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **related:** [[Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
+- **related:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.

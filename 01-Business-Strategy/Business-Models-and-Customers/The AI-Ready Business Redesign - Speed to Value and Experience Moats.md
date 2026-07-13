@@ -1,5 +1,7 @@
 ---
 title: "The AI-Ready Business Redesign - Speed to Value and Experience Moats"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/ai, topic/business-model, topic/product, topic/moat, topic/memberships, topic/differentiation, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -45,11 +49,11 @@ Use a three-part redesign:
 ## Notable examples
 Priestley describes converting a hands-on book-coaching process into an AI-guided product and using agents to give every accelerator client forms of marketing and strategic assistance that previously would have been too expensive to deliver broadly.
 
-## Related entries
-- [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
-- [[The Attention Barbell - Brand as the AI-Era Moat]]
-- [[Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
-- [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
+## Relationships
+- **related:** [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
+- **related:** [[The Attention Barbell - Brand as the AI-Era Moat]]
+- **related:** [[Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
+- **related:** [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
 
 ## Source reference
 Daniel Priestley, *Your Business Is Dead - AI Reinvention*. Raw transcript in [[2026-07-13_Video_DanielPriestley_YourBusinessIsDeadAIReinvention_RawTranscript]].

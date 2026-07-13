@@ -1,5 +1,7 @@
 ---
 title: "Creative Cooperation - Feedback, Friction, and Choice C"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/creativity, topic/feedback, topic/decision-making, topic/leadership, person/rick-rubin]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2023"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -51,11 +55,11 @@ The goal is not unanimous taste on every detail; it is a fair process that extra
 ## Notable examples
 Rubin compares cooperation to a jazz ensemble: members alternately lead, support, and leave space in response to the evolving whole. The strongest contribution at a given moment may be a solo, a counterpoint, or silence.
 
-## Related entries
-- [[Recognize How to Get Beyond Disagreements]]
-- [[Get and Stay in Sync]]
-- [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
-- [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
+## Relationships
+- **related:** [[Recognize How to Get Beyond Disagreements]]
+- **related:** [[Get and Stay in Sync]]
+- **related:** [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **related:** [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
 
 ## Source reference
 Rick Rubin with Neil Strauss, *The Creative Act: A Way of Being* (2023). Raw transcript archived at [[2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript]].

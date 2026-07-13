@@ -1,5 +1,7 @@
 ---
 title: "The Seven Levels of Business Growth - From Side Hustle to Exit"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/growth, topic/scaling, topic/business-model, topic/delegation, topic/org-design, topic/m-and-a, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -45,11 +49,11 @@ The central strategic fork is between a **lifestyle boutique**—roughly 4–12 
 ## Notable examples
 Priestley describes losing access to prominent partners during the financial crisis and discovering that the attention, reputation, and market access had belonged to those partners rather than to his company. The next stage required formalizing assets the business itself owned.
 
-## Related entries
-- [[The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns]]
-- [[The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]]
-- [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
-- [[Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment]]
+## Relationships
+- **related:** [[The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns]]
+- **applies:** [[The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]]
+- **applies:** [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **related:** [[Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment]]
 
 ## Source reference
 Daniel Priestley, *Seven Levels of Business*. Raw transcript in [[2026-07-13_Video_DanielPriestley_SevenLevelsOfBusiness_RawTranscript]].

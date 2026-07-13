@@ -1,5 +1,7 @@
 ---
 title: "Profit Is Unnatural - Defending Margin Against Organizational Creep"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/margins, topic/cash-flow, topic/efficiency, topic/operations, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,12 +52,12 @@ Assign one leader explicit responsibility for preserving the gap between revenue
 ## Notable examples
 Hormozi relays a billionaire mentor's observation that businesses slowly eat their own profits because people keep finding reasons to spend. The practical countermeasure is a person who repeatedly holds expenses down while revenue rises, preserving the widening spread rather than allowing headcount to absorb it.
 
-## Related entries
-- [[Maximize Net Cash, Not ROAS - The Percentage Lies]]
-- [[Compete on Efficiency When You Can't Control Price]]
-- [[Focus as Elimination - The Deep-Work Playbook]]
-- [[Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
-- [[Wealth Creation - Measurement, Leverage, and Compressed Work]]
+## Relationships
+- **related:** [[Maximize Net Cash, Not ROAS - The Percentage Lies]]
+- **related:** [[Compete on Efficiency When You Can't Control Price]]
+- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
+- **related:** [[Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
+- **related:** [[Wealth Creation - Measurement, Leverage, and Compressed Work]]
 
 ## Source reference
 Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

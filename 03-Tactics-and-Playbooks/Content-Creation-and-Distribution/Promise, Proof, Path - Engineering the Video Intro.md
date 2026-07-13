@@ -1,5 +1,7 @@
 ---
 title: "Promise, Proof, Path - Engineering the Video Intro"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/short-form-video, topic/hooks, topic/retention, topic/content-strategy, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -46,11 +50,11 @@ Example intro that hits all three: "I sold my company for $46.2 million — a bi
 - Hormozi's audit of his top 35 intros → the Promise-Proof-Path pattern (see [[The Framework for Making Frameworks - Distill by Commonality]]).
 - MrBeast's rule of thumb: a video made ~20% better on the key metrics returns disproportionately (≈100×), not linearly.
 
-## Related entries
-- [[短影音文案全公式：標題、開頭、結尾與腳本結構]]
-- [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
-- [[The Framework for Making Frameworks - Distill by Commonality]]
-- [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
+## Relationships
+- **related:** [[短影音文案全公式：標題、開頭、結尾與腳本結構]]
+- **related:** [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
+- **applies:** [[The Framework for Making Frameworks - Distill by Commonality]]
+- **related:** [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
 
 ## Source reference
 Alex Hormozi, *Building a brand, but it's on easy mode instead*. Extraction notes in [[2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode]].

@@ -1,7 +1,11 @@
 ---
 title: "創業解惑社QA整理"
+type: "source"
+domain: "source-library"
 lang: "zh"
 source_type: "conversation"
+source_format: "source-note"
+processing_status: "processed"
 author: "阿金"
 date_archived: "2026-07-08"
 status: "source"

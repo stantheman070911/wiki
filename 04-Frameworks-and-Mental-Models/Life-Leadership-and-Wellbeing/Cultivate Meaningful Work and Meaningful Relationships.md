@@ -1,5 +1,7 @@
 ---
 title: "Cultivate Meaningful Work and Meaningful Relationships"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/culture, topic/leadership, topic/trust, topic/org-design, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -38,11 +42,11 @@ Second chapter of Work Principles, following directly from radical truth and tra
 ## Notable examples
 - **The NYC office shuttle bus complaint.** Bridgewater ran a free shuttle bus as a generosity, not an entitlement; when the schedule changed and employees complained as though a right had been revoked, it became Dalio's go-to illustration of confusing generosity with an earned entitlement.
 
-## Related entries
-- [[Trust in Radical Truth and Radical Transparency]]
-- [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
-- [[Get and Stay in Sync]]
-- [[The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch]]
+## Relationships
+- **related:** [[Trust in Radical Truth and Radical Transparency]]
+- **related:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **related:** [[Get and Stay in Sync]]
+- **related:** [[The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 2 ("Cultivate Meaningful Work and Meaningful Relationships"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

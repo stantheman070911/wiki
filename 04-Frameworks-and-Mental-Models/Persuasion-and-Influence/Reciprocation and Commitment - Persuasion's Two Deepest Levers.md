@@ -1,5 +1,7 @@
 ---
 title: "Reciprocation and Commitment - Persuasion's Two Deepest Levers"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/persuasion, topic/commitment, topic/consistency, person/robert-cialdini]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -47,12 +51,12 @@ Cialdini's first two principles are the deepest because they exploit near-univer
 - Foot-in-the-door: tiny sticker → giant lawn sign.
 - Lowball: the car priced attractively to win the decision, then quietly raised.
 
-## Related entries
-- [[Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
-- [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
-- [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
-- [[The Attention Barbell - Brand as the AI-Era Moat]]
-- [[身份、故事與致勝三步]]
+## Relationships
+- **related:** [[Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
+- **related:** [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
+- **related:** [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
+- **related:** [[The Attention Barbell - Brand as the AI-Era Moat]]
+- **related:** [[身份、故事與致勝三步]]
 
 ## Source reference
 Robert B. Cialdini, *Influence: The Psychology of Persuasion*, ch. 2–3. Extraction notes in [[2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion]]; PDF archived alongside.

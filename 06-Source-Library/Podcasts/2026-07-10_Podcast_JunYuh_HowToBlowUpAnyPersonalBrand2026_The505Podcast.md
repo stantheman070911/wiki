@@ -1,7 +1,11 @@
 ---
 title: "How To Blow Up ANY Personal Brand in 2026 (and Get Rich) — ft Jun Yuh (THE 505 PODCAST)"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "podcast"
+source_format: "source-note"
+processing_status: "processed"
 author: "Jun Yuh"
 date_archived: "2026-07-10"
 status: "source"

@@ -1,8 +1,12 @@
 ---
 title: "Change the Comparison Before You Change the Price"
+type: "article"
+domain: "articles"
 lang: "en"
 tags: [topic/pricing, topic/positioning, topic/differentiation, topic/competition, topic/offers, topic/persuasion]
 date_added: "2026-07-12"
+updated: "2026-07-12"
+reviewed_on: ""
 status: "draft"
 ---
 

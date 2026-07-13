@@ -1,5 +1,7 @@
 ---
 title: "Creative Success - Judge the Work Before the Outcome"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/creativity, topic/mindset, topic/identity, topic/decision-making, person/rick-rubin]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2023"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -47,11 +51,11 @@ Use the market scorecard to learn about distribution and reception, not to retro
 ## Notable examples
 Rubin describes the upward exchange among the Beatles, the Beach Boys, and their producers: *Rubber Soul* inspired *Pet Sounds*, which then helped inspire *Sgt. Pepper*. The standard rose through admiration and mutual influence rather than a zero-sum attempt to diminish the other artist.
 
-## Related entries
-- [[Finish and Release - Abundance Beats Perfectionism]]
-- [[Independent-Mindedness - Separate Truth from Identity and Conformism]]
-- [[Playing to Win vs. Playing Not to Lose]]
-- [[Taste for Makers - Constraints for Designing Good Things]]
+## Relationships
+- **related:** [[Finish and Release - Abundance Beats Perfectionism]]
+- **related:** [[Independent-Mindedness - Separate Truth from Identity and Conformism]]
+- **related:** [[Playing to Win vs. Playing Not to Lose]]
+- **related:** [[Taste for Makers - Constraints for Designing Good Things]]
 
 ## Source reference
 Rick Rubin with Neil Strauss, *The Creative Act: A Way of Being* (2023). Raw transcript archived at [[2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript]].

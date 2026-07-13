@@ -1,5 +1,7 @@
 ---
 title: "Outbound and Inbound Are Separate Teams - The Sales Career Ladder"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/hiring, topic/sales, topic/compensation, topic/org-design, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-09"
+updated: "2026-07-09"
+reviewed_on: "2026-07-09"
 status: "reviewed"
 ---
 
@@ -48,11 +52,11 @@ A door-to-door roofing sales organization saw its outbound door-knocking hustle 
 - This applies to comparable-effort-reward lead types; if inbound leads convert so rarely that they aren't actually easier, the crowding-out effect may not occur.
 - Some organizations deliberately keep top performers on a blend once they're proven, treating the blended role itself as the top rung of the ladder — the key is that it's earned, not default.
 
-## Related entries
-- [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- [[Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
-- [[Sales Systems as Intellectual Property - Process Above the Player]]
-- [[Volume and Feedback - Sales as the Training Ground]]
+## Relationships
+- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **related:** [[Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
+- **related:** [[Sales Systems as Intellectual Property - Process Above the Player]]
+- **related:** [[Volume and Feedback - Sales as the Training Ground]]
 
 ## Source reference
 Alex Hormozi, business-breakdown/AMA compilation (service business scaling segment, roofing example). Raw transcript archived in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript]]; extraction notes in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].

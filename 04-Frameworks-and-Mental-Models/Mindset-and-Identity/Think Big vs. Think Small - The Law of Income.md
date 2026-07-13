@@ -1,5 +1,7 @@
 ---
 title: "Think Big vs. Think Small - The Law of Income"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/value-creation, topic/growth, person/t-harv-eker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -31,10 +35,10 @@ Wealth File #4. Eker defines an entrepreneur simply as "a person who solves prob
 - Take whatever number of people you currently affect through your job or business and brainstorm at least three concrete strategies to reach 10x that number — think in terms of leverage, not just more hours.
 - When evaluating a new venture or role, explicitly set the intended scale (how many people/customers) at the outset rather than letting it emerge passively — the intention set at the start shapes the ceiling.
 
-## Related entries
-- [[Playing to Win vs. Playing Not to Lose]]
-- [[Willing to Self-Promote vs. Averse to Selling]]
-- [[Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
+## Relationships
+- **related:** [[Playing to Win vs. Playing Not to Lose]]
+- **related:** [[Willing to Self-Promote vs. Averse to Selling]]
+- **related:** [[Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #4. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

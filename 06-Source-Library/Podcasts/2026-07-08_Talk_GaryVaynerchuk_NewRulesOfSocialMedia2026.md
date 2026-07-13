@@ -1,7 +1,11 @@
 ---
 title: "New Rules Of Social Media2026"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "talk"
+source_format: "source-note"
+processing_status: "processed"
 author: "Gary Vaynerchuk"
 date_archived: "2026-07-08"
 status: "source"

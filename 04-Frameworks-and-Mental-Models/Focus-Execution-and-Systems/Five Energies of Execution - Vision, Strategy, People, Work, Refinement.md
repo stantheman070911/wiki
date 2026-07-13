@@ -1,5 +1,7 @@
 ---
 title: "Five Energies of Execution - Vision, Strategy, People, Work, Refinement"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/execution, topic/leadership, topic/systems, topic/focus, person/daniel-priestley, source/daniel-priestley-youtube]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -49,11 +53,11 @@ The weakest answer identifies the energy to emphasize next. Recheck after the co
 ## Notable examples
 Priestley describes leaving a high-reach social platform after its outrage-heavy feed lowered his energy. The audience metric looked positive, but the downstream effect on judgment and action was negative.
 
-## Related entries
-- [[The 5A Operating System - Alignment, Awareness, Accountabilities, Activities, and Assets]]
-- [[The Effective Executive - Five Learnable Practices]]
-- [[Finish and Release - Abundance Beats Perfectionism]]
-- [[Creative Cooperation - Feedback, Friction, and Choice C]]
+## Relationships
+- **related:** [[The 5A Operating System - Alignment, Awareness, Accountabilities, Activities, and Assets]]
+- **related:** [[The Effective Executive - Five Learnable Practices]]
+- **related:** [[Finish and Release - Abundance Beats Perfectionism]]
+- **related:** [[Creative Cooperation - Feedback, Friction, and Choice C]]
 
 ## Source reference
 Daniel Priestley, *25 Harsh Truths at 45*. Raw transcript in [[2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript]].

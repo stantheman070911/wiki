@@ -1,7 +1,13 @@
 ---
 title: "Paul Graham - Collected Essays"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "essays"
+source_format: "raw-collection"
+processing_status: "processed"
+large_source: true
+split_decision: "retained-single-file"
 author: "Paul Graham"
 date_archived: "2026-07-13"
 status: "source"

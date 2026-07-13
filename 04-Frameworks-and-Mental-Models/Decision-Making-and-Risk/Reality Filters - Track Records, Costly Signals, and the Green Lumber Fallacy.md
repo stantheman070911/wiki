@@ -1,5 +1,7 @@
 ---
 title: "Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/proof, topic/believability, topic/research, topic/decision-making, topic/learning, topic/risk, person/nassim-nicholas-taleb, source/skin-in-the-game]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2018"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -51,11 +55,11 @@ Lower levels can help screen candidates but should not override contradictory ev
 ## Notable examples
 Taleb's surgeon who looks like a butcher may be the stronger choice because a successful career despite the appearance implies a powerful reality filter. The green-lumber trader knew less descriptive detail than his bankrupt counterpart but understood the market variables that determined survival.
 
-## Related entries
-- [[Believability-Weight Your Decision Making]]
-- [[The Lindy Effect - Time as a Filter for Robust Ideas and Practices]]
-- [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
-- [[Contribution Before Activity - Define Results and Make Knowledge Usable]]
+## Relationships
+- **related:** [[Believability-Weight Your Decision Making]]
+- **related:** [[The Lindy Effect - Time as a Filter for Robust Ideas and Practices]]
+- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **related:** [[Contribution Before Activity - Define Results and Make Knowledge Usable]]
 
 ## Source reference
 Nassim Nicholas Taleb, *Skin in the Game: Hidden Asymmetries in Daily Life* (2018), [[2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript]].

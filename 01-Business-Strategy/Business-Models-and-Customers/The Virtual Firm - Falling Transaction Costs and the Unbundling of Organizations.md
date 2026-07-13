@@ -1,5 +1,7 @@
 ---
 title: "The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/business-model, topic/org-design, topic/automation, topic/systems, topic/efficiency, topic/ai, person/james-dale-davidson, person/william-rees-mogg, source/the-sovereign-individual]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "1997"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -51,11 +55,11 @@ Internalize when specificity, interdependence, and emergency value dominate; use
 ## Notable examples
 An industrial assembly line could theoretically have been operated by hundreds of independent contractors, but constant bargaining, mismatched investment, and holdouts would have destroyed its scale advantage. Digital systems lower those costs, allowing smaller “virtual” organizations, yet the same logic warns that a perfectly lean dependency chain can become brittle.
 
-## Related entries
-- [[The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages]]
-- [[The AI-Ready Business Redesign - Speed to Value and Experience Moats]]
-- [[Technology Platforms - How New Protocols and Tools Shift Power]]
-- [[Special-Forces Teams and Flat Organizations]]
+## Relationships
+- **related:** [[The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages]]
+- **related:** [[The AI-Ready Business Redesign - Speed to Value and Experience Moats]]
+- **related:** [[Technology Platforms - How New Protocols and Tools Shift Power]]
+- **related:** [[Special-Forces Teams and Flat Organizations]]
 
 ## Source reference
 James Dale Davidson and William Rees-Mogg, *The Sovereign Individual* (1997), [[2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript]].

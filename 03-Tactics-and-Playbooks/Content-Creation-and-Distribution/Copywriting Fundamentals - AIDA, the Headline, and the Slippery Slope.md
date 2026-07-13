@@ -1,5 +1,7 @@
 ---
 title: "Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/copywriting, topic/hooks, topic/persuasion, topic/advertising, person/sam-parr]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-10"
+updated: "2026-07-10"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -49,13 +53,13 @@ For anyone writing ads, hooks, scripts, or sales pages who wants the load-bearin
 - Hopkins' "They laughed when I sat down at the piano…" — a curiosity-gap headline selling a music course; later inspiration for Upworthy-style clickbait that took a site 0→200M monthly visits.
 - The Hustle's "My friends think I'm smart. I'm not." ad — ~$10M spent, singularly responsible for the exit.
 
-## Related entries
-- [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
-- [[Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections]]
-- [[Promise, Proof, Path - Engineering the Video Intro]]
-- [[短影音文案全公式：標題、開頭、結尾與腳本結構]]
-- [[Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
-- [[Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
+## Relationships
+- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **related:** [[Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections]]
+- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
+- **related:** [[短影音文案全公式：標題、開頭、結尾與腳本結構]]
+- **applies:** [[Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
+- **applies:** [[Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
 
 ## Source reference
 Sam Parr, *The $2 Billion Copywriting Secret Behind The Most Successful Ad Ever* (Sweat Equity podcast). Raw transcript archived at [[2026-07-10_Podcast_SamParr_The2BillionCopywritingSecret]].

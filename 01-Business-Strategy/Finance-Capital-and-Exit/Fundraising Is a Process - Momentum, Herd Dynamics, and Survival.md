@@ -1,5 +1,7 @@
 ---
 title: "Fundraising Is a Process - Momentum, Herd Dynamics, and Survival"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/startups, topic/capital, topic/equity, topic/risk, topic/decision-making, person/paul-graham, source/paul-graham-essays]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://paulgraham.com/articles.html"
   date_of_source: "2007-2013"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -42,10 +46,10 @@ Use a four-phase process: **prepare evidence and target list → open conversati
 ## Notable examples
 Convertible notes enabled “high-resolution fundraising”: different investors could close at different times and prices, rewarding decisive participants while breaking the deadlock created by everyone asking who else was investing.
 
-## Related entries
-- [[Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
-- [[Fear, Regret, and Asymmetric Bets]]
-- [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
+## Relationships
+- **related:** [[Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
+- **applies:** [[Fear, Regret, and Asymmetric Bets]]
+- **related:** [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
 
 ## Source reference
 Paul Graham, “How to Raise Money,” “A Fundraising Survival Guide,” “How to Convince Investors,” “Investor Herd Dynamics,” “High Resolution Fundraising,” and “How to Fund a Startup,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

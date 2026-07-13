@@ -1,5 +1,7 @@
 ---
 title: "Bigger Than Your Problems vs. Smaller Than Your Problems"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/decision-making, topic/identity, person/t-harv-eker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -32,10 +36,10 @@ Wealth File #9. Eker generalizes this into a container metaphor: your wealth can
 - When facing a specific problem, write ten concrete actions that could resolve or improve it — this forcibly shifts you from problem-narration into solution-generation.
 - Treat "growing yourself" as the actual wealth strategy: instead of only chasing bigger opportunities, deliberately take on responsibilities slightly past your current comfort level so your capacity keeps pace with (or leads) your income.
 
-## Related entries
-- [[Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim]]
-- [[Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
-- [[I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle]]
+## Relationships
+- **related:** [[Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim]]
+- **related:** [[Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
+- **related:** [[I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #9. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

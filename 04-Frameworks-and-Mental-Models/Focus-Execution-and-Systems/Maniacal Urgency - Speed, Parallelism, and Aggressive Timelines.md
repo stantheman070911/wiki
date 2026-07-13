@@ -1,5 +1,7 @@
 ---
 title: "Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/execution, person/elon-musk]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2026"
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -45,12 +49,12 @@ Across SpaceX and Tesla, Musk treats time as the scarce resource and pace as a c
 - SpaceX and Tesla's compressed development cycles built on parallel workstreams and aggressive internal targets.
 - Musk living on production lines and leading from the frontline during crises.
 
-## Related entries
-- [[The Algorithm - Musk's Five-Step Process Method]]
-- [[The Factory Is the Product - Manufacturing as the Moat]]
-- [[First-Principles Thinking - Reason from Physics, Not Analogy]]
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- [[Finite vs Infinite Games - Winning by Emptying the Tank]]
+## Relationships
+- **related:** [[The Algorithm - Musk's Five-Step Process Method]]
+- **related:** [[The Factory Is the Product - Manufacturing as the Moat]]
+- **related:** [[First-Principles Thinking - Reason from Physics, Not Analogy]]
+- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
+- **related:** [[Finite vs Infinite Games - Winning by Emptying the Tank]]
 
 ## Source reference
 Eric Jorgenson, *The Book of Elon* (2026), "Maniacal Urgency." Extraction notes in [[2026-07-08_Book_EricJorgenson_TheBookOfElon]]; PDF archived alongside.

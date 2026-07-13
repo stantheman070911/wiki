@@ -1,5 +1,7 @@
 ---
 title: "Don't Overlook Governance"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/org-design, topic/leadership, topic/idea-meritocracy, topic/management, person/ray-dalio, source/bridgewater-associates]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -38,11 +42,11 @@ Sixteenth and final chapter of Work Principles. Dalio explicitly frames this as 
 ## Notable examples
 - **The 2016 CEO reshuffle.** Greg Jensen was overloaded trying to serve as both co-CEO and co-CIO simultaneously; the failure led to a painful temporary demotion and Dalio stepping back in as co-CEO for roughly a year. On advice from Jim Collins — "put capable CEOs in place and have a capable governance system to replace them if they're not capable" — Dalio realized Bridgewater had never built formal governance, because he himself had always been the informal check on the organization. This is the direct origin of this chapter and of Bridgewater's current board structure.
 
-## Related entries
-- [[Manage as Someone Operating a Machine to Achieve a Goal]]
-- [[Recognize How to Get Beyond Disagreements]]
-- [[Remember That the WHO Is More Important Than the WHAT]]
-- [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
+## Relationships
+- **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
+- **applies:** [[Recognize How to Get Beyond Disagreements]]
+- **related:** [[Remember That the WHO Is More Important Than the WHAT]]
+- **related:** [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 16 ("And for Heaven's Sake, Don't Overlook Governance!"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.

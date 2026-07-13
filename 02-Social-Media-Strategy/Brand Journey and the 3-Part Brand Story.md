@@ -1,5 +1,7 @@
 ---
 title: "Brand Journey and the 3-Part Brand Story"
+type: "strategy"
+domain: "social-media-strategy"
 lang: "en"
 tags: [topic/personal-brand, topic/brand, topic/positioning, topic/narrative, person/caleb-ralston]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -48,12 +52,12 @@ Working backward from the outcome ensures every piece of content and every skill
 - Caleb Ralston's own story: Catalyst (brands scaling views but not trust — the gap was big-picture clarity), Core Truth (a brand is built by intentionally pairing relevant things done consistently, not by going viral), Proof (has built brands that scale businesses to millions, and shows how for free).
 - Nike (Catalyst), Russ (Core Truth), GaryVee (Proof).
 
-## Related entries
-- [[Creator Vision Framework - What x Who x Why]]
-- [[The Personal-Brand House - Foundation, Interior, Exterior]]
-- [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- [[Positioning - Own a Word in the Prospect's Mind]]
-- [[The Waterfall Distribution Method - One Pillar, a Week of Content]]
+## Relationships
+- **related:** [[Creator Vision Framework - What x Who x Why]]
+- **related:** [[The Personal-Brand House - Foundation, Interior, Exterior]]
+- **applies:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
+- **related:** [[The Waterfall Distribution Method - One Pillar, a Week of Content]]
 
 ## Source reference
 Caleb Ralston, *How to Build Your Brand Workbook*, ch. 1–2. Extraction notes in [[2026-07-08_Workbook_CalebRalston_HowToBuildYourBrand]]; PDF archived alongside.

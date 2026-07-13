@@ -1,7 +1,11 @@
 ---
 title: "Steve Jobs' 2005 Stanford Commencement Address - Raw Transcript"
+type: "source"
+domain: "source-library"
 lang: "en"
 source_type: "presentation"
+source_format: "raw-transcript"
+processing_status: "processed"
 author: "Steve Jobs"
 date_archived: "2026-07-13"
 status: "source"

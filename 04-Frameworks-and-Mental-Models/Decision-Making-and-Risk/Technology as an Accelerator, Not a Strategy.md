@@ -1,5 +1,7 @@
 ---
 title: "Technology as an Accelerator, Not a Strategy"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/innovation, topic/decision-making, topic/systems, topic/risk, person/jim-collins, source/good-to-great]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2001"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -48,12 +52,12 @@ Technological shifts generate fear of being left behind and pressure companies i
 ## Notable examples
 Walgreens cautiously tested the internet, then connected online prescriptions to its convenience and distribution system before scaling. Kroger used scanners to release cash trapped in inventory and fund store modernization. Nucor's mini-mill technology mattered because its culture and economics could exploit it; the same equipment would not have repaired Bethlehem Steel's management failures.
 
-## Related entries
-- [[The AI-Ready Business Redesign - Speed to Value and Experience Moats]]
-- [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
-- [[Man and Machine - Why Computers Complement Humans Instead of Replacing Them]]
-- [[The Factory Is the Product - Manufacturing as the Moat]]
-- [[The Hedgehog Concept - Three Circles and the Economic Denominator]]
+## Relationships
+- **related:** [[The AI-Ready Business Redesign - Speed to Value and Experience Moats]]
+- **related:** [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
+- **related:** [[Man and Machine - Why Computers Complement Humans Instead of Replacing Them]]
+- **related:** [[The Factory Is the Product - Manufacturing as the Moat]]
+- **related:** [[The Hedgehog Concept - Three Circles and the Economic Denominator]]
 
 ## Source reference
 Jim Collins, *Good to Great*, chapter 7, "Technology Accelerators" (2001). [[2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript]].

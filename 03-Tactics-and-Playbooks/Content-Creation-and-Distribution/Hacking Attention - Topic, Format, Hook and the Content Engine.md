@@ -1,5 +1,7 @@
 ---
 title: "Hacking Attention - Topic, Format, Hook and the Content Engine"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/content-strategy, topic/hooks, topic/short-form-video, topic/creative-volume, topic/research, person/tuan-le, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-10"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -32,14 +36,16 @@ For anyone posting short-form video for a brand or personal brand who gets low v
 - **Emotion preserves attention longer than neutrality.** Threat, surprise, conflict, and specificity demand a response. A message that produces love or dislike can travel; indifference produces neither memory nor action.
 
 ## Framework / model (if applicable)
-**Reverse-engineer a viral video in ~15 minutes:**
+### Reverse-engineer a viral video in ~15 minutes
 1. **Search the emotional topic your audience already lives in** on TikTok/Reels (e.g. a dentist searches things people are embarrassed to ask; a cleaner searches "satisfying cleaning").
 2. **Find 3-5 videos with 1M+ views from *small* accounts** — big-account views come from an existing audience, so a small account punching above its weight proves the *format* is doing the work.
 3. **Study one or two frame-by-frame** — how it opens, first thing seen/heard, cut speed, pacing, energy — and write down the skeleton.
 4. **Rebuild that skeleton with your brand inside it** (same pacing, beats, cuts), changing only the subject.
 5. **Build a hook that does at least one of:** ask a question they can't leave unanswered, show something visually unexpected, or drop an instant-trust credential. Two of the three in one hook nearly guarantees the win. (e.g. "Pad Thai recipe" is a topic; "Thai Express Pad Thai vs a real Thai chef's Pad Thai" is a hook — credential + comparison + implied question.)
 
-**The five-second test:** remove introductions, logos, establishing shots, and pleasantries from the opening. Lead with the strongest promise, provocation, or unresolved contrast, then deliver on it immediately. The opening earns the right to every second that follows.
+### The five-second test
+
+remove introductions, logos, establishing shots, and pleasantries from the opening. Lead with the strongest promise, provocation, or unresolved contrast, then deliver on it immediately. The opening earns the right to every second that follows.
 
 ## Tactics / how to apply
 - Before editing, pressure-test the first 2 seconds in isolation: would it beat the group chat?
@@ -53,14 +59,14 @@ For anyone posting short-form video for a brand or personal brand who gets low v
 - A cinematic food channel's beautiful videos got ~200 views; a copied "hey chef, make me something" format got a restaurant 700k on the first try — the format carried it.
 - The "Bold" content engine: no weekly blank page — a defined format-finding process, a scroll-stopping hook list, weekly reviews, and a reliable cadence produced ~900M views over 12 months.
 
-## Related entries
-- [[Promise, Proof, Path - Engineering the Video Intro]]
-- [[The Seven Factors of a Short - Topic to Editing]]
-- [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
-- [[對標方法論與靈感池系統]]
-- [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
-- [[Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing]]
-- [[Absurdity as a Brand Signal]]
+## Relationships
+- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
+- **related:** [[The Seven Factors of a Short - Topic to Editing]]
+- **related:** [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
+- **applies:** [[對標方法論與靈感池系統]]
+- **related:** [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
+- **related:** [[Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing]]
+- **applies:** [[Absurdity as a Brand Signal]]
 
 ## Source reference
 Tuan Le, *How to Go Insanely Viral (Almost) Every Time by Hacking Attention* (video). Extraction notes and raw transcript archived at [[2026-07-10_Video_TuanLe_HowToGoViralByHackingAttention]].

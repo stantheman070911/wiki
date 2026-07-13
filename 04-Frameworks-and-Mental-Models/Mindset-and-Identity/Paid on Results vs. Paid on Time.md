@@ -1,5 +1,7 @@
 ---
 title: "Paid on Results vs. Paid on Time"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/compensation, topic/business-model, topic/mindset, person/t-harv-eker]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -31,10 +35,10 @@ Wealth File #11. Eker's core objection to the "go to school, get a steady job" s
 - If you run a business, restructure supplier or employee compensation to include a results-based component rather than pure time-based pay.
 - If a results-based structure isn't available where you are, evaluate starting a side business, joining as a commissioned salesperson, or converting to an independent contractor relationship — the tax and leverage benefits of business ownership compound the income benefit.
 
-## Related entries
-- [[Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
-- [[Think Big vs. Think Small - The Law of Income]]
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
+## Relationships
+- **related:** [[Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
+- **related:** [[Think Big vs. Think Small - The Law of Income]]
+- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #11. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

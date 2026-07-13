@@ -1,5 +1,9 @@
 ---
 title: "Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity"
+aliases:
+  - "Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/mindset, topic/decision-making, topic/wealth, person/t-harv-eker]
 source:
@@ -9,6 +13,8 @@ source:
   url: ""
   date_of_source: "2005"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -31,10 +37,10 @@ Wealth File #12. Eker frames this as a scarcity-vs-abundance split: poor and mid
 - When spending money, consciously note that the transaction creates value for both sides rather than depleting a shared pool — this is a deliberate counter to scarcity framing, not literal accounting advice.
 - Use yourself as a visible counterexample to the "money corrupts" belief: be deliberately generous and kind in ways that are visible to people who hold the scarcity belief.
 
-## Related entries
-- [[Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim]]
-- [[Manage Your Money Well - The Habit Matters More Than the Amount]]
-- [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
+## Relationships
+- **related:** [[Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim]]
+- **related:** [[Manage Your Money Well - The Habit Matters More Than the Amount]]
+- **related:** [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #12. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

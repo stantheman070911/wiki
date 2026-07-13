@@ -1,5 +1,7 @@
 ---
 title: "The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/culture, topic/hiring, topic/recruiting, topic/org-design, topic/startups, person/peter-thiel, person/steven-bartlett]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: "2014"
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: "2026-07-13"
 status: "reviewed"
 ---
 
@@ -31,7 +35,9 @@ Thiel names this after the "PayPal Mafia" — the alumni network (Musk/SpaceX+Te
 - **Startup intensity has a lifecycle.** Cult-like commitment may help a founding team survive the zero-to-one phase, but it must mature through growth into sustainable systems, autonomy, psychological safety, and reasonable demands. Permanent emergency intensity produces burnout, not durable culture.
 
 ## Framework / model (if applicable)
-**The cult–consultancy spectrum as a hiring filter.** Before extending an offer, ask two questions in this order: (1) does this person share the specific obsession the mission requires, not just general competence? (2) will this person actually want to be around this specific team, or are they choosing you as one of several similar-looking options? A "yes" to generic-company-appeal questions (stock, smart people, big problems) without a "yes" to these two is a weak hire even if the résumé is strong.
+### The cult–consultancy spectrum as a hiring filter
+
+Before extending an offer, ask two questions in this order: (1) does this person share the specific obsession the mission requires, not just general competence? (2) will this person actually want to be around this specific team, or are they choosing you as one of several similar-looking options? A "yes" to generic-company-appeal questions (stock, smart people, big problems) without a "yes" to these two is a weak hire even if the résumé is strong.
 
 Track the company through four phases—**cult, growth, enterprise, decline**—and redesign the operating culture before the strengths of one phase become the failure mode of the next. Early sacrifice cannot remain the default employment contract; enterprise stability cannot become complacency and risk avoidance.
 
@@ -47,12 +53,12 @@ Track the company through four phases—**cult, growth, enterprise, decline**—
 - The PayPal Mafia: seven billion-dollar-plus companies (as of the book's writing) founded or co-founded by former PayPal colleagues — offered as evidence that culture-as-mission outlasts the original company.
 - James Doohan (Scotty from Star Trek) as PayPal's spokesman flopped; William Shatner (Kirk) worked for Priceline years later once Priceline was already a major, recognized player — illustrating that pure star-power stunts aren't a substitute for an actual audience-fit strategy, tying back to the "sell your company to the media" idea in [[Distribution Is Destiny - The Sales Channel Power Law]].
 
-## Related entries
-- [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
-- [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- [[Special-Forces Teams and Flat Organizations]]
-- [[Distribution Is Destiny - The Sales Channel Power Law]]
-- [[Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
+## Relationships
+- **related:** [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
+- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **related:** [[Special-Forces Teams and Flat Organizations]]
+- **related:** [[Distribution Is Destiny - The Sales Channel Power Law]]
+- **related:** [[Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
 
 ## Source reference
 Peter Thiel with Blake Masters, *Zero to One*, ch. 10 ("The Mechanics of Mafia"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.

@@ -1,5 +1,7 @@
 ---
 title: "The Customer-Base Test Kitchen - Distributed R&D Before Rollout"
+type: "playbook"
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: [topic/research, topic/feedback, topic/product, topic/systems, topic/innovation, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
+updated: "2026-07-13"
+reviewed_on: ""
 status: "draft"
 ---
 
@@ -49,12 +53,12 @@ The monthly test-kitchen cycle:
 ## Notable examples
 At Gym Launch, Hormozi reports selecting roughly 10–20 representative gyms and assigning a monthly R&D budget to the biggest shared problem. About half the tests failed, but even those results saved the wider customer base from running the same losing experiments; winners were then rolled out system-wide.
 
-## Related entries
-- [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
-- [[Content Planner and the Analyze-Double-Down Loop]]
-- [[Diagnose Problems to Get at Their Root Causes]]
-- [[The Framework for Making Frameworks - Distill by Commonality]]
-- [[Design Improvements to Your Machine to Get Around Your Problems]]
+## Relationships
+- **applies:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- **related:** [[Content Planner and the Analyze-Double-Down Loop]]
+- **related:** [[Diagnose Problems to Get at Their Root Causes]]
+- **applies:** [[The Framework for Making Frameworks - Distill by Commonality]]
+- **related:** [[Design Improvements to Your Machine to Get Around Your Problems]]
 
 ## Source reference
 Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].

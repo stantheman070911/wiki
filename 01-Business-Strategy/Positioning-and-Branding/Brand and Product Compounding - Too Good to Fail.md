@@ -1,5 +1,7 @@
 ---
 title: "Brand and Product Compounding - Too Good to Fail"
+type: "strategy"
+domain: "business-strategy"
 lang: "en"
 tags: [topic/brand, topic/product, topic/reputation, topic/retention, person/alex-hormozi]
 source:
@@ -9,6 +11,8 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -40,10 +44,10 @@ Hormozi spent his 20s obsessed with sales and marketing because they had fast fe
 - *$100M Offers*: posted once, sold out in minutes, then sold more every month for 2+ years with zero paid marketing — thousands of copies/day off pure word of mouth. His second book sold ~250k in month one (vs. a typical NYT bestseller's 10–100k in 12 months) because first-book buyers and their referrals bought.
 - When Hormozi launched new software, existing clients sent screenshots of their credit cards saying "if Alex made it, I'll buy it" — delivery on the first promise, not marketing, drove it.
 
-## Related entries
-- [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- [[Build Evidence, Not Confidence]]
-- [[Skill Stacking and the Education-ROI Playbook]]
+## Relationships
+- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
+- **applies:** [[Build Evidence, Not Confidence]]
+- **related:** [[Skill Stacking and the Education-ROI Playbook]]
 
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].

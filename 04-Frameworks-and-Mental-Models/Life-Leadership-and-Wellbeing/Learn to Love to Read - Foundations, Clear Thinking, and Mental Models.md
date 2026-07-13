@@ -1,5 +1,7 @@
 ---
 title: "Learn to Love to Read - Foundations, Clear Thinking, and Mental Models"
+type: "framework"
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: [topic/learning, topic/mental-models, person/naval-ravikant]
 source:
@@ -9,6 +11,8 @@ source:
   url: "https://navalmanack.com"
   date_of_source: "2020"
 date_added: "2026-07-08"
+updated: "2026-07-08"
+reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
 
@@ -46,12 +50,12 @@ Naval attributes most of his material success and intelligence to reading one to
 - Naval reads ~1–2 hours/day and credits it for his success; he "picks up a lot of books and only gets through a few which form the foundation."
 - Charlie Munger: "As long as I have a book in my hand, I don't feel like I'm wasting time."
 
-## Related entries
-- [[Happiness Is a Skill - Presence, Peace, and Self-Care]]
-- [[財富公式：專屬知識、槓桿與判斷力]]
-- [[決策、幸福與心智管理]]
-- [[Skill Stacking and the Education-ROI Playbook]]
-- [[The First 100k - The Complete Six-Step Roadmap]]
+## Relationships
+- **related:** [[Happiness Is a Skill - Presence, Peace, and Self-Care]]
+- **related:** [[財富公式：專屬知識、槓桿與判斷力]]
+- **related:** [[決策、幸福與心智管理]]
+- **related:** [[Skill Stacking and the Education-ROI Playbook]]
+- **related:** [[The First 100k - The Complete Six-Step Roadmap]]
 
 ## Source reference
 Eric Jorgenson, *The Almanack of Naval Ravikant* (2020), "Building Judgment." Extraction notes in [[2026-07-08_Book_EricJorgenson_TheAlmanackOfNavalRavikant]]; PDF archived alongside.
