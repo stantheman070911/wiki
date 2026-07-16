@@ -3,7 +3,7 @@ title: "Editorial Dashboard"
 type: "governance"
 domain: "meta"
 lang: "en"
-generated_on: "2026-07-15"
+generated_on: "2026-07-16"
 status: "generated"
 ---
 
@@ -19,14 +19,14 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 
 | Queue | Pages |
 |---|---:|
-| Draft knowledge | 165 |
+| Draft knowledge | 166 |
 | Reviewed / evergreen | 184 |
-| Zero organic inbound links | 97 |
+| Zero organic inbound links | 96 |
 | Unprocessed sources | 0 |
 | Processed sources without direct knowledge links | 6 |
-| Cornerstone pages | 4 |
+| Cornerstone pages | 5 |
 
-## Draft queue (165)
+## Draft queue (166)
 
 | Page | Domain | Type | Updated |
 |---|---|---|---|
@@ -195,6 +195,7 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Willing to Self-Promote vs. Averse to Selling\|Willing to Self-Promote vs. Averse to Selling]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a Discovery Tool - Useful, Simple, and Rewritten\|Writing as a Discovery Tool - Useful, Simple, and Rewritten]] | tactics-and-playbooks | playbook | 2026-07-13 |
 | [[07-Articles/Two Ways a Founder Can Disappear\|Two Ways a Founder Can Disappear]] | articles | article | 2026-07-15 |
+| [[07-Articles/Disagreement Needs a Finish Line\|Disagreement Needs a Finish Line]] | articles | article | 2026-07-16 |
 
 ## Review queue (184)
 
@@ -387,7 +388,7 @@ Oldest review date first.
 | [[01-Business-Strategy/Business-Models-and-Customers/零售策略與通路飛輪\|零售策略與通路飛輪]] | reviewed | 2026-07-13 |
 | [[02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產\|電子郵件名單：最被低估的自有高意圖資產]] | reviewed | 2026-07-13 |
 
-## Zero organic inbound links (97)
+## Zero organic inbound links (96)
 
 Pages with no inbound link from knowledge pages, Home, articles, or curated domain/subdomain maps. Generated inventories and governance/source pages do not manufacture connectivity.
 
@@ -395,7 +396,6 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 
 | Domain | Pages |
 |---|---|
-| articles | 1 |
 | business-strategy | 30 |
 | frameworks-and-mental-models | 35 |
 | intelligence-and-research | 3 |
@@ -406,7 +406,6 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 
 | Page | Domain | Type | Status |
 |---|---|---|---|
-| [[07-Articles/Two Ways a Founder Can Disappear\|Two Ways a Founder Can Disappear]] | articles | article | draft |
 | [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers\|Centers of Influence - Selling Through Trusted Referrers]] | business-strategy | strategy | reviewed |
 | [[01-Business-Strategy/Business-Models-and-Customers/Companies as Philanthropy - Purpose and Building for Humanity\|Companies as Philanthropy - Purpose and Building for Humanity]] | business-strategy | strategy | reviewed |
 | [[01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You Can't Control Price\|Compete on Efficiency When You Can't Control Price]] | business-strategy | strategy | reviewed |
@@ -508,6 +507,7 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 
 | Page | Domain | Type | Updated |
 |---|---|---|---|
+| [[07-Articles/Disagreement Needs a Finish Line\|Disagreement Needs a Finish Line]] | articles | article | 2026-07-16 |
 | [[07-Articles/Two Ways a Founder Can Disappear\|Two Ways a Founder Can Disappear]] | articles | article | 2026-07-15 |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists\|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a Brand Signal\|Absurdity as a Brand Signal]] | frameworks-and-mental-models | framework | 2026-07-13 |
@@ -527,9 +527,8 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale\|Capture, Don't Create: Engineering Proof at Scale]] | tactics-and-playbooks | playbook | 2026-07-13 |
 | [[05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and Human Escalation\|ChatGPT Advertising - Intent, Memory, and Human Escalation]] | intelligence-and-research | research | 2026-07-13 |
 | [[05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions Competing as Service Providers\|Commercialized Sovereignty - Jurisdictions Competing as Service Providers]] | intelligence-and-research | research | 2026-07-13 |
-| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting\|Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting]] | frameworks-and-mental-models | framework | 2026-07-13 |
 
-## Cornerstone pages (4)
+## Cornerstone pages (5)
 
 Cornerstones are reviewed or evergreen pages with at least 12 organic inbound links, plus manually designated series hubs.
 
@@ -538,6 +537,7 @@ Cornerstones are reviewed or evergreen pages with at least 12 organic inbound li
 | [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview\|$100M 擴張路線圖 · 總覽與方法論]] | 29 | series-hub | evergreen |
 | [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽\|連鎖經營學 · 總覽與方法論]] | 20 | series-hub | evergreen |
 | [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why\|Creator Vision Framework: What x Who x Why]] | 15 | strategy | reviewed |
+| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded\|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]] | 12 | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply\|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]] | 12 | framework | reviewed |
 
 ## Unprocessed sources (0)

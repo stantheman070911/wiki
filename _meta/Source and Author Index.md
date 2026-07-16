@@ -3,7 +3,7 @@ title: "Source and Author Index"
 type: "governance"
 domain: "meta"
 lang: "en"
-generated_on: "2026-07-15"
+generated_on: "2026-07-16"
 status: "generated"
 ---
 
