@@ -3,7 +3,7 @@ title: "Editorial Dashboard"
 type: "governance"
 domain: "meta"
 lang: "en"
-generated_on: "2026-07-13"
+generated_on: "2026-07-15"
 status: "generated"
 ---
 
@@ -19,14 +19,14 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 
 | Queue | Pages |
 |---|---:|
-| Draft knowledge | 164 |
+| Draft knowledge | 165 |
 | Reviewed / evergreen | 184 |
-| Zero organic inbound links | 96 |
+| Zero organic inbound links | 97 |
 | Unprocessed sources | 0 |
 | Processed sources without direct knowledge links | 6 |
 | Cornerstone pages | 4 |
 
-## Draft queue (164)
+## Draft queue (165)
 
 | Page | Domain | Type | Updated |
 |---|---|---|---|
@@ -194,6 +194,7 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 | [[01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation - Measurement, Leverage, and Compressed Work\|Wealth Creation - Measurement, Leverage, and Compressed Work]] | business-strategy | strategy | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Willing to Self-Promote vs. Averse to Selling\|Willing to Self-Promote vs. Averse to Selling]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a Discovery Tool - Useful, Simple, and Rewritten\|Writing as a Discovery Tool - Useful, Simple, and Rewritten]] | tactics-and-playbooks | playbook | 2026-07-13 |
+| [[07-Articles/Two Ways a Founder Can Disappear\|Two Ways a Founder Can Disappear]] | articles | article | 2026-07-15 |
 
 ## Review queue (184)
 
@@ -386,7 +387,7 @@ Oldest review date first.
 | [[01-Business-Strategy/Business-Models-and-Customers/零售策略與通路飛輪\|零售策略與通路飛輪]] | reviewed | 2026-07-13 |
 | [[02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產\|電子郵件名單：最被低估的自有高意圖資產]] | reviewed | 2026-07-13 |
 
-## Zero organic inbound links (96)
+## Zero organic inbound links (97)
 
 Pages with no inbound link from knowledge pages, Home, articles, or curated domain/subdomain maps. Generated inventories and governance/source pages do not manufacture connectivity.
 
@@ -394,6 +395,7 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 
 | Domain | Pages |
 |---|---|
+| articles | 1 |
 | business-strategy | 30 |
 | frameworks-and-mental-models | 35 |
 | intelligence-and-research | 3 |
@@ -404,6 +406,7 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 
 | Page | Domain | Type | Status |
 |---|---|---|---|
+| [[07-Articles/Two Ways a Founder Can Disappear\|Two Ways a Founder Can Disappear]] | articles | article | draft |
 | [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers\|Centers of Influence - Selling Through Trusted Referrers]] | business-strategy | strategy | reviewed |
 | [[01-Business-Strategy/Business-Models-and-Customers/Companies as Philanthropy - Purpose and Building for Humanity\|Companies as Philanthropy - Purpose and Building for Humanity]] | business-strategy | strategy | reviewed |
 | [[01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You Can't Control Price\|Compete on Efficiency When You Can't Control Price]] | business-strategy | strategy | reviewed |
@@ -505,6 +508,7 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 
 | Page | Domain | Type | Updated |
 |---|---|---|---|
+| [[07-Articles/Two Ways a Founder Can Disappear\|Two Ways a Founder Can Disappear]] | articles | article | 2026-07-15 |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists\|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a Brand Signal\|Absurdity as a Brand Signal]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Act in Spite of Fear vs. Let Fear Stop You\|Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]] | frameworks-and-mental-models | framework | 2026-07-13 |
@@ -524,7 +528,6 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 | [[05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and Human Escalation\|ChatGPT Advertising - Intent, Memory, and Human Escalation]] | intelligence-and-research | research | 2026-07-13 |
 | [[05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions Competing as Service Providers\|Commercialized Sovereignty - Jurisdictions Competing as Service Providers]] | intelligence-and-research | research | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting\|Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting]] | frameworks-and-mental-models | framework | 2026-07-13 |
-| [[01-Business-Strategy/Business-Models-and-Customers/Community Quality Is the Offer - Qualification, Curation, and Network Effects\|Community Quality Is the Offer - Qualification, Curation, and Network Effects]] | business-strategy | strategy | 2026-07-13 |
 
 ## Cornerstone pages (4)
 

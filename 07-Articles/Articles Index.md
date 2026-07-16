@@ -3,7 +3,7 @@ title: "Articles"
 type: "article-index"
 domain: "articles"
 lang: "en"
-generated_on: "2026-07-13"
+generated_on: "2026-07-15"
 status: "generated"
 ---
 
@@ -19,6 +19,7 @@ Belongs here: finished articles, essays, and publishable drafts that combine mul
 
 | Article | Linked source entries | Date added | Status |
 |---|---|---|---|
+| [[07-Articles/Two Ways a Founder Can Disappear\|Two Ways a Founder Can Disappear]] | 8 | 2026-07-15 | draft |
 | [[07-Articles/Trust Should Have a Credit Limit\|Trust Should Have a Credit Limit]] | 8 | 2026-07-13 | draft |
 | [[07-Articles/Change the Comparison Before You Change the Price\|Change the Comparison Before You Change the Price]] | 9 | 2026-07-12 | draft |
 | [[07-Articles/Confidence Is a Receipt, Not a Requirement\|Confidence Is a Receipt, Not a Requirement]] | 9 | 2026-07-11 | draft |
