@@ -3,7 +3,7 @@ title: "Editorial Dashboard"
 type: "governance"
 domain: "meta"
 lang: "en"
-generated_on: "2026-07-16"
+generated_on: "2026-07-17"
 status: "generated"
 ---
 
@@ -19,14 +19,14 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 
 | Queue | Pages |
 |---|---:|
-| Draft knowledge | 166 |
+| Draft knowledge | 167 |
 | Reviewed / evergreen | 184 |
 | Zero organic inbound links | 96 |
 | Unprocessed sources | 0 |
 | Processed sources without direct knowledge links | 6 |
 | Cornerstone pages | 5 |
 
-## Draft queue (166)
+## Draft queue (167)
 
 | Page | Domain | Type | Updated |
 |---|---|---|---|
@@ -196,6 +196,7 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a Discovery Tool - Useful, Simple, and Rewritten\|Writing as a Discovery Tool - Useful, Simple, and Rewritten]] | tactics-and-playbooks | playbook | 2026-07-13 |
 | [[07-Articles/Two Ways a Founder Can Disappear\|Two Ways a Founder Can Disappear]] | articles | article | 2026-07-15 |
 | [[07-Articles/Disagreement Needs a Finish Line\|Disagreement Needs a Finish Line]] | articles | article | 2026-07-16 |
+| [[07-Articles/Every Possession Comes With a Job\|Every Possession Comes With a Job]] | articles | article | 2026-07-17 |
 
 ## Review queue (184)
 
@@ -507,6 +508,7 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 
 | Page | Domain | Type | Updated |
 |---|---|---|---|
+| [[07-Articles/Every Possession Comes With a Job\|Every Possession Comes With a Job]] | articles | article | 2026-07-17 |
 | [[07-Articles/Disagreement Needs a Finish Line\|Disagreement Needs a Finish Line]] | articles | article | 2026-07-16 |
 | [[07-Articles/Two Ways a Founder Can Disappear\|Two Ways a Founder Can Disappear]] | articles | article | 2026-07-15 |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists\|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]] | frameworks-and-mental-models | framework | 2026-07-13 |
@@ -526,7 +528,6 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 | [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win\|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]] | business-strategy | strategy | 2026-07-13 |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale\|Capture, Don't Create: Engineering Proof at Scale]] | tactics-and-playbooks | playbook | 2026-07-13 |
 | [[05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and Human Escalation\|ChatGPT Advertising - Intent, Memory, and Human Escalation]] | intelligence-and-research | research | 2026-07-13 |
-| [[05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions Competing as Service Providers\|Commercialized Sovereignty - Jurisdictions Competing as Service Providers]] | intelligence-and-research | research | 2026-07-13 |
 
 ## Cornerstone pages (5)
 

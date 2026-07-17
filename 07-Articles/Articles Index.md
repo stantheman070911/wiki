@@ -3,7 +3,7 @@ title: "Articles"
 type: "article-index"
 domain: "articles"
 lang: "en"
-generated_on: "2026-07-16"
+generated_on: "2026-07-17"
 status: "generated"
 ---
 
@@ -19,6 +19,7 @@ Belongs here: finished articles, essays, and publishable drafts that combine mul
 
 | Article | Linked source entries | Date added | Status |
 |---|---|---|---|
+| [[07-Articles/Every Possession Comes With a Job\|Every Possession Comes With a Job]] | 5 | 2026-07-17 | draft |
 | [[07-Articles/Disagreement Needs a Finish Line\|Disagreement Needs a Finish Line]] | 7 | 2026-07-16 | draft |
 | [[07-Articles/Two Ways a Founder Can Disappear\|Two Ways a Founder Can Disappear]] | 8 | 2026-07-15 | draft |
 | [[07-Articles/Trust Should Have a Credit Limit\|Trust Should Have a Credit Limit]] | 8 | 2026-07-13 | draft |
