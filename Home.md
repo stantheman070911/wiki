@@ -28,6 +28,8 @@ Core architecture: [[Vault Conventions|editorial conventions]] · [[Architecture
 - [[07-Articles/Articles Index|07 — Articles]] — composed, outward-facing pieces synthesized from multiple entries *(`$= dv.pages('"07-Articles"').where(p => p.type == "article").length` articles)*
 - [[_Inbox/Inbox Index|Inbox]] — unprocessed material awaiting triage
 
+**`Reports/`** — long-form analytical syntheses generated *from* the wiki (not source material feeding into it). These are downstream deliverables, not peer entries: intentionally kept outside the sub-topic taxonomy and the wikilink graph, with no inbound or outbound links to other vault pages. Provenance is noted in each report's own text rather than via links. Treat a report as a dated snapshot that may drift from the source entries it was synthesized from.
+
 ## Major series
 
 - [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M Scaling Roadmap]] — ten ordered scaling stages
