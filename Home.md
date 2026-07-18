@@ -15,7 +15,7 @@ A centralized knowledge vault for business strategy, social media strategy, tact
 3. **Follow relationships** inside an entry for prerequisites, applications, examples, contrasts, and translations.
 4. **Verify provenance** through the linked source record or collection manifest.
 
-Core architecture: [[Vault Conventions|editorial conventions]] · [[Architecture Schema|page types and validation rules]] · [[Topic-Index#All topics (154)|complete topic index]] · [[Portable Index|plugin-independent inventory]]
+Core architecture: [[Vault Conventions|editorial conventions]] · [[Architecture Schema|page types and validation rules]] · [[Topic-Index#All topics (155)|complete topic index]] · [[Portable Index|plugin-independent inventory]]
 
 ## Sections
 
@@ -98,7 +98,7 @@ SORT date_archived ASC
 - **Unsure where it goes** → drop it in `_Inbox/` first; see placement rules in [[Vault Conventions]]
 - **Process the inbox** → paste [[Process-Inbox]] into Claude (or use the `process-inbox` skill)
 - **Find a topic** → Quick Switcher (`Cmd+O`), global search (`Cmd+Shift+F`), or the tag pane
-- **Browse every topic** → [[Topic-Index#All topics (154)|Topic Index — all 154 active topics]]
+- **Browse every topic** → [[Topic-Index#All topics (155)|Topic Index — all 155 active topics]]
 - **Bridge English and Chinese** → [[Topic-Index#Bilingual topics (83)|83 bilingual topics]]; monolingual topics remain visible in the complete index
 - **Read taxonomy rules** → [[Tags]] — the governed, faceted vocabulary (`topic/` `person/` `source/`)
 - **Browse sources and people** → [[Source and Author Index]] — author, person, source, and media-type facets
