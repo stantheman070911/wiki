@@ -1,5 +1,5 @@
 ---
-title: "Grow Instagram2026"
+title: "Grow Instagram in 2026"
 type: "source"
 domain: "source-library"
 lang: "en"

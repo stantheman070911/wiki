@@ -1,5 +1,5 @@
 ---
-title: "New Rules Of Social Media2026"
+title: "New Rules of Social Media 2026"
 type: "source"
 domain: "source-library"
 lang: "en"

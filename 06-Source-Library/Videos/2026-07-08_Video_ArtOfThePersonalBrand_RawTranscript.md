@@ -1,5 +1,5 @@
 ---
-title: "Raw Transcript"
+title: "The Art of the Personal Brand - Raw Transcript"
 type: "source"
 domain: "source-library"
 lang: "en"

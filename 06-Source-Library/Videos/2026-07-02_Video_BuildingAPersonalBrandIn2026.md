@@ -1,5 +1,5 @@
 ---
-title: "Building APersonal Brand In2026"
+title: "Building a Personal Brand in 2026"
 type: "source"
 domain: "source-library"
 lang: "en"

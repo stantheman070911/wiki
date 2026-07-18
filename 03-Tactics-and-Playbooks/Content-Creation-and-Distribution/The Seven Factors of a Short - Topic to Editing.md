@@ -3,7 +3,7 @@ title: "The Seven Factors of a Short - Topic to Editing"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/scriptwriting, topic/short-form-video, topic/hooks, topic/cta, source/personal-brand-launch]
+tags: [topic/scriptwriting, topic/short-form-video, topic/hooks, topic/cta, source/personal-brand-launch, person/ava-jurgens]
 source:
   type: "video"
   name: "How to Grow an Instagram Account in 2026"

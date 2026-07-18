@@ -57,5 +57,7 @@ A lead-generation software company can use a course to explain why demand is fai
 - **related:** [[Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
 - **related:** [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
 
+- **related:** [[Psychological Moonshots - Improve Perception Before Reality]]
+
 ## Source reference
 Daniel Priestley, *Marketing Playground*. Raw transcript in [[2026-07-13_Video_DanielPriestley_MarketingPlayground_RawTranscript]].

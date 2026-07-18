@@ -3,7 +3,7 @@ title: "Topic Index"
 type: "topic-index"
 domain: "meta"
 lang: "en"
-generated_on: "2026-07-18"
+generated_on: "2026-07-19"
 status: "generated"
 ---
 
@@ -11,7 +11,7 @@ status: "generated"
 
 This is the complete, generated topic-navigation layer for THE WIKI. Select any tag to open Obsidian's tag results. Do not edit counts or topic lists here; update entry metadata or the governed registry in [[Tags]], then run `node tools/generate-topic-index.mjs`.
 
-## All topics (155)
+## All topics (153)
 
 | Topic | EN | ZH | Total | State |
 |---|---:|---:|---:|---|
@@ -100,13 +100,11 @@ This is the complete, generated topic-navigation layer for THE WIKI. Select any 
 | #topic/money | 5 | 1 | 6 | active |
 | #topic/money-management | 2 | 0 | 2 | active |
 | #topic/monopoly | 3 | 0 | 3 | active |
-| #topic/multi-unit | 0 | 1 | 1 | active |
 | #topic/narrative | 2 | 1 | 3 | active |
 | #topic/niche | 6 | 2 | 8 | active |
 | #topic/offers | 19 | 2 | 21 | active |
 | #topic/onboarding | 5 | 0 | 5 | active |
-| #topic/operations | 29 | 6 | 35 | active |
-| #topic/operations-manual | 0 | 1 | 1 | active |
+| #topic/operations | 29 | 7 | 36 | active |
 | #topic/opportunity-cost | 5 | 0 | 5 | active |
 | #topic/optionality | 5 | 4 | 9 | active |
 | #topic/org-design | 25 | 2 | 27 | active |
@@ -141,7 +139,7 @@ This is the complete, generated topic-navigation layer for THE WIKI. Select any 
 | #topic/root-cause | 6 | 0 | 6 | active |
 | #topic/rule-of-100 | 1 | 1 | 2 | active |
 | #topic/sales | 42 | 1 | 43 | active |
-| #topic/scaling | 22 | 17 | 39 | active |
+| #topic/scaling | 22 | 18 | 40 | active |
 | #topic/scriptwriting | 1 | 1 | 2 | active |
 | #topic/secrets | 3 | 0 | 3 | active |
 | #topic/self-belief | 5 | 0 | 5 | active |
@@ -231,7 +229,7 @@ Topics currently used by at least one English and one Chinese page.
 | #topic/narrative | 2 | 1 | 3 | active |
 | #topic/niche | 6 | 2 | 8 | active |
 | #topic/offers | 19 | 2 | 21 | active |
-| #topic/operations | 29 | 6 | 35 | active |
+| #topic/operations | 29 | 7 | 36 | active |
 | #topic/optionality | 5 | 4 | 9 | active |
 | #topic/org-design | 25 | 2 | 27 | active |
 | #topic/owned-audience | 1 | 2 | 3 | active |
@@ -248,7 +246,7 @@ Topics currently used by at least one English and one Chinese page.
 | #topic/risk | 37 | 5 | 42 | active |
 | #topic/rule-of-100 | 1 | 1 | 2 | active |
 | #topic/sales | 42 | 1 | 43 | active |
-| #topic/scaling | 22 | 17 | 39 | active |
+| #topic/scaling | 22 | 18 | 40 | active |
 | #topic/scriptwriting | 1 | 1 | 2 | active |
 | #topic/short-form-video | 8 | 4 | 12 | active |
 | #topic/simplicity | 4 | 1 | 5 | active |
@@ -262,7 +260,7 @@ Topics currently used by at least one English and one Chinese page.
 | #topic/upsell | 1 | 1 | 2 | active |
 | #topic/wealth | 10 | 1 | 11 | active |
 
-## Monolingual topics (71)
+## Monolingual topics (69)
 
 Topics currently used in one language only. They remain part of the complete taxonomy.
 
@@ -302,9 +300,7 @@ Topics currently used in one language only. They remain part of the complete tax
 | #topic/messaging | 9 | 0 | 9 | active |
 | #topic/money-management | 2 | 0 | 2 | active |
 | #topic/monopoly | 3 | 0 | 3 | active |
-| #topic/multi-unit | 0 | 1 | 1 | active |
 | #topic/onboarding | 5 | 0 | 5 | active |
-| #topic/operations-manual | 0 | 1 | 1 | active |
 | #topic/opportunity-cost | 5 | 0 | 5 | active |
 | #topic/paid-ads | 7 | 0 | 7 | active |
 | #topic/parenting | 0 | 2 | 2 | active |

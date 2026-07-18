@@ -1,5 +1,5 @@
 ---
-title: "Cash Cow Breakdowns_Raw Transcript"
+title: "Cash Cow Breakdowns - Raw Transcript"
 type: "source"
 domain: "source-library"
 lang: "en"

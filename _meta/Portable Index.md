@@ -3,7 +3,7 @@ title: "Portable Index"
 type: "governance"
 domain: "meta"
 lang: "en"
-generated_on: "2026-07-18"
+generated_on: "2026-07-19"
 status: "generated"
 ---
 

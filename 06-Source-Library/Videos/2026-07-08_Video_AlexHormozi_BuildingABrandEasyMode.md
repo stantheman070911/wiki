@@ -1,5 +1,5 @@
 ---
-title: "Building ABrand Easy Mode"
+title: "Building a Brand - Easy Mode"
 type: "source"
 domain: "source-library"
 lang: "en"

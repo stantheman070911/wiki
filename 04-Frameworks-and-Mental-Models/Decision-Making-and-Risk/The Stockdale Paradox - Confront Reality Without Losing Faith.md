@@ -63,5 +63,7 @@ Admiral Jim Stockdale survived eight years as a prisoner of war by never doubtin
 - **related:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
 - **related:** [[The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
 
+- **related:** [[Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction]]
+
 ## Source reference
 Jim Collins, *Good to Great*, chapter 4, "Confront the Brutal Facts (Yet Never Lose Faith)" (2001). [[2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript]].

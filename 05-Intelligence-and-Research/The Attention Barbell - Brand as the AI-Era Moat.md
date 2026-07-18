@@ -58,6 +58,8 @@ When every buyer asks an AI agent "who should I hire / go with?", discovery stop
 - **example:** [[電子郵件名單：最被低估的自有高意圖資產]]
 - **example:** [[Build Evidence, Not Confidence]]
 
+- **related:** [[ChatGPT Advertising - Intent, Memory, and Human Escalation]]
+
 ## Source reference
 Gary Vaynerchuk, *The New Rules of Social Media (2026)*. Extraction notes in [[2026-07-08_Talk_GaryVaynerchuk_NewRulesOfSocialMedia2026]].
 

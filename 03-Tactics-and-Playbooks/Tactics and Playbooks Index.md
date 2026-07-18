@@ -29,6 +29,7 @@ Belongs here: repeatable execution steps, checklists, workflows, and operating p
 - **Cornerstones:** [[The Content Repository - Four Topic Buckets and Tweet-First Capture]] · [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]] · [[Focus as Elimination - The Deep-Work Playbook]]
 - **Key framework:** [[Creator Vision Framework - What x Who x Why]]
 - **Key playbook:** [[Building a Content Team - Hiring Funnel, Contractors, and Onboarding]]
+- **Subdomain map:** [[Sales and Lead Generation Map]]
 - **Major series:** none currently; ordered collections require a `series-hub` and explicit `series` metadata.
 - **Complete static inventory:** [[Portable Index|Portable Index — Tactics and Playbooks]]
 

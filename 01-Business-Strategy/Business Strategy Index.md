@@ -27,6 +27,7 @@ Belongs here: markets, business models, positioning, pricing, growth, org strate
 
 - **Recommended sequence:** read the five Start Here pages from business-model quality through operations; then choose the scaling or chain-operations series.
 - **Cornerstones:** [[The Five Advantages of a Perfect Business]] · [[The Value Equation and the Grand Slam Offer]] · [[Positioning - Own a Word in the Prospect's Mind]]
+- **Subdomain map:** [[Business Models and Customers Map]]
 - **Key framework:** [[The Value Equation and the Grand Slam Offer]]
 - **Related playbook:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
 - **Major series:** [[$100M Scaling Roadmap Overview|$100M Scaling Roadmap]] · [[連鎖經營學總覽|連鎖經營學]]

@@ -3,7 +3,7 @@ title: "Editorial Dashboard"
 type: "governance"
 domain: "meta"
 lang: "en"
-generated_on: "2026-07-18"
+generated_on: "2026-07-19"
 status: "generated"
 ---
 
@@ -21,10 +21,10 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 |---|---:|
 | Draft knowledge | 282 |
 | Reviewed / evergreen | 187 |
-| Zero organic inbound links | 109 |
+| Zero organic inbound links | 0 |
 | Unprocessed sources | 0 |
 | Processed sources without direct knowledge links | 6 |
-| Cornerstone pages | 8 |
+| Cornerstone pages | 41 |
 
 ## Draft queue (282)
 
@@ -507,133 +507,17 @@ Oldest review date first.
 | [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue\|Triggers - Top of Mind, Tip of Tongue]] | reviewed | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable Virality - Build a Trojan Horse People Can't Retell Without You\|Valuable Virality - Build a Trojan Horse People Can't Retell Without You]] | reviewed | 2026-07-18 |
 
-## Zero organic inbound links (109)
+## Zero organic inbound links (0)
 
 Pages with no inbound link from knowledge pages, Home, articles, or curated domain/subdomain maps. Generated inventories and governance/source pages do not manufacture connectivity.
 
 ### Distribution by domain
 
-| Domain | Pages |
-|---|---|
-| business-strategy | 31 |
-| frameworks-and-mental-models | 38 |
-| intelligence-and-research | 3 |
-| social-media-strategy | 3 |
-| tactics-and-playbooks | 34 |
+_None._
 
 ### Pages
 
-| Page | Domain | Type | Status |
-|---|---|---|---|
-| [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers\|Centers of Influence - Selling Through Trusted Referrers]] | business-strategy | strategy | reviewed |
-| [[01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition - Make the Customer Fund the Next Customer\|Client-Financed Acquisition - Make the Customer Fund the Next Customer]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Business-Models-and-Customers/Companies as Philanthropy - Purpose and Building for Humanity\|Companies as Philanthropy - Purpose and Building for Humanity]] | business-strategy | strategy | reviewed |
-| [[01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You Can't Control Price\|Compete on Efficiency When You Can't Control Price]] | business-strategy | strategy | reviewed |
-| [[01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing - Measure Action, Build Culture Patiently\|Direct vs Brand Marketing - Measure Action, Build Culture Patiently]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment\|Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Business-Models-and-Customers/From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify\|From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Finance-Capital-and-Exit/Fundraising Is a Process - Momentum, Herd Dynamics, and Survival\|Fundraising Is a Process - Momentum, Herd Dynamics, and Survival]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Pricing-and-Offers/Goldilocks Pricing - Anchors, Decoys, and the Middle Option\|Goldilocks Pricing - Anchors, Decoys, and the Middle Option]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Growth-and-Scaling/Growth Is Not a Strategy - When Expansion Destroys Value\|Growth Is Not a Strategy - When Expansion Destroys Value]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Pricing-and-Offers/High-Ticket Self-Checkout - Brand and Qualification Compress the Sale\|High-Ticket Self-Checkout - Brand and Qualification Compress the Sale]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Positioning-and-Branding/Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve\|Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural - Defending Margin Against Organizational Creep\|Profit Is Unnatural - Defending Margin Against Organizational Creep]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the Overkill Bias - Why the Best Get to Teach\|Real-World Proof and the Overkill Bias - Why the Best Get to Teach]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Business-Models-and-Customers/Smallest Viable Market - Specificity Before Scale\|Smallest Viable Market - Specificity Before Scale]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly Compounding and Market Size\|Startup Equals Growth - Weekly Compounding and Market Size]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Positioning-and-Branding/The 22 Immutable Laws of Marketing\|The 22 Immutable Laws of Marketing]] | business-strategy | strategy | reviewed |
-| [[01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom Loop and the One-Brand Bet\|The Direct-Response Doom Loop and the One-Brand Bet]] | business-strategy | strategy | reviewed |
-| [[01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of Investing - Diversification via Uncorrelated Return Streams\|The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Business-Models-and-Customers/The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns\|The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground - Problem, Process, and Prize Experiences\|The Marketing Playground - Problem, Process, and Prize Experiences]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle - Infancy, Adolescence, and Maturity\|The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow With Customer Outcomes\|Value Metrics - Price and Grow With Customer Outcomes]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Traffic-and-Acquisition/五大流量模型與私域轉換：從你找人到人找你\|五大流量模型與私域轉換：從你找人到人找你]] | business-strategy | strategy | reviewed |
-| [[01-Business-Strategy/Finance-Capital-and-Exit/內容產製系統與募資紀律\|內容產製系統與募資紀律]] | business-strategy | strategy | reviewed |
-| [[01-Business-Strategy/Business-Models-and-Customers/商業四大需求層次：救命、治病、養生、建體\|商業四大需求層次：救命、治病、養生、建體]] | business-strategy | strategy | reviewed |
-| [[01-Business-Strategy/Growth-and-Scaling/多角化與規模化的判斷準則：一尺寬不如一萬尺深\|多角化與規模化的判斷準則：一尺寬不如一萬尺深]] | business-strategy | strategy | reviewed |
-| [[01-Business-Strategy/Business-Models-and-Customers/打造不依賴創辦人的商業模式：從賣時間到賣系統\|打造不依賴創辦人的商業模式：從賣時間到賣系統]] | business-strategy | strategy | reviewed |
-| [[01-Business-Strategy/Finance-Capital-and-Exit/投資人與合夥人的選擇框架：股權結構與價值觀篩選\|投資人與合夥人的選擇框架：股權結構與價值觀篩選]] | business-strategy | strategy | reviewed |
-| [[01-Business-Strategy/Positioning-and-Branding/業績公式與商業定位：從流量思維到變現路徑\|業績公式與商業定位：從流量思維到變現路徑]] | business-strategy | strategy | reviewed |
-| [[01-Business-Strategy/Business-Models-and-Customers/零售策略與通路飛輪\|零售策略與通路飛輪]] | business-strategy | strategy | reviewed |
-| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a Brand Signal\|Absurdity as a Brand Signal]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Black Swans - Find Unknown Unknowns and Hidden Leverage\|Black Swans - Find Unknown Unknowns and Hidden Leverage]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative Cooperation - Feedback, Friction, and Choice C\|Creative Cooperation - Feedback, Friction, and Choice C]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Receptivity - Awareness, Attention, and the Artist's Filter\|Creative Receptivity - Awareness, Attention, and the Artist's Filter]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Success - Judge the Work Before the Outcome\|Creative Success - Judge the Work Before the Outcome]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Failure Reframing and Immunity\|Failure Reframing and Immunity]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New Ideas - Work at the Fractal Edge of Knowledge\|Finding New Ideas - Work at the Fractal Edge of Knowledge]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions - Formation Beyond Problem Solving\|Focus Questions - Formation Beyond Problem Solving]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Founder Mode - Direct Engagement Without Delegation Theater\|Founder Mode - Direct Engagement Without Delegation Theater]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Gap Selling - Current State, Future State, and the Value of Change\|Gap Selling - Current State, Future State, and the Value of Change]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/How to Do Great Work - Curiosity, Taste, Projects, and Endurance\|How to Do Great Work - Curiosity, Taste, Projects, and Endurance]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Increase the Surface Area of Luck\|Increase the Surface Area of Luck]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction\|Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Kaizen and the Progress Principle\|Kaizen and the Progress Principle - Small Wins, Course Corrections, and Motivation]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is Short - Ruthless Attention Allocation\|Life Is Short - Ruthless Attention Allocation]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines\|Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]] | frameworks-and-mental-models | framework | reviewed |
-| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/No One's Opinion Pays Your Bills - Immunity to Critics\|No One's Opinion Pays Your Bills - Immunity to Critics]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Overwhelm Is a System Signal - Diagnose Before Burnout\|Overwhelm Is a System Signal - Diagnose Before Burnout]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary Aim and Strategic Objective - Make the Business Serve the Life\|Primary Aim and Strategic Objective - Make the Business Serve the Life]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Psychological Moonshots - Improve Perception Before Reality\|Psychological Moonshots - Improve Perception Before Reality]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Replace, Don't Fight, a Habit\|Replace, Don't Fight, a Habit]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the Game - Aligning Upside, Downside, and Accountability\|Skin in the Game - Aligning Upside, Downside, and Accountability]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for Makers - Constraints for Designing Good Things\|Taste for Makers - Constraints for Designing Good Things]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Technology as an Accelerator, Not a Strategy\|Technology as an Accelerator, Not a Strategy]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician\|The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats\|The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The MOAT Framework - Choose Freemium, Free Trial, or Demo\|The MOAT Framework - Choose Freemium, Free Trial, or Demo]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passionate Visionary Scientist - A Three-Part Founder Mindset\|The Passionate Visionary Scientist - A Three-Part Founder Mindset]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide\|The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor Dilution Problem - Four Ways to Scale Past Yourself\|The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]] | frameworks-and-mental-models | framework | reviewed |
-| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think 'Both' vs. Think 'Either-Or' - Abundance Over Scarcity\|Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace Influence Mapping - Authority, Value, and Recognition\|Workplace Influence Mapping - Authority, Value, and Recognition]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/創作心態：六大陷阱與執行路線圖\|創作心態：六大陷阱與執行路線圖]] | frameworks-and-mental-models | framework | reviewed |
-| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/商業是連結與解決問題的方式：賺錢是驗證訊號而非目的\|商業是連結與解決問題的方式：賺錢是驗證訊號而非目的]] | frameworks-and-mental-models | framework | reviewed |
-| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/完美主義是恐懼的偽裝：用行動與deadline打破癱瘓\|完美主義是恐懼的偽裝：用行動與deadline打破癱瘓]] | frameworks-and-mental-models | framework | reviewed |
-| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利\|招募、領導與地理紅利]] | frameworks-and-mental-models | framework | reviewed |
-| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/賽道選擇的兩個模型：Ikigai與市場五要素\|賽道選擇的兩個模型：Ikigai與市場五要素]] | frameworks-and-mental-models | framework | reviewed |
-| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/金錢真相、清晰溝通與人生取捨\|金錢真相、清晰溝通與人生取捨]] | frameworks-and-mental-models | framework | reviewed |
-| [[05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and Human Escalation\|ChatGPT Advertising - Intent, Memory, and Human Escalation]] | intelligence-and-research | research | draft |
-| [[05-Intelligence-and-Research/供應鏈風險與關鍵人風險分散\|供應鏈風險與關鍵人風險分散]] | intelligence-and-research | research | reviewed |
-| [[05-Intelligence-and-Research/納瓦爾的預測與逆勢觀點\|納瓦爾的預測與逆勢觀點]] | intelligence-and-research | research | reviewed |
-| [[02-Social-Media-Strategy/Brand Journey and the 3-Part Brand Story\|Brand Journey and the 3-Part Brand Story]] | social-media-strategy | strategy | reviewed |
-| [[02-Social-Media-Strategy/Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships\|Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships]] | social-media-strategy | strategy | draft |
-| [[02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產\|電子郵件名單：最被低估的自有高意圖資產]] | social-media-strategy | strategy | reviewed |
-| [[03-Tactics-and-Playbooks/Hiring-and-Team/Building a Content Team - Hiring Funnel, Contractors, and Onboarding\|Building a Content Team - Hiring Funnel, Contractors, and Onboarding]] | tactics-and-playbooks | playbook | reviewed |
-| [[03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous Conversations, Feedback, and Recognition\|CFRs - Continuous Conversations, Feedback, and Recognition]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context\|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creator Monetization Ladder and Content-Concept Formulas\|Creator Monetization Ladder and Content-Concept Formulas]] | tactics-and-playbooks | playbook | reviewed |
-| [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Declarative to Sell, Procedural to Deliver\|Declarative to Sell, Procedural to Deliver]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law\|Distribution Is Destiny - The Sales Channel Power Law]] | tactics-and-playbooks | playbook | reviewed |
-| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Do Things That Don't Scale - Recruit, Delight, and Learn by Hand\|Do Things That Don't Scale - Recruit, Delight, and Learn by Hand]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Don't Overlook Governance\|Don't Overlook Governance]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Drum-Buffer-Rope - Release Work at the Constraint's Pace\|Drum-Buffer-Rope - Release Work at the Constraint's Pace]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack\|Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Audience-Growth/Instagram 0-to-100k - The Three-Level Follower Roadmap\|Instagram 0-to-100k - The Three-Level Follower Roadmap]] | tactics-and-playbooks | playbook | reviewed |
-| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as Managerial Production\|Meetings as Managerial Production]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability - Own Attention and Design Word of Mouth\|Permission and Remarkability - Own Attention and Design Word of Mouth]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Positioning Yourself - Find a Horse to Ride\|Positioning Yourself - Find a Horse to Ride]] | tactics-and-playbooks | playbook | reviewed |
-| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Selling Upmarket - Contextual Adjacency and Land-and-Expand\|Selling Upmarket - Contextual Adjacency and Land-and-Expand]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design Jobs Around Exceptional Contribution\|Staff for Strength - Design Jobs Around Exceptional Contribution]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money Management System\|The 6 Jars Money Management System]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers\|The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Customer-Base Test Kitchen - Distributed R&D Before Rollout\|The Customer-Base Test Kitchen - Distributed R&D Before Rollout]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The Entrepreneur Apprenticeship\|The Entrepreneur Apprenticeship - Commercial Awareness and 90-Day Side-Hustle Tests]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop\|The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect Repeatable Week - Designing a Predictable Business Rhythm\|The Perfect Repeatable Week - Designing a Predictable Business Rhythm]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Audience-Growth/The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid\|The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand Conversion Path - Problem, Plan, and Calls to Action\|The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment\|The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Whisper-Tease-Shout Launch\|The Whisper-Tease-Shout Launch]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth Sprints - Analyze, Ask, and Act\|Triple-A Growth Sprints - Analyze, Ask, and Act]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your Business - Train Like an Employee and the Department Playbook\|Using AI in Your Business - Train Like an Employee and the Department Playbook]] | tactics-and-playbooks | playbook | reviewed |
-| [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a Discovery Tool - Useful, Simple, and Rewritten\|Writing as a Discovery Tool - Useful, Simple, and Rewritten]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time\|You Have a Job, Not a Business - The 50% Hire and Buying Back Time]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/包裝、網紅與 2026 年 TikTok 戰術\|包裝、網紅與 2026 年 TikTok 戰術]] | tactics-and-playbooks | playbook | reviewed |
-| [[03-Tactics-and-Playbooks/Hiring-and-Team/家族企業與伴侶共創的邊界設計：分工、拍板與共同改善會議\|家族企業與伴侶共創的邊界設計：分工、拍板與共同改善會議]] | tactics-and-playbooks | playbook | reviewed |
-| [[03-Tactics-and-Playbooks/Operations-and-Productivity/工作習慣與誠實忠告\|工作習慣與誠實忠告]] | tactics-and-playbooks | playbook | reviewed |
-| [[03-Tactics-and-Playbooks/Audience-Growth/社群測試與活動戰術\|社群測試與活動戰術]] | tactics-and-playbooks | playbook | reviewed |
+_None._
 
 ## Recently changed (20)
 
@@ -660,20 +544,53 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 | [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Competitive Advantage - Why Owning One Isn't Enough\|Competitive Advantage - Why Owning One Isn't Enough]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity Needs Standards and Distributed Judgment\|Complexity Needs Standards and Distributed Judgment]] | frameworks-and-mental-models | framework | 2026-07-18 |
 
-## Cornerstone pages (8)
+## Cornerstone pages (41)
 
 Cornerstones are reviewed or evergreen pages with at least 12 organic inbound links, plus manually designated series hubs.
 
 | Page | Inbound links | Type | Status |
 |---|---|---|---|
 | [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview\|$100M 擴張路線圖 · 總覽與方法論]] | 29 | series-hub | evergreen |
+| [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer\|The Value Equation and the Grand Slam Offer]] | 25 | strategy | reviewed |
+| [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer\|Barbell Pricing and the Unscalable Premium Offer]] | 23 | strategy | reviewed |
+| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down\|The Change Cost Filter - Stay, Scale, or Burn It Down]] | 22 | framework | draft |
+| [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind\|Positioning - Own a Word in the Prospect's Mind]] | 20 | strategy | reviewed |
 | [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽\|連鎖經營學 · 總覽與方法論]] | 20 | series-hub | evergreen |
+| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook\|Focus as Elimination - The Deep-Work Playbook]] | 19 | playbook | reviewed |
+| [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules\|How Money Is Made - Value, Return on Time, and Money Rules]] | 19 | strategy | reviewed |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals\|The Core Four and the Rule of 100 - Lead Generation Fundamentals]] | 19 | playbook | reviewed |
+| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making\|Believability-Weight Your Decision Making]] | 17 | framework | draft |
+| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets\|Fear, Regret, and Asymmetric Bets]] | 17 | framework | reviewed |
+| [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro\|Promise, Proof, Path - Engineering the Video Intro]] | 17 | playbook | reviewed |
+| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach\|What a Brand Actually Is - Association, Influence, Direction, Reach]] | 17 | framework | reviewed |
+| [[01-Business-Strategy/Positioning-and-Branding/業績公式與商業定位：從流量思維到變現路徑\|業績公式與商業定位：從流量思維到變現路徑]] | 17 | strategy | reviewed |
+| [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat\|The Factory Is the Product - Manufacturing as the Moat]] | 16 | strategy | reviewed |
+| [[01-Business-Strategy/Business-Models-and-Customers/The Five Advantages of a Perfect Business\|The Five Advantages of a Perfect Business]] | 16 | strategy | reviewed |
 | [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why\|Creator Vision Framework: What x Who x Why]] | 15 | strategy | reviewed |
+| [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious\|Decommoditize Before You Discount - Make the Difference Obvious]] | 15 | strategy | reviewed |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply\|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]] | 15 | framework | reviewed |
+| [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action\|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]] | 15 | framework | draft |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth\|The STEPPS Framework - Six Drivers of Word of Mouth]] | 15 | framework | reviewed |
+| [[02-Social-Media-Strategy/受眾定位與先小後大法則\|受眾定位與先小後大法則]] | 15 | strategy | reviewed |
+| [[02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架\|品牌即媒體公司：注意力到信任框架]] | 15 | strategy | reviewed |
+| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence\|Build Evidence, Not Confidence]] | 14 | framework | reviewed |
+| [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar\|Clear Over Clever - Write Below Third Grade and Meet the Avatar]] | 14 | playbook | reviewed |
+| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed Gratification - Patience and Inputs vs Outputs\|Delayed Gratification - Patience and Inputs vs Outputs]] | 13 | framework | reviewed |
+| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal\|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]] | 13 | framework | draft |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player\|Sales Systems as Intellectual Property - Process Above the Player]] | 13 | playbook | reviewed |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts\|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]] | 13 | framework | reviewed |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)\|The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]] | 13 | framework | draft |
+| [[01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold Traffic Before the Core Offer\|The Paid Front Door - Warm Cold Traffic Before the Core Offer]] | 13 | strategy | reviewed |
+| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance\|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]] | 13 | framework | draft |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground\|Volume and Feedback - Sales as the Training Ground]] | 13 | playbook | reviewed |
+| [[01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門\|少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]] | 13 | strategy | reviewed |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded\|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]] | 12 | framework | draft |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale\|Capture, Don't Create: Engineering Proof at Scale]] | 12 | playbook | reviewed |
-| [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action\|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]] | 12 | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth\|The STEPPS Framework - Six Drivers of Word of Mouth]] | 12 | framework | reviewed |
+| [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and the Education-ROI Playbook\|Skill Stacking and the Education-ROI Playbook]] | 12 | playbook | reviewed |
+| [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations\|Special-Forces Teams and Flat Organizations]] | 12 | playbook | reviewed |
+| [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm - Musk's Five-Step Process Method\|The Algorithm - Musk's Five-Step Process Method]] | 12 | playbook | reviewed |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Framework for Making Frameworks - Distill by Commonality\|The Framework for Making Frameworks - Distill by Commonality]] | 12 | framework | reviewed |
+| [[01-Business-Strategy/Finance-Capital-and-Exit/財富公式：專屬知識、槓桿與判斷力\|財富公式：專屬知識、槓桿與判斷力]] | 12 | strategy | reviewed |
 
 ## Unprocessed sources (0)
 
@@ -685,9 +602,9 @@ The structural audit also accepts manifest and canonical-source coverage; this s
 
 | Source | Type | Processing |
 |---|---|---|
-| [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything_RawTranscript\|Ask Me Anything_Raw Transcript]] | video | processed |
-| [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook_RawTranscript\|Customer Acquisition, Offers, And Ads Playbook_Raw Transcript]] | video | processed |
-| [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_HowAesopSellsSoapFor30xMore_RawTranscript\|How Aesop Sells Soap For30x More_Raw Transcript]] | video | processed |
-| [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_RawTranscript\|How To Get Rich In Your20s_Raw Transcript]] | video | processed |
-| [[06-Source-Library/Videos/2026-07-10_Video_WillBarron_PsychologyOfBuildingASuccessfulServiceBusiness_RawTranscript\|Psychology Of Building ASuccessful Service Business_Raw Transcript]] | video | processed |
-| [[06-Source-Library/Videos/2026-07-08_Video_ArtOfThePersonalBrand_RawTranscript\|Raw Transcript]] | video | processed |
+| [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything_RawTranscript\|Ask Me Anything - Raw Transcript]] | video | processed |
+| [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook_RawTranscript\|Customer Acquisition, Offers, and Ads Playbook - Raw Transcript]] | video | processed |
+| [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_HowAesopSellsSoapFor30xMore_RawTranscript\|How Aesop Sells Soap for 30x More - Raw Transcript]] | video | processed |
+| [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_RawTranscript\|How to Get Rich in Your 20s - Raw Transcript]] | video | processed |
+| [[06-Source-Library/Videos/2026-07-10_Video_WillBarron_PsychologyOfBuildingASuccessfulServiceBusiness_RawTranscript\|Psychology of Building a Successful Service Business - Raw Transcript]] | video | processed |
+| [[06-Source-Library/Videos/2026-07-08_Video_ArtOfThePersonalBrand_RawTranscript\|The Art of the Personal Brand - Raw Transcript]] | video | processed |

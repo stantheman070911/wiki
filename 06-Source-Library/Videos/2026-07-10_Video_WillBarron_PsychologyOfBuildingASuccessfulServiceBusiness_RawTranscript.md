@@ -1,5 +1,5 @@
 ---
-title: "Psychology Of Building ASuccessful Service Business_Raw Transcript"
+title: "Psychology of Building a Successful Service Business - Raw Transcript"
 type: "source"
 domain: "source-library"
 lang: "en"

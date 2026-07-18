@@ -1,5 +1,5 @@
 ---
-title: "Sharran Srivatsaa_10x By Doing Less"
+title: "Sharran Srivatsaa - 10x by Doing Less"
 type: "source"
 domain: "source-library"
 lang: "en"

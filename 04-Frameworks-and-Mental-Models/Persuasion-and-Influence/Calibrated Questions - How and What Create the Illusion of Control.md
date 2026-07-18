@@ -57,5 +57,7 @@ A consultant whose client kept assigning work without paying summarized the situ
 - **related:** [[Problem-Centric Discovery - Four Question Types and the CRM Challenge]]
 - **related:** [[Mirroring and Voice - Slow the Negotiation and Keep Them Talking]]
 
+- **related:** [[Black Swans - Find Unknown Unknowns and Hidden Leverage]]
+
 ## Source reference
 Chris Voss with Tahl Raz, *Never Split the Difference* (2016), Chapter 7 and Appendix. Raw transcript archived in [[2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript]].

@@ -3,7 +3,7 @@ title: "TikTok Shop與飽和市場的白地策略"
 type: "strategy"
 domain: "business-strategy"
 lang: "zh"
-tags: [topic/business-model, topic/positioning, topic/market-saturation, topic/tam, source/bloom-nutrition]
+tags: [topic/business-model, topic/positioning, topic/market-saturation, topic/tam, source/bloom-nutrition, person/greg-lavecchia]
 source:
   type: "podcast"
   name: "Greg LaVecchia（Bloom Nutrition 共同創辦人）訪談"

@@ -3,7 +3,7 @@ title: "Instagram 0-to-100k - The Three-Level Follower Roadmap"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/instagram, topic/short-form-video, topic/scaling, source/personal-brand-launch]
+tags: [topic/instagram, topic/short-form-video, topic/scaling, source/personal-brand-launch, person/ava-jurgens]
 source:
   type: "video"
   name: "How to Grow an Instagram Account in 2026"

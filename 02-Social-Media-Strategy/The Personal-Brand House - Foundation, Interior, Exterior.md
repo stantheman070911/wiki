@@ -3,7 +3,7 @@ title: "The Personal-Brand House - Foundation, Interior, Exterior"
 type: "strategy"
 domain: "social-media-strategy"
 lang: "en"
-tags: [topic/personal-brand, topic/niche, topic/content-pillars, topic/brand, source/personal-brand-launch]
+tags: [topic/personal-brand, topic/niche, topic/content-pillars, topic/brand, source/personal-brand-launch, person/ava-jurgens]
 source:
   type: "video"
   name: "How to Grow an Instagram Account in 2026"

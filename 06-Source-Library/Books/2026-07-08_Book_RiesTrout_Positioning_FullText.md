@@ -1,5 +1,5 @@
 ---
-title: "Positioning_Full Text"
+title: "Positioning - Full Text"
 type: "source"
 domain: "source-library"
 lang: "en"
@@ -6284,4 +6284,3 @@ Words:
 effect of, on people, 202–203
 role of, in positioning, 201–202
 Xerox Corporation, 24, 42, 44, 47–50, 97–99, 127–136
-

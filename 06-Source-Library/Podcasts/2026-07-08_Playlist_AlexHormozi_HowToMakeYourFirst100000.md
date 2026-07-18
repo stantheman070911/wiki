@@ -1,5 +1,5 @@
 ---
-title: "How To Make Your First100000"
+title: "How to Make Your First $100,000"
 type: "source"
 domain: "source-library"
 lang: "en"

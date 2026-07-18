@@ -1,5 +1,5 @@
 ---
-title: "Ava Jurgens_Short Form Video Agency"
+title: "Ava Jurgens - Short-Form Video Agency"
 type: "source"
 domain: "source-library"
 lang: "en"

@@ -3,7 +3,7 @@ title: "完美主義是恐懼的偽裝：用行動與deadline打破癱瘓"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "zh"
-tags: [topic/mindset, topic/execution, source/kim-startup-qa]
+tags: [topic/mindset, topic/execution, source/kim-startup-qa, person/kim]
 source:
   type: "conversation"
   name: "創業解惑社 Q&A 整理（共用表單副本，344 則問答）"
@@ -66,6 +66,8 @@ status: "reviewed"
 - **related:** [[Build Evidence, Not Confidence]]
 - **related:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
 - **related:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
+
+- **related:** [[商業是連結與解決問題的方式：賺錢是驗證訊號而非目的]]
 
 ## 來源
 

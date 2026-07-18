@@ -70,9 +70,13 @@ node tools/generate-navigation-indexes.mjs
 
 # after any structural edit — validates links, indexes, types, provenance, series, etc.
 node tools/audit-vault.mjs
+
+# after editorial or navigation changes — validates placement, dates, headings,
+# provenance parity, relationship quality, duplicate risk, MOC capacity, and graph reachability
+node tools/deep-audit-vault.mjs
 ```
 
-`generate-architecture-report.mjs` and `generate-maintenance-review.mjs` write the current scorecard and review into [`_meta/`](_meta/). The audit is the gate: a clean `audit-vault.mjs` run is what "consistent" means here.
+`generate-architecture-report.mjs` and `generate-maintenance-review.mjs` write the current scorecard and review into [`_meta/`](_meta/). Both audits are release gates: `audit-vault.mjs` enforces the architecture contract, while `deep-audit-vault.mjs` checks editorial placement, provenance parity, duplicate risk, and reader-graph health.
 
 ## Obsidian setup (optional)
 

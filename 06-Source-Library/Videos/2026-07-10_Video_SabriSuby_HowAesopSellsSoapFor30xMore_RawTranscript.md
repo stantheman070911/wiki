@@ -1,5 +1,5 @@
 ---
-title: "How Aesop Sells Soap For30x More_Raw Transcript"
+title: "How Aesop Sells Soap for 30x More - Raw Transcript"
 type: "source"
 domain: "source-library"
 lang: "en"

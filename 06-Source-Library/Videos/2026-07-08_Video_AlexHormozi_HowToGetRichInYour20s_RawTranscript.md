@@ -1,5 +1,5 @@
 ---
-title: "How To Get Rich In Your20s_Raw Transcript"
+title: "How to Get Rich in Your 20s - Raw Transcript"
 type: "source"
 domain: "source-library"
 lang: "en"

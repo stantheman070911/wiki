@@ -1,5 +1,5 @@
 ---
-title: "How To Get Rich In Your20s_7 Hour Guide"
+title: "How to Get Rich in Your 20s - 7-Hour Guide"
 type: "source"
 domain: "source-library"
 lang: "en"

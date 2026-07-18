@@ -55,5 +55,7 @@ Priestley describes converting a hands-on book-coaching process into an AI-guide
 - **related:** [[Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
 - **related:** [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
 
+- **related:** [[Technology as an Accelerator, Not a Strategy]]
+
 ## Source reference
 Daniel Priestley, *Your Business Is Dead - AI Reinvention*. Raw transcript in [[2026-07-13_Video_DanielPriestley_YourBusinessIsDeadAIReinvention_RawTranscript]].

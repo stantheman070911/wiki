@@ -60,6 +60,8 @@ Source for this section: *Alex Hormozi Answers Your Questions (Ask Me Anything)*
 - **related:** [[When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
 - **related:** [[Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
 
+- **related:** [[Increase the Surface Area of Luck]]
+
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
 

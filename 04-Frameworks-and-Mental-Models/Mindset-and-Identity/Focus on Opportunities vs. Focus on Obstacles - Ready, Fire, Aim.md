@@ -44,5 +44,7 @@ Wealth File #5. Eker distinguishes this from generic "positive thinking": it's a
 - **related:** [[Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
 - **related:** [[Think Big vs. Think Small - The Law of Income]]
 
+- **related:** [[Think 'Both' vs. Think 'Either-Or' - Abundance Over Scarcity]]
+
 ## Source reference
 T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #5. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].

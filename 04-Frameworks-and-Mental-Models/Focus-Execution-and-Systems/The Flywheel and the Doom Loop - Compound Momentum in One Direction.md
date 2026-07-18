@@ -62,5 +62,7 @@ Circuit City spent roughly a decade refining its warehouse-showroom model before
 - **related:** [[A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
 - **related:** [[The Hedgehog Concept - Three Circles and the Economic Denominator]]
 
+- **related:** [[Kaizen and the Progress Principle - Small Wins, Course Corrections, and Motivation]]
+
 ## Source reference
 Jim Collins, *Good to Great*, chapter 8, "The Flywheel and the Doom Loop" (2001). [[2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript]].

@@ -1,5 +1,5 @@
 ---
-title: "Customer Acquisition, Offers, And Ads Playbook_Raw Transcript"
+title: "Customer Acquisition, Offers, and Ads Playbook - Raw Transcript"
 type: "source"
 domain: "source-library"
 lang: "en"

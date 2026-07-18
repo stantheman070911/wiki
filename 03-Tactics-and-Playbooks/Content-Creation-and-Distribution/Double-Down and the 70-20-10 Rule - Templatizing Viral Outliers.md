@@ -5,7 +5,7 @@ aliases:
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/content-strategy, source/personal-brand-launch]
+tags: [topic/content-strategy, source/personal-brand-launch, person/ava-jurgens]
 source:
   type: "video"
   name: "How to Grow an Instagram Account in 2026"

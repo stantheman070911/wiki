@@ -50,5 +50,7 @@ Airbnb's founders sold novelty cereal to finance the company and personally work
 - **related:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
 - **related:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 
+- **related:** [[The Passionate Visionary Scientist - A Three-Part Founder Mindset]]
+
 ## Source reference
 Paul Graham, “Relentlessly Resourceful,” “The Anatomy of Determination,” “Earnestness,” “A Word to the Resourceful,” and “The Right Kind of Stubborn,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

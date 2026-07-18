@@ -50,5 +50,7 @@ Airbnb waited four months after YC fundraising to hire its first employee. The f
 - **related:** [[The First 100k - Defense-Before-Offense Playbook]]
 - **related:** [[You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
 
+- **related:** [[Fundraising Is a Process - Momentum, Herd Dynamics, and Survival]]
+
 ## Source reference
 Paul Graham, “Default Alive or Default Dead?,” “The Fatal Pinch,” “Ramen Profitable,” and “How Not to Die,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].

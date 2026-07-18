@@ -1,5 +1,5 @@
 ---
-title: "Grow Audience From0 Followers"
+title: "Grow an Audience from 0 Followers"
 type: "source"
 domain: "source-library"
 lang: "en"

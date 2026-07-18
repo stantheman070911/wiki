@@ -77,6 +77,8 @@ Don't trust rose-tinted "I loved the struggle" recollections; at the time it was
 - **related:** [[Three Odyssey Plans - Parallel Futures Before Commitment]]
 - **related:** [[Prototype Before You Pivot - Life Design Interviews and Experiences]]
 
+- **related:** [[How to Do Great Work - Curiosity, Taste, Projects, and Endurance]]
+
 ## Source reference
 Alex Hormozi, *If You're Ambitious but Inconsistent, Please Watch This* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].
 

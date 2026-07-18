@@ -1,5 +1,5 @@
 ---
-title: "How Aesop Sells Soap For30x More"
+title: "How Aesop Sells Soap for 30x More"
 type: "source"
 domain: "source-library"
 lang: "en"

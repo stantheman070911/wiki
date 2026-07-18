@@ -1,5 +1,5 @@
 ---
-title: "Personal Brand Vs AI"
+title: "Personal Brand vs. AI"
 type: "source"
 domain: "source-library"
 lang: "en"

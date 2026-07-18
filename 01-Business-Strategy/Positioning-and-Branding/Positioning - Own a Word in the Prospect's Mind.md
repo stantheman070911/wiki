@@ -62,5 +62,7 @@ Ries and Trout's founding thesis (coined 1972). Kotler frames it as the step tha
 - **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
 - **related:** [[Personal-Brand Positioning and the No-Competition Model]]
 
+- **related:** [[The 22 Immutable Laws of Marketing]]
+
 ## Source reference
 Al Ries & Jack Trout, *Positioning: The Battle for Your Mind*, ch. 1–5. Extraction notes in [[2026-07-08_Book_RiesTrout_Positioning]].

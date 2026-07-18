@@ -1,5 +1,5 @@
 ---
-title: "Psychology Of Building ASuccessful Service Business"
+title: "Psychology of Building a Successful Service Business"
 type: "source"
 domain: "source-library"
 lang: "en"

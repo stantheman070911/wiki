@@ -56,5 +56,7 @@ Will Barron (salesman.com), after working with over 1,000 service-business owner
 - **related:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 - **related:** [[The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]]
 
+- **related:** [[Replace, Don't Fight, a Habit]]
+
 ## Source reference
 Will Barron, *The Psychology of Building a Successful Service Business* (YouTube, salesman.com). Raw transcript and extraction notes archived at [[2026-07-10_Video_WillBarron_PsychologyOfBuildingASuccessfulServiceBusiness]].

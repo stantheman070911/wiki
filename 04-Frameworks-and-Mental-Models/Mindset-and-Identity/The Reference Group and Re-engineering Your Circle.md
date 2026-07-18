@@ -58,6 +58,8 @@ Plus a partner/friend filter: same *scale* of goals (not identical goals) and th
 - **related:** [[Accountability and the Blame-Power Law]]
 - **related:** [[Focus as Elimination - The Deep-Work Playbook]]
 
+- **related:** [[No One's Opinion Pays Your Bills - Immunity to Critics]]
+
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
 

@@ -63,5 +63,7 @@ Use this to diagnose which model you are actually in (and therefore which proble
 - **related:** [[The Hedgehog Concept - Three Circles and the Economic Denominator]]
 - **related:** [[The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone]]
 
+- **related:** [[Real-World Proof and the Overkill Bias - Why the Best Get to Teach]]
+
 ## Source reference
 Alex Hormozi, *How to Grow Any Business Fast (The Four Business Shapes)*. Raw transcript archived in [[2026-07-18_Video_AlexHormozi_HowToGrowAnyBusinessFast_RawTranscript]].

@@ -59,6 +59,8 @@ Hormozi's core allocation rule for the early years: put savings into yourself, n
 - **related:** [[Volume and Feedback - Sales as the Training Ground]]
 - **related:** [[Teach to Learn - Public Obligation and the Feynman Loop]]
 
+- **related:** [[Declarative to Sell, Procedural to Deliver]]
+
 ## Source reference
 Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
 

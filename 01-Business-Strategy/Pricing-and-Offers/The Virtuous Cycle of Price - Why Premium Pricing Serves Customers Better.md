@@ -57,6 +57,7 @@ The loop is self-reinforcing in both directions: margin funds a better product, 
 - **related:** [[The Value Equation and the Grand Slam Offer]]
 - **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
 - **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
+- **related:** [[The Virtuous Cycle of Service Businesses]]
 - **related:** [[情緒價值與功能性價值：跳脫價格戰的定位框架]]
 
 ## Source reference

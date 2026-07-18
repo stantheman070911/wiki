@@ -58,6 +58,8 @@ Airbnb's founders improved listings in person and learned the marketplace by wor
 - **related:** [[Organic Startup Ideas - Live in the Future and Notice What Is Missing]]
 - **related:** [[Activation Before Automation - Manual Onboarding to Fix Churn]]
 
+- **related:** [[The Entrepreneur Apprenticeship - Commercial Awareness and 90-Day Side-Hustle Tests]]
+
 ## Source reference
 Paul Graham, “Startups in 13 Sentences,” “What I've Learned from Users,” “Be Good,” and “Do Things that Don't Scale,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
 

@@ -85,7 +85,7 @@ const records = walk(root).map((file) => {
 const byRel = new Map(records.map((record) => [record.rel.replace(/\.md$/, ''), record]));
 const byName = new Map();
 for (const record of records) {
-  for (const key of [path.posix.basename(record.rel, '.md'), record.title].filter(Boolean)) {
+  for (const key of new Set([path.posix.basename(record.rel, '.md'), record.title].filter(Boolean))) {
     if (!byName.has(key)) byName.set(key, []);
     byName.get(key).push(record);
   }
@@ -97,7 +97,7 @@ function resolve(target, from) {
   if (direct) return direct;
   const relative = path.posix.normalize(path.posix.join(path.posix.dirname(from.rel), target));
   if (byRel.has(relative)) return byRel.get(relative);
-  const names = byName.get(target) || [];
+  const names = [...new Set(byName.get(target) || [])];
   return names.length === 1 ? names[0] : null;
 }
 

@@ -47,5 +47,7 @@ Founders instinctively defend a high ROAS and refuse to let it drop, so they cap
 - **applies:** [[Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
 - **applies:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
 
+- **related:** [[Profit Is Unnatural - Defending Margin Against Organizational Creep]]
+
 ## Source reference
 Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #6). Raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].

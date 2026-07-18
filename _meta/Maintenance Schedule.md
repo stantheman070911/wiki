@@ -3,7 +3,7 @@ title: "Maintenance Schedule"
 type: "governance"
 domain: "meta"
 lang: "en"
-updated: "2026-07-13"
+updated: "2026-07-19"
 status: "evergreen"
 ---
 
@@ -18,8 +18,8 @@ This is the operating cadence for keeping THE WIKI structurally healthy. Complet
 3. Run `node tools/generate-navigation-indexes.mjs` after pages, sources, links, or statuses change.
 4. Run `node tools/benchmark-vault-search.mjs` after adding or splitting a source larger than 1 MB.
 5. Run `node tools/generate-maintenance-review.mjs` during scheduled maintenance.
-6. Run `node tools/generate-architecture-report.mjs` and `node tools/audit-vault.mjs`.
-7. Do not close the change while the audit reports a structural error.
+6. Run `node tools/generate-architecture-report.mjs`, `node tools/audit-vault.mjs`, and `node tools/deep-audit-vault.mjs`.
+7. Do not close the change while either audit reports an error.
 
 ## Monthly while growing rapidly
 
@@ -56,6 +56,7 @@ The architecture program is complete only when all of the following are true:
 - Home, domain maps, portable indexes, source/author facets, and editorial dashboards are usable.
 - The validator covers fragments, hubs, articles, attachments, topics, sources, series, aliases, page types, and folder conformity.
 - `node tools/audit-vault.mjs` exits successfully with zero structural errors.
+- `node tools/deep-audit-vault.mjs` exits successfully with zero placement, provenance, relationship, duplicate, or graph errors.
 
 ## Ownership
 
