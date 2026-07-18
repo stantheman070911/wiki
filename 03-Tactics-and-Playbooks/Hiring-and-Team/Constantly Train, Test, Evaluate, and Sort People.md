@@ -3,7 +3,7 @@ title: "Constantly Train, Test, Evaluate, and Sort People"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/hiring, topic/feedback, topic/leadership, topic/management, topic/culture, person/ray-dalio, person/steven-bartlett, source/bridgewater-associates]
+tags: [topic/hiring, topic/feedback, topic/leadership, topic/management, topic/culture, topic/learning, person/ray-dalio, person/steven-bartlett, person/andrew-grove, person/matthew-dixon, person/brent-adamson, source/bridgewater-associates, source/high-output-management, source/the-challenger-sale]
 source:
   type: "book"
   name: "Principles"
@@ -11,7 +11,7 @@ source:
   url: ""
   date_of_source: "2017"
 date_added: "2026-07-13"
-updated: "2026-07-13"
+updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
 ---
@@ -38,6 +38,13 @@ Ninth chapter of Work Principles, the second "people" chapter — where [[Hire R
 - **Don't lower the bar.** If someone can't meet the culture's standard within a reasonable time, they need to leave, regardless of how much effort or goodwill has already been invested.
 - **Evaluate cultural effect as well as individual output.** A talented person who normalizes lower standards, misconduct, or cynicism can reduce the performance of people around them; positive performers rarely cancel that contagion simply by working harder.
 - **A manager multiplies culture.** Promotion changes more than one person’s scope: the manager’s values and behavior become the local operating environment for an entire team.
+- **Diagnose capability before motivation.** If the person could perform the task with their life depending on it, the gap is motivational; if not, training is the primary intervention. Managers can raise output only by improving capability or motivation.
+- **Training is the manager's job and a continuing process.** The direct manager understands the real work, represents a credible role model, and can connect teaching to live standards; a one-off generic course cannot substitute for that ownership.
+- **Skill training and organizational capability must be built together.** Teaching a rep a new behavior will not stick if messaging, tools, incentives, and managers still reinforce the old motion. The individual and the surrounding system have to change in parallel.
+- **Training without reinforcement decays quickly.** A workshop creates awareness, not mastery. Durable change needs preparation before the event, coached application afterward, and repeated use in live work.
+- **Coaching is ongoing, job-embedded, individualized, and behavioral.** It is not generic advice or a manager inspecting the deal. The coach observes a specific behavior, helps the rep understand its effect, specifies a better behavior, and embeds it through practice.
+- **Coaching has unequal returns.** It tends to help the capable middle most: weak role fits cannot be coached into suitability indefinitely, while stars often gain only incrementally. This reinforces the need to distinguish development from selection.
+- **Coaching and innovation are different managerial jobs.** Managers coach toward known effective behaviors; when the team faces a novel obstacle, they must also help invent a workable path rather than merely demand compliance with an old process.
 
 ## Framework / model (if applicable)
 **Baseball Cards**, evolving over time from accumulated "dots" (individual observations) — see [[Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]. This chapter is where the tool is actually operated on an ongoing basis: continuous small inputs, aggregated honestly, rather than a once-a-year snapshot.
@@ -53,10 +60,17 @@ Add the **three-bars test**: “If everyone here had this person’s cultural va
 - Run the three-bars assessment separately for results and cultural behavior, citing multiple observed examples for each rating.
 - Before promoting someone, ask whether scaling their everyday behavior across a whole team would improve or damage the environment.
 - Act quickly on persistent cultural harm while maintaining a fair, documented process; delay lets one person’s behavior become a group norm.
+- Build a role curriculum from observed performance gaps, ask employees what they need, inventory capable manager-teachers, and begin with one short high-priority course.
+- Treat the first delivery as a field test: teach the most knowledgeable people first, collect anonymous critique, revise, then train additional instructors if the audience requires scale.
+- Match instruction and monitoring to [[Task-Relevant Maturity]] so people receive explicit what-when-how guidance on new tasks and increasing autonomy only after evidence of competence.
+- Use **PAUSE** for behavioral coaching: **P**repare for the conversation, **A**ffirm the rep's intent or effective behavior, **U**nderstand the observed behavior together, **S**pecify the behavior change, and **E**mbed it through rehearsal and follow-up.
+- Separate coaching from pipeline inspection. First discuss the rep's behavior and reasoning; only then address the immediate deal so the lesson transfers beyond one opportunity.
+- Create safe practice before live exposure, certify observable behaviors rather than course attendance, and aim for broad adoption—roughly the willing 80%—instead of distorting the program to force the most resistant tail.
 
 ## Notable examples
 - **The 301% finding.** When Bridgewater asked employees to estimate their own percentage contribution to shared outcomes, the self-reported totals summed to 301% — cited as hard evidence that self-assessment of contribution is systematically inflated and shouldn't be trusted uncorrected.
 - **An employee's blunt "D-" grade email to Dalio himself**, sent after a client meeting and copied to colleagues, is used as the standing illustration of genuine nonhierarchical sync — subordinates assessing leadership as openly as the reverse.
+- **The Challenger rollout.** Dixon and Adamson describe behavior change as a system implementation, not a training event: manager coaching, tools, messaging, and measurement reinforce the rep skills, while behavioral certification tests application rather than recall.
 
 ## Relationships
 - **related:** [[Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
@@ -64,8 +78,15 @@ Add the **three-bars test**: “If everyone here had this person’s cultural va
 - **applies:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
 - **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
 - **applies:** [[Adaptive Leadership - Consistent Standards, Individual Treatment]]
+- **related:** [[Performance Appraisal as a Management System]]
+- **related:** [[Task-Relevant Maturity]]
+- **related:** [[The Challenger Selling Model - Teach, Tailor, and Take Control]]
 
 ## Source reference
 Ray Dalio, *Principles*, Part III, Ch. 9 ("Constantly Train, Test, Evaluate, and Sort People"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
 
 Additional source: Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 30. [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
+
+Additional source: Andrew S. Grove, *High Output Management* (1983; revised 1995), chapters 11–16, [[2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript]].
+
+Additional source: Matthew Dixon and Brent Adamson, *The Challenger Sale: Taking Control of the Customer Conversation* (2011), chapters 3 and 8, [[2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript]].

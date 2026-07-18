@@ -99,7 +99,7 @@ SORT date_archived ASC
 - **Process the inbox** → paste [[Process-Inbox]] into Claude (or use the `process-inbox` skill)
 - **Find a topic** → Quick Switcher (`Cmd+O`), global search (`Cmd+Shift+F`), or the tag pane
 - **Browse every topic** → [[Topic-Index#All topics (155)|Topic Index — all 155 active topics]]
-- **Bridge English and Chinese** → [[Topic-Index#Bilingual topics (83)|83 bilingual topics]]; monolingual topics remain visible in the complete index
+- **Bridge English and Chinese** → [[Topic-Index|bilingual topic index]]; monolingual topics remain visible in the complete index
 - **Read taxonomy rules** → [[Tags]] — the governed, faceted vocabulary (`topic/` `person/` `source/`)
 - **Browse sources and people** → [[Source and Author Index]] — author, person, source, and media-type facets
 - **Use the portable inventory** → [[Portable Index]] — every knowledge page without a plugin dependency

@@ -3,7 +3,7 @@ title: "Own What the Prospect Already Gives You - Research-Based Positioning"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/positioning, topic/research, topic/differentiation, person/ries-trout]
+tags: [topic/positioning, topic/research, topic/differentiation, person/ries-trout, person/april-dunford, source/obviously-awesome]
 source:
   type: "book"
   name: "Positioning: The Battle for Your Mind"
@@ -11,7 +11,7 @@ source:
   url: ""
   date_of_source: "1981"
 date_added: "2026-07-13"
-updated: "2026-07-13"
+updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
 ---
@@ -29,6 +29,9 @@ Ries and Trout's Long Island Trust and United Jersey bank case studies show a di
 - **Find the one attribute where the ranking flips.** On "helps Long Island" and "helps the Long Island economy," Long Island Trust went straight to the top — the only thing the prospect was willing to give them. That's the position: not the best bank, but *the* Long Island bank.
 - **The underdog's disadvantage in size can become a claimed position.** United Jersey couldn't out-resource Citibank or Chase, so it positioned on the one dimension size actually works against a competitor: speed ("the fast-moving bank" vs. the fictional "Lethargic National Bank"), turning the big banks' scale into their weakness.
 - **The position must be operationally true, not just advertised.** United Jersey backed "fast-moving" with seven concrete internal commitments (decentralized loan approval, cross-trained staff, statewide ATMs, same-day lock-box pickup, etc.) before running the campaign — "when the bank's performance matched the promises the advertising was going to make, the advertising started to make the promises."
+- **Start with customers who already understand the value.** Dunford narrows the evidence set to customers who bought quickly, stayed, referred others, and would strongly resist losing the product; averaging across merely satisfied customers can hide the pattern.
+- **The relevant comparison is what customers would do without you.** A rival startup may matter internally but have no customer mindshare; spreadsheets, manual work, an intern, or doing nothing may be the alternatives that define whether an attribute is truly different.
+- **Research should connect difference to urgency.** After identifying the alternatives, trace unique attributes to benefits, customer goals, proof, and the observable characteristics of people who care most.
 
 ## Framework / model (if applicable)
 **Semantic differential mapping → own-what's-conceded → operationalize.**
@@ -37,10 +40,13 @@ Ries and Trout's Long Island Trust and United Jersey bank case studies show a di
 3. **Ignore the attributes you lose on.** Advertising your weak points, or trying to look like a generic competent competitor, wastes budget arguing against an already-made-up mind.
 4. **Match the operation to the claim.** Before advertising the position, make internal changes so every customer touchpoint proves it; otherwise the position collapses the first time a customer experiences the contradiction.
 5. **Re-measure.** Long Island Trust and United Jersey both re-ran the same research after the campaign to confirm the position had actually moved in the market's mind, not just in internal opinion.
+6. **Update the frame as the market moves.** Recheck the best customers, alternatives, and purchase criteria at least every six months or after a major competitive, regulatory, economic, or technological change.
 
 ## Tactics / how to apply
 - Run (or informally simulate) attribute-ranking research against your named competitors before writing any positioning copy — don't guess from inside the building.
+- First isolate a short list of ecstatic, best-fit customers and ask what they would have used or done if your solution did not exist.
 - Identify the one attribute, however unglamorous, where prospects already rank you first or where a plausible "local/faster/friendlier" claim would be believed.
+- Build the comparison around alternatives buyers actually considered, then demand objective proof for every claimed unique attribute.
 - Don't spend messaging trying to close the gap on attributes owned by bigger competitors (capital, range, scale) — you will lose that argument in the mind even if you improve the metric.
 - Translate the claimed attribute into specific, checkable operational commitments before the campaign launches (a policy, an SLA, a process change) — the claim has to survive contact with the customer.
 - Re-survey after launch to confirm the position actually shifted, not just that the ads ran.
@@ -54,6 +60,11 @@ Ries and Trout's Long Island Trust and United Jersey bank case studies show a di
 - **related:** [[Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
 - **related:** [[Positioning - Own a Word in the Prospect's Mind]]
 - **related:** [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
+- **related:** [[Positioning as Context - Make the Product Obviously Valuable]]
+- **related:** [[Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market]]
+- **related:** [[Three Market Positioning Styles - Head to Head, Big Fish, or New Game]]
 
 ## Source reference
 Al Ries & Jack Trout, *Positioning: The Battle for Your Mind*, ch. 19–20 ("Positioning a Long Island Bank," "Positioning a New Jersey Bank"). Full text in [[2026-07-08_Book_RiesTrout_Positioning_FullText]]; extraction notes in [[2026-07-08_Book_RiesTrout_Positioning]].
+
+April Dunford, *Obviously Awesome* (2019), Chapters 2–10 and 13. Raw transcript archived in [[2026-07-18_Book_AprilDunford_ObviouslyAwesome_RawTranscript]].

@@ -19,14 +19,14 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 
 | Queue | Pages |
 |---|---:|
-| Draft knowledge | 193 |
-| Reviewed / evergreen | 191 |
-| Zero organic inbound links | 96 |
+| Draft knowledge | 282 |
+| Reviewed / evergreen | 187 |
+| Zero organic inbound links | 109 |
 | Unprocessed sources | 0 |
 | Processed sources without direct knowledge links | 6 |
-| Cornerstone pages | 7 |
+| Cornerstone pages | 8 |
 
-## Draft queue (193)
+## Draft queue (282)
 
 | Page | Domain | Type | Updated |
 |---|---|---|---|
@@ -34,13 +34,11 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 | [[07-Articles/Fix the Bottleneck, Not Everything\|Fix the Bottleneck, Not Everything]] | articles | article | 2026-07-10 |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing\|Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing]] | tactics-and-playbooks | playbook | 2026-07-10 |
 | [[07-Articles/Steal the Format, Not the Idea\|Steal the Format, Not the Idea]] | articles | article | 2026-07-10 |
-| [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections\|Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]] | tactics-and-playbooks | playbook | 2026-07-10 |
 | [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop\|The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop]] | tactics-and-playbooks | playbook | 2026-07-10 |
 | [[07-Articles/Confidence Is a Receipt, Not a Requirement\|Confidence Is a Receipt, Not a Requirement]] | articles | article | 2026-07-11 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80% Mindset - Risk Tolerance and Refusing to Quit\|Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]] | frameworks-and-mental-models | framework | 2026-07-12 |
 | [[07-Articles/Change the Comparison Before You Change the Price\|Change the Comparison Before You Change the Price]] | articles | article | 2026-07-12 |
 | [[01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product - The Best-Known Wins, Not the Best\|Distribution Beats Product - The Best-Known Wins, Not the Best]] | business-strategy | strategy | 2026-07-12 |
-| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%\|Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]] | tactics-and-playbooks | playbook | 2026-07-12 |
 | [[01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS - The Percentage Lies\|Maximize Net Cash, Not ROAS - The Percentage Lies]] | business-strategy | strategy | 2026-07-12 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/No One's Opinion Pays Your Bills - Immunity to Critics\|No One's Opinion Pays Your Bills - Immunity to Critics]] | frameworks-and-mental-models | framework | 2026-07-12 |
 | [[01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where the Fewest Go\|The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]] | business-strategy | strategy | 2026-07-12 |
@@ -65,7 +63,6 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting\|Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[01-Business-Strategy/Business-Models-and-Customers/Community Quality Is the Offer - Qualification, Curation, and Network Effects\|Community Quality Is the Offer - Qualification, Curation, and Network Effects]] | business-strategy | strategy | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE\|Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE]] | frameworks-and-mental-models | framework | 2026-07-13 |
-| [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People\|Constantly Train, Test, Evaluate, and Sort People]] | tactics-and-playbooks | playbook | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Contribution Before Activity - Define Results and Make Knowledge Usable\|Contribution Before Activity - Define Results and Make Knowledge Usable]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't\|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative Cooperation - Feedback, Friction, and Choice C\|Creative Cooperation - Feedback, Friction, and Choice C]] | frameworks-and-mental-models | framework | 2026-07-13 |
@@ -78,10 +75,8 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 | [[01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch\|Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]] | business-strategy | strategy | 2026-07-13 |
 | [[03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements to Your Machine to Get Around Your Problems\|Design Improvements to Your Machine to Get Around Your Problems]] | tactics-and-playbooks | playbook | 2026-07-13 |
 | [[03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems to Get at Their Root Causes\|Diagnose Problems to Get at Their Root Causes]] | tactics-and-playbooks | playbook | 2026-07-13 |
-| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment\|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]] | tactics-and-playbooks | playbook | 2026-07-13 |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Direct-Response Copywriting\|Direct-Response Copywriting - NEWIF, the Nine Questions, and Three Conversion-Killing Mistakes]] | tactics-and-playbooks | playbook | 2026-07-13 |
 | [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Do Things That Don't Scale - Recruit, Delight, and Learn by Hand\|Do Things That Don't Scale - Recruit, Delight, and Learn by Hand]] | tactics-and-playbooks | playbook | 2026-07-13 |
-| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do\|Do What You Set Out to Do]] | tactics-and-playbooks | playbook | 2026-07-13 |
 | [[03-Tactics-and-Playbooks/Operations-and-Productivity/Don't Overlook Governance\|Don't Overlook Governance]] | tactics-and-playbooks | playbook | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula\|Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself\|Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself]] | frameworks-and-mental-models | framework | 2026-07-13 |
@@ -120,7 +115,6 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 | [[01-Business-Strategy/Business-Models-and-Customers/Organic Startup Ideas - Live in the Future and Notice What Is Missing\|Organic Startup Ideas - Live in the Future and Notice What Is Missing]] | business-strategy | strategy | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Out-Fail the Competition - Building an Experimentation System\|Out-Fail the Competition - Building an Experimentation System]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed\|Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven Demand]] | business-strategy | strategy | 2026-07-13 |
-| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the Prospect Already Gives You - Research-Based Positioning\|Own What the Prospect Already Gives You - Research-Based Positioning]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs. Paid on Time\|Paid on Results vs. Paid on Time]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[03-Tactics-and-Playbooks/Operations-and-Productivity/Perceive and Don't Tolerate Problems\|Perceive and Don't Tolerate Problems]] | tactics-and-playbooks | playbook | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs. Playing Not to Lose\|Playing to Win vs. Playing Not to Lose]] | frameworks-and-mental-models | framework | 2026-07-13 |
@@ -141,7 +135,6 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the Game - Aligning Upside, Downside, and Accountability\|Skin in the Game - Aligning Upside, Downside, and Accountability]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Soft Skills Are Observable Behavior Chains\|Soft Skills Are Observable Behavior Chains]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design Jobs Around Exceptional Contribution\|Staff for Strength - Design Jobs Around Exceptional Contribution]] | tactics-and-playbooks | playbook | 2026-07-13 |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open\|Start With Agreement - Keep the Other Mind Open]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly Compounding and Market Size\|Startup Equals Growth - Weekly Compounding and Market Size]] | business-strategy | strategy | 2026-07-13 |
 | [[05-Intelligence-and-Research/Startup Hubs - Ambition, Density, and the People Who Matter\|Startup Hubs - Ambition, Density, and the People Who Matter]] | intelligence-and-research | research | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for Makers - Constraints for Designing Good Things\|Taste for Makers - Constraints for Designing Good Things]] | frameworks-and-mental-models | framework | 2026-07-13 |
@@ -168,7 +161,6 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 | [[01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A Seven-Part Framework for an Irresistible Offer\|The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]] | business-strategy | strategy | 2026-07-13 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept - Three Circles and the Economic Denominator\|The Hedgehog Concept - Three Circles and the Economic Denominator]] | business-strategy | strategy | 2026-07-13 |
 | [[01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of Investing - Diversification via Uncorrelated Return Streams\|The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]] | business-strategy | strategy | 2026-07-13 |
-| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales\|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]] | tactics-and-playbooks | playbook | 2026-07-13 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns\|The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns]] | business-strategy | strategy | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Lindy Effect - Time as a Filter for Robust Ideas and Practices\|The Lindy Effect - Time as a Filter for Robust Ideas and Practices]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground - Problem, Process, and Prize Experiences\|The Marketing Playground - Problem, Process, and Prize Experiences]] | business-strategy | strategy | 2026-07-13 |
@@ -190,41 +182,138 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 | [[07-Articles/Trust Should Have a Credit Limit\|Trust Should Have a Credit Limit]] | articles | article | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That People Are Wired Very Differently\|Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and Protocols to Shape How Work Is Done\|Use Tools and Protocols to Shape How Work Is Done]] | tactics-and-playbooks | playbook | 2026-07-13 |
-| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product\|Values Before Features - Sell the Identity Behind the Product]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation - Measurement, Leverage, and Compressed Work\|Wealth Creation - Measurement, Leverage, and Compressed Work]] | business-strategy | strategy | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Willing to Self-Promote vs. Averse to Selling\|Willing to Self-Promote vs. Averse to Selling]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a Discovery Tool - Useful, Simple, and Rewritten\|Writing as a Discovery Tool - Useful, Simple, and Rewritten]] | tactics-and-playbooks | playbook | 2026-07-13 |
 | [[07-Articles/Two Ways a Founder Can Disappear\|Two Ways a Founder Can Disappear]] | articles | article | 2026-07-15 |
 | [[07-Articles/Disagreement Needs a Finish Line\|Disagreement Needs a Finish Line]] | articles | article | 2026-07-16 |
 | [[07-Articles/Every Possession Comes With a Job\|Every Possession Comes With a Job]] | articles | article | 2026-07-17 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn\|Activation Before Automation - Manual Onboarding to Fix Churn]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Advances, Not Continuations - Plan Every Sales Call\|Advances, Not Continuations - Plan Every Sales Call]] | tactics-and-playbooks | playbook | 2026-07-18 |
 | [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies - Recruiting Businesses to Sell for You\|Affiliate Armies - Recruiting Businesses to Sell for You]] | tactics-and-playbooks | playbook | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy\|Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Bend Their Reality - Loss, Fairness, Deadlines, and Anchors\|Bend Their Reality - Loss, Fairness, Deadlines, and Anchors]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Black Swans - Find Unknown Unknowns and Hidden Leverage\|Black Swans - Find Unknown Unknowns and Hidden Leverage]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bullseye - Test All Channels, Then Focus on One\|Bullseye - Test All Channels, Then Focus on One]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Buyer Needs and Benefits - From Implied Problems to Explicit Value\|Buyer Needs and Benefits - From Implied Problems to Explicit Value]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated Questions - How and What Create the Illusion of Control\|Calibrated Questions - How and What Create the Illusion of Control]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous Conversations, Feedback, and Recognition\|CFRs - Continuous Conversations, Feedback, and Recognition]] | tactics-and-playbooks | playbook | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Chain-Link Systems - Getting Stuck and Getting Unstuck\|Chain-Link Systems - Getting Stuck and Getting Unstuck]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Checklist Design - Pause Points, Killer Items, and Field Testing\|Checklist Design - Pause Points, Killer Items, and Field Testing]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well - Narrow, Decide, Let Go, and Move On\|Choosing Well - Narrow, Decide, Let Go, and Move On]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition - Make the Customer Fund the Next Customer\|Client-Financed Acquisition - Make the Customer Fund the Next Customer]] | business-strategy | strategy | 2026-07-18 |
 | [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Cold Outreach - Personalize, Big Fast Value, Volume\|Cold Outreach - Personalize, Big Fast Value, Volume]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching - Insight That Leads to Unique Strengths\|Commercial Teaching - Insight That Leads to Unique Strengths]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed and Aspirational OKRs - Separate Reliability from Stretch\|Committed and Aspirational OKRs - Separate Reliability from Stretch]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity\|Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]] | tactics-and-playbooks | playbook | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Competitive Advantage - Why Owning One Isn't Enough\|Competitive Advantage - Why Owning One Isn't Enough]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity Needs Standards and Distributed Judgment\|Complexity Needs Standards and Distributed Judgment]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People\|Constantly Train, Test, Evaluate, and Sort People]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical Path - Work Backward from a Traction Goal\|Critical Path - Work Backward from a Traction Goal]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion\|Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails\|Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[07-Articles/Design for the Second Audience\|Design for the Second Audience]] | articles | article | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment\|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing - Measure Action, Build Culture Patiently\|Direct vs Brand Marketing - Measure Action, Build Culture Patiently]] | business-strategy | strategy | 2026-07-18 |
 | [[07-Articles/Do It by Hand Until You Know What It Is\|Do It by Hand Until You Know What It Is]] | articles | article | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do\|Do What You Set Out to Do]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign, Redesign - Four Ways to Change Work in Place\|Don't Resign, Redesign - Four Ways to Change Work in Place]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Drum-Buffer-Rope - Release Work at the Constraint's Pace\|Drum-Buffer-Rope - Release Work at the Constraint's Pace]] | tactics-and-playbooks | playbook | 2026-07-18 |
 | [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack\|Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Failure Reframing and Immunity\|Failure Reframing and Immunity]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Focus - Winning a Segment by Coordinating Policy Around It\|Focus - Winning a Segment by Coordinating Policy Around It]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and Align - Make Priorities and Dependencies Public\|Focus and Align - Make Priorities and Dependencies Public]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions - Formation Beyond Problem Solving\|Focus Questions - Formation Beyond Problem Solving]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Formative Communities - Become Better Together\|Formative Communities - Become Better Together]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Gap Prospecting - Intrigue, Offer, Ask, and Cadence\|Gap Prospecting - Intrigue, Offer, Ask, and Cadence]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Gap Selling - Current State, Future State, and the Value of Change\|Gap Selling - Current State, Future State, and the Value of Change]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good Enough for Now - Acceptance Without Settling\|Good Enough for Now - Acceptance Without Settling]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[01-Business-Strategy/Growth-and-Scaling/Growth Is Not a Strategy - When Expansion Destroys Value\|Growth Is Not a Strategy - When Expansion Destroys Value]] | business-strategy | strategy | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Guarantee Execution - How, the Rule of Three, and Hidden Players\|Guarantee Execution - How, the Rule of Three, and Hidden Players]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/H2H Marketing - Human-Centered Service, Trust, and Co-Creation\|H2H Marketing - Human-Centered Service, Trust, and Co-Creation]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Hybrid Organizations and Dual Reporting\|Hybrid Organizations and Dual Reporting]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Inertia and Entropy - Three Kinds of Organizational Stuckness\|Inertia and Entropy - Three Kinds of Organizational Stuckness]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Keeping Your Head - Social Herding, the Inside View, and Strategy as Hypothesis\|Keeping Your Head - Social Herding, the Inside View, and Strategy as Hypothesis]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Design Compass - Workview, Lifeview, and Coherency\|Life Design Compass - Workview, Lifeview, and Coherency]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%\|Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial Output and Leverage\|Managerial Output and Leverage]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Marketing as Service - Make Change for People You Seek to Serve\|Marketing as Service - Make Change for People You Seek to Serve]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No - Protect Autonomy to Start the Real Negotiation\|Master No - Protect Autonomy to Start the Real Negotiation]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Meaning in Life Is Designed in Particular Moments\|Meaning in Life Is Designed in Particular Moments]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as Managerial Production\|Meetings as Managerial Production]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Mirroring and Voice - Slow the Negotiation and Keep Them Talking\|Mirroring and Voice - Slow the Negotiation and Keep Them Talking]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Moment-Making - Crafted, Discovered, and Savored Experiences\|Moment-Making - Crafted, Discovered, and Savored Experiences]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs - Define Objectives Through Sufficient Key Results\|OKRs - Define Objectives Through Sufficient Key Results]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Overwhelm Is a System Signal - Diagnose Before Burnout\|Overwhelm Is a System Signal - Diagnose Before Burnout]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the Prospect Already Gives You - Research-Based Positioning\|Own What the Prospect Already Gives You - Research-Based Positioning]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/People Like Us Do Things Like This - Culture and Status as Behavior\|People Like Us Do Things Like This - Culture and Status as Behavior]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Hiring-and-Team/Performance Appraisal as a Management System\|Performance Appraisal as a Management System]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability - Own Attention and Design Word of Mouth\|Permission and Remarkability - Own Attention and Design Word of Mouth]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning Backward from the Gap\|Planning Backward from the Gap]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as Context - Make the Product Obviously Valuable\|Positioning as Context - Make the Product Obviously Valuable]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market\|Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Problem-Centric Discovery - Four Question Types and the CRM Challenge\|Problem-Centric Discovery - Four Question Types and the CRM Challenge]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You Pivot - Life Design Interviews and Experiences\|Prototype Before You Pivot - Life Design Interviews and Experiences]] | tactics-and-playbooks | playbook | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Proximate Objectives - Setting the Next Achievable Target\|Proximate Objectives - Setting the Next Achievable Target]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Quitting Well and Moving On\|Quitting Well and Moving On]] | tactics-and-playbooks | playbook | 2026-07-18 |
 | [[01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the Overkill Bias - Why the Best Get to Teach\|Real-World Proof and the Overkill Bias - Why the Best Get to Teach]] | business-strategy | strategy | 2026-07-18 |
 | [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals - Engineering Word of Mouth Through Goodwill\|Referrals - Engineering Word of Mouth Through Goodwill]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reframe Gravity Problems into Actionable Problems\|Reframe Gravity Problems into Actionable Problems]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Riding Waves of Change - Five Guideposts for Industry Transitions\|Riding Waves of Change - Five Guideposts for Industry Transitions]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal - The Guarantee Toolkit\|Risk Reversal - The Guarantee Toolkit]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and Urgency - Engineering Demand with Supply and Deadlines\|Scarcity and Urgency - Engineering Demand with Supply and Deadlines]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Simple Flow - Presence Beyond Peak Performance\|Simple Flow - Presence Beyond Peak Performance]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[01-Business-Strategy/Business-Models-and-Customers/Smallest Viable Market - Specificity Before Scale\|Smallest Viable Market - Specificity Before Scale]] | business-strategy | strategy | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery - Situation, Problem, Implication, and Need-Payoff\|SPIN Discovery - Situation, Problem, Implication, and Need-Payoff]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open\|Start With Agreement - Keep the Other Mind Open]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections\|Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]] | tactics-and-playbooks | playbook | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategic Leverage - Anticipation, Pivot Points, Concentration\|Strategic Leverage - Anticipation, Pivot Points, Concentration]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy as Design - Coordinating Actions Under Constraint\|Strategy as Design - Coordinating Actions Under Constraint]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical Empathy - Labels, Silence, and the Accusation Audit\|Tactical Empathy - Labels, Silence, and the Accusation Audit]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for Consensus - Stakeholder Outcomes and Widespread Support\|Tailoring for Consensus - Stakeholder Outcomes and Widespread Support]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control - Constructive Tension Across the Sale\|Taking Control - Constructive Tension Across the Sale]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Task-Relevant Maturity\|Task-Relevant Maturity]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Team Checklists - Communication Before Coordination\|Team Checklists - Communication Before Coordination]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The 50 Percent Rule - Build Product and Traction in Parallel\|The 50 Percent Rule - Build Product and Traction in Parallel]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers\|The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The ARC of Career Motivation - Autonomy, Relatedness, and Competence\|The ARC of Career Motivation - Autonomy, Relatedness, and Competence]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers\|The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Breakfast Factory - Limiting Steps, WIP, and Capacity\|The Breakfast Factory - Limiting Steps, WIP, and Capacity]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger Selling Model - Teach, Tailor, and Take Control\|The Challenger Selling Model - Teach, Tailor, and Take Control]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down\|The Change Cost Filter - Stay, Scale, or Burn It Down]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Commercial Teaching Conversation - From Warmer to Your Solution\|The Commercial Teaching Conversation - From Warmer to Your Solution]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Designer's Way - Acceptance, Availability, and Engaged Detachment\|The Designer's Way - Acceptance, Availability, and Engaged Detachment]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand\|The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand]] | business-strategy | strategy | 2026-07-18 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software\|The Four Business Shapes - E-commerce, Service, Education, Software]] | business-strategy | strategy | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action\|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales\|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Maker Mix - Money, Impact, and Expression\|The Maker Mix - Money, Impact, and Expression]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The MOAT Framework - Choose Freemium, Free Trial, or Demo\|The MOAT Framework - Choose Freemium, Free Trial, or Demo]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes - Decision Criteria, Buying Process, and Mutual Effort\|The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating Cycle - Set, Check In, Score, and Reflect\|The OKR Operating Cycle - Set, Check In, Score, and Reflect]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance\|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem Identification Chart - Problems, Impacts, and Root Causes\|The Problem Identification Chart - Problems, Impacts, and Root Causes]] | tactics-and-playbooks | playbook | 2026-07-18 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The Software Shape - Survive to Product-Market Fit, Then Retain Forever\|The Software Shape - Survive to Product-Market Fit, Then Retain Forever]] | business-strategy | strategy | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand Conversion Path - Problem, Plan, and Calls to Action\|The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment\|The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide\|The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[01-Business-Strategy/Pricing-and-Offers/The Virtuous Cycle of Price - Why Premium Pricing Serves Customers Better\|The Virtuous Cycle of Price - Why Premium Pricing Serves Customers Better]] | business-strategy | strategy | 2026-07-18 |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Whisper-Tease-Shout Launch\|The Whisper-Tease-Shout Launch]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Wonder Formula - Curiosity Plus Mystery\|The Wonder Formula - Curiosity Plus Mystery]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of Constraints - The Five Focusing Steps\|Theory of Constraints - The Five Focusing Steps]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market Positioning Styles - Head to Head, Big Fish, or New Game\|Three Market Positioning Styles - Head to Head, Big Fish, or New Game]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey Plans - Parallel Futures Before Commitment\|Three Odyssey Plans - Parallel Futures Before Commitment]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput Accounting - Manage the System, Not Local Costs\|Throughput Accounting - Manage the System, Not Local Costs]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Transactional and Flow Worlds - Intent Versus What Is\|Transactional and Flow Worlds - Intent Versus What Is]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth Sprints - Analyze, Ask, and Act\|Triple-A Growth Sprints - Analyze, Ask, and Act]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and Tension - Move People Without Coercion\|Trust and Tension - Move People Without Coercion]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[01-Business-Strategy/Business-Models-and-Customers/UCD - Understand, Communicate, and Deliver Customer Value\|UCD - Understand, Communicate, and Deliver Customer Value]] | business-strategy | framework | 2026-07-18 |
+| [[01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow With Customer Outcomes\|Value Metrics - Price and Grow With Customer Outcomes]] | business-strategy | strategy | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product\|Values Before Features - Sell the Identity Behind the Product]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Wayfinding with Energy and Engagement\|Wayfinding with Energy and Engagement]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace Influence Mapping - Authority, Value, and Recognition\|Workplace Influence Mapping - Authority, Value, and Recognition]] | frameworks-and-mental-models | framework | 2026-07-18 |
 
-## Review queue (191)
+## Review queue (187)
 
 Oldest review date first.
 
@@ -242,7 +331,6 @@ Oldest review date first.
 | [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-9-Capitalize\|$100M 擴張路線圖 · Stage 9：Capitalize 下注]] | reviewed | 2026-07-08 |
 | [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview\|$100M 擴張路線圖 · 總覽與方法論]] | evergreen | 2026-07-08 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and the Blame-Power Law\|Accountability and the Blame-Power Law]] | reviewed | 2026-07-08 |
-| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn\|Activation Before Automation - Manual Onboarding to Fix Churn]] | reviewed | 2026-07-08 |
 | [[01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a Force Multiplier\|Add a Zero - Market Choice as a Force Multiplier]] | reviewed | 2026-07-08 |
 | [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer\|Barbell Pricing and the Unscalable Premium Offer]] | reviewed | 2026-07-08 |
 | [[01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle Alignment\|Billing-Cycle vs Value-Cycle Alignment]] | reviewed | 2026-07-08 |
@@ -254,7 +342,6 @@ Oldest review date first.
 | [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers\|Centers of Influence - Selling Through Trusted Referrers]] | reviewed | 2026-07-08 |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar\|Clear Over Clever - Write Below Third Grade and Meet the Avatar]] | reviewed | 2026-07-08 |
 | [[01-Business-Strategy/Business-Models-and-Customers/Companies as Philanthropy - Purpose and Building for Humanity\|Companies as Philanthropy - Purpose and Building for Humanity]] | reviewed | 2026-07-08 |
-| [[03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity\|Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]] | reviewed | 2026-07-08 |
 | [[01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You Can't Control Price\|Compete on Efficiency When You Can't Control Price]] | reviewed | 2026-07-08 |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creator Monetization Ladder and Content-Concept Formulas\|Creator Monetization Ladder and Content-Concept Formulas]] | reviewed | 2026-07-08 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle\|Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]] | reviewed | 2026-07-08 |
@@ -298,7 +385,6 @@ Oldest review date first.
 | [[01-Business-Strategy/Positioning-and-Branding/The 22 Immutable Laws of Marketing\|The 22 Immutable Laws of Marketing]] | reviewed | 2026-07-08 |
 | [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm - Musk's Five-Step Process Method\|The Algorithm - Musk's Five-Step Process Method]] | reviewed | 2026-07-08 |
 | [[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat\|The Attention Barbell - Brand as the AI-Era Moat]] | reviewed | 2026-07-08 |
-| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down\|The Change Cost Filter - Stay, Scale, or Burn It Down]] | reviewed | 2026-07-08 |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content Repository - Four Topic Buckets and Tweet-First Capture\|The Content Repository - Four Topic Buckets and Tweet-First Capture]] | reviewed | 2026-07-08 |
 | [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals\|The Core Four and the Rule of 100 - Lead Generation Fundamentals]] | reviewed | 2026-07-08 |
 | [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game\|The Creative Volume Engine - Ads Are an At-Bats Game]] | reviewed | 2026-07-08 |
@@ -310,7 +396,6 @@ Oldest review date first.
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Framework for Making Frameworks - Distill by Commonality\|The Framework for Making Frameworks - Distill by Commonality]] | reviewed | 2026-07-08 |
 | [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension Trap - Why One Name Can't Own Two Things\|The Line-Extension Trap - Why One Name Can't Own Two Things]] | reviewed | 2026-07-08 |
 | [[01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold Traffic Before the Core Offer\|The Paid Front Door - Warm Cold Traffic Before the Core Offer]] | reviewed | 2026-07-08 |
-| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance\|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]] | reviewed | 2026-07-08 |
 | [[02-Social-Media-Strategy/The Personal-Brand House - Foundation, Interior, Exterior\|The Personal-Brand House - Foundation, Interior, Exterior]] | reviewed | 2026-07-08 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle\|The Reference Group and Re-engineering Your Circle]] | reviewed | 2026-07-08 |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Seven Factors of a Short - Topic to Editing\|The Seven Factors of a Short - Topic to Editing]] | reviewed | 2026-07-08 |
@@ -360,7 +445,6 @@ Oldest review date first.
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Planner and the Analyze-Double-Down Loop\|Content Planner and the Analyze-Double-Down Loop]] | reviewed | 2026-07-13 |
 | [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why\|Creator Vision Framework: What x Who x Why]] | reviewed | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs. Indefinite Optimism - Planning Your Way to the Future\|Definite vs. Indefinite Optimism - Planning Your Way to the Future]] | reviewed | 2026-07-13 |
-| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law\|Distribution Is Destiny - The Sales Channel Power Law]] | reviewed | 2026-07-13 |
 | [[02-Social-Media-Strategy/IP變現主流程與公域內容規劃循環\|IP變現主流程與公域內容規劃循環]] | reviewed | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine - Why Computers Complement Humans Instead of Replacing Them\|Man and Machine - Why Computers Complement Humans Instead of Replacing Them]] | reviewed | 2026-07-13 |
 | [[01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition - Why All Happy Companies Are Different\|Monopoly vs. Competition - Why All Happy Companies Are Different]] | reviewed | 2026-07-13 |
@@ -414,6 +498,7 @@ Oldest review date first.
 | [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/金錢真相、清晰溝通與人生取捨\|金錢真相、清晰溝通與人生取捨]] | reviewed | 2026-07-13 |
 | [[01-Business-Strategy/Business-Models-and-Customers/零售策略與通路飛輪\|零售策略與通路飛輪]] | reviewed | 2026-07-13 |
 | [[02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產\|電子郵件名單：最被低估的自有高意圖資產]] | reviewed | 2026-07-13 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law\|Distribution Is Destiny - The Sales Channel Power Law]] | reviewed | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal Emotion - When We Care, We Share\|High-Arousal Emotion - When We Care, We Share]] | reviewed | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100\|Practical Value - The Psychology of Deals and the Rule of 100]] | reviewed | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue\|Public - Observability and Behavioral Residue]] | reviewed | 2026-07-18 |
@@ -422,7 +507,7 @@ Oldest review date first.
 | [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue\|Triggers - Top of Mind, Tip of Tongue]] | reviewed | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable Virality - Build a Trojan Horse People Can't Retell Without You\|Valuable Virality - Build a Trojan Horse People Can't Retell Without You]] | reviewed | 2026-07-18 |
 
-## Zero organic inbound links (96)
+## Zero organic inbound links (109)
 
 Pages with no inbound link from knowledge pages, Home, articles, or curated domain/subdomain maps. Generated inventories and governance/source pages do not manufacture connectivity.
 
@@ -430,11 +515,11 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 
 | Domain | Pages |
 |---|---|
-| business-strategy | 29 |
-| frameworks-and-mental-models | 34 |
+| business-strategy | 31 |
+| frameworks-and-mental-models | 38 |
 | intelligence-and-research | 3 |
 | social-media-strategy | 3 |
-| tactics-and-playbooks | 27 |
+| tactics-and-playbooks | 34 |
 
 ### Pages
 
@@ -444,6 +529,7 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 | [[01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition - Make the Customer Fund the Next Customer\|Client-Financed Acquisition - Make the Customer Fund the Next Customer]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Business-Models-and-Customers/Companies as Philanthropy - Purpose and Building for Humanity\|Companies as Philanthropy - Purpose and Building for Humanity]] | business-strategy | strategy | reviewed |
 | [[01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You Can't Control Price\|Compete on Efficiency When You Can't Control Price]] | business-strategy | strategy | reviewed |
+| [[01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing - Measure Action, Build Culture Patiently\|Direct vs Brand Marketing - Measure Action, Build Culture Patiently]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment\|Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Business-Models-and-Customers/From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify\|From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Finance-Capital-and-Exit/Fundraising Is a Process - Momentum, Herd Dynamics, and Survival\|Fundraising Is a Process - Momentum, Herd Dynamics, and Survival]] | business-strategy | strategy | draft |
@@ -451,9 +537,9 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 | [[01-Business-Strategy/Growth-and-Scaling/Growth Is Not a Strategy - When Expansion Destroys Value\|Growth Is Not a Strategy - When Expansion Destroys Value]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Pricing-and-Offers/High-Ticket Self-Checkout - Brand and Qualification Compress the Sale\|High-Ticket Self-Checkout - Brand and Qualification Compress the Sale]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Positioning-and-Branding/Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve\|Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize the Whole Revenue System\|Price, Churn, and EPC - Optimize the Whole Revenue System]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural - Defending Margin Against Organizational Creep\|Profit Is Unnatural - Defending Margin Against Organizational Creep]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the Overkill Bias - Why the Best Get to Teach\|Real-World Proof and the Overkill Bias - Why the Best Get to Teach]] | business-strategy | strategy | draft |
+| [[01-Business-Strategy/Business-Models-and-Customers/Smallest Viable Market - Specificity Before Scale\|Smallest Viable Market - Specificity Before Scale]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly Compounding and Market Size\|Startup Equals Growth - Weekly Compounding and Market Size]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Positioning-and-Branding/The 22 Immutable Laws of Marketing\|The 22 Immutable Laws of Marketing]] | business-strategy | strategy | reviewed |
 | [[01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom Loop and the One-Brand Bet\|The Direct-Response Doom Loop and the One-Brand Bet]] | business-strategy | strategy | reviewed |
@@ -461,6 +547,7 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 | [[01-Business-Strategy/Business-Models-and-Customers/The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns\|The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground - Problem, Process, and Prize Experiences\|The Marketing Playground - Problem, Process, and Prize Experiences]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle - Infancy, Adolescence, and Maturity\|The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]] | business-strategy | strategy | draft |
+| [[01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow With Customer Outcomes\|Value Metrics - Price and Grow With Customer Outcomes]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Traffic-and-Acquisition/五大流量模型與私域轉換：從你找人到人找你\|五大流量模型與私域轉換：從你找人到人找你]] | business-strategy | strategy | reviewed |
 | [[01-Business-Strategy/Finance-Capital-and-Exit/內容產製系統與募資紀律\|內容產製系統與募資紀律]] | business-strategy | strategy | reviewed |
 | [[01-Business-Strategy/Business-Models-and-Customers/商業四大需求層次：救命、治病、養生、建體\|商業四大需求層次：救命、治病、養生、建體]] | business-strategy | strategy | reviewed |
@@ -470,12 +557,15 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 | [[01-Business-Strategy/Positioning-and-Branding/業績公式與商業定位：從流量思維到變現路徑\|業績公式與商業定位：從流量思維到變現路徑]] | business-strategy | strategy | reviewed |
 | [[01-Business-Strategy/Business-Models-and-Customers/零售策略與通路飛輪\|零售策略與通路飛輪]] | business-strategy | strategy | reviewed |
 | [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a Brand Signal\|Absurdity as a Brand Signal]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Adaptive Leadership - Consistent Standards, Individual Treatment\|Adaptive Leadership - Consistent Standards, Individual Treatment]] | frameworks-and-mental-models | framework | draft |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Black Swans - Find Unknown Unknowns and Hidden Leverage\|Black Swans - Find Unknown Unknowns and Hidden Leverage]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative Cooperation - Feedback, Friction, and Choice C\|Creative Cooperation - Feedback, Friction, and Choice C]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Receptivity - Awareness, Attention, and the Artist's Filter\|Creative Receptivity - Awareness, Attention, and the Artist's Filter]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Success - Judge the Work Before the Outcome\|Creative Success - Judge the Work Before the Outcome]] | frameworks-and-mental-models | framework | draft |
+| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Failure Reframing and Immunity\|Failure Reframing and Immunity]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New Ideas - Work at the Fractal Edge of Knowledge\|Finding New Ideas - Work at the Fractal Edge of Knowledge]] | frameworks-and-mental-models | framework | draft |
+| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions - Formation Beyond Problem Solving\|Focus Questions - Formation Beyond Problem Solving]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Founder Mode - Direct Engagement Without Delegation Theater\|Founder Mode - Direct Engagement Without Delegation Theater]] | frameworks-and-mental-models | framework | draft |
+| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Gap Selling - Current State, Future State, and the Value of Change\|Gap Selling - Current State, Future State, and the Value of Change]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/How to Do Great Work - Curiosity, Taste, Projects, and Endurance\|How to Do Great Work - Curiosity, Taste, Projects, and Endurance]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Increase the Surface Area of Luck\|Increase the Surface Area of Luck]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction\|Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction]] | frameworks-and-mental-models | framework | draft |
@@ -483,20 +573,21 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 | [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is Short - Ruthless Attention Allocation\|Life Is Short - Ruthless Attention Allocation]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines\|Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]] | frameworks-and-mental-models | framework | reviewed |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/No One's Opinion Pays Your Bills - Immunity to Critics\|No One's Opinion Pays Your Bills - Immunity to Critics]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the Prospect Already Gives You - Research-Based Positioning\|Own What the Prospect Already Gives You - Research-Based Positioning]] | frameworks-and-mental-models | framework | draft |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Overwhelm Is a System Signal - Diagnose Before Burnout\|Overwhelm Is a System Signal - Diagnose Before Burnout]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary Aim and Strategic Objective - Make the Business Serve the Life\|Primary Aim and Strategic Objective - Make the Business Serve the Life]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Psychological Moonshots - Improve Perception Before Reality\|Psychological Moonshots - Improve Perception Before Reality]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Replace, Don't Fight, a Habit\|Replace, Don't Fight, a Habit]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the Game - Aligning Upside, Downside, and Accountability\|Skin in the Game - Aligning Upside, Downside, and Accountability]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open\|Start With Agreement - Keep the Other Mind Open]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for Makers - Constraints for Designing Good Things\|Taste for Makers - Constraints for Designing Good Things]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Technology as an Accelerator, Not a Strategy\|Technology as an Accelerator, Not a Strategy]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician\|The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats\|The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats]] | frameworks-and-mental-models | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension Trap - Why One Name Can't Own Two Things\|The Line-Extension Trap - Why One Name Can't Own Two Things]] | frameworks-and-mental-models | framework | reviewed |
+| [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The MOAT Framework - Choose Freemium, Free Trial, or Demo\|The MOAT Framework - Choose Freemium, Free Trial, or Demo]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passionate Visionary Scientist - A Three-Part Founder Mindset\|The Passionate Visionary Scientist - A Three-Part Founder Mindset]] | frameworks-and-mental-models | framework | draft |
+| [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide\|The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor Dilution Problem - Four Ways to Scale Past Yourself\|The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]] | frameworks-and-mental-models | framework | reviewed |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think 'Both' vs. Think 'Either-Or' - Abundance Over Scarcity\|Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity]] | frameworks-and-mental-models | framework | draft |
+| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace Influence Mapping - Authority, Value, and Recognition\|Workplace Influence Mapping - Authority, Value, and Recognition]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/創作心態：六大陷阱與執行路線圖\|創作心態：六大陷阱與執行路線圖]] | frameworks-and-mental-models | framework | reviewed |
 | [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/商業是連結與解決問題的方式：賺錢是驗證訊號而非目的\|商業是連結與解決問題的方式：賺錢是驗證訊號而非目的]] | frameworks-and-mental-models | framework | reviewed |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/完美主義是恐懼的偽裝：用行動與deadline打破癱瘓\|完美主義是恐懼的偽裝：用行動與deadline打破癱瘓]] | frameworks-and-mental-models | framework | reviewed |
@@ -510,25 +601,32 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 | [[02-Social-Media-Strategy/Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships\|Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships]] | social-media-strategy | strategy | draft |
 | [[02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產\|電子郵件名單：最被低估的自有高意圖資產]] | social-media-strategy | strategy | reviewed |
 | [[03-Tactics-and-Playbooks/Hiring-and-Team/Building a Content Team - Hiring Funnel, Contractors, and Onboarding\|Building a Content Team - Hiring Funnel, Contractors, and Onboarding]] | tactics-and-playbooks | playbook | reviewed |
+| [[03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous Conversations, Feedback, and Recognition\|CFRs - Continuous Conversations, Feedback, and Recognition]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context\|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creator Monetization Ladder and Content-Concept Formulas\|Creator Monetization Ladder and Content-Concept Formulas]] | tactics-and-playbooks | playbook | reviewed |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Declarative to Sell, Procedural to Deliver\|Declarative to Sell, Procedural to Deliver]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law\|Distribution Is Destiny - The Sales Channel Power Law]] | tactics-and-playbooks | playbook | reviewed |
 | [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Do Things That Don't Scale - Recruit, Delight, and Learn by Hand\|Do Things That Don't Scale - Recruit, Delight, and Learn by Hand]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Operations-and-Productivity/Don't Overlook Governance\|Don't Overlook Governance]] | tactics-and-playbooks | playbook | draft |
+| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Drum-Buffer-Rope - Release Work at the Constraint's Pace\|Drum-Buffer-Rope - Release Work at the Constraint's Pace]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack\|Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Audience-Growth/Instagram 0-to-100k - The Three-Level Follower Roadmap\|Instagram 0-to-100k - The Three-Level Follower Roadmap]] | tactics-and-playbooks | playbook | reviewed |
+| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as Managerial Production\|Meetings as Managerial Production]] | tactics-and-playbooks | playbook | draft |
+| [[03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability - Own Attention and Design Word of Mouth\|Permission and Remarkability - Own Attention and Design Word of Mouth]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Positioning Yourself - Find a Horse to Ride\|Positioning Yourself - Find a Horse to Ride]] | tactics-and-playbooks | playbook | reviewed |
 | [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Selling Upmarket - Contextual Adjacency and Land-and-Expand\|Selling Upmarket - Contextual Adjacency and Land-and-Expand]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design Jobs Around Exceptional Contribution\|Staff for Strength - Design Jobs Around Exceptional Contribution]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money Management System\|The 6 Jars Money Management System]] | tactics-and-playbooks | playbook | draft |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers\|The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Customer-Base Test Kitchen - Distributed R&D Before Rollout\|The Customer-Base Test Kitchen - Distributed R&D Before Rollout]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The Entrepreneur Apprenticeship\|The Entrepreneur Apprenticeship - Commercial Awareness and 90-Day Side-Hustle Tests]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop\|The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect Repeatable Week - Designing a Predictable Business Rhythm\|The Perfect Repeatable Week - Designing a Predictable Business Rhythm]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Audience-Growth/The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid\|The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid]] | tactics-and-playbooks | playbook | draft |
-| [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall Distribution Method - One Pillar, a Week of Content\|The Waterfall Distribution Method - One Pillar, a Week of Content]] | tactics-and-playbooks | playbook | reviewed |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand Conversion Path - Problem, Plan, and Calls to Action\|The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]] | tactics-and-playbooks | playbook | draft |
+| [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment\|The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Whisper-Tease-Shout Launch\|The Whisper-Tease-Shout Launch]] | tactics-and-playbooks | playbook | draft |
+| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth Sprints - Analyze, Ask, and Act\|Triple-A Growth Sprints - Analyze, Ask, and Act]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your Business - Train Like an Employee and the Department Playbook\|Using AI in Your Business - Train Like an Employee and the Department Playbook]] | tactics-and-playbooks | playbook | reviewed |
 | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a Discovery Tool - Useful, Simple, and Rewritten\|Writing as a Discovery Tool - Useful, Simple, and Rewritten]] | tactics-and-playbooks | playbook | draft |
 | [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time\|You Have a Job, Not a Business - The 50% Hire and Buying Back Time]] | tactics-and-playbooks | playbook | draft |
@@ -541,28 +639,28 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 
 | Page | Domain | Type | Updated |
 |---|---|---|---|
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn\|Activation Before Automation - Manual Onboarding to Fix Churn]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Advances, Not Continuations - Plan Every Sales Call\|Advances, Not Continuations - Plan Every Sales Call]] | tactics-and-playbooks | playbook | 2026-07-18 |
 | [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies - Recruiting Businesses to Sell for You\|Affiliate Armies - Recruiting Businesses to Sell for You]] | tactics-and-playbooks | playbook | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy\|Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Bend Their Reality - Loss, Fairness, Deadlines, and Anchors\|Bend Their Reality - Loss, Fairness, Deadlines, and Anchors]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Black Swans - Find Unknown Unknowns and Hidden Leverage\|Black Swans - Find Unknown Unknowns and Hidden Leverage]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bullseye - Test All Channels, Then Focus on One\|Bullseye - Test All Channels, Then Focus on One]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Buyer Needs and Benefits - From Implied Problems to Explicit Value\|Buyer Needs and Benefits - From Implied Problems to Explicit Value]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated Questions - How and What Create the Illusion of Control\|Calibrated Questions - How and What Create the Illusion of Control]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous Conversations, Feedback, and Recognition\|CFRs - Continuous Conversations, Feedback, and Recognition]] | tactics-and-playbooks | playbook | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Chain-Link Systems - Getting Stuck and Getting Unstuck\|Chain-Link Systems - Getting Stuck and Getting Unstuck]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Operations-and-Productivity/Checklist Design - Pause Points, Killer Items, and Field Testing\|Checklist Design - Pause Points, Killer Items, and Field Testing]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well - Narrow, Decide, Let Go, and Move On\|Choosing Well - Narrow, Decide, Let Go, and Move On]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition - Make the Customer Fund the Next Customer\|Client-Financed Acquisition - Make the Customer Fund the Next Customer]] | business-strategy | strategy | 2026-07-18 |
 | [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Cold Outreach - Personalize, Big Fast Value, Volume\|Cold Outreach - Personalize, Big Fast Value, Volume]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching - Insight That Leads to Unique Strengths\|Commercial Teaching - Insight That Leads to Unique Strengths]] | tactics-and-playbooks | playbook | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed and Aspirational OKRs - Separate Reliability from Stretch\|Committed and Aspirational OKRs - Separate Reliability from Stretch]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity\|Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]] | tactics-and-playbooks | playbook | 2026-07-18 |
 | [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Competitive Advantage - Why Owning One Isn't Enough\|Competitive Advantage - Why Owning One Isn't Enough]] | frameworks-and-mental-models | framework | 2026-07-18 |
-| [[07-Articles/Do It by Hand Until You Know What It Is\|Do It by Hand Until You Know What It Is]] | articles | article | 2026-07-18 |
-| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack\|Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack]] | tactics-and-playbooks | playbook | 2026-07-18 |
-| [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Focus - Winning a Segment by Coordinating Policy Around It\|Focus - Winning a Segment by Coordinating Policy Around It]] | frameworks-and-mental-models | framework | 2026-07-18 |
-| [[01-Business-Strategy/Growth-and-Scaling/Growth Is Not a Strategy - When Expansion Destroys Value\|Growth Is Not a Strategy - When Expansion Destroys Value]] | business-strategy | strategy | 2026-07-18 |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal Emotion - When We Care, We Share\|High-Arousal Emotion - When We Care, We Share]] | frameworks-and-mental-models | framework | 2026-07-18 |
-| [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Inertia and Entropy - Three Kinds of Organizational Stuckness\|Inertia and Entropy - Three Kinds of Organizational Stuckness]] | frameworks-and-mental-models | framework | 2026-07-18 |
-| [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Keeping Your Head - Social Herding, the Inside View, and Strategy as Hypothesis\|Keeping Your Head - Social Herding, the Inside View, and Strategy as Hypothesis]] | frameworks-and-mental-models | framework | 2026-07-18 |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100\|Practical Value - The Psychology of Deals and the Rule of 100]] | frameworks-and-mental-models | framework | 2026-07-18 |
-| [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Proximate Objectives - Setting the Next Achievable Target\|Proximate Objectives - Setting the Next Achievable Target]] | frameworks-and-mental-models | framework | 2026-07-18 |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue\|Public - Observability and Behavioral Residue]] | frameworks-and-mental-models | framework | 2026-07-18 |
-| [[01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the Overkill Bias - Why the Best Get to Teach\|Real-World Proof and the Overkill Bias - Why the Best Get to Teach]] | business-strategy | strategy | 2026-07-18 |
-| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals - Engineering Word of Mouth Through Goodwill\|Referrals - Engineering Word of Mouth Through Goodwill]] | tactics-and-playbooks | playbook | 2026-07-18 |
-| [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Riding Waves of Change - Five Guideposts for Industry Transitions\|Riding Waves of Change - Five Guideposts for Industry Transitions]] | frameworks-and-mental-models | framework | 2026-07-18 |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal - The Guarantee Toolkit\|Risk Reversal - The Guarantee Toolkit]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity Needs Standards and Distributed Judgment\|Complexity Needs Standards and Distributed Judgment]] | frameworks-and-mental-models | framework | 2026-07-18 |
 
-## Cornerstone pages (7)
+## Cornerstone pages (8)
 
 Cornerstones are reviewed or evergreen pages with at least 12 organic inbound links, plus manually designated series hubs.
 
@@ -571,8 +669,9 @@ Cornerstones are reviewed or evergreen pages with at least 12 organic inbound li
 | [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview\|$100M 擴張路線圖 · 總覽與方法論]] | 29 | series-hub | evergreen |
 | [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽\|連鎖經營學 · 總覽與方法論]] | 20 | series-hub | evergreen |
 | [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why\|Creator Vision Framework: What x Who x Why]] | 15 | strategy | reviewed |
+| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply\|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]] | 15 | framework | reviewed |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded\|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]] | 12 | framework | draft |
-| [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply\|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]] | 12 | framework | reviewed |
+| [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale\|Capture, Don't Create: Engineering Proof at Scale]] | 12 | playbook | reviewed |
 | [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action\|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]] | 12 | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth\|The STEPPS Framework - Six Drivers of Word of Mouth]] | 12 | framework | reviewed |
 

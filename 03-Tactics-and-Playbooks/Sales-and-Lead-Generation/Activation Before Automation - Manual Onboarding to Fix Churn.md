@@ -3,7 +3,7 @@ title: "Activation Before Automation - Manual Onboarding to Fix Churn"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/onboarding, topic/retention, topic/churn, topic/business-model, topic/do-things-that-dont-scale, person/alex-hormozi]
+tags: [topic/onboarding, topic/retention, topic/churn, topic/business-model, topic/do-things-that-dont-scale, person/alex-hormozi, person/wes-bush, source/product-led-growth]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
@@ -11,9 +11,9 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
+updated: "2026-07-18"
+reviewed_on: ""
+status: "draft"
 ---
 
 # Activation Before Automation - Manual Onboarding to Fix Churn
@@ -47,11 +47,15 @@ Retention usually depends on a small number of activation events. But dashboards
 7. Redirect messaging and acquisition toward the avatars with the best retention.
 8. Adjust billing cadence when the customer need is episodic rather than monthly.
 9. Only automate after the manual flow reliably gets the right customers to activation.
+10. For a rapid trial pilot, replace the demo request with a trial request, book a guided first session, qualify the user, ask for the outcome they expect, and watch them share their screen while trying to achieve it.
+11. Record every requested outcome, hesitation, wrong turn, and manual intervention. Remove steps that do not advance the outcome; automate only the recurring help that reliably produces success.
 
 ## Example from the AMA
 A real-estate AI SaaS was adding roughly 150 subscribers per week while losing about 100. The founder had product tours and an onboarding checklist, but no human onboarding. Hormozi told him to run live onboarding twice a day, automatically invite signups, and watch them create their first video and use photo-editing features. The goal was not just support; it was data. The company needed to know which avatars, channels, and actions predicted retention, then route that learning back into targeting and onboarding.
 
 He also noted that if many real-estate agents only sell a few houses per year, monthly billing may create structural churn. Quarterly or annual billing can match the actual use cycle better than forcing monthly payment for an episodic need.
+
+Bush proposes a 24-hour version for a sales-led company testing a free trial: change the call to action, schedule a meeting instead of silently provisioning an account, ask what the user came to accomplish, and observe the attempt without rescuing every struggle. The apparently unscalable session is deliberate product research; repeated outcomes and failure points reveal the future self-service path.
 
 ## Caveats / Exceptions
 - Manual onboarding is a temporary diagnostic and learning tool, not the permanent end state for every product.
@@ -64,6 +68,10 @@ He also noted that if many real-estate agents only sell a few houses per year, m
 - **applies:** [[The Framework for Making Frameworks - Distill by Commonality]]
 - **related:** [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
 - **applies:** [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
+- **related:** [[The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers]]
+- **related:** [[UCD - Understand, Communicate, and Deliver Customer Value]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
+
+Wes Bush, *Product-Led Growth: How to Build a Product That Sells Itself* (2019). Raw transcript in [[2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript]].

@@ -3,7 +3,7 @@ title: "The Change Cost Filter - Stay, Scale, or Burn It Down"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/decision-making, topic/opportunity-cost, topic/focus, person/alex-hormozi]
+tags: [topic/decision-making, topic/opportunity-cost, topic/focus, topic/career, person/alex-hormozi, person/bill-burnett, person/dave-evans, source/designing-your-new-work-life]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
@@ -11,9 +11,9 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
+updated: "2026-07-18"
+reviewed_on: ""
+status: "draft"
 ---
 
 # The Change Cost Filter - Stay, Scale, or Burn It Down
@@ -39,6 +39,8 @@ New ideas start in uninformed optimism. Existing businesses expose their real fr
 
 The mechanism is quantifiable. In Hormozi's experience, any change he makes to a working process — a new sales script, onboarding flow, leadership structure — produces roughly a **guaranteed 20% short-term decrement** while people relearn, even when the change is genuinely superior. So a tweak he *hopes* will add 5% actually trades a certain 20% loss (recovered over four or five months) for a maybe-5% gain — and, on the alternate timeline, people left alone tend to get better at their jobs and deliver that 5% anyway. Founders systematically ignore the guaranteed downside and overestimate the upside.
 
+Role clarity and time are additional parts of the change cost. A work redesign is more credible when it names which responsibilities move, who will own them, what friction the handoff removes, and how the new arrangement improves an outcome the organization already values. A limited prototype makes these costs visible before a permanent change is imposed.
+
 ## The 20% change-cost razor
 Because change carries this hidden tax, Hormozi requires a **risk-adjusted 20% improvement before making any change at all** — in practice, a change he believes has a ~50% chance of producing a ~40% improvement. Everything below that bar goes on a list rather than into the business. This single razor, he says, has been one of the most useful of his career and has improved his businesses dramatically — mostly by getting him to leave working processes alone.
 
@@ -52,6 +54,7 @@ Because change carries this hidden tax, Hormozi requires a **risk-adjusted 20% i
 7. When a superior opportunity is clearly orders of magnitude better, sell, shut down, or delegate the old asset quickly enough to reclaim attention.
 8. When you do wind something down, do it gracefully: stop taking new customers, give existing ones ample notice (e.g. six months) at maintained service levels, and hand them to two or three trusted providers in exchange for referral kickbacks — turning a shutdown into a passive referral annuity.
 9. Accept that "some shit stays fucked": at any time there are a hundred things you could improve, but fixing one tends to break four others, so leave defects alone until the cost of fixing them is lower than the cost of living with them.
+10. For a role redesign, specify the work to stop, delegate, or transfer; the new owner; the expected organizational benefit; and a trial period with an explicit review date.
 
 ## Example from the AMA
 One founder had a roofing business that could run on two to three hours a week, plus real estate and other side ventures. Hormozi reframed the trade-off: the cost of a bigger roofing company is the exciting things he must stop pursuing. Passive assets are fine only if they stay passive; once they consume time, they must compete with the active business.
@@ -75,6 +78,10 @@ To a serial-visionary founder juggling five businesses, Hormozi laid out the 20%
 - **related:** [[Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
 - **related:** [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
 - **related:** [[Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
+- **related:** [[Don't Resign, Redesign - Four Ways to Change Work in Place]]
+- **related:** [[Overwhelm Is a System Signal - Diagnose Before Burnout]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
+
+Additional source: Bill Burnett and Dave Evans, *Designing Your New Work Life* (2021; originally published as *Designing Your Work Life*, 2020), [[2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript]].

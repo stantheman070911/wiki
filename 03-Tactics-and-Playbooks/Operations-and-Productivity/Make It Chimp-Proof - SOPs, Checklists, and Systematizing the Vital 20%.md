@@ -3,7 +3,7 @@ title: "Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/operations, topic/systems, person/sabri-suby, person/michael-gerber, source/e-myth-revisited]
+tags: [topic/operations, topic/systems, person/sabri-suby, person/michael-gerber, person/atul-gawande, source/e-myth-revisited, source/checklist-manifesto]
 source:
   type: "video"
   name: "11 Brutal Truths To Grow Your Business Fast"
@@ -11,7 +11,7 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
 ---
@@ -33,6 +33,8 @@ A business that depends on hiring the *best* staff isn't systematized; it's frag
 - **Design for the lowest skill level that can legitimately produce the result.** This does not mean lowering the output standard; it means transferring expertise from an irreplaceable person into tools, sequencing, training, and feedback.
 - **An Operations Manual connects purpose, process, and proof.** It should state why the work exists, the steps required, and the standards for both the method and its output—not merely preserve a long list of instructions.
 - **The system is discovered through a prototype.** Perform and test the work in a live operation, measure what produces the promise, and document the winning method; an SOP invented away from operating evidence only formalizes assumptions.
+- **A checklist is not the whole SOP.** It is the short recall-and-verification layer for critical, easily missed items; training and professional judgment still carry the larger method.
+- **Complex work needs communication checks as well as task checks.** When outcomes cannot be prescribed in advance, require the relevant specialists to compare plans, risks, and concerns at defined pause points.
 
 ## Framework / model (if applicable)
 **Chimp-proofing sequence:**
@@ -43,12 +45,15 @@ A business that depends on hiring the *best* staff isn't systematized; it's frag
 5. **Systematize and hire** — hand the documented system to hired operators and scale.
 6. **Measure and improve** — monitor whether the system keeps producing the intended result, and revise the method when evidence reveals a better one.
 
+For a checklist within that system, define a pause point, choose DO-CONFIRM or READ-DO, keep only consequential omissions, assign a caller with stop authority, and field-test the list under realistic pressure.
+
 ## Tactics / how to apply
 - Write a checklist for each role that, if fully completed, would make results twice as good as competitors' — then delete everything non-essential from it.
 - For each process, name the 2–3 steps that actually move the money needle and add hard gates so they can't be bypassed.
 - Personally do a role long enough to reach mastery before you document and delegate it.
 - Judge SOP quality by whether an average new hire can follow it to a great result — if it needs a star, it isn't chimp-proof yet.
 - For every operations manual, include the purpose of the role, its observable result, critical checkpoints, escalation rules, and the current best-known method.
+- Time each operational checklist in context, cut non-critical items, and give every version a date so the tool is expected to evolve.
 
 ## Notable examples
 - McDonald's: systematized well enough that a 16-year-old can manage a branch without elite staff.
@@ -62,8 +67,12 @@ A business that depends on hiring the *best* staff isn't systematized; it's frag
 - **related:** [[You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
 - **applies:** [[The Franchise Prototype - Build the Business as the Product]]
 - **applies:** [[Innovation, Quantification, and Orchestration - The Business Development Loop]]
+- **related:** [[Checklist Design - Pause Points, Killer Items, and Field Testing]]
+- **related:** [[Team Checklists - Communication Before Coordination]]
 
 ## Source reference
 Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #9). Raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].
 
 Additional source: Michael E. Gerber, *The E-Myth Revisited*, chapters 8–10 and 18, [[2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript]].
+
+Additional source: Atul Gawande, *The Checklist Manifesto: How to Get Things Right* (2009), [[2026-07-18_Book_AtulGawande_TheChecklistManifesto_RawTranscript]].

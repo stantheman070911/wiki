@@ -3,7 +3,7 @@ title: "Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom E
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/compensation, topic/incentives, topic/equity, topic/leadership, person/alex-hormozi]
+tags: [topic/compensation, topic/incentives, topic/equity, topic/leadership, topic/feedback, person/alex-hormozi, person/andrew-grove, source/high-output-management]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
@@ -11,9 +11,9 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
+updated: "2026-07-18"
+reviewed_on: ""
+status: "draft"
 ---
 
 # Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity
@@ -37,6 +37,8 @@ Use this when structuring pay for operators, GMs, and leaders as you decentraliz
 ## Why It Happens
 Percentage-first thinking has no reference point, so it feels arbitrary and often misprices the role. Anchoring on OTE gives real lines in the sand: if this caliber of person should make ~$150k, you can derive the percentage from the unit's profit. Most people say "equity" but recoil at the risk and don't want the control — what they want is cash flow and a share of an exit — which phantom equity delivers cleanly. And decentralized multi-unit growth reliably needs an on-the-ground operator with real profit-linked stake, or the founder stays the operating system.
 
+Compensation also acts as task-relevant feedback. Once base needs are met, relative pay and performance upside communicate how the organization evaluates contribution. A sound design therefore connects individual judgment, team output, and company health without pretending any single metric fully measures a leader.
+
 ## Recommended Action
 1. Reverse-engineer OTE: set what a bad performer (gets fired), an on-target performer, and a star should earn, then convert to a percentage of the unit's profit.
 2. Give leaders a profit-pool stake (~10–20% of profit distributed among leaders) so growing the pie — and cutting others in — feels like ownership.
@@ -45,6 +47,7 @@ Percentage-first thinking has no reference point, so it feels arbitrary and ofte
 5. Use phantom equity / profits interest that vests over time (e.g. 1%/year toward 4%), returns to the pool if they leave, and pays out on a sale if they've been there long enough (with optional acceleration).
 6. For multi-unit private expansion, put a boots-on-ground operator with profit share in each location so you can truly decentralize.
 7. For the equity-vs-cash-hire decision, run the math: compare the cost of the equity needed to close the hire (delta between full-cash comp and cash-plus-equity) against the cost of equity sold to an investor to fund the cash.
+8. Split variable compensation across the levels the person can influence: an individual assessment, the immediate team's objective performance, and overall company performance. Increase the variable share only as seniority and financial resilience make the feedback meaningful rather than destabilizing.
 
 ## Example from the AMA
 An auto-hail-repair owner asked how to design leadership comp without eroding control or margins. Hormozi walked through it: title for the real role (VP/director, not "C-suite" at $5M), give a profit pool (~10–20%) so leaders think like owners, and lay out the four things equity gives — cash flow, exit, risk, control — noting most want cash flow and exit, not risk or control, so use phantom/profits interest that vests, returns on departure, and pays on a sale. He stressed reverse-engineering: "I just want to reverse-engineer how much money this person should make — if they're bad they'll get fired, mediocre they make on-target, and if they crush it I want them to make this much." He offered two structures (percentage-of-growth over a high-water mark for fast non-geo businesses; profit-share for geo-constrained ones) and insisted multi-unit expansion needs a per-store operator with profit share. Separately, a founder deciding equity vs cash hires got the clean equation: compare the cost of employee equity to the cost of selling equity to an investor to cover cash comp.
@@ -61,8 +64,11 @@ An auto-hail-repair owner asked how to design leadership comp without eroding co
 - **applies:** [[選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
 - **related:** [[Special-Forces Teams and Flat Organizations]]
 - **applies:** [[The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
+- **related:** [[Performance Appraisal as a Management System]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
 
 Corroborated in Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+
+Additional source: Andrew S. Grove, *High Output Management* (1983; revised 1995), chapter 15, [[2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript]].

@@ -3,7 +3,7 @@ title: "The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/funnel, topic/qualification, topic/retention, topic/systems, person/daniel-priestley, source/daniel-priestley-youtube]
+tags: [topic/sales, topic/funnel, topic/qualification, topic/retention, topic/systems, person/daniel-priestley, person/keenan, person/neil-rackham, source/daniel-priestley-youtube, source/gap-selling, source/the-spin-selling-fieldbook]
 source:
   type: "video"
   name: "Complete Sales Process - LAPS"
@@ -11,7 +11,7 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-13"
-updated: "2026-07-13"
+updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
 ---
@@ -31,6 +31,11 @@ Revenue becomes difficult to diagnose when marketing, appointment setting, selli
 - **Authority comes before the offer.** Strong presentations move from insight to method to solution; weak presentations jump directly to product features.
 - **Objections should be collected before they are answered.** Treat them like a ball collector, not a tennis rally: record every concern, confirm the list is complete, then respond to the whole decision.
 - **Follow-up is part of selling.** The first 48 hours are especially valuable; after repeated direct follow-ups, move prospects into nurture and later reactivation rather than abandoning them.
+- **Each handoff requires a next yes.** Appointment, presentation, stakeholder access, and purchase are not passive stages; each is an explicit buyer commitment earned with enough value to justify the next action.
+- **Qualification should be problem-centric.** Budget, authority, need, and timing are less predictive than whether a problem exists, the buyer agrees it matters, wants to solve it, and will collaborate on the journey.
+- **Activity without buyer effort is not progress.** A deal advances only when both seller and buyer contribute information, access, decisions, or work.
+- **Investigation develops the presentation's value.** Use Situation questions sparingly, uncover several Problems, develop their Implications, and ask Need-payoff questions that let the buyer articulate what a solution would be worth.
+- **Benefits require expressed needs.** A capability becomes a true Benefit only when it directly meets an Explicit Need the buyer has stated; generic advantages do not carry the same weight in a complex sale.
 
 ## Framework / model (if applicable)
 **Weekly LAPS:** track `Leads → Appointments → Presentations → Sales` as counts and conversion rates.
@@ -38,6 +43,10 @@ Revenue becomes difficult to diagnose when marketing, appointment setting, selli
 **Ten-part presentation:** framing → rapport → permission → present situation → prize → problems → insight → method → visualized solution → discussion and completion.
 
 **Follow-up ladder:** immediate next step → roughly seven relevant follow-ups → ongoing nurture → “Have you given up on X?” reactivation → renewed signal of interest.
+
+**Next-yes overlay:** for every LAPS transition, define the exact buyer commitment, its value to the buyer, the owner, the date, and the evidence that it occurred.
+
+**Four-stage call:** opening → investigating → demonstrating capability → obtaining commitment. In a complex sale, the call succeeds through an **Advance**—a buyer-backed action that changes the decision state—not a pleasant **Continuation** with no forward action.
 
 ## Tactics / how to apply
 - Publish short-form material that leads into several hours of trust-building long-form content, then request a signal on an owned landing page.
@@ -47,6 +56,10 @@ Revenue becomes difficult to diagnose when marketing, appointment setting, selli
 - Schedule the next follow-up while still in the meeting; never leave “later” undefined.
 - Record and transcribe presentations, then compare won and lost calls for recurring patterns.
 - Optimize for a stable or gently rising weekly rhythm before trying to create spikes.
+- Track the buying process and decision criteria alongside the LAPS counts so a presentation or proposal is not mistaken for meaningful advancement.
+- End every interaction with a dated next yes; when a prospect stalls, return to the verified problem, desired outcome, and cost of delay instead of merely checking in.
+- Before a presentation call, select a primary Advance and a fallback, then plan the questions needed to develop Explicit Needs before showing capability.
+- Periodically record calls with permission and review the question pattern, buyer talk, premature solutions, and actual Advance rather than relying on memory.
 
 ## Notable examples
 Priestley illustrates a weekly dashboard such as 50 leads, 10 appointments, six presentations, and two sales. The point is not the particular ratio; it is knowing which transition must improve and being able to staff against predictable demand.
@@ -56,6 +69,14 @@ Priestley illustrates a weekly dashboard such as 50 leads, 10 appointments, six 
 - **related:** [[Sales Systems as Intellectual Property - Process Above the Player]]
 - **related:** [[Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
 - **related:** [[Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
+- **related:** [[The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
+- **related:** [[Problem-Centric Discovery - Four Question Types and the CRM Challenge]]
+- **related:** [[SPIN Discovery - Situation, Problem, Implication, and Need-Payoff]]
+- **related:** [[Advances, Not Continuations - Plan Every Sales Call]]
 
 ## Source reference
 Daniel Priestley, *Complete Sales Process - LAPS*. Raw transcript in [[2026-07-13_Video_DanielPriestley_CompleteSalesProcessLAPS_RawTranscript]].
+
+Additional source: Keenan, *Gap Selling* (2018), chapters 8, 12, and 18. [[2026-07-18_Book_Keenan_GapSelling_RawTranscript]].
+
+Additional source: Neil Rackham, *The SPIN Selling Fieldbook* (1996), chapters 4–13. [[2026-07-18_Book_NeilRackham_TheSPINSellingFieldbook_RawTranscript]].

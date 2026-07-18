@@ -29,7 +29,7 @@ Belongs here: reusable decision tools and cross-domain thinking models. Does not
 - **Key frameworks:** the curated Start Here lists inside each subdomain map.
 - **Related playbook:** [[Focus as Elimination - The Deep-Work Playbook]]
 - **Major series:** none currently; clusters are topical maps, not ordered series.
-- **Complete static inventory:** [[Portable Index#Frameworks and Mental Models (151)|Portable Index — Frameworks and Mental Models]]
+- **Complete static inventory:** [[Portable Index|Portable Index — Frameworks and Mental Models]]
 
 ## Index
 

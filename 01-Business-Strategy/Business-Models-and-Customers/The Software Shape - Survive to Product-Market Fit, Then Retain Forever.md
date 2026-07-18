@@ -3,7 +3,7 @@ title: "The Software Shape - Survive to Product-Market Fit, Then Retain Forever"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/product, topic/retention, topic/churn, topic/scaling, topic/capital, person/alex-hormozi]
+tags: [topic/product, topic/retention, topic/churn, topic/scaling, topic/capital, person/alex-hormozi, person/wes-bush, source/product-led-growth]
 source:
   type: "video"
   name: "How to Grow Any Business Fast (The Four Business Shapes)"
@@ -35,6 +35,7 @@ Use this for SaaS and software founders (and for operators from other shapes tem
 - **Retention is the valuation driver, and revenue retention beats logo retention.** Valuation keys off gross margin, growth rate, and — at scale — revenue retention. Logo retention counts customers; revenue retention counts dollars: 10 customers at \$10/mo = \$100; if a year later those original customers still pay \$100+ (some churned, but others expanded), you have ≥100% net revenue retention. Enterprise tends to stick harder (higher switching costs); consumer churns more but there are far more of them. Consumer target: keep >60% by year-end on logos, ideally >100% on revenue.
 - **Growth is retained users stacked, not a smooth ramp.** Facebook's head of growth: people think growth is a rising line; it's actually users who start, activate, and never churn — you keep filling the front while the retained base compounds. That stacking is how software companies become enormously valuable.
 - **Sell to few, own the product, exit cleanly.** Because the customer gets the identical experience regardless of owner, there's almost no key-person risk at point of sale — one reason software commands high valuations.
+- **The product can become the go-to-market vehicle.** Once users can reach value without hand-holding, the product can acquire, activate, qualify, retain, and expand customers. This widens the funnel and lowers sales dependence, but only when the experience consistently delivers the promised outcome.
 
 ## Framework / model
 How to win in software:
@@ -42,6 +43,7 @@ How to win in software:
 2. **Build a viral/referral loop.** At low price points, paid ads alone can't be the primary acquisition engine. You need a loop where one customer brings ~1.1+ more, dividing effective CAC over time. Facebook and ChatGPT (a million users in a week) scaled on virality and word of mouth.
 3. **Hire for quality over quantity on talent.** 10x and 100x engineers exist and cost 10–100x; be willing to pay. The hard part is having the perspective to judge them — hence the value of being technical yourself or having a strong technical co-founder — and building scalable code with good documentation from day one so it can rip after PMF.
 4. **Design by removing friction.** You don't make something "good" directly — you find an outcome everyone already wants and remove all friction between the user and that outcome. Remove everything that sucks about getting what someone wants and, by default, you have something good.
+5. **Match distribution to product maturity.** New categories or complex implementations may need sales-assisted education first; mature categories with fast time-to-value can shift toward free trials, freemium, and bottom-up adoption.
 
 ## Tactics / how to apply
 1. Budget and raise for a multi-year unprofitable runway; protect equity so you still own enough when it works.
@@ -50,11 +52,13 @@ How to win in software:
 4. Gate every new feature against the user-experience cost it adds; protect elegance over completeness.
 5. Engineer at least one viral loop plus return/referral/upgrade loops into the core experience, stripping friction from each.
 6. Overpay for a few exceptional engineers rather than staffing up with average ones; build for scale and documentation from day one.
+7. Treat the first valuable product outcome as part of distribution: instrument the path, remove unnecessary steps, and let product behavior qualify where human sales help is economically justified.
 
 ## Notable examples
 - **Dropbox's founder** paid Craigslist users to try the product in front of him; the first five all failed to upload a file — the raw, repeated loop-fixing work that precedes PMF.
 - **The iPhone / Steve Jobs** as the archetype of friction removal: take everything people want from a phone and make it so easy a child or non-English-speaker can use it immediately.
 - **ChatGPT** hit a million users in a week on virality and word of mouth; **Netflix** must entertain the world with world-class shows just to hold a ~\$10–13/mo subscription, illustrating low per-user willingness-to-pay at consumer scale.
+- **Slack and Dropbox** let users experience value before purchase, turning the product into both the proof and the delivery mechanism rather than making every buyer pass through a sales conversation.
 - **Replit** (~\$150M ARR) shows vibe-coding is rising, but its own CEO could cite only a couple of fully vibe-coded businesses at scale — as of now, human-built software still wins on robustness for products that must support millions of users.
 
 ## Relationships
@@ -63,6 +67,10 @@ How to win in software:
 - **related:** [[ICP Qualification Through Segmented Churn]]
 - **related:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
 - **related:** [[Startup Equals Growth - Weekly Compounding and Market Size]]
+- **related:** [[The MOAT Framework - Choose Freemium, Free Trial, or Demo]]
+- **related:** [[UCD - Understand, Communicate, and Deliver Customer Value]]
 
 ## Source reference
 Alex Hormozi, *How to Grow Any Business Fast (The Four Business Shapes)*. Raw transcript archived in [[2026-07-18_Video_AlexHormozi_HowToGrowAnyBusinessFast_RawTranscript]].
+
+Wes Bush, *Product-Led Growth: How to Build a Product That Sells Itself* (2019). Raw transcript in [[2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript]].

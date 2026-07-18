@@ -3,7 +3,7 @@ title: "The Passion Myth - Proficiency, Pain Tolerance, and Frustration Toleranc
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/consistency, topic/career, topic/skills, person/alex-hormozi, person/paul-graham, person/steve-jobs, source/paul-graham-essays]
+tags: [topic/mindset, topic/consistency, topic/career, topic/skills, person/alex-hormozi, person/paul-graham, person/steve-jobs, person/bill-burnett, person/dave-evans, source/paul-graham-essays, source/designing-your-life]
 source:
   type: "video"
   name: "If You're Ambitious but Inconsistent, Please Watch This (playlist: How to Make Your First $100,000)"
@@ -11,9 +11,9 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
-updated: "2026-07-13"
-reviewed_on: "2026-07-08"
-status: "reviewed"
+updated: "2026-07-18"
+reviewed_on: ""
+status: "draft"
 ---
 
 # The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance
@@ -35,6 +35,8 @@ Hormozi addresses a young man who quit sales to "find his passion." Having gone 
 - **Love often applies to the core activity, not the job wrapper.** Every field contains administration, rejection, and drudgery. The practical question is whether the central work generates enough pull to justify its surrounding costs.
 - **Loss reveals whether the attachment is to status or to the work.** After a title, company, or public identity disappears, returning voluntarily to the underlying craft is stronger evidence of fit than enthusiasm while success is rewarding it.
 - **Use projects to discover fit before making identity claims.** Graham's career advice converges with the anti-passion argument: try real work, notice what sustains curiosity, and allow the answer to evolve rather than waiting for an inner revelation.
+- **Passion often follows curiosity, practice, and mastery.** Life design treats passion as an outcome of repeated engagement rather than a prerequisite for choosing a direction. Most people discover durable interests by trying things and noticing energy, not by locating a hidden singular calling.
+- **There are many workable lives, not one true calling.** Waiting for the uniquely correct path turns uncertainty into paralysis; parallel possibilities and small prototypes produce better evidence than introspection alone.
 
 ## Framework / model (if applicable)
 ### "All failure besides death is psychological"
@@ -57,6 +59,7 @@ Don't trust rose-tinted "I loved the struggle" recollections; at the time it was
 - Run short, real projects in candidate fields and record which parts create energy, which merely confer status, and which costs remain tolerable after novelty fades.
 - Use a setback as a diagnostic: once the recognition and accumulated identity are stripped away, ask whether you still want to practice the core activity as a beginner.
 - Train frustration tolerance with deliberately increasing unrewarded reps: do 10 outreaches, then 20, 30, 50, and 100 even when the prior batch produced nothing. The target is the ability to continue an aversive action without immediate reinforcement, not enthusiasm for a task you already enjoy.
+- Track engagement and energy during real activities, then run low-cost prototypes around the strongest patterns before treating an interest as a career identity.
 
 ## Notable examples
 - The cookie entrepreneur "passionate about being excellent," not cookies.
@@ -70,6 +73,9 @@ Don't trust rose-tinted "I loved the struggle" recollections; at the time it was
 - **related:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
 - **related:** [[Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]]
 - **related:** [[The Reference Group and Re-engineering Your Circle]]
+- **related:** [[Wayfinding with Energy and Engagement]]
+- **related:** [[Three Odyssey Plans - Parallel Futures Before Commitment]]
+- **related:** [[Prototype Before You Pivot - Life Design Interviews and Experiences]]
 
 ## Source reference
 Alex Hormozi, *If You're Ambitious but Inconsistent, Please Watch This* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].
@@ -79,3 +85,5 @@ Paul Graham, “How to Do What You Love,” “When To Do What You Love,” and 
 Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
 
 Additional source: Steve Jobs, *Stanford Commencement Address* (2005), [[2026-07-13_Presentation_SteveJobs_StanfordCommencementAddress_RawTranscript]].
+
+Additional source: Bill Burnett and Dave Evans, *Designing Your Life: How to Build a Well-Lived, Joyful Life* (2016), [[2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript]].

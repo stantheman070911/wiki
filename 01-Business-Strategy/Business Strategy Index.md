@@ -30,7 +30,7 @@ Belongs here: markets, business models, positioning, pricing, growth, org strate
 - **Key framework:** [[The Value Equation and the Grand Slam Offer]]
 - **Related playbook:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
 - **Major series:** [[$100M Scaling Roadmap Overview|$100M Scaling Roadmap]] · [[連鎖經營學總覽|連鎖經營學]]
-- **Complete static inventory:** [[Portable Index#Business Strategy (116)|Portable Index — Business Strategy]]
+- **Complete static inventory:** [[Portable Index|Portable Index — Business Strategy]]
 
 ## Index
 

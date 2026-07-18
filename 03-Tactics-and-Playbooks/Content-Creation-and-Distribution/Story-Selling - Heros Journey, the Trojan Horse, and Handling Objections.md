@@ -5,7 +5,7 @@ aliases:
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/storytelling, topic/copywriting, topic/advertising, topic/persuasion, topic/narrative, person/sam-parr]
+tags: [topic/storytelling, topic/copywriting, topic/advertising, topic/persuasion, topic/narrative, person/sam-parr, person/donald-miller, source/building-a-storybrand]
 source:
   type: "podcast"
   name: "The $2 Billion Copywriting Secret Behind The Most Successful Ad Ever (Sweat Equity)"
@@ -13,7 +13,7 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-10"
-updated: "2026-07-10"
+updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
 ---
@@ -28,12 +28,13 @@ For writing ads, VSLs, and short-form scripts that hold attention and convert �
 
 ## Key insights
 - **Everything should be a story; "too long" is really "too boring."** A story needs a beginning, middle, and end with tension. Brands avoid stories fearing length — but a good story is exactly what earns the length.
-- **Customer = hero, brand = guide.** Position the brand as the guide who helps the customer-hero overcome; don't make the brand the hero. The hero's journey (including a return to the origin) structures the narrative.
+- **Customer = hero, brand = guide.** Position the brand as the guide who helps the customer-hero overcome; don't make the brand the hero. A credible guide pairs empathy (“I understand the problem”) with competence (“I can help solve it”), while the hero owns the transformation.
 - **The Trojan horse: bury the product deep in the story.** Build desire for a long time before revealing the product; get the reader saying "yes" as early as possible. Weak ads throw the product at you immediately, having built no desire or belief.
 - **Absolve the reader of guilt with a "failed solution."** "You tried to fix this, and it didn't work — that's not your fault, you just didn't have the right [mechanism/ingredient/peers]." It reframes past failure and opens receptivity.
 - **Make pain concrete and visual.** Abstract facts don't move people; a vivid image does — "imagine storing your food in a toilet bowl," a brick of fat for 150g, the deconstructed Coke bottle showing 40% sugar. Frame the everyday behavior as the shocking thing.
 - **Handle objections by saying them first.** Like the 8 Mile freestyle that pre-empts every insult, voice the reader's objection ("who is this person, why trust them?"), or answer it via FAQs and *personal anecdote* rather than claims — "I wore them in the shower" beats "waterproof."
 - **Niches make riches.** Hyper-targeted headlines ("50 reasons you're from Denver," a candle scented like each state) win high engagement because the right person feels spoken to directly — and often buys for someone else too.
+- **Match reveal timing to the asset.** A long-form ad can delay the product reveal to build desire, while a website header or one-liner must identify the offer quickly. The invariant is not lateness; it is that every detail advances the customer’s problem, path, stakes, or transformation.
 
 ## Framework / model (if applicable)
 **Story-selling structure:**
@@ -65,6 +66,8 @@ The product is revealed *late* (Trojan horse), after desire and belief are built
 - **applies:** [[Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
 - **related:** [[Capture Dont Create - Engineering Proof at Scale]]
 - **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
+- **related:** [[The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide]]
+- **related:** [[The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
 
 ## Source reference
-Sam Parr, *The $2 Billion Copywriting Secret Behind The Most Successful Ad Ever* (Sweat Equity podcast). Raw transcript archived at [[2026-07-10_Podcast_SamParr_The2BillionCopywritingSecret]].
+Sam Parr, *The $2 Billion Copywriting Secret Behind The Most Successful Ad Ever* (Sweat Equity podcast). Raw transcript archived at [[2026-07-10_Podcast_SamParr_The2BillionCopywritingSecret]]. Additional customer-as-hero and guide-role framework from Donald Miller, *Building a StoryBrand 2.0* (2025), archived at [[2026-07-18_Book_DonaldMiller_BuildingAStoryBrand20_RawTranscript]].

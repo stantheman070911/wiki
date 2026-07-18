@@ -5,7 +5,7 @@ aliases:
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/theory-of-constraints, topic/decision-making, topic/supply-and-demand, topic/prioritization, person/alex-hormozi]
+tags: [topic/theory-of-constraints, topic/decision-making, topic/supply-and-demand, topic/prioritization, person/alex-hormozi, person/eliyahu-m-goldratt, person/jeff-cox, source/the-goal]
 source:
   type: "video"
   name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
@@ -13,7 +13,7 @@ source:
   url: ""
   date_of_source: ""
 date_added: "2026-07-08"
-updated: "2026-07-08"
+updated: "2026-07-18"
 reviewed_on: "2026-07-08"
 status: "reviewed"
 ---
@@ -24,7 +24,9 @@ status: "reviewed"
 At any moment a business is constrained by either demand or supply — solve the binding one and ignore the other — while sequencing today's constraint against any existential future constraint (the ticking time bomb), and staffing only the function that the constraint actually requires.
 
 ## Principle
-A business has one binding constraint at a time, and it's almost always demand or supply. You diagnose which, pour effort there, and deliberately ignore the other side until it becomes the constraint — then you alternate. Three functions must exist regardless of headcount (promote, deliver, operate), and you hire against whichever the current constraint demands. Present constraints get priority, but a genuinely existential future constraint must be sequenced, not ignored.
+A business has one binding constraint at a time, and it's often experienced as demand or supply. You diagnose which, pour effort there, and deliberately ignore the other side until it becomes the constraint — then you alternate. Three functions must exist regardless of headcount (promote, deliver, operate), and you hire against whichever the current constraint demands. Present constraints get priority, but a genuinely existential future constraint must be sequenced, not ignored.
+
+The Theory of Constraints adds an important precision: demand and supply are useful founder-level categories, but the operative constraint can be a specific resource, scheduling rule, measurement system, policy, capability, or market limit. When supply is binding, balance *flow* with market demand rather than balancing every resource's capacity; when market demand becomes binding, stop manufacturing for local efficiency and shift the improvement cycle outward to the offer and market.
 
 ## Scenario
 Use this whenever a founder feels pulled in many directions and can't decide what to work on, when they're tempted to fix everything at once, or when a known future problem (a lease, a supply source, a regulatory shift) looms while today's growth lever is elsewhere.
@@ -66,8 +68,13 @@ In AMA 3, a virtual-assistant business appeared to have many constraints, but th
 - **related:** [[Focus as Elimination - The Deep-Work Playbook]]
 - **related:** [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
 - **related:** [[The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]]
+- **related:** [[Theory of Constraints - The Five Focusing Steps]]
+- **related:** [[Drum-Buffer-Rope - Release Work at the Constraint's Pace]]
+- **related:** [[Throughput Accounting - Manage the System, Not Local Costs]]
 
 ## Source reference
 Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
 
 Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+
+Additional source: Eliyahu M. Goldratt and Jeff Cox, *The Goal: A Process of Ongoing Improvement* (1984), [[2026-07-18_Book_EliyahuMGoldrattJeffCox_TheGoal_RawTranscript]].
