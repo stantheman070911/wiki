@@ -12,8 +12,8 @@ source:
   date_of_source: "2013"
 date_added: "2026-07-18"
 updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
+reviewed_on: "2026-07-18"
+status: "reviewed"
 ---
 
 # Public - Observability and Behavioral Residue

@@ -19,14 +19,14 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 
 | Queue | Pages |
 |---|---:|
-| Draft knowledge | 179 |
-| Reviewed / evergreen | 184 |
+| Draft knowledge | 172 |
+| Reviewed / evergreen | 191 |
 | Zero organic inbound links | 94 |
 | Unprocessed sources | 0 |
 | Processed sources without direct knowledge links | 6 |
 | Cornerstone pages | 6 |
 
-## Draft queue (179)
+## Draft queue (172)
 
 | Page | Domain | Type | Updated |
 |---|---|---|---|
@@ -198,19 +198,12 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 | [[07-Articles/Disagreement Needs a Finish Line\|Disagreement Needs a Finish Line]] | articles | article | 2026-07-16 |
 | [[07-Articles/Every Possession Comes With a Job\|Every Possession Comes With a Job]] | articles | article | 2026-07-17 |
 | [[07-Articles/Do It by Hand Until You Know What It Is\|Do It by Hand Until You Know What It Is]] | articles | article | 2026-07-18 |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal Emotion - When We Care, We Share\|High-Arousal Emotion - When We Care, We Share]] | frameworks-and-mental-models | framework | 2026-07-18 |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100\|Practical Value - The Psychology of Deals and the Rule of 100]] | frameworks-and-mental-models | framework | 2026-07-18 |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue\|Public - Observability and Behavioral Residue]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the Overkill Bias - Why the Best Get to Teach\|Real-World Proof and the Overkill Bias - Why the Best Get to Teach]] | business-strategy | strategy | 2026-07-18 |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good\|Social Currency - We Share What Makes Us Look Good]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand\|The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand]] | business-strategy | strategy | 2026-07-18 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software\|The Four Business Shapes - E-commerce, Service, Education, Software]] | business-strategy | strategy | 2026-07-18 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The Software Shape - Survive to Product-Market Fit, Then Retain Forever\|The Software Shape - Survive to Product-Market Fit, Then Retain Forever]] | business-strategy | strategy | 2026-07-18 |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth\|The STEPPS Framework - Six Drivers of Word of Mouth]] | frameworks-and-mental-models | framework | 2026-07-18 |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue\|Triggers - Top of Mind, Tip of Tongue]] | frameworks-and-mental-models | framework | 2026-07-18 |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable Virality - Build a Trojan Horse People Can't Retell Without You\|Valuable Virality - Build a Trojan Horse People Can't Retell Without You]] | frameworks-and-mental-models | framework | 2026-07-18 |
 
-## Review queue (184)
+## Review queue (191)
 
 Oldest review date first.
 
@@ -400,6 +393,13 @@ Oldest review date first.
 | [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/金錢真相、清晰溝通與人生取捨\|金錢真相、清晰溝通與人生取捨]] | reviewed | 2026-07-13 |
 | [[01-Business-Strategy/Business-Models-and-Customers/零售策略與通路飛輪\|零售策略與通路飛輪]] | reviewed | 2026-07-13 |
 | [[02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產\|電子郵件名單：最被低估的自有高意圖資產]] | reviewed | 2026-07-13 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal Emotion - When We Care, We Share\|High-Arousal Emotion - When We Care, We Share]] | reviewed | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100\|Practical Value - The Psychology of Deals and the Rule of 100]] | reviewed | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue\|Public - Observability and Behavioral Residue]] | reviewed | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good\|Social Currency - We Share What Makes Us Look Good]] | reviewed | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth\|The STEPPS Framework - Six Drivers of Word of Mouth]] | reviewed | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue\|Triggers - Top of Mind, Tip of Tongue]] | reviewed | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable Virality - Build a Trojan Horse People Can't Retell Without You\|Valuable Virality - Build a Trojan Horse People Can't Retell Without You]] | reviewed | 2026-07-18 |
 
 ## Zero organic inbound links (94)
 
@@ -550,7 +550,7 @@ Cornerstones are reviewed or evergreen pages with at least 12 organic inbound li
 | [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why\|Creator Vision Framework: What x Who x Why]] | 15 | strategy | reviewed |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded\|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]] | 12 | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply\|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]] | 12 | framework | reviewed |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth\|The STEPPS Framework - Six Drivers of Word of Mouth]] | 12 | framework | draft |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth\|The STEPPS Framework - Six Drivers of Word of Mouth]] | 12 | framework | reviewed |
 
 ## Unprocessed sources (0)
 

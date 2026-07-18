@@ -280,7 +280,7 @@ Domain map: [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
 | [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Happiness Is a Skill - Presence, Peace, and Self-Care\|Happiness Is a Skill - Presence, Peace, and Self-Care]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain\|Hardship as Origin Story - Heroes Use Pain]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Have Money Work Hard for You vs. Working Hard for Your Money\|Have Money Work Hard for You vs. Working Hard for Your Money]] | framework | en | draft |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal Emotion - When We Care, We Share\|High-Arousal Emotion - When We Care, We Share]] | framework | en | draft |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal Emotion - When We Care, We Share\|High-Arousal Emotion - When We Care, We Share]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/How to Do Great Work - Curiosity, Taste, Projects, and Endurance\|How to Do Great Work - Curiosity, Taste, Projects, and Endurance]] | framework | en | draft |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle\|I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle]] | framework | en | draft |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue\|Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue]] | framework | en | reviewed |
@@ -303,11 +303,11 @@ Domain map: [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs. Paid on Time\|Paid on Results vs. Paid on Time]] | framework | en | draft |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs. Playing Not to Lose\|Playing to Win vs. Playing Not to Lose]] | framework | en | draft |
 | [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/POWERS 與 HEARTED 尊重框架\|POWERS 與 HEARTED 尊重框架]] | framework | zh | reviewed |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100\|Practical Value - The Psychology of Deals and the Rule of 100]] | framework | en | draft |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100\|Practical Value - The Psychology of Deals and the Rule of 100]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary Aim and Strategic Objective - Make the Business Serve the Life\|Primary Aim and Strategic Objective - Make the Business Serve the Life]] | framework | en | draft |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal - The Zero-Follower Consistency Engine\|Process as the Goal - The Zero-Follower Consistency Engine]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Psychological Moonshots - Improve Perception Before Reality\|Psychological Moonshots - Improve Perception Before Reality]] | framework | en | draft |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue\|Public - Observability and Behavioral Residue]] | framework | en | draft |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue\|Public - Observability and Behavioral Residue]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy\|Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]] | framework | en | draft |
 | [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation and Commitment - Persuasion's Two Deepest Levers\|Reciprocation and Commitment - Persuasion's Two Deepest Levers]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How to Get Beyond Disagreements\|Recognize How to Get Beyond Disagreements]] | framework | en | draft |
@@ -318,7 +318,7 @@ Domain map: [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How to Find What Everyone Else Has Missed\|Secrets - How to Find What Everyone Else Has Missed]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt\|Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt]] | framework | en | draft |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the Game - Aligning Upside, Downside, and Accountability\|Skin in the Game - Aligning Upside, Downside, and Accountability]] | framework | en | draft |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good\|Social Currency - We Share What Makes Us Look Good]] | framework | en | draft |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good\|Social Currency - We Share What Makes Us Look Good]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts\|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Soft Skills Are Observable Behavior Chains\|Soft Skills Are Observable Behavior Chains]] | framework | en | draft |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the Problem You Have, Not the One You're Afraid Of\|Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]] | framework | en | reviewed |
@@ -348,17 +348,17 @@ Domain map: [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Pre-Mortem - Imagine Failure Before It Happens\|The Pre-Mortem - Imagine Failure Before It Happens]] | framework | en | draft |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle\|The Reference Group and Re-engineering Your Circle]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Seven Principles of Building an Iconic Brand\|The Seven Principles of Building an Iconic Brand]] | framework | en | reviewed |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth\|The STEPPS Framework - Six Drivers of Word of Mouth]] | framework | en | draft |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth\|The STEPPS Framework - Six Drivers of Word of Mouth]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale Paradox - Confront Reality Without Losing Faith\|The Stockdale Paradox - Confront Reality Without Losing Faith]] | framework | en | draft |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp - The Messy Middle and the 40-for-2 Management Trade\|The Swamp - The Messy Middle and the 40-for-2 Management Trade]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor Dilution Problem - Four Ways to Scale Past Yourself\|The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think 'Both' vs. Think 'Either-Or' - Abundance Over Scarcity\|Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity]] | framework | en | draft |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think Small - The Law of Income\|Think Big vs. Think Small - The Law of Income]] | framework | en | draft |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue\|Triggers - Top of Mind, Tip of Tongue]] | framework | en | draft |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue\|Triggers - Top of Mind, Tip of Tongue]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as Infrastructure\|Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets]] | framework | en | draft |
 | [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in Radical Truth and Radical Transparency\|Trust in Radical Truth and Radical Transparency]] | framework | en | draft |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That People Are Wired Very Differently\|Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]] | framework | en | draft |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable Virality - Build a Trojan Horse People Can't Retell Without You\|Valuable Virality - Build a Trojan Horse People Can't Retell Without You]] | framework | en | draft |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable Virality - Build a Trojan Horse People Can't Retell Without You\|Valuable Virality - Build a Trojan Horse People Can't Retell Without You]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product\|Values Before Features - Sell the Identity Behind the Product]] | framework | en | draft |
 | [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle\|Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]] | framework | en | reviewed |
 | [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach\|What a Brand Actually Is - Association, Influence, Direction, Reach]] | framework | en | reviewed |
