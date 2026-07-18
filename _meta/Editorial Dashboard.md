@@ -19,14 +19,14 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 
 | Queue | Pages |
 |---|---:|
-| Draft knowledge | 171 |
+| Draft knowledge | 172 |
 | Reviewed / evergreen | 184 |
 | Zero organic inbound links | 95 |
 | Unprocessed sources | 0 |
 | Processed sources without direct knowledge links | 6 |
 | Cornerstone pages | 5 |
 
-## Draft queue (171)
+## Draft queue (172)
 
 | Page | Domain | Type | Updated |
 |---|---|---|---|
@@ -197,6 +197,7 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 | [[07-Articles/Two Ways a Founder Can Disappear\|Two Ways a Founder Can Disappear]] | articles | article | 2026-07-15 |
 | [[07-Articles/Disagreement Needs a Finish Line\|Disagreement Needs a Finish Line]] | articles | article | 2026-07-16 |
 | [[07-Articles/Every Possession Comes With a Job\|Every Possession Comes With a Job]] | articles | article | 2026-07-17 |
+| [[07-Articles/Do It by Hand Until You Know What It Is\|Do It by Hand Until You Know What It Is]] | articles | article | 2026-07-18 |
 | [[01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the Overkill Bias - Why the Best Get to Teach\|Real-World Proof and the Overkill Bias - Why the Best Get to Teach]] | business-strategy | strategy | 2026-07-18 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand\|The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand]] | business-strategy | strategy | 2026-07-18 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software\|The Four Business Shapes - E-commerce, Service, Education, Software]] | business-strategy | strategy | 2026-07-18 |
@@ -511,6 +512,7 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 
 | Page | Domain | Type | Updated |
 |---|---|---|---|
+| [[07-Articles/Do It by Hand Until You Know What It Is\|Do It by Hand Until You Know What It Is]] | articles | article | 2026-07-18 |
 | [[01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the Overkill Bias - Why the Best Get to Teach\|Real-World Proof and the Overkill Bias - Why the Best Get to Teach]] | business-strategy | strategy | 2026-07-18 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand\|The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand]] | business-strategy | strategy | 2026-07-18 |
 | [[01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box\|The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]] | business-strategy | strategy | 2026-07-18 |
@@ -530,7 +532,6 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 | [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing\|Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]] | tactics-and-playbooks | playbook | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich People Model Winners, Poor People Hang Around Losers\|Association - Rich People Model Winners, Poor People Hang Around Losers]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded\|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]] | frameworks-and-mental-models | framework | 2026-07-13 |
-| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making\|Believability-Weight Your Decision Making]] | frameworks-and-mental-models | framework | 2026-07-13 |
 
 ## Cornerstone pages (5)
 
