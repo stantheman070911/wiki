@@ -7,12 +7,48 @@
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
-    {"query": "path:\"01-Business-Strategy\"", "color": {"a": 1, "rgb": 14701138}},
-    {"query": "path:\"02-Social-Media-Strategy\"", "color": {"a": 1, "rgb": 4886754}},
-    {"query": "path:\"03-Tactics-and-Playbooks\"", "color": {"a": 1, "rgb": 16753920}},
-    {"query": "path:\"04-Frameworks-and-Mental-Models\"", "color": {"a": 1, "rgb": 10181046}},
-    {"query": "path:\"05-Intelligence-and-Research\"", "color": {"a": 1, "rgb": 2924588}},
-    {"query": "path:\"07-Articles\"", "color": {"a": 1, "rgb": 16737095}}
+    {
+      "query": "path:\"01-Business-Strategy\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"02-Social-Media-Strategy\"",
+      "color": {
+        "a": 1,
+        "rgb": 4886754
+      }
+    },
+    {
+      "query": "path:\"03-Tactics-and-Playbooks\"",
+      "color": {
+        "a": 1,
+        "rgb": 16753920
+      }
+    },
+    {
+      "query": "path:\"04-Frameworks-and-Mental-Models\"",
+      "color": {
+        "a": 1,
+        "rgb": 10181046
+      }
+    },
+    {
+      "query": "path:\"05-Intelligence-and-Research\"",
+      "color": {
+        "a": 1,
+        "rgb": 2924588
+      }
+    },
+    {
+      "query": "path:\"07-Articles\"",
+      "color": {
+        "a": 1,
+        "rgb": 16737095
+      }
+    }
   ],
   "collapse-display": false,
   "showArrow": true,
@@ -24,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.42275683232384936,
+  "scale": 0.40434174918677784,
   "close": true
 }
