@@ -54,9 +54,10 @@ Beginners tend to inflate the numerator with bigger claims; the harder, more def
 4. Trim and stack: remove high-cost/low-perceived-value solutions, keep high-value/low-cost ones, and bundle the remainder into a single named package. Guiding test: *"What could you do that someone would immediately say, 'All that? Seriously? Yes, I'm in.'"*
 
 ### Enhancing the offer — four psychological layers stacked on top of the core
+Two of these have dedicated deep-dive entries: [[Scarcity and Urgency - Engineering Demand with Supply and Deadlines]] and [[Risk Reversal - The Guarantee Toolkit]].
 - **Scarcity** — limit by client count, cohort size, or access tier; when demand rises, cut supply rather than expand it (manufactured scarcity destroys credibility; real scarcity works).
 - **Urgency** — external deadlines tied to real events (price increases, expiring bonuses); the final hours of a campaign can account for 50–60% of total sales.
-- **Bonuses** — never discount the core offer; add named bonuses instead. The same content broken into stacked, named parts is perceived as more valuable than the identical content presented as one lump sum.
+- **Bonuses** — never discount the core offer; add named bonuses instead. The same content broken into stacked, named parts is perceived as more valuable than the identical content presented as one lump sum. You can even source high-perceived-value bonuses from *other* businesses' products/services (free to you, and often a paid referral relationship on top).
 - **Guarantees** — the single highest-leverage conversion tool. Types: *unconditional* (money-back, best for low-ticket B2C), *conditional* (keep working for free until the result is achieved — Hormozi's personal favorite), *performance-based* (pay only on results), *anti-guarantee* ("all sales final" — for high-ticket offers where buyers who need a guarantee are the wrong clients anyway). Stacking two guarantees (e.g., 30-day unconditional + 90-day conditional triple-money-back) compounds perceived safety.
 - **Damaging admissions** — proactively naming an offer's real limitations or downsides before the prospect discovers them independently. Counterintuitively, admitting a genuine weakness up front increases trust and perceived honesty enough to raise overall conversion, rather than hiding the weakness and risking it surfacing later as a reason to distrust the whole offer.
 
@@ -80,6 +81,10 @@ Beginners tend to inflate the numerator with bigger claims; the harder, more def
 - A Planet Fitness case illustrated both the "reason to buy vs. reason to stay" split and the feature-bloat caution: the low $10/month price is what gets people in the door, but retention correlates more with a recurring social ritual like "pizza night" than with the price itself; meanwhile, amenities added to the club only justify their cost if usage data shows members actually engage with them — unused amenities quietly erode margin without improving retention. A relationship-coaching business (Kyle & Ariel) hit the same feature-bloat pattern from the deliverables side, having added program components members rarely used.
 
 ## Relationships
+- **applies:** [[Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack]]
+- **related:** [[The Virtuous Cycle of Price - Why Premium Pricing Serves Customers Better]]
+- **related:** [[Risk Reversal - The Guarantee Toolkit]]
+- **related:** [[Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
 - **related:** [[情緒價值與功能性價值：跳脫價格戰的定位框架]]
 - **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
 - **related:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
@@ -88,4 +93,4 @@ Beginners tend to inflate the numerator with bigger claims; the harder, more def
 - **related:** [[The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]]
 
 ## Source reference
-Alex Hormozi, *$100M Offers* (2021). Archived extraction: [[2026-07-08_Book_AlexHormozi_100MSeriesSummary]]. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
+Alex Hormozi, *$100M Offers* (2021). Full audiobook transcript archived at [[2026-07-18_Book_AlexHormozi_100MOffers_RawTranscript]]; earlier series extraction: [[2026-07-08_Book_AlexHormozi_100MSeriesSummary]]. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].

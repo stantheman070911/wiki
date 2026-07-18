@@ -30,7 +30,7 @@ Belongs here: repeatable execution steps, checklists, workflows, and operating p
 - **Key framework:** [[Creator Vision Framework - What x Who x Why]]
 - **Key playbook:** [[Building a Content Team - Hiring Funnel, Contractors, and Onboarding]]
 - **Major series:** none currently; ordered collections require a `series-hub` and explicit `series` metadata.
-- **Complete static inventory:** [[Portable Index#Tactics and Playbooks (75)|Portable Index — Tactics and Playbooks]]
+- **Complete static inventory:** [[Portable Index#Tactics and Playbooks (80)|Portable Index — Tactics and Playbooks]]
 
 ## Index
 

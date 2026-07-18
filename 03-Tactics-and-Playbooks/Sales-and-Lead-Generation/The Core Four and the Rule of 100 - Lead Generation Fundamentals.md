@@ -79,9 +79,18 @@ Start with warm outreach using your existing network; build with consistent cont
 - **applies:** [[五大流量模型與私域轉換：從你找人到人找你]]
 - **applies:** [[The Creative Volume Engine - Ads Are an At-Bats Game]]
 - **applies:** [[人群場景痛點解決方案：客戶洞察與需求驗證框架]]
+- **related:** [[Cold Outreach - Personalize, Big Fast Value, Volume]]
+- **related:** [[Referrals - Engineering Word of Mouth Through Goodwill]]
+- **related:** [[Affiliate Armies - Recruiting Businesses to Sell for You]]
+- **related:** [[The Whisper-Tease-Shout Launch]]
+- **related:** [[Client-Financed Acquisition - Make the Customer Fund the Next Customer]]
 
 ## Source reference
-Alex Hormozi, *$100M Leads* (2023). Series notes: [[2026-07-08_Book_AlexHormozi_100MSeriesSummary]].
+Alex Hormozi, *$100M Leads* (2023). Full audiobook transcript archived at [[2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript]]; earlier series notes: [[2026-07-08_Book_AlexHormozi_100MSeriesSummary]].
+
+Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+
+Additional source: Daniel Priestley, *Online-Assessment Lead-Generation System*, [[2026-07-13_Video_DanielPriestley_OnlineAssessmentLeadGenerationSystem_RawTranscript]].
 
 Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
 

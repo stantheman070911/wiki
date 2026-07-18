@@ -54,6 +54,10 @@ flowchart LR
 - Introduce upsells and downsells before continuity — continuity should be the capstone once the front end is already cash-positive, not the first thing sold.
 - Test billing cadence (e.g., every-4-weeks vs. monthly) as a low-risk, immediate profit lever before pursuing harder growth levers like new channels.
 - Price new offers low to generate feedback, then raise prices until additional revenue plateaus — the goal is many ways to offer the same product, not many different products.
+- Sell into the **hyper-buying cycle**: when someone commits to a new thing (wedding, new hobby, new baby, starting a business) they spend heavily in a short window — keep making offers while it's open rather than stopping at one sale.
+- Take a **second form of payment** (ideally ACH) framed as a ~3% processing-fee discount — it both fixes the failed-payment churn that silently kills recurring revenue and adds margin.
+- Use the **gift-card play** as a referral engine: sell a $200 gift card for $20 (limit 2, usable only on others), then roll it over onto a $1,000+ offer — buyers pay you to refer their friends.
+- Fill gaps in the model with **affiliate products** (sell others' stuff for commission) rather than building new products and new operational headaches.
 
 ## Notable examples
 - Hormozi's own Gym Launch case study: began with a Decoy Offer reaching $476,000/month within three months; added upsell/downsell layers to reach $1.5M/month; further offer types pushed it to $2.3M/month within 14 months; integrating a supplement business drove monthly revenue to $4.4M by month 20. He eventually sold 66% of Gym Launch for $46.2M in cash, crossing $100M in net worth at age 31.
@@ -61,10 +65,11 @@ flowchart LR
 
 ## Relationships
 - **related:** [[The Value Equation and the Grand Slam Offer]]
+- **related:** [[Client-Financed Acquisition - Make the Customer Fund the Next Customer]]
 - **related:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
 - **related:** [[Billing-Cycle vs Value-Cycle Alignment]]
 - **related:** [[The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
 - **applies:** [[用數學做決策：損益表、PDCA與預測降低不確定性]]
 
 ## Source reference
-Alex Hormozi, *$100M Money Models* (2025). Archived extraction: [[2026-07-08_Book_AlexHormozi_100MSeriesSummary]].
+Alex Hormozi, *$100M Money Models* (2025). Full audiobook transcript archived at [[2026-07-18_Book_AlexHormozi_100MMoneyModels_RawTranscript]]; earlier series extraction: [[2026-07-08_Book_AlexHormozi_100MSeriesSummary]].
