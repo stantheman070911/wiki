@@ -3,7 +3,7 @@ title: "Editorial Dashboard"
 type: "governance"
 domain: "meta"
 lang: "en"
-generated_on: "2026-07-17"
+generated_on: "2026-07-18"
 status: "generated"
 ---
 
@@ -19,14 +19,14 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 
 | Queue | Pages |
 |---|---:|
-| Draft knowledge | 167 |
+| Draft knowledge | 171 |
 | Reviewed / evergreen | 184 |
-| Zero organic inbound links | 96 |
+| Zero organic inbound links | 95 |
 | Unprocessed sources | 0 |
 | Processed sources without direct knowledge links | 6 |
 | Cornerstone pages | 5 |
 
-## Draft queue (167)
+## Draft queue (171)
 
 | Page | Domain | Type | Updated |
 |---|---|---|---|
@@ -197,6 +197,10 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 | [[07-Articles/Two Ways a Founder Can Disappear\|Two Ways a Founder Can Disappear]] | articles | article | 2026-07-15 |
 | [[07-Articles/Disagreement Needs a Finish Line\|Disagreement Needs a Finish Line]] | articles | article | 2026-07-16 |
 | [[07-Articles/Every Possession Comes With a Job\|Every Possession Comes With a Job]] | articles | article | 2026-07-17 |
+| [[01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the Overkill Bias - Why the Best Get to Teach\|Real-World Proof and the Overkill Bias - Why the Best Get to Teach]] | business-strategy | strategy | 2026-07-18 |
+| [[01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand\|The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand]] | business-strategy | strategy | 2026-07-18 |
+| [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software\|The Four Business Shapes - E-commerce, Service, Education, Software]] | business-strategy | strategy | 2026-07-18 |
+| [[01-Business-Strategy/Business-Models-and-Customers/The Software Shape - Survive to Product-Market Fit, Then Retain Forever\|The Software Shape - Survive to Product-Market Fit, Then Retain Forever]] | business-strategy | strategy | 2026-07-18 |
 
 ## Review queue (184)
 
@@ -389,7 +393,7 @@ Oldest review date first.
 | [[01-Business-Strategy/Business-Models-and-Customers/零售策略與通路飛輪\|零售策略與通路飛輪]] | reviewed | 2026-07-13 |
 | [[02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產\|電子郵件名單：最被低估的自有高意圖資產]] | reviewed | 2026-07-13 |
 
-## Zero organic inbound links (96)
+## Zero organic inbound links (95)
 
 Pages with no inbound link from knowledge pages, Home, articles, or curated domain/subdomain maps. Generated inventories and governance/source pages do not manufacture connectivity.
 
@@ -397,7 +401,7 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 
 | Domain | Pages |
 |---|---|
-| business-strategy | 30 |
+| business-strategy | 29 |
 | frameworks-and-mental-models | 35 |
 | intelligence-and-research | 3 |
 | social-media-strategy | 3 |
@@ -420,15 +424,14 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 | [[01-Business-Strategy/Positioning-and-Branding/Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve\|Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize the Whole Revenue System\|Price, Churn, and EPC - Optimize the Whole Revenue System]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural - Defending Margin Against Organizational Creep\|Profit Is Unnatural - Defending Margin Against Organizational Creep]] | business-strategy | strategy | draft |
+| [[01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the Overkill Bias - Why the Best Get to Teach\|Real-World Proof and the Overkill Bias - Why the Best Get to Teach]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly Compounding and Market Size\|Startup Equals Growth - Weekly Compounding and Market Size]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Positioning-and-Branding/The 22 Immutable Laws of Marketing\|The 22 Immutable Laws of Marketing]] | business-strategy | strategy | reviewed |
 | [[01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom Loop and the One-Brand Bet\|The Direct-Response Doom Loop and the One-Brand Bet]] | business-strategy | strategy | reviewed |
-| [[01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept - Three Circles and the Economic Denominator\|The Hedgehog Concept - Three Circles and the Economic Denominator]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of Investing - Diversification via Uncorrelated Return Streams\|The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Business-Models-and-Customers/The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns\|The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground - Problem, Process, and Prize Experiences\|The Marketing Playground - Problem, Process, and Prize Experiences]] | business-strategy | strategy | draft |
 | [[01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle - Infancy, Adolescence, and Maturity\|The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]] | business-strategy | strategy | draft |
-| [[01-Business-Strategy/Business-Models-and-Customers/The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone\|The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone]] | business-strategy | strategy | reviewed |
 | [[01-Business-Strategy/Traffic-and-Acquisition/五大流量模型與私域轉換：從你找人到人找你\|五大流量模型與私域轉換：從你找人到人找你]] | business-strategy | strategy | reviewed |
 | [[01-Business-Strategy/Finance-Capital-and-Exit/內容產製系統與募資紀律\|內容產製系統與募資紀律]] | business-strategy | strategy | reviewed |
 | [[01-Business-Strategy/Business-Models-and-Customers/商業四大需求層次：救命、治病、養生、建體\|商業四大需求層次：救命、治病、養生、建體]] | business-strategy | strategy | reviewed |
@@ -508,6 +511,12 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 
 | Page | Domain | Type | Updated |
 |---|---|---|---|
+| [[01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the Overkill Bias - Why the Best Get to Teach\|Real-World Proof and the Overkill Bias - Why the Best Get to Teach]] | business-strategy | strategy | 2026-07-18 |
+| [[01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand\|The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand]] | business-strategy | strategy | 2026-07-18 |
+| [[01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box\|The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]] | business-strategy | strategy | 2026-07-18 |
+| [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software\|The Four Business Shapes - E-commerce, Service, Education, Software]] | business-strategy | strategy | 2026-07-18 |
+| [[01-Business-Strategy/Business-Models-and-Customers/The Software Shape - Survive to Product-Market Fit, Then Retain Forever\|The Software Shape - Survive to Product-Market Fit, Then Retain Forever]] | business-strategy | strategy | 2026-07-18 |
+| [[01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of Service Businesses\|The Virtuous Cycle of Service Businesses]] | business-strategy | strategy | 2026-07-18 |
 | [[07-Articles/Every Possession Comes With a Job\|Every Possession Comes With a Job]] | articles | article | 2026-07-17 |
 | [[07-Articles/Disagreement Needs a Finish Line\|Disagreement Needs a Finish Line]] | articles | article | 2026-07-16 |
 | [[07-Articles/Two Ways a Founder Can Disappear\|Two Ways a Founder Can Disappear]] | articles | article | 2026-07-15 |
@@ -522,12 +531,6 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich People Model Winners, Poor People Hang Around Losers\|Association - Rich People Model Winners, Poor People Hang Around Losers]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded\|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making\|Believability-Weight Your Decision Making]] | frameworks-and-mental-models | framework | 2026-07-13 |
-| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Bigger Than Your Problems vs. Smaller Than Your Problems\|Bigger Than Your Problems vs. Smaller Than Your Problems]] | frameworks-and-mental-models | framework | 2026-07-13 |
-| [[01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points - Anchor a New Position to What's Already Believed\|Borrowed Reference-Points - Anchor a New Position to What's Already Believed]] | business-strategy | strategy | 2026-07-13 |
-| [[01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly\|Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]] | business-strategy | strategy | 2026-07-13 |
-| [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win\|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]] | business-strategy | strategy | 2026-07-13 |
-| [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale\|Capture, Don't Create: Engineering Proof at Scale]] | tactics-and-playbooks | playbook | 2026-07-13 |
-| [[05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and Human Escalation\|ChatGPT Advertising - Intent, Memory, and Human Escalation]] | intelligence-and-research | research | 2026-07-13 |
 
 ## Cornerstone pages (5)
 

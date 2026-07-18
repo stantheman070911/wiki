@@ -3,7 +3,7 @@ title: "Source and Author Index"
 type: "governance"
 domain: "meta"
 lang: "en"
-generated_on: "2026-07-17"
+generated_on: "2026-07-18"
 status: "generated"
 ---
 
@@ -15,7 +15,7 @@ Static browsing facets for provenance and people. Tag links open Obsidian's tag 
 
 | Person tag | Knowledge pages |
 |---|---|
-| #person/alex-hormozi | 95 |
+| #person/alex-hormozi | 99 |
 | #person/caleb-ralston | 3 |
 | #person/chen-tsung-hsien | 9 |
 | #person/chen-xiuping | 8 |
@@ -69,7 +69,7 @@ Static browsing facets for provenance and people. Tag links open Obsidian's tag 
 | Author as archived | Source records |
 |---|---|
 | [unknown] | 4 |
-| Alex Hormozi | 13 |
+| Alex Hormozi | 14 |
 | Anatomy Of ADream | 2 |
 | Art Of The Personal Brand | 1 |
 | Caleb Ralston | 1 |
@@ -173,7 +173,7 @@ Static browsing facets for provenance and people. Tag links open Obsidian's tag 
 | Source | Author | Format | Processing | Direct derived entries |
 |---|---|---|---|---|
 | [[06-Source-Library/Podcasts/2026-07-08_Talk_GaryVaynerchuk_NewRulesOfSocialMedia2026\|New Rules Of Social Media2026]] | Gary Vaynerchuk | source-note | processed | [[02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model\|Interest Media and the Zero-Follower Reach Model]]<br>[[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat\|The Attention Barbell - Brand as the AI-Era Moat]] |
-## video sources (46)
+## video sources (47)
 
 | Source | Author | Format | Processing | Direct derived entries |
 |---|---|---|---|---|
@@ -208,6 +208,7 @@ Static browsing facets for provenance and people. Tag links open Obsidian's tag 
 | [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide\|How To Get Rich In Your20s_7 Hour Guide]] | Alex Hormozi | source-note | processed | [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules\|How Money Is Made - Value, Return on Time, and Money Rules]]<br>[[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail\|Brand and Product Compounding - Too Good to Fail]]<br>[[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook\|Focus as Elimination - The Deep-Work Playbook]]<br>[[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground\|Volume and Feedback - Sales as the Training Ground]]<br>[[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and the Education-ROI Playbook\|Skill Stacking and the Education-ROI Playbook]]<br>[[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - Defense-Before-Offense Playbook\|The First 100k - Defense-Before-Offense Playbook]]<br>[[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets\|Fear, Regret, and Asymmetric Bets]]<br>[[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and the Blame-Power Law\|Accountability and the Blame-Power Law]]<br>[[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence\|Build Evidence, Not Confidence]]<br>[[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed Gratification - Patience and Inputs vs Outputs\|Delayed Gratification - Patience and Inputs vs Outputs]]<br>[[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite Games - Winning by Emptying the Tank\|Finite vs Infinite Games - Winning by Emptying the Tank]]<br>[[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain\|Hardship as Origin Story - Heroes Use Pain]]<br>[[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Reframing Trauma and Labels - Logic, Evidence, Utility\|Reframing Trauma and Labels - Logic, Evidence, Utility]]<br>[[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle\|The Reference Group and Re-engineering Your Circle]] |
 | [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_RawTranscript\|How To Get Rich In Your20s_Raw Transcript]] | Alex Hormozi | raw-transcript | processed | — |
 | [[06-Source-Library/Videos/2026-07-10_Video_TuanLe_HowToGoViralByHackingAttention\|How to Go Insanely Viral (Almost) Every Time by Hacking Attention]] | Tuan Le | source-note | processed | [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking Attention - Topic, Format, Hook and the Content Engine\|Hacking Attention - Topic, Format, Hook and the Content Engine]] |
+| [[06-Source-Library/Videos/2026-07-18_Video_AlexHormozi_HowToGrowAnyBusinessFast_RawTranscript\|How to Grow Any Business Fast (The Four Business Shapes)]] | Alex Hormozi | raw-transcript | processed | [[01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand\|The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand]]<br>[[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software\|The Four Business Shapes - E-commerce, Service, Education, Software]]<br>[[01-Business-Strategy/Business-Models-and-Customers/The Software Shape - Survive to Product-Market Fit, Then Retain Forever\|The Software Shape - Survive to Product-Market Fit, Then Retain Forever]]<br>[[01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of Service Businesses\|The Virtuous Cycle of Service Businesses]]<br>[[01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the Overkill Bias - Why the Best Get to Teach\|Real-World Proof and the Overkill Bias - Why the Best Get to Teach]]<br>[[01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box\|The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]] |
 | [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_HowToSellToRichPeople_RawTranscript\|How to Sell to Rich People - Raw Transcript]] | Daniel Priestley | raw-transcript | processed | [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Selling Upmarket - Contextual Adjacency and Land-and-Expand\|Selling Upmarket - Contextual Adjacency and Land-and-Expand]] |
 | [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_LifestyleBusinessVsPerformanceBusiness_RawTranscript\|Lifestyle Business vs. Performance Business - Raw Transcript]] | Daniel Priestley | raw-transcript | processed | [[01-Business-Strategy/Business-Models-and-Customers/The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns\|The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns]]<br>[[01-Business-Strategy/Growth-and-Scaling/The Seven Levels of Business Growth - From Side Hustle to Exit\|The Seven Levels of Business Growth - From Side Hustle to Exit]] |
 | [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_MarketingPlayground_RawTranscript\|Marketing Playground - Raw Transcript]] | Daniel Priestley | raw-transcript | processed | [[01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid and the Halo Strategy\|The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]<br>[[01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground - Problem, Process, and Prize Experiences\|The Marketing Playground - Problem, Process, and Prize Experiences]] |

@@ -3,7 +3,14 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const root = process.cwd();
-const ignoredDirs = new Set(['.git', '.obsidian', '.claude', 'node_modules']);
+// `Reports/` holds long-form syntheses generated *from* the wiki: downstream
+// deliverables intentionally kept outside the taxonomy and wikilink graph (see
+// Home.md), so they carry no page frontmatter and are excluded from the audit.
+const ignoredDirs = new Set(['.git', '.obsidian', '.claude', 'node_modules', 'Reports']);
+// Root README.md is a GitHub convention for plain-Markdown readers, not a
+// knowledge page; it is exempt from the semantic-page-name and frontmatter rules.
+// (README.md inside sub-folders is still prohibited.)
+const exemptFiles = new Set(['README.md']);
 const errors = [];
 const warnings = [];
 
@@ -144,7 +151,10 @@ function extractMarkdownLinks(text) {
 }
 
 const allFiles = walk(root);
-const markdownFiles = allFiles.filter((file) => file.endsWith('.md')).map((file) => toPosix(path.relative(root, file)));
+const markdownFiles = allFiles
+  .filter((file) => file.endsWith('.md'))
+  .map((file) => toPosix(path.relative(root, file)))
+  .filter((rel) => !exemptFiles.has(rel));
 const markdownSet = new Set(markdownFiles);
 const records = new Map();
 const basenameIndex = new Map();
