@@ -19,14 +19,14 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 
 | Queue | Pages |
 |---|---:|
-| Draft knowledge | 172 |
+| Draft knowledge | 179 |
 | Reviewed / evergreen | 184 |
-| Zero organic inbound links | 95 |
+| Zero organic inbound links | 94 |
 | Unprocessed sources | 0 |
 | Processed sources without direct knowledge links | 6 |
-| Cornerstone pages | 5 |
+| Cornerstone pages | 6 |
 
-## Draft queue (172)
+## Draft queue (179)
 
 | Page | Domain | Type | Updated |
 |---|---|---|---|
@@ -198,10 +198,17 @@ Static editorial and architecture queues. Generated inventories, metadata/govern
 | [[07-Articles/Disagreement Needs a Finish Line\|Disagreement Needs a Finish Line]] | articles | article | 2026-07-16 |
 | [[07-Articles/Every Possession Comes With a Job\|Every Possession Comes With a Job]] | articles | article | 2026-07-17 |
 | [[07-Articles/Do It by Hand Until You Know What It Is\|Do It by Hand Until You Know What It Is]] | articles | article | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal Emotion - When We Care, We Share\|High-Arousal Emotion - When We Care, We Share]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100\|Practical Value - The Psychology of Deals and the Rule of 100]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue\|Public - Observability and Behavioral Residue]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the Overkill Bias - Why the Best Get to Teach\|Real-World Proof and the Overkill Bias - Why the Best Get to Teach]] | business-strategy | strategy | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good\|Social Currency - We Share What Makes Us Look Good]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand\|The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand]] | business-strategy | strategy | 2026-07-18 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software\|The Four Business Shapes - E-commerce, Service, Education, Software]] | business-strategy | strategy | 2026-07-18 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The Software Shape - Survive to Product-Market Fit, Then Retain Forever\|The Software Shape - Survive to Product-Market Fit, Then Retain Forever]] | business-strategy | strategy | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth\|The STEPPS Framework - Six Drivers of Word of Mouth]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue\|Triggers - Top of Mind, Tip of Tongue]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable Virality - Build a Trojan Horse People Can't Retell Without You\|Valuable Virality - Build a Trojan Horse People Can't Retell Without You]] | frameworks-and-mental-models | framework | 2026-07-18 |
 
 ## Review queue (184)
 
@@ -394,7 +401,7 @@ Oldest review date first.
 | [[01-Business-Strategy/Business-Models-and-Customers/零售策略與通路飛輪\|零售策略與通路飛輪]] | reviewed | 2026-07-13 |
 | [[02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產\|電子郵件名單：最被低估的自有高意圖資產]] | reviewed | 2026-07-13 |
 
-## Zero organic inbound links (95)
+## Zero organic inbound links (94)
 
 Pages with no inbound link from knowledge pages, Home, articles, or curated domain/subdomain maps. Generated inventories and governance/source pages do not manufacture connectivity.
 
@@ -403,7 +410,7 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 | Domain | Pages |
 |---|---|
 | business-strategy | 29 |
-| frameworks-and-mental-models | 35 |
+| frameworks-and-mental-models | 34 |
 | intelligence-and-research | 3 |
 | social-media-strategy | 3 |
 | tactics-and-playbooks | 25 |
@@ -466,7 +473,6 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician\|The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats\|The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension Trap - Why One Name Can't Own Two Things\|The Line-Extension Trap - Why One Name Can't Own Two Things]] | frameworks-and-mental-models | framework | reviewed |
-| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities\|The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passionate Visionary Scientist - A Three-Part Founder Mindset\|The Passionate Visionary Scientist - A Three-Part Founder Mindset]] | frameworks-and-mental-models | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor Dilution Problem - Four Ways to Scale Past Yourself\|The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]] | frameworks-and-mental-models | framework | reviewed |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think 'Both' vs. Think 'Either-Or' - Abundance Over Scarcity\|Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity]] | frameworks-and-mental-models | framework | draft |
@@ -513,27 +519,27 @@ Pages with no inbound link from knowledge pages, Home, articles, or curated doma
 | Page | Domain | Type | Updated |
 |---|---|---|---|
 | [[07-Articles/Do It by Hand Until You Know What It Is\|Do It by Hand Until You Know What It Is]] | articles | article | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal Emotion - When We Care, We Share\|High-Arousal Emotion - When We Care, We Share]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100\|Practical Value - The Psychology of Deals and the Rule of 100]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue\|Public - Observability and Behavioral Residue]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the Overkill Bias - Why the Best Get to Teach\|Real-World Proof and the Overkill Bias - Why the Best Get to Teach]] | business-strategy | strategy | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good\|Social Currency - We Share What Makes Us Look Good]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand\|The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand]] | business-strategy | strategy | 2026-07-18 |
 | [[01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box\|The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]] | business-strategy | strategy | 2026-07-18 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software\|The Four Business Shapes - E-commerce, Service, Education, Software]] | business-strategy | strategy | 2026-07-18 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The Software Shape - Survive to Product-Market Fit, Then Retain Forever\|The Software Shape - Survive to Product-Market Fit, Then Retain Forever]] | business-strategy | strategy | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth\|The STEPPS Framework - Six Drivers of Word of Mouth]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of Service Businesses\|The Virtuous Cycle of Service Businesses]] | business-strategy | strategy | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue\|Triggers - Top of Mind, Tip of Tongue]] | frameworks-and-mental-models | framework | 2026-07-18 |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable Virality - Build a Trojan Horse People Can't Retell Without You\|Valuable Virality - Build a Trojan Horse People Can't Retell Without You]] | frameworks-and-mental-models | framework | 2026-07-18 |
 | [[07-Articles/Every Possession Comes With a Job\|Every Possession Comes With a Job]] | articles | article | 2026-07-17 |
 | [[07-Articles/Disagreement Needs a Finish Line\|Disagreement Needs a Finish Line]] | articles | article | 2026-07-16 |
 | [[07-Articles/Two Ways a Founder Can Disappear\|Two Ways a Founder Can Disappear]] | articles | article | 2026-07-15 |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists\|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a Brand Signal\|Absurdity as a Brand Signal]] | frameworks-and-mental-models | framework | 2026-07-13 |
 | [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Act in Spite of Fear vs. Let Fear Stop You\|Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]] | frameworks-and-mental-models | framework | 2026-07-13 |
-| [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Adaptive Leadership - Consistent Standards, Individual Treatment\|Adaptive Leadership - Consistent Standards, Individual Treatment]] | frameworks-and-mental-models | framework | 2026-07-13 |
-| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Admire vs. Resent the Rich - Bless That Which You Want\|Admire vs. Resent the Rich - Bless That Which You Want]] | frameworks-and-mental-models | framework | 2026-07-13 |
-| [[05-Intelligence-and-Research/AI、資料與內容的賭注理論\|AI、資料與內容的賭注理論]] | intelligence-and-research | research | 2026-07-13 |
-| [[01-Business-Strategy/Finance-Capital-and-Exit/Alternative Currencies - Reputation, Distribution, and Equity\|Alternative Currencies - Reputation, Distribution, and Equity]] | business-strategy | strategy | 2026-07-13 |
-| [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing\|Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]] | tactics-and-playbooks | playbook | 2026-07-13 |
-| [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich People Model Winners, Poor People Hang Around Losers\|Association - Rich People Model Winners, Poor People Hang Around Losers]] | frameworks-and-mental-models | framework | 2026-07-13 |
-| [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded\|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]] | frameworks-and-mental-models | framework | 2026-07-13 |
 
-## Cornerstone pages (5)
+## Cornerstone pages (6)
 
 Cornerstones are reviewed or evergreen pages with at least 12 organic inbound links, plus manually designated series hubs.
 
@@ -544,6 +550,7 @@ Cornerstones are reviewed or evergreen pages with at least 12 organic inbound li
 | [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why\|Creator Vision Framework: What x Who x Why]] | 15 | strategy | reviewed |
 | [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded\|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]] | 12 | framework | draft |
 | [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply\|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]] | 12 | framework | reviewed |
+| [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth\|The STEPPS Framework - Six Drivers of Word of Mouth]] | 12 | framework | draft |
 
 ## Unprocessed sources (0)
 

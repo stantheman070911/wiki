@@ -158,6 +158,7 @@ value-creation=價值創造
 value-equation=價值方程式
 volume=數量
 wealth=財富
+word-of-mouth=口碑
 writing=寫作`;
 
 const zhLabels = new Map(zhText.trim().split('\n').map((line) => line.split('=')));
