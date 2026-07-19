@@ -1,27 +1,13 @@
 ---
-title: "Have Money Work Hard for You vs. Working Hard for Your Money"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/passive-income, topic/wealth, topic/mindset, person/t-harv-eker ]
-sources:
-  - id: "SRC-0018"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money
-      Management System
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth
-      vs. Focus on Working Income - The Four Net Worth Factors
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money
-      Well - The Habit Matters More Than the Amount
+title: Have Money Work Hard for You vs. Working Hard for Your Money
+lang: en
+tags:
+  - topic/passive-income
+  - topic/wealth
+  - topic/mindset
+  - person/t-harv-eker
+status: draft
+updated: 2026-07-13
 ---
 
 # Have Money Work Hard for You vs. Working Hard for Your Money
@@ -52,11 +38,9 @@ Wealth File #15. Eker's blunt observation: billions of people work extremely har
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money Management System|The 6 Jars Money Management System]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors|Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money Well - The Habit Matters More Than the Amount|Manage Your Money Well - The Habit Matters More Than the Amount]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

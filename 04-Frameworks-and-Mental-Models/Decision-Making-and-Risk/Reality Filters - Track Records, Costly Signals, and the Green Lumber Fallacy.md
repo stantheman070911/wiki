@@ -1,46 +1,17 @@
 ---
-title: "Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy
+lang: en
 tags:
-  [
-    topic/proof,
-    topic/believability,
-    topic/research,
-    topic/decision-making,
-    topic/learning,
-    topic/risk,
-    person/nassim-nicholas-taleb,
-    source/skin-in-the-game
-  ]
-sources:
-  - id: "SRC-0012"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Trust Should Have a Credit Limit
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
-      Clever - Write Below Third Grade and Meet the Avatar
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
-      Your Decision Making
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the
-      Game - Aligning Upside, Downside, and Accountability
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Lindy
-      Effect - Time as a Filter for Robust Ideas and Practices
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Contribution
-      Before Activity - Define Results and Make Knowledge Usable
+  - topic/proof
+  - topic/believability
+  - topic/research
+  - topic/decision-making
+  - topic/learning
+  - topic/risk
+  - person/nassim-nicholas-taleb
+  - source/skin-in-the-game
+status: draft
+updated: 2026-07-13
 ---
 
 # Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy
@@ -86,7 +57,6 @@ Taleb's surgeon who looks like a butcher may be the stronger choice because a su
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Trust Should Have a Credit Limit|Trust Should Have a Credit Limit]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
@@ -95,5 +65,4 @@ Taleb's surgeon who looks like a butcher may be the stronger choice because a su
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Contribution Before Activity - Define Results and Make Knowledge Usable|Contribution Before Activity - Define Results and Make Knowledge Usable]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript|Skin in the Game - Raw Transcript]]

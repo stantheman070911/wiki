@@ -1,43 +1,15 @@
 ---
-title: "Hybrid Organizations and Dual Reporting"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Hybrid Organizations and Dual Reporting
+lang: en
 tags:
-  [
-    topic/org-design,
-    topic/management,
-    topic/systems,
-    topic/leadership,
-    person/andrew-grove,
-    source/high-output-management
-  ]
-sources:
-  - id: "SRC-0022"
-    role: "primary"
-    locator: "chapters 7–10"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-  Leadership and Wellbeing Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
-      Organizations
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
-      Discipline - Freedom, Responsibility, and Stop-Doing Lists
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity
-      Needs Standards and Distributed Judgment
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and
-      Stay in Sync
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace
-      Influence Mapping - Authority, Value, and Recognition
+  - topic/org-design
+  - topic/management
+  - topic/systems
+  - topic/leadership
+  - person/andrew-grove
+  - source/high-output-management
+status: draft
+updated: 2026-07-18
 ---
 
 # Hybrid Organizations and Dual Reporting
@@ -83,7 +55,6 @@ Intel combined mission-oriented business divisions with functional manufacturing
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity Needs Standards and Distributed Judgment|Complexity Needs Standards and Distributed Judgment]]
@@ -91,5 +62,4 @@ Intel combined mission-oriented business divisions with functional manufacturing
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace Influence Mapping - Authority, Value, and Recognition|Workplace Influence Mapping - Authority, Value, and Recognition]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript|High Output Management - Raw Transcript]] — locator: chapters 7–10

@@ -1,43 +1,15 @@
 ---
-title: "Gap Selling - Current State, Future State, and the Value of Change"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Gap Selling - Current State, Future State, and the Value of Change
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/value-equation,
-    topic/value-creation,
-    topic/decision-making,
-    person/keenan,
-    source/gap-selling
-  ]
-sources:
-  - id: "SRC-0034"
-    role: "primary"
-    locator: "parts I–II"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Buyer Needs and
-      Benefits - From Implied Problems to Explicit Value
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State
-      Diagnosis - Facts, Problems, Impact, Cause, and Emotion
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
-      Sell the Goal, Scope the Journey, Secure Prepayment
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger
-      Selling Model - Teach, Tailor, and Take Control
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem
-      Identification Chart - Problems, Impacts, and Root Causes
+  - topic/sales
+  - topic/value-equation
+  - topic/value-creation
+  - topic/decision-making
+  - person/keenan
+  - source/gap-selling
+status: draft
+updated: 2026-07-18
 ---
 
 # Gap Selling - Current State, Future State, and the Value of Change
@@ -78,7 +50,6 @@ A routine tow is price-sensitive until the stranded driver must reach a once-in-
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Buyer Needs and Benefits - From Implied Problems to Explicit Value|Buyer Needs and Benefits - From Implied Problems to Explicit Value]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion|Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
@@ -86,5 +57,4 @@ A routine tow is price-sensitive until the stranded driver must reach a once-in-
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem Identification Chart - Problems, Impacts, and Root Causes|The Problem Identification Chart - Problems, Impacts, and Root Causes]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_Keenan_GapSelling_RawTranscript|Gap Selling]] — locator: parts I–II

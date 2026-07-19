@@ -1,45 +1,15 @@
 ---
-title: "Tailoring for Consensus - Stakeholder Outcomes and Widespread Support"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Tailoring for Consensus - Stakeholder Outcomes and Widespread Support
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/persuasion,
-    topic/influence,
-    person/matthew-dixon,
-    person/brent-adamson,
-    source/the-challenger-sale
-  ]
-sources:
-  - id: "SRC-0035"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace
-      Influence Mapping - Authority, Value, and Recognition
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching -
-      Insight That Leads to Unique Strengths
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control -
-      Constructive Tension Across the Sale
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger
-      Selling Model - Teach, Tailor, and Take Control
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Commercial
-      Teaching Conversation - From Warmer to Your Solution
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes -
-      Decision Criteria, Buying Process, and Mutual Effort
+  - topic/sales
+  - topic/persuasion
+  - topic/influence
+  - person/matthew-dixon
+  - person/brent-adamson
+  - source/the-challenger-sale
+status: draft
+updated: 2026-07-18
 ---
 
 # Tailoring for Consensus - Stakeholder Outcomes and Widespread Support
@@ -83,7 +53,6 @@ Solae equipped reps with role cards and message-to-role maps so a technical soy-
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace Influence Mapping - Authority, Value, and Recognition|Workplace Influence Mapping - Authority, Value, and Recognition]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching - Insight That Leads to Unique Strengths|Commercial Teaching - Insight That Leads to Unique Strengths]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control - Constructive Tension Across the Sale|Taking Control - Constructive Tension Across the Sale]]
@@ -92,5 +61,4 @@ Solae equipped reps with role cards and message-to-role maps so a technical soy-
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes - Decision Criteria, Buying Process, and Mutual Effort|The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript|The Challenger Sale]]

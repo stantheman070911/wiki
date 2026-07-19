@@ -1,42 +1,15 @@
 ---
-title: "Meaning in Life Is Designed in Particular Moments"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Meaning in Life Is Designed in Particular Moments
+lang: en
 tags:
-  [
-    topic/happiness,
-    topic/mindset,
-    topic/mission,
-    person/bill-burnett,
-    person/dave-evans,
-    source/how-to-live-a-meaningful-life
-  ]
-sources:
-  - id: "SRC-0027"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-  Leadership and Wellbeing Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-      Design Compass - Workview, Lifeview, and Coherency
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Moment-Making
-      - Crafted, Discovered, and Savored Experiences
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The
-      Designer's Way - Acceptance, Availability, and Engaged Detachment
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Transactional
-      and Flow Worlds - Intent Versus What Is
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
-      Proficiency, Pain Tolerance, and Frustration Tolerance
+  - topic/happiness
+  - topic/mindset
+  - topic/mission
+  - person/bill-burnett
+  - person/dave-evans
+  - source/how-to-live-a-meaningful-life
+status: draft
+updated: 2026-07-18
 ---
 
 # Meaning in Life Is Designed in Particular Moments
@@ -76,7 +49,6 @@ A birthday cake cannot embody all beauty, love, or celebration, yet those univer
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Design Compass - Workview, Lifeview, and Coherency|Life Design Compass - Workview, Lifeview, and Coherency]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Moment-Making - Crafted, Discovered, and Savored Experiences|Moment-Making - Crafted, Discovered, and Savored Experiences]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Designer's Way - Acceptance, Availability, and Engaged Detachment|The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
@@ -84,5 +56,4 @@ A birthday cake cannot embody all beauty, love, or celebration, yet those univer
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_HowToLiveAMeaningfulLife_RawTranscript|How to Live a Meaningful Life]]

@@ -1,39 +1,15 @@
 ---
-title: "Competitive Advantage - Why Owning One Isn't Enough"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Competitive Advantage - Why Owning One Isn't Enough
+lang: en
 tags:
-  [
-    topic/moat,
-    topic/strategy,
-    topic/value-creation,
-    topic/decision-making,
-    person/richard-rumelt,
-    source/good-strategy-bad-strategy
-  ]
-sources:
-  - id: "SRC-0038"
-    role: "primary"
-    locator: "Ch. 12"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/Growth Is Not a Strategy - When
-      Expansion Destroys Value
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Focus
-      - Winning a Segment by Coordinating Policy Around It
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy
-      as Design - Coordinating Actions Under Constraint
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
-      MOAT Framework - Choose Freemium, Free Trial, or Demo
+  - topic/moat
+  - topic/strategy
+  - topic/value-creation
+  - topic/decision-making
+  - person/richard-rumelt
+  - source/good-strategy-bad-strategy
+status: draft
+updated: 2026-07-18
 ---
 
 # Competitive Advantage - Why Owning One Isn't Enough
@@ -78,12 +54,10 @@ Before pulling any lever, first ask the silver-machine test: is there anything *
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/Growth Is Not a Strategy - When Expansion Destroys Value|Growth Is Not a Strategy - When Expansion Destroys Value]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Focus - Winning a Segment by Coordinating Policy Around It|Focus - Winning a Segment by Coordinating Policy Around It]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy as Design - Coordinating Actions Under Constraint|Strategy as Design - Coordinating Actions Under Constraint]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The MOAT Framework - Choose Freemium, Free Trial, or Demo|The MOAT Framework - Choose Freemium, Free Trial, or Demo]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 12

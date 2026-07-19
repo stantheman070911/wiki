@@ -1,12 +1,7 @@
 ---
-title: "Frameworks and Mental Models"
-title_zh: "框架與心智模型"
-type: "domain-index"
-domain: "frameworks-and-mental-models"
-lang: "en"
-updated: "2026-07-19"
-status: "evergreen"
-owner: "stanley-lu"
+title: Frameworks and Mental Models
+title_zh: 框架與心智模型
+lang: en
 ---
 
 # Frameworks and Mental Models
@@ -28,7 +23,6 @@ Belongs here: reusable decision tools and cross-domain thinking models. Does not
 - [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity Map]]
 - [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing Map]]
 - [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence Map]]
-- [[Architecture Schema#Folder axes and placement|Placement boundaries for overlapping framework and operating topics]]
 
 ## Curated map
 
@@ -38,7 +32,6 @@ Belongs here: reusable decision tools and cross-domain thinking models. Does not
 - **Related playbook:** [[Focus as Elimination - The Deep-Work Playbook]]
 - **Brand-perception path:** [[Psychological Moonshots - Improve Perception Before Reality]]
 - **Major series:** none currently; clusters are topical maps, not ordered series.
-- **Complete static inventory:** [[Portable Index|Portable Index — Frameworks and Mental Models]]
 
 ## Index
 
@@ -59,21 +52,19 @@ Inventory ownership: [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/
 ### Brand & Positioning
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "04-Frameworks-and-Mental-Models/Brand-and-Positioning"
-WHERE type = "framework"
-AND contains(list("draft", "reviewed", "evergreen"), status)
-SORT date_added DESC
+WHERE status
+SORT file.name ASC
 ```
 
 ### Strategy & Competitive Advantage
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage"
-WHERE type = "framework"
-AND contains(list("draft", "reviewed", "evergreen"), status)
-SORT date_added DESC
+WHERE status
+SORT file.name ASC
 ```
 
 ### Focus Execution & Systems

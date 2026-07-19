@@ -1,46 +1,13 @@
 ---
-title: "The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions
-  Around Money"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/mindset, topic/identity, topic/decision-making, person/t-harv-eker ]
-sources:
-  - id: "SRC-0018"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and
-      the Blame-Power Law
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Admire vs. Resent
-      the Rich - Bless That Which You Want
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Committed to Rich
-      vs. Wanting to Be Rich - The Three Levels of Wanting
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Constantly Learn
-      and Grow vs. Think They Already Know - BE, DO, HAVE
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Excellent Receivers
-      vs. Poor Receivers - Worthiness Is a Story You Tell Yourself
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/I Create My Life
-      vs. Life Happens to Me - Escaping the Victim Triangle
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money
-      Well - The Habit Matters More Than the Amount
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs.
-      Playing Not to Lose
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think 'Both' vs.
-      Think 'Either-Or' - Abundance Over Scarcity
+title: The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money
+lang: en
+tags:
+  - topic/mindset
+  - topic/identity
+  - topic/decision-making
+  - person/t-harv-eker
+status: draft
+updated: 2026-07-13
 ---
 
 # The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money
@@ -85,7 +52,6 @@ Eker frames wealth as having both an "outer game" (business knowledge, investing
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and the Blame-Power Law|Accountability and the Blame-Power Law]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Admire vs. Resent the Rich - Bless That Which You Want|Admire vs. Resent the Rich - Bless That Which You Want]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting|Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting]]
@@ -97,5 +63,4 @@ Eker frames wealth as having both an "outer game" (business knowledge, investing
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think 'Both' vs. Think 'Either-Or' - Abundance Over Scarcity|Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

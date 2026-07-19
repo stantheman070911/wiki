@@ -1,44 +1,13 @@
 ---
-title: "Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle
+lang: en
 tags:
-  [
-    topic/mindset,
-    topic/personal-brand,
-    topic/self-belief,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0054"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
-      Create - Engineering Proof at Scale
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
-      Confidence
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin
-      Story - Heroes Use Pain
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/No One's Opinion
-      Pays Your Bills - Immunity to Critics
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
-      - The Zero-Follower Consistency Engine
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
-      Proficiency, Pain Tolerance, and Frustration Tolerance
+  - topic/mindset
+  - topic/personal-brand
+  - topic/self-belief
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle
@@ -75,7 +44,6 @@ Everyone's first content, first ad, first product is embarrassing. Hormozi shows
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain|Hardship as Origin Story - Heroes Use Pain]]
@@ -85,5 +53,4 @@ Everyone's first content, first ad, first product is embarrassing. Hormozi shows
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Podcasts/2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000|How to Make Your First $100,000]]

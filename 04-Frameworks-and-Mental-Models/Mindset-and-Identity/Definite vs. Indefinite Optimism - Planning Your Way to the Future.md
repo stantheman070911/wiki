@@ -1,42 +1,13 @@
 ---
-title: "Definite vs. Indefinite Optimism - Planning Your Way to the Future"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Definite vs. Indefinite Optimism - Planning Your Way to the Future
+lang: en
 tags:
-  [
-    topic/mindset,
-    topic/decision-making,
-    topic/mental-models,
-    person/peter-thiel
-  ]
-sources:
-  - id: "SRC-0014"
-    role: "primary"
-    locator: "ch. 6"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How
-      to Find What Everyone Else Has Missed
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Contrarian
-      Question and Zero to One - Vertical vs. Horizontal Progress
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law
-      of Venture Capital and Careers
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
-      - Who-Not-How and Planning Backward From the Goal
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passionate
-      Visionary Scientist - A Three-Part Founder Mindset
+  - topic/mindset
+  - topic/decision-making
+  - topic/mental-models
+  - person/peter-thiel
+status: reviewed
+updated: 2026-07-13
 ---
 
 # Definite vs. Indefinite Optimism - Planning Your Way to the Future
@@ -78,7 +49,6 @@ when you (or a company, or a country) explain a plan, does it name a specific de
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How to Find What Everyone Else Has Missed|Secrets - How to Find What Everyone Else Has Missed]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress|The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law of Venture Capital and Careers|The Power Law of Venture Capital and Careers]]
@@ -87,5 +57,4 @@ when you (or a company, or a country) explain a plan, does it name a specific de
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passionate Visionary Scientist - A Three-Part Founder Mindset|The Passionate Visionary Scientist - A Three-Part Founder Mindset]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 6

@@ -1,42 +1,15 @@
 ---
-title: "Positioning as Context - Make the Product Obviously Valuable"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Positioning as Context - Make the Product Obviously Valuable
+lang: en
 tags:
-  [
-    topic/positioning,
-    topic/brand,
-    topic/differentiation,
-    topic/marketing,
-    person/april-dunford,
-    source/obviously-awesome
-  ]
-sources:
-  - id: "SRC-0023"
-    role: "primary"
-    locator: "Chapters 1–2"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points
-      - Anchor a New Position to What's Already Believed
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
-      in the Prospect's Mind
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the
-      Prospect Already Gives You - Research-Based Positioning
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning
-      Sequence - Alternatives, Attributes, Value, Customers, and Market
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension
-      Trap - Why One Name Can't Own Two Things
+  - topic/positioning
+  - topic/brand
+  - topic/differentiation
+  - topic/marketing
+  - person/april-dunford
+  - source/obviously-awesome
+status: draft
+updated: 2026-07-18
 ---
 
 # Positioning as Context - Make the Product Obviously Valuable
@@ -80,7 +53,6 @@ Joshua Bell earned only $32.17 while playing world-class violin music beside a W
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points - Anchor a New Position to What's Already Believed|Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the Prospect Already Gives You - Research-Based Positioning|Own What the Prospect Already Gives You - Research-Based Positioning]]
@@ -88,5 +60,4 @@ Joshua Bell earned only $32.17 while playing world-class violin music beside a W
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension Trap - Why One Name Can't Own Two Things|The Line-Extension Trap - Why One Name Can't Own Two Things]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AprilDunford_ObviouslyAwesome_RawTranscript|Obviously Awesome]] — locator: Chapters 1–2

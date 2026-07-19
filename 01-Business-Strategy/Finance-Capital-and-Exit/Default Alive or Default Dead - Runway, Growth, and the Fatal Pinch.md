@@ -1,51 +1,16 @@
 ---
-title: "Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch
+lang: en
 tags:
-  [
-    topic/startups,
-    topic/cash-flow,
-    topic/growth,
-    topic/hiring,
-    topic/frugality,
-    person/paul-graham,
-    source/paul-graham-essays
-  ]
-sources:
-  - id: "SRC-0046"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin -
-      Time Probability, Repeated Exposure, and Survival First
-  - type: has-example
-    target: 05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions
-      Competing as Service Providers
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business
-      - The 50% Hire and Buying Back Time
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k -
-      Defense-Before-Offense Playbook
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle -
-      Recover Time, Capital, and Better Judgment
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Fundraising Is a Process -
-      Momentum, Herd Dynamics, and Survival
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural -
-      Defending Margin Against Organizational Creep
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly
-      Compounding and Market Size
+  - topic/startups
+  - topic/cash-flow
+  - topic/growth
+  - topic/hiring
+  - topic/frugality
+  - person/paul-graham
+  - source/paul-graham-essays
+status: draft
+updated: 2026-07-13
 ---
 
 # Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch
@@ -81,7 +46,6 @@ Airbnb waited four months after YC fundraising to hire its first employee. The f
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin - Time Probability, Repeated Exposure, and Survival First|Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
 - **Has example:** [[05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions Competing as Service Providers|Commercialized Sovereignty - Jurisdictions Competing as Service Providers]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time|You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
@@ -92,5 +56,4 @@ Airbnb waited four months after YC fundraising to hire its first employee. The f
 - **Related:** [[01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly Compounding and Market Size|Startup Equals Growth - Weekly Compounding and Market Size]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

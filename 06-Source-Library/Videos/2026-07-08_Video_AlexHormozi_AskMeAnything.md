@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0065"
-title: "Ask Me Anything"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Alex Hormozi"
-    role: "creator"
-source_type: "video"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-08"
-status: "source"
+title: Ask Me Anything
+author: Alex Hormozi
+lang: en
+archived: 2026-07-08
 ---
 
 # Alex Hormozi Ask Me Anything - Extraction Notes & Entry Map

@@ -1,49 +1,14 @@
 ---
-title: "Monopoly vs. Competition - Why All Happy Companies Are Different"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Monopoly vs. Competition - Why All Happy Companies Are Different
+lang: en
 tags:
-  [
-    topic/monopoly,
-    topic/competition,
-    topic/positioning,
-    topic/differentiation,
-    person/peter-thiel
-  ]
-sources:
-  - id: "SRC-0014"
-    role: "primary"
-    locator: "ch. 4"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market
-      Positioning Styles - Head to Head, Big Fish, or New Game
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How
-      to Find What Everyone Else Has Missed
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Contrarian
-      Question and Zero to One - Vertical vs. Horizontal Progress
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Seven Questions
-      Every Business Must Answer
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product
-      - The Best-Known Wins, Not the Best
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors
-      Down - The $50M Price-Cut Lesson
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Positioning a Company -
-      Stand for a Specific Achievement, Not Diversification
+  - topic/monopoly
+  - topic/competition
+  - topic/positioning
+  - topic/differentiation
+  - person/peter-thiel
+status: reviewed
+updated: 2026-07-13
 ---
 
 # Monopoly vs. Competition - Why All Happy Companies Are Different
@@ -85,7 +50,6 @@ in real rivalries, there's no productive middle ground — either avoid the figh
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market Positioning Styles - Head to Head, Big Fish, or New Game|Three Market Positioning Styles - Head to Head, Big Fish, or New Game]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How to Find What Everyone Else Has Missed|Secrets - How to Find What Everyone Else Has Missed]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress|The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
@@ -96,5 +60,4 @@ in real rivalries, there's no productive middle ground — either avoid the figh
 - **Related:** [[01-Business-Strategy/Positioning-and-Branding/Positioning a Company - Stand for a Specific Achievement, Not Diversification|Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 4

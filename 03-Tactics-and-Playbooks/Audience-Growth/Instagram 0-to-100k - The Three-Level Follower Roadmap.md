@@ -1,39 +1,14 @@
 ---
-title: "Instagram 0-to-100k - The Three-Level Follower Roadmap"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Instagram 0-to-100k - The Three-Level Follower Roadmap
+lang: en
 tags:
-  [
-    topic/instagram,
-    topic/short-form-video,
-    topic/scaling,
-    source/personal-brand-launch,
-    person/ava-jurgens
-  ]
-sources:
-  - id: "SRC-0072"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
-relationships:
-  - type: applies
-    target: 02-Social-Media-Strategy/The Personal-Brand House - Foundation,
-      Interior, Exterior
-  - type: related
-    target: 03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder -
-      Fixing Views, Formats, and Timing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down
-      and the 70-20-10 Rule - Templatizing Viral Outliers
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Seven
-      Factors of a Short - Topic to Editing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音平台戰術與工具箱
+  - topic/instagram
+  - topic/short-form-video
+  - topic/scaling
+  - source/personal-brand-launch
+  - person/ava-jurgens
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Instagram 0-to-100k - The Three-Level Follower Roadmap
@@ -76,7 +51,6 @@ Most accounts die in the first level because 0–1k is the hardest, least-reward
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[02-Social-Media-Strategy/The Personal-Brand House - Foundation, Interior, Exterior|The Personal-Brand House - Foundation, Interior, Exterior]]
 - **Related:** [[03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing|Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers|Double-Down and the 70/20/10 Rule - Templatizing Viral Outliers]]
@@ -84,5 +58,4 @@ Most accounts die in the first level because 0–1k is the hardest, least-reward
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音平台戰術與工具箱|短影音平台戰術與工具箱]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_PersonalBrandLaunch_GrowInstagram2026|Grow Instagram in 2026]]

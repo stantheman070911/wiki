@@ -1,12 +1,7 @@
 ---
-title: "Mindset and Identity Map"
-title_zh: "心態與身份導覽"
-type: "subdomain-index"
-domain: "frameworks-and-mental-models"
-lang: "en"
-updated: "2026-07-19"
-status: "evergreen"
-owner: "stanley-lu"
+title: Mindset and Identity Map
+title_zh: 心態與身份導覽
+lang: en
 ---
 
 # Mindset and Identity Map
@@ -107,9 +102,8 @@ This folder remains flat despite its size because the five clusters overlap heav
 ## Inventory
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Topics", status AS "Status", updated AS "Updated"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "04-Frameworks-and-Mental-Models/Mindset-and-Identity"
-WHERE type = "framework"
-AND contains(list("draft", "reviewed", "evergreen"), status)
+WHERE status
 SORT file.name ASC
 ```

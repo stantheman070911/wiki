@@ -1,44 +1,15 @@
 ---
-title: "備忘錄文化與 A 級人才招募 playbook"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "zh"
+title: 備忘錄文化與 A 級人才招募 playbook
+lang: zh
 tags:
-  [
-    topic/leadership,
-    topic/decision-making,
-    topic/hiring,
-    topic/recruiting,
-    topic/ai,
-    person/sharran-srivatsaa
-  ]
-sources:
-  - id: "SRC-0055"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/決策、風險與人生下注：Branson
-      四步決策、凍結生活方式與 10-10 Forever
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Building a Content Team -
-      Hiring Funnel, Contractors, and Onboarding
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Hire Right, Because the
-      Penalties for Hiring Wrong Are Huge
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
-      Organizations
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/工作習慣與誠實忠告
+  - topic/leadership
+  - topic/decision-making
+  - topic/hiring
+  - topic/recruiting
+  - topic/ai
+  - person/sharran-srivatsaa
+status: reviewed
+updated: 2026-07-13
 ---
 
 # 備忘錄文化與 A 級人才招募 playbook
@@ -102,7 +73,6 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **應用於:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/決策、風險與人生下注：Branson 四步決策、凍結生活方式與 10-10 Forever|決策、風險與人生下注：Branson 四步決策、凍結生活方式與 10-10 Forever]]
 - **應用於:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利|招募、領導與地理紅利]]
 - **相關:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Building a Content Team - Hiring Funnel, Contractors, and Onboarding|Building a Content Team - Hiring Funnel, Contractors, and Onboarding]]
@@ -112,5 +82,4 @@ relationships:
 - **相關:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/工作習慣與誠實忠告|工作習慣與誠實忠告]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Podcasts/2026-07-08_Podcast_AnatomyOfADream_SharranSrivatsaa_10xByDoingLess|Sharran Srivatsaa - 10x by Doing Less]]

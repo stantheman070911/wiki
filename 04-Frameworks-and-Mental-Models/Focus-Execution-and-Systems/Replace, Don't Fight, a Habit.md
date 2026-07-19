@@ -1,39 +1,15 @@
 ---
-title: "Replace, Don't Fight, a Habit"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Replace, Don't Fight, a Habit
+lang: en
 tags:
-  [
-    topic/systems,
-    topic/consistency,
-    topic/mindset,
-    topic/identity,
-    topic/execution,
-    person/steven-bartlett
-  ]
-sources:
-  - id: "SRC-0017"
-    role: "primary"
-    locator: "Law 8"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
-      to Do
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/行為主義、風險定價與環境設計
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and
-      Systems - The Two Psychological Shifts Behind Consistent Revenue
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
-      - The Zero-Follower Consistency Engine
+  - topic/systems
+  - topic/consistency
+  - topic/mindset
+  - topic/identity
+  - topic/execution
+  - person/steven-bartlett
+status: draft
+updated: 2026-07-13
 ---
 
 # Replace, Don't Fight, a Habit
@@ -76,12 +52,10 @@ Bartlett’s father smoked only in his car. Once he recognized the car as the cu
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/行為主義、風險定價與環境設計|行為主義、風險定價與環境設計]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue|Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal - The Zero-Follower Consistency Engine|Process as the Goal - The Zero-Follower Consistency Engine]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 8

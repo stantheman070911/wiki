@@ -1,56 +1,15 @@
 ---
-title: "Own What the Prospect Already Gives You - Research-Based Positioning"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Own What the Prospect Already Gives You - Research-Based Positioning
+lang: en
 tags:
-  [
-    topic/positioning,
-    topic/research,
-    topic/differentiation,
-    person/ries-trout,
-    person/april-dunford,
-    source/obviously-awesome
-  ]
-sources:
-  - id: "SRC-0006"
-    role: "primary"
-    locator: "ch. 19–20"
-  - id: "SRC-0007"
-    role: "supporting"
-  - id: "SRC-0023"
-    role: "supporting"
-    locator: "Chapters 2–10 and 13"
-date_added: "2026-07-13"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
-      Hole in the Mind (Cherchez le Creneau)
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
-      in the Prospect's Mind
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Positioning a Company -
-      Stand for a Specific Achievement, Not Diversification
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing
-      Scale - Sell the Outcome, Not Your Effort
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching -
-      Insight That Leads to Unique Strengths
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as
-      Context - Make the Product Obviously Valuable
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning
-      Sequence - Alternatives, Attributes, Value, Customers, and Market
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market
-      Positioning Styles - Head to Head, Big Fish, or New Game
+  - topic/positioning
+  - topic/research
+  - topic/differentiation
+  - person/ries-trout
+  - person/april-dunford
+  - source/obviously-awesome
+status: draft
+updated: 2026-07-18
 ---
 
 # Own What the Prospect Already Gives You - Research-Based Positioning
@@ -96,7 +55,6 @@ Ries and Trout's Long Island Trust and United Jersey bank case studies show a di
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)|Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Positioning a Company - Stand for a Specific Achievement, Not Diversification|Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
@@ -107,7 +65,6 @@ Ries and Trout's Long Island Trust and United Jersey bank case studies show a di
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market Positioning Styles - Head to Head, Big Fish, or New Game|Three Market Positioning Styles - Head to Head, Big Fish, or New Game]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning_FullText|Positioning - Full Text]] — locator: ch. 19–20
 - **supporting:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning|Positioning]]
 - **supporting:** [[06-Source-Library/Books/2026-07-18_Book_AprilDunford_ObviouslyAwesome_RawTranscript|Obviously Awesome]] — locator: Chapters 2–10 and 13

@@ -1,66 +1,19 @@
 ---
-title: "Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections"
+title: Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections
 aliases:
-  - "Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+  - Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections
+lang: en
 tags:
-  [
-    topic/storytelling,
-    topic/copywriting,
-    topic/advertising,
-    topic/persuasion,
-    topic/narrative,
-    person/sam-parr,
-    person/donald-miller,
-    source/building-a-storybrand
-  ]
-sources:
-  - id: "SRC-0058"
-    role: "primary"
-  - id: "SRC-0029"
-    role: "supporting"
-date_added: "2026-07-10"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-  Creation and Distribution Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7
-      Framework - Customer as Hero, Brand as Guide
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
-      Actually Is - Association, Influence, Direction, Reach
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal
-      Emotion - When We Care, We Share
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation
-      and Commitment - Persuasion's Two Deepest Levers
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable
-      Virality - Build a Trojan Horse People Can't Retell Without You
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
-      Create - Engineering Proof at Scale
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
-      Clever - Write Below Third Grade and Meet the Avatar
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting
-      Fundamentals - AIDA, the Headline, and the Slippery Slope
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
-      Proof, Path - Engineering the Video Intro
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Commercial
-      Teaching Conversation - From Warmer to Your Solution
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand
-      Conversion Path - Problem, Plan, and Calls to Action
+  - topic/storytelling
+  - topic/copywriting
+  - topic/advertising
+  - topic/persuasion
+  - topic/narrative
+  - person/sam-parr
+  - person/donald-miller
+  - source/building-a-storybrand
+status: draft
+updated: 2026-07-18
 ---
 
 # Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections
@@ -108,7 +61,6 @@ The product is revealed *late* (Trojan horse), after desire and belief are built
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide|The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal Emotion - When We Care, We Share|High-Arousal Emotion - When We Care, We Share]]
@@ -122,6 +74,5 @@ The product is revealed *late* (Trojan horse), after desire and belief are built
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand Conversion Path - Problem, Plan, and Calls to Action|The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Podcasts/2026-07-10_Podcast_SamParr_The2BillionCopywritingSecret|The $2 Billion Copywriting Secret Behind The Most Successful Ad Ever — w/ Sam Parr (Sweat Equity)]]
 - **supporting:** [[06-Source-Library/Books/2026-07-18_Book_DonaldMiller_BuildingAStoryBrand20_RawTranscript|Building a StoryBrand 2.0]]

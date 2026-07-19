@@ -1,39 +1,17 @@
 ---
-title: "連鎖經營學 · Module 5：商圈開發與市場行銷"
+title: 連鎖經營學 · Module 5：商圈開發與市場行銷
 aliases:
-  - "連鎖經營學 · Module 5：商圈開發與市場行銷"
-type: "series-entry"
-domain: "business-strategy"
-series: "連鎖經營學"
-lang: "zh"
+  - 連鎖經營學 · Module 5：商圈開發與市場行銷
+lang: zh
 tags:
-  [
-    topic/chain-store,
-    topic/operations,
-    topic/business-model,
-    topic/growth,
-    person/chen-tsung-hsien
-  ]
-sources:
-  - id: "SRC-0044"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
-relationships:
-  - type: derives-from
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-6-物流與供應鏈周轉
-  - type: prerequisite
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-4-商品規劃與獲利結構
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a
-      Force Multiplier
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/TikTok Shop與飽和市場的白地策略
+  - topic/chain-store
+  - topic/operations
+  - topic/business-model
+  - topic/growth
+  - person/chen-tsung-hsien
+status: reviewed
+updated: 2026-07-08
+series: 連鎖經營學
 ---
 
 # 連鎖經營學 · Module 5：商圈開發與市場行銷
@@ -100,7 +78,6 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **衍生自:** [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
 - **是其前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-6-物流與供應鏈周轉|連鎖經營學 · Module 6：物流管理與供應鏈周轉]]
 - **前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-4-商品規劃與獲利結構|連鎖經營學 · Module 4：商品規劃與獲利結構]]
@@ -108,5 +85,4 @@ relationships:
 - **相關:** [[01-Business-Strategy/Growth-and-Scaling/TikTok Shop與飽和市場的白地策略|TikTok Shop與飽和市場的白地策略]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]

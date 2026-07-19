@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0041"
-title: "創業解惑社QA整理"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "阿金"
-    role: "creator"
-source_type: "conversation"
-source_format: "source-note"
-source_lang: "zh"
-note_lang: "zh"
-processing_status: "processed"
-date_archived: "2026-07-08"
-status: "source"
+title: 創業解惑社QA整理
+author: 阿金
+lang: zh
+archived: 2026-07-08
 ---
 
 # 創業解惑社 Q&A 整理

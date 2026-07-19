@@ -1,61 +1,15 @@
 ---
-title: "少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門"
-type: "strategy"
-domain: "business-strategy"
-lang: "zh"
+title: 少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門
+lang: zh
 tags:
-  [
-    topic/scaling,
-    topic/simplicity,
-    topic/theory-of-constraints,
-    topic/funnel,
-    topic/positioning,
-    person/sharran-srivatsaa
-  ]
-sources:
-  - id: "SRC-0055"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
-      Supply
-  - type: has-derivative
-    target: 07-Articles/Fix the Bottleneck, Not Everything
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm -
-      Musk's Five-Step Process Method
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
-      Automation - Manual Onboarding to Fix Churn
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The
-      Complete Six-Step Roadmap
-  - type: related
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/選擇權與退出心態：Soft-Shop、三種成長路徑與
-      Phantom Equity
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/The TAM Illusion
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/業績公式與商業定位：從流量思維到變現路徑
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
-      Traffic Before the Core Offer
-  - type: related
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-1-連鎖本質與3S原則
-  - type: related
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
-  - type: related
-    target: 02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產
+  - topic/scaling
+  - topic/simplicity
+  - topic/theory-of-constraints
+  - topic/funnel
+  - topic/positioning
+  - person/sharran-srivatsaa
+status: reviewed
+updated: 2026-07-13
 ---
 
 # 少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門
@@ -124,7 +78,6 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **應用於:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
 - **應用於:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
 - **具有衍生成果:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
@@ -141,5 +94,4 @@ relationships:
 - **相關:** [[02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產|電子郵件名單：最被低估的自有高意圖資產]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Podcasts/2026-07-08_Podcast_AnatomyOfADream_SharranSrivatsaa_10xByDoingLess|Sharran Srivatsaa - 10x by Doing Less]]

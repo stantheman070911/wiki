@@ -1,43 +1,15 @@
 ---
-title: "Hire Right, Because the Penalties for Hiring Wrong Are Huge"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Hire Right, Because the Penalties for Hiring Wrong Are Huge
+lang: en
 tags:
-  [
-    topic/hiring,
-    topic/recruiting,
-    topic/compensation,
-    topic/org-design,
-    person/ray-dalio,
-    source/bridgewater-associates
-  ]
-sources:
-  - id: "SRC-0015"
-    role: "primary"
-    locator: "Ch. 8"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That
-      People Are Wired Very Differently
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test,
-      Evaluate, and Sort People
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More
-      Important Than the WHAT
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design
-      Jobs Around Exceptional Contribution
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/備忘錄文化與 A 級人才招募 playbook
+  - topic/hiring
+  - topic/recruiting
+  - topic/compensation
+  - topic/org-design
+  - person/ray-dalio
+  - source/bridgewater-associates
+status: draft
+updated: 2026-07-13
 ---
 
 # Hire Right, Because the Penalties for Hiring Wrong Are Huge
@@ -74,7 +46,6 @@ Eighth chapter of Work Principles, the first of the two "people" chapters that f
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That People Are Wired Very Differently|Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People|Constantly Train, Test, Evaluate, and Sort People]]
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing|Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
@@ -83,5 +54,4 @@ Eighth chapter of Work Principles, the first of the two "people" chapters that f
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/備忘錄文化與 A 級人才招募 playbook|備忘錄文化與 A 級人才招募 playbook]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 8

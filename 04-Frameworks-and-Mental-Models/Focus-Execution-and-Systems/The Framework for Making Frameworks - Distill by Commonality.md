@@ -1,61 +1,11 @@
 ---
-title: "The Framework for Making Frameworks - Distill by Commonality"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/mental-models, person/alex-hormozi ]
-sources:
-  - id: "SRC-0066"
-    role: "primary"
-  - id: "SRC-0042"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Steal the Format, Not the Idea
-  - type: is-applied-by
-    target: 02-Social-Media-Strategy/對標方法論與靈感池系統
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-      Planner and the Analyze-Double-Down Loop
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
-      Proof, Path - Engineering the Video Intro
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content
-      Repository - Four Topic Buckets and Tweet-First Capture
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a
-      Discovery Tool - Useful, Simple, and Rewritten
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Customer-Base
-      Test Kitchen - Distributed R&D Before Rollout
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
-      Business - Train Like an Employee and the Department Playbook
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
-      Automation - Manual Onboarding to Fix Churn
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Engineering a Grand
-      Slam Offer - Problems, Solutions, Trim and Stack
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
-      Intellectual Property - Process Above the Player
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles
-      Thinking - Reason from Physics, Not Analogy
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Soft Skills
-      Are Observable Behavior Chains
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
-      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
+title: The Framework for Making Frameworks - Distill by Commonality
+lang: en
+tags:
+  - topic/mental-models
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # The Framework for Making Frameworks - Distill by Commonality
@@ -97,7 +47,6 @@ Hormozi is known for framework-ing everything; asked for his method, he gives a 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Steal the Format, Not the Idea|Steal the Format, Not the Idea]]
 - **Is applied by:** [[02-Social-Media-Strategy/對標方法論與靈感池系統|對標方法論與靈感池系統]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Planner and the Analyze-Double-Down Loop|Content Planner and the Analyze-Double-Down Loop]]
@@ -114,6 +63,5 @@ Hormozi is known for framework-ing everything; asked for his method, he gives a 
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)|The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode|Building a Brand - Easy Mode]]
 - **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

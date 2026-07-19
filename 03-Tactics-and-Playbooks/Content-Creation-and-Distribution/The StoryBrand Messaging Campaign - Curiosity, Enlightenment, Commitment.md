@@ -1,44 +1,16 @@
 ---
-title: "The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment
+lang: en
 tags:
-  [
-    topic/messaging,
-    topic/marketing,
-    topic/copywriting,
-    topic/email-marketing,
-    topic/referrals,
-    person/donald-miller,
-    source/building-a-storybrand
-  ]
-sources:
-  - id: "SRC-0029"
-    role: "primary"
-    locator: "chapters 12–15"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-  Creation and Distribution Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7
-      Framework - Customer as Hero, Brand as Guide
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
-      Create - Engineering Proof at Scale
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
-      Clever - Write Below Third Grade and Meet the Avatar
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall
-      Distribution Method - One Pillar, a Week of Content
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand
-      Conversion Path - Problem, Plan, and Calls to Action
+  - topic/messaging
+  - topic/marketing
+  - topic/copywriting
+  - topic/email-marketing
+  - topic/referrals
+  - person/donald-miller
+  - source/building-a-storybrand
+status: draft
+updated: 2026-07-18
 ---
 
 # The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment
@@ -83,7 +55,6 @@ StoryBrand’s “5 Things Your Website Should Include” guide generated tens o
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide|The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
@@ -91,5 +62,4 @@ StoryBrand’s “5 Things Your Website Should Include” guide generated tens o
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand Conversion Path - Problem, Plan, and Calls to Action|The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_DonaldMiller_BuildingAStoryBrand20_RawTranscript|Building a StoryBrand 2.0]] — locator: chapters 12–15

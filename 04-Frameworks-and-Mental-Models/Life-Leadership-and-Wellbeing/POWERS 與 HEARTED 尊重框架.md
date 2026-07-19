@@ -1,35 +1,14 @@
 ---
-title: "POWERS 與 HEARTED 尊重框架"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "zh"
+title: POWERS 與 HEARTED 尊重框架
+lang: zh
 tags:
-  [
-    topic/leadership,
-    topic/management,
-    topic/mental-models,
-    person/alex-hormozi,
-    source/modern-wisdom
-  ]
-sources:
-  - id: "SRC-0049"
-    role: "primary"
-date_added: "2026-07-01"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-  Leadership and Wellbeing Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
-      Organizations
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/行為主義、風險定價與環境設計
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/孤獨、簡單勝過輕鬆與犧牲平庸
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利
+  - topic/leadership
+  - topic/management
+  - topic/mental-models
+  - person/alex-hormozi
+  - source/modern-wisdom
+status: reviewed
+updated: 2026-07-13
 ---
 
 # POWERS 與 HEARTED 尊重框架
@@ -89,12 +68,10 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **由其應用:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
 - **相關:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/行為主義、風險定價與環境設計|行為主義、風險定價與環境設計]]
 - **相關:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/孤獨、簡單勝過輕鬆與犧牲平庸|孤獨、簡單勝過輕鬆與犧牲平庸]]
 - **相關:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利|招募、領導與地理紅利]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Podcasts/2026-07-01_Podcast_ModernWisdom_AlexHormozi|Alex Hormozi on Modern Wisdom with Chris Williamson]]

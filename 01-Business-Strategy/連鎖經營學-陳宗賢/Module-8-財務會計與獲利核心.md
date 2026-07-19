@@ -1,40 +1,17 @@
 ---
-title: "連鎖經營學 · Module 8：財務會計與獲利核心"
+title: 連鎖經營學 · Module 8：財務會計與獲利核心
 aliases:
-  - "連鎖經營學 · Module 8：財務會計與獲利核心"
-type: "series-entry"
-domain: "business-strategy"
-series: "連鎖經營學"
-lang: "zh"
+  - 連鎖經營學 · Module 8：財務會計與獲利核心
+lang: zh
 tags:
-  [
-    topic/chain-store,
-    topic/unit-economics,
-    topic/cash-flow,
-    topic/franchise,
-    person/chen-tsung-hsien
-  ]
-sources:
-  - id: "SRC-0044"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
-relationships:
-  - type: derives-from
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
-  - type: prerequisite
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-4-商品規劃與獲利結構
-  - type: prerequisite
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-7-招商加盟與組織人才
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
-      Return on Time, and Money Rules
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
-      Alignment
+  - topic/chain-store
+  - topic/unit-economics
+  - topic/cash-flow
+  - topic/franchise
+  - person/chen-tsung-hsien
+status: reviewed
+updated: 2026-07-08
+series: 連鎖經營學
 ---
 
 # 連鎖經營學 · Module 8：財務會計與獲利核心
@@ -104,7 +81,6 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **衍生自:** [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
 - **前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-4-商品規劃與獲利結構|連鎖經營學 · Module 4：商品規劃與獲利結構]]
 - **前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-7-招商加盟與組織人才|連鎖經營學 · Module 7：招商加盟與組織人才]]
@@ -112,5 +88,4 @@ relationships:
 - **相關:** [[01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle Alignment|Billing-Cycle vs Value-Cycle Alignment]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]

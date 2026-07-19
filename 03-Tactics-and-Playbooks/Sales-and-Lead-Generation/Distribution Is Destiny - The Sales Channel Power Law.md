@@ -1,61 +1,19 @@
 ---
-title: "Distribution Is Destiny - The Sales Channel Power Law"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Distribution Is Destiny - The Sales Channel Power Law
+lang: en
 tags:
-  [
-    topic/distribution,
-    topic/channel-strategy,
-    topic/sales,
-    topic/cac,
-    topic/ltv,
-    topic/power-law,
-    person/peter-thiel,
-    person/gabriel-weinberg,
-    person/justin-mares,
-    source/traction
-  ]
-sources:
-  - id: "SRC-0014"
-    role: "primary"
-    locator: "ch. 11"
-  - id: "SRC-0031"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-18"
-reviewed_on: "2026-07-18"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Seven Questions
-      Every Business Must Answer
-  - type: applies
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
-      Period - The Three Numbers That Decide If You Win
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law
-      of Venture Capital and Careers
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bullseye
-      - Test All Channels, Then Focus on One
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
-      50 Percent Rule - Build Product and Traction in Parallel
-  - type: is-applied-by
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bullseye
-      - Test All Channels, Then Focus on One
-  - type: is-applied-by
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
-      50 Percent Rule - Build Product and Traction in Parallel
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/The Mechanics of Mafia -
-      Cult-Like Culture and the Recruiting Pitch
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
-      Rule of 100 - Lead Generation Fundamentals
+  - topic/distribution
+  - topic/channel-strategy
+  - topic/sales
+  - topic/cac
+  - topic/ltv
+  - topic/power-law
+  - person/peter-thiel
+  - person/gabriel-weinberg
+  - person/justin-mares
+  - source/traction
+status: reviewed
+updated: 2026-07-18
 ---
 
 # Distribution Is Destiny - The Sales Channel Power Law
@@ -95,7 +53,6 @@ plot your price point against the CLV/CAC math to identify which of the five reg
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Seven Questions Every Business Must Answer|The Seven Questions Every Business Must Answer]]
 - **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law of Venture Capital and Careers|The Power Law of Venture Capital and Careers]]
@@ -107,6 +64,5 @@ plot your price point against the CLV/CAC math to identify which of the five reg
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 11
 - **supporting:** [[06-Source-Library/Books/2026-07-18_Book_GabrielWeinbergJustinMares_Traction_RawTranscript|Traction]]

@@ -1,54 +1,20 @@
 ---
-title: "Trust as Infrastructure - Reputation, Verification, and Exclusion in
-  Decentralized Markets"
+title: Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets
 aliases:
-  - "Trust as Infrastructure - Reputation, Verification, and Exclusion in
-    Decentralized Markets"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+  - Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets
+lang: en
 tags:
-  [
-    topic/trust,
-    topic/reputation,
-    topic/systems,
-    topic/incentives,
-    topic/risk,
-    topic/operations,
-    person/james-dale-davidson,
-    person/william-rees-mogg,
-    source/the-sovereign-individual
-  ]
-sources:
-  - id: "SRC-0009"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Trust Should Have a Credit Limit
-  - type: is-applied-by
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
-      Selling Through Trusted Referrers
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous
-      Conversations, Feedback, and Recognition
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
-      Intellectual Property - Process Above the Player
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the
-      Game - Aligning Upside, Downside, and Accountability
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in
-      Radical Truth and Radical Transparency
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and
-      Tension - Move People Without Coercion
+  - topic/trust
+  - topic/reputation
+  - topic/systems
+  - topic/incentives
+  - topic/risk
+  - topic/operations
+  - person/james-dale-davidson
+  - person/william-rees-mogg
+  - source/the-sovereign-individual
+status: draft
+updated: 2026-07-13
 ---
 
 # Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets
@@ -93,7 +59,6 @@ Medieval trade fairs used officials who notarized contracts, seized goods from d
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Trust Should Have a Credit Limit|Trust Should Have a Credit Limit]]
 - **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous Conversations, Feedback, and Recognition|CFRs - Continuous Conversations, Feedback, and Recognition]]
@@ -103,5 +68,4 @@ Medieval trade fairs used officials who notarized contracts, seized goods from d
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and Tension - Move People Without Coercion|Trust and Tension - Move People Without Coercion]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript|The Sovereign Individual - Raw Transcript]]

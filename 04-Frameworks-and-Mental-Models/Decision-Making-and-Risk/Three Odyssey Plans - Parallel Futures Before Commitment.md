@@ -1,49 +1,16 @@
 ---
-title: "Three Odyssey Plans - Parallel Futures Before Commitment"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Three Odyssey Plans - Parallel Futures Before Commitment
+lang: en
 tags:
-  [
-    topic/decision-making,
-    topic/career,
-    topic/optionality,
-    topic/creativity,
-    person/bill-burnett,
-    person/dave-evans,
-    source/designing-your-life
-  ]
-sources:
-  - id: "SRC-0025"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You
-      Pivot - Life Design Interviews and Experiences
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well -
-      Narrow, Decide, Let Go, and Move On
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions
-      - Formation Beyond Problem Solving
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reframe Gravity
-      Problems into Actionable Problems
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-      Design Compass - Workview, Lifeview, and Coherency
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Wayfinding
-      with Energy and Engagement
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
-      Proficiency, Pain Tolerance, and Frustration Tolerance
+  - topic/decision-making
+  - topic/career
+  - topic/optionality
+  - topic/creativity
+  - person/bill-burnett
+  - person/dave-evans
+  - source/designing-your-life
+status: draft
+updated: 2026-07-18
 ---
 
 # Three Odyssey Plans - Parallel Futures Before Commitment
@@ -84,7 +51,6 @@ Clara's justice-oriented future did not arrive as a single leap. A mediation cla
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You Pivot - Life Design Interviews and Experiences|Prototype Before You Pivot - Life Design Interviews and Experiences]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well - Narrow, Decide, Let Go, and Move On|Choosing Well - Narrow, Decide, Let Go, and Move On]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions - Formation Beyond Problem Solving|Focus Questions - Formation Beyond Problem Solving]]
@@ -94,5 +60,4 @@ Clara's justice-oriented future did not arrive as a single leap. A mediation cla
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript|Designing Your Life - Raw Transcript]]

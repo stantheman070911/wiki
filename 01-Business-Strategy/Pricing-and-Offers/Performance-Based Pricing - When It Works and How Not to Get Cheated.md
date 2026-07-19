@@ -1,46 +1,15 @@
 ---
-title: "Performance-Based Pricing - When It Works and How Not to Get Cheated"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Performance-Based Pricing - When It Works and How Not to Get Cheated
+lang: en
 tags:
-  [
-    topic/pricing,
-    topic/incentives,
-    topic/enterprise,
-    topic/business-model,
-    topic/risk,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal -
-      The Guarantee Toolkit
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
-      Sell the Goal, Scope the Journey, Secure Prepayment
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of
-      Service Businesses
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/全代操短影音代理商商業模式
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
-      Return on Time, and Money Rules
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem
-      - Sell Consumable Inputs, Not the Black Box
+  - topic/pricing
+  - topic/incentives
+  - topic/enterprise
+  - topic/business-model
+  - topic/risk
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Performance-Based Pricing - When It Works and How Not to Get Cheated
@@ -85,7 +54,6 @@ A high-volume cold-email agency ($2.2M) wanted to switch to performance at scale
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal - The Guarantee Toolkit|Risk Reversal - The Guarantee Toolkit]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of Service Businesses|The Virtuous Cycle of Service Businesses]]
@@ -95,5 +63,4 @@ A high-volume cold-email agency ($2.2M) wanted to switch to performance at scale
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box|The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

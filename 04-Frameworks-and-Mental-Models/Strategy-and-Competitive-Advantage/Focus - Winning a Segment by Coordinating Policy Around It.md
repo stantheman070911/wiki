@@ -1,39 +1,15 @@
 ---
-title: "Focus - Winning a Segment by Coordinating Policy Around It"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Focus - Winning a Segment by Coordinating Policy Around It
+lang: en
 tags:
-  [
-    topic/focus,
-    topic/strategy,
-    topic/niche,
-    topic/positioning,
-    person/richard-rumelt,
-    source/good-strategy-bad-strategy
-  ]
-sources:
-  - id: "SRC-0038"
-    role: "primary"
-    locator: "Ch. 10"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/Growth Is Not a Strategy - When
-      Expansion Destroys Value
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Competitive
-      Advantage - Why Owning One Isn't Enough
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategic
-      Leverage - Anticipation, Pivot Points, Concentration
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
-      Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action
+  - topic/focus
+  - topic/strategy
+  - topic/niche
+  - topic/positioning
+  - person/richard-rumelt
+  - source/good-strategy-bad-strategy
+status: draft
+updated: 2026-07-18
 ---
 
 # Focus - Winning a Segment by Coordinating Policy Around It
@@ -73,12 +49,10 @@ Rumelt's extended Crown Cork & Seal case study shows that a company's real strat
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/Growth Is Not a Strategy - When Expansion Destroys Value|Growth Is Not a Strategy - When Expansion Destroys Value]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Competitive Advantage - Why Owning One Isn't Enough|Competitive Advantage - Why Owning One Isn't Enough]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategic Leverage - Anticipation, Pivot Points, Concentration|Strategic Leverage - Anticipation, Pivot Points, Concentration]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 10

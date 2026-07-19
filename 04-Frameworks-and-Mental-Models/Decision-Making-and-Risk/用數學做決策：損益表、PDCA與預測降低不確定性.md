@@ -1,41 +1,13 @@
 ---
-title: "用數學做決策：損益表、PDCA與預測降低不確定性"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "zh"
+title: 用數學做決策：損益表、PDCA與預測降低不確定性
+lang: zh
 tags:
-  [
-    topic/decision-making,
-    topic/unit-economics,
-    source/kim-startup-qa,
-    person/kim
-  ]
-sources:
-  - id: "SRC-0041"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "evergreen"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/商業四大需求層次：救命、治病、養生、建體
-  - type: is-applied-by
-    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
-      Alignment
-  - type: is-applied-by
-    target: 01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing
-      Offers to Fund Growth
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to
-      Make Decisions Effectively - Expected Value, Levels, and Algorithms
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
+  - topic/decision-making
+  - topic/unit-economics
+  - source/kim-startup-qa
+  - person/kim
+status: reviewed
+updated: 2026-07-08
 ---
 
 # 用數學做決策：損益表、PDCA與預測降低不確定性
@@ -94,7 +66,6 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **由其應用:** [[01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架|人群場景痛點解決方案：客戶洞察與需求驗證框架]]
 - **由其應用:** [[01-Business-Strategy/Business-Models-and-Customers/商業四大需求層次：救命、治病、養生、建體|商業四大需求層次：救命、治病、養生、建體]]
 - **由其應用:** [[01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle Alignment|Billing-Cycle vs Value-Cycle Alignment]]
@@ -103,5 +74,4 @@ relationships:
 - **相關:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Conversations/2026-07-08_Conversation_阿金_創業解惑社QA整理|創業解惑社QA整理]]

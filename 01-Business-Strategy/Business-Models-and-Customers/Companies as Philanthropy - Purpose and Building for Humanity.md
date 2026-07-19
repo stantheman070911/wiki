@@ -1,41 +1,12 @@
 ---
-title: "Companies as Philanthropy - Purpose and Building for Humanity"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
-tags: [ topic/mission, topic/value-creation, person/elon-musk ]
-sources:
-  - id: "SRC-0004"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
-  and Customers Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/商業是連結與解決問題的方式：賺錢是驗證訊號而非目的
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin
-      Story - Heroes Use Pain
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
-      Proficiency, Pain Tolerance, and Frustration Tolerance
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
-      Return on Time, and Money Rules
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation -
-      Measurement, Leverage, and Compressed Work
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/財富公式：專屬知識、槓桿與判斷力
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
-      Manufacturing as the Moat
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Preserve the Core,
-      Stimulate Progress - Build an Institution That Can Evolve
+title: Companies as Philanthropy - Purpose and Building for Humanity
+lang: en
+tags:
+  - topic/mission
+  - topic/value-creation
+  - person/elon-musk
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Companies as Philanthropy - Purpose and Building for Humanity
@@ -72,7 +43,6 @@ Asked why he doesn't "put his name on a hospital wing," Musk reframes company-bu
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/商業是連結與解決問題的方式：賺錢是驗證訊號而非目的|商業是連結與解決問題的方式：賺錢是驗證訊號而非目的]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain|Hardship as Origin Story - Heroes Use Pain]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
@@ -83,5 +53,4 @@ Asked why he doesn't "put his name on a hospital wing," Musk reframes company-bu
 - **Related:** [[01-Business-Strategy/Positioning-and-Branding/Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve|Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_EricJorgenson_TheBookOfElon|The Book Of Elon]]

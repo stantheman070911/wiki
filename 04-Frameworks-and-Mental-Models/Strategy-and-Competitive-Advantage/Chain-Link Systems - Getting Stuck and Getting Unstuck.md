@@ -1,36 +1,15 @@
 ---
-title: "Chain-Link Systems - Getting Stuck and Getting Unstuck"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Chain-Link Systems - Getting Stuck and Getting Unstuck
+lang: en
 tags:
-  [
-    topic/strategy,
-    topic/systems,
-    topic/theory-of-constraints,
-    topic/decision-making,
-    person/richard-rumelt,
-    source/good-strategy-bad-strategy
-  ]
-sources:
-  - id: "SRC-0038"
-    role: "primary"
-    locator: "Ch. 8"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Inertia
-      and Entropy - Three Kinds of Organizational Stuckness
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy
-      as Design - Coordinating Actions Under Constraint
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
-      Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action
+  - topic/strategy
+  - topic/systems
+  - topic/theory-of-constraints
+  - topic/decision-making
+  - person/richard-rumelt
+  - source/good-strategy-bad-strategy
+status: draft
+updated: 2026-07-18
 ---
 
 # Chain-Link Systems - Getting Stuck and Getting Unstuck
@@ -71,11 +50,9 @@ Diagnostic test for "stuck": has incremental, one-link-at-a-time investment fail
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Inertia and Entropy - Three Kinds of Organizational Stuckness|Inertia and Entropy - Three Kinds of Organizational Stuckness]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy as Design - Coordinating Actions Under Constraint|Strategy as Design - Coordinating Actions Under Constraint]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 8

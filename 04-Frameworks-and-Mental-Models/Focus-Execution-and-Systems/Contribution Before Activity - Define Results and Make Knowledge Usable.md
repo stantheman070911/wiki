@@ -1,42 +1,14 @@
 ---
-title: "Contribution Before Activity - Define Results and Make Knowledge Usable"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Contribution Before Activity - Define Results and Make Knowledge Usable
+lang: en
 tags:
-  [
-    topic/management,
-    topic/leadership,
-    topic/productivity,
-    topic/systems,
-    person/peter-drucker
-  ]
-sources:
-  - id: "SRC-0013"
-    role: "primary"
-    locator: "ch. 3"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More
-      Important Than the WHAT
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone
-      Operating a Machine to Achieve a Goal
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reality Filters
-      - Track Records, Costly Signals, and the Green Lumber Fallacy
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Effective Executive - Five Learnable Practices
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and
-      Stay in Sync
+  - topic/management
+  - topic/leadership
+  - topic/productivity
+  - topic/systems
+  - person/peter-drucker
+status: draft
+updated: 2026-07-13
 ---
 
 # Contribution Before Activity - Define Results and Make Knowledge Usable
@@ -83,7 +55,6 @@ Specialized knowledge is incomplete by itself. It becomes productive only when a
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More Important Than the WHAT|Remember That the WHO Is More Important Than the WHAT]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone Operating a Machine to Achieve a Goal|Manage as Someone Operating a Machine to Achieve a Goal]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy|Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]]
@@ -91,5 +62,4 @@ Specialized knowledge is incomplete by itself. It becomes productive only when a
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and Stay in Sync|Get and Stay in Sync]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript|The Effective Executive - Raw Transcript]] — locator: ch. 3

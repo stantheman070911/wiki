@@ -1,54 +1,16 @@
 ---
-title: "The Greener-Pasture Fallacy - Fix the Business You Have Before You Start
-  the Next One"
+title: The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One
 aliases:
-  - "The Greener-Pasture Fallacy - Fix the Business You Have Before You Start
-    the Next One"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+  - The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One
+lang: en
 tags:
-  [
-    topic/focus,
-    topic/diversification,
-    topic/opportunity-cost,
-    person/alex-hormozi,
-    person/sabri-suby
-  ]
-sources:
-  - id: "SRC-0073"
-    role: "primary"
-  - id: "SRC-0074"
-    role: "supporting"
-  - id: "SRC-0084"
-    role: "supporting"
-date_added: "2026-07-09"
-updated: "2026-07-09"
-reviewed_on: "2026-07-09"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Fix the Bottleneck, Not Everything
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept
-      - Three Circles and the Economic Denominator
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom
-      Loop and the One-Brand Bet
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor
-      Dilution Problem - Four Ways to Scale Past Yourself
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
-      Supply
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp -
-      The Messy Middle and the 40-for-2 Management Trade
+  - topic/focus
+  - topic/diversification
+  - topic/opportunity-cost
+  - person/alex-hormozi
+  - person/sabri-suby
+status: reviewed
+updated: 2026-07-09
 ---
 
 # The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One
@@ -97,7 +59,6 @@ Sabri Suby frames the same fallacy as the more common cause of business death: n
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept - Three Circles and the Economic Denominator|The Hedgehog Concept - Three Circles and the Economic Denominator]]
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom Loop and the One-Brand Bet|The Direct-Response Doom Loop and the One-Brand Bet]]
@@ -107,7 +68,6 @@ Sabri Suby frames the same fallacy as the more common cause of business death: n
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp - The Messy Middle and the 40-for-2 Management Trade|The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript|Cash Cow Breakdowns - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]

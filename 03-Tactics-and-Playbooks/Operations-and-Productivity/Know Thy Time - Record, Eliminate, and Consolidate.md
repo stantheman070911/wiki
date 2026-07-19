@@ -1,44 +1,14 @@
 ---
-title: "Know Thy Time - Record, Eliminate, and Consolidate"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Know Thy Time - Record, Eliminate, and Consolidate
+lang: en
 tags:
-  [
-    topic/productivity,
-    topic/focus,
-    topic/operations,
-    topic/prioritization,
-    person/peter-drucker
-  ]
-sources:
-  - id: "SRC-0013"
-    role: "primary"
-    locator: "ch. 2"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
-  Productivity Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Effective Executive - Five Learnable Practices
-  - type: has-derivative
-    target: 07-Articles/Every Possession Comes With a Job
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
-      to Do
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
-      Elimination - The Deep-Work Playbook
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
-      - SOPs, Checklists, and Systematizing the Vital 20%
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect
-      Repeatable Week - Designing a Predictable Business Rhythm
+  - topic/productivity
+  - topic/focus
+  - topic/operations
+  - topic/prioritization
+  - person/peter-drucker
+status: draft
+updated: 2026-07-13
 ---
 
 # Know Thy Time - Record, Eliminate, and Consolidate
@@ -83,7 +53,6 @@ Time is the limiting resource of knowledge work: it cannot be stored, replaced, 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Effective Executive - Five Learnable Practices|The Effective Executive - Five Learnable Practices]]
 - **Has derivative:** [[07-Articles/Every Possession Comes With a Job|Every Possession Comes With a Job]]
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
@@ -92,5 +61,4 @@ Time is the limiting resource of knowledge work: it cannot be stored, replaced, 
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect Repeatable Week - Designing a Predictable Business Rhythm|The Perfect Repeatable Week - Designing a Predictable Business Rhythm]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript|The Effective Executive - Raw Transcript]] — locator: ch. 2

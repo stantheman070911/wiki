@@ -1,51 +1,13 @@
 ---
-title: "Reciprocation and Commitment - Persuasion's Two Deepest Levers"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Reciprocation and Commitment - Persuasion's Two Deepest Levers
+lang: en
 tags:
-  [
-    topic/persuasion,
-    topic/commitment,
-    topic/consistency,
-    person/robert-cialdini
-  ]
-sources:
-  - id: "SRC-0002"
-    role: "primary"
-    locator: "ch. 2–3"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
-  and Influence Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Confidence Is a Receipt, Not a Requirement
-  - type: has-example
-    target: 05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era
-      Moat
-  - type: is-applied-by
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and
-      Monetization - The Give-Content, Ask-Ads Model
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting
-      Fundamentals - AIDA, the Headline, and the Slippery Slope
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
-      - Heros Journey, the Trojan Horse, and Handling Objections
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/身份、故事與致勝三步
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
-      Liking, Authority, and Scarcity - The Four Social Shortcuts
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical
-      Empathy - Labels, Silence, and the Accusation Audit
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of
-      Influence - Click-Whirr, Trigger Features, and the Contrast Principle
+  - topic/persuasion
+  - topic/commitment
+  - topic/consistency
+  - person/robert-cialdini
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Reciprocation and Commitment - Persuasion's Two Deepest Levers
@@ -87,7 +49,6 @@ Cialdini's first two principles are the deepest because they exploit near-univer
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
 - **Has example:** [[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat|The Attention Barbell - Brand as the AI-Era Moat]]
 - **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model|Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
@@ -99,5 +60,4 @@ Cialdini's first two principles are the deepest because they exploit near-univer
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle|Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion|Influence Psychology Of Persuasion]] — locator: ch. 2–3

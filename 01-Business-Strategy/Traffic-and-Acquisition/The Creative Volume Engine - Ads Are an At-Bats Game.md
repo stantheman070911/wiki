@@ -1,63 +1,14 @@
 ---
-title: "The Creative Volume Engine - Ads Are an At-Bats Game"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: The Creative Volume Engine - Ads Are an At-Bats Game
+lang: en
 tags:
-  [
-    topic/paid-ads,
-    topic/creative-volume,
-    topic/cac,
-    topic/marketing,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Increase the
-      Surface Area of Luck
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bullseye
-      - Test All Channels, Then Focus on One
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down
-      and the 70-20-10 Rule - Templatizing Viral Outliers
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hyperdopamine
-      Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
-      Rule of 100 - Lead Generation Fundamentals
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback -
-      Sales as the Training Ground
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem
-      - Sell Consumable Inputs, Not the Black Box
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
-      Traffic Before the Core Offer
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition
-      - Make the Customer Fund the Next Customer
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and
-      Monetization - The Give-Content, Ask-Ads Model
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS
-      - The Percentage Lies
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where
-      the Fewest Go
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/網紅行銷引擎：以CPM反推的分散式機器
+  - topic/paid-ads
+  - topic/creative-volume
+  - topic/cac
+  - topic/marketing
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # The Creative Volume Engine - Ads Are an At-Bats Game
@@ -102,7 +53,6 @@ A fitness-coaching business co-founded with a well-known athlete was spending $1
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Increase the Surface Area of Luck|Increase the Surface Area of Luck]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bullseye - Test All Channels, Then Focus on One|Bullseye - Test All Channels, Then Focus on One]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers|Double-Down and the 70/20/10 Rule - Templatizing Viral Outliers]]
@@ -118,5 +68,4 @@ A fitness-coaching business co-founded with a well-known athlete was spending $1
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/網紅行銷引擎：以CPM反推的分散式機器|網紅行銷引擎：以CPM反推的分散式機器]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

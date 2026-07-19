@@ -1,58 +1,15 @@
 ---
-title: "You Have a Job, Not a Business - The 50% Hire and Buying Back Time"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: You Have a Job, Not a Business - The 50% Hire and Buying Back Time
+lang: en
 tags:
-  [
-    topic/hiring,
-    topic/delegation,
-    topic/scaling,
-    person/sabri-suby,
-    person/michael-gerber,
-    source/e-myth-revisited
-  ]
-sources:
-  - id: "SRC-0084"
-    role: "primary"
-  - id: "SRC-0011"
-    role: "supporting"
-    locator: "chapters 3–6"
-date_added: "2026-07-12"
-updated: "2026-07-12"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Employment
-      Dependence Trade - Reliability, Freedom, and Hidden Hostages
-  - type: applies
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Lifestyle
-      Boutique Operating Model - Team, Product Ecosystem, and Campaigns
-  - type: applies
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default
-      Dead - Runway, Growth, and the Fatal Pinch
-  - type: applies
-    target: 01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion
-  - type: applies
-    target: 01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle -
-      Infancy, Adolescence, and Maturity
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth
-      Owner-Role Triad - Entrepreneur, Manager, and Technician
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80%
-      Mindset - Risk Tolerance and Refusing to Quit
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
-      - Who-Not-How and Planning Backward From the Goal
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
-      Organizations
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
-      - SOPs, Checklists, and Systematizing the Vital 20%
+  - topic/hiring
+  - topic/delegation
+  - topic/scaling
+  - person/sabri-suby
+  - person/michael-gerber
+  - source/e-myth-revisited
+status: draft
+updated: 2026-07-12
 ---
 
 # You Have a Job, Not a Business - The 50% Hire and Buying Back Time
@@ -95,7 +52,6 @@ The most common complaint among owners is "I can't find good people." Because th
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages|The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages]]
 - **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns|The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns]]
 - **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch|Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
@@ -108,6 +64,5 @@ The most common complaint among owners is "I can't find good people." Because th
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%|Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript|The E-Myth Revisited - Raw Transcript]] — locator: chapters 3–6

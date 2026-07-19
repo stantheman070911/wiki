@@ -1,37 +1,14 @@
 ---
-title: "Creative Receptivity - Awareness, Attention, and the Artist's Filter"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Creative Receptivity - Awareness, Attention, and the Artist's Filter
+lang: en
 tags:
-  [
-    topic/creativity,
-    topic/mindset,
-    topic/focus,
-    topic/learning,
-    person/rick-rubin
-  ]
-sources:
-  - id: "SRC-0016"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative
-      Experiments - Opposites, Constraints, A-B Tests, and Context
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New
-      Ideas - Work at the Fractal Edge of Knowledge
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness
-      - Separate Truth from Identity and Conformism
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion
+  - topic/creativity
+  - topic/mindset
+  - topic/focus
+  - topic/learning
+  - person/rick-rubin
+status: draft
+updated: 2026-07-13
 ---
 
 # Creative Receptivity - Awareness, Attention, and the Artist's Filter
@@ -75,12 +52,10 @@ AlphaGo's famous move 37 looked wrong to experienced Go players because it did n
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New Ideas - Work at the Fractal Edge of Knowledge|Finding New Ideas - Work at the Fractal Edge of Knowledge]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness - Separate Truth from Identity and Conformism|Independent-Mindedness - Separate Truth from Identity and Conformism]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion|The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript|The Creative Act - Raw Transcript]]

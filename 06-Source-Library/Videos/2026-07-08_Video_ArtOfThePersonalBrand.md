@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0071"
-title: "Art Of The Personal Brand"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Unknown"
-    role: "unknown"
-source_type: "video"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-08"
-status: "source"
+title: Art Of The Personal Brand
+author: Unknown
+lang: en
+archived: 2026-07-08
 ---
 
 # The Art of the Personal Brand — Extraction Notes & Entry Map

@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0002"
-title: "Influence Psychology Of Persuasion"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Cialdini"
-    role: "author"
-source_type: "book"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-08"
-status: "source"
+title: Influence Psychology Of Persuasion
+author: Cialdini
+lang: en
+archived: 2026-07-08
 ---
 
 # Influence: The Psychology of Persuasion (Robert Cialdini) — Extraction Notes & Entry Map

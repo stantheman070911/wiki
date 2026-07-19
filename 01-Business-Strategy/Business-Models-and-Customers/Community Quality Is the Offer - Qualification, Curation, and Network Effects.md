@@ -1,47 +1,15 @@
 ---
-title: "Community Quality Is the Offer - Qualification, Curation, and Network Effects"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Community Quality Is the Offer - Qualification, Curation, and Network Effects
+lang: en
 tags:
-  [
-    topic/memberships,
-    topic/retention,
-    topic/continuity,
-    topic/brand,
-    topic/qualification,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0042"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
-  and Customers Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a
-      Culture Where Mistakes Are Okay But Not Learning From Them Isn't
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
-      Through Segmented Churn
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business
-      Redesign - Speed to Value and Experience Moats
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
-      of a Perfect Business
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
-      Alignment
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem
-      - Sell Consumable Inputs, Not the Black Box
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed
+  - topic/memberships
+  - topic/retention
+  - topic/continuity
+  - topic/brand
+  - topic/qualification
+  - person/alex-hormozi
+status: draft
+updated: 2026-07-13
 ---
 
 # Community Quality Is the Offer - Qualification, Curation, and Network Effects
@@ -84,7 +52,6 @@ Hormozi compares an unqualified community to a party where everyone is admitted:
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business Redesign - Speed to Value and Experience Moats|The AI-Ready Business Redesign - Speed to Value and Experience Moats]]
@@ -94,5 +61,4 @@ Hormozi compares an unqualified community to a party where everyone is admitted:
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed|Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven Demand]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

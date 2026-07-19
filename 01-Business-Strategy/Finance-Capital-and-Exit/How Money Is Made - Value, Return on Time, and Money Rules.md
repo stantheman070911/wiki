@@ -1,84 +1,16 @@
 ---
-title: "How Money Is Made - Value, Return on Time, and Money Rules"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: How Money Is Made - Value, Return on Time, and Money Rules
+lang: en
 tags:
-  [
-    topic/money,
-    topic/value-creation,
-    topic/wealth,
-    topic/partnerships,
-    person/alex-hormozi,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0068"
-    role: "primary"
-  - id: "SRC-0085"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
-      and Asymmetric Bets
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a
-      Partnership Makes Sense - The Five Things a Partner Must Bring
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal
-      Urgency - Speed, Parallelism, and Aggressive Timelines
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp -
-      The Messy Middle and the 40-for-2 Management Trade
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs.
-      Paid on Time
-  - type: has-derivative
-    target: 07-Articles/Every Possession Comes With a Job
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and
-      the Education-ROI Playbook
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k -
-      Defense-Before-Offense Playbook
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The
-      Complete Six-Step Roadmap
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/Companies as
-      Philanthropy - Purpose and Building for Humanity
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
-      of a Perfect Business
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation -
-      Measurement, Leverage, and Compressed Work
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a
-      Force Multiplier
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
-      Compounding - Too Good to Fail
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Performance-Based Pricing - When
-      It Works and How Not to Get Cheated
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
-      Selling Through Trusted Referrers
-  - type: related
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-8-財務會計與獲利核心
+  - topic/money
+  - topic/value-creation
+  - topic/wealth
+  - topic/partnerships
+  - person/alex-hormozi
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: reviewed
+updated: 2026-07-08
 ---
 
 # How Money Is Made - Value, Return on Time, and Money Rules
@@ -123,7 +55,6 @@ This consolidates Hormozi's "money rules" — the principles he says separate lo
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a Partnership Makes Sense - The Five Things a Partner Must Bring|When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
@@ -145,6 +76,5 @@ This consolidates Hormozi's "money rules" — the principles he says separate lo
 - **Related:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-8-財務會計與獲利核心|連鎖經營學 · Module 8：財務會計與獲利核心]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript|25 Harsh Truths at 45 - Raw Transcript]]

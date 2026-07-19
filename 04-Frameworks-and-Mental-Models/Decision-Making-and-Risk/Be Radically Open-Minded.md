@@ -1,74 +1,18 @@
 ---
-title: "Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and
-  Triangulating Truth"
+title: Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth
 aliases:
-  - "Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and
-    Triangulating Truth"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+  - Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth
+lang: en
 tags:
-  [
-    topic/decision-making,
-    topic/mindset,
-    topic/believability,
-    topic/mental-models,
-    person/ray-dalio,
-    person/steven-bartlett,
-    source/bridgewater-associates
-  ]
-sources:
-  - id: "SRC-0015"
-    role: "primary"
-    locator: "Ch. 3"
-  - id: "SRC-0017"
-    role: "supporting"
-    locator: "Law 5"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Disagreement Needs a Finish Line
-  - type: has-example
-    target: 05-Intelligence-and-Research/Technology Platforms - How New Protocols
-      and Tools Shift Power
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative
-      Experiments - Opposites, Constraints, A-B Tests, and Context
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
-      Your Decision Making
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles
-      Thinking - Reason from Physics, Not Analogy
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness
-      - Separate Truth from Identity and Conformism
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to
-      Make Decisions Effectively - Expected Value, Levels, and Algorithms
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale
-      Paradox - Confront Reality Without Losing Faith
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative
-      Cooperation - Feedback, Friction, and Choice C
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
-      Confidence
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and
-      Deal With It - Pain, Truth, and the Hyperrealist's Formula
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the
-      Hero's Journey - The Founder Archetype Who Builds Against Doubt
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That
-      People Are Wired Very Differently
+  - topic/decision-making
+  - topic/mindset
+  - topic/believability
+  - topic/mental-models
+  - person/ray-dalio
+  - person/steven-bartlett
+  - source/bridgewater-associates
+status: draft
+updated: 2026-07-13
 ---
 
 # Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth
@@ -110,7 +54,6 @@ Before committing to an important, uncertain decision, deliberately seek out peo
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Disagreement Needs a Finish Line|Disagreement Needs a Finish Line]]
 - **Has example:** [[05-Intelligence-and-Research/Technology Platforms - How New Protocols and Tools Shift Power|Technology Platforms - How New Protocols and Tools Shift Power]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
@@ -126,6 +69,5 @@ Before committing to an important, uncertain decision, deliberately seek out peo
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That People Are Wired Very Differently|Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 3
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 5

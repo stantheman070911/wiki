@@ -1,72 +1,14 @@
 ---
-title: "Promise, Proof, Path - Engineering the Video Intro"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Promise, Proof, Path - Engineering the Video Intro
+lang: en
 tags:
-  [
-    topic/short-form-video,
-    topic/hooks,
-    topic/retention,
-    topic/content-strategy,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0066"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-  Creation and Distribution Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
-      Discount - Make the Difference Obvious
-  - type: applies
-    target: 02-Social-Media-Strategy/The AI-Era Content Barbell
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Framework for Making Frameworks - Distill by Commonality
-  - type: related
-    target: 03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder -
-      Fixing Views, Formats, and Timing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
-      Clever - Write Below Third Grade and Meet the Avatar
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting
-      Fundamentals - AIDA, the Headline, and the Slippery Slope
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Declarative
-      to Sell, Procedural to Deliver
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Direct-Response
-      Copywriting
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking
-      Attention - Topic, Format, Hook and the Content Engine
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hyperdopamine
-      Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film
-      Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
-      - Heros Journey, the Trojan Horse, and Handling Objections
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content
-      Repository - Four Topic Buckets and Tweet-First Capture
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Seven
-      Factors of a Short - Topic to Editing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音文案全公式：標題、開頭、結尾與腳本結構
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand
-      Conversion Path - Problem, Plan, and Calls to Action
+  - topic/short-form-video
+  - topic/hooks
+  - topic/retention
+  - topic/content-strategy
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Promise, Proof, Path - Engineering the Video Intro
@@ -107,7 +49,6 @@ Example intro that hits all three: "I sold my company for $46.2 million — a bi
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious|Decommoditize Before You Discount - Make the Difference Obvious]]
 - **Applies:** [[02-Social-Media-Strategy/The AI-Era Content Barbell|The AI-Era Content Barbell - Raw Shorts, Produced Long Form, and Live Interaction]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Framework for Making Frameworks - Distill by Commonality|The Framework for Making Frameworks - Distill by Commonality]]
@@ -126,5 +67,4 @@ Example intro that hits all three: "I sold my company for $46.2 million — a bi
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand Conversion Path - Problem, Plan, and Calls to Action|The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode|Building a Brand - Easy Mode]]

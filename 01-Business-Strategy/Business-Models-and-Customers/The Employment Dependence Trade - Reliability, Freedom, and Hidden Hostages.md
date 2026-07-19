@@ -1,41 +1,17 @@
 ---
-title: "The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages
+lang: en
 tags:
-  [
-    topic/business-model,
-    topic/org-design,
-    topic/career,
-    topic/incentives,
-    topic/risk,
-    topic/hiring,
-    person/nassim-nicholas-taleb,
-    source/skin-in-the-game
-  ]
-sources:
-  - id: "SRC-0012"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
-  and Customers Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a
-      Partnership Makes Sense - The Five Things a Partner Must Bring
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design
-      Jobs Around Exceptional Contribution
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business
-      - The 50% Hire and Buying Back Time
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtual Firm -
-      Falling Transaction Costs and the Unbundling of Organizations
+  - topic/business-model
+  - topic/org-design
+  - topic/career
+  - topic/incentives
+  - topic/risk
+  - topic/hiring
+  - person/nassim-nicholas-taleb
+  - source/skin-in-the-game
+status: draft
+updated: 2026-07-13
 ---
 
 # The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages
@@ -79,12 +55,10 @@ Taleb's airline thought experiment shows a contractor accepting a better offer d
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a Partnership Makes Sense - The Five Things a Partner Must Bring|When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design Jobs Around Exceptional Contribution|Staff for Strength - Design Jobs Around Exceptional Contribution]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time|You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations|The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript|Skin in the Game - Raw Transcript]]

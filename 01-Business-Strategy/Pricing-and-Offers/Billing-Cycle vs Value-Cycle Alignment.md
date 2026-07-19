@@ -1,55 +1,14 @@
 ---
-title: "Billing-Cycle vs Value-Cycle Alignment"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Billing-Cycle vs Value-Cycle Alignment
+lang: en
 tags:
-  [
-    topic/pricing,
-    topic/retention,
-    topic/memberships,
-    topic/cash-flow,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/用數學做決策：損益表、PDCA與預測降低不確定性
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
-      Automation - Manual Onboarding to Fix Churn
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/Community Quality Is
-      the Offer - Qualification, Curation, and Network Effects
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
-      Through Segmented Churn
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/Survive vs Thrive
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize
-      the Whole Revenue System
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem
-      - Sell Consumable Inputs, Not the Black Box
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing
-      Offers to Fund Growth
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow
-      With Customer Outcomes
-  - type: related
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-8-財務會計與獲利核心
+  - topic/pricing
+  - topic/retention
+  - topic/memberships
+  - topic/cash-flow
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Billing-Cycle vs Value-Cycle Alignment
@@ -92,7 +51,6 @@ A real-estate-focused SaaS at $60/month was losing ~100 of 150 weekly signups, l
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/用數學做決策：損益表、PDCA與預測降低不確定性|用數學做決策：損益表、PDCA與預測降低不確定性]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Community Quality Is the Offer - Qualification, Curation, and Network Effects|Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
@@ -106,5 +64,4 @@ A real-estate-focused SaaS at $60/month was losing ~100 of 150 weekly signups, l
 - **Related:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-8-財務會計與獲利核心|連鎖經營學 · Module 8：財務會計與獲利核心]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

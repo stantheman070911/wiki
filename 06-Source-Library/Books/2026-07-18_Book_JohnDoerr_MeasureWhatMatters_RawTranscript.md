@@ -1,19 +1,9 @@
 ---
-source_id: "SRC-0032"
-title: "Measure What Matters"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "John Doerr"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2018"
-date_archived: "2026-07-18"
-status: "source"
+title: Measure What Matters
+author: John Doerr
+lang: en
+published: "2018"
+archived: 2026-07-18
 ---
 
 “Measure What Matters takes you behind the scenes for the creation of

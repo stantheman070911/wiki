@@ -1,49 +1,17 @@
 ---
-title: "The Small-Business Lifecycle - Infancy, Adolescence, and Maturity"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: The Small-Business Lifecycle - Infancy, Adolescence, and Maturity
+lang: en
 tags:
-  [
-    topic/growth,
-    topic/scaling,
-    topic/delegation,
-    topic/operations,
-    topic/management,
-    topic/org-design,
-    person/michael-gerber,
-    source/e-myth-revisited
-  ]
-sources:
-  - id: "SRC-0011"
-    role: "primary"
-    locator: "chapters 3–6"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth
-      Owner-Role Triad - Entrepreneur, Manager, and Technician
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp -
-      The Messy Middle and the 40-for-2 Management Trade
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business
-      - The 50% Hire and Buying Back Time
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements
-      to Your Machine to Get Around Your Problems
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build
-      the Business as the Product
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/The Seven Levels of Business
-      Growth - From Side Hustle to Exit
+  - topic/growth
+  - topic/scaling
+  - topic/delegation
+  - topic/operations
+  - topic/management
+  - topic/org-design
+  - person/michael-gerber
+  - source/e-myth-revisited
+status: draft
+updated: 2026-07-13
 ---
 
 # The Small-Business Lifecycle - Infancy, Adolescence, and Maturity
@@ -85,7 +53,6 @@ Sarah delegates much of her pie shop to Elizabeth but never constructs a real ow
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician|The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp - The Messy Middle and the 40-for-2 Management Trade|The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time|You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
@@ -95,5 +62,4 @@ Sarah delegates much of her pie shop to Elizabeth but never constructs a real ow
 - **Related:** [[01-Business-Strategy/Growth-and-Scaling/The Seven Levels of Business Growth - From Side Hustle to Exit|The Seven Levels of Business Growth - From Side Hustle to Exit]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript|The E-Myth Revisited - Raw Transcript]] — locator: chapters 3–6

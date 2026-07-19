@@ -1,19 +1,9 @@
 ---
-source_id: "SRC-0021"
-title: "$100M Offers"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Alex Hormozi"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2021"
-date_archived: "2026-07-18"
-status: "source"
+title: $100M Offers
+author: Alex Hormozi
+lang: en
+published: "2021"
+archived: 2026-07-18
 ---
 
 # $100M Offers — Raw Transcript

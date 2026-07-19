@@ -1,48 +1,15 @@
 ---
-title: "The Challenger Selling Model - Teach, Tailor, and Take Control"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: The Challenger Selling Model - Teach, Tailor, and Take Control
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/persuasion,
-    topic/differentiation,
-    person/matthew-dixon,
-    person/brent-adamson,
-    source/the-challenger-sale
-  ]
-sources:
-  - id: "SRC-0035"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Gap Selling -
-      Current State, Future State, and the Value of Change
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test,
-      Evaluate, and Sort People
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching -
-      Insight That Leads to Unique Strengths
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
-      Intellectual Property - Process Above the Player
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for
-      Consensus - Stakeholder Outcomes and Widespread Support
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control -
-      Constructive Tension Across the Sale
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Commercial
-      Teaching Conversation - From Warmer to Your Solution
+  - topic/sales
+  - topic/persuasion
+  - topic/differentiation
+  - person/matthew-dixon
+  - person/brent-adamson
+  - source/the-challenger-sale
+status: draft
+updated: 2026-07-18
 ---
 
 # The Challenger Selling Model - Teach, Tailor, and Take Control
@@ -84,7 +51,6 @@ Relationship Builders sought entry into the customer’s comfort zone; Challenge
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Gap Selling - Current State, Future State, and the Value of Change|Gap Selling - Current State, Future State, and the Value of Change]]
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People|Constantly Train, Test, Evaluate, and Sort People]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching - Insight That Leads to Unique Strengths|Commercial Teaching - Insight That Leads to Unique Strengths]]
@@ -94,5 +60,4 @@ Relationship Builders sought entry into the customer’s comfort zone; Challenge
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Commercial Teaching Conversation - From Warmer to Your Solution|The Commercial Teaching Conversation - From Warmer to Your Solution]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript|The Challenger Sale]]

@@ -1,19 +1,9 @@
 ---
-source_id: "SRC-0010"
-title: "Good to Great - Raw Transcript"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Jim Collins"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2001"
-date_archived: "2026-07-13"
-status: "source"
+title: Good to Great - Raw Transcript
+author: Jim Collins
+lang: en
+published: "2001"
+archived: 2026-07-13
 ---
 
 Good to Great

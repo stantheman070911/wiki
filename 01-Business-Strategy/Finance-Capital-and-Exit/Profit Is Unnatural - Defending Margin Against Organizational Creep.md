@@ -1,40 +1,14 @@
 ---
-title: "Profit Is Unnatural - Defending Margin Against Organizational Creep"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Profit Is Unnatural - Defending Margin Against Organizational Creep
+lang: en
 tags:
-  [
-    topic/margins,
-    topic/cash-flow,
-    topic/efficiency,
-    topic/operations,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0042"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
-      Elimination - The Deep-Work Playbook
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default
-      Dead - Runway, Growth, and the Fatal Pinch
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation -
-      Measurement, Leverage, and Compressed Work
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You
-      Can't Control Price
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS
-      - The Percentage Lies
+  - topic/margins
+  - topic/cash-flow
+  - topic/efficiency
+  - topic/operations
+  - person/alex-hormozi
+status: draft
+updated: 2026-07-13
 ---
 
 # Profit Is Unnatural - Defending Margin Against Organizational Creep
@@ -77,7 +51,6 @@ Hormozi relays a billionaire mentor's observation that businesses slowly eat the
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch|Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation - Measurement, Leverage, and Compressed Work|Wealth Creation - Measurement, Leverage, and Compressed Work]]
@@ -85,5 +58,4 @@ Hormozi relays a billionaire mentor's observation that businesses slowly eat the
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS - The Percentage Lies|Maximize Net Cash, Not ROAS - The Percentage Lies]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

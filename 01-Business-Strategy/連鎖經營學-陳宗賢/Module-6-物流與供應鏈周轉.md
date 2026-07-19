@@ -1,30 +1,15 @@
 ---
-title: "連鎖經營學 · Module 6：物流管理與供應鏈周轉"
+title: 連鎖經營學 · Module 6：物流管理與供應鏈周轉
 aliases:
-  - "連鎖經營學 · Module 6：物流管理與供應鏈周轉"
-type: "series-entry"
-domain: "business-strategy"
-series: "連鎖經營學"
-lang: "zh"
-tags: [ topic/chain-store, topic/supply-chain, person/chen-tsung-hsien ]
-sources:
-  - id: "SRC-0044"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
-relationships:
-  - type: derives-from
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-7-招商加盟與組織人才
-  - type: prerequisite
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-5-商圈開發與市場行銷
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
-      Manufacturing as the Moat
+  - 連鎖經營學 · Module 6：物流管理與供應鏈周轉
+lang: zh
+tags:
+  - topic/chain-store
+  - topic/supply-chain
+  - person/chen-tsung-hsien
+status: reviewed
+updated: 2026-07-08
+series: 連鎖經營學
 ---
 
 # 連鎖經營學 · Module 6：物流管理與供應鏈周轉
@@ -78,12 +63,10 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **衍生自:** [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
 - **是其前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-7-招商加盟與組織人才|連鎖經營學 · Module 7：招商加盟與組織人才]]
 - **前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-5-商圈開發與市場行銷|連鎖經營學 · Module 5：商圈開發與市場行銷]]
 - **相關:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]

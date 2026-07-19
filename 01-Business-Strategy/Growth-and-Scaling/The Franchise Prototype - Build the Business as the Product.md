@@ -1,57 +1,17 @@
 ---
-title: "The Franchise Prototype - Build the Business as the Product"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: The Franchise Prototype - Build the Business as the Product
+lang: en
 tags:
-  [
-    topic/business-model,
-    topic/scaling,
-    topic/systems,
-    topic/operations,
-    topic/consistency,
-    topic/franchise,
-    person/michael-gerber,
-    source/e-myth-revisited
-  ]
-sources:
-  - id: "SRC-0011"
-    role: "primary"
-    locator: "chapters 7–9"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation,
-      Quantification, and Orchestration - The Business Development Loop
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth
-      Owner-Role Triad - Entrepreneur, Manager, and Technician
-  - type: has-derivative
-    target: 07-Articles/Two Ways a Founder Can Disappear
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules
-      - Codify, Transfer, and Train Behavior
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements
-      to Your Machine to Get Around Your Problems
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
-      - SOPs, Checklists, and Systematizing the Vital 20%
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
-      Intellectual Property - Process Above the Player
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
-      Manufacturing as the Moat
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle -
-      Infancy, Adolescence, and Maturity
+  - topic/business-model
+  - topic/scaling
+  - topic/systems
+  - topic/operations
+  - topic/consistency
+  - topic/franchise
+  - person/michael-gerber
+  - source/e-myth-revisited
+status: draft
+updated: 2026-07-13
 ---
 
 # The Franchise Prototype - Build the Business as the Product
@@ -98,7 +58,6 @@ Gerber uses McDonald’s as the canonical prototype: Ray Kroc treated the restau
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation, Quantification, and Orchestration - The Business Development Loop|Innovation, Quantification, and Orchestration - The Business Development Loop]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician|The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician]]
 - **Has derivative:** [[07-Articles/Two Ways a Founder Can Disappear|Two Ways a Founder Can Disappear]]
@@ -111,5 +70,4 @@ Gerber uses McDonald’s as the canonical prototype: Ray Kroc treated the restau
 - **Related:** [[01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle - Infancy, Adolescence, and Maturity|The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript|The E-Myth Revisited - Raw Transcript]] — locator: chapters 7–9

@@ -1,47 +1,17 @@
 ---
-title: "Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing
+lang: en
 tags:
-  [
-    topic/marketing,
-    topic/qualification,
-    topic/funnel,
-    topic/cta,
-    topic/automation,
-    topic/sales,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0098"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
-      Through Segmented Churn
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground -
-      Problem, Process, and Prize Experiences
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
-      Rule of 100 - Lead Generation Fundamentals
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four
-      Lead-Conversion Levers - Speed, Availability, Personalization, Volume
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
-      Rhythm - Leads, Appointments, Presentations, and Sales
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem
-      Identification Chart - Problems, Impacts, and Root Causes
+  - topic/marketing
+  - topic/qualification
+  - topic/funnel
+  - topic/cta
+  - topic/automation
+  - topic/sales
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: draft
+updated: 2026-07-13
 ---
 
 # Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing
@@ -82,7 +52,6 @@ Priestley's model uses a sleep assessment to show the structure: test the enviro
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
 - **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground - Problem, Process, and Prize Experiences|The Marketing Playground - Problem, Process, and Prize Experiences]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
@@ -91,5 +60,4 @@ Priestley's model uses a sleep assessment to show the structure: test the enviro
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem Identification Chart - Problems, Impacts, and Root Causes|The Problem Identification Chart - Problems, Impacts, and Root Causes]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_OnlineAssessmentLeadGenerationSystem_RawTranscript|Online-Assessment Lead-Generation System - Raw Transcript]]

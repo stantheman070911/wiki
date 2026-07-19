@@ -2,57 +2,15 @@
 title: "Creator Vision Framework: What x Who x Why"
 aliases:
   - "Creator Vision Framework: What x Who x Why"
-type: "strategy"
-domain: "social-media-strategy"
-lang: "en"
+lang: en
 tags:
-  [
-    topic/personal-brand,
-    topic/positioning,
-    topic/storytelling,
-    topic/content-pillars,
-    topic/avatar
-  ]
-sources:
-  - id: "SRC-0062"
-    role: "primary"
-date_added: "2026-07-02"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 02-Social-Media-Strategy/Social Media Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
-      Features - Sell the Identity Behind the Product
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-      Planner and the Analyze-Double-Down Loop
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film
-      Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content
-      Repository - Four Topic Buckets and Tweet-First Capture
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音文案全公式：標題、開頭、結尾與腳本結構
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence -
-      Build in Public, Daily Cadence, Post-Launch Loop
-  - type: related
-    target: 02-Social-Media-Strategy/Brand Journey and the 3-Part Brand Story
-  - type: related
-    target: 02-Social-Media-Strategy/Levels of a Personal Brand and the Five Archetypes
-  - type: related
-    target: 02-Social-Media-Strategy/Personal-Brand Positioning and the
-      No-Competition Model
-  - type: related
-    target: 02-Social-Media-Strategy/The Personal-Brand House - Foundation,
-      Interior, Exterior
-  - type: related
-    target: 02-Social-Media-Strategy/個人品牌與IP打造框架
-  - type: related
-    target: 02-Social-Media-Strategy/受眾定位與先小後大法則
+  - topic/personal-brand
+  - topic/positioning
+  - topic/storytelling
+  - topic/content-pillars
+  - topic/avatar
+status: reviewed
+updated: 2026-07-13
 ---
 
 # Creator Vision Framework: What x Who x Why
@@ -113,7 +71,6 @@ This is structurally the same pattern as 陳修平's story script formula (成�
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product|Values Before Features - Sell the Identity Behind the Product]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Planner and the Analyze-Double-Down Loop|Content Planner and the Analyze-Double-Down Loop]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing|Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing]]
@@ -128,5 +85,4 @@ This is structurally the same pattern as 陳修平's story script formula (成�
 - **Related:** [[02-Social-Media-Strategy/受眾定位與先小後大法則|受眾定位與先小後大法則]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-02_Video_BuildingAPersonalBrandIn2026|Building a Personal Brand in 2026]]

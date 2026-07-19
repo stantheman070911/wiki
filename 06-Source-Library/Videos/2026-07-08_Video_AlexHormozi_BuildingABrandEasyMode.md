@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0066"
-title: "Building a Brand - Easy Mode"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Alex Hormozi"
-    role: "creator"
-source_type: "video"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-08"
-status: "source"
+title: Building a Brand - Easy Mode
+author: Alex Hormozi
+lang: en
+archived: 2026-07-08
 ---
 
 # Building a Brand, But It's on Easy Mode (Alex Hormozi) — Extraction Notes & Entry Map

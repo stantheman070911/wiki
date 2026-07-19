@@ -1,41 +1,17 @@
 ---
-title: "$100M 擴張路線圖 · Stage 8：Specialize 專精"
+title: $100M 擴張路線圖 · Stage 8：Specialize 專精
 aliases:
-  - "$100M 擴張路線圖 · Stage 8：Specialize 專精"
-type: "series-entry"
-domain: "business-strategy"
-series: "$100M Scaling Roadmap"
-lang: "zh"
+  - $100M 擴張路線圖 · Stage 8：Specialize 專精
+lang: zh
 tags:
-  [
-    topic/scaling,
-    source/acquisition-100m-roadmap,
-    topic/hiring,
-    topic/brand,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0059"
-    role: "primary"
-    locator: "Stage 8"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利
-  - type: derives-from
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-9-Capitalize
-  - type: prerequisite
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-7-Categorize
-  - type: related
-    target: 02-Social-Media-Strategy/可信度行銷與公開建構
-  - type: related
-    target: 02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架
+  - topic/scaling
+  - source/acquisition-100m-roadmap
+  - topic/hiring
+  - topic/brand
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
+series: $100M Scaling Roadmap
 ---
 
 # $100M 擴張路線圖 · Stage 8：Specialize 專精
@@ -91,7 +67,6 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **應用於:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利|招募、領導與地理紅利]]
 - **衍生自:** [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
 - **是其前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-9-Capitalize|$100M 擴張路線圖 · Stage 9：Capitalize 下注]]
@@ -100,5 +75,4 @@ relationships:
 - **相關:** [[02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架|品牌即媒體公司：注意力到信任框架]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap|$100M Scaling Roadmap（Personalized Guide）]] — locator: Stage 8

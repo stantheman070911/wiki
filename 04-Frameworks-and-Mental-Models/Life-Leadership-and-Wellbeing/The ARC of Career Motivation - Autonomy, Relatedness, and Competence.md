@@ -1,44 +1,17 @@
 ---
-title: "The ARC of Career Motivation - Autonomy, Relatedness, and Competence"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The ARC of Career Motivation - Autonomy, Relatedness, and Competence
+lang: en
 tags:
-  [
-    topic/career,
-    topic/management,
-    topic/skills,
-    topic/culture,
-    topic/learning,
-    person/bill-burnett,
-    person/dave-evans,
-    source/designing-your-new-work-life
-  ]
-sources:
-  - id: "SRC-0026"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-  Leadership and Wellbeing Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign,
-      Redesign - Four Ways to Change Work in Place
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Task-Relevant
-      Maturity
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Maker
-      Mix - Money, Impact, and Expression
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace
-      Influence Mapping - Authority, Value, and Recognition
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
-      Proficiency, Pain Tolerance, and Frustration Tolerance
+  - topic/career
+  - topic/management
+  - topic/skills
+  - topic/culture
+  - topic/learning
+  - person/bill-burnett
+  - person/dave-evans
+  - source/designing-your-new-work-life
+status: draft
+updated: 2026-07-18
 ---
 
 # The ARC of Career Motivation - Autonomy, Relatedness, and Competence
@@ -81,7 +54,6 @@ Ann, a fast-food shift supervisor, could not rewrite the operating system, but s
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign, Redesign - Four Ways to Change Work in Place|Don't Resign, Redesign - Four Ways to Change Work in Place]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Task-Relevant Maturity|Task-Relevant Maturity]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Maker Mix - Money, Impact, and Expression|The Maker Mix - Money, Impact, and Expression]]
@@ -89,5 +61,4 @@ Ann, a fast-food shift supervisor, could not rewrite the operating system, but s
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript|Designing Your New Work Life - Raw Transcript]]

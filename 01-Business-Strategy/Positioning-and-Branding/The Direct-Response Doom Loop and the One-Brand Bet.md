@@ -1,40 +1,13 @@
 ---
-title: "The Direct-Response Doom Loop and the One-Brand Bet"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
-tags: [ topic/business-model, topic/marketing, topic/brand, person/alex-hormozi ]
-sources:
-  - id: "SRC-0073"
-    role: "primary"
-  - id: "SRC-0074"
-    role: "supporting"
-  - id: "SRC-0042"
-    role: "supporting"
-date_added: "2026-07-09"
-updated: "2026-07-09"
-reviewed_on: "2026-07-09"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
-      Actually Is - Association, Influence, Direction, Reach
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Flywheel
-      and the Doom Loop - Compound Momentum in One Direction
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Greener-Pasture Fallacy
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing -
-      Measure Action, Build Culture Patiently
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and
-      Monetization - The Give-Content, Ask-Ads Model
+title: The Direct-Response Doom Loop and the One-Brand Bet
+lang: en
+tags:
+  - topic/business-model
+  - topic/marketing
+  - topic/brand
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-09
 ---
 
 # The Direct-Response Doom Loop and the One-Brand Bet
@@ -81,7 +54,6 @@ AMA 3 contrasts two superficially similar e-commerce outcomes: checkout optimiza
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Flywheel and the Doom Loop - Compound Momentum in One Direction|The Flywheel and the Doom Loop - Compound Momentum in One Direction]]
@@ -90,7 +62,6 @@ AMA 3 contrasts two superficially similar e-commerce outcomes: checkout optimiza
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model|Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript|Cash Cow Breakdowns - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]
 - **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

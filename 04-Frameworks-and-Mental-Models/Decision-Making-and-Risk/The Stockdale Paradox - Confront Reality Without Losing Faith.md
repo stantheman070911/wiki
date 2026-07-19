@@ -1,49 +1,15 @@
 ---
-title: "The Stockdale Paradox - Confront Reality Without Losing Faith"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The Stockdale Paradox - Confront Reality Without Losing Faith
+lang: en
 tags:
-  [
-    topic/decision-making,
-    topic/risk,
-    topic/leadership,
-    topic/feedback,
-    person/jim-collins,
-    source/good-to-great
-  ]
-sources:
-  - id: "SRC-0010"
-    role: "primary"
-    locator: "chapter 4"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
-      Open-Minded
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Institutional
-      Phase Transitions - Persistent Make-Believe, Decay, and Reaction
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective
-      Decision Process
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Pre-Mortem
-      - Imagine Failure Before It Happens
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a
-      Culture Where Mistakes Are Okay But Not Learning From Them Isn't
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in
-      Radical Truth and Radical Transparency
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and
-      Deal With It - Pain, Truth, and the Hyperrealist's Formula
+  - topic/decision-making
+  - topic/risk
+  - topic/leadership
+  - topic/feedback
+  - person/jim-collins
+  - source/good-to-great
+status: draft
+updated: 2026-07-13
 ---
 
 # The Stockdale Paradox - Confront Reality Without Losing Faith
@@ -90,7 +56,6 @@ Admiral Jim Stockdale survived eight years as a prisoner of war by never doubtin
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction|Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective Decision Process|The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
@@ -100,5 +65,4 @@ Admiral Jim Stockdale survived eight years as a prisoner of war by never doubtin
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula|Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript|Good to Great - Raw Transcript]] — locator: chapter 4

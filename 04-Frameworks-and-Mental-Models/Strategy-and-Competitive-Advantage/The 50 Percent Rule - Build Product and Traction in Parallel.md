@@ -1,45 +1,16 @@
 ---
-title: "The 50 Percent Rule - Build Product and Traction in Parallel"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The 50 Percent Rule - Build Product and Traction in Parallel
+lang: en
 tags:
-  [
-    topic/distribution,
-    topic/product,
-    topic/growth,
-    topic/startups,
-    person/gabriel-weinberg,
-    person/justin-mares,
-    source/traction
-  ]
-sources:
-  - id: "SRC-0031"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: applies
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is
-      Destiny - The Sales Channel Power Law
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/Smallest Viable
-      Market - Specificity Before Scale
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly
-      Compounding and Market Size
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is
-      Destiny - The Sales Channel Power Law
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical
-      Path - Work Backward from a Traction Goal
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bullseye
-      - Test All Channels, Then Focus on One
+  - topic/distribution
+  - topic/product
+  - topic/growth
+  - topic/startups
+  - person/gabriel-weinberg
+  - person/justin-mares
+  - source/traction
+status: draft
+updated: 2026-07-18
 ---
 
 # The 50 Percent Rule - Build Product and Traction in Parallel
@@ -79,7 +50,6 @@ Dropbox developed its product and traction mechanisms together: early demonstrat
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law|Distribution Is Destiny - The Sales Channel Power Law]]
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/Smallest Viable Market - Specificity Before Scale|Smallest Viable Market - Specificity Before Scale]]
 - **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly Compounding and Market Size|Startup Equals Growth - Weekly Compounding and Market Size]]
@@ -88,5 +58,4 @@ Dropbox developed its product and traction mechanisms together: early demonstrat
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bullseye - Test All Channels, Then Focus on One|Bullseye - Test All Channels, Then Focus on One]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_GabrielWeinbergJustinMares_Traction_RawTranscript|Traction]]

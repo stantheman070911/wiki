@@ -1,47 +1,15 @@
 ---
-title: "Absurdity as a Brand Signal"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Absurdity as a Brand Signal
+lang: en
 tags:
-  [
-    topic/brand,
-    topic/differentiation,
-    topic/storytelling,
-    topic/reach,
-    topic/positioning,
-    person/steven-bartlett
-  ]
-sources:
-  - id: "SRC-0017"
-    role: "primary"
-    locator: "Laws 10 and 12"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Design for the Second Audience
-  - type: is-applied-by
-    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
-      Discount - Make the Difference Obvious
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking
-      Attention - Topic, Format, Hook and the Content Engine
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Seven
-      Principles of Building an Iconic Brand
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
-      Features - Sell the Identity Behind the Product
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
-      Actually Is - Association, Influence, Direction, Reach
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency
-      - We Share What Makes Us Look Good
+  - topic/brand
+  - topic/differentiation
+  - topic/storytelling
+  - topic/reach
+  - topic/positioning
+  - person/steven-bartlett
+status: draft
+updated: 2026-07-13
 ---
 
 # Absurdity as a Brand Signal
@@ -83,7 +51,6 @@ Bartlett’s early agency installed an oversized blue slide in an office with fe
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Design for the Second Audience|Design for the Second Audience]]
 - **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious|Decommoditize Before You Discount - Make the Difference Obvious]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking Attention - Topic, Format, Hook and the Content Engine|Hacking Attention - Topic, Format, Hook and the Content Engine]]
@@ -93,5 +60,4 @@ Bartlett’s early agency installed an oversized blue slide in an office with fe
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good|Social Currency - We Share What Makes Us Look Good]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Laws 10 and 12

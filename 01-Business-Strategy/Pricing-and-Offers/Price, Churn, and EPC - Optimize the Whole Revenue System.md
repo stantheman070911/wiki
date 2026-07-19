@@ -1,36 +1,14 @@
 ---
-title: "Price, Churn, and EPC - Optimize the Whole Revenue System"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
-tags: [ topic/pricing, topic/churn, topic/ltv, topic/funnel, person/alex-hormozi ]
-sources:
-  - id: "SRC-0042"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
-      Through Segmented Churn
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
-      Period - The Three Numbers That Decide If You Win
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
-      Alignment
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
-      Slam Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow
-      With Customer Outcomes
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS
-      - The Percentage Lies
+title: Price, Churn, and EPC - Optimize the Whole Revenue System
+lang: en
+tags:
+  - topic/pricing
+  - topic/churn
+  - topic/ltv
+  - topic/funnel
+  - person/alex-hormozi
+status: draft
+updated: 2026-07-13
 ---
 
 # Price, Churn, and EPC - Optimize the Whole Revenue System
@@ -73,7 +51,6 @@ Hormozi contrasts a hypothetical 50% price reduction with only a 20% churn impro
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle Alignment|Billing-Cycle vs Value-Cycle Alignment]]
@@ -82,5 +59,4 @@ Hormozi contrasts a hypothetical 50% price reduction with only a 20% churn impro
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS - The Percentage Lies|Maximize Net Cash, Not ROAS - The Percentage Lies]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

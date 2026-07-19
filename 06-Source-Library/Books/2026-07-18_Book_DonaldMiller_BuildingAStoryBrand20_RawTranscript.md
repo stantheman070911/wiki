@@ -1,19 +1,9 @@
 ---
-source_id: "SRC-0029"
-title: "Building a StoryBrand 2.0"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Donald Miller"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2025"
-date_archived: "2026-07-18"
-status: "source"
+title: Building a StoryBrand 2.0
+author: Donald Miller
+lang: en
+published: "2025"
+archived: 2026-07-18
 ---
 
                PRAISE FOR BUILDING A STORYBRAND

@@ -1,75 +1,19 @@
 ---
-title: "Demand or Supply - The One-Constraint Diagnosis, Three Functions, and
-  the Ticking Time Bomb"
+title: Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb
 aliases:
-  - "Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the
-    Ticking Time Bomb"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+  - Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb
+lang: en
 tags:
-  [
-    topic/theory-of-constraints,
-    topic/decision-making,
-    topic/supply-and-demand,
-    topic/prioritization,
-    person/alex-hormozi,
-    person/eliyahu-m-goldratt,
-    person/jeff-cox,
-    source/the-goal
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-  - id: "SRC-0042"
-    role: "supporting"
-  - id: "SRC-0030"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-18"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Fix the Bottleneck, Not Everything
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills
-      診斷、1-1-1 與萬能前門
-  - type: is-applied-by
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Drum-Buffer-Rope -
-      Release Work at the Constraint's Pace
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
-      Elimination - The Deep-Work Playbook
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
-      Business - Train Like an Employee and the Department Playbook
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor
-      Dilution Problem - Four Ways to Scale Past Yourself
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the
-      Problem You Have, Not the One You're Afraid Of
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Greener-Pasture Fallacy
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of
-      Constraints - The Five Focusing Steps
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput
-      Accounting - Manage the System, Not Local Costs
+  - topic/theory-of-constraints
+  - topic/decision-making
+  - topic/supply-and-demand
+  - topic/prioritization
+  - person/alex-hormozi
+  - person/eliyahu-m-goldratt
+  - person/jeff-cox
+  - source/the-goal
+status: reviewed
+updated: 2026-07-18
 ---
 
 # Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb
@@ -119,7 +63,6 @@ In AMA 3, a virtual-assistant business appeared to have many constraints, but th
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架|人群場景痛點解決方案：客戶洞察與需求驗證框架]]
 - **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門|少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
@@ -136,7 +79,6 @@ In AMA 3, a virtual-assistant business appeared to have many constraints, but th
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput Accounting - Manage the System, Not Local Costs|Throughput Accounting - Manage the System, Not Local Costs]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
 - **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Books/2026-07-18_Book_EliyahuMGoldrattJeffCox_TheGoal_RawTranscript|The Goal]]

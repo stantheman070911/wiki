@@ -1,47 +1,15 @@
 ---
-title: "Soft Skills Are Observable Behavior Chains"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Soft Skills Are Observable Behavior Chains
+lang: en
 tags:
-  [
-    topic/skills,
-    topic/learning,
-    topic/feedback,
-    topic/leadership,
-    topic/systems,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0042"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous
-      Conversations, Feedback, and Recognition
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and
-      Protocols to Shape How Work Is Done
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
-      Intellectual Property - Process Above the Player
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback -
-      Sales as the Training Ground
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Framework for Making Frameworks - Distill by Commonality
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/行為主義、風險定價與環境設計
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Adaptive
-      Leadership - Consistent Standards, Individual Treatment
+  - topic/skills
+  - topic/learning
+  - topic/feedback
+  - topic/leadership
+  - topic/systems
+  - person/alex-hormozi
+status: draft
+updated: 2026-07-13
 ---
 
 # Soft Skills Are Observable Behavior Chains
@@ -83,7 +51,6 @@ Hormozi reduces rapport to asking questions until a genuine similarity is found 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous Conversations, Feedback, and Recognition|CFRs - Continuous Conversations, Feedback, and Recognition]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and Protocols to Shape How Work Is Done|Use Tools and Protocols to Shape How Work Is Done]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
@@ -93,5 +60,4 @@ Hormozi reduces rapport to asking questions until a genuine similarity is found 
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Adaptive Leadership - Consistent Standards, Individual Treatment|Adaptive Leadership - Consistent Standards, Individual Treatment]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

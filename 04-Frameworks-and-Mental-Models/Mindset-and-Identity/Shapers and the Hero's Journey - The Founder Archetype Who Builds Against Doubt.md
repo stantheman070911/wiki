@@ -1,42 +1,15 @@
 ---
-title: "Shapers and the Hero's Journey - The Founder Archetype Who Builds
-  Against Doubt"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt
+lang: en
 tags:
-  [
-    topic/leadership,
-    topic/mindset,
-    topic/identity,
-    topic/founder-brand,
-    person/ray-dalio,
-    source/bridgewater-associates
-  ]
-sources:
-  - id: "SRC-0015"
-    role: "primary"
-    locator: "Part I"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
-      Open-Minded
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin
-      Story - Heroes Use Pain
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passionate
-      Visionary Scientist - A Three-Part Founder Mindset
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That
-      People Are Wired Very Differently
+  - topic/leadership
+  - topic/mindset
+  - topic/identity
+  - topic/founder-brand
+  - person/ray-dalio
+  - source/bridgewater-associates
+status: draft
+updated: 2026-07-13
 ---
 
 # Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt
@@ -70,7 +43,6 @@ Developed while Dalio was transitioning out of the CEO role at Bridgewater (2011
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain|Hardship as Origin Story - Heroes Use Pain]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox|The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]]
@@ -78,5 +50,4 @@ Developed while Dalio was transitioning out of the CEO role at Bridgewater (2011
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That People Are Wired Very Differently|Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Part I

@@ -1,46 +1,14 @@
 ---
-title: "Interest Media and the Zero-Follower Reach Model"
-type: "strategy"
-domain: "social-media-strategy"
-lang: "en"
+title: Interest Media and the Zero-Follower Reach Model
+lang: en
 tags:
-  [
-    topic/marketing,
-    topic/distribution,
-    topic/reach,
-    topic/volume,
-    person/gary-vaynerchuk
-  ]
-sources:
-  - id: "SRC-0056"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 02-Social-Media-Strategy/Social Media Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
-      - The Zero-Follower Consistency Engine
-  - type: has-example
-    target: 05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era
-      Moat
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder -
-      Fixing Views, Formats, and Timing
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall
-      Distribution Method - One Pillar, a Week of Content
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and
-      Monetization - The Give-Content, Ask-Ads Model
-  - type: related
-    target: 02-Social-Media-Strategy/The AI-Era Content Barbell
-  - type: related
-    target: 02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架
-  - type: related
-    target: 02-Social-Media-Strategy/對標方法論與靈感池系統
+  - topic/marketing
+  - topic/distribution
+  - topic/reach
+  - topic/volume
+  - person/gary-vaynerchuk
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Interest Media and the Zero-Follower Reach Model
@@ -82,7 +50,6 @@ This turns the organic feed into a free, real-market pre-test and stops money be
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal - The Zero-Follower Consistency Engine|Process as the Goal - The Zero-Follower Consistency Engine]]
 - **Has example:** [[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat|The Attention Barbell - Brand as the AI-Era Moat]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing|Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
@@ -93,5 +60,4 @@ This turns the organic feed into a free, real-market pre-test and stops money be
 - **Related:** [[02-Social-Media-Strategy/對標方法論與靈感池系統|對標方法論與靈感池系統]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Podcasts/2026-07-08_Talk_GaryVaynerchuk_NewRulesOfSocialMedia2026|New Rules of Social Media 2026]]

@@ -1,48 +1,14 @@
 ---
-title: "The Reference Group and Re-engineering Your Circle"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The Reference Group and Re-engineering Your Circle
+lang: en
 tags:
-  [
-    topic/mindset,
-    topic/leadership,
-    person/alex-hormozi,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0068"
-    role: "primary"
-  - id: "SRC-0085"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: has-example
-    target: 05-Intelligence-and-Research/Startup Hubs - Ambition, Density, and the
-      People Who Matter
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
-      Elimination - The Deep-Work Playbook
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
-      and Asymmetric Bets
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Happiness
-      Is a Skill - Presence, Peace, and Self-Care
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and
-      the Blame-Power Law
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/No One's Opinion
-      Pays Your Bills - Immunity to Critics
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
-      Proficiency, Pain Tolerance, and Frustration Tolerance
+  - topic/mindset
+  - topic/leadership
+  - person/alex-hormozi
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: reviewed
+updated: 2026-07-08
 ---
 
 # The Reference Group and Re-engineering Your Circle
@@ -86,7 +52,6 @@ Plus a partner/friend filter: same *scale* of goals (not identical goals) and th
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has example:** [[05-Intelligence-and-Research/Startup Hubs - Ambition, Density, and the People Who Matter|Startup Hubs - Ambition, Density, and the People Who Matter]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
@@ -96,6 +61,5 @@ Plus a partner/friend filter: same *scale* of goals (not identical goals) and th
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript|25 Harsh Truths at 45 - Raw Transcript]]

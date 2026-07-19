@@ -1,12 +1,7 @@
 ---
-title: "Decision Making and Risk Map"
-title_zh: "決策與風險導覽"
-type: "subdomain-index"
-domain: "frameworks-and-mental-models"
-lang: "en"
-updated: "2026-07-19"
-status: "evergreen"
-owner: "stanley-lu"
+title: Decision Making and Risk Map
+title_zh: 決策與風險導覽
+lang: en
 ---
 
 # Decision Making and Risk Map
@@ -101,9 +96,8 @@ This folder remains flat because evidence, risk, time, and strategic-change mode
 ## Inventory
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Topics", status AS "Status", updated AS "Updated"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "04-Frameworks-and-Mental-Models/Decision-Making-and-Risk"
-WHERE type = "framework"
-AND contains(list("draft", "reviewed", "evergreen"), status)
+WHERE status
 SORT file.name ASC
 ```

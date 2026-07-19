@@ -1,44 +1,14 @@
 ---
-title: "Complexity Needs Standards and Distributed Judgment"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Complexity Needs Standards and Distributed Judgment
+lang: en
 tags:
-  [
-    topic/systems,
-    topic/management,
-    topic/decision-making,
-    person/atul-gawande,
-    source/checklist-manifesto
-  ]
-sources:
-  - id: "SRC-0024"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Checklist Design -
-      Pause Points, Killer Items, and Field Testing
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Team Checklists -
-      Communication Before Coordination
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and
-      Protocols to Shape How Work Is Done
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
-      Discipline - Freedom, Responsibility, and Stop-Doing Lists
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Breakfast Factory - Limiting Steps, WIP, and Capacity
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Hybrid
-      Organizations and Dual Reporting
+  - topic/systems
+  - topic/management
+  - topic/decision-making
+  - person/atul-gawande
+  - source/checklist-manifesto
+status: draft
+updated: 2026-07-18
 ---
 
 # Complexity Needs Standards and Distributed Judgment
@@ -82,7 +52,6 @@ Modern construction abandoned the all-knowing Master Builder. A project runs thr
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Checklist Design - Pause Points, Killer Items, and Field Testing|Checklist Design - Pause Points, Killer Items, and Field Testing]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Team Checklists - Communication Before Coordination|Team Checklists - Communication Before Coordination]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and Protocols to Shape How Work Is Done|Use Tools and Protocols to Shape How Work Is Done]]
@@ -91,5 +60,4 @@ Modern construction abandoned the all-knowing Master Builder. A project runs thr
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Hybrid Organizations and Dual Reporting|Hybrid Organizations and Dual Reporting]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AtulGawande_TheChecklistManifesto_RawTranscript|The Checklist Manifesto - Raw Transcript]]

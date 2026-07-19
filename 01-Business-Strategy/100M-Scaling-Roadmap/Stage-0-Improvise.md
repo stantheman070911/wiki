@@ -1,35 +1,17 @@
 ---
-title: "$100M 擴張路線圖 · Stage 0：Improvise 即興"
+title: $100M 擴張路線圖 · Stage 0：Improvise 即興
 aliases:
-  - "$100M 擴張路線圖 · Stage 0：Improvise 即興"
-type: "series-entry"
-domain: "business-strategy"
-series: "$100M Scaling Roadmap"
-lang: "zh"
+  - $100M 擴張路線圖 · Stage 0：Improvise 即興
+lang: zh
 tags:
-  [
-    topic/scaling,
-    source/acquisition-100m-roadmap,
-    topic/research,
-    topic/business-model,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0059"
-    role: "primary"
-    locator: "Stage 0"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
-relationships:
-  - type: derives-from
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-1-Monetize
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/從零到十萬美元聯盟套利劇本與商業基本面
+  - topic/scaling
+  - source/acquisition-100m-roadmap
+  - topic/research
+  - topic/business-model
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
+series: $100M Scaling Roadmap
 ---
 
 # $100M 擴張路線圖 · Stage 0：Improvise 即興
@@ -92,11 +74,9 @@ Stage 0 最重要的事，是弄清楚「人們是否真的想要你提供的東
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **衍生自:** [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
 - **是其前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-1-Monetize|$100M 擴張路線圖 · Stage 1：Monetize 變現]]
 - **相關:** [[01-Business-Strategy/Business-Models-and-Customers/從零到十萬美元聯盟套利劇本與商業基本面|從零到十萬美元聯盟套利劇本與商業基本面]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap|$100M Scaling Roadmap（Personalized Guide）]] — locator: Stage 0

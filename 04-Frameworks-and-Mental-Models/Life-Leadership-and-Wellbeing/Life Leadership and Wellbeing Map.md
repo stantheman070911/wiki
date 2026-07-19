@@ -1,14 +1,9 @@
 ---
-title: "Life, Leadership, and Wellbeing Map"
-title_zh: "人生、領導與福祉導覽"
+title: Life, Leadership, and Wellbeing Map
+title_zh: 人生、領導與福祉導覽
 aliases:
-  - "Life, Leadership, and Wellbeing Map"
-type: "subdomain-index"
-domain: "frameworks-and-mental-models"
-lang: "en"
-updated: "2026-07-19"
-status: "evergreen"
-owner: "stanley-lu"
+  - Life, Leadership, and Wellbeing Map
+lang: en
 ---
 
 # Life, Leadership, and Wellbeing Map
@@ -97,9 +92,8 @@ This folder remains flat because life design, work, leadership, and wellbeing re
 ## Inventory
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Topics", status AS "Status", updated AS "Updated"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing"
-WHERE type = "framework"
-AND contains(list("draft", "reviewed", "evergreen"), status)
+WHERE status
 SORT file.name ASC
 ```

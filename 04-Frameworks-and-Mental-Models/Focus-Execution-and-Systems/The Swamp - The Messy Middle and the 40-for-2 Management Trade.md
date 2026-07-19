@@ -1,53 +1,16 @@
 ---
-title: "The Swamp - The Messy Middle and the 40-for-2 Management Trade"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The Swamp - The Messy Middle and the 40-for-2 Management Trade
+lang: en
 tags:
-  [
-    topic/scaling,
-    topic/hiring,
-    topic/delegation,
-    topic/focus,
-    topic/leverage,
-    topic/decision-making,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger
-  - type: is-applied-by
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
-      Return on Time, and Money Rules
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle -
-      Infancy, Adolescence, and Maturity
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders -
-      Reverse-Engineer OTE, Profit Pools, and Phantom Equity
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
-      Elimination - The Deep-Work Playbook
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Greener-Pasture Fallacy
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
-      - Who-Not-How and Planning Backward From the Goal
+  - topic/scaling
+  - topic/hiring
+  - topic/delegation
+  - topic/focus
+  - topic/leverage
+  - topic/decision-making
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # The Swamp - The Messy Middle and the 40-for-2 Management Trade
@@ -92,7 +55,6 @@ An apartment broker doing $250k couldn't identify his highest-leverage 6am actio
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger|Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint]]
 - **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
 - **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle - Infancy, Adolescence, and Maturity|The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
@@ -104,5 +66,4 @@ An apartment broker doing $250k couldn't identify his highest-leverage 6am actio
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

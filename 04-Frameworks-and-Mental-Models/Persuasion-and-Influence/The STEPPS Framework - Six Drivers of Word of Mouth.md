@@ -1,81 +1,15 @@
 ---
-title: "The STEPPS Framework - Six Drivers of Word of Mouth"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The STEPPS Framework - Six Drivers of Word of Mouth
+lang: en
 tags:
-  [
-    topic/word-of-mouth,
-    topic/marketing,
-    topic/content-strategy,
-    topic/mental-models,
-    person/jonah-berger,
-    source/contagious
-  ]
-sources:
-  - id: "SRC-0033"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: "2026-07-18"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
-  and Influence Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal
-      Emotion - When We Care, We Share
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value
-      - The Psychology of Deals and the Rule of 100
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
-      Observability and Behavioral Residue
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency
-      - We Share What Makes Us Look Good
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top
-      of Mind, Tip of Tongue
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable
-      Virality - Build a Trojan Horse People Can't Retell Without You
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/Smallest Viable
-      Market - Specificity Before Scale
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability -
-      Own Attention and Design Word of Mouth
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals -
-      Engineering Word of Mouth Through Goodwill
-  - type: is-applied-by
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal
-      Emotion - When We Care, We Share
-  - type: is-applied-by
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value
-      - The Psychology of Deals and the Rule of 100
-  - type: is-applied-by
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
-      Observability and Behavioral Residue
-  - type: is-applied-by
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency
-      - We Share What Makes Us Look Good
-  - type: is-applied-by
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top
-      of Mind, Tip of Tongue
-  - type: is-applied-by
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable
-      Virality - Build a Trojan Horse People Can't Retell Without You
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
-      Actually Is - Association, Influence, Direction, Reach
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
-      Liking, Authority, and Scarcity - The Four Social Shortcuts
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority
-      Rule - How Intransigent Preferences Dominate Flexible Majorities
+  - topic/word-of-mouth
+  - topic/marketing
+  - topic/content-strategy
+  - topic/mental-models
+  - person/jonah-berger
+  - source/contagious
+status: reviewed
+updated: 2026-07-18
 ---
 
 # The STEPPS Framework - Six Drivers of Word of Mouth
@@ -114,7 +48,6 @@ Word of mouth matters because it is *targeted* (naturally reaches interested peo
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal Emotion - When We Care, We Share|High-Arousal Emotion - When We Care, We Share]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100|Practical Value - The Psychology of Deals and the Rule of 100]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue|Public - Observability and Behavioral Residue]]
@@ -135,5 +68,4 @@ Word of mouth matters because it is *targeted* (naturally reaches interested peo
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities|The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_JonahBerger_Contagious|Contagious: Why Things Catch On]]

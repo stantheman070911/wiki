@@ -1,69 +1,16 @@
 ---
-title: "Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring
-  Pulled Not Pushed"
+title: Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed
 aliases:
-  - "Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring
-    Pulled Not Pushed"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+  - Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed
+lang: en
 tags:
-  [
-    topic/recruiting,
-    topic/hiring,
-    topic/referrals,
-    topic/funnel,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-  - id: "SRC-0074"
-    role: "supporting"
-  - id: "SRC-0042"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
-      Selling Through Trusted Referrers
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
-      Supply
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp -
-      The Messy Middle and the 40-for-2 Management Trade
-  - type: related
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-7-招商加盟與組織人才
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders -
-      Reverse-Engineer OTE, Profit Pools, and Phantom Equity
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules
-      - Codify, Transfer, and Train Behavior
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Hire Right, Because the
-      Penalties for Hiring Wrong Are Huge
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
-      Organizations
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/The Mechanics of Mafia -
-      Cult-Like Culture and the Recruiting Pitch
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/備忘錄文化與 A 級人才招募 playbook
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Outbound and Inbound
-      Are Separate Teams - The Sales Career Ladder
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
-      Intellectual Property - Process Above the Player
+  - topic/recruiting
+  - topic/hiring
+  - topic/referrals
+  - topic/funnel
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed
@@ -117,7 +64,6 @@ AMA 3 sharpened the repeat-frequency rule: use an external recruiter when the ro
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger|Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint]]
 - **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
@@ -133,7 +79,6 @@ AMA 3 sharpened the repeat-frequency rule: use an external recruiter when the ro
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]
 - **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

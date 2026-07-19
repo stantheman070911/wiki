@@ -1,47 +1,16 @@
 ---
-title: "The StoryBrand Conversion Path - Problem, Plan, and Calls to Action"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: The StoryBrand Conversion Path - Problem, Plan, and Calls to Action
+lang: en
 tags:
-  [
-    topic/messaging,
-    topic/copywriting,
-    topic/sales,
-    topic/persuasion,
-    topic/trust,
-    person/donald-miller,
-    source/building-a-storybrand
-  ]
-sources:
-  - id: "SRC-0029"
-    role: "primary"
-    locator: "chapters 5–10"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing -
-      Measure Action, Build Culture Patiently
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7
-      Framework - Customer as Hero, Brand as Guide
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting
-      Fundamentals - AIDA, the Headline, and the Slippery Slope
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
-      Proof, Path - Engineering the Video Intro
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
-      - Heros Journey, the Trojan Horse, and Handling Objections
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The
-      StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment
+  - topic/messaging
+  - topic/copywriting
+  - topic/sales
+  - topic/persuasion
+  - topic/trust
+  - person/donald-miller
+  - source/building-a-storybrand
+status: draft
+updated: 2026-07-18
 ---
 
 # The StoryBrand Conversion Path - Problem, Plan, and Calls to Action
@@ -83,7 +52,6 @@ CarMax sells cars while messaging against the internal fear of haggling and bein
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing - Measure Action, Build Culture Patiently|Direct vs Brand Marketing - Measure Action, Build Culture Patiently]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide|The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope|Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]
@@ -92,5 +60,4 @@ CarMax sells cars while messaging against the internal fear of haggling and bein
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment|The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_DonaldMiller_BuildingAStoryBrand20_RawTranscript|Building a StoryBrand 2.0]] — locator: chapters 5–10

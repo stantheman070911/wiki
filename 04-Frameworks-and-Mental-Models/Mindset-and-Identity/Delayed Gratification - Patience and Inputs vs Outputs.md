@@ -1,58 +1,13 @@
 ---
-title: "Delayed Gratification - Patience and Inputs vs Outputs"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Delayed Gratification - Patience and Inputs vs Outputs
+lang: en
 tags:
-  [
-    topic/mindset,
-    topic/patience,
-    topic/inputs-vs-outputs,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0068"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Confidence Is a Receipt, Not a Requirement
-  - type: is-applied-by
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS
-      - The Percentage Lies
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder -
-      Fixing Views, Formats, and Timing
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
-      Elimination - The Deep-Work Playbook
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Hard Road
-      Is the Right Road - Second-Order Thinking and Effort Moats
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Happiness
-      Is a Skill - Presence, Peace, and Self-Care
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
-      Confidence
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80%
-      Mindset - Risk Tolerance and Refusing to Quit
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite
-      Games - Winning by Emptying the Tank
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
-      - The Zero-Follower Consistency Engine
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
-      Proficiency, Pain Tolerance, and Frustration Tolerance
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/完美主義是恐懼的偽裝：用行動與deadline打破癱瘓
+  - topic/mindset
+  - topic/patience
+  - topic/inputs-vs-outputs
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Delayed Gratification - Patience and Inputs vs Outputs
@@ -83,7 +38,6 @@ Hormozi's meta-skill of wealth-building is the ability to act without an immedia
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
 - **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS - The Percentage Lies|Maximize Net Cash, Not ROAS - The Percentage Lies]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing|Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
@@ -98,5 +52,4 @@ Hormozi's meta-skill of wealth-building is the ability to act without an immedia
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/完美主義是恐懼的偽裝：用行動與deadline打破癱瘓|完美主義是恐懼的偽裝：用行動與deadline打破癱瘓]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]

@@ -1,50 +1,16 @@
 ---
-title: "The Flywheel and the Doom Loop - Compound Momentum in One Direction"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The Flywheel and the Doom Loop - Compound Momentum in One Direction
+lang: en
 tags:
-  [
-    topic/consistency,
-    topic/execution,
-    topic/systems,
-    topic/scaling,
-    topic/growth,
-    person/jim-collins,
-    source/good-to-great
-  ]
-sources:
-  - id: "SRC-0010"
-    role: "primary"
-    locator: "chapter 8"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept
-      - Three Circles and the Economic Denominator
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly
-      Compounding and Market Size
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
-      Compounding - Too Good to Fail
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom
-      Loop and the One-Brand Bet
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
-      Discipline - Freedom, Responsibility, and Stop-Doing Lists
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Kaizen and
-      the Progress Principle
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
-      - The Zero-Follower Consistency Engine
+  - topic/consistency
+  - topic/execution
+  - topic/systems
+  - topic/scaling
+  - topic/growth
+  - person/jim-collins
+  - source/good-to-great
+status: draft
+updated: 2026-07-13
 ---
 
 # The Flywheel and the Doom Loop - Compound Momentum in One Direction
@@ -89,7 +55,6 @@ Circuit City spent roughly a decade refining its warehouse-showroom model before
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept - Three Circles and the Economic Denominator|The Hedgehog Concept - Three Circles and the Economic Denominator]]
 - **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly Compounding and Market Size|Startup Equals Growth - Weekly Compounding and Market Size]]
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail|Brand and Product Compounding - Too Good to Fail]]
@@ -99,5 +64,4 @@ Circuit City spent roughly a decade refining its warehouse-showroom model before
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal - The Zero-Follower Consistency Engine|Process as the Goal - The Zero-Follower Consistency Engine]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript|Good to Great - Raw Transcript]] — locator: chapter 8

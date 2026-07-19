@@ -1,19 +1,9 @@
 ---
-source_id: "SRC-0015"
-title: "Principles"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Ray Dalio"
-    role: "author"
-source_type: "book"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2017"
-date_archived: "2026-07-13"
-status: "source"
+title: Principles
+author: Ray Dalio
+lang: en
+published: "2017"
+archived: 2026-07-13
 ---
 
 # Principles (Ray Dalio) — Extraction Notes & Entry Map

@@ -1,43 +1,17 @@
 ---
-title: "H2H Marketing - Human-Centered Service, Trust, and Co-Creation"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: H2H Marketing - Human-Centered Service, Trust, and Co-Creation
+lang: en
 tags:
-  [
-    topic/marketing,
-    topic/trust,
-    topic/brand,
-    topic/retention,
-    person/philip-kotler,
-    person/waldemar-pfoertsch,
-    person/uwe-sponholz,
-    source/h2h-marketing
-  ]
-sources:
-  - id: "SRC-0037"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing
-      Scale - Sell the Outcome, Not Your Effort
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Marketing as
-      Service - Make Change for People You Seek to Serve
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
-      Features - Sell the Identity Behind the Product
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
-      Actually Is - Association, Influence, Direction, Reach
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With
-      Agreement - Keep the Other Mind Open
+  - topic/marketing
+  - topic/trust
+  - topic/brand
+  - topic/retention
+  - person/philip-kotler
+  - person/waldemar-pfoertsch
+  - person/uwe-sponholz
+  - source/h2h-marketing
+status: draft
+updated: 2026-07-18
 ---
 
 # H2H Marketing - Human-Centered Service, Trust, and Co-Creation
@@ -80,7 +54,6 @@ The preface contrasts the one-way 4P push model with an internet environment sha
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort|The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Marketing as Service - Make Change for People You Seek to Serve|Marketing as Service - Make Change for People You Seek to Serve]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product|Values Before Features - Sell the Identity Behind the Product]]
@@ -88,5 +61,4 @@ The preface contrasts the one-way 4P push model with an internet environment sha
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open|Start With Agreement - Keep the Other Mind Open]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_PhilipKotlerWaldemarPfoertschUweSponholz_H2HMarketingBookmatter|H2H Marketing - The Genesis of Human-to-Human Marketing]]

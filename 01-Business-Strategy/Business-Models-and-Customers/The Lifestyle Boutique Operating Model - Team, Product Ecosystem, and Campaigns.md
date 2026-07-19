@@ -1,46 +1,17 @@
 ---
-title: "The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and
-  Campaigns"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns
+lang: en
 tags:
-  [
-    topic/business-model,
-    topic/org-design,
-    topic/product,
-    topic/founder-brand,
-    topic/operations,
-    topic/scaling,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0093"
-    role: "primary"
-  - id: "SRC-0105"
-    role: "supporting"
-  - id: "SRC-0096"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
-  and Customers Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Founder Mode
-      - Direct Engagement Without Delegation Theater
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business
-      - The 50% Hire and Buying Back Time
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect
-      Repeatable Week - Designing a Predictable Business Rhythm
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/The Seven Levels of Business
-      Growth - From Side Hustle to Exit
+  - topic/business-model
+  - topic/org-design
+  - topic/product
+  - topic/founder-brand
+  - topic/operations
+  - topic/scaling
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: draft
+updated: 2026-07-13
 ---
 
 # The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns
@@ -84,14 +55,12 @@ Priestley notes that complex, low-margin restaurant units are routinely run by y
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Founder Mode - Direct Engagement Without Delegation Theater|Founder Mode - Direct Engagement Without Delegation Theater]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time|You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect Repeatable Week - Designing a Predictable Business Rhythm|The Perfect Repeatable Week - Designing a Predictable Business Rhythm]]
 - **Related:** [[01-Business-Strategy/Growth-and-Scaling/The Seven Levels of Business Growth - From Side Hustle to Exit|The Seven Levels of Business Growth - From Side Hustle to Exit]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_HowToBuildAProfitableLifestyleBusiness_RawTranscript|How to Build a Profitable Lifestyle Business - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_ZeroToSevenFiguresInFiveSteps_RawTranscript|Zero to Seven Figures in Five Steps - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_LifestyleBusinessVsPerformanceBusiness_RawTranscript|Lifestyle Business vs. Performance Business - Raw Transcript]]

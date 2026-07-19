@@ -1,46 +1,18 @@
 ---
-title: "The Virtual Firm - Falling Transaction Costs and the Unbundling of
-  Organizations"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations
+lang: en
 tags:
-  [
-    topic/business-model,
-    topic/org-design,
-    topic/automation,
-    topic/systems,
-    topic/efficiency,
-    topic/ai,
-    person/james-dale-davidson,
-    person/william-rees-mogg,
-    source/the-sovereign-individual
-  ]
-sources:
-  - id: "SRC-0009"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
-  and Customers Map
-relationships:
-  - type: has-example
-    target: 05-Intelligence-and-Research/Technology Platforms - How New Protocols
-      and Tools Shift Power
-  - type: has-example
-    target: 05-Intelligence-and-Research/The Digital-Economy Income Shift - IP,
-      Media, Data, and Code
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
-      Organizations
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business
-      Redesign - Speed to Value and Experience Moats
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Employment
-      Dependence Trade - Reliability, Freedom, and Hidden Hostages
+  - topic/business-model
+  - topic/org-design
+  - topic/automation
+  - topic/systems
+  - topic/efficiency
+  - topic/ai
+  - person/james-dale-davidson
+  - person/william-rees-mogg
+  - source/the-sovereign-individual
+status: draft
+updated: 2026-07-13
 ---
 
 # The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations
@@ -86,7 +58,6 @@ An industrial assembly line could theoretically have been operated by hundreds o
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has example:** [[05-Intelligence-and-Research/Technology Platforms - How New Protocols and Tools Shift Power|Technology Platforms - How New Protocols and Tools Shift Power]]
 - **Has example:** [[05-Intelligence-and-Research/The Digital-Economy Income Shift - IP, Media, Data, and Code|The Digital-Economy Income Shift - IP, Media, Data, and Code]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
@@ -94,5 +65,4 @@ An industrial assembly line could theoretically have been operated by hundreds o
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages|The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript|The Sovereign Individual - Raw Transcript]]

@@ -1,45 +1,16 @@
 ---
-title: "Finish and Release - Abundance Beats Perfectionism"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Finish and Release - Abundance Beats Perfectionism
+lang: en
 tags:
-  [
-    topic/creativity,
-    topic/execution,
-    topic/commitment,
-    topic/mindset,
-    person/rick-rubin,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0016"
-    role: "primary"
-  - id: "SRC-0085"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a
-      Discovery Tool - Useful, Simple, and Rewritten
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
-      to Do
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Five
-      Energies of Execution - Vision, Strategy, People, Work, Refinement
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Success -
-      Judge the Work Before the Outcome
+  - topic/creativity
+  - topic/execution
+  - topic/commitment
+  - topic/mindset
+  - person/rick-rubin
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: draft
+updated: 2026-07-13
 ---
 
 # Finish and Release - Abundance Beats Perfectionism
@@ -83,7 +54,6 @@ Rubin contrasts musicians who delay an album because it might define them foreve
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a Discovery Tool - Useful, Simple, and Rewritten|Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Five Energies of Execution - Vision, Strategy, People, Work, Refinement|Five Energies of Execution - Vision, Strategy, People, Work, Refinement]]
@@ -91,6 +61,5 @@ Rubin contrasts musicians who delay an album because it might define them foreve
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Success - Judge the Work Before the Outcome|Creative Success - Judge the Work Before the Outcome]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript|The Creative Act - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript|25 Harsh Truths at 45 - Raw Transcript]]

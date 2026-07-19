@@ -1,12 +1,7 @@
 ---
-title: "Business Models and Customers Map"
-title_zh: "商業模式與客戶導覽"
-type: "subdomain-index"
-domain: "business-strategy"
-lang: "en"
-updated: "2026-07-19"
-status: "evergreen"
-owner: "stanley-lu"
+title: Business Models and Customers Map
+title_zh: 商業模式與客戶導覽
+lang: en
 ---
 
 # Business Models and Customers Map
@@ -100,9 +95,8 @@ This folder remains flat because business-model architecture and customer design
 ## Inventory
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", type AS "Type", lang AS "Lang", tags AS "Topics", status AS "Status", updated AS "Updated"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "01-Business-Strategy/Business-Models-and-Customers"
-WHERE type != "subdomain-index"
-AND contains(list("draft", "reviewed", "evergreen"), status)
+WHERE status
 SORT file.name ASC
 ```

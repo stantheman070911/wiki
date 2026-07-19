@@ -1,46 +1,16 @@
 ---
-title: "Writing as a Discovery Tool - Useful, Simple, and Rewritten"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Writing as a Discovery Tool - Useful, Simple, and Rewritten
+lang: en
 tags:
-  [
-    topic/writing,
-    topic/content-strategy,
-    topic/simplicity,
-    topic/research,
-    topic/learning,
-    person/paul-graham,
-    source/paul-graham-essays
-  ]
-sources:
-  - id: "SRC-0046"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-  Creation and Distribution Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Finish and
-      Release - Abundance Beats Perfectionism
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Framework for Making Frameworks - Distill by Commonality
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
-      Clever - Write Below Third Grade and Meet the Avatar
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting
-      Fundamentals - AIDA, the Headline, and the Slippery Slope
-  - type: related
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Teach to Learn -
-      Public Obligation and the Feynman Loop
+  - topic/writing
+  - topic/content-strategy
+  - topic/simplicity
+  - topic/research
+  - topic/learning
+  - person/paul-graham
+  - source/paul-graham-essays
+status: draft
+updated: 2026-07-13
 ---
 
 # Writing as a Discovery Tool - Useful, Simple, and Rewritten
@@ -76,7 +46,6 @@ Graham reports essays changing their subject during revision when a secondary di
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Finish and Release - Abundance Beats Perfectionism|Finish and Release - Abundance Beats Perfectionism]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion|The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Framework for Making Frameworks - Distill by Commonality|The Framework for Making Frameworks - Distill by Commonality]]
@@ -85,5 +54,4 @@ Graham reports essays changing their subject during revision when a secondary di
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Teach to Learn - Public Obligation and the Feynman Loop|Teach to Learn - Public Obligation and the Feynman Loop]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

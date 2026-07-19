@@ -1,59 +1,16 @@
 ---
-title: "Trust Should Have a Credit Limit"
-type: "article"
-domain: "articles"
-lang: "en"
+title: Trust Should Have a Credit Limit
+lang: en
 tags:
-  [
-    topic/trust,
-    topic/reputation,
-    topic/incentives,
-    topic/risk,
-    topic/proof,
-    topic/decision-making,
-    topic/systems
-  ]
-sources:
-  - id: "SRC-0009"
-    role: "primary"
-  - id: "SRC-0012"
-    role: "supporting"
-  - id: "SRC-0015"
-    role: "supporting"
-  - id: "SRC-0095"
-    role: "supporting"
-  - id: "SRC-0065"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 07-Articles/Articles Index
-relationships:
-  - type: derives-from
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
-      Selling Through Trusted Referrers
-  - type: derives-from
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Selling Upmarket -
-      Contextual Adjacency and Land-and-Expand
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
-      Your Decision Making
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reality Filters
-      - Track Records, Costly Signals, and the Green Lumber Fallacy
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin -
-      Time Probability, Repeated Exposure, and Survival First
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the
-      Game - Aligning Upside, Downside, and Accountability
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as
-      Infrastructure
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in
-      Radical Truth and Radical Transparency
+  - topic/trust
+  - topic/reputation
+  - topic/incentives
+  - topic/risk
+  - topic/proof
+  - topic/decision-making
+  - topic/systems
+status: draft
+updated: 2026-07-13
 ---
 
 # Trust Should Have a Credit Limit
@@ -78,7 +35,6 @@ So the next time you are unsure whether to trust someone, replace the character 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Derives from:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Selling Upmarket - Contextual Adjacency and Land-and-Expand|Selling Upmarket - Contextual Adjacency and Land-and-Expand]]
 - **Derives from:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
@@ -99,7 +55,6 @@ So the next time you are unsure whether to trust someone, replace the character 
 
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript|The Sovereign Individual - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript|Skin in the Game - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]]

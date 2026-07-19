@@ -1,39 +1,15 @@
 ---
-title: "決策、風險與人生下注：Branson 四步決策、凍結生活方式與 10-10 Forever"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "zh"
+title: 決策、風險與人生下注：Branson 四步決策、凍結生活方式與 10-10 Forever
+lang: zh
 tags:
-  [
-    topic/decision-making,
-    topic/risk,
-    topic/optionality,
-    topic/mindset,
-    topic/leadership,
-    person/sharran-srivatsaa
-  ]
-sources:
-  - id: "SRC-0055"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/財富公式：專屬知識、槓桿與判斷力
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/備忘錄文化與 A 級人才招募 playbook
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/選擇、承諾與人生取捨
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/行為主義、風險定價與環境設計
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/決策、幸福與心智管理
+  - topic/decision-making
+  - topic/risk
+  - topic/optionality
+  - topic/mindset
+  - topic/leadership
+  - person/sharran-srivatsaa
+status: reviewed
+updated: 2026-07-13
 ---
 
 # 決策、風險與人生下注：Branson 四步決策、凍結生活方式與 10-10 Forever
@@ -86,7 +62,6 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **由其應用:** [[01-Business-Strategy/Finance-Capital-and-Exit/財富公式：專屬知識、槓桿與判斷力|財富公式：專屬知識、槓桿與判斷力]]
 - **由其應用:** [[03-Tactics-and-Playbooks/Hiring-and-Team/備忘錄文化與 A 級人才招募 playbook|備忘錄文化與 A 級人才招募 playbook]]
 - **相關:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/選擇、承諾與人生取捨|選擇、承諾與人生取捨]]
@@ -95,5 +70,4 @@ relationships:
 - **相關:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/決策、幸福與心智管理|決策、幸福與心智管理]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Podcasts/2026-07-08_Podcast_AnatomyOfADream_SharranSrivatsaa_10xByDoingLess|Sharran Srivatsaa - 10x by Doing Less]]

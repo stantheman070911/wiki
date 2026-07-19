@@ -1,30 +1,13 @@
 ---
-title: "I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/mindset, topic/decision-making, topic/identity, person/t-harv-eker ]
-sources:
-  - id: "SRC-0018"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and
-      the Blame-Power Law
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Admire vs. Resent
-      the Rich - Bless That Which You Want
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Bigger Than Your
-      Problems vs. Smaller Than Your Problems
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint
-      - Reprogramming Thoughts, Feelings, and Actions Around Money
+title: I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle
+lang: en
+tags:
+  - topic/mindset
+  - topic/decision-making
+  - topic/identity
+  - person/t-harv-eker
+status: draft
+updated: 2026-07-13
 ---
 
 # I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle
@@ -54,12 +37,10 @@ This is Wealth File #1 in Eker's seventeen contrasts between rich and poor minds
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and the Blame-Power Law|Accountability and the Blame-Power Law]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Admire vs. Resent the Rich - Bless That Which You Want|Admire vs. Resent the Rich - Bless That Which You Want]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Bigger Than Your Problems vs. Smaller Than Your Problems|Bigger Than Your Problems vs. Smaller Than Your Problems]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

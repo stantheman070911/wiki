@@ -1,88 +1,14 @@
 ---
-title: "What a Brand Actually Is - Association, Influence, Direction, Reach"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: What a Brand Actually Is - Association, Influence, Direction, Reach
+lang: en
 tags:
-  [
-    topic/brand,
-    topic/influence,
-    topic/reach,
-    person/alex-hormozi,
-    person/matt-gray
-  ]
-sources:
-  - id: "SRC-0066"
-    role: "primary"
-  - id: "SRC-0042"
-    role: "supporting"
-  - id: "SRC-0106"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-13"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Design for the Second Audience
-  - type: has-example
-    target: 05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era
-      Moat
-  - type: has-example
-    target: 05-Intelligence-and-Research/The Risk Continuum - Building an
-      AI-Resistant Personal Brand
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
-      Compounding - Too Good to Fail
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
-      in the Prospect's Mind
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/The 22 Immutable Laws of
-      Marketing
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/The Aesop Playbook
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom
-      Loop and the One-Brand Bet
-  - type: is-applied-by
-    target: 01-Business-Strategy/Pricing-and-Offers/High-Ticket Self-Checkout -
-      Brand and Qualification Compress the Sale
-  - type: is-applied-by
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and
-      Monetization - The Give-Content, Ask-Ads Model
-  - type: is-applied-by
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-3-品牌四大共識與市場定位
-  - type: is-applied-by
-    target: 02-Social-Media-Strategy/Brand Journey and the 3-Part Brand Story
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
-      - Heros Journey, the Trojan Horse, and Handling Objections
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a
-      Brand Signal
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/H2H Marketing -
-      Human-Centered Service, Trust, and Co-Creation
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Psychological
-      Moonshots - Improve Perception Before Reality
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension
-      Trap - Why One Name Can't Own Two Things
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Seven
-      Principles of Building an Iconic Brand
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor
-      Dilution Problem - Four Ways to Scale Past Yourself
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
-      Features - Sell the Identity Behind the Product
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
-      Framework - Six Drivers of Word of Mouth
+  - topic/brand
+  - topic/influence
+  - topic/reach
+  - person/alex-hormozi
+  - person/matt-gray
+status: reviewed
+updated: 2026-07-13
 ---
 
 # What a Brand Actually Is - Association, Influence, Direction, Reach
@@ -146,7 +72,6 @@ You can only be canceled if *all* means of communicating with an audience are re
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Design for the Second Audience|Design for the Second Audience]]
 - **Has example:** [[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat|The Attention Barbell - Brand as the AI-Era Moat]]
 - **Has example:** [[05-Intelligence-and-Research/The Risk Continuum - Building an AI-Resistant Personal Brand|The Risk Continuum: Building an AI-Resistant Personal Brand]]
@@ -170,7 +95,6 @@ You can only be canceled if *all* means of communicating with an audience are re
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode|Building a Brand - Easy Mode]]
 - **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_MattGray_WhatSteveJobsCanTeachYouAboutBusiness_RawTranscript|What Steve Jobs Can Teach You About Business - Raw Transcript]]

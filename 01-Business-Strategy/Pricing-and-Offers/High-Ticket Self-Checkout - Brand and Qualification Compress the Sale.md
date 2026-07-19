@@ -1,44 +1,15 @@
 ---
-title: "High-Ticket Self-Checkout - Brand and Qualification Compress the Sale"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: High-Ticket Self-Checkout - Brand and Qualification Compress the Sale
+lang: en
 tags:
-  [
-    topic/pricing,
-    topic/sales,
-    topic/funnel,
-    topic/brand,
-    topic/qualification,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0042"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
-      Actually Is - Association, Influence, Direction, Reach
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
-      Intellectual Property - Process Above the Player
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Selling Upmarket -
-      Contextual Adjacency and Land-and-Expand
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
-      Traffic Before the Core Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
-      Slam Offer
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid
-      and the Halo Strategy
+  - topic/pricing
+  - topic/sales
+  - topic/funnel
+  - topic/brand
+  - topic/qualification
+  - person/alex-hormozi
+status: draft
+updated: 2026-07-13
 ---
 
 # High-Ticket Self-Checkout - Brand and Qualification Compress the Sale
@@ -79,7 +50,6 @@ Hormozi points to six-figure cars bought online as a counterexample to the claim
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Selling Upmarket - Contextual Adjacency and Land-and-Expand|Selling Upmarket - Contextual Adjacency and Land-and-Expand]]
@@ -88,5 +58,4 @@ Hormozi points to six-figure cars bought online as a counterexample to the claim
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid and the Halo Strategy|The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

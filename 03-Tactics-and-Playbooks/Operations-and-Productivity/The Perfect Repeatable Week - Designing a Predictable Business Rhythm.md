@@ -1,45 +1,16 @@
 ---
-title: "The Perfect Repeatable Week - Designing a Predictable Business Rhythm"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: The Perfect Repeatable Week - Designing a Predictable Business Rhythm
+lang: en
 tags:
-  [
-    topic/operations,
-    topic/systems,
-    topic/execution,
-    topic/consistency,
-    topic/leadership,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0101"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
-  Productivity Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Lifestyle
-      Boutique Operating Model - Team, Product Ecosystem, and Campaigns
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5A
-      Operating System
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
-      to Do
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time -
-      Record, Eliminate, and Consolidate
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
-      Rhythm - Leads, Appointments, Presentations, and Sales
+  - topic/operations
+  - topic/systems
+  - topic/execution
+  - topic/consistency
+  - topic/leadership
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: draft
+updated: 2026-07-13
 ---
 
 # The Perfect Repeatable Week - Designing a Predictable Business Rhythm
@@ -84,7 +55,6 @@ Priestley compares the model with a touring band: the show, pack-down, travel, s
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns|The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns]]
 - **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed|Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven Demand]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5A Operating System|The 5A Operating System - Alignment, Awareness, Accountabilities, Activities, and Assets]]
@@ -93,5 +63,4 @@ Priestley compares the model with a touring band: the show, pack-down, travel, s
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_SevenBoringHabitsForSevenFigureBusinesses_RawTranscript|Seven Boring Habits for Seven-Figure Businesses - Raw Transcript]]

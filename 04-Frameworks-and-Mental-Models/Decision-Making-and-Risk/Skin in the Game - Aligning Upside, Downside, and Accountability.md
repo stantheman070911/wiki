@@ -1,43 +1,17 @@
 ---
-title: "Skin in the Game - Aligning Upside, Downside, and Accountability"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Skin in the Game - Aligning Upside, Downside, and Accountability
+lang: en
 tags:
-  [
-    topic/incentives,
-    topic/risk,
-    topic/decision-making,
-    topic/trust,
-    topic/feedback,
-    topic/leadership,
-    person/nassim-nicholas-taleb,
-    source/skin-in-the-game
-  ]
-sources:
-  - id: "SRC-0012"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Trust Should Have a Credit Limit
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders -
-      Reverse-Engineer OTE, Profit Pools, and Phantom Equity
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reality Filters
-      - Track Records, Costly Signals, and the Green Lumber Fallacy
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin -
-      Time Probability, Repeated Exposure, and Survival First
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as
-      Infrastructure
+  - topic/incentives
+  - topic/risk
+  - topic/decision-making
+  - topic/trust
+  - topic/feedback
+  - topic/leadership
+  - person/nassim-nicholas-taleb
+  - source/skin-in-the-game
+status: draft
+updated: 2026-07-13
 ---
 
 # Skin in the Game - Aligning Upside, Downside, and Accountability
@@ -83,7 +57,6 @@ Taleb contrasts hedge-fund owner-operators, who often invest substantial persona
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Trust Should Have a Credit Limit|Trust Should Have a Credit Limit]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity|Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy|Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]]
@@ -91,5 +64,4 @@ Taleb contrasts hedge-fund owner-operators, who often invest substantial persona
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as Infrastructure|Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript|Skin in the Game - Raw Transcript]]

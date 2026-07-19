@@ -1,12 +1,7 @@
 ---
-title: "Content Creation and Distribution Map"
-title_zh: "內容創作與分發導覽"
-type: "subdomain-index"
-domain: "tactics-and-playbooks"
-lang: "en"
-updated: "2026-07-19"
-status: "evergreen"
-owner: "stanley-lu"
+title: Content Creation and Distribution Map
+title_zh: 內容創作與分發導覽
+lang: en
 ---
 
 # Content Creation and Distribution Map
@@ -68,9 +63,8 @@ This folder has a dedicated MOC because production mechanics, message design, te
 ## Inventory
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", type AS "Type", lang AS "Lang", tags AS "Topics", status AS "Status", updated AS "Updated"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "03-Tactics-and-Playbooks/Content-Creation-and-Distribution"
-WHERE type != "subdomain-index"
-AND contains(list("draft", "reviewed", "evergreen"), status)
+WHERE status
 SORT file.name ASC
 ```

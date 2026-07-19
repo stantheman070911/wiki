@@ -1,39 +1,16 @@
 ---
-title: "ChatGPT Advertising - Intent, Memory, and Human Escalation"
-type: "research"
-domain: "intelligence-and-research"
-lang: "en"
+title: ChatGPT Advertising - Intent, Memory, and Human Escalation
+lang: en
 tags:
-  [
-    topic/ai,
-    topic/advertising,
-    topic/paid-ads,
-    topic/personal-brand,
-    topic/cta,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0087"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 05-Intelligence-and-Research/Intelligence and Research Index
-relationships:
-  - type: example
-    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
-      Traffic Before the Core Offer
-  - type: example
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS
-      - The Percentage Lies
-  - type: related
-    target: 05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era
-      Moat
-  - type: related
-    target: 05-Intelligence-and-Research/The Risk Continuum - Building an
-      AI-Resistant Personal Brand
+  - topic/ai
+  - topic/advertising
+  - topic/paid-ads
+  - topic/personal-brand
+  - topic/cta
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: draft
+updated: 2026-07-13
 ---
 
 # ChatGPT Advertising - Intent, Memory, and Human Escalation
@@ -76,12 +53,10 @@ Priestley compares the possible opening with early search and social advertising
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Example:** [[01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold Traffic Before the Core Offer|The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
 - **Example:** [[01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS - The Percentage Lies|Maximize Net Cash, Not ROAS - The Percentage Lies]]
 - **Related:** [[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat|The Attention Barbell - Brand as the AI-Era Moat]]
 - **Related:** [[05-Intelligence-and-Research/The Risk Continuum - Building an AI-Resistant Personal Brand|The Risk Continuum: Building an AI-Resistant Personal Brand]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_ChatGPTAdsOpportunity_RawTranscript|ChatGPT Ads Opportunity - Raw Transcript]]

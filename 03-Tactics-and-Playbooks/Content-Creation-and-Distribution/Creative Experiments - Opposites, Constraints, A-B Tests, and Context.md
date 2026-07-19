@@ -1,50 +1,14 @@
 ---
-title: "Creative Experiments - Opposites, Constraints, A-B Tests, and Context"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Creative Experiments - Opposites, Constraints, A-B Tests, and Context
+lang: en
 tags:
-  [
-    topic/creativity,
-    topic/innovation,
-    topic/decision-making,
-    topic/feedback,
-    person/rick-rubin
-  ]
-sources:
-  - id: "SRC-0016"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-  Creation and Distribution Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
-      Product-Discovery Loop - Launch, Learn, Evolve, Delight
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
-      Open-Minded
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation,
-      Quantification, and Orchestration - The Business Development Loop
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Out-Fail the
-      Competition - Building an Experimentation System
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for
-      Makers - Constraints for Designing Good Things
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative
-      Cooperation - Feedback, Friction, and Choice C
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative
-      Receptivity - Awareness, Attention, and the Artist's Filter
+  - topic/creativity
+  - topic/innovation
+  - topic/decision-making
+  - topic/feedback
+  - person/rick-rubin
+status: draft
+updated: 2026-07-13
 ---
 
 # Creative Experiments - Opposites, Constraints, A-B Tests, and Context
@@ -89,7 +53,6 @@ Georges Perec wrote a novel without the letter “e,” Yves Klein limited his p
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation, Quantification, and Orchestration - The Business Development Loop|Innovation, Quantification, and Orchestration - The Business Development Loop]]
@@ -100,5 +63,4 @@ Georges Perec wrote a novel without the letter “e,” Yves Klein limited his p
 - **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Receptivity - Awareness, Attention, and the Artist's Filter|Creative Receptivity - Awareness, Attention, and the Artist's Filter]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript|The Creative Act - Raw Transcript]]

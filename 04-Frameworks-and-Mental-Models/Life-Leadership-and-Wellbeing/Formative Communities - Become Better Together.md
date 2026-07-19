@@ -1,39 +1,15 @@
 ---
-title: "Formative Communities - Become Better Together"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Formative Communities - Become Better Together
+lang: en
 tags:
-  [
-    topic/culture,
-    topic/trust,
-    topic/learning,
-    person/bill-burnett,
-    person/dave-evans,
-    source/how-to-live-a-meaningful-life
-  ]
-sources:
-  - id: "SRC-0027"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-  Leadership and Wellbeing Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions
-      - Formation Beyond Problem Solving
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate
-      Meaningful Work and Meaningful Relationships
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-      Design Compass - Workview, Lifeview, and Coherency
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Moment-Making
-      - Crafted, Discovered, and Savored Experiences
+  - topic/culture
+  - topic/trust
+  - topic/learning
+  - person/bill-burnett
+  - person/dave-evans
+  - source/how-to-live-a-meaningful-life
+status: draft
+updated: 2026-07-18
 ---
 
 # Formative Communities - Become Better Together
@@ -76,12 +52,10 @@ In Stanford’s Distinguished Careers Institute, highly accomplished and well-co
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions - Formation Beyond Problem Solving|Focus Questions - Formation Beyond Problem Solving]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate Meaningful Work and Meaningful Relationships|Cultivate Meaningful Work and Meaningful Relationships]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Design Compass - Workview, Lifeview, and Coherency|Life Design Compass - Workview, Lifeview, and Coherency]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Moment-Making - Crafted, Discovered, and Savored Experiences|Moment-Making - Crafted, Discovered, and Savored Experiences]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_HowToLiveAMeaningfulLife_RawTranscript|How to Live a Meaningful Life]]

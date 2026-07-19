@@ -1,39 +1,15 @@
 ---
-title: "Trust and Tension - Move People Without Coercion"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Trust and Tension - Move People Without Coercion
+lang: en
 tags:
-  [
-    topic/trust,
-    topic/persuasion,
-    topic/influence,
-    topic/marketing,
-    person/seth-godin,
-    source/this-is-marketing
-  ]
-sources:
-  - id: "SRC-0039"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
-  and Influence Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control -
-      Constructive Tension Across the Sale
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as
-      Infrastructure
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/People Like Us
-      Do Things Like This - Culture and Status as Behavior
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical
-      Empathy - Labels, Silence, and the Accusation Audit
+  - topic/trust
+  - topic/persuasion
+  - topic/influence
+  - topic/marketing
+  - person/seth-godin
+  - source/this-is-marketing
+status: draft
+updated: 2026-07-18
 ---
 
 # Trust and Tension - Move People Without Coercion
@@ -77,12 +53,10 @@ Slack created useful tension inside teams: the service became more valuable as c
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control - Constructive Tension Across the Sale|Taking Control - Constructive Tension Across the Sale]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as Infrastructure|Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/People Like Us Do Things Like This - Culture and Status as Behavior|People Like Us Do Things Like This - Culture and Status as Behavior]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical Empathy - Labels, Silence, and the Accusation Audit|Tactical Empathy - Labels, Silence, and the Accusation Audit]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript|This Is Marketing]]

@@ -1,41 +1,13 @@
 ---
-title: "The Godfather Offer - A Seven-Part Framework for an Irresistible Offer"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
-tags: [ topic/offers, topic/pricing, topic/persuasion, person/sabri-suby ]
-sources:
-  - id: "SRC-0078"
-    role: "primary"
-  - id: "SRC-0084"
-    role: "supporting"
-date_added: "2026-07-10"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Direct-Response
-      Copywriting
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
-      Period - The Three Numbers That Decide If You Win
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing
-      Scale - Sell the Outcome, Not Your Effort
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get
-      Them What They Need - The Defined-End Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
-      Slam Offer
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid
-      and the Halo Strategy
+title: The Godfather Offer - A Seven-Part Framework for an Irresistible Offer
+lang: en
+tags:
+  - topic/offers
+  - topic/pricing
+  - topic/persuasion
+  - person/sabri-suby
+status: draft
+updated: 2026-07-13
 ---
 
 # The Godfather Offer - A Seven-Part Framework for an Irresistible Offer
@@ -84,7 +56,6 @@ Suby's construction method for what he calls a "Godfather Offer" — the offer n
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Direct-Response Copywriting|Direct-Response Copywriting - NEWIF, the Nine Questions, and Three Conversion-Killing Mistakes]]
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
 - **Related:** [[01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort|The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
@@ -94,6 +65,5 @@ Suby's construction method for what he calls a "Godfather Offer" — the offer n
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid and the Halo Strategy|The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook|Customer Acquisition, Offers, And Ads Playbook]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]

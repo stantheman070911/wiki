@@ -1,11 +1,6 @@
 ---
-title: "Inbox"
-type: "inbox-index"
-domain: "inbox"
-lang: "en"
-updated: "2026-07-19"
-status: "evergreen"
-owner: "stanley-lu"
+title: Inbox
+lang: en
 ---
 
 # Inbox

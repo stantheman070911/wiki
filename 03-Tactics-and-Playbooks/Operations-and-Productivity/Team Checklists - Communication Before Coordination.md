@@ -1,44 +1,14 @@
 ---
-title: "Team Checklists - Communication Before Coordination"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Team Checklists - Communication Before Coordination
+lang: en
 tags:
-  [
-    topic/operations,
-    topic/org-design,
-    topic/leadership,
-    person/atul-gawande,
-    source/checklist-manifesto
-  ]
-sources:
-  - id: "SRC-0024"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
-  Productivity Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
-      Discipline - Freedom, Responsibility, and Stop-Doing Lists
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity
-      Needs Standards and Distributed Judgment
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
-      Organizations
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Checklist Design -
-      Pause Points, Killer Items, and Field Testing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
-      - SOPs, Checklists, and Systematizing the Vital 20%
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as
-      Managerial Production
+  - topic/operations
+  - topic/org-design
+  - topic/leadership
+  - person/atul-gawande
+  - source/checklist-manifesto
+status: draft
+updated: 2026-07-18
 ---
 
 # Team Checklists - Communication Before Coordination
@@ -81,7 +51,6 @@ Construction firms use both task schedules and "submittal" schedules that force 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity Needs Standards and Distributed Judgment|Complexity Needs Standards and Distributed Judgment]]
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
@@ -90,5 +59,4 @@ Construction firms use both task schedules and "submittal" schedules that force 
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as Managerial Production|Meetings as Managerial Production]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AtulGawande_TheChecklistManifesto_RawTranscript|The Checklist Manifesto - Raw Transcript]]

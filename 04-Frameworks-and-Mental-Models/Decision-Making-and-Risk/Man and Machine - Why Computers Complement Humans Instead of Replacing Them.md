@@ -1,45 +1,14 @@
 ---
-title: "Man and Machine - Why Computers Complement Humans Instead of Replacing Them"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Man and Machine - Why Computers Complement Humans Instead of Replacing Them
+lang: en
 tags:
-  [
-    topic/ai,
-    topic/automation,
-    topic/mental-models,
-    topic/decision-making,
-    person/peter-thiel
-  ]
-sources:
-  - id: "SRC-0014"
-    role: "primary"
-    locator: "ch. 12"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: has-example
-    target: 05-Intelligence-and-Research/Technology Platforms - How New Protocols
-      and Tools Shift Power
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations -
-      Co-founders, Ownership, Possession, Control, and Vesting
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to
-      Make Decisions Effectively - Expected Value, Levels, and Algorithms
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How
-      to Find What Everyone Else Has Missed
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Technology as
-      an Accelerator, Not a Strategy
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law
-      of Venture Capital and Careers
+  - topic/ai
+  - topic/automation
+  - topic/mental-models
+  - topic/decision-making
+  - person/peter-thiel
+status: reviewed
+updated: 2026-07-13
 ---
 
 # Man and Machine - Why Computers Complement Humans Instead of Replacing Them
@@ -80,7 +49,6 @@ Thiel treats "computers eclipse humans on every dimension" as a real but distant
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has example:** [[05-Intelligence-and-Research/Technology Platforms - How New Protocols and Tools Shift Power|Technology Platforms - How New Protocols and Tools Shift Power]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting|Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms|Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms]]
@@ -89,5 +57,4 @@ Thiel treats "computers eclipse humans on every dimension" as a real but distant
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law of Venture Capital and Careers|The Power Law of Venture Capital and Careers]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 12

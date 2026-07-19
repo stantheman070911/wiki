@@ -1,29 +1,15 @@
 ---
-title: "Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity"
+title: Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity
 aliases:
-  - "Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/mindset, topic/decision-making, topic/wealth, person/t-harv-eker ]
-sources:
-  - id: "SRC-0018"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on
-      Opportunities vs. Focus on Obstacles - Ready, Fire, Aim
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money
-      Well - The Habit Matters More Than the Amount
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint
-      - Reprogramming Thoughts, Feelings, and Actions Around Money
+  - Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity
+lang: en
+tags:
+  - topic/mindset
+  - topic/decision-making
+  - topic/wealth
+  - person/t-harv-eker
+status: draft
+updated: 2026-07-13
 ---
 
 # Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity
@@ -49,11 +35,9 @@ Wealth File #12. Eker frames this as a scarcity-vs-abundance split: poor and mid
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim|Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money Well - The Habit Matters More Than the Amount|Manage Your Money Well - The Habit Matters More Than the Amount]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

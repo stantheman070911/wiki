@@ -1,51 +1,14 @@
 ---
-title: "Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope
+lang: en
 tags:
-  [
-    topic/copywriting,
-    topic/hooks,
-    topic/persuasion,
-    topic/advertising,
-    person/sam-parr
-  ]
-sources:
-  - id: "SRC-0058"
-    role: "primary"
-date_added: "2026-07-10"
-updated: "2026-07-10"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-  Creation and Distribution Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation
-      and Commitment - Persuasion's Two Deepest Levers
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of
-      Influence - Click-Whirr, Trigger Features, and the Contrast Principle
-  - type: has-derivative
-    target: 07-Articles/Steal the Format, Not the Idea
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
-      Clever - Write Below Third Grade and Meet the Avatar
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
-      Proof, Path - Engineering the Video Intro
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
-      - Heros Journey, the Trojan Horse, and Handling Objections
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a
-      Discovery Tool - Useful, Simple, and Rewritten
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音文案全公式：標題、開頭、結尾與腳本結構
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand
-      Conversion Path - Problem, Plan, and Calls to Action
+  - topic/copywriting
+  - topic/hooks
+  - topic/persuasion
+  - topic/advertising
+  - person/sam-parr
+status: draft
+updated: 2026-07-10
 ---
 
 # Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope
@@ -89,7 +52,6 @@ For anyone writing ads, hooks, scripts, or sales pages who wants the load-bearin
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation and Commitment - Persuasion's Two Deepest Levers|Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle|Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
 - **Has derivative:** [[07-Articles/Steal the Format, Not the Idea|Steal the Format, Not the Idea]]
@@ -101,5 +63,4 @@ For anyone writing ads, hooks, scripts, or sales pages who wants the load-bearin
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand Conversion Path - Problem, Plan, and Calls to Action|The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Podcasts/2026-07-10_Podcast_SamParr_The2BillionCopywritingSecret|The $2 Billion Copywriting Secret Behind The Most Successful Ad Ever — w/ Sam Parr (Sweat Equity)]]

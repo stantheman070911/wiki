@@ -1,39 +1,15 @@
 ---
-title: "People Like Us Do Things Like This - Culture and Status as Behavior"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: People Like Us Do Things Like This - Culture and Status as Behavior
+lang: en
 tags:
-  [
-    topic/culture,
-    topic/identity,
-    topic/influence,
-    topic/marketing,
-    person/seth-godin,
-    source/this-is-marketing
-  ]
-sources:
-  - id: "SRC-0039"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
-  and Influence Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
-      Features - Sell the Identity Behind the Product
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
-      Observability and Behavioral Residue
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency
-      - We Share What Makes Us Look Good
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and
-      Tension - Move People Without Coercion
+  - topic/culture
+  - topic/identity
+  - topic/influence
+  - topic/marketing
+  - person/seth-godin
+  - source/this-is-marketing
+status: draft
+updated: 2026-07-18
 ---
 
 # People Like Us Do Things Like This - Culture and Status as Behavior
@@ -77,12 +53,10 @@ Water Health International used brightly colored clean-water containers that mad
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product|Values Before Features - Sell the Identity Behind the Product]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue|Public - Observability and Behavioral Residue]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good|Social Currency - We Share What Makes Us Look Good]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and Tension - Move People Without Coercion|Trust and Tension - Move People Without Coercion]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript|This Is Marketing]]

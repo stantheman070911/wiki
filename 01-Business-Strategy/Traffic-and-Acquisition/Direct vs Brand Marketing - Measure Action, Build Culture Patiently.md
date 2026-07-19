@@ -1,40 +1,17 @@
 ---
-title: "Direct vs Brand Marketing - Measure Action, Build Culture Patiently"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Direct vs Brand Marketing - Measure Action, Build Culture Patiently
+lang: en
 tags:
-  [
-    topic/advertising,
-    topic/paid-ads,
-    topic/brand,
-    topic/funnel,
-    topic/ltv,
-    topic/marketing,
-    person/seth-godin,
-    source/this-is-marketing
-  ]
-sources:
-  - id: "SRC-0039"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability -
-      Own Attention and Design Word of Mouth
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals -
-      Engineering Word of Mouth Through Goodwill
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand
-      Conversion Path - Problem, Plan, and Calls to Action
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom
-      Loop and the One-Brand Bet
+  - topic/advertising
+  - topic/paid-ads
+  - topic/brand
+  - topic/funnel
+  - topic/ltv
+  - topic/marketing
+  - person/seth-godin
+  - source/this-is-marketing
+status: draft
+updated: 2026-07-18
 ---
 
 # Direct vs Brand Marketing - Measure Action, Build Culture Patiently
@@ -81,12 +58,10 @@ Traditional direct-mail businesses compared the cost of sending letters with the
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability - Own Attention and Design Word of Mouth|Permission and Remarkability - Own Attention and Design Word of Mouth]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals - Engineering Word of Mouth Through Goodwill|Referrals - Engineering Word of Mouth Through Goodwill]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand Conversion Path - Problem, Plan, and Calls to Action|The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
 - **Related:** [[01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom Loop and the One-Brand Bet|The Direct-Response Doom Loop and the One-Brand Bet]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript|This Is Marketing]]

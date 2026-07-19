@@ -1,44 +1,14 @@
 ---
-title: "Referrals - Engineering Word of Mouth Through Goodwill"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Referrals - Engineering Word of Mouth Through Goodwill
+lang: en
 tags:
-  [
-    topic/referrals,
-    topic/word-of-mouth,
-    topic/retention,
-    topic/sales,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0019"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
-      Selling Through Trusted Referrers
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing -
-      Measure Action, Build Culture Patiently
-  - type: applies
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
-      Rule of 100 - Lead Generation Fundamentals
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
-      Framework - Six Drivers of Word of Mouth
-  - type: related
-    target: 03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability -
-      Own Attention and Design Word of Mouth
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies -
-      Recruiting Businesses to Sell for You
+  - topic/referrals
+  - topic/word-of-mouth
+  - topic/retention
+  - topic/sales
+  - person/alex-hormozi
+status: draft
+updated: 2026-07-18
 ---
 
 # Referrals - Engineering Word of Mouth Through Goodwill
@@ -83,7 +53,6 @@ Three components: how you give the incentive, what you incentivize with, how you
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
 - **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing - Measure Action, Build Culture Patiently|Direct vs Brand Marketing - Measure Action, Build Culture Patiently]]
 - **Applies:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
@@ -92,5 +61,4 @@ Three components: how you give the incentive, what you incentivize with, how you
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies - Recruiting Businesses to Sell for You|Affiliate Armies - Recruiting Businesses to Sell for You]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript|$100M Leads]]

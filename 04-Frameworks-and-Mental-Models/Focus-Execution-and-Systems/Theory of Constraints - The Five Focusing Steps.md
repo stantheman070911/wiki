@@ -1,46 +1,17 @@
 ---
-title: "Theory of Constraints - The Five Focusing Steps"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Theory of Constraints - The Five Focusing Steps
+lang: en
 tags:
-  [
-    topic/theory-of-constraints,
-    topic/focus,
-    topic/root-cause,
-    topic/systems,
-    topic/execution,
-    person/eliyahu-m-goldratt,
-    person/jeff-cox,
-    source/the-goal
-  ]
-sources:
-  - id: "SRC-0030"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Drum-Buffer-Rope -
-      Release Work at the Constraint's Pace
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth
-      Sprints - Analyze, Ask, and Act
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
-      Supply
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Dependent
-      Events and Statistical Fluctuations - Why Balanced Capacity Fails
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput
-      Accounting - Manage the System, Not Local Costs
-  - type: related
-    target: 07-Articles/Fix the Bottleneck, Not Everything
+  - topic/theory-of-constraints
+  - topic/focus
+  - topic/root-cause
+  - topic/systems
+  - topic/execution
+  - person/eliyahu-m-goldratt
+  - person/jeff-cox
+  - source/the-goal
+status: draft
+updated: 2026-07-18
 ---
 
 # Theory of Constraints - The Five Focusing Steps
@@ -80,7 +51,6 @@ Bearington first identified heat treatment and the NCX-10 as bottlenecks. It gai
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Drum-Buffer-Rope - Release Work at the Constraint's Pace|Drum-Buffer-Rope - Release Work at the Constraint's Pace]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth Sprints - Analyze, Ask, and Act|Triple-A Growth Sprints - Analyze, Ask, and Act]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
@@ -89,5 +59,4 @@ Bearington first identified heat treatment and the NCX-10 as bottlenecks. It gai
 - **Related:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_EliyahuMGoldrattJeffCox_TheGoal_RawTranscript|The Goal]]

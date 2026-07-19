@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0067"
-title: "Grow an Audience from 0 Followers"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Alex Hormozi"
-    role: "creator"
-source_type: "video"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-08"
-status: "source"
+title: Grow an Audience from 0 Followers
+author: Alex Hormozi
+lang: en
+archived: 2026-07-08
 ---
 
 # How to Grow an Audience if You Have 0 Followers (Alex Hormozi) — Extraction Notes & Entry Map

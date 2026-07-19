@@ -1,30 +1,13 @@
 ---
-title: "Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/mindset, topic/risk, topic/focus, person/t-harv-eker ]
-sources:
-  - id: "SRC-0018"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Act in Spite of
-      Fear vs. Let Fear Stop You
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Bigger Than Your
-      Problems vs. Smaller Than Your Problems
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think 'Both' vs.
-      Think 'Either-Or' - Abundance Over Scarcity
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think
-      Small - The Law of Income
+title: Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim
+lang: en
+tags:
+  - topic/mindset
+  - topic/risk
+  - topic/focus
+  - person/t-harv-eker
+status: draft
+updated: 2026-07-13
 ---
 
 # Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim
@@ -54,12 +37,10 @@ Wealth File #5. Eker distinguishes this from generic "positive thinking": it's a
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Act in Spite of Fear vs. Let Fear Stop You|Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Bigger Than Your Problems vs. Smaller Than Your Problems|Bigger Than Your Problems vs. Smaller Than Your Problems]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think 'Both' vs. Think 'Either-Or' - Abundance Over Scarcity|Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think Small - The Law of Income|Think Big vs. Think Small - The Law of Income]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

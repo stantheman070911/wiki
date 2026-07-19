@@ -1,46 +1,15 @@
 ---
-title: "Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/research,
-    topic/qualification,
-    topic/value-creation,
-    person/keenan,
-    source/gap-selling
-  ]
-sources:
-  - id: "SRC-0034"
-    role: "primary"
-    locator: "chapters 2–4 and 8"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Gap Selling -
-      Current State, Future State, and the Value of Change
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching -
-      Insight That Leads to Unique Strengths
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
-      Sell the Goal, Scope the Journey, Secure Prepayment
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Problem-Centric
-      Discovery - Four Question Types and the CRM Challenge
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery -
-      Situation, Problem, Implication, and Need-Payoff
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem
-      Identification Chart - Problems, Impacts, and Root Causes
+  - topic/sales
+  - topic/research
+  - topic/qualification
+  - topic/value-creation
+  - person/keenan
+  - source/gap-selling
+status: draft
+updated: 2026-07-18
 ---
 
 # Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion
@@ -86,7 +55,6 @@ A theater's disconnected ticketing and CRM systems are not valuable merely becau
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Gap Selling - Current State, Future State, and the Value of Change|Gap Selling - Current State, Future State, and the Value of Change]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching - Insight That Leads to Unique Strengths|Commercial Teaching - Insight That Leads to Unique Strengths]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
@@ -95,5 +63,4 @@ A theater's disconnected ticketing and CRM systems are not valuable merely becau
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem Identification Chart - Problems, Impacts, and Root Causes|The Problem Identification Chart - Problems, Impacts, and Root Causes]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_Keenan_GapSelling_RawTranscript|Gap Selling]] — locator: chapters 2–4 and 8

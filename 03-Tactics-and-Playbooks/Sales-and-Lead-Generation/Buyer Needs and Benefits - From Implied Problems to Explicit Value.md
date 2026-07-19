@@ -1,40 +1,15 @@
 ---
-title: "Buyer Needs and Benefits - From Implied Problems to Explicit Value"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Buyer Needs and Benefits - From Implied Problems to Explicit Value
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/value-equation,
-    topic/value-creation,
-    topic/persuasion,
-    person/neil-rackham,
-    source/the-spin-selling-fieldbook
-  ]
-sources:
-  - id: "SRC-0036"
-    role: "primary"
-    locator: "chapters 6 and 11"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
-      Features - Sell the Identity Behind the Product
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Gap Selling -
-      Current State, Future State, and the Value of Change
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
-      Sell the Goal, Scope the Journey, Secure Prepayment
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery -
-      Situation, Problem, Implication, and Need-Payoff
+  - topic/sales
+  - topic/value-equation
+  - topic/value-creation
+  - topic/persuasion
+  - person/neil-rackham
+  - source/the-spin-selling-fieldbook
+status: draft
+updated: 2026-07-18
 ---
 
 # Buyer Needs and Benefits - From Implied Problems to Explicit Value
@@ -79,12 +54,10 @@ A material that is easier for technicians to use solves only one part of a compl
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product|Values Before Features - Sell the Identity Behind the Product]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Gap Selling - Current State, Future State, and the Value of Change|Gap Selling - Current State, Future State, and the Value of Change]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery - Situation, Problem, Implication, and Need-Payoff|SPIN Discovery - Situation, Problem, Implication, and Need-Payoff]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_NeilRackham_TheSPINSellingFieldbook_RawTranscript|The SPIN Selling Fieldbook]] — locator: chapters 6 and 11

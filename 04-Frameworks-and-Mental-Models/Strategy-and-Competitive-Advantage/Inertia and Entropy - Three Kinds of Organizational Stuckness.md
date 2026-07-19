@@ -1,36 +1,15 @@
 ---
-title: "Inertia and Entropy - Three Kinds of Organizational Stuckness"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Inertia and Entropy - Three Kinds of Organizational Stuckness
+lang: en
 tags:
-  [
-    topic/strategy,
-    topic/culture,
-    topic/systems,
-    topic/org-design,
-    person/richard-rumelt,
-    source/good-strategy-bad-strategy
-  ]
-sources:
-  - id: "SRC-0038"
-    role: "primary"
-    locator: "Ch. 14"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Chain-Link
-      Systems - Getting Stuck and Getting Unstuck
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Riding
-      Waves of Change - Five Guideposts for Industry Transitions
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy
-      as Design - Coordinating Actions Under Constraint
+  - topic/strategy
+  - topic/culture
+  - topic/systems
+  - topic/org-design
+  - person/richard-rumelt
+  - source/good-strategy-bad-strategy
+status: draft
+updated: 2026-07-18
 ---
 
 # Inertia and Entropy - Three Kinds of Organizational Stuckness
@@ -73,11 +52,9 @@ Names the internal-decay half of what [[Riding Waves of Change - Five Guideposts
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Chain-Link Systems - Getting Stuck and Getting Unstuck|Chain-Link Systems - Getting Stuck and Getting Unstuck]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Riding Waves of Change - Five Guideposts for Industry Transitions|Riding Waves of Change - Five Guideposts for Industry Transitions]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy as Design - Coordinating Actions Under Constraint|Strategy as Design - Coordinating Actions Under Constraint]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 14

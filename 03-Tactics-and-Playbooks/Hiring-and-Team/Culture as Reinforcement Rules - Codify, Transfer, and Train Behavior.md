@@ -1,57 +1,17 @@
 ---
-title: "Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior
+lang: en
 tags:
-  [
-    topic/culture,
-    topic/management,
-    topic/leadership,
-    topic/systems,
-    topic/hiring,
-    person/alex-hormozi,
-    person/michael-gerber,
-    source/e-myth-revisited
-  ]
-sources:
-  - id: "SRC-0042"
-    role: "primary"
-  - id: "SRC-0011"
-    role: "supporting"
-    locator: "chapters 15–16"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build
-      the Business as the Product
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
-      Discipline - Freedom, Responsibility, and Stop-Doing Lists
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a
-      Culture Where Mistakes Are Okay But Not Learning From Them Isn't
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary
-      Aim and Strategic Objective - Make the Business Serve the Life
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
-      Organizations
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/The Mechanics of Mafia -
-      Cult-Like Culture and the Recruiting Pitch
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and
-      Protocols to Shape How Work Is Done
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
-      Intellectual Property - Process Above the Player
+  - topic/culture
+  - topic/management
+  - topic/leadership
+  - topic/systems
+  - topic/hiring
+  - person/alex-hormozi
+  - person/michael-gerber
+  - source/e-myth-revisited
+status: draft
+updated: 2026-07-13
 ---
 
 # Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior
@@ -100,7 +60,6 @@ In the AMA, a real-estate brokerage opening a second market is advised to codify
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build the Business as the Product|The Franchise Prototype - Build the Business as the Product]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
@@ -112,6 +71,5 @@ In the AMA, a real-estate brokerage opening a second market is advised to codify
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript|The E-Myth Revisited - Raw Transcript]] — locator: chapters 15–16

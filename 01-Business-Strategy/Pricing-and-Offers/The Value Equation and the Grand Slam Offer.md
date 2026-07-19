@@ -1,82 +1,13 @@
 ---
-title: "The Value Equation and the Grand Slam Offer"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
-tags: [ topic/offers, topic/value-equation, topic/pricing, person/alex-hormozi ]
-sources:
-  - id: "SRC-0021"
-    role: "primary"
-  - id: "SRC-0001"
-    role: "supporting"
-  - id: "SRC-0074"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-13"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Engineering a Grand
-      Slam Offer - Problems, Solutions, Trim and Stack
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Psychological
-      Moonshots - Improve Perception Before Reality
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand,
-      Communicate, and Deliver Customer Value
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value
-      - The Psychology of Deals and the Rule of 100
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal -
-      The Guarantee Toolkit
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and
-      Urgency - Engineering Demand with Supply and Deadlines
-  - type: has-derivative
-    target: 07-Articles/Change the Comparison Before You Change the Price
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
-      Sell the Goal, Scope the Journey, Secure Prepayment
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Engineering a Grand
-      Slam Offer - Problems, Solutions, Trim and Stack
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
-      Rule of 100 - Lead Generation Fundamentals
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
-      Period - The Three Numbers That Decide If You Win
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/The Aesop Playbook
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get
-      Them What They Need - The Defined-End Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Goldilocks Pricing - Anchors,
-      Decoys, and the Middle Option
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/High-Ticket Self-Checkout -
-      Brand and Qualification Compress the Sale
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize
-      the Whole Revenue System
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A
-      Seven-Part Framework for an Irresistible Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing
-      Offers to Fund Growth
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Virtuous Cycle of Price -
-      Why Premium Pricing Serves Customers Better
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架
+title: The Value Equation and the Grand Slam Offer
+lang: en
+tags:
+  - topic/offers
+  - topic/value-equation
+  - topic/pricing
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-13
 ---
 
 # The Value Equation and the Grand Slam Offer
@@ -147,7 +78,6 @@ Two of these have dedicated deep-dive entries: [[Scarcity and Urgency - Engineer
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack|Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Psychological Moonshots - Improve Perception Before Reality|Psychological Moonshots - Improve Perception Before Reality]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand, Communicate, and Deliver Customer Value|UCD - Understand, Communicate, and Deliver Customer Value]]
@@ -171,7 +101,6 @@ Two of these have dedicated deep-dive entries: [[Scarcity and Urgency - Engineer
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架|情緒價值與功能性價值：跳脫價格戰的定位框架]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MOffers_RawTranscript|$100M Offers]]
 - **supporting:** [[06-Source-Library/Books/2026-07-08_Book_AlexHormozi_100MSeriesSummary|100 MSeries Summary]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]

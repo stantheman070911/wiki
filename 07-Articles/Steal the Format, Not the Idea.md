@@ -1,66 +1,14 @@
 ---
-title: "Steal the Format, Not the Idea"
-type: "article"
-domain: "articles"
-lang: "en"
+title: Steal the Format, Not the Idea
+lang: en
 tags:
-  [
-    topic/content-strategy,
-    topic/short-form-video,
-    topic/copywriting,
-    topic/hooks,
-    topic/mental-models
-  ]
-sources:
-  - id: "SRC-0081"
-    role: "primary"
-  - id: "SRC-0017"
-    role: "supporting"
-  - id: "SRC-0058"
-    role: "supporting"
-  - id: "SRC-0072"
-    role: "supporting"
-  - id: "SRC-0066"
-    role: "supporting"
-  - id: "SRC-0042"
-    role: "supporting"
-  - id: "SRC-0043"
-    role: "supporting"
-  - id: "SRC-0076"
-    role: "supporting"
-  - id: "SRC-0057"
-    role: "supporting"
-  - id: "SRC-0050"
-    role: "supporting"
-date_added: "2026-07-10"
-updated: "2026-07-10"
-reviewed_on: ""
-status: "draft"
-parent_map: 07-Articles/Articles Index
-relationships:
-  - type: derives-from
-    target: 02-Social-Media-Strategy/對標方法論與靈感池系統
-  - type: derives-from
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
-      Create - Engineering Proof at Scale
-  - type: derives-from
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting
-      Fundamentals - AIDA, the Headline, and the Slippery Slope
-  - type: derives-from
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down
-      and the 70-20-10 Rule - Templatizing Viral Outliers
-  - type: derives-from
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking
-      Attention - Topic, Format, Hook and the Content Engine
-  - type: derives-from
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film
-      Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing
-  - type: derives-from
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Seven
-      Factors of a Short - Topic to Editing
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Framework for Making Frameworks - Distill by Commonality
+  - topic/content-strategy
+  - topic/short-form-video
+  - topic/copywriting
+  - topic/hooks
+  - topic/mental-models
+status: draft
+updated: 2026-07-10
 ---
 
 # Steal the Format, Not the Idea
@@ -83,7 +31,6 @@ Originality is overrated. Fluency is the game — and fluency is learned by copy
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Derives from:** [[02-Social-Media-Strategy/對標方法論與靈感池系統|對標方法論與靈感池系統]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope|Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]
@@ -104,7 +51,6 @@ Originality is overrated. Fluency is the game — and fluency is learned by copy
 
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-10_Video_TuanLe_HowToGoViralByHackingAttention|How to Go Insanely Viral (Almost) Every Time by Hacking Attention]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]]
 - **supporting:** [[06-Source-Library/Podcasts/2026-07-10_Podcast_SamParr_The2BillionCopywritingSecret|The $2 Billion Copywriting Secret Behind The Most Successful Ad Ever — w/ Sam Parr (Sweat Equity)]]

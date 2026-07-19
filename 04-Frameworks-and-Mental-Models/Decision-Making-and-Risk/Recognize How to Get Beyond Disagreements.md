@@ -1,58 +1,16 @@
 ---
-title: "Recognize How to Get Beyond Disagreements"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Recognize How to Get Beyond Disagreements
+lang: en
 tags:
-  [
-    topic/decision-making,
-    topic/idea-meritocracy,
-    topic/believability,
-    topic/culture,
-    person/ray-dalio,
-    person/peter-drucker,
-    source/bridgewater-associates
-  ]
-sources:
-  - id: "SRC-0015"
-    role: "primary"
-    locator: "Ch. 6"
-  - id: "SRC-0013"
-    role: "supporting"
-    locator: "ch. 7"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Disagreement Needs a Finish Line
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Don't Overlook
-      Governance
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
-      Your Decision Making
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective
-      Decision Process
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative
-      Cooperation - Feedback, Friction, and Choice C
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and
-      Stay in Sync
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in
-      Radical Truth and Radical Transparency
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Mirroring and
-      Voice - Slow the Negotiation and Keep Them Talking
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With
-      Agreement - Keep the Other Mind Open
+  - topic/decision-making
+  - topic/idea-meritocracy
+  - topic/believability
+  - topic/culture
+  - person/ray-dalio
+  - person/peter-drucker
+  - source/bridgewater-associates
+status: draft
+updated: 2026-07-13
 ---
 
 # Recognize How to Get Beyond Disagreements
@@ -91,7 +49,6 @@ Sixth chapter of Work Principles, immediately following believability-weighting:
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Disagreement Needs a Finish Line|Disagreement Needs a Finish Line]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Don't Overlook Governance|Don't Overlook Governance]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
@@ -103,6 +60,5 @@ Sixth chapter of Work Principles, immediately following believability-weighting:
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open|Start With Agreement - Keep the Other Mind Open]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 6
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript|The Effective Executive - Raw Transcript]] — locator: ch. 7

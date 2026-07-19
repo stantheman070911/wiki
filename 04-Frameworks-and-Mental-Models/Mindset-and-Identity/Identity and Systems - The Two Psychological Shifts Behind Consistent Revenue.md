@@ -1,50 +1,16 @@
 ---
-title: "Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue
+lang: en
 tags:
-  [
-    topic/identity,
-    topic/systems,
-    topic/persuasion,
-    topic/service-business,
-    topic/decision-making,
-    topic/mindset,
-    person/will-barron
-  ]
-sources:
-  - id: "SRC-0083"
-    role: "primary"
-date_added: "2026-07-10"
-updated: "2026-07-13"
-reviewed_on: "2026-07-10"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Confidence Is a Receipt, Not a Requirement
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
-      Elimination - The Deep-Work Playbook
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback -
-      Sales as the Training Ground
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor
-      Dilution Problem - Four Ways to Scale Past Yourself
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Replace,
-      Don't Fight, a Habit
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
-      Confidence
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
-      - The Zero-Follower Consistency Engine
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
-      Proficiency, Pain Tolerance, and Frustration Tolerance
+  - topic/identity
+  - topic/systems
+  - topic/persuasion
+  - topic/service-business
+  - topic/decision-making
+  - topic/mindset
+  - person/will-barron
+status: reviewed
+updated: 2026-07-13
 ---
 
 # Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue
@@ -83,7 +49,6 @@ Will Barron (salesman.com), after working with over 1,000 service-business owner
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]
@@ -94,5 +59,4 @@ Will Barron (salesman.com), after working with over 1,000 service-business owner
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-10_Video_WillBarron_PsychologyOfBuildingASuccessfulServiceBusiness|Psychology of Building a Successful Service Business]]

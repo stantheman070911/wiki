@@ -1,71 +1,15 @@
 ---
-title: "Change the Comparison Before You Change the Price"
-type: "article"
-domain: "articles"
-lang: "en"
+title: Change the Comparison Before You Change the Price
+lang: en
 tags:
-  [
-    topic/pricing,
-    topic/positioning,
-    topic/differentiation,
-    topic/competition,
-    topic/offers,
-    topic/persuasion
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-  - id: "SRC-0042"
-    role: "supporting"
-  - id: "SRC-0007"
-    role: "supporting"
-  - id: "SRC-0002"
-    role: "supporting"
-  - id: "SRC-0017"
-    role: "supporting"
-  - id: "SRC-0041"
-    role: "supporting"
-  - id: "SRC-0080"
-    role: "supporting"
-  - id: "SRC-0078"
-    role: "supporting"
-  - id: "SRC-0021"
-    role: "supporting"
-  - id: "SRC-0001"
-    role: "supporting"
-  - id: "SRC-0074"
-    role: "supporting"
-date_added: "2026-07-12"
-updated: "2026-07-12"
-reviewed_on: ""
-status: "draft"
-parent_map: 07-Articles/Articles Index
-relationships:
-  - type: derives-from
-    target: 01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors
-      Down - The $50M Price-Cut Lesson
-  - type: derives-from
-    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
-      Hole in the Mind (Cherchez le Creneau)
-  - type: derives-from
-    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
-      in the Prospect's Mind
-  - type: derives-from
-    target: 01-Business-Strategy/Positioning-and-Branding/The Aesop Playbook
-  - type: derives-from
-    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
-      Discount - Make the Difference Obvious
-  - type: derives-from
-    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
-      Slam Offer
-  - type: derives-from
-    target: 01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架
-  - type: derives-from
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Direct-Response
-      Copywriting
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of
-      Influence - Click-Whirr, Trigger Features, and the Contrast Principle
+  - topic/pricing
+  - topic/positioning
+  - topic/differentiation
+  - topic/competition
+  - topic/offers
+  - topic/persuasion
+status: draft
+updated: 2026-07-12
 ---
 
 # Change the Comparison Before You Change the Price
@@ -88,7 +32,6 @@ When offers look equivalent, arguing about the number will not end the price war
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Derives from:** [[01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors Down - The $50M Price-Cut Lesson|Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
 - **Derives from:** [[01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)|Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
 - **Derives from:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
@@ -111,7 +54,6 @@ When offers look equivalent, arguing about the number will not end the price war
 
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
 - **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning|Positioning]]

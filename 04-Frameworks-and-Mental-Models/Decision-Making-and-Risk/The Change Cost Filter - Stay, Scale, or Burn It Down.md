@@ -1,90 +1,17 @@
 ---
-title: "The Change Cost Filter - Stay, Scale, or Burn It Down"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The Change Cost Filter - Stay, Scale, or Burn It Down
+lang: en
 tags:
-  [
-    topic/decision-making,
-    topic/opportunity-cost,
-    topic/focus,
-    topic/career,
-    person/alex-hormozi,
-    person/bill-burnett,
-    person/dave-evans,
-    source/designing-your-new-work-life
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-  - id: "SRC-0026"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Fix the Bottleneck, Not Everything
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/商業四大需求層次：救命、治病、養生、建體
-  - type: is-applied-by
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger
-  - type: is-applied-by
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
-      Return on Time, and Money Rules
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/The TAM Illusion
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills
-      診斷、1-1-1 與萬能前門
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors
-      Down - The $50M Price-Cut Lesson
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom
-      Loop and the One-Brand Bet
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
-      Elimination - The Deep-Work Playbook
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign,
-      Redesign - Four Ways to Change Work in Place
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
-      and Asymmetric Bets
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Institutional
-      Phase Transitions - Persistent Make-Believe, Decay, and Reaction
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the
-      Problem You Have, Not the One You're Afraid Of
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Hard Road
-      Is the Right Road - Second-Order Thinking and Effort Moats
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a
-      Partnership Makes Sense - The Five Things a Partner Must Bring
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/用數學做決策：損益表、PDCA與預測降低不確定性
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/選擇、承諾與人生取捨
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
-      Supply
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Overwhelm Is
-      a System Signal - Diagnose Before Burnout
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Greener-Pasture Fallacy
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp -
-      The Messy Middle and the 40-for-2 Management Trade
+  - topic/decision-making
+  - topic/opportunity-cost
+  - topic/focus
+  - topic/career
+  - person/alex-hormozi
+  - person/bill-burnett
+  - person/dave-evans
+  - source/designing-your-new-work-life
+status: draft
+updated: 2026-07-18
 ---
 
 # The Change Cost Filter - Stay, Scale, or Burn It Down
@@ -144,7 +71,6 @@ To a serial-visionary founder juggling five businesses, Hormozi laid out the 20%
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/商業四大需求層次：救命、治病、養生、建體|商業四大需求層次：救命、治病、養生、建體]]
 - **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger|Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint]]
@@ -169,6 +95,5 @@ To a serial-visionary founder juggling five businesses, Hormozi laid out the 20%
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp - The Messy Middle and the 40-for-2 Management Trade|The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
 - **supporting:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript|Designing Your New Work Life - Raw Transcript]]

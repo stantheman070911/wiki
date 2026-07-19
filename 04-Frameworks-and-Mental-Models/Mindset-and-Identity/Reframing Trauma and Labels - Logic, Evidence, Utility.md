@@ -1,27 +1,13 @@
 ---
-title: "Reframing Trauma and Labels - Logic, Evidence, Utility"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/mindset, topic/identity, topic/decision-making, person/alex-hormozi ]
-sources:
-  - id: "SRC-0068"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and
-      the Blame-Power Law
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite
-      Games - Winning by Emptying the Tank
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin
-      Story - Heroes Use Pain
+title: Reframing Trauma and Labels - Logic, Evidence, Utility
+lang: en
+tags:
+  - topic/mindset
+  - topic/identity
+  - topic/decision-making
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Reframing Trauma and Labels - Logic, Evidence, Utility
@@ -57,11 +43,9 @@ Hormozi argues that mystical self-talk ("I have demons," "it's stored in my body
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and the Blame-Power Law|Accountability and the Blame-Power Law]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite Games - Winning by Emptying the Tank|Finite vs Infinite Games - Winning by Emptying the Tank]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain|Hardship as Origin Story - Heroes Use Pain]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]

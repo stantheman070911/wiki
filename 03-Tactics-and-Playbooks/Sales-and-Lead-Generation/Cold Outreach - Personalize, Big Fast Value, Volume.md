@@ -1,41 +1,14 @@
 ---
-title: "Cold Outreach - Personalize, Big Fast Value, Volume"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Cold Outreach - Personalize, Big Fast Value, Volume
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/persuasion,
-    topic/copywriting,
-    topic/automation,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0019"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition
-      - Make the Customer Fund the Next Customer
-  - type: applies
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
-      Rule of 100 - Lead Generation Fundamentals
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
-      Clever - Write Below Third Grade and Meet the Avatar
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies -
-      Recruiting Businesses to Sell for You
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Gap Prospecting -
-      Intrigue, Offer, Ask, and Cadence
+  - topic/sales
+  - topic/persuasion
+  - topic/copywriting
+  - topic/automation
+  - person/alex-hormozi
+status: draft
+updated: 2026-07-18
 ---
 
 # Cold Outreach - Personalize, Big Fast Value, Volume
@@ -77,7 +50,6 @@ Cold outreach is the advanced cousin of warm outreach and one of the [[The Core 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition - Make the Customer Fund the Next Customer|Client-Financed Acquisition - Make the Customer Fund the Next Customer]]
 - **Applies:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
@@ -85,5 +57,4 @@ Cold outreach is the advanced cousin of warm outreach and one of the [[The Core 
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Gap Prospecting - Intrigue, Offer, Ask, and Cadence|Gap Prospecting - Intrigue, Offer, Ask, and Cadence]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript|$100M Leads]]

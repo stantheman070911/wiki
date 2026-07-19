@@ -1,54 +1,15 @@
 ---
-title: "Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over
-  Narrative"
+title: Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative
 aliases:
-  - "Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over
-    Narrative"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+  - Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative
+lang: en
 tags:
-  [
-    topic/decision-making,
-    topic/ai,
-    topic/prioritization,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0073"
-    role: "primary"
-  - id: "SRC-0074"
-    role: "supporting"
-date_added: "2026-07-09"
-updated: "2026-07-09"
-reviewed_on: "2026-07-09"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Fix the Bottleneck, Not Everything
-  - type: has-example
-    target: 05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA,
-      and Risk as the Last Human Job
-  - type: is-applied-by
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS
-      - The Percentage Lies
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems
-      to Get at Their Root Causes
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Perceive and Don't
-      Tolerate Problems
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
-      Business - Train Like an Employee and the Department Playbook
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
-      Supply
+  - topic/decision-making
+  - topic/ai
+  - topic/prioritization
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-09
 ---
 
 # Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative
@@ -91,7 +52,6 @@ A website-as-a-service company doing $20M/year on 100% outbound cold calling wor
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
 - **Has example:** [[05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job|Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
 - **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS - The Percentage Lies|Maximize Net Cash, Not ROAS - The Percentage Lies]]
@@ -102,6 +62,5 @@ A website-as-a-service company doing $20M/year on 100% outbound cold calling wor
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript|Cash Cow Breakdowns - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]

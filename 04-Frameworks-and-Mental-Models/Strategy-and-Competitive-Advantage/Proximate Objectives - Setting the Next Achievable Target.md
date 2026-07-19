@@ -1,42 +1,15 @@
 ---
-title: "Proximate Objectives - Setting the Next Achievable Target"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Proximate Objectives - Setting the Next Achievable Target
+lang: en
 tags:
-  [
-    topic/strategy,
-    topic/focus,
-    topic/decision-making,
-    topic/execution,
-    person/richard-rumelt,
-    source/good-strategy-bad-strategy
-  ]
-sources:
-  - id: "SRC-0038"
-    role: "primary"
-    locator: "Ch. 7"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed
-      and Aspirational OKRs - Separate Reliability from Stretch
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical
-      Path - Work Backward from a Traction Goal
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bad
-      Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategic
-      Leverage - Anticipation, Pivot Points, Concentration
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
-      Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action
+  - topic/strategy
+  - topic/focus
+  - topic/decision-making
+  - topic/execution
+  - person/richard-rumelt
+  - source/good-strategy-bad-strategy
+status: draft
+updated: 2026-07-18
 ---
 
 # Proximate Objectives - Setting the Next Achievable Target
@@ -75,7 +48,6 @@ When setting or evaluating an objective, ask:
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed and Aspirational OKRs - Separate Reliability from Stretch|Committed and Aspirational OKRs - Separate Reliability from Stretch]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical Path - Work Backward from a Traction Goal|Critical Path - Work Backward from a Traction Goal]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy|Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy]]
@@ -83,5 +55,4 @@ When setting or evaluating an objective, ask:
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 7

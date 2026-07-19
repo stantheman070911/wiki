@@ -2,52 +2,15 @@
 title: "The Risk Continuum: Building an AI-Resistant Personal Brand"
 aliases:
   - "The Risk Continuum: Building an AI-Resistant Personal Brand"
-type: "research"
-domain: "intelligence-and-research"
-lang: "en"
+lang: en
 tags:
-  [
-    topic/ai,
-    topic/personal-brand,
-    topic/brand,
-    topic/risk,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0050"
-    role: "primary"
-date_added: "2026-07-02"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 05-Intelligence-and-Research/Intelligence and Research Index
-relationships:
-  - type: example
-    target: 02-Social-Media-Strategy/Levels of a Personal Brand and the Five Archetypes
-  - type: example
-    target: 02-Social-Media-Strategy/The AI-Era Content Barbell
-  - type: example
-    target: 02-Social-Media-Strategy/可信度行銷與公開建構
-  - type: example
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
-      Create - Engineering Proof at Scale
-  - type: example
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
-      Actually Is - Association, Influence, Direction, Reach
-  - type: example
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
-      Liking, Authority, and Scarcity - The Four Social Shortcuts
-  - type: related
-    target: 05-Intelligence-and-Research/AI、資料與內容的賭注理論
-  - type: related
-    target: 05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and
-      Human Escalation
-  - type: related
-    target: 05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era
-      Moat
-  - type: related
-    target: 05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA,
-      and Risk as the Last Human Job
+  - topic/ai
+  - topic/personal-brand
+  - topic/brand
+  - topic/risk
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-13
 ---
 
 # The Risk Continuum: Building an AI-Resistant Personal Brand
@@ -102,7 +65,6 @@ Note: AI taking live calls convincingly is likely only 1-2 years away, so real-t
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Example:** [[02-Social-Media-Strategy/Levels of a Personal Brand and the Five Archetypes|Levels of a Personal Brand and the Five Archetypes]]
 - **Example:** [[02-Social-Media-Strategy/The AI-Era Content Barbell|The AI-Era Content Barbell - Raw Shorts, Produced Long Form, and Live Interaction]]
 - **Example:** [[02-Social-Media-Strategy/可信度行銷與公開建構|可信度行銷與公開建構]]
@@ -115,5 +77,4 @@ Note: AI taking live calls convincingly is likely only 1-2 years away, so real-t
 - **Related:** [[05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job|Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Podcasts/2026-07-02_Podcast_AlexHormozi_PersonalBrandVsAI|Personal Brand vs. AI]]

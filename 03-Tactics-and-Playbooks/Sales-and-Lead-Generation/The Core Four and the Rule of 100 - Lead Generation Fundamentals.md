@@ -1,79 +1,15 @@
 ---
-title: "The Core Four and the Rule of 100 - Lead Generation Fundamentals"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: The Core Four and the Rule of 100 - Lead Generation Fundamentals
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/rule-of-100,
-    topic/qualification,
-    person/alex-hormozi,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0019"
-    role: "primary"
-  - id: "SRC-0001"
-    role: "supporting"
-  - id: "SRC-0042"
-    role: "supporting"
-  - id: "SRC-0098"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-13"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架
-  - type: applies
-    target: 01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing
-      Offers to Fund Growth
-  - type: applies
-    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
-      Slam Offer
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition
-      - Make the Customer Fund the Next Customer
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid
-      and the Halo Strategy
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
-      - Ads Are an At-Bats Game
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/五大流量模型與私域轉換：從你找人到人找你
-  - type: contrast
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value
-      - The Psychology of Deals and the Rule of 100
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies -
-      Recruiting Businesses to Sell for You
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Cold Outreach -
-      Personalize, Big Fast Value, Volume
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals -
-      Engineering Word of Mouth Through Goodwill
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The
-      Whisper-Tease-Shout Launch
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead
-      Generation - Fifteen Questions and Dynamic Routing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is
-      Destiny - The Sales Channel Power Law
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Do Things That Don't
-      Scale - Recruit, Delight, and Learn by Hand
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four
-      Lead-Conversion Levers - Speed, Availability, Personalization, Volume
+  - topic/sales
+  - topic/rule-of-100
+  - topic/qualification
+  - person/alex-hormozi
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: reviewed
+updated: 2026-07-13
 ---
 
 # The Core Four and the Rule of 100 - Lead Generation Fundamentals
@@ -137,7 +73,6 @@ Start with warm outreach using your existing network; build with consistent cont
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架|人群場景痛點解決方案：客戶洞察與需求驗證框架]]
 - **Applies:** [[01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing Offers to Fund Growth|The Money Model - Sequencing Offers to Fund Growth]]
 - **Applies:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
@@ -156,7 +91,6 @@ Start with warm outreach using your existing network; build with consistent cont
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume|The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript|$100M Leads]]
 - **supporting:** [[06-Source-Library/Books/2026-07-08_Book_AlexHormozi_100MSeriesSummary|100 MSeries Summary]]
 - **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

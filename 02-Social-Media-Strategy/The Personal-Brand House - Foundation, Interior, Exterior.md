@@ -1,49 +1,15 @@
 ---
-title: "The Personal-Brand House - Foundation, Interior, Exterior"
-type: "strategy"
-domain: "social-media-strategy"
-lang: "en"
+title: The Personal-Brand House - Foundation, Interior, Exterior
+lang: en
 tags:
-  [
-    topic/personal-brand,
-    topic/niche,
-    topic/content-pillars,
-    topic/brand,
-    source/personal-brand-launch,
-    person/ava-jurgens
-  ]
-sources:
-  - id: "SRC-0072"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 02-Social-Media-Strategy/Social Media Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension
-      Trap - Why One Name Can't Own Two Things
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Audience-Growth/Instagram 0-to-100k - The
-      Three-Level Follower Roadmap
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Seven
-      Factors of a Short - Topic to Editing
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Positioning Yourself
-      - Find a Horse to Ride
-  - type: related
-    target: 02-Social-Media-Strategy/Brand Journey and the 3-Part Brand Story
-  - type: related
-    target: 02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why
-  - type: related
-    target: 02-Social-Media-Strategy/Key Person of Influence - Pitch, Publish,
-      Product, Profile, and Partnerships
-  - type: related
-    target: 02-Social-Media-Strategy/Levels of a Personal Brand and the Five Archetypes
-  - type: related
-    target: 02-Social-Media-Strategy/個人品牌與IP打造框架
+  - topic/personal-brand
+  - topic/niche
+  - topic/content-pillars
+  - topic/brand
+  - source/personal-brand-launch
+  - person/ava-jurgens
+status: reviewed
+updated: 2026-07-08
 ---
 
 # The Personal-Brand House - Foundation, Interior, Exterior
@@ -86,7 +52,6 @@ Creators split into two kinds: those who build a *following* (fluctuating result
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension Trap - Why One Name Can't Own Two Things|The Line-Extension Trap - Why One Name Can't Own Two Things]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Audience-Growth/Instagram 0-to-100k - The Three-Level Follower Roadmap|Instagram 0-to-100k - The Three-Level Follower Roadmap]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Seven Factors of a Short - Topic to Editing|The Seven Factors of a Short - Topic to Editing]]
@@ -98,5 +63,4 @@ Creators split into two kinds: those who build a *following* (fluctuating result
 - **Related:** [[02-Social-Media-Strategy/個人品牌與IP打造框架|個人品牌與IP打造框架]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_PersonalBrandLaunch_GrowInstagram2026|Grow Instagram in 2026]]

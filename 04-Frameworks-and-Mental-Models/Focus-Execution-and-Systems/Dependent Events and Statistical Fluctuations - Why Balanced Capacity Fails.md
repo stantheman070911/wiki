@@ -1,39 +1,16 @@
 ---
-title: "Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails
+lang: en
 tags:
-  [
-    topic/theory-of-constraints,
-    topic/systems,
-    topic/operations,
-    topic/risk,
-    person/eliyahu-m-goldratt,
-    person/jeff-cox,
-    source/the-goal
-  ]
-sources:
-  - id: "SRC-0030"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Drum-Buffer-Rope -
-      Release Work at the Constraint's Pace
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of
-      Constraints - The Five Focusing Steps
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput
-      Accounting - Manage the System, Not Local Costs
-  - type: related
-    target: 07-Articles/Fix the Bottleneck, Not Everything
+  - topic/theory-of-constraints
+  - topic/systems
+  - topic/operations
+  - topic/risk
+  - person/eliyahu-m-goldratt
+  - person/jeff-cox
+  - source/the-goal
+status: draft
+updated: 2026-07-18
 ---
 
 # Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails
@@ -74,12 +51,10 @@ In the book's dice-and-match simulation, every station had identical average cap
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Drum-Buffer-Rope - Release Work at the Constraint's Pace|Drum-Buffer-Rope - Release Work at the Constraint's Pace]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of Constraints - The Five Focusing Steps|Theory of Constraints - The Five Focusing Steps]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput Accounting - Manage the System, Not Local Costs|Throughput Accounting - Manage the System, Not Local Costs]]
 - **Related:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_EliyahuMGoldrattJeffCox_TheGoal_RawTranscript|The Goal]]

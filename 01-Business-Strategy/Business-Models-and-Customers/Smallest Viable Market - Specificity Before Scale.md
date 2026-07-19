@@ -1,39 +1,15 @@
 ---
-title: "Smallest Viable Market - Specificity Before Scale"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Smallest Viable Market - Specificity Before Scale
+lang: en
 tags:
-  [
-    topic/niche,
-    topic/marketing,
-    topic/positioning,
-    topic/growth,
-    person/seth-godin,
-    source/this-is-marketing
-  ]
-sources:
-  - id: "SRC-0039"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
-  and Customers Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Marketing as
-      Service - Make Change for People You Seek to Serve
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market
-      Positioning Styles - Head to Head, Big Fish, or New Game
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
-      Framework - Six Drivers of Word of Mouth
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
-      50 Percent Rule - Build Product and Traction in Parallel
+  - topic/niche
+  - topic/marketing
+  - topic/positioning
+  - topic/growth
+  - person/seth-godin
+  - source/this-is-marketing
+status: draft
+updated: 2026-07-18
 ---
 
 # Smallest Viable Market - Specificity Before Scale
@@ -78,12 +54,10 @@ The Grateful Dead built a durable career around a comparatively small group of d
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Marketing as Service - Make Change for People You Seek to Serve|Marketing as Service - Make Change for People You Seek to Serve]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market Positioning Styles - Head to Head, Big Fish, or New Game|Three Market Positioning Styles - Head to Head, Big Fish, or New Game]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The 50 Percent Rule - Build Product and Traction in Parallel|The 50 Percent Rule - Build Product and Traction in Parallel]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript|This Is Marketing]]

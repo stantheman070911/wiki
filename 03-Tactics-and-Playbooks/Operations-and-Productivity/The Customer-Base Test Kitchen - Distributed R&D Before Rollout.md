@@ -1,44 +1,15 @@
 ---
-title: "The Customer-Base Test Kitchen - Distributed R&D Before Rollout"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: The Customer-Base Test Kitchen - Distributed R&D Before Rollout
+lang: en
 tags:
-  [
-    topic/research,
-    topic/feedback,
-    topic/product,
-    topic/systems,
-    topic/innovation,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0042"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
-  Productivity Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
-      Product-Discovery Loop - Launch, Learn, Evolve, Delight
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Framework for Making Frameworks - Distill by Commonality
-  - type: has-derivative
-    target: 07-Articles/Do It by Hand Until You Know What It Is
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-      Planner and the Analyze-Double-Down Loop
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements
-      to Your Machine to Get Around Your Problems
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems
-      to Get at Their Root Causes
+  - topic/research
+  - topic/feedback
+  - topic/product
+  - topic/systems
+  - topic/innovation
+  - person/alex-hormozi
+status: draft
+updated: 2026-07-13
 ---
 
 # The Customer-Base Test Kitchen - Distributed R&D Before Rollout
@@ -82,7 +53,6 @@ At Gym Launch, Hormozi reports selecting roughly 10–20 representative gyms and
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Framework for Making Frameworks - Distill by Commonality|The Framework for Making Frameworks - Distill by Commonality]]
 - **Has derivative:** [[07-Articles/Do It by Hand Until You Know What It Is|Do It by Hand Until You Know What It Is]]
@@ -91,5 +61,4 @@ At Gym Launch, Hormozi reports selecting roughly 10–20 representative gyms and
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems to Get at Their Root Causes|Diagnose Problems to Get at Their Root Causes]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

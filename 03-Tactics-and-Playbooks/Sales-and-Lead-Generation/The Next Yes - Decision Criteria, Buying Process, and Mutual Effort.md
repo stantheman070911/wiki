@@ -1,49 +1,15 @@
 ---
-title: "The Next Yes - Decision Criteria, Buying Process, and Mutual Effort"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: The Next Yes - Decision Criteria, Buying Process, and Mutual Effort
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/qualification,
-    topic/decision-making,
-    topic/systems,
-    person/keenan,
-    source/gap-selling
-  ]
-sources:
-  - id: "SRC-0034"
-    role: "primary"
-    locator: "chapters 12–13 and 18–19"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Guarantee
-      Execution - How, the Rule of Three, and Hidden Players
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No -
-      Protect Autonomy to Start the Real Negotiation
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Advances, Not
-      Continuations - Plan Every Sales Call
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Problem-Centric
-      Discovery - Four Question Types and the CRM Challenge
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for
-      Consensus - Stakeholder Outcomes and Widespread Support
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control -
-      Constructive Tension Across the Sale
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
-      Rhythm - Leads, Appointments, Presentations, and Sales
+  - topic/sales
+  - topic/qualification
+  - topic/decision-making
+  - topic/systems
+  - person/keenan
+  - source/gap-selling
+status: draft
+updated: 2026-07-18
 ---
 
 # The Next Yes - Decision Criteria, Buying Process, and Mutual Effort
@@ -87,7 +53,6 @@ Keenan's ski-school platform won enthusiasm from school leaders, then repeatedly
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Guarantee Execution - How, the Rule of Three, and Hidden Players|Guarantee Execution - How, the Rule of Three, and Hidden Players]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No - Protect Autonomy to Start the Real Negotiation|Master No - Protect Autonomy to Start the Real Negotiation]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Advances, Not Continuations - Plan Every Sales Call|Advances, Not Continuations - Plan Every Sales Call]]
@@ -97,5 +62,4 @@ Keenan's ski-school platform won enthusiasm from school leaders, then repeatedly
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_Keenan_GapSelling_RawTranscript|Gap Selling]] — locator: chapters 12–13 and 18–19

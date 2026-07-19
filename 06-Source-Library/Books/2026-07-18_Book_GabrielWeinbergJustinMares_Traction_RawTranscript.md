@@ -1,21 +1,11 @@
 ---
-source_id: "SRC-0031"
-title: "Traction"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Gabriel Weinberg"
-    role: "author"
-  - name: "Justin Mares"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2015"
-date_archived: "2026-07-18"
-status: "source"
+title: Traction
+author:
+  - Gabriel Weinberg
+  - Justin Mares
+lang: en
+published: "2015"
+archived: 2026-07-18
 ---
 
 Traction

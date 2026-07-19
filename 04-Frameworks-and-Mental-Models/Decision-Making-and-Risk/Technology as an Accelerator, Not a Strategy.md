@@ -1,43 +1,15 @@
 ---
-title: "Technology as an Accelerator, Not a Strategy"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Technology as an Accelerator, Not a Strategy
+lang: en
 tags:
-  [
-    topic/innovation,
-    topic/decision-making,
-    topic/systems,
-    topic/risk,
-    person/jim-collins,
-    source/good-to-great
-  ]
-sources:
-  - id: "SRC-0010"
-    role: "primary"
-    locator: "chapter 7"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business
-      Redesign - Speed to Value and Experience Moats
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept
-      - Three Circles and the Economic Denominator
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
-      Manufacturing as the Moat
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
-      Business - Train Like an Employee and the Department Playbook
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine
-      - Why Computers Complement Humans Instead of Replacing Them
+  - topic/innovation
+  - topic/decision-making
+  - topic/systems
+  - topic/risk
+  - person/jim-collins
+  - source/good-to-great
+status: draft
+updated: 2026-07-13
 ---
 
 # Technology as an Accelerator, Not a Strategy
@@ -80,7 +52,6 @@ Walgreens cautiously tested the internet, then connected online prescriptions to
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business Redesign - Speed to Value and Experience Moats|The AI-Ready Business Redesign - Speed to Value and Experience Moats]]
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept - Three Circles and the Economic Denominator|The Hedgehog Concept - Three Circles and the Economic Denominator]]
 - **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]
@@ -88,5 +59,4 @@ Walgreens cautiously tested the internet, then connected online prescriptions to
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine - Why Computers Complement Humans Instead of Replacing Them|Man and Machine - Why Computers Complement Humans Instead of Replacing Them]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript|Good to Great - Raw Transcript]] — locator: chapter 7

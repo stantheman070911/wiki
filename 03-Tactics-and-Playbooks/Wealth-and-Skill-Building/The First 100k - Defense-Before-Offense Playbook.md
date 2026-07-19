@@ -1,46 +1,14 @@
 ---
-title: "The First 100k - Defense-Before-Offense Playbook"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: The First 100k - Defense-Before-Offense Playbook
+lang: en
 tags:
-  [
-    topic/cash-flow,
-    topic/first-100k,
-    topic/frugality,
-    topic/business-model,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0068"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default
-      Dead - Runway, Growth, and the Fatal Pinch
-  - type: applies
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
-      Return on Time, and Money Rules
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and
-      the Blame-Power Law
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money
-      Well - The Habit Matters More Than the Amount
-  - type: related
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and
-      the Education-ROI Playbook
-  - type: related
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money
-      Management System
-  - type: related
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The
-      Complete Six-Step Roadmap
+  - topic/cash-flow
+  - topic/first-100k
+  - topic/frugality
+  - topic/business-model
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # The First 100k - Defense-Before-Offense Playbook
@@ -82,7 +50,6 @@ Then: **wait ~36 months** — patient with outputs, impatient with inputs.
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch|Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
 - **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and the Blame-Power Law|Accountability and the Blame-Power Law]]
@@ -92,5 +59,4 @@ Then: **wait ~36 months** — patient with outputs, impatient with inputs.
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The Complete Six-Step Roadmap|The First $100k - The Complete Six-Step Roadmap]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]

@@ -1,46 +1,13 @@
 ---
-title: "選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity"
-type: "strategy"
-domain: "business-strategy"
-lang: "zh"
-tags: [ topic/optionality, topic/capital, topic/equity, person/sharran-srivatsaa ]
-sources:
-  - id: "SRC-0055"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/選擇、承諾與人生取捨
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders -
-      Reverse-Engineer OTE, Profit Pools, and Phantom Equity
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations -
-      Co-founders, Ownership, Possession, Control, and Vesting
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/打造不依賴創辦人的商業模式：從賣時間到賣系統
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/投資人與合夥人的選擇框架：股權結構與價值觀篩選
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/財富公式：專屬知識、槓桿與判斷力
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills
-      診斷、1-1-1 與萬能前門
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: related
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-2-連鎖類型與內創委任經營
+title: 選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity
+lang: zh
+tags:
+  - topic/optionality
+  - topic/capital
+  - topic/equity
+  - person/sharran-srivatsaa
+status: reviewed
+updated: 2026-07-13
 ---
 
 # 選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity
@@ -92,7 +59,6 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **應用於:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/選擇、承諾與人生取捨|選擇、承諾與人生取捨]]
 - **應用於:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利|招募、領導與地理紅利]]
 - **由其應用:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity|Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
@@ -107,5 +73,4 @@ relationships:
 - **相關:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-2-連鎖類型與內創委任經營|連鎖經營學 · Module 2：連鎖類型與內部創業／委任經營]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Podcasts/2026-07-08_Podcast_AnatomyOfADream_SharranSrivatsaa_10xByDoingLess|Sharran Srivatsaa - 10x by Doing Less]]

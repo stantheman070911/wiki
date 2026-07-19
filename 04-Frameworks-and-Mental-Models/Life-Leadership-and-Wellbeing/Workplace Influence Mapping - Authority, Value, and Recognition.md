@@ -1,44 +1,17 @@
 ---
-title: "Workplace Influence Mapping - Authority, Value, and Recognition"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Workplace Influence Mapping - Authority, Value, and Recognition
+lang: en
 tags:
-  [
-    topic/influence,
-    topic/leadership,
-    topic/management,
-    topic/decision-making,
-    topic/value-creation,
-    person/bill-burnett,
-    person/dave-evans,
-    source/designing-your-new-work-life
-  ]
-sources:
-  - id: "SRC-0026"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-  Leadership and Wellbeing Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for
-      Consensus - Stakeholder Outcomes and Widespread Support
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign,
-      Redesign - Four Ways to Change Work in Place
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial
-      Output and Leverage
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Hybrid
-      Organizations and Dual Reporting
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The ARC of
-      Career Motivation - Autonomy, Relatedness, and Competence
+  - topic/influence
+  - topic/leadership
+  - topic/management
+  - topic/decision-making
+  - topic/value-creation
+  - person/bill-burnett
+  - person/dave-evans
+  - source/designing-your-new-work-life
+status: draft
+updated: 2026-07-18
 ---
 
 # Workplace Influence Mapping - Authority, Value, and Recognition
@@ -81,7 +54,6 @@ Pete, a part-time clinic physician with software expertise, had no authority ove
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for Consensus - Stakeholder Outcomes and Widespread Support|Tailoring for Consensus - Stakeholder Outcomes and Widespread Support]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign, Redesign - Four Ways to Change Work in Place|Don't Resign, Redesign - Four Ways to Change Work in Place]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial Output and Leverage|Managerial Output and Leverage]]
@@ -89,5 +61,4 @@ Pete, a part-time clinic physician with software expertise, had no authority ove
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The ARC of Career Motivation - Autonomy, Relatedness, and Competence|The ARC of Career Motivation - Autonomy, Relatedness, and Competence]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript|Designing Your New Work Life - Raw Transcript]]

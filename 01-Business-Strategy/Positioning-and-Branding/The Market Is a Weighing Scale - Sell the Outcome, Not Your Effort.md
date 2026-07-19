@@ -1,48 +1,13 @@
 ---
-title: "The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
-tags: [ topic/positioning, topic/sales, topic/marketing, person/sabri-suby ]
-sources:
-  - id: "SRC-0084"
-    role: "primary"
-date_added: "2026-07-12"
-updated: "2026-07-12"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/H2H Marketing -
-      Human-Centered Service, Trust, and Co-Creation
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the
-      Prospect Already Gives You - Research-Based Positioning
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning
-      Sequence - Alternatives, Attributes, Value, Customers, and Market
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
-      Features - Sell the Identity Behind the Product
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
-      Clever - Write Below Third Grade and Meet the Avatar
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept
-      - Three Circles and the Economic Denominator
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product
-      - The Best-Known Wins, Not the Best
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
-      in the Prospect's Mind
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the
-      Overkill Bias - Why the Best Get to Teach
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A
-      Seven-Part Framework for an Irresistible Offer
+title: The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort
+lang: en
+tags:
+  - topic/positioning
+  - topic/sales
+  - topic/marketing
+  - person/sabri-suby
+status: draft
+updated: 2026-07-12
 ---
 
 # The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort
@@ -72,7 +37,6 @@ The foundational reframe most founders resist: they build and sell from *their* 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/H2H Marketing - Human-Centered Service, Trust, and Co-Creation|H2H Marketing - Human-Centered Service, Trust, and Co-Creation]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the Prospect Already Gives You - Research-Based Positioning|Own What the Prospect Already Gives You - Research-Based Positioning]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market|Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market]]
@@ -85,5 +49,4 @@ The foundational reframe most founders resist: they build and sell from *their* 
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A Seven-Part Framework for an Irresistible Offer|The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]

@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0078"
-title: "Customer Acquisition, Offers, And Ads Playbook"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Sabri Suby"
-    role: "creator"
-source_type: "video"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-10"
-status: "source"
+title: Customer Acquisition, Offers, And Ads Playbook
+author: Sabri Suby
+lang: en
+archived: 2026-07-10
 ---
 
 # Customer Acquisition, Offers, and Ads Playbook — Extraction Notes & Entry Map

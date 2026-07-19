@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0080"
-title: "How Aesop Sells Soap for 30x More"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Sabri Suby"
-    role: "creator"
-source_type: "video"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-10"
-status: "source"
+title: How Aesop Sells Soap for 30x More
+author: Sabri Suby
+lang: en
+archived: 2026-07-10
 ---
 
 # How Aesop Sells Soap For 30x More Than Everyone Else — Extraction Notes & Entry Map

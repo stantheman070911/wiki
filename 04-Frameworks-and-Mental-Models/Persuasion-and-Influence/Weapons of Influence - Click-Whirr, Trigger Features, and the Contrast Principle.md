@@ -1,57 +1,13 @@
 ---
-title: "Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast
-  Principle"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle
+lang: en
 tags:
-  [
-    topic/persuasion,
-    topic/influence,
-    person/robert-cialdini,
-    person/steven-bartlett
-  ]
-sources:
-  - id: "SRC-0002"
-    role: "primary"
-    locator: "ch. 1"
-  - id: "SRC-0017"
-    role: "supporting"
-    locator: "Laws 6 and 17"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
-  and Influence Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Change the Comparison Before You Change the Price
-  - type: is-applied-by
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: is-applied-by
-    target: 01-Business-Strategy/Pricing-and-Offers/Goldilocks Pricing - Anchors,
-      Decoys, and the Middle Option
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting
-      Fundamentals - AIDA, the Headline, and the Slippery Slope
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音文案全公式：標題、開頭、結尾與腳本結構
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/行為主義、風險定價與環境設計
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation
-      and Commitment - Persuasion's Two Deepest Levers
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
-      Liking, Authority, and Scarcity - The Four Social Shortcuts
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority
-      Rule - How Intransigent Preferences Dominate Flexible Majorities
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top
-      of Mind, Tip of Tongue
+  - topic/persuasion
+  - topic/influence
+  - person/robert-cialdini
+  - person/steven-bartlett
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle
@@ -100,7 +56,6 @@ Chapter 1's foundation for the whole of *Influence*. Because we're overloaded wi
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Change the Comparison Before You Change the Price|Change the Comparison Before You Change the Price]]
 - **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
 - **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/Goldilocks Pricing - Anchors, Decoys, and the Middle Option|Goldilocks Pricing - Anchors, Decoys, and the Middle Option]]
@@ -113,6 +68,5 @@ Chapter 1's foundation for the whole of *Influence*. Because we're overloaded wi
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue|Triggers - Top of Mind, Tip of Tongue]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion|Influence Psychology Of Persuasion]] — locator: ch. 1
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Laws 6 and 17

@@ -1,41 +1,13 @@
 ---
-title: "The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress
+lang: en
 tags:
-  [
-    topic/mental-models,
-    topic/decision-making,
-    topic/mindset,
-    person/peter-thiel
-  ]
-sources:
-  - id: "SRC-0014"
-    role: "primary"
-    locator: "ch. 1"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition -
-      Why All Happy Companies Are Different
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles
-      Thinking - Reason from Physics, Not Analogy
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness
-      - Separate Truth from Identity and Conformism
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How
-      to Find What Everyone Else Has Missed
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs.
-      Indefinite Optimism - Planning Your Way to the Future
+  - topic/mental-models
+  - topic/decision-making
+  - topic/mindset
+  - person/peter-thiel
+status: reviewed
+updated: 2026-07-13
 ---
 
 # The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress
@@ -74,7 +46,6 @@ Thiel opens every job interview and this book with the same question because it 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition - Why All Happy Companies Are Different|Monopoly vs. Competition - Why All Happy Companies Are Different]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles Thinking - Reason from Physics, Not Analogy|First-Principles Thinking - Reason from Physics, Not Analogy]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness - Separate Truth from Identity and Conformism|Independent-Mindedness - Separate Truth from Identity and Conformism]]
@@ -82,5 +53,4 @@ Thiel opens every job interview and this book with the same question because it 
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs. Indefinite Optimism - Planning Your Way to the Future|Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 1

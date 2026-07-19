@@ -1,31 +1,13 @@
 ---
-title: "賽道選擇的兩個模型：Ikigai與市場五要素"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "zh"
-tags: [ topic/positioning, topic/career, source/kim-startup-qa, person/kim ]
-sources:
-  - id: "SRC-0041"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to
-      Love to Read - Foundations, Clear Thinking, and Mental Models
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/商業是連結與解決問題的方式：賺錢是驗證訊號而非目的
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
-      Proficiency, Pain Tolerance, and Frustration Tolerance
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/完美主義是恐懼的偽裝：用行動與deadline打破癱瘓
+title: 賽道選擇的兩個模型：Ikigai與市場五要素
+lang: zh
+tags:
+  - topic/positioning
+  - topic/career
+  - source/kim-startup-qa
+  - person/kim
+status: reviewed
+updated: 2026-07-08
 ---
 
 # 賽道選擇的兩個模型：Ikigai與市場五要素
@@ -90,7 +72,6 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **由其應用:** [[01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架|人群場景痛點解決方案：客戶洞察與需求驗證框架]]
 - **相關:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to Love to Read - Foundations, Clear Thinking, and Mental Models|Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
 - **相關:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/商業是連結與解決問題的方式：賺錢是驗證訊號而非目的|商業是連結與解決問題的方式：賺錢是驗證訊號而非目的]]
@@ -98,5 +79,4 @@ relationships:
 - **相關:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/完美主義是恐懼的偽裝：用行動與deadline打破癱瘓|完美主義是恐懼的偽裝：用行動與deadline打破癱瘓]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Conversations/2026-07-08_Conversation_阿金_創業解惑社QA整理|創業解惑社QA整理]]

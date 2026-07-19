@@ -1,38 +1,15 @@
 ---
-title: "Permission and Remarkability - Own Attention and Design Word of Mouth"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Permission and Remarkability - Own Attention and Design Word of Mouth
+lang: en
 tags:
-  [
-    topic/owned-audience,
-    topic/word-of-mouth,
-    topic/trust,
-    topic/marketing,
-    person/seth-godin,
-    source/this-is-marketing
-  ]
-sources:
-  - id: "SRC-0039"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing -
-      Measure Action, Build Culture Patiently
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
-      Observability and Behavioral Residue
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
-      Framework - Six Drivers of Word of Mouth
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals -
-      Engineering Word of Mouth Through Goodwill
+  - topic/owned-audience
+  - topic/word-of-mouth
+  - topic/trust
+  - topic/marketing
+  - person/seth-godin
+  - source/this-is-marketing
+status: draft
+updated: 2026-07-18
 ---
 
 # Permission and Remarkability - Own Attention and Design Word of Mouth
@@ -76,12 +53,10 @@ Early email service Yoyodyne treated permission as an asset customers granted fo
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing - Measure Action, Build Culture Patiently|Direct vs Brand Marketing - Measure Action, Build Culture Patiently]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue|Public - Observability and Behavioral Residue]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals - Engineering Word of Mouth Through Goodwill|Referrals - Engineering Word of Mouth Through Goodwill]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript|This Is Marketing]]

@@ -1,54 +1,15 @@
 ---
-title: "Give Them What They Want to Get Them What They Need - The Defined-End Offer"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Give Them What They Want to Get Them What They Need - The Defined-End Offer
+lang: en
 tags:
-  [
-    topic/offers,
-    topic/front-end-offer,
-    topic/continuity,
-    topic/sales,
-    topic/upsell,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-  - id: "SRC-0074"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
-      Clever - Write Below Third Grade and Meet the Avatar
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
-      Sell the Goal, Scope the Journey, Secure Prepayment
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/Survive vs Thrive
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem
-      - Sell Consumable Inputs, Not the Black Box
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A
-      Seven-Part Framework for an Irresistible Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
-      Traffic Before the Core Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
-      Slam Offer
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground -
-      Problem, Process, and Prize Experiences
+  - topic/offers
+  - topic/front-end-offer
+  - topic/continuity
+  - topic/sales
+  - topic/upsell
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Give Them What They Want to Get Them What They Need - The Defined-End Offer
@@ -97,7 +58,6 @@ A cocktail-consulting business (Ben) had been trying to sell a single cold $30k 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Survive vs Thrive|Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value]]
@@ -109,6 +69,5 @@ A cocktail-consulting business (Ben) had been trying to sell a single cold $30k 
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground - Problem, Process, and Prize Experiences|The Marketing Playground - Problem, Process, and Prize Experiences]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]

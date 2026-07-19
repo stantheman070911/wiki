@@ -1,39 +1,15 @@
 ---
-title: "Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market
+lang: en
 tags:
-  [
-    topic/positioning,
-    topic/differentiation,
-    topic/research,
-    topic/marketing,
-    person/april-dunford,
-    source/obviously-awesome
-  ]
-sources:
-  - id: "SRC-0023"
-    role: "primary"
-    locator: "Chapters 2–9 and 12"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing
-      Scale - Sell the Outcome, Not Your Effort
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the
-      Prospect Already Gives You - Research-Based Positioning
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as
-      Context - Make the Product Obviously Valuable
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market
-      Positioning Styles - Head to Head, Big Fish, or New Game
+  - topic/positioning
+  - topic/differentiation
+  - topic/research
+  - topic/marketing
+  - person/april-dunford
+  - source/obviously-awesome
+status: draft
+updated: 2026-07-18
 ---
 
 # Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market
@@ -78,12 +54,10 @@ A CRM company had a relationship-modeling capability that most enterprises ignor
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort|The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the Prospect Already Gives You - Research-Based Positioning|Own What the Prospect Already Gives You - Research-Based Positioning]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as Context - Make the Product Obviously Valuable|Positioning as Context - Make the Product Obviously Valuable]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market Positioning Styles - Head to Head, Big Fish, or New Game|Three Market Positioning Styles - Head to Head, Big Fish, or New Game]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AprilDunford_ObviouslyAwesome_RawTranscript|Obviously Awesome]] — locator: Chapters 2–9 and 12

@@ -1,19 +1,9 @@
 ---
-source_id: "SRC-0006"
-title: "Positioning - Full Text"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Ries Trout"
-    role: "author"
-source_type: "book"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "1981"
-date_archived: "2026-07-08"
-status: "source"
+title: Positioning - Full Text
+author: Ries Trout
+lang: en
+published: "1981"
+archived: 2026-07-08
 ---
 
 

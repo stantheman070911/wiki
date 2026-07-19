@@ -1,39 +1,16 @@
 ---
-title: "Psychological Moonshots - Improve Perception Before Reality"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Psychological Moonshots - Improve Perception Before Reality
+lang: en
 tags:
-  [
-    topic/brand,
-    topic/positioning,
-    topic/persuasion,
-    topic/value-creation,
-    topic/retention,
-    topic/product,
-    person/steven-bartlett
-  ]
-sources:
-  - id: "SRC-0017"
-    role: "primary"
-    locator: "Laws 13–15"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/The Aesop Playbook
-  - type: is-applied-by
-    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
-      Slam Offer
-  - type: is-applied-by
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground -
-      Problem, Process, and Prize Experiences
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
-      Actually Is - Association, Influence, Direction, Reach
+  - topic/brand
+  - topic/positioning
+  - topic/persuasion
+  - topic/value-creation
+  - topic/retention
+  - topic/product
+  - person/steven-bartlett
+status: draft
+updated: 2026-07-13
 ---
 
 # Psychological Moonshots - Improve Perception Before Reality
@@ -78,12 +55,10 @@ Domino’s reduced uncertainty with an order tracker rather than merely promisin
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/The Aesop Playbook|The Aesop Playbook - Ritual Economics, Diagnostic Selling, and Engineering the Second Sale]]
 - **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
 - **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground - Problem, Process, and Prize Experiences|The Marketing Playground - Problem, Process, and Prize Experiences]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Laws 13–15

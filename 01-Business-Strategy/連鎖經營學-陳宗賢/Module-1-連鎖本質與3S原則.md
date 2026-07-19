@@ -1,40 +1,18 @@
 ---
-title: "連鎖經營學 · Module 1：連鎖本質與 3S 原則"
+title: 連鎖經營學 · Module 1：連鎖本質與 3S 原則
 aliases:
-  - "連鎖經營學 · Module 1：連鎖本質與 3S 原則"
-type: "series-entry"
-domain: "business-strategy"
-series: "連鎖經營學"
-lang: "zh"
+  - 連鎖經營學 · Module 1：連鎖本質與 3S 原則
+lang: zh
 tags:
-  [
-    topic/chain-store,
-    topic/franchise,
-    topic/operations,
-    topic/simplification,
-    topic/positioning,
-    person/chen-tsung-hsien
-  ]
-sources:
-  - id: "SRC-0044"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
-relationships:
-  - type: derives-from
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
-  - type: has-derivative
-    target: 07-Articles/Two Ways a Founder Can Disappear
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-2-連鎖類型與內創委任經營
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/零售策略與通路飛輪
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills
-      診斷、1-1-1 與萬能前門
+  - topic/chain-store
+  - topic/franchise
+  - topic/operations
+  - topic/simplification
+  - topic/positioning
+  - person/chen-tsung-hsien
+status: reviewed
+updated: 2026-07-08
+series: 連鎖經營學
 ---
 
 # 連鎖經營學 · Module 1：連鎖本質與 3S 原則
@@ -93,7 +71,6 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **衍生自:** [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
 - **具有衍生成果:** [[07-Articles/Two Ways a Founder Can Disappear|Two Ways a Founder Can Disappear]]
 - **是其前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-2-連鎖類型與內創委任經營|連鎖經營學 · Module 2：連鎖類型與內部創業／委任經營]]
@@ -101,5 +78,4 @@ relationships:
 - **相關:** [[01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門|少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]

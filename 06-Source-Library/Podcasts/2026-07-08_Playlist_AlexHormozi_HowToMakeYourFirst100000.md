@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0054"
-title: "How to Make Your First $100,000"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Alex Hormozi"
-    role: "creator"
-source_type: "playlist"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-08"
-status: "source"
+title: How to Make Your First $100,000
+author: Alex Hormozi
+lang: en
+archived: 2026-07-08
 ---
 
 # "How to Make Your First $100,000" (Alex Hormozi playlist) — Extraction Notes & Entry Map

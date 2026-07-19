@@ -1,40 +1,15 @@
 ---
-title: "The Breakfast Factory - Limiting Steps, WIP, and Capacity"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The Breakfast Factory - Limiting Steps, WIP, and Capacity
+lang: en
 tags:
-  [
-    topic/operations,
-    topic/systems,
-    topic/inputs-vs-outputs,
-    topic/leverage,
-    person/andrew-grove,
-    source/high-output-management
-  ]
-sources:
-  - id: "SRC-0022"
-    role: "primary"
-    locator: "chapters 1–2"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm -
-      Musk's Five-Step Process Method
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity
-      Needs Standards and Distributed Judgment
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial
-      Output and Leverage
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning
-      Backward from the Gap
+  - topic/operations
+  - topic/systems
+  - topic/inputs-vs-outputs
+  - topic/leverage
+  - person/andrew-grove
+  - source/high-output-management
+status: draft
+updated: 2026-07-18
 ---
 
 # The Breakfast Factory - Limiting Steps, WIP, and Capacity
@@ -82,12 +57,10 @@ In Grove's breakfast, the three-minute egg initially determines the schedule, so
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm - Musk's Five-Step Process Method|The Algorithm - Musk's Five-Step Process Method]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity Needs Standards and Distributed Judgment|Complexity Needs Standards and Distributed Judgment]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial Output and Leverage|Managerial Output and Leverage]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning Backward from the Gap|Planning Backward from the Gap]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript|High Output Management - Raw Transcript]] — locator: chapters 1–2

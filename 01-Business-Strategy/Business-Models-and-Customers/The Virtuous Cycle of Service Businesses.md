@@ -1,65 +1,17 @@
 ---
-title: "The Virtuous Cycle of Service Businesses"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: The Virtuous Cycle of Service Businesses
+lang: en
 tags:
-  [
-    topic/service-business,
-    topic/pricing,
-    topic/hiring,
-    topic/reputation,
-    topic/supply-constraint,
-    topic/margins,
-    topic/systems,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-  - id: "SRC-0074"
-    role: "supporting"
-  - id: "SRC-0107"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-18"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
-  and Customers Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
-      Shapes - E-commerce, Service, Education, Software
-  - type: prerequisite
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
-      Shapes - E-commerce, Service, Education, Software
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
-      Through Segmented Churn
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
-      of a Perfect Business
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The SMB Service
-      Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/打造不依賴創辦人的商業模式：從賣時間到賣系統
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You
-      Can't Control Price
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Performance-Based Pricing - When
-      It Works and How Not to Get Cheated
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Virtuous Cycle of Price -
-      Why Premium Pricing Serves Customers Better
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
-      Selling Through Trusted Referrers
+  - topic/service-business
+  - topic/pricing
+  - topic/hiring
+  - topic/reputation
+  - topic/supply-constraint
+  - topic/margins
+  - topic/systems
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-18
 ---
 
 # The Virtuous Cycle of Service Businesses
@@ -116,7 +68,6 @@ A later Cash Cow business breakdown extended the reinvestment side of the cycle:
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
 - **Prerequisite:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
@@ -130,7 +81,6 @@ A later Cash Cow business breakdown extended the reinvestment side of the cycle:
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-18_Video_AlexHormozi_HowToGrowAnyBusinessFast_RawTranscript|How to Grow Any Business Fast (The Four Business Shapes)]]

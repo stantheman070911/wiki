@@ -1,19 +1,9 @@
 ---
-source_id: "SRC-0034"
-title: "Gap Selling"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Keenan"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2018"
-date_archived: "2026-07-18"
-status: "source"
+title: Gap Selling
+author: Keenan
+lang: en
+published: "2018"
+archived: 2026-07-18
 ---
 
                      TO SALES PEOPLE

@@ -1,21 +1,11 @@
 ---
-source_id: "SRC-0027"
-title: "How to Live a Meaningful Life"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Bill Burnett"
-    role: "author"
-  - name: "Dave Evans"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2026"
-date_archived: "2026-07-18"
-status: "source"
+title: How to Live a Meaningful Life
+author:
+  - Bill Burnett
+  - Dave Evans
+lang: en
+published: "2026"
+archived: 2026-07-18
 ---
 
 [Embedded visual 1 on PDF page 1 (1705x2365 px). OCR-readable text: ; ° / raat meee... | / «95 “9 5 SVE MEER Eee weet tT pete eee T° / asset A PELGE SoS tis's ive TET A wie, eee / e o & BE oP once 2 6l% wid Pa Ti iy * ee 3 Ay4 Sofa te can A te / % 3 8FoNES 7 ¥; ais fee ee sss 7 %° @e od fore 8 / e oo A405, ® PASE RIAL ere ET et oe / Purpose, Joy, and Flow Every Day]

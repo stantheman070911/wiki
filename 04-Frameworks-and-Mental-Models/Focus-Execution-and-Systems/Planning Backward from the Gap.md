@@ -1,43 +1,15 @@
 ---
-title: "Planning Backward from the Gap"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Planning Backward from the Gap
+lang: en
 tags:
-  [
-    topic/strategy,
-    topic/execution,
-    topic/decision-making,
-    topic/focus,
-    person/andrew-grove,
-    source/high-output-management
-  ]
-sources:
-  - id: "SRC-0022"
-    role: "primary"
-    locator: "chapter 6"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
-      to Do
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
-      Elimination - The Deep-Work Playbook
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical
-      Path - Work Backward from a Traction Goal
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial
-      Output and Leverage
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Breakfast Factory - Limiting Steps, WIP, and Capacity
+  - topic/strategy
+  - topic/execution
+  - topic/decision-making
+  - topic/focus
+  - person/andrew-grove
+  - source/high-output-management
+status: draft
+updated: 2026-07-18
 ---
 
 # Planning Backward from the Gap
@@ -84,7 +56,6 @@ Grove distinguishes today's gap from today's decision: a car that has run out of
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical Path - Work Backward from a Traction Goal|Critical Path - Work Backward from a Traction Goal]]
@@ -92,5 +63,4 @@ Grove distinguishes today's gap from today's decision: a car that has run out of
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Breakfast Factory - Limiting Steps, WIP, and Capacity|The Breakfast Factory - Limiting Steps, WIP, and Capacity]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript|High Output Management - Raw Transcript]] — locator: chapter 6

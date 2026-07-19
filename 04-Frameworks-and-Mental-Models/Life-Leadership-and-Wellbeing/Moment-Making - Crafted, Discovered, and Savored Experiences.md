@@ -1,42 +1,15 @@
 ---
-title: "Moment-Making - Crafted, Discovered, and Savored Experiences"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Moment-Making - Crafted, Discovered, and Savored Experiences
+lang: en
 tags:
-  [
-    topic/happiness,
-    topic/creativity,
-    topic/focus,
-    person/bill-burnett,
-    person/dave-evans,
-    source/how-to-live-a-meaningful-life
-  ]
-sources:
-  - id: "SRC-0027"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-  Leadership and Wellbeing Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Formative
-      Communities - Become Better Together
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Meaning in
-      Life Is Designed in Particular Moments
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Simple
-      Flow - Presence Beyond Peak Performance
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The
-      Designer's Way - Acceptance, Availability, and Engaged Detachment
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Wonder
-      Formula - Curiosity Plus Mystery
+  - topic/happiness
+  - topic/creativity
+  - topic/focus
+  - person/bill-burnett
+  - person/dave-evans
+  - source/how-to-live-a-meaningful-life
+status: draft
+updated: 2026-07-18
 ---
 
 # Moment-Making - Crafted, Discovered, and Savored Experiences
@@ -76,7 +49,6 @@ One crafted moment is waking early to meditate in a quiet favorite chair. A disc
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Formative Communities - Become Better Together|Formative Communities - Become Better Together]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Meaning in Life Is Designed in Particular Moments|Meaning in Life Is Designed in Particular Moments]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Simple Flow - Presence Beyond Peak Performance|Simple Flow - Presence Beyond Peak Performance]]
@@ -84,5 +56,4 @@ One crafted moment is waking early to meditate in a quiet favorite chair. A disc
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Wonder Formula - Curiosity Plus Mystery|The Wonder Formula - Curiosity Plus Mystery]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_HowToLiveAMeaningfulLife_RawTranscript|How to Live a Meaningful Life]]

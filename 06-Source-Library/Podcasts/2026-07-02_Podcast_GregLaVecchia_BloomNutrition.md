@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0052"
-title: "Bloom Nutrition"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Greg La Vecchia"
-    role: "creator"
-source_type: "podcast"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "zh"
-processing_status: "processed"
-date_archived: "2026-07-02"
-status: "source"
+title: Bloom Nutrition
+author: Greg La Vecchia
+lang: en
+archived: 2026-07-02
 ---
 
 # Bloom 商業手冊 — 筆記與重點整理

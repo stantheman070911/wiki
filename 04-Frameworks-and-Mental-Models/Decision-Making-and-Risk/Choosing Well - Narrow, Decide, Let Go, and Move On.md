@@ -1,56 +1,17 @@
 ---
-title: "Choosing Well - Narrow, Decide, Let Go, and Move On"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Choosing Well - Narrow, Decide, Let Go, and Move On
+lang: en
 tags:
-  [
-    topic/decision-making,
-    topic/prioritization,
-    topic/commitment,
-    topic/happiness,
-    topic/opportunity-cost,
-    person/bill-burnett,
-    person/dave-evans,
-    source/designing-your-life
-  ]
-sources:
-  - id: "SRC-0025"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You
-      Pivot - Life Design Interviews and Experiences
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Quitting Well and
-      Moving On
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions
-      - Formation Beyond Problem Solving
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reframe Gravity
-      Problems into Actionable Problems
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey
-      Plans - Parallel Futures Before Commitment
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good
-      Enough for Now - Acceptance Without Settling
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-      Design Compass - Workview, Lifeview, and Coherency
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The
-      Designer's Way - Acceptance, Availability, and Engaged Detachment
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Failure Reframing
-      and Immunity
+  - topic/decision-making
+  - topic/prioritization
+  - topic/commitment
+  - topic/happiness
+  - topic/opportunity-cost
+  - person/bill-burnett
+  - person/dave-evans
+  - source/designing-your-life
+status: draft
+updated: 2026-07-18
 ---
 
 # Choosing Well - Narrow, Decide, Let Go, and Move On
@@ -93,7 +54,6 @@ Andy compared two routes into health policy by inhabiting each choice rather tha
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You Pivot - Life Design Interviews and Experiences|Prototype Before You Pivot - Life Design Interviews and Experiences]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Quitting Well and Moving On|Quitting Well and Moving On]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions - Formation Beyond Problem Solving|Focus Questions - Formation Beyond Problem Solving]]
@@ -105,5 +65,4 @@ Andy compared two routes into health policy by inhabiting each choice rather tha
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Failure Reframing and Immunity|Failure Reframing and Immunity]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript|Designing Your Life - Raw Transcript]]

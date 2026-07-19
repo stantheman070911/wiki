@@ -1,43 +1,16 @@
 ---
-title: "Wayfinding with Energy and Engagement"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Wayfinding with Energy and Engagement
+lang: en
 tags:
-  [
-    topic/career,
-    topic/identity,
-    topic/learning,
-    topic/focus,
-    person/bill-burnett,
-    person/dave-evans,
-    source/designing-your-life
-  ]
-sources:
-  - id: "SRC-0025"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-  Leadership and Wellbeing Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You
-      Pivot - Life Design Interviews and Experiences
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey
-      Plans - Parallel Futures Before Commitment
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good
-      Enough for Now - Acceptance Without Settling
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-      Design Compass - Workview, Lifeview, and Coherency
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
-      Proficiency, Pain Tolerance, and Frustration Tolerance
+  - topic/career
+  - topic/identity
+  - topic/learning
+  - topic/focus
+  - person/bill-burnett
+  - person/dave-evans
+  - source/designing-your-life
+status: draft
+updated: 2026-07-18
 ---
 
 # Wayfinding with Energy and Engagement
@@ -78,7 +51,6 @@ Donald initially framed his problem as being in the wrong company. Interviews an
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You Pivot - Life Design Interviews and Experiences|Prototype Before You Pivot - Life Design Interviews and Experiences]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey Plans - Parallel Futures Before Commitment|Three Odyssey Plans - Parallel Futures Before Commitment]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good Enough for Now - Acceptance Without Settling|Good Enough for Now - Acceptance Without Settling]]
@@ -86,5 +58,4 @@ Donald initially framed his problem as being in the wrong company. Interviews an
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript|Designing Your Life - Raw Transcript]]

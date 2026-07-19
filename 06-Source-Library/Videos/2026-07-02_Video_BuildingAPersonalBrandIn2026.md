@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0062"
-title: "Building a Personal Brand in 2026"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Unknown"
-    role: "unknown"
-source_type: "video"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-02"
-status: "source"
+title: Building a Personal Brand in 2026
+author: Unknown
+lang: en
+archived: 2026-07-02
 ---
 
 # Building a Personal Brand in 2026 — Notes & Takeaways

@@ -1,39 +1,16 @@
 ---
-title: "Relentlessly Resourceful - The Founder Trait Stack"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Relentlessly Resourceful - The Founder Trait Stack
+lang: en
 tags:
-  [
-    topic/startups,
-    topic/mindset,
-    topic/execution,
-    topic/courage,
-    topic/feedback,
-    person/paul-graham,
-    source/paul-graham-essays
-  ]
-sources:
-  - id: "SRC-0046"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
-      Product-Discovery Loop - Launch, Learn, Evolve, Delight
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
-      Confidence
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
-      Proficiency, Pain Tolerance, and Frustration Tolerance
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passionate
-      Visionary Scientist - A Three-Part Founder Mindset
+  - topic/startups
+  - topic/mindset
+  - topic/execution
+  - topic/courage
+  - topic/feedback
+  - person/paul-graham
+  - source/paul-graham-essays
+status: draft
+updated: 2026-07-13
 ---
 
 # Relentlessly Resourceful - The Founder Trait Stack
@@ -69,12 +46,10 @@ Airbnb's founders sold novelty cereal to finance the company and personally work
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passionate Visionary Scientist - A Three-Part Founder Mindset|The Passionate Visionary Scientist - A Three-Part Founder Mindset]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

@@ -1,42 +1,15 @@
 ---
-title: "Focus Questions - Formation Beyond Problem Solving"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Focus Questions - Formation Beyond Problem Solving
+lang: en
 tags:
-  [
-    topic/decision-making,
-    topic/identity,
-    topic/learning,
-    person/bill-burnett,
-    person/dave-evans,
-    source/how-to-live-a-meaningful-life
-  ]
-sources:
-  - id: "SRC-0027"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well -
-      Narrow, Decide, Let Go, and Move On
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reframe Gravity
-      Problems into Actionable Problems
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey
-      Plans - Parallel Futures Before Commitment
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Formative
-      Communities - Become Better Together
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-      Design Compass - Workview, Lifeview, and Coherency
+  - topic/decision-making
+  - topic/identity
+  - topic/learning
+  - person/bill-burnett
+  - person/dave-evans
+  - source/how-to-live-a-meaningful-life
+status: draft
+updated: 2026-07-18
 ---
 
 # Focus Questions - Formation Beyond Problem Solving
@@ -79,7 +52,6 @@ Harmony’s presenting problem was whether to stay in a nonprofit role or launch
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well - Narrow, Decide, Let Go, and Move On|Choosing Well - Narrow, Decide, Let Go, and Move On]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reframe Gravity Problems into Actionable Problems|Reframe Gravity Problems into Actionable Problems]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey Plans - Parallel Futures Before Commitment|Three Odyssey Plans - Parallel Futures Before Commitment]]
@@ -87,5 +59,4 @@ Harmony’s presenting problem was whether to stay in a nonprofit role or launch
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Design Compass - Workview, Lifeview, and Coherency|Life Design Compass - Workview, Lifeview, and Coherency]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_HowToLiveAMeaningfulLife_RawTranscript|How to Live a Meaningful Life]]

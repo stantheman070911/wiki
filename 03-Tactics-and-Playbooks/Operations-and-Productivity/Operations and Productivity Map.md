@@ -1,12 +1,7 @@
 ---
-title: "Operations and Productivity Map"
-title_zh: "營運與生產力導覽"
-type: "subdomain-index"
-domain: "tactics-and-playbooks"
-lang: "en"
-updated: "2026-07-19"
-status: "evergreen"
-owner: "stanley-lu"
+title: Operations and Productivity Map
+title_zh: 營運與生產力導覽
+lang: en
 ---
 
 # Operations and Productivity Map
@@ -65,9 +60,8 @@ This folder has a dedicated MOC because diagnosis, flow, standardization, and ma
 ## Inventory
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", type AS "Type", lang AS "Lang", tags AS "Topics", status AS "Status", updated AS "Updated"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "03-Tactics-and-Playbooks/Operations-and-Productivity"
-WHERE type != "subdomain-index"
-AND contains(list("draft", "reviewed", "evergreen"), status)
+WHERE status
 SORT file.name ASC
 ```

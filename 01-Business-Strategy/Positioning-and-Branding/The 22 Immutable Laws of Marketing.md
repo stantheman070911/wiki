@@ -1,35 +1,12 @@
 ---
-title: "The 22 Immutable Laws of Marketing"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
-tags: [ topic/positioning, topic/brand, person/ries-trout ]
-sources:
-  - id: "SRC-0005"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-13"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension
-      Trap - Why One Name Can't Own Two Things
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
-      Actually Is - Association, Influence, Direction, Reach
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors
-      Down - The $50M Price-Cut Lesson
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
-      Hole in the Mind (Cherchez le Creneau)
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
-      in the Prospect's Mind
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架
+title: The 22 Immutable Laws of Marketing
+lang: en
+tags:
+  - topic/positioning
+  - topic/brand
+  - person/ries-trout
+status: reviewed
+updated: 2026-07-13
 ---
 
 # The 22 Immutable Laws of Marketing
@@ -91,7 +68,6 @@ The 22 laws, grouped by theme:
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension Trap - Why One Name Can't Own Two Things|The Line-Extension Trap - Why One Name Can't Own Two Things]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
 - **Related:** [[01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors Down - The $50M Price-Cut Lesson|Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
@@ -100,5 +76,4 @@ The 22 laws, grouped by theme:
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架|情緒價值與功能性價值：跳脫價格戰的定位框架]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_22ImmutableLawsOfMarketing|The 22 Immutable Laws of Marketing — archived source]]

@@ -1,40 +1,15 @@
 ---
-title: "Don't Overlook Governance"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Don't Overlook Governance
+lang: en
 tags:
-  [
-    topic/org-design,
-    topic/leadership,
-    topic/idea-meritocracy,
-    topic/management,
-    person/ray-dalio,
-    source/bridgewater-associates
-  ]
-sources:
-  - id: "SRC-0015"
-    role: "primary"
-    locator: "Ch. 16"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
-  Productivity Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How
-      to Get Beyond Disagreements
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More
-      Important Than the WHAT
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations -
-      Co-founders, Ownership, Possession, Control, and Vesting
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone
-      Operating a Machine to Achieve a Goal
+  - topic/org-design
+  - topic/leadership
+  - topic/idea-meritocracy
+  - topic/management
+  - person/ray-dalio
+  - source/bridgewater-associates
+status: draft
+updated: 2026-07-13
 ---
 
 # Don't Overlook Governance
@@ -67,12 +42,10 @@ Sixteenth and final chapter of Work Principles. Dalio explicitly frames this as 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How to Get Beyond Disagreements|Recognize How to Get Beyond Disagreements]]
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More Important Than the WHAT|Remember That the WHO Is More Important Than the WHAT]]
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting|Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone Operating a Machine to Achieve a Goal|Manage as Someone Operating a Machine to Achieve a Goal]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 16

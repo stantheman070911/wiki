@@ -1,21 +1,11 @@
 ---
-source_id: "SRC-0028"
-title: "Never Split the Difference"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Chris Voss"
-    role: "author"
-  - name: "Tahl Raz"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2016"
-date_archived: "2026-07-18"
-status: "source"
+title: Never Split the Difference
+author:
+  - Chris Voss
+  - Tahl Raz
+lang: en
+published: "2016"
+archived: 2026-07-18
 ---
 
 

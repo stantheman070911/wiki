@@ -1,49 +1,15 @@
 ---
-title: "Compete on Efficiency When You Can't Control Price"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Compete on Efficiency When You Can't Control Price
+lang: en
 tags:
-  [
-    topic/margins,
-    topic/efficiency,
-    topic/unit-economics,
-    topic/operations,
-    topic/pricing,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
-      Business - Train Like an Employee and the Department Playbook
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
-      of a Perfect Business
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The SMB Service
-      Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of
-      Service Businesses
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural -
-      Defending Margin Against Organizational Creep
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
-      Manufacturing as the Moat
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
-      Discount - Make the Difference Obvious
+  - topic/margins
+  - topic/efficiency
+  - topic/unit-economics
+  - topic/operations
+  - topic/pricing
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Compete on Efficiency When You Can't Control Price
@@ -87,7 +53,6 @@ A dietitian group faced fixed insurance reimbursement (~$150/hour). Hormozi's co
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your Business - Train Like an Employee and the Department Playbook|Using AI in Your Business - Train Like an Employee and the Department Playbook]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Five Advantages of a Perfect Business|The Five Advantages of a Perfect Business]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone|The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone]]
@@ -98,5 +63,4 @@ A dietitian group faced fixed insurance reimbursement (~$150/hour). Hormozi's co
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious|Decommoditize Before You Discount - Make the Difference Obvious]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

@@ -1,19 +1,9 @@
 ---
-source_id: "SRC-0011"
-title: "The E-Myth Revisited - Raw Transcript"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Michael E. Gerber"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "1995"
-date_archived: "2026-07-13"
-status: "source"
+title: The E-Myth Revisited - Raw Transcript
+author: Michael E. Gerber
+lang: en
+published: "1995"
+archived: 2026-07-13
 ---
 
 --- OCR supplement: text visible in images on PDF page 1 ---

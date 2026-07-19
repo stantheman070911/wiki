@@ -1,47 +1,17 @@
 ---
-title: "Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the
-  Constraint"
+title: Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint
 aliases:
-  - "Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the
-    Constraint"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+  - Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint
+lang: en
 tags:
-  [
-    topic/m-and-a,
-    topic/capital,
-    topic/leadership,
-    topic/hiring,
-    topic/marketing,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp -
-      The Messy Middle and the 40-for-2 Management Trade
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
-      Organizations
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle -
-      Recover Time, Capital, and Better Judgment
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/選擇權與退出心態：Soft-Shop、三種成長路徑與
-      Phantom Equity
+  - topic/m-and-a
+  - topic/capital
+  - topic/leadership
+  - topic/hiring
+  - topic/marketing
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint
@@ -86,7 +56,6 @@ A buy-and-hold software group ($12M across four companies) asked how to balance 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp - The Messy Middle and the 40-for-2 Management Trade|The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing|Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
@@ -95,5 +64,4 @@ A buy-and-hold software group ($12M across four companies) asked how to balance 
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity|選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

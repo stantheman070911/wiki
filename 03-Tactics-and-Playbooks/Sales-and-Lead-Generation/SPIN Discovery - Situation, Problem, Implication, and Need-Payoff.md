@@ -1,46 +1,15 @@
 ---
-title: "SPIN Discovery - Situation, Problem, Implication, and Need-Payoff"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: SPIN Discovery - Situation, Problem, Implication, and Need-Payoff
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/qualification,
-    topic/research,
-    topic/persuasion,
-    person/neil-rackham,
-    source/the-spin-selling-fieldbook
-  ]
-sources:
-  - id: "SRC-0036"
-    role: "primary"
-    locator: "chapters 2 and 6–10"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Advances, Not
-      Continuations - Plan Every Sales Call
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Buyer Needs and
-      Benefits - From Implied Problems to Explicit Value
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching -
-      Insight That Leads to Unique Strengths
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State
-      Diagnosis - Facts, Problems, Impact, Cause, and Emotion
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Problem-Centric
-      Discovery - Four Question Types and the CRM Challenge
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
-      Rhythm - Leads, Appointments, Presentations, and Sales
+  - topic/sales
+  - topic/qualification
+  - topic/research
+  - topic/persuasion
+  - person/neil-rackham
+  - source/the-spin-selling-fieldbook
+status: draft
+updated: 2026-07-18
 ---
 
 # SPIN Discovery - Situation, Problem, Implication, and Need-Payoff
@@ -85,7 +54,6 @@ Xerox reframed expensive early fax machines from product specifications into a s
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Advances, Not Continuations - Plan Every Sales Call|Advances, Not Continuations - Plan Every Sales Call]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Buyer Needs and Benefits - From Implied Problems to Explicit Value|Buyer Needs and Benefits - From Implied Problems to Explicit Value]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching - Insight That Leads to Unique Strengths|Commercial Teaching - Insight That Leads to Unique Strengths]]
@@ -94,5 +62,4 @@ Xerox reframed expensive early fax machines from product specifications into a s
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_NeilRackham_TheSPINSellingFieldbook_RawTranscript|The SPIN Selling Fieldbook]] — locator: chapters 2 and 6–10

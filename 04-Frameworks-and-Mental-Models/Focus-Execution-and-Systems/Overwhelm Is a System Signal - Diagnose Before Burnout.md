@@ -1,41 +1,17 @@
 ---
-title: "Overwhelm Is a System Signal - Diagnose Before Burnout"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Overwhelm Is a System Signal - Diagnose Before Burnout
+lang: en
 tags:
-  [
-    topic/productivity,
-    topic/systems,
-    topic/delegation,
-    topic/focus,
-    topic/management,
-    person/bill-burnett,
-    person/dave-evans,
-    source/designing-your-new-work-life
-  ]
-sources:
-  - id: "SRC-0026"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as
-      Managerial Production
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign,
-      Redesign - Four Ways to Change Work in Place
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial
-      Output and Leverage
+  - topic/productivity
+  - topic/systems
+  - topic/delegation
+  - topic/focus
+  - topic/management
+  - person/bill-burnett
+  - person/dave-evans
+  - source/designing-your-new-work-life
+status: draft
+updated: 2026-07-18
 ---
 
 # Overwhelm Is a System Signal - Diagnose Before Burnout
@@ -77,12 +53,10 @@ Mayra suspected no one used a costly weekly asset report. Her manager approved a
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as Managerial Production|Meetings as Managerial Production]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign, Redesign - Four Ways to Change Work in Place|Don't Resign, Redesign - Four Ways to Change Work in Place]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial Output and Leverage|Managerial Output and Leverage]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript|Designing Your New Work Life - Raw Transcript]]

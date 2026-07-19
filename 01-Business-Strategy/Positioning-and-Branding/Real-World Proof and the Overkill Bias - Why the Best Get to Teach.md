@@ -1,40 +1,15 @@
 ---
-title: "Real-World Proof and the Overkill Bias - Why the Best Get to Teach"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Real-World Proof and the Overkill Bias - Why the Best Get to Teach
+lang: en
 tags:
-  [
-    topic/proof,
-    topic/believability,
-    topic/brand,
-    topic/positioning,
-    topic/differentiation,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0107"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
-      Shapes - E-commerce, Service, Education, Software
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product
-      - The Best-Known Wins, Not the Best
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing
-      Scale - Sell the Outcome, Not Your Effort
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem
-      - Sell Consumable Inputs, Not the Black Box
-  - type: related
-    target: 07-Articles/Confidence Is a Receipt, Not a Requirement
+  - topic/proof
+  - topic/believability
+  - topic/brand
+  - topic/positioning
+  - topic/differentiation
+  - person/alex-hormozi
+status: draft
+updated: 2026-07-18
 ---
 
 # Real-World Proof and the Overkill Bias - Why the Best Get to Teach
@@ -73,7 +48,6 @@ Use this for experts, coaches, consultants, course creators, and personal brands
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
 - **Related:** [[01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product - The Best-Known Wins, Not the Best|Distribution Beats Product - The Best-Known Wins, Not the Best]]
 - **Related:** [[01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort|The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
@@ -81,5 +55,4 @@ Use this for experts, coaches, consultants, course creators, and personal brands
 - **Related:** [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-18_Video_AlexHormozi_HowToGrowAnyBusinessFast_RawTranscript|How to Grow Any Business Fast (The Four Business Shapes)]]

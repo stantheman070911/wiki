@@ -1,21 +1,11 @@
 ---
-source_id: "SRC-0026"
-title: "Designing Your New Work Life - Raw Transcript"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Bill Burnett"
-    role: "author"
-  - name: "Dave Evans"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2021"
-date_archived: "2026-07-18"
-status: "source"
+title: Designing Your New Work Life - Raw Transcript
+author:
+  - Bill Burnett
+  - Dave Evans
+lang: en
+published: "2021"
+archived: 2026-07-18
 ---
 
 [Embedded visual 1 on PDF page 1 (1506x2323 px). OCR-readable text: BILL BURNETT & DAVE EVANS / Authors of the #1 New York Times Bestseller / Designing Your Life / HOW TO THRIVE AND CHANGE / AND FIND HAPPINESS— / AND A NEW FREEDOM— / AT WORK]

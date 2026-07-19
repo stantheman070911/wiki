@@ -1,45 +1,15 @@
 ---
-title: "Client-Financed Acquisition - Make the Customer Fund the Next Customer"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Client-Financed Acquisition - Make the Customer Fund the Next Customer
+lang: en
 tags:
-  [
-    topic/cac,
-    topic/cash-flow,
-    topic/unit-economics,
-    topic/ltv,
-    topic/paid-ads,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0019"
-    role: "primary"
-    locator: "Part 2"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Cold Outreach -
-      Personalize, Big Fast Value, Volume
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
-      Rule of 100 - Lead Generation Fundamentals
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing
-      Offers to Fund Growth
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
-      Traffic Before the Core Offer
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS
-      - The Percentage Lies
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
-      - Ads Are an At-Bats Game
+  - topic/cac
+  - topic/cash-flow
+  - topic/unit-economics
+  - topic/ltv
+  - topic/paid-ads
+  - person/alex-hormozi
+status: draft
+updated: 2026-07-18
 ---
 
 # Client-Financed Acquisition - Make the Customer Fund the Next Customer
@@ -85,7 +55,6 @@ When the first purchase alone doesn't clear it (e.g., a $115/mo membership at ~$
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Cold Outreach - Personalize, Big Fast Value, Volume|Cold Outreach - Personalize, Big Fast Value, Volume]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing Offers to Fund Growth|The Money Model - Sequencing Offers to Fund Growth]]
@@ -94,5 +63,4 @@ When the first purchase alone doesn't clear it (e.g., a $115/mo membership at ~$
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript|$100M Leads]] — locator: Part 2

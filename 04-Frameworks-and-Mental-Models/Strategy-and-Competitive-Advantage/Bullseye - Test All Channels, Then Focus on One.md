@@ -1,45 +1,16 @@
 ---
-title: "Bullseye - Test All Channels, Then Focus on One"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Bullseye - Test All Channels, Then Focus on One
+lang: en
 tags:
-  [
-    topic/distribution,
-    topic/channel-strategy,
-    topic/marketing,
-    topic/focus,
-    person/gabriel-weinberg,
-    person/justin-mares,
-    source/traction
-  ]
-sources:
-  - id: "SRC-0031"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: applies
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is
-      Destiny - The Sales Channel Power Law
-  - type: is-applied-by
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
-      - Ads Are an At-Bats Game
-  - type: is-applied-by
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where
-      the Fewest Go
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is
-      Destiny - The Sales Channel Power Law
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical
-      Path - Work Backward from a Traction Goal
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
-      50 Percent Rule - Build Product and Traction in Parallel
+  - topic/distribution
+  - topic/channel-strategy
+  - topic/marketing
+  - topic/focus
+  - person/gabriel-weinberg
+  - person/justin-mares
+  - source/traction
+status: draft
+updated: 2026-07-18
 ---
 
 # Bullseye - Test All Channels, Then Focus on One
@@ -80,7 +51,6 @@ Mint first listed the blogs its likely customers read, built relationships with 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law|Distribution Is Destiny - The Sales Channel Power Law]]
 - **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
 - **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where the Fewest Go|The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
@@ -89,5 +59,4 @@ Mint first listed the blogs its likely customers read, built relationships with 
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The 50 Percent Rule - Build Product and Traction in Parallel|The 50 Percent Rule - Build Product and Traction in Parallel]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_GabrielWeinbergJustinMares_Traction_RawTranscript|Traction]]

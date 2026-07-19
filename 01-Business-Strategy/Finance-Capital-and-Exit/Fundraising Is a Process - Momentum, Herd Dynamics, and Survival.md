@@ -1,36 +1,16 @@
 ---
-title: "Fundraising Is a Process - Momentum, Herd Dynamics, and Survival"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Fundraising Is a Process - Momentum, Herd Dynamics, and Survival
+lang: en
 tags:
-  [
-    topic/startups,
-    topic/capital,
-    topic/equity,
-    topic/risk,
-    topic/decision-making,
-    person/paul-graham,
-    source/paul-graham-essays
-  ]
-sources:
-  - id: "SRC-0046"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
-      and Asymmetric Bets
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations -
-      Co-founders, Ownership, Possession, Control, and Vesting
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default
-      Dead - Runway, Growth, and the Fatal Pinch
+  - topic/startups
+  - topic/capital
+  - topic/equity
+  - topic/risk
+  - topic/decision-making
+  - person/paul-graham
+  - source/paul-graham-essays
+status: draft
+updated: 2026-07-13
 ---
 
 # Fundraising Is a Process - Momentum, Herd Dynamics, and Survival
@@ -67,11 +47,9 @@ Convertible notes enabled “high-resolution fundraising”: different investors
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting|Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch|Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

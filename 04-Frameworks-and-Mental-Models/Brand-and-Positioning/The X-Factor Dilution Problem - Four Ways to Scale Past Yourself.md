@@ -1,46 +1,13 @@
 ---
-title: "The X-Factor Dilution Problem - Four Ways to Scale Past Yourself"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The X-Factor Dilution Problem - Four Ways to Scale Past Yourself
+lang: en
 tags:
-  [
-    topic/scaling,
-    topic/supply-constraint,
-    topic/personal-brand,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0073"
-    role: "primary"
-  - id: "SRC-0074"
-    role: "supporting"
-date_added: "2026-07-09"
-updated: "2026-07-09"
-reviewed_on: "2026-07-09"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/The Seven Levels of Business
-      Growth - From Side Hustle to Exit
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
-      Intellectual Property - Process Above the Player
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
-      Actually Is - Association, Influence, Direction, Reach
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
-      Supply
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Greener-Pasture Fallacy
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and
-      Systems - The Two Psychological Shifts Behind Consistent Revenue
+  - topic/scaling
+  - topic/supply-constraint
+  - topic/personal-brand
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-09
 ---
 
 # The X-Factor Dilution Problem - Four Ways to Scale Past Yourself
@@ -85,7 +52,6 @@ A couple running "Coupleneur," a relationship-coaching business built on their o
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion|Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
 - **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/The Seven Levels of Business Growth - From Side Hustle to Exit|The Seven Levels of Business Growth - From Side Hustle to Exit]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
@@ -95,6 +61,5 @@ A couple running "Coupleneur," a relationship-coaching business built on their o
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue|Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript|Cash Cow Breakdowns - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]

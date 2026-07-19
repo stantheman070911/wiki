@@ -1,39 +1,15 @@
 ---
-title: "Riding Waves of Change - Five Guideposts for Industry Transitions"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Riding Waves of Change - Five Guideposts for Industry Transitions
+lang: en
 tags:
-  [
-    topic/strategy,
-    topic/innovation,
-    topic/decision-making,
-    topic/market-saturation,
-    person/richard-rumelt,
-    source/good-strategy-bad-strategy
-  ]
-sources:
-  - id: "SRC-0038"
-    role: "primary"
-    locator: "Ch. 13"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Inertia
-      and Entropy - Three Kinds of Organizational Stuckness
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Keeping
-      Your Head - Social Herding, the Inside View, and Strategy as Hypothesis
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategic
-      Leverage - Anticipation, Pivot Points, Concentration
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy
-      as Design - Coordinating Actions Under Constraint
+  - topic/strategy
+  - topic/innovation
+  - topic/decision-making
+  - topic/market-saturation
+  - person/richard-rumelt
+  - source/good-strategy-bad-strategy
+status: draft
+updated: 2026-07-18
 ---
 
 # Riding Waves of Change - Five Guideposts for Industry Transitions
@@ -75,12 +51,10 @@ When assessing an industry transition, check each guidepost in turn:
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Inertia and Entropy - Three Kinds of Organizational Stuckness|Inertia and Entropy - Three Kinds of Organizational Stuckness]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Keeping Your Head - Social Herding, the Inside View, and Strategy as Hypothesis|Keeping Your Head - Social Herding, the Inside View, and Strategy as Hypothesis]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategic Leverage - Anticipation, Pivot Points, Concentration|Strategic Leverage - Anticipation, Pivot Points, Concentration]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy as Design - Coordinating Actions Under Constraint|Strategy as Design - Coordinating Actions Under Constraint]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 13

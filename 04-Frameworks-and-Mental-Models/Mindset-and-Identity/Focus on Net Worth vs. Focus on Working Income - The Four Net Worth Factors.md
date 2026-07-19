@@ -1,33 +1,13 @@
 ---
-title: "Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/wealth, topic/money, topic/decision-making, person/t-harv-eker ]
-sources:
-  - id: "SRC-0018"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money
-      Management System
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Have Money Work
-      Hard for You vs. Working Hard for Your Money
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money
-      Well - The Habit Matters More Than the Amount
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs.
-      Paid on Time
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think
-      Small - The Law of Income
+title: Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors
+lang: en
+tags:
+  - topic/wealth
+  - topic/money
+  - topic/decision-making
+  - person/t-harv-eker
+status: draft
+updated: 2026-07-13
 ---
 
 # Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors
@@ -54,7 +34,6 @@ Wealth File #13. Eker points out that income alone reliably fails to create weal
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money Management System|The 6 Jars Money Management System]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Have Money Work Hard for You vs. Working Hard for Your Money|Have Money Work Hard for You vs. Working Hard for Your Money]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money Well - The Habit Matters More Than the Amount|Manage Your Money Well - The Habit Matters More Than the Amount]]
@@ -62,5 +41,4 @@ Wealth File #13. Eker points out that income alone reliably fails to create weal
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think Small - The Law of Income|Think Big vs. Think Small - The Law of Income]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

@@ -1,43 +1,14 @@
 ---
-title: "Positioning a Company - Stand for a Specific Achievement, Not Diversification"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Positioning a Company - Stand for a Specific Achievement, Not Diversification
+lang: en
 tags:
-  [
-    topic/positioning,
-    topic/brand,
-    topic/diversification,
-    topic/differentiation,
-    person/ries-trout
-  ]
-sources:
-  - id: "SRC-0006"
-    role: "primary"
-    locator: "ch. 14"
-  - id: "SRC-0007"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the
-      Prospect Already Gives You - Research-Based Positioning
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension
-      Trap - Why One Name Can't Own Two Things
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market
-      Positioning Styles - Head to Head, Big Fish, or New Game
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition -
-      Why All Happy Companies Are Different
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
-      in the Prospect's Mind
+  - topic/positioning
+  - topic/brand
+  - topic/diversification
+  - topic/differentiation
+  - person/ries-trout
+status: draft
+updated: 2026-07-13
 ---
 
 # Positioning a Company - Stand for a Specific Achievement, Not Diversification
@@ -76,7 +47,6 @@ Positioning a *company* (as opposed to a single product) has extra pitfalls: eve
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the Prospect Already Gives You - Research-Based Positioning|Own What the Prospect Already Gives You - Research-Based Positioning]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension Trap - Why One Name Can't Own Two Things|The Line-Extension Trap - Why One Name Can't Own Two Things]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market Positioning Styles - Head to Head, Big Fish, or New Game|Three Market Positioning Styles - Head to Head, Big Fish, or New Game]]
@@ -84,6 +54,5 @@ Positioning a *company* (as opposed to a single product) has extra pitfalls: eve
 - **Related:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning_FullText|Positioning - Full Text]] — locator: ch. 14
 - **supporting:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning|Positioning]]

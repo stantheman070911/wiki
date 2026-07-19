@@ -1,31 +1,13 @@
 ---
-title: "Hyperdopamine Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
-tags: [ topic/paid-ads, topic/hooks, topic/content-formats, person/sabri-suby ]
-sources:
-  - id: "SRC-0078"
-    role: "primary"
-date_added: "2026-07-10"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-  Creation and Distribution Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
-      - Ads Are an At-Bats Game
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Direct-Response
-      Copywriting
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking
-      Attention - Topic, Format, Hook and the Content Engine
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
-      Proof, Path - Engineering the Video Intro
+title: Hyperdopamine Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy
+lang: en
+tags:
+  - topic/paid-ads
+  - topic/hooks
+  - topic/content-formats
+  - person/sabri-suby
+status: draft
+updated: 2026-07-13
 ---
 
 # Hyperdopamine Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy
@@ -84,12 +66,10 @@ sits at the intersection of two axes — pure clickbait (high intrigue, no real 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Direct-Response Copywriting|Direct-Response Copywriting - NEWIF, the Nine Questions, and Three Conversion-Killing Mistakes]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking Attention - Topic, Format, Hook and the Content Engine|Hacking Attention - Topic, Format, Hook and the Content Engine]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook|Customer Acquisition, Offers, And Ads Playbook]]

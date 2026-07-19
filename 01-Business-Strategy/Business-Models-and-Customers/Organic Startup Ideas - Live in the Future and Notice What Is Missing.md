@@ -1,37 +1,16 @@
 ---
-title: "Organic Startup Ideas - Live in the Future and Notice What Is Missing"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Organic Startup Ideas - Live in the Future and Notice What Is Missing
+lang: en
 tags:
-  [
-    topic/startups,
-    topic/business-model,
-    topic/research,
-    topic/innovation,
-    topic/niche,
-    person/paul-graham,
-    source/paul-graham-essays
-  ]
-sources:
-  - id: "SRC-0046"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
-  and Customers Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New
-      Ideas - Work at the Fractal Edge of Knowledge
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How
-      to Find What Everyone Else Has Missed
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
-      Product-Discovery Loop - Launch, Learn, Evolve, Delight
+  - topic/startups
+  - topic/business-model
+  - topic/research
+  - topic/innovation
+  - topic/niche
+  - person/paul-graham
+  - source/paul-graham-essays
+status: draft
+updated: 2026-07-13
 ---
 
 # Organic Startup Ideas - Live in the Future and Notice What Is Missing
@@ -66,11 +45,9 @@ Dropbox emerged from Drew Houston's own need; Airbnb from its founders' need for
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New Ideas - Work at the Fractal Edge of Knowledge|Finding New Ideas - Work at the Fractal Edge of Knowledge]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How to Find What Everyone Else Has Missed|Secrets - How to Find What Everyone Else Has Missed]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

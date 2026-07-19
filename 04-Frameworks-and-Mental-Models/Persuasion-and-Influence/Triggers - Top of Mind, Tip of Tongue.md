@@ -1,45 +1,14 @@
 ---
-title: "Triggers - Top of Mind, Tip of Tongue"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Triggers - Top of Mind, Tip of Tongue
+lang: en
 tags:
-  [
-    topic/word-of-mouth,
-    topic/marketing,
-    topic/content-strategy,
-    person/jonah-berger,
-    source/contagious
-  ]
-sources:
-  - id: "SRC-0033"
-    role: "primary"
-    locator: "ch. 2"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: "2026-07-18"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
-  and Influence Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
-      Framework - Six Drivers of Word of Mouth
-  - type: contrast
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency
-      - We Share What Makes Us Look Good
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points
-      - Anchor a New Position to What's Already Believed
-  - type: is-applied-by
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
-      Framework - Six Drivers of Word of Mouth
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal
-      Emotion - When We Care, We Share
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of
-      Influence - Click-Whirr, Trigger Features, and the Contrast Principle
+  - topic/word-of-mouth
+  - topic/marketing
+  - topic/content-strategy
+  - person/jonah-berger
+  - source/contagious
+status: reviewed
+updated: 2026-07-18
 ---
 
 # Triggers - Top of Mind, Tip of Tongue
@@ -71,7 +40,6 @@ A **trigger** is an environmental cue that makes a related idea accessible; a pr
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
 - **Contrast:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good|Social Currency - We Share What Makes Us Look Good]]
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points - Anchor a New Position to What's Already Believed|Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
@@ -80,5 +48,4 @@ A **trigger** is an environmental cue that makes a related idea accessible; a pr
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle|Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_JonahBerger_Contagious|Contagious: Why Things Catch On]] — locator: ch. 2

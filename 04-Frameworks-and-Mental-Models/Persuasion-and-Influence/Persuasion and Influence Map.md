@@ -1,12 +1,7 @@
 ---
-title: "Persuasion and Influence Map"
-title_zh: "說服與影響力導覽"
-type: "subdomain-index"
-domain: "frameworks-and-mental-models"
-lang: "en"
-updated: "2026-07-19"
-status: "evergreen"
-owner: "stanley-lu"
+title: Persuasion and Influence Map
+title_zh: 說服與影響力導覽
+lang: en
 ---
 
 # Persuasion and Influence Map
@@ -67,9 +62,8 @@ This folder has a dedicated MOC because negotiation, influence mechanisms, deal 
 ## Inventory
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", type AS "Type", lang AS "Lang", tags AS "Topics", status AS "Status", updated AS "Updated"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "04-Frameworks-and-Mental-Models/Persuasion-and-Influence"
-WHERE type != "subdomain-index"
-AND contains(list("draft", "reviewed", "evergreen"), status)
+WHERE status
 SORT file.name ASC
 ```

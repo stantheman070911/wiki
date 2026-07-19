@@ -1,42 +1,15 @@
 ---
-title: "OKRs - Define Objectives Through Sufficient Key Results"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: OKRs - Define Objectives Through Sufficient Key Results
+lang: en
 tags:
-  [
-    topic/execution,
-    topic/management,
-    topic/systems,
-    topic/prioritization,
-    person/john-doerr,
-    source/measure-what-matters
-  ]
-sources:
-  - id: "SRC-0032"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
-      to Do
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating
-      Cycle - Set, Check In, Score, and Reflect
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed
-      and Aspirational OKRs - Separate Reliability from Stretch
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and
-      Align - Make Priorities and Dependencies Public
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bad
-      Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy
+  - topic/execution
+  - topic/management
+  - topic/systems
+  - topic/prioritization
+  - person/john-doerr
+  - source/measure-what-matters
+status: draft
+updated: 2026-07-18
 ---
 
 # OKRs - Define Objectives Through Sufficient Key Results
@@ -82,7 +55,6 @@ Use the **Objective–Key Result sufficiency test**:
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating Cycle - Set, Check In, Score, and Reflect|The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed and Aspirational OKRs - Separate Reliability from Stretch|Committed and Aspirational OKRs - Separate Reliability from Stretch]]
@@ -90,5 +62,4 @@ Use the **Objective–Key Result sufficiency test**:
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy|Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript|Measure What Matters]]

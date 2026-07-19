@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0055"
-title: "Sharran Srivatsaa - 10x by Doing Less"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Anatomy Of ADream"
-    role: "creator"
-source_type: "podcast"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-08"
-status: "source"
+title: Sharran Srivatsaa - 10x by Doing Less
+author: Anatomy Of ADream
+lang: en
+archived: 2026-07-08
 ---
 
 # The Money Making Expert — How to 10x Your Business by Doing LESS

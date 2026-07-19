@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0070"
-title: "The Art of the Personal Brand - Raw Transcript"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Art Of The Personal Brand"
-    role: "creator"
-source_type: "video"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-08"
-status: "source"
+title: The Art of the Personal Brand - Raw Transcript
+author: Art Of The Personal Brand
+lang: en
+archived: 2026-07-08
 ---
 
 # The Art of the Personal Brand — Raw Transcript

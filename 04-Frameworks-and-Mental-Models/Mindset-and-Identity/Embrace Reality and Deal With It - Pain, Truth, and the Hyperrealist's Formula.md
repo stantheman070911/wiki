@@ -1,49 +1,15 @@
 ---
-title: "Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's
-  Formula"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula
+lang: en
 tags:
-  [
-    topic/mindset,
-    topic/decision-making,
-    topic/identity,
-    topic/learning,
-    person/ray-dalio,
-    source/bridgewater-associates
-  ]
-sources:
-  - id: "SRC-0015"
-    role: "primary"
-    locator: "Ch. 1"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
-      Open-Minded
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Pre-Mortem
-      - Imagine Failure Before It Happens
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale
-      Paradox - Confront Reality Without Losing Faith
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
-      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a
-      Culture Where Mistakes Are Okay But Not Learning From Them Isn't
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in
-      Radical Truth and Radical Transparency
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
-      Confidence
+  - topic/mindset
+  - topic/decision-making
+  - topic/identity
+  - topic/learning
+  - person/ray-dalio
+  - source/bridgewater-associates
+status: draft
+updated: 2026-07-13
 ---
 
 # Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula
@@ -79,7 +45,6 @@ This is the opening chapter of Dalio's "Life Principles" and the philosophical f
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Pre-Mortem - Imagine Failure Before It Happens|The Pre-Mortem - Imagine Failure Before It Happens]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale Paradox - Confront Reality Without Losing Faith|The Stockdale Paradox - Confront Reality Without Losing Faith]]
@@ -89,5 +54,4 @@ This is the opening chapter of Dalio's "Life Principles" and the philosophical f
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 1

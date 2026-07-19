@@ -1,46 +1,15 @@
 ---
-title: "Task-Relevant Maturity"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Task-Relevant Maturity
+lang: en
 tags:
-  [
-    topic/management,
-    topic/leadership,
-    topic/learning,
-    topic/feedback,
-    person/andrew-grove,
-    source/high-output-management
-  ]
-sources:
-  - id: "SRC-0022"
-    role: "primary"
-    locator: "chapter 12"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-  Leadership and Wellbeing Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test,
-      Evaluate, and Sort People
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Performance Appraisal as a
-      Management System
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as
-      Managerial Production
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial
-      Output and Leverage
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Adaptive
-      Leadership - Consistent Standards, Individual Treatment
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The ARC of
-      Career Motivation - Autonomy, Relatedness, and Competence
+  - topic/management
+  - topic/leadership
+  - topic/learning
+  - topic/feedback
+  - person/andrew-grove
+  - source/high-output-management
+status: draft
+updated: 2026-07-18
 ---
 
 # Task-Relevant Maturity
@@ -85,7 +54,6 @@ Intel moved an outstanding field sales manager into factory leadership. His perf
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People|Constantly Train, Test, Evaluate, and Sort People]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Performance Appraisal as a Management System|Performance Appraisal as a Management System]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as Managerial Production|Meetings as Managerial Production]]
@@ -94,5 +62,4 @@ Intel moved an outstanding field sales manager into factory leadership. His perf
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The ARC of Career Motivation - Autonomy, Relatedness, and Competence|The ARC of Career Motivation - Autonomy, Relatedness, and Competence]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript|High Output Management - Raw Transcript]] — locator: chapter 12

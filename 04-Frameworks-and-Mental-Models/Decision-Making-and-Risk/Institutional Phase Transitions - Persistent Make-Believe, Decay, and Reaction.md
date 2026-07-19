@@ -1,42 +1,17 @@
 ---
-title: "Institutional Phase Transitions - Persistent Make-Believe, Decay, and
-  Reaction"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction
+lang: en
 tags:
-  [
-    topic/mental-models,
-    topic/decision-making,
-    topic/systems,
-    topic/feedback,
-    topic/risk,
-    person/james-dale-davidson,
-    person/william-rees-mogg,
-    source/the-sovereign-individual
-  ]
-sources:
-  - id: "SRC-0009"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Preserve the Core,
-      Stimulate Progress - Build an Institution That Can Evolve
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Megapolitics -
-      How Technology Changes the Returns to Violence
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale
-      Paradox - Confront Reality Without Losing Faith
+  - topic/mental-models
+  - topic/decision-making
+  - topic/systems
+  - topic/feedback
+  - topic/risk
+  - person/james-dale-davidson
+  - person/william-rees-mogg
+  - source/the-sovereign-individual
+status: draft
+updated: 2026-07-13
 ---
 
 # Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction
@@ -79,12 +54,10 @@ After the last Western Roman emperor was removed, the Senate, offices, insignia,
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve|Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Megapolitics - How Technology Changes the Returns to Violence|Megapolitics - How Technology Changes the Returns to Violence]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale Paradox - Confront Reality Without Losing Faith|The Stockdale Paradox - Confront Reality Without Losing Faith]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript|The Sovereign Individual - Raw Transcript]]

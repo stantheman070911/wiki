@@ -1,71 +1,17 @@
 ---
-title: "Do What You Set Out to Do"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Do What You Set Out to Do
+lang: en
 tags:
-  [
-    topic/execution,
-    topic/productivity,
-    topic/prioritization,
-    topic/operations,
-    person/ray-dalio,
-    person/john-doerr,
-    source/bridgewater-associates,
-    source/measure-what-matters
-  ]
-sources:
-  - id: "SRC-0015"
-    role: "primary"
-    locator: "Ch. 14"
-  - id: "SRC-0032"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
-  Productivity Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed
-      and Aspirational OKRs - Separate Reliability from Stretch
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Finish and
-      Release - Abundance Beats Perfectionism
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal
-      Urgency - Speed, Parallelism, and Aggressive Timelines
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs -
-      Define Objectives Through Sufficient Key Results
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning
-      Backward from the Gap
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Replace,
-      Don't Fight, a Habit
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
-      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Guarantee
-      Execution - How, the Rule of Three, and Hidden Players
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements
-      to Your Machine to Get Around Your Problems
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time -
-      Record, Eliminate, and Consolidate
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating
-      Cycle - Set, Check In, Score, and Reflect
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect
-      Repeatable Week - Designing a Predictable Business Rhythm
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and
-      Protocols to Shape How Work Is Done
+  - topic/execution
+  - topic/productivity
+  - topic/prioritization
+  - topic/operations
+  - person/ray-dalio
+  - person/john-doerr
+  - source/bridgewater-associates
+  - source/measure-what-matters
+status: draft
+updated: 2026-07-18
 ---
 
 # Do What You Set Out to Do
@@ -103,7 +49,6 @@ This chapter doesn't introduce a new framework so much as it closes the loop on 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed and Aspirational OKRs - Separate Reliability from Stretch|Committed and Aspirational OKRs - Separate Reliability from Stretch]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Finish and Release - Abundance Beats Perfectionism|Finish and Release - Abundance Beats Perfectionism]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines|Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]]
@@ -119,6 +64,5 @@ This chapter doesn't introduce a new framework so much as it closes the loop on 
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and Protocols to Shape How Work Is Done|Use Tools and Protocols to Shape How Work Is Done]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 14
 - **supporting:** [[06-Source-Library/Books/2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript|Measure What Matters]]

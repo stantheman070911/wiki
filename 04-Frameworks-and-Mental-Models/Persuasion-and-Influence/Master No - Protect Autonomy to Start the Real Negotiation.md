@@ -1,44 +1,16 @@
 ---
-title: "Master No - Protect Autonomy to Start the Real Negotiation"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Master No - Protect Autonomy to Start the Real Negotiation
+lang: en
 tags:
-  [
-    topic/persuasion,
-    topic/influence,
-    topic/trust,
-    topic/sales,
-    person/chris-voss,
-    person/tahl-raz,
-    source/never-split-the-difference
-  ]
-sources:
-  - id: "SRC-0028"
-    role: "primary"
-    locator: "Chapter 4"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
-  and Influence Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Ackerman
-      Bargaining System - Calibrated Concessions and Exact Numbers
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes -
-      Decision Criteria, Buying Process, and Mutual Effort
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated
-      Questions - How and What Create the Illusion of Control
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With
-      Agreement - Keep the Other Mind Open
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical
-      Empathy - Labels, Silence, and the Accusation Audit
+  - topic/persuasion
+  - topic/influence
+  - topic/trust
+  - topic/sales
+  - person/chris-voss
+  - person/tahl-raz
+  - source/never-split-the-difference
+status: draft
+updated: 2026-07-18
 ---
 
 # Master No - Protect Autonomy to Start the Real Negotiation
@@ -79,7 +51,6 @@ A nonprofit fundraiser improved an unproductive call by asking a donor whether h
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers|The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes - Decision Criteria, Buying Process, and Mutual Effort|The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated Questions - How and What Create the Illusion of Control|Calibrated Questions - How and What Create the Illusion of Control]]
@@ -87,5 +58,4 @@ A nonprofit fundraiser improved an unproductive call by asking a donor whether h
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical Empathy - Labels, Silence, and the Accusation Audit|Tactical Empathy - Labels, Silence, and the Accusation Audit]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapter 4

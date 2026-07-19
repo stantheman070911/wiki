@@ -1,44 +1,16 @@
 ---
-title: "Out-Fail the Competition - Building an Experimentation System"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Out-Fail the Competition - Building an Experimentation System
+lang: en
 tags:
-  [
-    topic/innovation,
-    topic/feedback,
-    topic/decision-making,
-    topic/risk,
-    topic/culture,
-    topic/execution,
-    person/steven-bartlett
-  ]
-sources:
-  - id: "SRC-0017"
-    role: "primary"
-    locator: "Law 21"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative
-      Experiments - Opposites, Constraints, A-B Tests, and Context
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
-      and Asymmetric Bets
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed
-      and Aspirational OKRs - Separate Reliability from Stretch
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation,
-      Quantification, and Orchestration - The Business Development Loop
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a
-      Culture Where Mistakes Are Okay But Not Learning From Them Isn't
+  - topic/innovation
+  - topic/feedback
+  - topic/decision-making
+  - topic/risk
+  - topic/culture
+  - topic/execution
+  - person/steven-bartlett
+status: draft
+updated: 2026-07-13
 ---
 
 # Out-Fail the Competition - Building an Experimentation System
@@ -85,7 +57,6 @@ Booking.com built an experimentation platform and normalized thousands of concur
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed and Aspirational OKRs - Separate Reliability from Stretch|Committed and Aspirational OKRs - Separate Reliability from Stretch]]
@@ -93,5 +64,4 @@ Booking.com built an experimentation platform and normalized thousands of concur
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 21

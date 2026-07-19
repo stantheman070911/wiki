@@ -1,41 +1,16 @@
 ---
-title: "Black Swans - Find Unknown Unknowns and Hidden Leverage"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Black Swans - Find Unknown Unknowns and Hidden Leverage
+lang: en
 tags:
-  [
-    topic/decision-making,
-    topic/risk,
-    topic/persuasion,
-    topic/research,
-    person/chris-voss,
-    person/tahl-raz,
-    source/never-split-the-difference
-  ]
-sources:
-  - id: "SRC-0028"
-    role: "primary"
-    locator: "Chapter 10"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
-  and Influence Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
-      Your Decision Making
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Bend Their
-      Reality - Loss, Fairness, Deadlines, and Anchors
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated
-      Questions - How and What Create the Illusion of Control
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority
-      Rule - How Intransigent Preferences Dominate Flexible Majorities
+  - topic/decision-making
+  - topic/risk
+  - topic/persuasion
+  - topic/research
+  - person/chris-voss
+  - person/tahl-raz
+  - source/never-split-the-difference
+status: draft
+updated: 2026-07-18
 ---
 
 # Black Swans - Find Unknown Unknowns and Hidden Leverage
@@ -78,12 +53,10 @@ A real-estate broker described a fully occupied building as a cash cow, yet the 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Bend Their Reality - Loss, Fairness, Deadlines, and Anchors|Bend Their Reality - Loss, Fairness, Deadlines, and Anchors]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated Questions - How and What Create the Illusion of Control|Calibrated Questions - How and What Create the Illusion of Control]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities|The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapter 10

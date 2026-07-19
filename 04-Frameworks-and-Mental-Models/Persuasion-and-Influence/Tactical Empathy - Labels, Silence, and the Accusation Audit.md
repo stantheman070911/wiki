@@ -1,43 +1,15 @@
 ---
-title: "Tactical Empathy - Labels, Silence, and the Accusation Audit"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Tactical Empathy - Labels, Silence, and the Accusation Audit
+lang: en
 tags:
-  [
-    topic/persuasion,
-    topic/influence,
-    topic/trust,
-    person/chris-voss,
-    person/tahl-raz,
-    source/never-split-the-difference
-  ]
-sources:
-  - id: "SRC-0028"
-    role: "primary"
-    locator: "Chapter 3"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
-  and Influence Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No -
-      Protect Autonomy to Start the Real Negotiation
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Mirroring and
-      Voice - Slow the Negotiation and Keep Them Talking
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation
-      and Commitment - Persuasion's Two Deepest Levers
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With
-      Agreement - Keep the Other Mind Open
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and
-      Tension - Move People Without Coercion
+  - topic/persuasion
+  - topic/influence
+  - topic/trust
+  - person/chris-voss
+  - person/tahl-raz
+  - source/never-split-the-difference
+status: draft
+updated: 2026-07-18
 ---
 
 # Tactical Empathy - Labels, Silence, and the Accusation Audit
@@ -77,7 +49,6 @@ When a consulting contract was about to be cut, a negotiator named Anna opened b
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No - Protect Autonomy to Start the Real Negotiation|Master No - Protect Autonomy to Start the Real Negotiation]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Mirroring and Voice - Slow the Negotiation and Keep Them Talking|Mirroring and Voice - Slow the Negotiation and Keep Them Talking]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation and Commitment - Persuasion's Two Deepest Levers|Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
@@ -85,5 +56,4 @@ When a consulting contract was about to be cut, a negotiator named Anna opened b
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and Tension - Move People Without Coercion|Trust and Tension - Move People Without Coercion]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapter 3

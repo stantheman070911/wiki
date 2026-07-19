@@ -1,41 +1,18 @@
 ---
-title: "Commercialized Sovereignty - Jurisdictions Competing as Service Providers"
-type: "research"
-domain: "intelligence-and-research"
-lang: "en"
+title: Commercialized Sovereignty - Jurisdictions Competing as Service Providers
+lang: en
 tags:
-  [
-    topic/business-model,
-    topic/competition,
-    topic/pricing,
-    topic/risk,
-    topic/optionality,
-    topic/research,
-    person/james-dale-davidson,
-    person/william-rees-mogg,
-    source/the-sovereign-individual
-  ]
-sources:
-  - id: "SRC-0009"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 05-Intelligence-and-Research/Intelligence and Research Index
-relationships:
-  - type: example
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default
-      Dead - Runway, Growth, and the Fatal Pinch
-  - type: example
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of
-      Investing - Diversification via Uncorrelated Return Streams
-  - type: example
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Megapolitics -
-      How Technology Changes the Returns to Violence
-  - type: related
-    target: 05-Intelligence-and-Research/The Digital-Economy Income Shift - IP,
-      Media, Data, and Code
+  - topic/business-model
+  - topic/competition
+  - topic/pricing
+  - topic/risk
+  - topic/optionality
+  - topic/research
+  - person/james-dale-davidson
+  - person/william-rees-mogg
+  - source/the-sovereign-individual
+status: draft
+updated: 2026-07-13
 ---
 
 # Commercialized Sovereignty - Jurisdictions Competing as Service Providers
@@ -81,12 +58,10 @@ The book uses medieval march regions and Andorra to illustrate how competing aut
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Example:** [[01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch|Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
 - **Example:** [[01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of Investing - Diversification via Uncorrelated Return Streams|The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
 - **Example:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Megapolitics - How Technology Changes the Returns to Violence|Megapolitics - How Technology Changes the Returns to Violence]]
 - **Related:** [[05-Intelligence-and-Research/The Digital-Economy Income Shift - IP, Media, Data, and Code|The Digital-Economy Income Shift - IP, Media, Data, and Code]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript|The Sovereign Individual - Raw Transcript]]

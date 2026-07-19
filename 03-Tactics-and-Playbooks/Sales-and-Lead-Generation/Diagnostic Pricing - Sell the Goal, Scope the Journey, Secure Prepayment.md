@@ -1,69 +1,16 @@
 ---
-title: "Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/pricing,
-    topic/offers,
-    topic/value-equation,
-    person/alex-hormozi,
-    person/keenan,
-    source/gap-selling
-  ]
-sources:
-  - id: "SRC-0042"
-    role: "primary"
-  - id: "SRC-0034"
-    role: "supporting"
-    locator: "chapters 9–10 and 13"
-date_added: "2026-07-13"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Positioning-and-Branding/The Aesop Playbook
-  - type: applies
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: applies
-    target: 01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get
-      Them What They Need - The Defined-End Offer
-  - type: applies
-    target: 01-Business-Strategy/Pricing-and-Offers/Performance-Based Pricing - When
-      It Works and How Not to Get Cheated
-  - type: applies
-    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
-      Slam Offer
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Gap Selling -
-      Current State, Future State, and the Value of Change
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Bend Their
-      Reality - Loss, Fairness, Deadlines, and Anchors
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Buyer Needs and
-      Benefits - From Implied Problems to Explicit Value
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State
-      Diagnosis - Facts, Problems, Impact, Cause, and Emotion
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Selling Upmarket -
-      Contextual Adjacency and Land-and-Expand
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control -
-      Constructive Tension Across the Sale
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Ackerman
-      Bargaining System - Calibrated Concessions and Exact Numbers
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
-      Rhythm - Leads, Appointments, Presentations, and Sales
+  - topic/sales
+  - topic/pricing
+  - topic/offers
+  - topic/value-equation
+  - person/alex-hormozi
+  - person/keenan
+  - source/gap-selling
+status: draft
+updated: 2026-07-18
 ---
 
 # Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment
@@ -108,7 +55,6 @@ For weight loss, Hormozi maps the difference between current and target weight t
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Positioning-and-Branding/The Aesop Playbook|The Aesop Playbook - Ritual Economics, Diagnostic Selling, and Engineering the Second Sale]]
 - **Applies:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
 - **Applies:** [[01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get Them What They Need - The Defined-End Offer|Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
@@ -124,6 +70,5 @@ For weight loss, Hormozi maps the difference between current and target weight t
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Books/2026-07-18_Book_Keenan_GapSelling_RawTranscript|Gap Selling]] — locator: chapters 9–10 and 13

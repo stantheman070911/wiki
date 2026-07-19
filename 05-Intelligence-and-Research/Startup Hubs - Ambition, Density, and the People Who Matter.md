@@ -1,36 +1,16 @@
 ---
-title: "Startup Hubs - Ambition, Density, and the People Who Matter"
-type: "research"
-domain: "intelligence-and-research"
-lang: "en"
+title: Startup Hubs - Ambition, Density, and the People Who Matter
+lang: en
 tags:
-  [
-    topic/startups,
-    topic/culture,
-    topic/recruiting,
-    topic/capital,
-    topic/growth,
-    person/paul-graham,
-    source/paul-graham-essays
-  ]
-sources:
-  - id: "SRC-0046"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 05-Intelligence-and-Research/Intelligence and Research Index
-relationships:
-  - type: example
-    target: 01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly
-      Compounding and Market Size
-  - type: example
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich
-      People Model Winners, Poor People Hang Around Losers
-  - type: example
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group
-      and Re-engineering Your Circle
+  - topic/startups
+  - topic/culture
+  - topic/recruiting
+  - topic/capital
+  - topic/growth
+  - person/paul-graham
+  - source/paul-graham-essays
+status: draft
+updated: 2026-07-13
 ---
 
 # Startup Hubs - Ambition, Density, and the People Who Matter
@@ -66,11 +46,9 @@ Silicon Valley's advantage is not a monument but a high probability that a chanc
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Example:** [[01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly Compounding and Market Size|Startup Equals Growth - Weekly Compounding and Market Size]]
 - **Example:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich People Model Winners, Poor People Hang Around Losers|Association - Rich People Model Winners, Poor People Hang Around Losers]]
 - **Example:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle|The Reference Group and Re-engineering Your Circle]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

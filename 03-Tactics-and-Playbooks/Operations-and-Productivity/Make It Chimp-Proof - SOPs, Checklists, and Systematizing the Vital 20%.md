@@ -1,68 +1,16 @@
 ---
-title: "Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%
+lang: en
 tags:
-  [
-    topic/operations,
-    topic/systems,
-    person/sabri-suby,
-    person/michael-gerber,
-    person/atul-gawande,
-    source/e-myth-revisited,
-    source/checklist-manifesto
-  ]
-sources:
-  - id: "SRC-0084"
-    role: "primary"
-  - id: "SRC-0011"
-    role: "supporting"
-    locator: "chapters 8–10 and 18"
-  - id: "SRC-0024"
-    role: "supporting"
-date_added: "2026-07-12"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
-  Productivity Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build
-      the Business as the Product
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
-      Discipline - Freedom, Responsibility, and Stop-Doing Lists
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation,
-      Quantification, and Orchestration - The Business Development Loop
-  - type: has-derivative
-    target: 07-Articles/Two Ways a Founder Can Disappear
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business
-      - The 50% Hire and Buying Back Time
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Checklist Design -
-      Pause Points, Killer Items, and Field Testing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements
-      to Your Machine to Get Around Your Problems
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
-      Elimination - The Deep-Work Playbook
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time -
-      Record, Eliminate, and Consolidate
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Team Checklists -
-      Communication Before Coordination
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm -
-      Musk's Five-Step Process Method
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
-      Intellectual Property - Process Above the Player
+  - topic/operations
+  - topic/systems
+  - person/sabri-suby
+  - person/michael-gerber
+  - person/atul-gawande
+  - source/e-myth-revisited
+  - source/checklist-manifesto
+status: draft
+updated: 2026-07-18
 ---
 
 # Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%
@@ -113,7 +61,6 @@ For a checklist within that system, define a pause point, choose DO-CONFIRM or R
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build the Business as the Product|The Franchise Prototype - Build the Business as the Product]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation, Quantification, and Orchestration - The Business Development Loop|Innovation, Quantification, and Orchestration - The Business Development Loop]]
@@ -128,7 +75,6 @@ For a checklist within that system, define a pause point, choose DO-CONFIRM or R
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript|The E-Myth Revisited - Raw Transcript]] — locator: chapters 8–10 and 18
 - **supporting:** [[06-Source-Library/Books/2026-07-18_Book_AtulGawande_TheChecklistManifesto_RawTranscript|The Checklist Manifesto - Raw Transcript]]

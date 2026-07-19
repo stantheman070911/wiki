@@ -1,51 +1,16 @@
 ---
-title: "The Founder's Paradox - Why Extreme, Contradictory Individuals Build the
-  Most Valuable Companies"
+title: The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies
 aliases:
-  - "The Founder's Paradox - Why Extreme, Contradictory Individuals Build the
-    Most Valuable Companies"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+  - The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies
+lang: en
 tags:
-  [
-    topic/leadership,
-    topic/identity,
-    topic/founder-brand,
-    topic/mindset,
-    person/peter-thiel
-  ]
-sources:
-  - id: "SRC-0014"
-    role: "primary"
-    locator: "ch. 14"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5
-      Leadership - Humility and Professional Will
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status
-      Signal - Shame, Guilt, and Documenting the Struggle
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs.
-      Indefinite Optimism - Planning Your Way to the Future
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
-      - Who-Not-How and Planning Backward From the Goal
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin
-      Story - Heroes Use Pain
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the
-      Hero's Journey - The Founder Archetype Who Builds Against Doubt
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That
-      People Are Wired Very Differently
+  - topic/leadership
+  - topic/identity
+  - topic/founder-brand
+  - topic/mindset
+  - person/peter-thiel
+status: reviewed
+updated: 2026-07-13
 ---
 
 # The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies
@@ -82,7 +47,6 @@ when a founder presents extreme or contradictory traits, resist collapsing it to
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5 Leadership - Humility and Professional Will|Level 5 Leadership - Humility and Professional Will]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle|Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs. Indefinite Optimism - Planning Your Way to the Future|Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
@@ -92,5 +56,4 @@ when a founder presents extreme or contradictory traits, resist collapsing it to
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That People Are Wired Very Differently|Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 14

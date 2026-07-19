@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0107"
-title: "How to Grow Any Business Fast (The Four Business Shapes)"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Alex Hormozi"
-    role: "creator"
-source_type: "video"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-18"
-status: "source"
+title: How to Grow Any Business Fast (The Four Business Shapes)
+author: Alex Hormozi
+lang: en
+archived: 2026-07-18
 ---
 
 # How to Grow Any Business Fast (The Four Business Shapes) — Raw Transcript

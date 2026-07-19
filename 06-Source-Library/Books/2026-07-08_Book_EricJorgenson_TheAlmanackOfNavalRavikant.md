@@ -1,20 +1,10 @@
 ---
-source_id: "SRC-0003"
-title: "The Almanack Of Naval Ravikant"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Eric Jorgenson"
-    role: "author"
-source_type: "book"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2020"
-url: "https://navalmanack.com"
-date_archived: "2026-07-08"
-status: "source"
+title: The Almanack Of Naval Ravikant
+author: Eric Jorgenson
+lang: en
+url: https://navalmanack.com
+published: "2020"
+archived: 2026-07-08
 ---
 
 # The Almanack of Naval Ravikant (Eric Jorgenson) — Extraction Notes & Entry Map

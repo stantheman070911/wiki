@@ -1,59 +1,17 @@
 ---
-title: "Startup Foundations - Co-founders, Ownership, Possession, Control, and
-  Vesting"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting
+lang: en
 tags:
-  [
-    topic/hiring,
-    topic/org-design,
-    topic/equity,
-    topic/compensation,
-    topic/startups,
-    person/peter-thiel,
-    person/paul-graham,
-    source/paul-graham-essays
-  ]
-sources:
-  - id: "SRC-0014"
-    role: "primary"
-    locator: "ch. 9"
-  - id: "SRC-0046"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Alternative Currencies -
-      Reputation, Distribution, and Equity
-  - type: applies
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Fundraising Is a Process -
-      Momentum, Herd Dynamics, and Survival
-  - type: applies
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/選擇權與退出心態：Soft-Shop、三種成長路徑與
-      Phantom Equity
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine
-      - Why Computers Complement Humans Instead of Replacing Them
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Founder Mode
-      - Direct Engagement Without Delegation Theater
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
-      - Who-Not-How and Planning Backward From the Goal
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders -
-      Reverse-Engineer OTE, Profit Pools, and Phantom Equity
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/The Mechanics of Mafia -
-      Cult-Like Culture and the Recruiting Pitch
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Don't Overlook
-      Governance
+  - topic/hiring
+  - topic/org-design
+  - topic/equity
+  - topic/compensation
+  - topic/startups
+  - person/peter-thiel
+  - person/paul-graham
+  - source/paul-graham-essays
+status: reviewed
+updated: 2026-07-13
 ---
 
 # Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting
@@ -98,7 +56,6 @@ No early-stage, venture-backed CEO should draw more than $150,000/year in salary
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/Alternative Currencies - Reputation, Distribution, and Equity|Alternative Currencies - Reputation, Distribution, and Equity]]
 - **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/Fundraising Is a Process - Momentum, Herd Dynamics, and Survival|Fundraising Is a Process - Momentum, Herd Dynamics, and Survival]]
 - **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity|選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
@@ -110,6 +67,5 @@ No early-stage, venture-backed CEO should draw more than $150,000/year in salary
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Don't Overlook Governance|Don't Overlook Governance]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 9
 - **supporting:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

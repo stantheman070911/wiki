@@ -1,39 +1,17 @@
 ---
-title: "Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships"
-type: "strategy"
-domain: "social-media-strategy"
-lang: "en"
+title: Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships
+lang: en
 tags:
-  [
-    topic/personal-brand,
-    topic/positioning,
-    topic/content-strategy,
-    topic/product,
-    topic/partnerships,
-    topic/influence,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0090"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 02-Social-Media-Strategy/Social Media Strategy Index
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Audience-Growth/The Podcast Guest Ladder -
-      Hook, Product Ecosystem, and Podcast Pyramid
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/From Proof Story to
-      Scalable IP - Productize, Attract, Convert, and Amplify
-  - type: related
-    target: 02-Social-Media-Strategy/Levels of a Personal Brand and the Five Archetypes
-  - type: related
-    target: 02-Social-Media-Strategy/The Personal-Brand House - Foundation,
-      Interior, Exterior
+  - topic/personal-brand
+  - topic/positioning
+  - topic/content-strategy
+  - topic/product
+  - topic/partnerships
+  - topic/influence
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: draft
+updated: 2026-07-13
 ---
 
 # Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships
@@ -76,12 +54,10 @@ Priestley contrasts a worker who repeatedly changes industries to chase visible 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Audience-Growth/The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid|The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify|From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify]]
 - **Related:** [[02-Social-Media-Strategy/Levels of a Personal Brand and the Five Archetypes|Levels of a Personal Brand and the Five Archetypes]]
 - **Related:** [[02-Social-Media-Strategy/The Personal-Brand House - Foundation, Interior, Exterior|The Personal-Brand House - Foundation, Interior, Exterior]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_FivePsOfKeyPersonOfInfluence_RawTranscript|Five Ps of a Key Person of Influence - Raw Transcript]]

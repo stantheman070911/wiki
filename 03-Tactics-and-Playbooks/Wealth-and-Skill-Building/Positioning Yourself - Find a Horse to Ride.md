@@ -1,47 +1,15 @@
 ---
-title: "Positioning Yourself - Find a Horse to Ride"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Positioning Yourself - Find a Horse to Ride
+lang: en
 tags:
-  [
-    topic/positioning,
-    topic/career,
-    topic/skills,
-    topic/value-creation,
-    person/ries-trout,
-    person/steven-bartlett
-  ]
-sources:
-  - id: "SRC-0007"
-    role: "primary"
-    locator: "ch. 23–25"
-  - id: "SRC-0017"
-    role: "supporting"
-    locator: "Law 26"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/財富公式：專屬知識、槓桿與判斷力
-  - type: applies
-    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
-      Hole in the Mind (Cherchez le Creneau)
-  - type: applies
-    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
-      in the Prospect's Mind
-  - type: applies
-    target: 02-Social-Media-Strategy/Personal-Brand Positioning and the
-      No-Competition Model
-  - type: applies
-    target: 02-Social-Media-Strategy/The Personal-Brand House - Foundation,
-      Interior, Exterior
-  - type: related
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and
-      the Education-ROI Playbook
+  - topic/positioning
+  - topic/career
+  - topic/skills
+  - topic/value-creation
+  - person/ries-trout
+  - person/steven-bartlett
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Positioning Yourself - Find a Horse to Ride
@@ -97,7 +65,6 @@ The book's most personal chapter turns the doctrine inward. The same rules that 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/財富公式：專屬知識、槓桿與判斷力|財富公式：專屬知識、槓桿與判斷力]]
 - **Applies:** [[01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)|Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
 - **Applies:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
@@ -106,6 +73,5 @@ The book's most personal chapter turns the doctrine inward. The same rules that 
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and the Education-ROI Playbook|Skill Stacking and the Education-ROI Playbook]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning|Positioning]] — locator: ch. 23–25
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 26

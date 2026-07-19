@@ -1,53 +1,17 @@
 ---
-title: "The Seven Levels of Business Growth - From Side Hustle to Exit"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: The Seven Levels of Business Growth - From Side Hustle to Exit
+lang: en
 tags:
-  [
-    topic/growth,
-    topic/scaling,
-    topic/business-model,
-    topic/delegation,
-    topic/org-design,
-    topic/m-and-a,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0102"
-    role: "primary"
-  - id: "SRC-0105"
-    role: "supporting"
-  - id: "SRC-0096"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor
-      Dilution Problem - Four Ways to Scale Past Yourself
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary
-      Aim and Strategic Objective - Make the Business Serve the Life
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
-      - Who-Not-How and Planning Backward From the Goal
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
-      Shapes - E-commerce, Service, Education, Software
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Lifestyle
-      Boutique Operating Model - Team, Product Ecosystem, and Campaigns
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle -
-      Recover Time, Capital, and Better Judgment
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle -
-      Infancy, Adolescence, and Maturity
+  - topic/growth
+  - topic/scaling
+  - topic/business-model
+  - topic/delegation
+  - topic/org-design
+  - topic/m-and-a
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: draft
+updated: 2026-07-13
 ---
 
 # The Seven Levels of Business Growth - From Side Hustle to Exit
@@ -87,7 +51,6 @@ Priestley describes losing access to prominent partners during the financial cri
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor Dilution Problem - Four Ways to Scale Past Yourself|The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary Aim and Strategic Objective - Make the Business Serve the Life|Primary Aim and Strategic Objective - Make the Business Serve the Life]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
@@ -97,7 +60,6 @@ Priestley describes losing access to prominent partners during the financial cri
 - **Related:** [[01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle - Infancy, Adolescence, and Maturity|The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_SevenLevelsOfBusiness_RawTranscript|Seven Levels of Business - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_ZeroToSevenFiguresInFiveSteps_RawTranscript|Zero to Seven Figures in Five Steps - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_LifestyleBusinessVsPerformanceBusiness_RawTranscript|Lifestyle Business vs. Performance Business - Raw Transcript]]

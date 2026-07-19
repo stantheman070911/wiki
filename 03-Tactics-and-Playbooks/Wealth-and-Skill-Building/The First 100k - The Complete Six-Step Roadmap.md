@@ -1,48 +1,17 @@
 ---
-title: "The First $100k - The Complete Six-Step Roadmap"
+title: The First $100k - The Complete Six-Step Roadmap
 aliases:
-  - "The First $100k - The Complete Six-Step Roadmap"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+  - The First $100k - The Complete Six-Step Roadmap
+lang: en
 tags:
-  [
-    topic/first-100k,
-    topic/frugality,
-    topic/productivity,
-    topic/learning,
-    topic/skills,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0054"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
-      Return on Time, and Money Rules
-  - type: applies
-    target: 01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills
-      診斷、1-1-1 與萬能前門
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to
-      Love to Read - Foundations, Clear Thinking, and Mental Models
-  - type: has-derivative
-    target: 07-Articles/Confidence Is a Receipt, Not a Requirement
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
-      Elimination - The Deep-Work Playbook
-  - type: related
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and
-      the Education-ROI Playbook
-  - type: related
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k -
-      Defense-Before-Offense Playbook
+  - topic/first-100k
+  - topic/frugality
+  - topic/productivity
+  - topic/learning
+  - topic/skills
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # The First $100k - The Complete Six-Step Roadmap
@@ -81,7 +50,6 @@ Hormozi says he felt wealthiest not at his $46.2M exit but at his first $100k, w
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
 - **Applies:** [[01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門|少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to Love to Read - Foundations, Clear Thinking, and Mental Models|Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
@@ -91,5 +59,4 @@ Hormozi says he felt wealthiest not at his $46.2M exit but at his first $100k, w
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - Defense-Before-Offense Playbook|The First 100k - Defense-Before-Offense Playbook]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Podcasts/2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000|How to Make Your First $100,000]]

@@ -1,49 +1,16 @@
 ---
-title: "The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities
+lang: en
 tags:
-  [
-    topic/influence,
-    topic/decision-making,
-    topic/systems,
-    topic/distribution,
-    topic/commitment,
-    person/nassim-nicholas-taleb,
-    source/skin-in-the-game
-  ]
-sources:
-  - id: "SRC-0012"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
-  and Influence Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product
-      - The Best-Known Wins, Not the Best
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law
-      of Venture Capital and Careers
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Black Swans -
-      Find Unknown Unknowns and Hidden Leverage
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
-      Observability and Behavioral Residue
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
-      Liking, Authority, and Scarcity - The Four Social Shortcuts
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
-      Framework - Six Drivers of Word of Mouth
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of
-      Influence - Click-Whirr, Trigger Features, and the Contrast Principle
+  - topic/influence
+  - topic/decision-making
+  - topic/systems
+  - topic/distribution
+  - topic/commitment
+  - person/nassim-nicholas-taleb
+  - source/skin-in-the-game
+status: draft
+updated: 2026-07-13
 ---
 
 # The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities
@@ -87,7 +54,6 @@ Kosher consumers will not accept non-kosher food, while most other consumers can
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product - The Best-Known Wins, Not the Best|Distribution Beats Product - The Best-Known Wins, Not the Best]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law of Venture Capital and Careers|The Power Law of Venture Capital and Careers]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Black Swans - Find Unknown Unknowns and Hidden Leverage|Black Swans - Find Unknown Unknowns and Hidden Leverage]]
@@ -97,5 +63,4 @@ Kosher consumers will not accept non-kosher food, while most other consumers can
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle|Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript|Skin in the Game - Raw Transcript]]

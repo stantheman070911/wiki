@@ -1,53 +1,14 @@
 ---
-title: "Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing
+lang: en
 tags:
-  [
-    topic/personal-brand,
-    topic/content-formats,
-    topic/short-form-video,
-    topic/consistency,
-    topic/reps
-  ]
-sources:
-  - id: "SRC-0071"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
-relationships:
-  - type: applies
-    target: 02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model
-  - type: applies
-    target: 02-Social-Media-Strategy/Personal-Brand Positioning and the
-      No-Competition Model
-  - type: applies
-    target: 02-Social-Media-Strategy/短影音研究引擎、鉤子與格式
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
-      Gratification - Patience and Inputs vs Outputs
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
-      - The Zero-Follower Consistency Engine
-  - type: related
-    target: 03-Tactics-and-Playbooks/Audience-Growth/Instagram 0-to-100k - The
-      Three-Level Follower Roadmap
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-      Planner and the Analyze-Double-Down Loop
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creator
-      Monetization Ladder and Content-Concept Formulas
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down
-      and the 70-20-10 Rule - Templatizing Viral Outliers
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
-      Proof, Path - Engineering the Video Intro
+  - topic/personal-brand
+  - topic/content-formats
+  - topic/short-form-video
+  - topic/consistency
+  - topic/reps
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing
@@ -90,7 +51,6 @@ A practical operating manual for the middle of the personal-brand journey: what 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model|Interest Media and the Zero-Follower Reach Model]]
 - **Applies:** [[02-Social-Media-Strategy/Personal-Brand Positioning and the No-Competition Model|Personal-Brand Positioning and the No-Competition Model]]
 - **Applies:** [[02-Social-Media-Strategy/短影音研究引擎、鉤子與格式|短影音研究引擎、鉤子與格式]]
@@ -103,5 +63,4 @@ A practical operating manual for the middle of the personal-brand journey: what 
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_ArtOfThePersonalBrand|Art Of The Personal Brand]]

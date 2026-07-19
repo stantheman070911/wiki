@@ -1,57 +1,17 @@
 ---
-title: "The Effective Decision Process - Principles, Boundary Conditions,
-  Action, and Feedback"
+title: The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback
 aliases:
-  - "The Effective Decision Process - Principles, Boundary Conditions, Action,
-    and Feedback"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+  - The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback
+lang: en
 tags:
-  [
-    topic/decision-making,
-    topic/root-cause,
-    topic/execution,
-    topic/feedback,
-    topic/risk,
-    person/peter-drucker
-  ]
-sources:
-  - id: "SRC-0013"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Disagreement Needs a Finish Line
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems
-      to Get at Their Root Causes
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
-      Your Decision Making
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to
-      Make Decisions Effectively - Expected Value, Levels, and Algorithms
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How
-      to Get Beyond Disagreements
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Lindy
-      Effect - Time as a Filter for Robust Ideas and Practices
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale
-      Paradox - Confront Reality Without Losing Faith
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
-      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Effective Executive - Five Learnable Practices
+  - topic/decision-making
+  - topic/root-cause
+  - topic/execution
+  - topic/feedback
+  - topic/risk
+  - person/peter-drucker
+status: draft
+updated: 2026-07-13
 ---
 
 # The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback
@@ -103,7 +63,6 @@ An executive decision is a judgment under uncertainty, not a calculation that di
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Disagreement Needs a Finish Line|Disagreement Needs a Finish Line]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems to Get at Their Root Causes|Diagnose Problems to Get at Their Root Causes]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
@@ -115,5 +74,4 @@ An executive decision is a judgment under uncertainty, not a calculation that di
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Effective Executive - Five Learnable Practices|The Effective Executive - Five Learnable Practices]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript|The Effective Executive - Raw Transcript]]

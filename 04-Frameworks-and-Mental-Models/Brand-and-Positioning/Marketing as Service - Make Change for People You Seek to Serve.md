@@ -1,38 +1,15 @@
 ---
-title: "Marketing as Service - Make Change for People You Seek to Serve"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Marketing as Service - Make Change for People You Seek to Serve
+lang: en
 tags:
-  [
-    topic/marketing,
-    topic/value-creation,
-    topic/trust,
-    topic/brand,
-    person/seth-godin,
-    source/this-is-marketing
-  ]
-sources:
-  - id: "SRC-0039"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/Smallest Viable
-      Market - Specificity Before Scale
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/H2H Marketing -
-      Human-Centered Service, Trust, and Co-Creation
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand,
-      Communicate, and Deliver Customer Value
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
-      Features - Sell the Identity Behind the Product
+  - topic/marketing
+  - topic/value-creation
+  - topic/trust
+  - topic/brand
+  - person/seth-godin
+  - source/this-is-marketing
+status: draft
+updated: 2026-07-18
 ---
 
 # Marketing as Service - Make Change for People You Seek to Serve
@@ -75,12 +52,10 @@ VisionSpring initially presented affordable eyeglasses as a shopping choice and 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/Smallest Viable Market - Specificity Before Scale|Smallest Viable Market - Specificity Before Scale]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/H2H Marketing - Human-Centered Service, Trust, and Co-Creation|H2H Marketing - Human-Centered Service, Trust, and Co-Creation]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand, Communicate, and Deliver Customer Value|UCD - Understand, Communicate, and Deliver Customer Value]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product|Values Before Features - Sell the Identity Behind the Product]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript|This Is Marketing]]

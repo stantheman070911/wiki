@@ -1,33 +1,13 @@
 ---
-title: "Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting
+lang: en
 tags:
-  [
-    topic/commitment,
-    topic/mindset,
-    topic/decision-making,
-    person/t-harv-eker
-  ]
-sources:
-  - id: "SRC-0018"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Act in Spite of
-      Fear vs. Let Fear Stop You
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs.
-      Playing Not to Lose
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint
-      - Reprogramming Thoughts, Feelings, and Actions Around Money
+  - topic/commitment
+  - topic/mindset
+  - topic/decision-making
+  - person/t-harv-eker
+status: draft
+updated: 2026-07-13
 ---
 
 # Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting
@@ -53,11 +33,9 @@ Wealth File #3. Eker's seminar exercise — asking people to list the possible d
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Act in Spite of Fear vs. Let Fear Stop You|Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs. Playing Not to Lose|Playing to Win vs. Playing Not to Lose]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

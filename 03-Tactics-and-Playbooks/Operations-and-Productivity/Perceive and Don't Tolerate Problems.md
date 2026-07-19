@@ -1,40 +1,15 @@
 ---
-title: "Perceive and Don't Tolerate Problems"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Perceive and Don't Tolerate Problems
+lang: en
 tags:
-  [
-    topic/management,
-    topic/culture,
-    topic/feedback,
-    topic/operations,
-    person/ray-dalio,
-    source/bridgewater-associates
-  ]
-sources:
-  - id: "SRC-0015"
-    role: "primary"
-    locator: "Ch. 11"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
-  Productivity Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the
-      Problem You Have, Not the One You're Afraid Of
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a
-      Culture Where Mistakes Are Okay But Not Learning From Them Isn't
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems
-      to Get at Their Root Causes
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone
-      Operating a Machine to Achieve a Goal
+  - topic/management
+  - topic/culture
+  - topic/feedback
+  - topic/operations
+  - person/ray-dalio
+  - source/bridgewater-associates
+status: draft
+updated: 2026-07-13
 ---
 
 # Perceive and Don't Tolerate Problems
@@ -68,12 +43,10 @@ Eleventh chapter of Work Principles, and the first of the four-chapter run (perc
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the Problem You Have, Not the One You're Afraid Of|Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems to Get at Their Root Causes|Diagnose Problems to Get at Their Root Causes]]
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone Operating a Machine to Achieve a Goal|Manage as Someone Operating a Machine to Achieve a Goal]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 11

@@ -1,45 +1,17 @@
 ---
-title: "Bend Their Reality - Loss, Fairness, Deadlines, and Anchors"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Bend Their Reality - Loss, Fairness, Deadlines, and Anchors
+lang: en
 tags:
-  [
-    topic/persuasion,
-    topic/influence,
-    topic/decision-making,
-    topic/risk,
-    topic/pricing,
-    person/chris-voss,
-    person/tahl-raz,
-    source/never-split-the-difference
-  ]
-sources:
-  - id: "SRC-0028"
-    role: "primary"
-    locator: "Chapter 6"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
-  and Influence Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
-      Sell the Goal, Scope the Journey, Secure Prepayment
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Ackerman
-      Bargaining System - Calibrated Concessions and Exact Numbers
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Black Swans -
-      Find Unknown Unknowns and Hidden Leverage
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value
-      - The Psychology of Deals and the Rule of 100
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and
-      Urgency - Engineering Demand with Supply and Deadlines
+  - topic/persuasion
+  - topic/influence
+  - topic/decision-making
+  - topic/risk
+  - topic/pricing
+  - person/chris-voss
+  - person/tahl-raz
+  - source/never-split-the-difference
+status: draft
+updated: 2026-07-18
 ---
 
 # Bend Their Reality - Loss, Fairness, Deadlines, and Anchors
@@ -80,7 +52,6 @@ In Haiti, a family faced a $150,000 ransom demand. By learning that the kidnappe
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers|The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Black Swans - Find Unknown Unknowns and Hidden Leverage|Black Swans - Find Unknown Unknowns and Hidden Leverage]]
@@ -88,5 +59,4 @@ In Haiti, a family faced a $150,000 ransom demand. By learning that the kidnappe
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and Urgency - Engineering Demand with Supply and Deadlines|Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapter 6

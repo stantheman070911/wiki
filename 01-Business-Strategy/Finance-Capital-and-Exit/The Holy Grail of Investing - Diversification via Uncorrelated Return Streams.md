@@ -1,45 +1,15 @@
 ---
-title: "The Holy Grail of Investing - Diversification via Uncorrelated Return Streams"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: The Holy Grail of Investing - Diversification via Uncorrelated Return Streams
+lang: en
 tags:
-  [
-    topic/capital,
-    topic/risk,
-    topic/diversification,
-    topic/decision-making,
-    person/ray-dalio,
-    source/bridgewater-associates
-  ]
-sources:
-  - id: "SRC-0015"
-    role: "primary"
-    locator: "Part I"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
-      and Asymmetric Bets
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Increase the
-      Surface Area of Luck
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to
-      Make Decisions Effectively - Expected Value, Levels, and Algorithms
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin -
-      Time Probability, Repeated Exposure, and Survival First
-  - type: has-example
-    target: 05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions
-      Competing as Service Providers
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
-      Period - The Three Numbers That Decide If You Win
+  - topic/capital
+  - topic/risk
+  - topic/diversification
+  - topic/decision-making
+  - person/ray-dalio
+  - source/bridgewater-associates
+status: draft
+updated: 2026-07-13
 ---
 
 # The Holy Grail of Investing - Diversification via Uncorrelated Return Streams
@@ -71,7 +41,6 @@ Discovered around 1990 by Dalio with Bob Prince and Dan Bernstein while research
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Increase the Surface Area of Luck|Increase the Surface Area of Luck]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms|Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms]]
@@ -80,5 +49,4 @@ Discovered around 1990 by Dalio with Bob Prince and Dan Bernstein while research
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Part I

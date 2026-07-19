@@ -1,43 +1,17 @@
 ---
-title: "Megapolitics - How Technology Changes the Returns to Violence"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Megapolitics - How Technology Changes the Returns to Violence
+lang: en
 tags:
-  [
-    topic/mental-models,
-    topic/decision-making,
-    topic/risk,
-    topic/systems,
-    topic/innovation,
-    person/james-dale-davidson,
-    person/william-rees-mogg,
-    source/the-sovereign-individual
-  ]
-sources:
-  - id: "SRC-0009"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: has-example
-    target: 05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions
-      Competing as Service Providers
-  - type: has-example
-    target: 05-Intelligence-and-Research/Technology Platforms - How New Protocols
-      and Tools Shift Power
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
-      Manufacturing as the Moat
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Institutional
-      Phase Transitions - Persistent Make-Believe, Decay, and Reaction
+  - topic/mental-models
+  - topic/decision-making
+  - topic/risk
+  - topic/systems
+  - topic/innovation
+  - person/james-dale-davidson
+  - person/william-rees-mogg
+  - source/the-sovereign-individual
+status: draft
+updated: 2026-07-13
 ---
 
 # Megapolitics - How Technology Changes the Returns to Violence
@@ -81,7 +55,6 @@ Farming created storable, stationary surplus and raised the rewards to organized
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has example:** [[05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions Competing as Service Providers|Commercialized Sovereignty - Jurisdictions Competing as Service Providers]]
 - **Has example:** [[05-Intelligence-and-Research/Technology Platforms - How New Protocols and Tools Shift Power|Technology Platforms - How New Protocols and Tools Shift Power]]
 - **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly|Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
@@ -89,5 +62,4 @@ Farming created storable, stationary surplus and raised the rewards to organized
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction|Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript|The Sovereign Individual - Raw Transcript]]

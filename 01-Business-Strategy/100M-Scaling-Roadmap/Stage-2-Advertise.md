@@ -1,40 +1,18 @@
 ---
-title: "$100M 擴張路線圖 · Stage 2：Advertise 廣告"
+title: $100M 擴張路線圖 · Stage 2：Advertise 廣告
 aliases:
-  - "$100M 擴張路線圖 · Stage 2：Advertise 廣告"
-type: "series-entry"
-domain: "business-strategy"
-series: "$100M Scaling Roadmap"
-lang: "zh"
+  - $100M 擴張路線圖 · Stage 2：Advertise 廣告
+lang: zh
 tags:
-  [
-    topic/scaling,
-    source/acquisition-100m-roadmap,
-    topic/advertising,
-    topic/sales,
-    topic/rule-of-100,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0059"
-    role: "primary"
-    locator: "Stage 2"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
-relationships:
-  - type: derives-from
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-3-Stabilize
-  - type: prerequisite
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-1-Monetize
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/網紅行銷引擎：以CPM反推的分散式機器
-  - type: related
-    target: 02-Social-Media-Strategy/短影音研究引擎、鉤子與格式
+  - topic/scaling
+  - source/acquisition-100m-roadmap
+  - topic/advertising
+  - topic/sales
+  - topic/rule-of-100
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
+series: $100M Scaling Roadmap
 ---
 
 # $100M 擴張路線圖 · Stage 2：Advertise 廣告
@@ -102,7 +80,6 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **衍生自:** [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
 - **是其前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-3-Stabilize|$100M 擴張路線圖 · Stage 3：Stabilize 穩定]]
 - **前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-1-Monetize|$100M 擴張路線圖 · Stage 1：Monetize 變現]]
@@ -110,5 +87,4 @@ relationships:
 - **相關:** [[02-Social-Media-Strategy/短影音研究引擎、鉤子與格式|短影音研究引擎、鉤子與格式]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap|$100M Scaling Roadmap（Personalized Guide）]] — locator: Stage 2

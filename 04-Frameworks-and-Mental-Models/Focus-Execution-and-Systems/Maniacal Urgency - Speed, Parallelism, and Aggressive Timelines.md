@@ -1,37 +1,11 @@
 ---
-title: "Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/execution, person/elon-musk ]
-sources:
-  - id: "SRC-0004"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
-      Return on Time, and Money Rules
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
-      Manufacturing as the Moat
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
-      to Do
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm -
-      Musk's Five-Step Process Method
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles
-      Thinking - Reason from Physics, Not Analogy
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite
-      Games - Winning by Emptying the Tank
+title: Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines
+lang: en
+tags:
+  - topic/execution
+  - person/elon-musk
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines
@@ -71,7 +45,6 @@ Across SpaceX and Tesla, Musk treats time as the scarce resource and pace as a c
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
 - **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
@@ -80,5 +53,4 @@ Across SpaceX and Tesla, Musk treats time as the scarce resource and pace as a c
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite Games - Winning by Emptying the Tank|Finite vs Infinite Games - Winning by Emptying the Tank]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_EricJorgenson_TheBookOfElon|The Book Of Elon]]

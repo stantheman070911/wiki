@@ -1,52 +1,16 @@
 ---
-title: "Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve
+lang: en
 tags:
-  [
-    topic/mission,
-    topic/brand,
-    topic/innovation,
-    topic/consistency,
-    topic/leadership,
-    person/jim-collins,
-    source/good-to-great
-  ]
-sources:
-  - id: "SRC-0010"
-    role: "primary"
-    locator: "chapter 9"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Institutional
-      Phase Transitions - Persistent Make-Believe, Decay, and Reaction
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Lindy
-      Effect - Time as a Filter for Robust Ideas and Practices
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate
-      Meaningful Work and Meaningful Relationships
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5
-      Leadership - Humility and Professional Will
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary
-      Aim and Strategic Objective - Make the Business Serve the Life
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/Companies as
-      Philanthropy - Purpose and Building for Humanity
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept
-      - Three Circles and the Economic Denominator
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
-      Compounding - Too Good to Fail
+  - topic/mission
+  - topic/brand
+  - topic/innovation
+  - topic/consistency
+  - topic/leadership
+  - person/jim-collins
+  - source/good-to-great
+status: draft
+updated: 2026-07-13
 ---
 
 # Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve
@@ -93,7 +57,6 @@ Hewlett-Packard preserved technical contribution, respect, and purpose while mov
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction|Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Lindy Effect - Time as a Filter for Robust Ideas and Practices|The Lindy Effect - Time as a Filter for Robust Ideas and Practices]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate Meaningful Work and Meaningful Relationships|Cultivate Meaningful Work and Meaningful Relationships]]
@@ -104,5 +67,4 @@ Hewlett-Packard preserved technical contribution, respect, and purpose while mov
 - **Related:** [[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail|Brand and Product Compounding - Too Good to Fail]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript|Good to Great - Raw Transcript]] — locator: chapter 9

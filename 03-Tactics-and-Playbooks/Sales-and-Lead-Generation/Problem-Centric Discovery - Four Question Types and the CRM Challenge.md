@@ -1,46 +1,15 @@
 ---
-title: "Problem-Centric Discovery - Four Question Types and the CRM Challenge"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Problem-Centric Discovery - Four Question Types and the CRM Challenge
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/qualification,
-    topic/research,
-    topic/feedback,
-    person/keenan,
-    source/gap-selling
-  ]
-sources:
-  - id: "SRC-0034"
-    role: "primary"
-    locator: "chapters 7–8"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated
-      Questions - How and What Create the Illusion of Control
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State
-      Diagnosis - Facts, Problems, Impact, Cause, and Emotion
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery -
-      Situation, Problem, Implication, and Need-Payoff
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
-      Rhythm - Leads, Appointments, Presentations, and Sales
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes -
-      Decision Criteria, Buying Process, and Mutual Effort
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem
-      Identification Chart - Problems, Impacts, and Root Causes
+  - topic/sales
+  - topic/qualification
+  - topic/research
+  - topic/feedback
+  - person/keenan
+  - source/gap-selling
+status: draft
+updated: 2026-07-18
 ---
 
 # Problem-Centric Discovery - Four Question Types and the CRM Challenge
@@ -85,7 +54,6 @@ When one sales director invited a peer into a proposal, Keenan assumed the two l
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated Questions - How and What Create the Illusion of Control|Calibrated Questions - How and What Create the Illusion of Control]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion|Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery - Situation, Problem, Implication, and Need-Payoff|SPIN Discovery - Situation, Problem, Implication, and Need-Payoff]]
@@ -94,5 +62,4 @@ When one sales director invited a peer into a proposal, Keenan assumed the two l
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem Identification Chart - Problems, Impacts, and Root Causes|The Problem Identification Chart - Problems, Impacts, and Root Causes]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_Keenan_GapSelling_RawTranscript|Gap Selling]] — locator: chapters 7–8

@@ -1,71 +1,14 @@
 ---
-title: "Decommoditize Before You Discount - Make the Difference Obvious"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Decommoditize Before You Discount - Make the Difference Obvious
+lang: en
 tags:
-  [
-    topic/positioning,
-    topic/offers,
-    topic/copywriting,
-    topic/local-services,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-  - id: "SRC-0042"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a
-      Brand Signal
-  - type: has-derivative
-    target: 07-Articles/Change the Comparison Before You Change the Price
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
-      Clever - Write Below Third Grade and Meet the Avatar
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
-      Proof, Path - Engineering the Video Intro
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/Survive vs Thrive
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
-      of a Perfect Business
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a
-      Force Multiplier
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors
-      Down - The $50M Price-Cut Lesson
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
-      in the Prospect's Mind
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/The Aesop Playbook
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You
-      Can't Control Price
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Goldilocks Pricing - Anchors,
-      Decoys, and the Middle Option
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
-      Traffic Before the Core Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Virtuous Cycle of Price -
-      Why Premium Pricing Serves Customers Better
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架
+  - topic/positioning
+  - topic/offers
+  - topic/copywriting
+  - topic/local-services
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Decommoditize Before You Discount - Make the Difference Obvious
@@ -116,7 +59,6 @@ AMA 3 generalizes the offer design into three value vectors. A home-service comp
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a Brand Signal|Absurdity as a Brand Signal]]
 - **Has derivative:** [[07-Articles/Change the Comparison Before You Change the Price|Change the Comparison Before You Change the Price]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
@@ -135,6 +77,5 @@ AMA 3 generalizes the offer design into three value vectors. A home-service comp
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架|情緒價值與功能性價值：跳脫價格戰的定位框架]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
 - **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

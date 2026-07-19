@@ -1,61 +1,16 @@
 ---
-title: "Values Before Features - Sell the Identity Behind the Product"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Values Before Features - Sell the Identity Behind the Product
+lang: en
 tags:
-  [
-    topic/brand,
-    topic/identity,
-    topic/sales,
-    topic/positioning,
-    person/matt-gray,
-    person/seth-godin,
-    source/this-is-marketing
-  ]
-sources:
-  - id: "SRC-0106"
-    role: "primary"
-  - id: "SRC-0039"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing
-      Scale - Sell the Outcome, Not Your Effort
-  - type: is-applied-by
-    target: 02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
-      Clever - Write Below Third Grade and Meet the Avatar
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Buyer Needs and
-      Benefits - From Implied Problems to Explicit Value
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching -
-      Insight That Leads to Unique Strengths
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a
-      Brand Signal
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/H2H Marketing -
-      Human-Centered Service, Trust, and Co-Creation
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Marketing as
-      Service - Make Change for People You Seek to Serve
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7
-      Framework - Customer as Hero, Brand as Guide
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
-      Actually Is - Association, Influence, Direction, Reach
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/People Like Us
-      Do Things Like This - Culture and Status as Behavior
+  - topic/brand
+  - topic/identity
+  - topic/sales
+  - topic/positioning
+  - person/matt-gray
+  - person/seth-godin
+  - source/this-is-marketing
+status: draft
+updated: 2026-07-18
 ---
 
 # Values Before Features - Sell the Identity Behind the Product
@@ -105,7 +60,6 @@ Apple's “Think Different” positioning associated the company with people who
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort|The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
 - **Is applied by:** [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why|Creator Vision Framework: What x Who x Why]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
@@ -119,6 +73,5 @@ Apple's “Think Different” positioning associated the company with people who
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/People Like Us Do Things Like This - Culture and Status as Behavior|People Like Us Do Things Like This - Culture and Status as Behavior]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_MattGray_WhatSteveJobsCanTeachYouAboutBusiness_RawTranscript|What Steve Jobs Can Teach You About Business - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Books/2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript|This Is Marketing]]

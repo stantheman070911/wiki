@@ -1,44 +1,15 @@
 ---
-title: "Playing to Win vs. Playing Not to Lose"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Playing to Win vs. Playing Not to Lose
+lang: en
 tags:
-  [
-    topic/mindset,
-    topic/risk,
-    topic/decision-making,
-    topic/commitment,
-    person/t-harv-eker,
-    person/steven-bartlett
-  ]
-sources:
-  - id: "SRC-0018"
-    role: "primary"
-  - id: "SRC-0017"
-    role: "supporting"
-    locator: "Law 22"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Committed to Rich
-      vs. Wanting to Be Rich - The Three Levels of Wanting
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Success -
-      Judge the Work Before the Outcome
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite
-      Games - Winning by Emptying the Tank
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint
-      - Reprogramming Thoughts, Feelings, and Actions Around Money
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think
-      Small - The Law of Income
+  - topic/mindset
+  - topic/risk
+  - topic/decision-making
+  - topic/commitment
+  - person/t-harv-eker
+  - person/steven-bartlett
+status: draft
+updated: 2026-07-13
 ---
 
 # Playing to Win vs. Playing Not to Lose
@@ -68,7 +39,6 @@ Wealth File #2. Eker argues the size of the goal itself, not effort or ability, 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting|Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Success - Judge the Work Before the Outcome|Creative Success - Judge the Work Before the Outcome]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite Games - Winning by Emptying the Tank|Finite vs Infinite Games - Winning by Emptying the Tank]]
@@ -76,6 +46,5 @@ Wealth File #2. Eker argues the size of the goal itself, not effort or ability, 
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think Small - The Law of Income|Think Big vs. Think Small - The Law of Income]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 22

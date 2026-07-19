@@ -1,33 +1,15 @@
 ---
-title: "包裝、網紅與 2026 年 TikTok 戰術"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "zh"
+title: 包裝、網紅與 2026 年 TikTok 戰術
+lang: zh
 tags:
-  [
-    topic/brand,
-    topic/influencer-marketing,
-    topic/tiktok,
-    topic/hooks,
-    topic/short-form-video,
-    source/founder-marketing-roundup
-  ]
-sources:
-  - id: "SRC-0051"
-    role: "primary"
-date_added: "2026-07-02"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-  Creation and Distribution Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/內容產製系統與募資紀律
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/網紅行銷引擎：以CPM反推的分散式機器
-  - type: applies
-    target: 02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架
+  - topic/brand
+  - topic/influencer-marketing
+  - topic/tiktok
+  - topic/hooks
+  - topic/short-form-video
+  - source/founder-marketing-roundup
+status: reviewed
+updated: 2026-07-13
 ---
 
 # 包裝、網紅與 2026 年 TikTok 戰術
@@ -86,11 +68,9 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **應用於:** [[01-Business-Strategy/Finance-Capital-and-Exit/內容產製系統與募資紀律|內容產製系統與募資紀律]]
 - **應用於:** [[01-Business-Strategy/Traffic-and-Acquisition/網紅行銷引擎：以CPM反推的分散式機器|網紅行銷引擎：以CPM反推的分散式機器]]
 - **應用於:** [[02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架|品牌即媒體公司：注意力到信任框架]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Podcasts/2026-07-02_Podcast_AnatomyOfADream_FounderMarketingRoundup|Founder Marketing Roundup]]

@@ -1,62 +1,19 @@
 ---
-title: "The Power Law of Venture Capital and Careers"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The Power Law of Venture Capital and Careers
+lang: en
 tags:
-  [
-    topic/power-law,
-    topic/risk,
-    topic/capital,
-    topic/decision-making,
-    topic/startups,
-    person/peter-thiel,
-    person/paul-graham,
-    person/daniel-priestley,
-    source/paul-graham-essays,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0014"
-    role: "primary"
-    locator: "ch. 7"
-  - id: "SRC-0046"
-    role: "supporting"
-  - id: "SRC-0086"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: has-example
-    target: 05-Intelligence-and-Research/The Digital-Economy Income Shift - IP,
-      Media, Data, and Code
-  - type: is-applied-by
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation -
-      Measurement, Leverage, and Compressed Work
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is
-      Destiny - The Sales Channel Power Law
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
-      and Asymmetric Bets
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Increase the
-      Surface Area of Luck
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine
-      - Why Computers Complement Humans Instead of Replacing Them
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs.
-      Indefinite Optimism - Planning Your Way to the Future
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority
-      Rule - How Intransigent Preferences Dominate Flexible Majorities
+  - topic/power-law
+  - topic/risk
+  - topic/capital
+  - topic/decision-making
+  - topic/startups
+  - person/peter-thiel
+  - person/paul-graham
+  - person/daniel-priestley
+  - source/paul-graham-essays
+  - source/daniel-priestley-youtube
+status: reviewed
+updated: 2026-07-13
 ---
 
 # The Power Law of Venture Capital and Careers
@@ -103,7 +60,6 @@ ask which one thing (market, skill, relationship, channel) is most likely to be 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has example:** [[05-Intelligence-and-Research/The Digital-Economy Income Shift - IP, Media, Data, and Code|The Digital-Economy Income Shift - IP, Media, Data, and Code]]
 - **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation - Measurement, Leverage, and Compressed Work|Wealth Creation - Measurement, Leverage, and Compressed Work]]
 - **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly|Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
@@ -115,7 +71,6 @@ ask which one thing (market, skill, relationship, channel) is most likely to be 
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities|The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 7
 - **supporting:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_AIAndTheDigitalIncomeShift_RawTranscript|AI and the Digital Income Shift - Raw Transcript]]

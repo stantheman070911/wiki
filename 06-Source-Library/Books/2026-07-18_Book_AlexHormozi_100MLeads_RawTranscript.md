@@ -1,19 +1,9 @@
 ---
-source_id: "SRC-0019"
-title: "$100M Leads"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Alex Hormozi"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2023"
-date_archived: "2026-07-18"
-status: "source"
+title: $100M Leads
+author: Alex Hormozi
+lang: en
+published: "2023"
+archived: 2026-07-18
 ---
 
 # $100M Leads — Raw Transcript

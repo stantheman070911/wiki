@@ -1,42 +1,15 @@
 ---
-title: "The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers
+lang: en
 tags:
-  [
-    topic/onboarding,
-    topic/product,
-    topic/retention,
-    topic/funnel,
-    person/wes-bush,
-    source/product-led-growth
-  ]
-sources:
-  - id: "SRC-0040"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand,
-      Communicate, and Deliver Customer Value
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
-      MOAT Framework - Choose Freemium, Free Trial, or Demo
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Checklist Design -
-      Pause Points, Killer Items, and Field Testing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth
-      Sprints - Analyze, Ask, and Act
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
-      Automation - Manual Onboarding to Fix Churn
+  - topic/onboarding
+  - topic/product
+  - topic/retention
+  - topic/funnel
+  - person/wes-bush
+  - source/product-led-growth
+status: draft
+updated: 2026-07-18
 ---
 
 # The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers
@@ -83,7 +56,6 @@ Conversational tracks should advance in order: reach a quick win, reach the desi
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand, Communicate, and Deliver Customer Value|UCD - Understand, Communicate, and Deliver Customer Value]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The MOAT Framework - Choose Freemium, Free Trial, or Demo|The MOAT Framework - Choose Freemium, Free Trial, or Demo]]
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Checklist Design - Pause Points, Killer Items, and Field Testing|Checklist Design - Pause Points, Killer Items, and Field Testing]]
@@ -91,5 +63,4 @@ Conversational tracks should advance in order: reach a quick win, reach the desi
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript|Product-Led Growth]]

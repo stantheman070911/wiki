@@ -1,44 +1,15 @@
 ---
-title: "The TAM Illusion - Saturated Markets, the Puddle-to-Ocean Path, and Five
-  Directions to Move"
+title: The TAM Illusion - Saturated Markets, the Puddle-to-Ocean Path, and Five Directions to Move
 aliases:
-  - "The TAM Illusion - Saturated Markets, the Puddle-to-Ocean Path, and Five
-    Directions to Move"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
-tags: [ topic/tam, topic/market-saturation, topic/scaling, person/alex-hormozi ]
-sources:
-  - id: "SRC-0063"
-    role: "primary"
-  - id: "SRC-0074"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-13"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a
-      Force Multiplier
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly
-      Compounding and Market Size
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/TikTok Shop與飽和市場的白地策略
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills
-      診斷、1-1-1 與萬能前門
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/五大流量模型與私域轉換：從你找人到人找你
-  - type: related
-    target: 02-Social-Media-Strategy/受眾定位與先小後大法則
+  - The TAM Illusion - Saturated Markets, the Puddle-to-Ocean Path, and Five Directions to Move
+lang: en
+tags:
+  - topic/tam
+  - topic/market-saturation
+  - topic/scaling
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-13
 ---
 
 # The TAM Illusion - Saturated Markets, the Puddle-to-Ocean Path, and Five Directions to Move
@@ -97,7 +68,6 @@ Different business models have characteristic growth curves and characteristic p
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
 - **Related:** [[01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a Force Multiplier|Add a Zero - Market Choice as a Force Multiplier]]
 - **Related:** [[01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly|Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
@@ -108,6 +78,5 @@ Different business models have characteristic growth curves and characteristic p
 - **Related:** [[02-Social-Media-Strategy/受眾定位與先小後大法則|受眾定位與先小後大法則]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AMA_TAMIllusion|AMA - The TAM Illusion]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]

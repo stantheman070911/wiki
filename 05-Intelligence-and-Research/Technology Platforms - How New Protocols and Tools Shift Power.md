@@ -1,53 +1,20 @@
 ---
-title: "Technology Platforms - How New Protocols and Tools Shift Power"
-type: "research"
-domain: "intelligence-and-research"
-lang: "en"
+title: Technology Platforms - How New Protocols and Tools Shift Power
+lang: en
 tags:
-  [
-    topic/innovation,
-    topic/distribution,
-    topic/moat,
-    topic/product,
-    topic/ai,
-    topic/writing,
-    person/paul-graham,
-    person/james-dale-davidson,
-    person/william-rees-mogg,
-    source/paul-graham-essays,
-    source/the-sovereign-individual
-  ]
-sources:
-  - id: "SRC-0046"
-    role: "primary"
-  - id: "SRC-0009"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 05-Intelligence-and-Research/Intelligence and Research Index
-relationships:
-  - type: example
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtual Firm -
-      Falling Transaction Costs and the Unbundling of Organizations
-  - type: example
-    target: 01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly
-  - type: example
-    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
-      Manufacturing as the Moat
-  - type: example
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
-      Open-Minded
-  - type: example
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine
-      - Why Computers Complement Humans Instead of Replacing Them
-  - type: example
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Megapolitics -
-      How Technology Changes the Returns to Violence
-  - type: related
-    target: 05-Intelligence-and-Research/The Digital-Economy Income Shift - IP,
-      Media, Data, and Code
+  - topic/innovation
+  - topic/distribution
+  - topic/moat
+  - topic/product
+  - topic/ai
+  - topic/writing
+  - person/paul-graham
+  - person/james-dale-davidson
+  - person/william-rees-mogg
+  - source/paul-graham-essays
+  - source/the-sovereign-individual
+status: draft
+updated: 2026-07-13
 ---
 
 # Technology Platforms - How New Protocols and Tools Shift Power
@@ -84,7 +51,6 @@ Twitter behaved like a new recipient-unspecified messaging protocol; web applica
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Example:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations|The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
 - **Example:** [[01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly|Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
 - **Example:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]
@@ -94,6 +60,5 @@ Twitter behaved like a new recipient-unspecified messaging protocol; web applica
 - **Related:** [[05-Intelligence-and-Research/The Digital-Economy Income Shift - IP, Media, Data, and Code|The Digital-Economy Income Shift - IP, Media, Data, and Code]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript|The Sovereign Individual - Raw Transcript]]

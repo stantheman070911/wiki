@@ -1,48 +1,16 @@
 ---
-title: "The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch
+lang: en
 tags:
-  [
-    topic/culture,
-    topic/hiring,
-    topic/recruiting,
-    topic/org-design,
-    topic/startups,
-    person/peter-thiel,
-    person/steven-bartlett
-  ]
-sources:
-  - id: "SRC-0014"
-    role: "primary"
-    locator: "ch. 10"
-  - id: "SRC-0017"
-    role: "supporting"
-    locator: "Law 29"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate
-      Meaningful Work and Meaningful Relationships
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules
-      - Codify, Transfer, and Train Behavior
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
-      Organizations
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations -
-      Co-founders, Ownership, Possession, Control, and Vesting
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is
-      Destiny - The Sales Channel Power Law
+  - topic/culture
+  - topic/hiring
+  - topic/recruiting
+  - topic/org-design
+  - topic/startups
+  - person/peter-thiel
+  - person/steven-bartlett
+status: reviewed
+updated: 2026-07-13
 ---
 
 # The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch
@@ -86,7 +54,6 @@ Track the company through four phases—**cult, growth, enterprise, decline**—
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate Meaningful Work and Meaningful Relationships|Cultivate Meaningful Work and Meaningful Relationships]]
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior|Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing|Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
@@ -95,6 +62,5 @@ Track the company through four phases—**cult, growth, enterprise, decline**—
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law|Distribution Is Destiny - The Sales Channel Power Law]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 10
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 29

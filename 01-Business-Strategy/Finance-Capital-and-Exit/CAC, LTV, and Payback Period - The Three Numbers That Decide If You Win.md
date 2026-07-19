@@ -1,53 +1,14 @@
 ---
-title: "CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win
+lang: en
 tags:
-  [
-    topic/cac,
-    topic/ltv,
-    topic/unit-economics,
-    topic/cash-flow,
-    person/sabri-suby
-  ]
-sources:
-  - id: "SRC-0078"
-    role: "primary"
-date_added: "2026-07-10"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
-      - Who-Not-How and Planning Backward From the Goal
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is
-      Destiny - The Sales Channel Power Law
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
-      Through Segmented Churn
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/Survive vs Thrive
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of
-      Investing - Diversification via Uncorrelated Return Streams
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize
-      the Whole Revenue System
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A
-      Seven-Part Framework for an Irresistible Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
-      Slam Offer
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS
-      - The Percentage Lies
+  - topic/cac
+  - topic/ltv
+  - topic/unit-economics
+  - topic/cash-flow
+  - person/sabri-suby
+status: draft
+updated: 2026-07-13
 ---
 
 # CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win
@@ -102,7 +63,6 @@ Rule of thumb: be willing to spend up to ~33% of LTV to acquire a customer.
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law|Distribution Is Destiny - The Sales Channel Power Law]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
@@ -115,5 +75,4 @@ Rule of thumb: be willing to spend up to ~33% of LTV to acquire a customer.
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS - The Percentage Lies|Maximize Net Cash, Not ROAS - The Percentage Lies]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook|Customer Acquisition, Offers, And Ads Playbook]]

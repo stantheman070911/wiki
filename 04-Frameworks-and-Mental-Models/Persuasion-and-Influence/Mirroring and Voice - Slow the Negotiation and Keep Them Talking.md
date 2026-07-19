@@ -1,40 +1,15 @@
 ---
-title: "Mirroring and Voice - Slow the Negotiation and Keep Them Talking"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Mirroring and Voice - Slow the Negotiation and Keep Them Talking
+lang: en
 tags:
-  [
-    topic/persuasion,
-    topic/influence,
-    topic/trust,
-    person/chris-voss,
-    person/tahl-raz,
-    source/never-split-the-difference
-  ]
-sources:
-  - id: "SRC-0028"
-    role: "primary"
-    locator: "Chapters 1–2"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
-  and Influence Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How
-      to Get Beyond Disagreements
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated
-      Questions - How and What Create the Illusion of Control
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With
-      Agreement - Keep the Other Mind Open
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical
-      Empathy - Labels, Silence, and the Accusation Audit
+  - topic/persuasion
+  - topic/influence
+  - topic/trust
+  - person/chris-voss
+  - person/tahl-raz
+  - source/never-split-the-difference
+status: draft
+updated: 2026-07-18
 ---
 
 # Mirroring and Voice - Slow the Negotiation and Keep Them Talking
@@ -74,12 +49,10 @@ In a bank-hostage negotiation, Voss's team used a calm voice, mirrors, and long 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How to Get Beyond Disagreements|Recognize How to Get Beyond Disagreements]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated Questions - How and What Create the Illusion of Control|Calibrated Questions - How and What Create the Illusion of Control]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open|Start With Agreement - Keep the Other Mind Open]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical Empathy - Labels, Silence, and the Accusation Audit|Tactical Empathy - Labels, Silence, and the Accusation Audit]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapters 1–2

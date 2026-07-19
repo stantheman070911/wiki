@@ -1,28 +1,18 @@
 ---
 title: "Creator and Personal Brand Businesses: An Industry Handbook"
 aliases:
-  - "Creator and Personal Brand Businesses - Industry Handbook"
-type: "report"
-domain: "reports"
-lang: "en"
-status: "draft"
-generated_on: "2026-07-18"
-derived_from:
-  - "01-Business-Strategy/Business Strategy Index"
-  - "02-Social-Media-Strategy/Social Media Strategy Index"
-  - "03-Tactics-and-Playbooks/Tactics and Playbooks Index"
-  - "04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index"
-  - "05-Intelligence-and-Research/Intelligence and Research Index"
-  - "06-Source-Library/Source Library Index"
-supersedes: []
-owner: "stanley-lu"
+  - Creator and Personal Brand Businesses - Industry Handbook
+lang: en
+tags:
+  - topic/personal-brand
+  - topic/business-model
+status: draft
 ---
 
 # Creator and Personal Brand Businesses: An Industry Handbook
 
 ## Derivation roots
 
-<!-- generated from frontmatter derived_from; do not edit by hand -->
 - [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 - [[02-Social-Media-Strategy/Social Media Strategy Index|Social Media Strategy]]
 - [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]

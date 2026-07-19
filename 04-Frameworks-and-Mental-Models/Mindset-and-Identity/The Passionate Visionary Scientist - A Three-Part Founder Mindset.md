@@ -1,39 +1,16 @@
 ---
-title: "The Passionate Visionary Scientist - A Three-Part Founder Mindset"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The Passionate Visionary Scientist - A Three-Part Founder Mindset
+lang: en
 tags:
-  [
-    topic/mindset,
-    topic/identity,
-    topic/startups,
-    topic/execution,
-    topic/decision-making,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0099"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
-      Product-Discovery Loop - Launch, Learn, Evolve, Delight
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs.
-      Indefinite Optimism - Planning Your Way to the Future
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Relentlessly
-      Resourceful - The Founder Trait Stack
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the
-      Hero's Journey - The Founder Archetype Who Builds Against Doubt
+  - topic/mindset
+  - topic/identity
+  - topic/startups
+  - topic/execution
+  - topic/decision-making
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: draft
+updated: 2026-07-13
 ---
 
 # The Passionate Visionary Scientist - A Three-Part Founder Mindset
@@ -76,12 +53,10 @@ Priestley uses Batman as a deliberately simple narrative model: an origin in per
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs. Indefinite Optimism - Planning Your Way to the Future|Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Relentlessly Resourceful - The Founder Trait Stack|Relentlessly Resourceful - The Founder Trait Stack]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt|Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_PassionateVisionaryScientistMindset_RawTranscript|Passionate Visionary Scientist Mindset - Raw Transcript]]

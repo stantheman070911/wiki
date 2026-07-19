@@ -1,34 +1,13 @@
 ---
-title: "The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/decision-making, topic/moat, topic/mindset, person/sabri-suby ]
-sources:
-  - id: "SRC-0084"
-    role: "primary"
-date_added: "2026-07-12"
-updated: "2026-07-12"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where
-      the Fewest Go
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
-      and Asymmetric Bets
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80%
-      Mindset - Risk Tolerance and Refusing to Quit
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
-      Gratification - Patience and Inputs vs Outputs
+title: The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats
+lang: en
+tags:
+  - topic/decision-making
+  - topic/moat
+  - topic/mindset
+  - person/sabri-suby
+status: draft
+updated: 2026-07-12
 ---
 
 # The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats
@@ -62,7 +41,6 @@ Owners make hundreds of decisions a month, and most default to the easy option b
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where the Fewest Go|The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
@@ -70,5 +48,4 @@ Owners make hundreds of decisions a month, and most default to the easy option b
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed Gratification - Patience and Inputs vs Outputs|Delayed Gratification - Patience and Inputs vs Outputs]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]

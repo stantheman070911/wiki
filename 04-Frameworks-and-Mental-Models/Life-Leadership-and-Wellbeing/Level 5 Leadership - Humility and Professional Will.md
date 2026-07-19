@@ -1,47 +1,15 @@
 ---
-title: "Level 5 Leadership - Humility and Professional Will"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Level 5 Leadership - Humility and Professional Will
+lang: en
 tags:
-  [
-    topic/leadership,
-    topic/identity,
-    topic/org-design,
-    topic/management,
-    person/jim-collins,
-    source/good-to-great
-  ]
-sources:
-  - id: "SRC-0010"
-    role: "primary"
-    locator: "chapter 2"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-  Leadership and Wellbeing Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Two Ways a Founder Can Disappear
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Preserve the Core,
-      Stimulate Progress - Build an Institution That Can Evolve
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More
-      Important Than the WHAT
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design
-      Jobs Around Exceptional Contribution
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Adaptive
-      Leadership - Consistent Standards, Individual Treatment
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
-      - Who-Not-How and Planning Backward From the Goal
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox
+  - topic/leadership
+  - topic/identity
+  - topic/org-design
+  - topic/management
+  - person/jim-collins
+  - source/good-to-great
+status: draft
+updated: 2026-07-13
 ---
 
 # Level 5 Leadership - Humility and Professional Will
@@ -86,7 +54,6 @@ Darwin Smith redirected Kimberly-Clark from coated-paper mills into consumer pro
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Two Ways a Founder Can Disappear|Two Ways a Founder Can Disappear]]
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve|Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More Important Than the WHAT|Remember That the WHO Is More Important Than the WHAT]]
@@ -96,5 +63,4 @@ Darwin Smith redirected Kimberly-Clark from coated-paper mills into consumer pro
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox|The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript|Good to Great - Raw Transcript]] — locator: chapter 2

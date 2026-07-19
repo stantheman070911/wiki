@@ -1,42 +1,14 @@
 ---
-title: "The Four-Phase Creative Process - Seeds, Experimentation, Crafting,
-  Completion"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion
+lang: en
 tags:
-  [
-    topic/creativity,
-    topic/execution,
-    topic/systems,
-    topic/innovation,
-    person/rick-rubin
-  ]
-sources:
-  - id: "SRC-0016"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative
-      Experiments - Opposites, Constraints, A-B Tests, and Context
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a
-      Discovery Tool - Useful, Simple, and Rewritten
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Finish and
-      Release - Abundance Beats Perfectionism
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for
-      Makers - Constraints for Designing Good Things
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative
-      Receptivity - Awareness, Attention, and the Artist's Filter
+  - topic/creativity
+  - topic/execution
+  - topic/systems
+  - topic/innovation
+  - person/rick-rubin
+status: draft
+updated: 2026-07-13
 ---
 
 # The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion
@@ -78,7 +50,6 @@ Chinese alchemists seeking immortality produced gunpowder; penicillin and Post-i
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a Discovery Tool - Useful, Simple, and Rewritten|Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Finish and Release - Abundance Beats Perfectionism|Finish and Release - Abundance Beats Perfectionism]]
@@ -86,5 +57,4 @@ Chinese alchemists seeking immortality produced gunpowder; penicillin and Post-i
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Receptivity - Awareness, Attention, and the Artist's Filter|Creative Receptivity - Awareness, Attention, and the Artist's Filter]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript|The Creative Act - Raw Transcript]]

@@ -1,30 +1,12 @@
 ---
-title: "No One's Opinion Pays Your Bills - Immunity to Critics"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/mindset, topic/reputation, person/sabri-suby ]
-sources:
-  - id: "SRC-0084"
-    role: "primary"
-date_added: "2026-07-12"
-updated: "2026-07-12"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
-      Create - Engineering Proof at Scale
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80%
-      Mindset - Risk Tolerance and Refusing to Quit
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status
-      Signal - Shame, Guilt, and Documenting the Struggle
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group
-      and Re-engineering Your Circle
+title: No One's Opinion Pays Your Bills - Immunity to Critics
+lang: en
+tags:
+  - topic/mindset
+  - topic/reputation
+  - person/sabri-suby
+status: draft
+updated: 2026-07-12
 ---
 
 # No One's Opinion Pays Your Bills - Immunity to Critics
@@ -56,12 +38,10 @@ As a business grows it draws attention, and attention brings detractors, one-sta
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80% Mindset - Risk Tolerance and Refusing to Quit|Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle|Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle|The Reference Group and Re-engineering Your Circle]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]

@@ -1,21 +1,11 @@
 ---
-source_id: "SRC-0025"
-title: "Designing Your Life - Raw Transcript"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Bill Burnett"
-    role: "author"
-  - name: "Dave Evans"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2016"
-date_archived: "2026-07-18"
-status: "source"
+title: Designing Your Life - Raw Transcript
+author:
+  - Bill Burnett
+  - Dave Evans
+lang: en
+published: "2016"
+archived: 2026-07-18
 ---
 
 [Embedded visual 1 on PDF page 1 (546x746 px). OCR-readable text: u, G / BILL BURNETT & DAVE EVANS / Q / DESIGNING / a / 3 . a / a sg signate oo? / mC) 1 side / sbese ° Hanes / Lh ed e iG A / oe / ae Pe ae / $e e / ae Re enee lo / ey SP geen / ce tonic! / YOUR LIFE / o / HOW TO BUILD A WELL-LIVED, / JOYFUL EDPE / qi / 6]

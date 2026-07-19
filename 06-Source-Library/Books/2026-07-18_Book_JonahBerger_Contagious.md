@@ -1,19 +1,9 @@
 ---
-source_id: "SRC-0033"
 title: "Contagious: Why Things Catch On"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Jonah Berger"
-    role: "author"
-source_type: "book"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2013"
-date_archived: "2026-07-18"
-status: "source"
+author: Jonah Berger
+lang: en
+published: "2013"
+archived: 2026-07-18
 ---
 
 # Contagious: Why Things Catch On (Jonah Berger) — Extraction Notes & Entry Map

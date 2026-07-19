@@ -1,55 +1,17 @@
 ---
-title: "Innovation, Quantification, and Orchestration - The Business Development Loop"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Innovation, Quantification, and Orchestration - The Business Development Loop
+lang: en
 tags:
-  [
-    topic/innovation,
-    topic/systems,
-    topic/operations,
-    topic/feedback,
-    topic/decision-making,
-    topic/consistency,
-    person/michael-gerber,
-    source/e-myth-revisited
-  ]
-sources:
-  - id: "SRC-0011"
-    role: "primary"
-    locator: "chapter 10"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Do It by Hand Until You Know What It Is
-  - type: has-derivative
-    target: 07-Articles/Two Ways a Founder Can Disappear
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build
-      the Business as the Product
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative
-      Experiments - Opposites, Constraints, A-B Tests, and Context
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements
-      to Your Machine to Get Around Your Problems
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
-      - SOPs, Checklists, and Systematizing the Vital 20%
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm -
-      Musk's Five-Step Process Method
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Out-Fail the
-      Competition - Building an Experimentation System
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
-      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
+  - topic/innovation
+  - topic/systems
+  - topic/operations
+  - topic/feedback
+  - topic/decision-making
+  - topic/consistency
+  - person/michael-gerber
+  - source/e-myth-revisited
+status: draft
+updated: 2026-07-13
 ---
 
 # Innovation, Quantification, and Orchestration - The Business Development Loop
@@ -92,7 +54,6 @@ The book illustrates the loop with small retail changes: alter a greeting, measu
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Do It by Hand Until You Know What It Is|Do It by Hand Until You Know What It Is]]
 - **Has derivative:** [[07-Articles/Two Ways a Founder Can Disappear|Two Ways a Founder Can Disappear]]
 - **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build the Business as the Product|The Franchise Prototype - Build the Business as the Product]]
@@ -104,5 +65,4 @@ The book illustrates the loop with small retail changes: alter a greeting, measu
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)|The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript|The E-Myth Revisited - Raw Transcript]] — locator: chapter 10

@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0106"
-title: "What Steve Jobs Can Teach You About Business - Raw Transcript"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Matt Gray"
-    role: "creator"
-source_type: "video"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-13"
-status: "source"
+title: What Steve Jobs Can Teach You About Business - Raw Transcript
+author: Matt Gray
+lang: en
+archived: 2026-07-13
 ---
 
 When Steve Jobs returned to Apple in 1997, the company was 90 days away from bankruptcy. Steve stood in front of a massive crowd, his black turtleneck, his

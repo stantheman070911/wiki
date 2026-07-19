@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0045"
-title: "IP變現系統流程圖整理"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Unknown"
-    role: "unknown"
-source_type: "diagram"
-source_format: "source-note"
-source_lang: "zh"
-note_lang: "zh"
-processing_status: "processed"
-date_archived: "2026-07-02"
-status: "source"
+title: IP變現系統流程圖整理
+author: Unknown
+lang: zh
+archived: 2026-07-02
 ---
 
 # IP 變現系統 — 流程圖整理

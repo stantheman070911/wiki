@@ -1,45 +1,11 @@
 ---
-title: "Finite vs Infinite Games - Winning by Emptying the Tank"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/mindset, person/alex-hormozi ]
-sources:
-  - id: "SRC-0068"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback -
-      Sales as the Training Ground
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal
-      Urgency - Speed, Parallelism, and Aggressive Timelines
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
-      Confidence
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80%
-      Mindset - Risk Tolerance and Refusing to Quit
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
-      Gratification - Patience and Inputs vs Outputs
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin
-      Story - Heroes Use Pain
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs.
-      Playing Not to Lose
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
-      - The Zero-Follower Consistency Engine
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Reframing Trauma
-      and Labels - Logic, Evidence, Utility
+title: Finite vs Infinite Games - Winning by Emptying the Tank
+lang: en
+tags:
+  - topic/mindset
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Finite vs Infinite Games - Winning by Emptying the Tank
@@ -74,7 +40,6 @@ Hormozi says it took him too long to learn the difference between finite and inf
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines|Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
@@ -86,5 +51,4 @@ Hormozi says it took him too long to learn the difference between finite and inf
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Reframing Trauma and Labels - Logic, Evidence, Utility|Reframing Trauma and Labels - Logic, Evidence, Utility]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]

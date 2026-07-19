@@ -1,39 +1,14 @@
 ---
-title: "The Virtuous Cycle of Price - Why Premium Pricing Serves Customers Better"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: The Virtuous Cycle of Price - Why Premium Pricing Serves Customers Better
+lang: en
 tags:
-  [
-    topic/pricing,
-    topic/offers,
-    topic/margins,
-    topic/positioning,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0021"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of
-      Service Businesses
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
-      Discount - Make the Difference Obvious
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
-      Slam Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架
+  - topic/pricing
+  - topic/offers
+  - topic/margins
+  - topic/positioning
+  - person/alex-hormozi
+status: draft
+updated: 2026-07-18
 ---
 
 # The Virtuous Cycle of Price - Why Premium Pricing Serves Customers Better
@@ -77,7 +52,6 @@ The loop is self-reinforcing in both directions: margin funds a better product, 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of Service Businesses|The Virtuous Cycle of Service Businesses]]
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious|Decommoditize Before You Discount - Make the Difference Obvious]]
@@ -85,5 +59,4 @@ The loop is self-reinforcing in both directions: margin funds a better product, 
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架|情緒價值與功能性價值：跳脫價格戰的定位框架]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MOffers_RawTranscript|$100M Offers]]

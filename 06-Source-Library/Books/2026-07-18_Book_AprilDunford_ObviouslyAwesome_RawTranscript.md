@@ -1,19 +1,9 @@
 ---
-source_id: "SRC-0023"
-title: "Obviously Awesome"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "April Dunford"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2019"
-date_archived: "2026-07-18"
-status: "source"
+title: Obviously Awesome
+author: April Dunford
+lang: en
+published: "2019"
+archived: 2026-07-18
 ---
 
 Cover

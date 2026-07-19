@@ -1,58 +1,16 @@
 ---
-title: "Centers of Influence - Selling Through Trusted Referrers"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Centers of Influence - Selling Through Trusted Referrers
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/referrals,
-    topic/business-model,
-    topic/enterprise,
-    topic/channel-strategy,
-    topic/trust,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as
-      Infrastructure
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
-      Liking, Authority, and Scarcity - The Four Social Shortcuts
-  - type: has-derivative
-    target: 07-Articles/Trust Should Have a Credit Limit
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Audience-Growth/The Podcast Guest Ladder -
-      Hook, Product Ecosystem, and Podcast Pyramid
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals -
-      Engineering Word of Mouth Through Goodwill
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Selling Upmarket -
-      Contextual Adjacency and Land-and-Expand
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four
-      Lead-Conversion Levers - Speed, Availability, Personalization, Volume
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of
-      Service Businesses
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
-      Return on Time, and Money Rules
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
-      Traffic Before the Core Offer
+  - topic/sales
+  - topic/referrals
+  - topic/business-model
+  - topic/enterprise
+  - topic/channel-strategy
+  - topic/trust
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Centers of Influence - Selling Through Trusted Referrers
@@ -97,7 +55,6 @@ A real-estate tax-strategy business got ~60–70% of revenue from four CPA firms
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as Infrastructure|Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
 - **Has derivative:** [[07-Articles/Trust Should Have a Credit Limit|Trust Should Have a Credit Limit]]
@@ -111,5 +68,4 @@ A real-estate tax-strategy business got ~60–70% of revenue from four CPA firms
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold Traffic Before the Core Offer|The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

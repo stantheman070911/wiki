@@ -1,63 +1,11 @@
 ---
-title: "Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/persuasion, person/robert-cialdini ]
-sources:
-  - id: "SRC-0002"
-    role: "primary"
-    locator: "ch. 4–7"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
-  and Influence Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Design for the Second Audience
-  - type: has-example
-    target: 05-Intelligence-and-Research/The Risk Continuum - Building an
-      AI-Resistant Personal Brand
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points
-      - Anchor a New Position to What's Already Believed
-  - type: is-applied-by
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: is-applied-by
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
-      Selling Through Trusted Referrers
-  - type: is-applied-by
-    target: 02-Social-Media-Strategy/可信度行銷與公開建構
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value
-      - The Psychology of Deals and the Rule of 100
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
-      Observability and Behavioral Residue
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation
-      and Commitment - Persuasion's Two Deepest Levers
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal -
-      The Guarantee Toolkit
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and
-      Urgency - Engineering Demand with Supply and Deadlines
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency
-      - We Share What Makes Us Look Good
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority
-      Rule - How Intransigent Preferences Dominate Flexible Majorities
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
-      Framework - Six Drivers of Word of Mouth
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of
-      Influence - Click-Whirr, Trigger Features, and the Contrast Principle
+title: Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts
+lang: en
+tags:
+  - topic/persuasion
+  - person/robert-cialdini
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts
@@ -103,7 +51,6 @@ Rounding out Cialdini's six principles. Each is a heuristic that outsources a ha
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Design for the Second Audience|Design for the Second Audience]]
 - **Has example:** [[05-Intelligence-and-Research/The Risk Continuum - Building an AI-Resistant Personal Brand|The Risk Continuum: Building an AI-Resistant Personal Brand]]
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points - Anchor a New Position to What's Already Believed|Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
@@ -121,5 +68,4 @@ Rounding out Cialdini's six principles. Each is a heuristic that outsources a ha
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle|Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion|Influence Psychology Of Persuasion]] — locator: ch. 4–7

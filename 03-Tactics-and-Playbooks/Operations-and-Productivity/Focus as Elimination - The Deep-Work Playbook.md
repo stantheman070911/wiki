@@ -1,87 +1,17 @@
 ---
-title: "Focus as Elimination - The Deep-Work Playbook"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Focus as Elimination - The Deep-Work Playbook
+lang: en
 tags:
-  [
-    topic/focus,
-    topic/productivity,
-    topic/mindset,
-    topic/startups,
-    person/alex-hormozi,
-    person/peter-drucker,
-    person/paul-graham,
-    source/paul-graham-essays
-  ]
-sources:
-  - id: "SRC-0068"
-    role: "primary"
-  - id: "SRC-0013"
-    role: "supporting"
-    locator: "ch. 5"
-  - id: "SRC-0046"
-    role: "supporting"
-  - id: "SRC-0042"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-13"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
-  Productivity Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept
-      - Three Circles and the Economic Denominator
-  - type: applies
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural -
-      Defending Margin Against Organizational Creep
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
-      Discipline - Freedom, Responsibility, and Stop-Doing Lists
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
-      Supply
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning
-      Backward from the Gap
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Effective Executive - Five Learnable Practices
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp -
-      The Messy Middle and the 40-for-2 Management Trade
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is
-      Short - Ruthless Attention Allocation
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
-      Gratification - Patience and Inputs vs Outputs
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and
-      Systems - The Two Psychological Shifts Behind Consistent Revenue
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group
-      and Re-engineering Your Circle
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time -
-      Record, Eliminate, and Consolidate
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
-      - SOPs, Checklists, and Systematizing the Vital 20%
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm -
-      Musk's Five-Step Process Method
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback -
-      Sales as the Training Ground
-  - type: related
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The
-      Complete Six-Step Roadmap
+  - topic/focus
+  - topic/productivity
+  - topic/mindset
+  - topic/startups
+  - person/alex-hormozi
+  - person/peter-drucker
+  - person/paul-graham
+  - source/paul-graham-essays
+status: reviewed
+updated: 2026-07-13
 ---
 
 # Focus as Elimination - The Deep-Work Playbook
@@ -139,7 +69,6 @@ work 12 hours/day for 30 days straight (no weekends). Lessons: you're not made o
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept - Three Circles and the Economic Denominator|The Hedgehog Concept - Three Circles and the Economic Denominator]]
 - **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural - Defending Margin Against Organizational Creep|Profit Is Unnatural - Defending Margin Against Organizational Creep]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
@@ -159,7 +88,6 @@ work 12 hours/day for 30 days straight (no weekends). Lessons: you're not made o
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The Complete Six-Step Roadmap|The First $100k - The Complete Six-Step Roadmap]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript|The Effective Executive - Raw Transcript]] — locator: ch. 5
 - **supporting:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

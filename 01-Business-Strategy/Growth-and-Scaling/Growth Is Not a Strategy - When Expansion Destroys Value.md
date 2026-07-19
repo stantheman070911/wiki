@@ -1,37 +1,16 @@
 ---
-title: "Growth Is Not a Strategy - When Expansion Destroys Value"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Growth Is Not a Strategy - When Expansion Destroys Value
+lang: en
 tags:
-  [
-    topic/growth,
-    topic/scaling,
-    topic/m-and-a,
-    topic/unit-economics,
-    topic/strategy,
-    person/richard-rumelt,
-    source/good-strategy-bad-strategy
-  ]
-sources:
-  - id: "SRC-0038"
-    role: "primary"
-    locator: "Ch. 11"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Competitive
-      Advantage - Why Owning One Isn't Enough
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Focus
-      - Winning a Segment by Coordinating Policy Around It
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
-      Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action
+  - topic/growth
+  - topic/scaling
+  - topic/m-and-a
+  - topic/unit-economics
+  - topic/strategy
+  - person/richard-rumelt
+  - source/good-strategy-bad-strategy
+status: draft
+updated: 2026-07-18
 ---
 
 # Growth Is Not a Strategy - When Expansion Destroys Value
@@ -71,11 +50,9 @@ Before treating any "growth strategy" as legitimate, test it against three quest
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Competitive Advantage - Why Owning One Isn't Enough|Competitive Advantage - Why Owning One Isn't Enough]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Focus - Winning a Segment by Coordinating Policy Around It|Focus - Winning a Segment by Coordinating Policy Around It]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 11

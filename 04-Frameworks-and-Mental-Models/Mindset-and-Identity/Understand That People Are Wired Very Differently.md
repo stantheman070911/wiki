@@ -1,51 +1,17 @@
 ---
-title: "Understand That People Are Wired Very Differently - Baseball Cards and
-  the Team Dimensions Profile"
+title: Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile
 aliases:
-  - "Understand That People Are Wired Very Differently - Baseball Cards and the
-    Team Dimensions Profile"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+  - Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile
+lang: en
 tags:
-  [
-    topic/identity,
-    topic/mindset,
-    topic/org-design,
-    topic/hiring,
-    person/ray-dalio,
-    source/bridgewater-associates
-  ]
-sources:
-  - id: "SRC-0015"
-    role: "primary"
-    locator: "Ch. 4"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test,
-      Evaluate, and Sort People
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Hire Right, Because the
-      Penalties for Hiring Wrong Are Huge
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design
-      Jobs Around Exceptional Contribution
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
-      Open-Minded
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Adaptive
-      Leadership - Consistent Standards, Individual Treatment
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the
-      Hero's Journey - The Founder Archetype Who Builds Against Doubt
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox
+  - topic/identity
+  - topic/mindset
+  - topic/org-design
+  - topic/hiring
+  - person/ray-dalio
+  - source/bridgewater-associates
+status: draft
+updated: 2026-07-13
 ---
 
 # Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile
@@ -80,7 +46,6 @@ Grew out of a stuck bond-systemization project at Bridgewater, where "big pictur
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People|Constantly Train, Test, Evaluate, and Sort People]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Hire Right, Because the Penalties for Hiring Wrong Are Huge|Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design Jobs Around Exceptional Contribution|Staff for Strength - Design Jobs Around Exceptional Contribution]]
@@ -90,5 +55,4 @@ Grew out of a stuck bond-systemization project at Bridgewater, where "big pictur
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox|The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 4

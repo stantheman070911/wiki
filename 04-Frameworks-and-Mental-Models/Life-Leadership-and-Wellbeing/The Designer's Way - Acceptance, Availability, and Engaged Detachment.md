@@ -1,48 +1,15 @@
 ---
-title: "The Designer's Way - Acceptance, Availability, and Engaged Detachment"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The Designer's Way - Acceptance, Availability, and Engaged Detachment
+lang: en
 tags:
-  [
-    topic/mindset,
-    topic/decision-making,
-    topic/courage,
-    person/bill-burnett,
-    person/dave-evans,
-    source/how-to-live-a-meaningful-life
-  ]
-sources:
-  - id: "SRC-0027"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-  Leadership and Wellbeing Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well -
-      Narrow, Decide, Let Go, and Move On
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good
-      Enough for Now - Acceptance Without Settling
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Meaning in
-      Life Is Designed in Particular Moments
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Moment-Making
-      - Crafted, Discovered, and Savored Experiences
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Simple
-      Flow - Presence Beyond Peak Performance
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Wonder
-      Formula - Curiosity Plus Mystery
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Transactional
-      and Flow Worlds - Intent Versus What Is
+  - topic/mindset
+  - topic/decision-making
+  - topic/courage
+  - person/bill-burnett
+  - person/dave-evans
+  - source/how-to-live-a-meaningful-life
+status: draft
+updated: 2026-07-18
 ---
 
 # The Designer's Way - Acceptance, Availability, and Engaged Detachment
@@ -83,7 +50,6 @@ When a flight is delayed, the actionable problem is not how to change the weathe
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well - Narrow, Decide, Let Go, and Move On|Choosing Well - Narrow, Decide, Let Go, and Move On]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good Enough for Now - Acceptance Without Settling|Good Enough for Now - Acceptance Without Settling]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Meaning in Life Is Designed in Particular Moments|Meaning in Life Is Designed in Particular Moments]]
@@ -93,5 +59,4 @@ When a flight is delayed, the actionable problem is not how to change the weathe
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Transactional and Flow Worlds - Intent Versus What Is|Transactional and Flow Worlds - Intent Versus What Is]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_HowToLiveAMeaningfulLife_RawTranscript|How to Live a Meaningful Life]]

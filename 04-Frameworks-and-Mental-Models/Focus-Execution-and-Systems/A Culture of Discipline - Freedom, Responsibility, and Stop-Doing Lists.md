@@ -1,71 +1,16 @@
 ---
-title: "A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists
+lang: en
 tags:
-  [
-    topic/culture,
-    topic/systems,
-    topic/operations,
-    topic/management,
-    topic/focus,
-    person/jim-collins,
-    source/good-to-great
-  ]
-sources:
-  - id: "SRC-0010"
-    role: "primary"
-    locator: "chapter 6"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept
-      - Three Circles and the Economic Denominator
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules
-      - Codify, Transfer, and Train Behavior
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More
-      Important Than the WHAT
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
-      Organizations
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
-      Elimination - The Deep-Work Playbook
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
-      - SOPs, Checklists, and Systematizing the Vital 20%
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Team Checklists -
-      Communication Before Coordination
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and
-      Protocols to Shape How Work Is Done
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity
-      Needs Standards and Distributed Judgment
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and
-      Align - Make Priorities and Dependencies Public
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Kaizen and
-      the Progress Principle
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Flywheel
-      and the Doom Loop - Compound Momentum in One Direction
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Hybrid
-      Organizations and Dual Reporting
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is
-      Short - Ruthless Attention Allocation
+  - topic/culture
+  - topic/systems
+  - topic/operations
+  - topic/management
+  - topic/focus
+  - person/jim-collins
+  - source/good-to-great
+status: draft
+updated: 2026-07-13
 ---
 
 # A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists
@@ -108,7 +53,6 @@ Abbott used responsibility accounting to assign every meaningful cost, investmen
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept - Three Circles and the Economic Denominator|The Hedgehog Concept - Three Circles and the Economic Denominator]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior|Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More Important Than the WHAT|Remember That the WHO Is More Important Than the WHAT]]
@@ -125,5 +69,4 @@ Abbott used responsibility accounting to assign every meaningful cost, investmen
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is Short - Ruthless Attention Allocation|Life Is Short - Ruthless Attention Allocation]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript|Good to Great - Raw Transcript]] — locator: chapter 6

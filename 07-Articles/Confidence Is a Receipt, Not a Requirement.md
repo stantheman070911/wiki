@@ -1,71 +1,16 @@
 ---
-title: "Confidence Is a Receipt, Not a Requirement"
-type: "article"
-domain: "articles"
-lang: "en"
+title: Confidence Is a Receipt, Not a Requirement
+lang: en
 tags:
-  [
-    topic/mindset,
-    topic/proof,
-    topic/self-belief,
-    topic/reps,
-    topic/learning,
-    topic/identity,
-    topic/inputs-vs-outputs
-  ]
-sources:
-  - id: "SRC-0068"
-    role: "primary"
-  - id: "SRC-0017"
-    role: "supporting"
-  - id: "SRC-0049"
-    role: "supporting"
-  - id: "SRC-0065"
-    role: "supporting"
-  - id: "SRC-0054"
-    role: "supporting"
-  - id: "SRC-0041"
-    role: "supporting"
-  - id: "SRC-0002"
-    role: "supporting"
-  - id: "SRC-0083"
-    role: "supporting"
-  - id: "SRC-0067"
-    role: "supporting"
-date_added: "2026-07-11"
-updated: "2026-07-11"
-reviewed_on: ""
-status: "draft"
-parent_map: 07-Articles/Articles Index
-relationships:
-  - type: derives-from
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback -
-      Sales as the Training Ground
-  - type: derives-from
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The
-      Complete Six-Step Roadmap
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
-      Confidence
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
-      Gratification - Patience and Inputs vs Outputs
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and
-      Systems - The Two Psychological Shifts Behind Consistent Revenue
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
-      - The Zero-Follower Consistency Engine
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/完美主義是恐懼的偽裝：用行動與deadline打破癱瘓
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/身份、故事與致勝三步
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation
-      and Commitment - Persuasion's Two Deepest Levers
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the
-      Overkill Bias - Why the Best Get to Teach
+  - topic/mindset
+  - topic/proof
+  - topic/self-belief
+  - topic/reps
+  - topic/learning
+  - topic/identity
+  - topic/inputs-vs-outputs
+status: draft
+updated: 2026-07-11
 ---
 
 # Confidence Is a Receipt, Not a Requirement
@@ -88,7 +33,6 @@ Confidence is not the admission ticket. It is the receipt you collect after doin
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Derives from:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The Complete Six-Step Roadmap|The First $100k - The Complete Six-Step Roadmap]]
 - **Derives from:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
@@ -112,7 +56,6 @@ Confidence is not the admission ticket. It is the receipt you collect after doin
 
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]]
 - **supporting:** [[06-Source-Library/Podcasts/2026-07-01_Podcast_ModernWisdom_AlexHormozi|Alex Hormozi on Modern Wisdom with Chris Williamson]]

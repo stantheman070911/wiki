@@ -1,45 +1,15 @@
 ---
-title: "The OKR Operating Cycle - Set, Check In, Score, and Reflect"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: The OKR Operating Cycle - Set, Check In, Score, and Reflect
+lang: en
 tags:
-  [
-    topic/execution,
-    topic/operations,
-    topic/learning,
-    topic/management,
-    person/john-doerr,
-    source/measure-what-matters
-  ]
-sources:
-  - id: "SRC-0032"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
-  Productivity Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed
-      and Aspirational OKRs - Separate Reliability from Stretch
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and
-      Align - Make Priorities and Dependencies Public
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs -
-      Define Objectives Through Sufficient Key Results
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous
-      Conversations, Feedback, and Recognition
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
-      to Do
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth
-      Sprints - Analyze, Ask, and Act
+  - topic/execution
+  - topic/operations
+  - topic/learning
+  - topic/management
+  - person/john-doerr
+  - source/measure-what-matters
+status: draft
+updated: 2026-07-18
 ---
 
 # The OKR Operating Cycle - Set, Check In, Score, and Reflect
@@ -85,7 +55,6 @@ Annual strategic direction and shorter operational cycles can run in parallel wh
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed and Aspirational OKRs - Separate Reliability from Stretch|Committed and Aspirational OKRs - Separate Reliability from Stretch]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and Align - Make Priorities and Dependencies Public|Focus and Align - Make Priorities and Dependencies Public]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs - Define Objectives Through Sufficient Key Results|OKRs - Define Objectives Through Sufficient Key Results]]
@@ -94,5 +63,4 @@ Annual strategic direction and shorter operational cycles can run in parallel wh
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth Sprints - Analyze, Ask, and Act|Triple-A Growth Sprints - Analyze, Ask, and Act]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript|Measure What Matters]]

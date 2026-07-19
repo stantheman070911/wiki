@@ -1,43 +1,15 @@
 ---
-title: "The Pre-Mortem - Imagine Failure Before It Happens"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The Pre-Mortem - Imagine Failure Before It Happens
+lang: en
 tags:
-  [
-    topic/decision-making,
-    topic/risk,
-    topic/root-cause,
-    topic/prioritization,
-    topic/feedback,
-    person/steven-bartlett
-  ]
-sources:
-  - id: "SRC-0017"
-    role: "primary"
-    locator: "Law 25"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Seven Questions
-      Every Business Must Answer
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
-      and Asymmetric Bets
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin -
-      Time Probability, Repeated Exposure, and Survival First
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale
-      Paradox - Confront Reality Without Losing Faith
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and
-      Deal With It - Pain, Truth, and the Hyperrealist's Formula
+  - topic/decision-making
+  - topic/risk
+  - topic/root-cause
+  - topic/prioritization
+  - topic/feedback
+  - person/steven-bartlett
+status: draft
+updated: 2026-07-13
 ---
 
 # The Pre-Mortem - Imagine Failure Before It Happens
@@ -79,7 +51,6 @@ Bartlett’s team spent a year preparing a podcast network. Immediately before t
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Seven Questions Every Business Must Answer|The Seven Questions Every Business Must Answer]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin - Time Probability, Repeated Exposure, and Survival First|Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
@@ -87,5 +58,4 @@ Bartlett’s team spent a year preparing a podcast network. Immediately before t
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula|Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 25

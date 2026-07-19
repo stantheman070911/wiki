@@ -1,43 +1,16 @@
 ---
-title: "Finding New Ideas - Work at the Fractal Edge of Knowledge"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Finding New Ideas - Work at the Fractal Edge of Knowledge
+lang: en
 tags:
-  [
-    topic/innovation,
-    topic/research,
-    topic/learning,
-    topic/secrets,
-    topic/risk,
-    person/paul-graham,
-    source/paul-graham-essays
-  ]
-sources:
-  - id: "SRC-0046"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/Organic Startup Ideas
-      - Live in the Future and Notice What Is Missing
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness
-      - Separate Truth from Identity and Conformism
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How
-      to Find What Everyone Else Has Missed
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/How to Do
-      Great Work - Curiosity, Taste, Projects, and Endurance
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative
-      Receptivity - Awareness, Attention, and the Artist's Filter
+  - topic/innovation
+  - topic/research
+  - topic/learning
+  - topic/secrets
+  - topic/risk
+  - person/paul-graham
+  - source/paul-graham-essays
+status: draft
+updated: 2026-07-13
 ---
 
 # Finding New Ideas - Work at the Fractal Edge of Knowledge
@@ -73,7 +46,6 @@ Knowledge grows like a fractal: its edge appears smooth from afar, yet becomes m
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/Organic Startup Ideas - Live in the Future and Notice What Is Missing|Organic Startup Ideas - Live in the Future and Notice What Is Missing]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness - Separate Truth from Identity and Conformism|Independent-Mindedness - Separate Truth from Identity and Conformism]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How to Find What Everyone Else Has Missed|Secrets - How to Find What Everyone Else Has Missed]]
@@ -81,5 +53,4 @@ Knowledge grows like a fractal: its edge appears smooth from afar, yet becomes m
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Receptivity - Awareness, Attention, and the Artist's Filter|Creative Receptivity - Awareness, Attention, and the Artist's Filter]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

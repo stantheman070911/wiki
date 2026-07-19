@@ -1,44 +1,15 @@
 ---
-title: "The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone
+lang: en
 tags:
-  [
-    topic/business-model,
-    topic/agency-model,
-    topic/churn,
-    topic/pricing,
-    topic/cac,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0073"
-    role: "primary"
-  - id: "SRC-0074"
-    role: "supporting"
-date_added: "2026-07-09"
-updated: "2026-07-09"
-reviewed_on: "2026-07-09"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
-  and Customers Map
-relationships:
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
-      Through Segmented Churn
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
-      Shapes - E-commerce, Service, Education, Software
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of
-      Service Businesses
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You
-      Can't Control Price
+  - topic/business-model
+  - topic/agency-model
+  - topic/churn
+  - topic/pricing
+  - topic/cac
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-09
 ---
 
 # The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone
@@ -82,7 +53,6 @@ A digital-marketing agency serving Australian SMBs (cleaning companies, yard-wor
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of Service Businesses|The Virtuous Cycle of Service Businesses]]
@@ -90,6 +60,5 @@ A digital-marketing agency serving Australian SMBs (cleaning companies, yard-wor
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You Can't Control Price|Compete on Efficiency When You Can't Control Price]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript|Cash Cow Breakdowns - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]

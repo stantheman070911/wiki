@@ -1,50 +1,18 @@
 ---
-title: "Taste for Makers - Constraints for Designing Good Things"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Taste for Makers - Constraints for Designing Good Things
+lang: en
 tags:
-  [
-    topic/innovation,
-    topic/simplicity,
-    topic/product,
-    topic/feedback,
-    topic/skills,
-    topic/creativity,
-    person/paul-graham,
-    person/rick-rubin,
-    source/paul-graham-essays
-  ]
-sources:
-  - id: "SRC-0046"
-    role: "primary"
-  - id: "SRC-0016"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
-      Product-Discovery Loop - Launch, Learn, Evolve, Delight
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative
-      Experiments - Opposites, Constraints, A-B Tests, and Context
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Seven
-      Principles of Building an Iconic Brand
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles
-      Thinking - Reason from Physics, Not Analogy
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Success -
-      Judge the Work Before the Outcome
+  - topic/innovation
+  - topic/simplicity
+  - topic/product
+  - topic/feedback
+  - topic/skills
+  - topic/creativity
+  - person/paul-graham
+  - person/rick-rubin
+  - source/paul-graham-essays
+status: draft
+updated: 2026-07-13
 ---
 
 # Taste for Makers - Constraints for Designing Good Things
@@ -84,7 +52,6 @@ Programming languages, paintings, mathematical proofs, and physical products sha
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Seven Principles of Building an Iconic Brand|The Seven Principles of Building an Iconic Brand]]
@@ -93,6 +60,5 @@ Programming languages, paintings, mathematical proofs, and physical products sha
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Success - Judge the Work Before the Outcome|Creative Success - Judge the Work Before the Outcome]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript|The Creative Act - Raw Transcript]]

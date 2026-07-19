@@ -1,49 +1,15 @@
 ---
-title: "Every Possession Comes With a Job"
-type: "article"
-domain: "articles"
-lang: "en"
+title: Every Possession Comes With a Job
+lang: en
 tags:
-  [
-    topic/happiness,
-    topic/focus,
-    topic/opportunity-cost,
-    topic/money,
-    topic/decision-making,
-    topic/simplicity
-  ]
-sources:
-  - id: "SRC-0046"
-    role: "primary"
-  - id: "SRC-0085"
-    role: "supporting"
-  - id: "SRC-0060"
-    role: "supporting"
-  - id: "SRC-0017"
-    role: "supporting"
-  - id: "SRC-0053"
-    role: "supporting"
-  - id: "SRC-0013"
-    role: "supporting"
-  - id: "SRC-0068"
-    role: "supporting"
-date_added: "2026-07-17"
-updated: "2026-07-17"
-reviewed_on: ""
-status: "draft"
-parent_map: 07-Articles/Articles Index
-relationships:
-  - type: derives-from
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
-      Return on Time, and Money Rules
-  - type: derives-from
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time -
-      Record, Eliminate, and Consolidate
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is
-      Short - Ruthless Attention Allocation
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/決策、幸福與心智管理
+  - topic/happiness
+  - topic/focus
+  - topic/opportunity-cost
+  - topic/money
+  - topic/decision-making
+  - topic/simplicity
+status: draft
+updated: 2026-07-17
 ---
 
 # Every Possession Comes With a Job
@@ -66,7 +32,6 @@ Return to the piano. Its purchase price may be zero, but moving and tuning may n
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Derives from:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time - Record, Eliminate, and Consolidate|Know Thy Time - Record, Eliminate, and Consolidate]]
 - **Derives from:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is Short - Ruthless Attention Allocation|Life Is Short - Ruthless Attention Allocation]]
@@ -81,7 +46,6 @@ Return to the piano. Its purchase price may be zero, but moving and tuning may n
 
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript|25 Harsh Truths at 45 - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Presentations/2026-07-13_Presentation_SteveJobs_StanfordCommencementAddress_RawTranscript|Steve Jobs' 2005 Stanford Commencement Address - Raw Transcript]]

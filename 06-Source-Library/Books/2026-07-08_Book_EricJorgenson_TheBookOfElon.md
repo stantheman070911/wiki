@@ -1,19 +1,9 @@
 ---
-source_id: "SRC-0004"
-title: "The Book Of Elon"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Eric Jorgenson"
-    role: "author"
-source_type: "book"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2026"
-date_archived: "2026-07-08"
-status: "source"
+title: The Book Of Elon
+author: Eric Jorgenson
+lang: en
+published: "2026"
+archived: 2026-07-08
 ---
 
 # The Book of Elon (Eric Jorgenson) — Extraction Notes & Entry Map

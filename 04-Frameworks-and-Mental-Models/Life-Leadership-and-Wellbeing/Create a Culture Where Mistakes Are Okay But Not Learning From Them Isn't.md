@@ -1,61 +1,15 @@
 ---
-title: "Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't
+lang: en
 tags:
-  [
-    topic/culture,
-    topic/feedback,
-    topic/learning,
-    topic/leadership,
-    person/ray-dalio,
-    source/bridgewater-associates
-  ]
-sources:
-  - id: "SRC-0015"
-    role: "primary"
-    locator: "Ch. 3"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-  Leadership and Wellbeing Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/Community Quality Is
-      the Offer - Qualification, Curation, and Network Effects
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test,
-      Evaluate, and Sort People
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules
-      - Codify, Transfer, and Train Behavior
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems
-      to Get at Their Root Causes
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Perceive and Don't
-      Tolerate Problems
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and
-      Protocols to Shape How Work Is Done
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale
-      Paradox - Confront Reality Without Losing Faith
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Out-Fail the
-      Competition - Building an Experimentation System
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate
-      Meaningful Work and Meaningful Relationships
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in
-      Radical Truth and Radical Transparency
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and
-      Deal With It - Pain, Truth, and the Hyperrealist's Formula
+  - topic/culture
+  - topic/feedback
+  - topic/learning
+  - topic/leadership
+  - person/ray-dalio
+  - source/bridgewater-associates
+status: draft
+updated: 2026-07-13
 ---
 
 # Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't
@@ -90,7 +44,6 @@ Third chapter of Work Principles, directly downstream of radical transparency: a
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/Community Quality Is the Offer - Qualification, Curation, and Network Effects|Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People|Constantly Train, Test, Evaluate, and Sort People]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior|Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
@@ -104,5 +57,4 @@ Third chapter of Work Principles, directly downstream of radical transparency: a
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula|Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 3

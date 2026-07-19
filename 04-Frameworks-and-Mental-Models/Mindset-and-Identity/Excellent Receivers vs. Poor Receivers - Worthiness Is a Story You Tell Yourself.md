@@ -1,28 +1,13 @@
 ---
-title: "Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell
-  Yourself"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/mindset, topic/identity, topic/self-belief, person/t-harv-eker ]
-sources:
-  - id: "SRC-0018"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money
-      Well - The Habit Matters More Than the Amount
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint
-      - Reprogramming Thoughts, Feelings, and Actions Around Money
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Willing to
-      Self-Promote vs. Averse to Selling
+title: Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself
+lang: en
+tags:
+  - topic/mindset
+  - topic/identity
+  - topic/self-belief
+  - person/t-harv-eker
+status: draft
+updated: 2026-07-13
 ---
 
 # Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself
@@ -52,11 +37,9 @@ Wealth File #10. Eker ties poor receiving to childhood conditioning around punis
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money Well - The Habit Matters More Than the Amount|Manage Your Money Well - The Habit Matters More Than the Amount]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Willing to Self-Promote vs. Averse to Selling|Willing to Self-Promote vs. Averse to Selling]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

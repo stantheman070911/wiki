@@ -1,37 +1,13 @@
 ---
-title: "The Whisper-Tease-Shout Launch"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: The Whisper-Tease-Shout Launch
+lang: en
 tags:
-  [
-    topic/marketing,
-    topic/content-strategy,
-    topic/product,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0019"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-  Creation and Distribution Map
-relationships:
-  - type: applies
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies -
-      Recruiting Businesses to Sell for You
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and
-      Urgency - Engineering Demand with Supply and Deadlines
-  - type: is-prerequisite-for
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies -
-      Recruiting Businesses to Sell for You
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
-      Rule of 100 - Lead Generation Fundamentals
+  - topic/marketing
+  - topic/content-strategy
+  - topic/product
+  - person/alex-hormozi
+status: draft
+updated: 2026-07-18
 ---
 
 # The Whisper-Tease-Shout Launch
@@ -70,12 +46,10 @@ A launch concentrates demand into a window: promote before the product is buyabl
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies - Recruiting Businesses to Sell for You|Affiliate Armies - Recruiting Businesses to Sell for You]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and Urgency - Engineering Demand with Supply and Deadlines|Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
 - **Is prerequisite for:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies - Recruiting Businesses to Sell for You|Affiliate Armies - Recruiting Businesses to Sell for You]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript|$100M Leads]]

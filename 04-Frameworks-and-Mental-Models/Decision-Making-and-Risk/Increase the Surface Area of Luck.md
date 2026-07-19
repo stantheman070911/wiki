@@ -1,40 +1,16 @@
 ---
-title: "Increase the Surface Area of Luck"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Increase the Surface Area of Luck
+lang: en
 tags:
-  [
-    topic/risk,
-    topic/optionality,
-    topic/decision-making,
-    topic/volume,
-    topic/reps,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0103"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of
-      Investing - Diversification via Uncorrelated Return Streams
-  - type: is-applied-by
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
-      - Ads Are an At-Bats Game
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
-      and Asymmetric Bets
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law
-      of Venture Capital and Careers
+  - topic/risk
+  - topic/optionality
+  - topic/decision-making
+  - topic/volume
+  - topic/reps
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: draft
+updated: 2026-07-13
 ---
 
 # Increase the Surface Area of Luck
@@ -75,12 +51,10 @@ Priestley cites Richard Branson's repeated emphasis on luck while noting the lar
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of Investing - Diversification via Uncorrelated Return Streams|The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
 - **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law of Venture Capital and Careers|The Power Law of Venture Capital and Careers]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_WhatBillionairesDoDifferently_RawTranscript|What Billionaires Do Differently - Raw Transcript]]

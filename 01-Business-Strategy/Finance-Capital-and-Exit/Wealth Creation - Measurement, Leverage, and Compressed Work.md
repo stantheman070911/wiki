@@ -1,42 +1,16 @@
 ---
-title: "Wealth Creation - Measurement, Leverage, and Compressed Work"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Wealth Creation - Measurement, Leverage, and Compressed Work
+lang: en
 tags:
-  [
-    topic/wealth,
-    topic/value-creation,
-    topic/leverage,
-    topic/equity,
-    topic/startups,
-    person/paul-graham,
-    source/paul-graham-essays
-  ]
-sources:
-  - id: "SRC-0046"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law
-      of Venture Capital and Careers
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/Companies as
-      Philanthropy - Purpose and Building for Humanity
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Alternative Currencies -
-      Reputation, Distribution, and Equity
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
-      Return on Time, and Money Rules
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural -
-      Defending Margin Against Organizational Creep
+  - topic/wealth
+  - topic/value-creation
+  - topic/leverage
+  - topic/equity
+  - topic/startups
+  - person/paul-graham
+  - source/paul-graham-essays
+status: draft
+updated: 2026-07-13
 ---
 
 # Wealth Creation - Measurement, Leverage, and Compressed Work
@@ -72,7 +46,6 @@ Viaweb's small team built software that served many merchants, combining direct 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law of Venture Capital and Careers|The Power Law of Venture Capital and Careers]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Companies as Philanthropy - Purpose and Building for Humanity|Companies as Philanthropy - Purpose and Building for Humanity]]
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Alternative Currencies - Reputation, Distribution, and Equity|Alternative Currencies - Reputation, Distribution, and Equity]]
@@ -80,5 +53,4 @@ Viaweb's small team built software that served many merchants, combining direct 
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural - Defending Margin Against Organizational Creep|Profit Is Unnatural - Defending Margin Against Organizational Creep]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

@@ -1,33 +1,13 @@
 ---
-title: "完美主義是恐懼的偽裝：用行動與deadline打破癱瘓"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "zh"
-tags: [ topic/mindset, topic/execution, source/kim-startup-qa, person/kim ]
-sources:
-  - id: "SRC-0041"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Confidence Is a Receipt, Not a Requirement
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/賽道選擇的兩個模型：Ikigai與市場五要素
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/商業是連結與解決問題的方式：賺錢是驗證訊號而非目的
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
-      Confidence
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
-      Gratification - Patience and Inputs vs Outputs
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
-      Proficiency, Pain Tolerance, and Frustration Tolerance
+title: 完美主義是恐懼的偽裝：用行動與deadline打破癱瘓
+lang: zh
+tags:
+  - topic/mindset
+  - topic/execution
+  - source/kim-startup-qa
+  - person/kim
+status: reviewed
+updated: 2026-07-08
 ---
 
 # 完美主義是恐懼的偽裝：用行動與deadline打破癱瘓
@@ -78,7 +58,6 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **具有衍生成果:** [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
 - **相關:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/賽道選擇的兩個模型：Ikigai與市場五要素|賽道選擇的兩個模型：Ikigai與市場五要素]]
 - **相關:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/商業是連結與解決問題的方式：賺錢是驗證訊號而非目的|商業是連結與解決問題的方式：賺錢是驗證訊號而非目的]]
@@ -87,5 +66,4 @@ relationships:
 - **相關:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Conversations/2026-07-08_Conversation_阿金_創業解惑社QA整理|創業解惑社QA整理]]

@@ -1,43 +1,16 @@
 ---
-title: "The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide
+lang: en
 tags:
-  [
-    topic/brand,
-    topic/messaging,
-    topic/storytelling,
-    topic/positioning,
-    topic/identity,
-    person/donald-miller,
-    source/building-a-storybrand
-  ]
-sources:
-  - id: "SRC-0029"
-    role: "primary"
-    locator: "sections 1–2"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
-      Clever - Write Below Third Grade and Meet the Avatar
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
-      - Heros Journey, the Trojan Horse, and Handling Objections
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The
-      StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand
-      Conversion Path - Problem, Plan, and Calls to Action
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
-      Features - Sell the Identity Behind the Product
+  - topic/brand
+  - topic/messaging
+  - topic/storytelling
+  - topic/positioning
+  - topic/identity
+  - person/donald-miller
+  - source/building-a-storybrand
+status: draft
+updated: 2026-07-18
 ---
 
 # The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide
@@ -81,7 +54,6 @@ Apple shifted from feature-heavy technical messaging to positioning its products
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections|Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment|The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment]]
@@ -89,5 +61,4 @@ Apple shifted from feature-heavy technical messaging to positioning its products
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product|Values Before Features - Sell the Identity Behind the Product]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_DonaldMiller_BuildingAStoryBrand20_RawTranscript|Building a StoryBrand 2.0]] — locator: sections 1–2

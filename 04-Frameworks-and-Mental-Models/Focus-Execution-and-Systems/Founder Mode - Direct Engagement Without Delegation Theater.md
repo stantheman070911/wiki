@@ -1,45 +1,17 @@
 ---
-title: "Founder Mode - Direct Engagement Without Delegation Theater"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Founder Mode - Direct Engagement Without Delegation Theater
+lang: en
 tags:
-  [
-    topic/startups,
-    topic/management,
-    topic/leadership,
-    topic/delegation,
-    topic/org-design,
-    person/paul-graham,
-    person/matt-gray,
-    source/paul-graham-essays
-  ]
-sources:
-  - id: "SRC-0046"
-    role: "primary"
-  - id: "SRC-0106"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Two Ways a Founder Can Disappear
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Lifestyle
-      Boutique Operating Model - Team, Product Ecosystem, and Campaigns
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations -
-      Co-founders, Ownership, Possession, Control, and Vesting
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone
-      Operating a Machine to Achieve a Goal
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
-      - Who-Not-How and Planning Backward From the Goal
+  - topic/startups
+  - topic/management
+  - topic/leadership
+  - topic/delegation
+  - topic/org-design
+  - person/paul-graham
+  - person/matt-gray
+  - source/paul-graham-essays
+status: draft
+updated: 2026-07-13
 ---
 
 # Founder Mode - Direct Engagement Without Delegation Theater
@@ -80,7 +52,6 @@ Steve Jobs's involvement in product details, naming, marketing, and rehearsed la
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Two Ways a Founder Can Disappear|Two Ways a Founder Can Disappear]]
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns|The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting|Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
@@ -88,6 +59,5 @@ Steve Jobs's involvement in product details, naming, marketing, and rehearsed la
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_MattGray_WhatSteveJobsCanTeachYouAboutBusiness_RawTranscript|What Steve Jobs Can Teach You About Business - Raw Transcript]]

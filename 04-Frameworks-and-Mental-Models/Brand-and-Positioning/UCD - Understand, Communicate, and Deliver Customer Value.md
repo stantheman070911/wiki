@@ -1,50 +1,15 @@
 ---
-title: "UCD - Understand, Communicate, and Deliver Customer Value"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: UCD - Understand, Communicate, and Deliver Customer Value
+lang: en
 tags:
-  [
-    topic/value-creation,
-    topic/product,
-    topic/messaging,
-    topic/research,
-    person/wes-bush,
-    source/product-led-growth
-  ]
-sources:
-  - id: "SRC-0040"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-19"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Software Shape -
-      Survive to Product-Market Fit, Then Retain Forever
-  - type: is-applied-by
-    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
-      Slam Offer
-  - type: is-applied-by
-    target: 01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow
-      With Customer Outcomes
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth
-      Sprints - Analyze, Ask, and Act
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
-      Automation - Manual Onboarding to Fix Churn
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Bowling Alley
-      Framework - Straight-Line Onboarding and Two Bumpers
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Marketing as
-      Service - Make Change for People You Seek to Serve
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
-      MOAT Framework - Choose Freemium, Free Trial, or Demo
+  - topic/value-creation
+  - topic/product
+  - topic/messaging
+  - topic/research
+  - person/wes-bush
+  - source/product-led-growth
+status: draft
+updated: 2026-07-19
 ---
 
 # UCD - Understand, Communicate, and Deliver Customer Value
@@ -90,7 +55,6 @@ Revisit the sequence whenever signups, upgrades, retention, or expansion weaken;
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Software Shape - Survive to Product-Market Fit, Then Retain Forever|The Software Shape - Survive to Product-Market Fit, Then Retain Forever]]
 - **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
 - **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow With Customer Outcomes|Value Metrics - Price and Grow With Customer Outcomes]]
@@ -101,5 +65,4 @@ Revisit the sequence whenever signups, upgrades, retention, or expansion weaken;
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The MOAT Framework - Choose Freemium, Free Trial, or Demo|The MOAT Framework - Choose Freemium, Free Trial, or Demo]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript|Product-Led Growth]]

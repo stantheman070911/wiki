@@ -1,64 +1,17 @@
 ---
-title: "The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box
+lang: en
 tags:
-  [
-    topic/education,
-    topic/memberships,
-    topic/continuity,
-    topic/cash-flow,
-    topic/offers,
-    topic/pricing,
-    topic/moat,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-  - id: "SRC-0074"
-    role: "supporting"
-  - id: "SRC-0042"
-    role: "supporting"
-  - id: "SRC-0107"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-18"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
-      Shapes - E-commerce, Service, Education, Software
-  - type: prerequisite
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
-      Shapes - E-commerce, Service, Education, Software
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/Community Quality Is
-      the Offer - Qualification, Curation, and Network Effects
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
-      of a Perfect Business
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the
-      Overkill Bias - Why the Best Get to Teach
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
-      Alignment
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get
-      Them What They Need - The Defined-End Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Performance-Based Pricing - When
-      It Works and How Not to Get Cheated
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing
-      Offers to Fund Growth
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
-      - Ads Are an At-Bats Game
+  - topic/education
+  - topic/memberships
+  - topic/continuity
+  - topic/cash-flow
+  - topic/offers
+  - topic/pricing
+  - topic/moat
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-18
 ---
 
 # The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box
@@ -114,7 +67,6 @@ AMA 3 adds the strongest form of this model: hair-extension and permanent-makeup
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
 - **Prerequisite:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Community Quality Is the Offer - Qualification, Curation, and Network Effects|Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
@@ -127,7 +79,6 @@ AMA 3 adds the strongest form of this model: hair-extension and permanent-makeup
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]
 - **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

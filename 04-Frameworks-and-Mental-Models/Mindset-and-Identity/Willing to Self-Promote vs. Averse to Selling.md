@@ -1,27 +1,13 @@
 ---
-title: "Willing to Self-Promote vs. Averse to Selling"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/persuasion, topic/marketing, topic/mindset, person/t-harv-eker ]
-sources:
-  - id: "SRC-0018"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich
-      People Model Winners, Poor People Hang Around Losers
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Excellent Receivers
-      vs. Poor Receivers - Worthiness Is a Story You Tell Yourself
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think
-      Small - The Law of Income
+title: Willing to Self-Promote vs. Averse to Selling
+lang: en
+tags:
+  - topic/persuasion
+  - topic/marketing
+  - topic/mindset
+  - person/t-harv-eker
+status: draft
+updated: 2026-07-13
 ---
 
 # Willing to Self-Promote vs. Averse to Selling
@@ -48,11 +34,9 @@ Wealth File #8. Eker locates aversion to selling as one of the more disguised bl
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich People Model Winners, Poor People Hang Around Losers|Association - Rich People Model Winners, Poor People Hang Around Losers]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself|Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think Small - The Law of Income|Think Big vs. Think Small - The Law of Income]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

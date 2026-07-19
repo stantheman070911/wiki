@@ -1,19 +1,9 @@
 ---
-source_id: "SRC-0040"
-title: "Product-Led Growth"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Wes Bush"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2019"
-date_archived: "2026-07-18"
-status: "source"
+title: Product-Led Growth
+author: Wes Bush
+lang: en
+published: "2019"
+archived: 2026-07-18
 ---
 
 PRODUCT-LED

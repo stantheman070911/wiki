@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0077"
-title: "Customer Acquisition, Offers, and Ads Playbook - Raw Transcript"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Sabri Suby"
-    role: "creator"
-source_type: "video"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-10"
-status: "source"
+title: Customer Acquisition, Offers, and Ads Playbook - Raw Transcript
+author: Sabri Suby
+lang: en
+archived: 2026-07-10
 ---
 
 Raw transcript, triaged from the retired inbox item “Transcript of Sabri Suby videos.md”. Four separate YouTube videos by Sabri Suby (founder of King Kong, a $250M+ agency; Shark Tank Australia) concatenated in the source dump: (1) the CAC/LTV/payback-period math plus the Godfather Offer and Halo Strategy frameworks, (2) three marketing mistakes, (3) a Facebook ads / hyperdopamine-ad playbook, (4) seven business truths from 17 years running an agency.

@@ -1,78 +1,15 @@
 ---
-title: "Fix the Bottleneck, Not Everything"
-type: "article"
-domain: "articles"
-lang: "en"
+title: Fix the Bottleneck, Not Everything
+lang: en
 tags:
-  [
-    topic/theory-of-constraints,
-    topic/focus,
-    topic/prioritization,
-    topic/decision-making,
-    topic/scaling,
-    topic/simplification
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-  - id: "SRC-0042"
-    role: "supporting"
-  - id: "SRC-0030"
-    role: "supporting"
-  - id: "SRC-0073"
-    role: "supporting"
-  - id: "SRC-0074"
-    role: "supporting"
-  - id: "SRC-0084"
-    role: "supporting"
-  - id: "SRC-0026"
-    role: "supporting"
-  - id: "SRC-0055"
-    role: "supporting"
-  - id: "SRC-0004"
-    role: "supporting"
-  - id: "SRC-0059"
-    role: "supporting"
-date_added: "2026-07-10"
-updated: "2026-07-10"
-reviewed_on: ""
-status: "draft"
-parent_map: 07-Articles/Articles Index
-relationships:
-  - type: derives-from
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
-  - type: derives-from
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-6-Optimize
-  - type: derives-from
-    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
-      Manufacturing as the Moat
-  - type: derives-from
-    target: 01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills
-      診斷、1-1-1 與萬能前門
-  - type: derives-from
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm -
-      Musk's Five-Step Process Method
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the
-      Problem You Have, Not the One You're Afraid Of
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
-      Supply
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Greener-Pasture Fallacy
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Dependent
-      Events and Statistical Fluctuations - Why Balanced Capacity Fails
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of
-      Constraints - The Five Focusing Steps
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput
-      Accounting - Manage the System, Not Local Costs
+  - topic/theory-of-constraints
+  - topic/focus
+  - topic/prioritization
+  - topic/decision-making
+  - topic/scaling
+  - topic/simplification
+status: draft
+updated: 2026-07-10
 ---
 
 # Fix the Bottleneck, Not Everything
@@ -95,7 +32,6 @@ Progress is not how many things are moving. It is whether the bottleneck moved.
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Derives from:** [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
 - **Derives from:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-6-Optimize|$100M 擴張路線圖 · Stage 6：Optimize 優化]]
 - **Derives from:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]
@@ -121,7 +57,6 @@ Progress is not how many things are moving. It is whether the bottleneck moved.
 
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
 - **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Books/2026-07-18_Book_EliyahuMGoldrattJeffCox_TheGoal_RawTranscript|The Goal]]

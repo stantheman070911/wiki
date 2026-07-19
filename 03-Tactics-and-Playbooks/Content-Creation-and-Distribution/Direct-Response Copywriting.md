@@ -1,37 +1,15 @@
 ---
-title: "Direct-Response Copywriting - NEWIF, the Nine Questions, and Three
-  Conversion-Killing Mistakes"
+title: Direct-Response Copywriting - NEWIF, the Nine Questions, and Three Conversion-Killing Mistakes
 aliases:
-  - "Direct-Response Copywriting - NEWIF, the Nine Questions, and Three
-    Conversion-Killing Mistakes"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
-tags: [ topic/copywriting, topic/persuasion, topic/proof, person/sabri-suby ]
-sources:
-  - id: "SRC-0078"
-    role: "primary"
-date_added: "2026-07-10"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-  Creation and Distribution Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A
-      Seven-Part Framework for an Irresistible Offer
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid
-      and the Halo Strategy
-  - type: has-derivative
-    target: 07-Articles/Change the Comparison Before You Change the Price
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hyperdopamine
-      Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
-      Proof, Path - Engineering the Video Intro
+  - Direct-Response Copywriting - NEWIF, the Nine Questions, and Three Conversion-Killing Mistakes
+lang: en
+tags:
+  - topic/copywriting
+  - topic/persuasion
+  - topic/proof
+  - person/sabri-suby
+status: draft
+updated: 2026-07-13
 ---
 
 # Direct-Response Copywriting - NEWIF, the Nine Questions, and Three Conversion-Killing Mistakes
@@ -95,7 +73,6 @@ Following this formula tends to make messaging polarizing — Suby's view is tha
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A Seven-Part Framework for an Irresistible Offer|The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]]
 - **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid and the Halo Strategy|The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
 - **Has derivative:** [[07-Articles/Change the Comparison Before You Change the Price|Change the Comparison Before You Change the Price]]
@@ -103,5 +80,4 @@ Following this formula tends to make messaging polarizing — Suby's view is tha
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook|Customer Acquisition, Offers, And Ads Playbook]]

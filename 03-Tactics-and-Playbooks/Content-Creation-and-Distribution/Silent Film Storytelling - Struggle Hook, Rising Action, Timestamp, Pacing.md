@@ -1,47 +1,14 @@
 ---
-title: "Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing
+lang: en
 tags:
-  [
-    topic/storytelling,
-    topic/short-form-video,
-    topic/content-strategy,
-    topic/hooks,
-    person/jun-yuh
-  ]
-sources:
-  - id: "SRC-0076"
-    role: "primary"
-  - id: "SRC-0057"
-    role: "supporting"
-date_added: "2026-07-10"
-updated: "2026-07-10"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-  Creation and Distribution Map
-relationships:
-  - type: applies
-    target: 02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why
-  - type: has-derivative
-    target: 07-Articles/Steal the Format, Not the Idea
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-      Planner and the Analyze-Double-Down Loop
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down
-      and the 70-20-10 Rule - Templatizing Viral Outliers
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking
-      Attention - Topic, Format, Hook and the Content Engine
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
-      Proof, Path - Engineering the Video Intro
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence -
-      Build in Public, Daily Cadence, Post-Launch Loop
+  - topic/storytelling
+  - topic/short-form-video
+  - topic/content-strategy
+  - topic/hooks
+  - person/jun-yuh
+status: draft
+updated: 2026-07-10
 ---
 
 # Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing
@@ -81,7 +48,6 @@ This is the "double-down" loop in practice: once a format like this wins, templa
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why|Creator Vision Framework: What x Who x Why]]
 - **Has derivative:** [[07-Articles/Steal the Format, Not the Idea|Steal the Format, Not the Idea]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Planner and the Analyze-Double-Down Loop|Content Planner and the Analyze-Double-Down Loop]]
@@ -91,6 +57,5 @@ This is the "double-down" loop in practice: once a format like this wins, templa
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop|The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-10_Video_JunYuh_HowToStartAPersonalBrandFromScratch2026|4 Steps On How To Start Your Personal Brand From Scratch In 2026]]
 - **supporting:** [[06-Source-Library/Podcasts/2026-07-10_Podcast_JunYuh_HowToBlowUpAnyPersonalBrand2026_The505Podcast|How To Blow Up ANY Personal Brand in 2026 (and Get Rich) — ft Jun Yuh (THE 505 PODCAST)]]

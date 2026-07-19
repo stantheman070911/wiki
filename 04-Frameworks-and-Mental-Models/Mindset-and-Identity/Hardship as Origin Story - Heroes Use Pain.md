@@ -1,44 +1,12 @@
 ---
-title: "Hardship as Origin Story - Heroes Use Pain"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/mindset, topic/storytelling, person/alex-hormozi ]
-sources:
-  - id: "SRC-0068"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/Companies as
-      Philanthropy - Purpose and Building for Humanity
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
-      and Asymmetric Bets
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and
-      the Blame-Power Law
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status
-      Signal - Shame, Guilt, and Documenting the Struggle
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite
-      Games - Winning by Emptying the Tank
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Reframing Trauma
-      and Labels - Logic, Evidence, Utility
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the
-      Hero's Journey - The Founder Archetype Who Builds Against Doubt
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
-      Proficiency, Pain Tolerance, and Frustration Tolerance
+title: Hardship as Origin Story - Heroes Use Pain
+lang: en
+tags:
+  - topic/mindset
+  - topic/storytelling
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Hardship as Origin Story - Heroes Use Pain
@@ -70,7 +38,6 @@ Hormozi reframes suffering as neither avoidable nor meaningless but as the raw m
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/Companies as Philanthropy - Purpose and Building for Humanity|Companies as Philanthropy - Purpose and Building for Humanity]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and the Blame-Power Law|Accountability and the Blame-Power Law]]
@@ -82,5 +49,4 @@ Hormozi reframes suffering as neither avoidable nor meaningless but as the raw m
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]

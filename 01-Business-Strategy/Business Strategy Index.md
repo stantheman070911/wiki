@@ -1,12 +1,7 @@
 ---
-title: "Business Strategy"
-title_zh: "商業策略"
-type: "domain-index"
-domain: "business-strategy"
-lang: "en"
-updated: "2026-07-19"
-status: "evergreen"
-owner: "stanley-lu"
+title: Business Strategy
+title_zh: 商業策略
+lang: en
 ---
 
 # Business Strategy
@@ -38,7 +33,6 @@ Belongs here: markets, business models, positioning, pricing, growth, org strate
 - **Related playbook:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
 - **Major series:** [[$100M Scaling Roadmap Overview|$100M Scaling Roadmap]] · [[連鎖經營學總覽|連鎖經營學]]
 - **Additional guided paths:** [[投資人與合夥人的選擇框架：股權結構與價值觀篩選|Finance and partner selection]] · [[多角化與規模化的判斷準則：一尺寬不如一萬尺深|Growth and diversification]] · [[Direct vs Brand Marketing - Measure Action, Build Culture Patiently|Direct versus brand marketing]] · [[The Marketing Playground - Problem, Process, and Prize Experiences|Marketing experiences]]
-- **Complete static inventory:** [[Portable Index|Portable Index — Business Strategy]]
 
 ## Index
 
@@ -47,41 +41,37 @@ Belongs here: markets, business models, positioning, pricing, growth, org strate
 ### Pricing & Offers
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", type AS "Type", lang AS "Lang", tags AS "Tags", date_added AS "Added"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "01-Business-Strategy/Pricing-and-Offers"
-WHERE type != "subdomain-index"
-AND contains(list("draft", "reviewed", "evergreen"), status)
-SORT date_added DESC
+WHERE status
+SORT file.name ASC
 ```
 
 ### Positioning & Branding
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", type AS "Type", lang AS "Lang", tags AS "Tags", date_added AS "Added"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "01-Business-Strategy/Positioning-and-Branding"
-WHERE type != "subdomain-index"
-AND contains(list("draft", "reviewed", "evergreen"), status)
-SORT date_added DESC
+WHERE status
+SORT file.name ASC
 ```
 
 ### Growth & Scaling
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", type AS "Type", lang AS "Lang", tags AS "Tags", date_added AS "Added"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "01-Business-Strategy/Growth-and-Scaling"
-WHERE type != "subdomain-index"
-AND contains(list("draft", "reviewed", "evergreen"), status)
-SORT date_added DESC
+WHERE status
+SORT file.name ASC
 ```
 
 ### Traffic & Acquisition
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", type AS "Type", lang AS "Lang", tags AS "Tags", date_added AS "Added"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "01-Business-Strategy/Traffic-and-Acquisition"
-WHERE type != "subdomain-index"
-AND contains(list("draft", "reviewed", "evergreen"), status)
-SORT date_added DESC
+WHERE status
+SORT file.name ASC
 ```
 
 ### Business Models & Customers
@@ -91,11 +81,10 @@ Inventory ownership: [[01-Business-Strategy/Business-Models-and-Customers/Busine
 ### Finance Capital & Exit
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", type AS "Type", lang AS "Lang", tags AS "Tags", date_added AS "Added"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "01-Business-Strategy/Finance-Capital-and-Exit"
-WHERE type != "subdomain-index"
-AND contains(list("draft", "reviewed", "evergreen"), status)
-SORT date_added DESC
+WHERE status
+SORT file.name ASC
 ```
 
 ### Series

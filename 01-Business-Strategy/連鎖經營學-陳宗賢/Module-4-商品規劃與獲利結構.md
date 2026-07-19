@@ -1,42 +1,17 @@
 ---
-title: "連鎖經營學 · Module 4：商品規劃與獲利結構"
+title: 連鎖經營學 · Module 4：商品規劃與獲利結構
 aliases:
-  - "連鎖經營學 · Module 4：商品規劃與獲利結構"
-type: "series-entry"
-domain: "business-strategy"
-series: "連鎖經營學"
-lang: "zh"
+  - 連鎖經營學 · Module 4：商品規劃與獲利結構
+lang: zh
 tags:
-  [
-    topic/chain-store,
-    topic/product,
-    topic/unit-economics,
-    topic/scaling,
-    person/chen-tsung-hsien
-  ]
-sources:
-  - id: "SRC-0044"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
-relationships:
-  - type: derives-from
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-5-商圈開發與市場行銷
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-8-財務會計與獲利核心
-  - type: prerequisite
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-3-品牌四大共識與市場定位
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
-      Manufacturing as the Moat
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
+  - topic/chain-store
+  - topic/product
+  - topic/unit-economics
+  - topic/scaling
+  - person/chen-tsung-hsien
+status: reviewed
+updated: 2026-07-08
+series: 連鎖經營學
 ---
 
 # 連鎖經營學 · Module 4：商品規劃與獲利結構
@@ -101,7 +76,6 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **衍生自:** [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
 - **是其前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-5-商圈開發與市場行銷|連鎖經營學 · Module 5：商圈開發與市場行銷]]
 - **是其前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-8-財務會計與獲利核心|連鎖經營學 · Module 8：財務會計與獲利核心]]
@@ -110,5 +84,4 @@ relationships:
 - **相關:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]

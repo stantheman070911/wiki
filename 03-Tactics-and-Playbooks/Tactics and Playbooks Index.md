@@ -1,12 +1,7 @@
 ---
-title: "Tactics and Playbooks"
-title_zh: "戰術與執行手冊"
-type: "domain-index"
-domain: "tactics-and-playbooks"
-lang: "en"
-updated: "2026-07-19"
-status: "evergreen"
-owner: "stanley-lu"
+title: Tactics and Playbooks
+title_zh: 戰術與執行手冊
+lang: en
 ---
 
 # Tactics and Playbooks
@@ -40,7 +35,6 @@ Belongs here: repeatable execution steps, checklists, workflows, and operating p
 - **Operations map:** [[Operations and Productivity Map]]
 - **Additional guided paths:** [[Permission and Remarkability - Own Attention and Design Word of Mouth|Permission and word of mouth]] · [[The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid|Podcast guest progression]] · [[家族企業與伴侶共創的邊界設計：分工、拍板與共同改善會議|Family-business and partner boundaries]]
 - **Major series:** none currently; ordered collections require a `series-hub` and explicit `series` metadata.
-- **Complete static inventory:** [[Portable Index|Portable Index — Tactics and Playbooks]]
 
 ## Index
 
@@ -53,11 +47,10 @@ Inventory ownership: [[03-Tactics-and-Playbooks/Content-Creation-and-Distributio
 ### Audience Growth
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "03-Tactics-and-Playbooks/Audience-Growth"
-WHERE type = "playbook"
-AND contains(list("draft", "reviewed", "evergreen"), status)
-SORT date_added DESC
+WHERE status
+SORT file.name ASC
 ```
 
 ### Sales & Lead Generation
@@ -67,11 +60,10 @@ Inventory ownership: [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales 
 ### Hiring & Team
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "03-Tactics-and-Playbooks/Hiring-and-Team"
-WHERE type = "playbook"
-AND contains(list("draft", "reviewed", "evergreen"), status)
-SORT date_added DESC
+WHERE status
+SORT file.name ASC
 ```
 
 ### Operations & Productivity
@@ -81,9 +73,8 @@ Inventory ownership: [[03-Tactics-and-Playbooks/Operations-and-Productivity/Oper
 ### Wealth & Skill Building
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "03-Tactics-and-Playbooks/Wealth-and-Skill-Building"
-WHERE type = "playbook"
-AND contains(list("draft", "reviewed", "evergreen"), status)
-SORT date_added DESC
+WHERE status
+SORT file.name ASC
 ```

@@ -1,20 +1,10 @@
 ---
-source_id: "SRC-0049"
-title: "Alex Hormozi on Modern Wisdom with Chris Williamson"
+title: Alex Hormozi on Modern Wisdom with Chris Williamson
 aliases:
-  - "Alex Hormozi × Chris Williamson — Modern Wisdom"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Modern Wisdom"
-    role: "creator"
-source_type: "podcast"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "zh"
-processing_status: "processed"
-date_archived: "2026-07-01"
-status: "source"
+  - Alex Hormozi × Chris Williamson — Modern Wisdom
+author: Modern Wisdom
+lang: en
+archived: 2026-07-01
 ---
 
 # Alex Hormozi on Modern Wisdom with Chris Williamson

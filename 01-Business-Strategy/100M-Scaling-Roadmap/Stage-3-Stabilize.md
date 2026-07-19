@@ -1,40 +1,18 @@
 ---
-title: "$100M 擴張路線圖 · Stage 3：Stabilize 穩定"
+title: $100M 擴張路線圖 · Stage 3：Stabilize 穩定
 aliases:
-  - "$100M 擴張路線圖 · Stage 3：Stabilize 穩定"
-type: "series-entry"
-domain: "business-strategy"
-series: "$100M Scaling Roadmap"
-lang: "zh"
+  - $100M 擴張路線圖 · Stage 3：Stabilize 穩定
+lang: zh
 tags:
-  [
-    topic/scaling,
-    source/acquisition-100m-roadmap,
-    topic/delegation,
-    topic/hiring,
-    topic/operations,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0059"
-    role: "primary"
-    locator: "Stage 3"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利
-  - type: derives-from
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-4-Prioritize
-  - type: prerequisite
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-2-Advertise
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/全代操短影音代理商商業模式
+  - topic/scaling
+  - source/acquisition-100m-roadmap
+  - topic/delegation
+  - topic/hiring
+  - topic/operations
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
+series: $100M Scaling Roadmap
 ---
 
 # $100M 擴張路線圖 · Stage 3：Stabilize 穩定
@@ -94,7 +72,6 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **應用於:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利|招募、領導與地理紅利]]
 - **衍生自:** [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
 - **是其前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-4-Prioritize|$100M 擴張路線圖 · Stage 4：Prioritize 取捨]]
@@ -102,5 +79,4 @@ relationships:
 - **相關:** [[01-Business-Strategy/Business-Models-and-Customers/全代操短影音代理商商業模式|全代操短影音代理商商業模式]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap|$100M Scaling Roadmap（Personalized Guide）]] — locator: Stage 3

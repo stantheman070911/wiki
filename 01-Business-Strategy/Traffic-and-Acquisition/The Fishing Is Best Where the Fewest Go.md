@@ -1,46 +1,15 @@
 ---
-title: "The Fishing Is Best Where the Fewest Go - Underpriced Channels and the
-  Contrarian Move"
+title: The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move
 aliases:
-  - "The Fishing Is Best Where the Fewest Go - Underpriced Channels and the
-    Contrarian Move"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+  - The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move
+lang: en
 tags:
-  [
-    topic/channel-strategy,
-    topic/differentiation,
-    topic/marketing,
-    person/sabri-suby
-  ]
-sources:
-  - id: "SRC-0084"
-    role: "primary"
-date_added: "2026-07-12"
-updated: "2026-07-12"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How
-      to Find What Everyone Else Has Missed
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Hard Road
-      Is the Right Road - Second-Order Thinking and Effort Moats
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bullseye
-      - Test All Channels, Then Focus on One
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product
-      - The Best-Known Wins, Not the Best
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors
-      Down - The $50M Price-Cut Lesson
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
-      - Ads Are an At-Bats Game
+  - topic/channel-strategy
+  - topic/differentiation
+  - topic/marketing
+  - person/sabri-suby
+status: draft
+updated: 2026-07-12
 ---
 
 # The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move
@@ -71,7 +40,6 @@ Copying the biggest competitors' funnels and ads feels safe but guarantees you c
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How to Find What Everyone Else Has Missed|Secrets - How to Find What Everyone Else Has Missed]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats|The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bullseye - Test All Channels, Then Focus on One|Bullseye - Test All Channels, Then Focus on One]]
@@ -80,5 +48,4 @@ Copying the biggest competitors' funnels and ads feels safe but guarantees you c
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]

@@ -1,25 +1,16 @@
 ---
-title: "How In-Person Training Businesses Really Work"
-type: "report"
-domain: "reports"
-lang: "en"
-status: "draft"
-generated_on: "2026-07-18"
-derived_from:
-  - "01-Business-Strategy/Business Strategy Index"
-  - "03-Tactics-and-Playbooks/Tactics and Playbooks Index"
-  - "04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index"
-  - "05-Intelligence-and-Research/Intelligence and Research Index"
-  - "06-Source-Library/Source Library Index"
-supersedes: []
-owner: "stanley-lu"
+title: How In-Person Training Businesses Really Work
+lang: en
+tags:
+  - topic/service-business
+  - topic/local-services
+status: draft
 ---
 
 # How In-Person Training Businesses Really Work
 
 ## Derivation roots
 
-<!-- generated from frontmatter derived_from; do not edit by hand -->
 - [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 - [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 - [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]

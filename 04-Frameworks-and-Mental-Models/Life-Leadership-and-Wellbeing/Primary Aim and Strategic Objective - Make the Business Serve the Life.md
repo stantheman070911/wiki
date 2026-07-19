@@ -1,51 +1,17 @@
 ---
-title: "Primary Aim and Strategic Objective - Make the Business Serve the Life"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Primary Aim and Strategic Objective - Make the Business Serve the Life
+lang: en
 tags:
-  [
-    topic/decision-making,
-    topic/mission,
-    topic/leadership,
-    topic/focus,
-    topic/business-model,
-    topic/wealth,
-    person/michael-gerber,
-    source/e-myth-revisited
-  ]
-sources:
-  - id: "SRC-0011"
-    role: "primary"
-    locator: "chapters 11–13"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-  Leadership and Wellbeing Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle -
-      Recover Time, Capital, and Better Judgment
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/The Seven Levels of Business
-      Growth - From Side Hustle to Exit
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Preserve the Core,
-      Stimulate Progress - Build an Institution That Can Evolve
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules
-      - Codify, Transfer, and Train Behavior
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5A
-      Operating System
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Effective Executive - Five Learnable Practices
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
-      - Who-Not-How and Planning Backward From the Goal
+  - topic/decision-making
+  - topic/mission
+  - topic/leadership
+  - topic/focus
+  - topic/business-model
+  - topic/wealth
+  - person/michael-gerber
+  - source/e-myth-revisited
+status: draft
+updated: 2026-07-13
 ---
 
 # Primary Aim and Strategic Objective - Make the Business Serve the Life
@@ -90,7 +56,6 @@ Sarah reframes her pie shops around “caring” rather than pies, sets a seven-
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment|Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment]]
 - **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/The Seven Levels of Business Growth - From Side Hustle to Exit|The Seven Levels of Business Growth - From Side Hustle to Exit]]
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve|Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
@@ -100,5 +65,4 @@ Sarah reframes her pie shops around “caring” rather than pies, sets a seven-
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript|The E-Myth Revisited - Raw Transcript]] — locator: chapters 11–13

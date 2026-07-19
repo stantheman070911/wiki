@@ -1,43 +1,15 @@
 ---
-title: "Adaptive Leadership - Consistent Standards, Individual Treatment"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Adaptive Leadership - Consistent Standards, Individual Treatment
+lang: en
 tags:
-  [
-    topic/leadership,
-    topic/management,
-    topic/feedback,
-    topic/identity,
-    topic/org-design,
-    person/steven-bartlett
-  ]
-sources:
-  - id: "SRC-0017"
-    role: "primary"
-    locator: "Law 32"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-  Leadership and Wellbeing Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test,
-      Evaluate, and Sort People
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Soft Skills
-      Are Observable Behavior Chains
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5
-      Leadership - Humility and Professional Will
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Task-Relevant
-      Maturity
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That
-      People Are Wired Very Differently
+  - topic/leadership
+  - topic/management
+  - topic/feedback
+  - topic/identity
+  - topic/org-design
+  - person/steven-bartlett
+status: draft
+updated: 2026-07-13
 ---
 
 # Adaptive Leadership - Consistent Standards, Individual Treatment
@@ -81,7 +53,6 @@ Sir Alex Ferguson’s former players described sharply different treatment: some
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People|Constantly Train, Test, Evaluate, and Sort People]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Soft Skills Are Observable Behavior Chains|Soft Skills Are Observable Behavior Chains]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5 Leadership - Humility and Professional Will|Level 5 Leadership - Humility and Professional Will]]
@@ -89,5 +60,4 @@ Sir Alex Ferguson’s former players described sharply different treatment: some
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That People Are Wired Very Differently|Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 32

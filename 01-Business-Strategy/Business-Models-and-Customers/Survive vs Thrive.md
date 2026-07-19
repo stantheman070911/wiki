@@ -1,49 +1,17 @@
 ---
-title: "Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into
-  Lifetime Value"
+title: Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value
 aliases:
-  - "Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into
-    Lifetime Value"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+  - Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value
+lang: en
 tags:
-  [
-    topic/ltv,
-    topic/offers,
-    topic/memberships,
-    topic/positioning,
-    topic/retention,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
-  and Customers Map
-relationships:
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
-      Period - The Three Numbers That Decide If You Win
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
-      Alignment
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
-      Discount - Make the Difference Obvious
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get
-      Them What They Need - The Defined-End Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
-      Traffic Before the Core Offer
+  - topic/ltv
+  - topic/offers
+  - topic/memberships
+  - topic/positioning
+  - topic/retention
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value
@@ -88,7 +56,6 @@ A mobile IV-drip business had a $278 Google CAC, ~$454 LTV, and could not decomm
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle Alignment|Billing-Cycle vs Value-Cycle Alignment]]
@@ -97,5 +64,4 @@ A mobile IV-drip business had a $278 Google CAC, ~$454 LTV, and could not decomm
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold Traffic Before the Core Offer|The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

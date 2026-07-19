@@ -1,59 +1,16 @@
 ---
-title: "Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale,
-  and Branding"
+title: Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding
 aliases:
-  - "Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and
-    Branding"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+  - Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding
+lang: en
 tags:
-  [
-    topic/monopoly,
-    topic/scaling,
-    topic/moat,
-    topic/cash-flow,
-    person/peter-thiel
-  ]
-sources:
-  - id: "SRC-0014"
-    role: "primary"
-    locator: "ch. 5"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Megapolitics -
-      How Technology Changes the Returns to Violence
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law
-      of Venture Capital and Careers
-  - type: has-example
-    target: 05-Intelligence-and-Research/Technology Platforms - How New Protocols
-      and Tools Shift Power
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business
-      Redesign - Speed to Value and Experience Moats
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Seven Questions
-      Every Business Must Answer
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Alternative Currencies -
-      Reputation, Distribution, and Equity
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
-      Period - The Three Numbers That Decide If You Win
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a
-      Force Multiplier
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/The TAM Illusion
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition -
-      Why All Happy Companies Are Different
+  - topic/monopoly
+  - topic/scaling
+  - topic/moat
+  - topic/cash-flow
+  - person/peter-thiel
+status: reviewed
+updated: 2026-07-13
 ---
 
 # Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding
@@ -91,7 +48,6 @@ First-mover status is a tactic, not a goal — it only matters if you can defend
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Megapolitics - How Technology Changes the Returns to Violence|Megapolitics - How Technology Changes the Returns to Violence]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law of Venture Capital and Careers|The Power Law of Venture Capital and Careers]]
 - **Has example:** [[05-Intelligence-and-Research/Technology Platforms - How New Protocols and Tools Shift Power|Technology Platforms - How New Protocols and Tools Shift Power]]
@@ -104,5 +60,4 @@ First-mover status is a tactic, not a goal — it only matters if you can defend
 - **Related:** [[01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition - Why All Happy Companies Are Different|Monopoly vs. Competition - Why All Happy Companies Are Different]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 5

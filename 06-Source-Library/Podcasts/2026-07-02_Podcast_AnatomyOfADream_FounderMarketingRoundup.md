@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0051"
-title: "Founder Marketing Roundup"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Anatomy Of ADream"
-    role: "creator"
-source_type: "podcast"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "zh"
-processing_status: "processed"
-date_archived: "2026-07-02"
-status: "source"
+title: Founder Marketing Roundup
+author: Anatomy Of ADream
+lang: en
+archived: 2026-07-02
 ---
 
 # 創辦人、品牌與社群媒體實戰手冊 — 彙整筆記

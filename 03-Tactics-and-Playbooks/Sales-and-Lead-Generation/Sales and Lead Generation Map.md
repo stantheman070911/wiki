@@ -1,12 +1,7 @@
 ---
-title: "Sales and Lead Generation Map"
-title_zh: "銷售與潛在客戶開發導覽"
-type: "subdomain-index"
-domain: "tactics-and-playbooks"
-lang: "en"
-updated: "2026-07-19"
-status: "evergreen"
-owner: "stanley-lu"
+title: Sales and Lead Generation Map
+title_zh: 銷售與潛在客戶開發導覽
+lang: en
 ---
 
 # Sales and Lead Generation Map
@@ -98,9 +93,8 @@ This folder remains flat because acquisition, discovery, teaching, and closing f
 ## Inventory
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Topics", status AS "Status", updated AS "Updated"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "03-Tactics-and-Playbooks/Sales-and-Lead-Generation"
-WHERE type = "playbook"
-AND contains(list("draft", "reviewed", "evergreen"), status)
+WHERE status
 SORT file.name ASC
 ```

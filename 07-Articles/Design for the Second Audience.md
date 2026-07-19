@@ -1,53 +1,15 @@
 ---
-title: "Design for the Second Audience"
-type: "article"
-domain: "articles"
-lang: "en"
+title: Design for the Second Audience
+lang: en
 tags:
-  [
-    topic/word-of-mouth,
-    topic/brand,
-    topic/distribution,
-    topic/marketing,
-    topic/persuasion,
-    topic/proof
-  ]
-sources:
-  - id: "SRC-0033"
-    role: "primary"
-  - id: "SRC-0002"
-    role: "supporting"
-  - id: "SRC-0050"
-    role: "supporting"
-  - id: "SRC-0042"
-    role: "supporting"
-  - id: "SRC-0017"
-    role: "supporting"
-  - id: "SRC-0066"
-    role: "supporting"
-  - id: "SRC-0106"
-    role: "supporting"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 07-Articles/Articles Index
-relationships:
-  - type: derives-from
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
-      Create - Engineering Proof at Scale
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a
-      Brand Signal
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
-      Actually Is - Association, Influence, Direction, Reach
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
-      Observability and Behavioral Residue
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
-      Liking, Authority, and Scarcity - The Four Social Shortcuts
+  - topic/word-of-mouth
+  - topic/brand
+  - topic/distribution
+  - topic/marketing
+  - topic/persuasion
+  - topic/proof
+status: draft
+updated: 2026-07-18
 ---
 
 # Design for the Second Audience
@@ -72,7 +34,6 @@ Return to the PowerBook. Apple did not place an advertisement beside the product
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Derives from:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]
 - **Derives from:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a Brand Signal|Absurdity as a Brand Signal]]
 - **Derives from:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
@@ -88,7 +49,6 @@ Return to the PowerBook. Apple did not place an advertisement beside the product
 
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_JonahBerger_Contagious|Contagious: Why Things Catch On]]
 - **supporting:** [[06-Source-Library/Books/2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion|Influence Psychology Of Persuasion]]
 - **supporting:** [[06-Source-Library/Podcasts/2026-07-02_Podcast_AlexHormozi_PersonalBrandVsAI|Personal Brand vs. AI]]

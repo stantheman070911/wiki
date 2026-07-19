@@ -1,19 +1,9 @@
 ---
-source_id: "SRC-0012"
-title: "Skin in the Game - Raw Transcript"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Nassim Nicholas Taleb"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2018"
-date_archived: "2026-07-13"
-status: "source"
+title: Skin in the Game - Raw Transcript
+author: Nassim Nicholas Taleb
+lang: en
+published: "2018"
+archived: 2026-07-13
 ---
 
 

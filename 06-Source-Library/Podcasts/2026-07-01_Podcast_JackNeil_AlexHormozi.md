@@ -1,20 +1,10 @@
 ---
-source_id: "SRC-0047"
-title: "Alex Hormozi on the Jack Neil Podcast"
+title: Alex Hormozi on the Jack Neil Podcast
 aliases:
-  - "Alex Hormozi — Jack Neil Podcast"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Jack Neil"
-    role: "creator"
-source_type: "podcast"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "zh"
-processing_status: "processed"
-date_archived: "2026-07-01"
-status: "source"
+  - Alex Hormozi — Jack Neil Podcast
+author: Jack Neil
+lang: en
+archived: 2026-07-01
 ---
 
 # Alex Hormozi on the Jack Neil Podcast

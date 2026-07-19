@@ -1,46 +1,14 @@
 ---
-title: "Creative Cooperation - Feedback, Friction, and Choice C"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Creative Cooperation - Feedback, Friction, and Choice C
+lang: en
 tags:
-  [
-    topic/creativity,
-    topic/feedback,
-    topic/decision-making,
-    topic/leadership,
-    person/rick-rubin
-  ]
-sources:
-  - id: "SRC-0016"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-  Leadership and Wellbeing Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Disagreement Needs a Finish Line
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative
-      Experiments - Opposites, Constraints, A-B Tests, and Context
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
-      Open-Minded
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How
-      to Get Beyond Disagreements
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Five
-      Energies of Execution - Vision, Strategy, People, Work, Refinement
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and
-      Stay in Sync
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With
-      Agreement - Keep the Other Mind Open
+  - topic/creativity
+  - topic/feedback
+  - topic/decision-making
+  - topic/leadership
+  - person/rick-rubin
+status: draft
+updated: 2026-07-13
 ---
 
 # Creative Cooperation - Feedback, Friction, and Choice C
@@ -86,7 +54,6 @@ Rubin compares cooperation to a jazz ensemble: members alternately lead, support
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Disagreement Needs a Finish Line|Disagreement Needs a Finish Line]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
@@ -96,5 +63,4 @@ Rubin compares cooperation to a jazz ensemble: members alternately lead, support
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open|Start With Agreement - Keep the Other Mind Open]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript|The Creative Act - Raw Transcript]]

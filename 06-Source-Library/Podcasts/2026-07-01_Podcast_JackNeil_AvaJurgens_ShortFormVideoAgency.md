@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0048"
-title: "Ava Jurgens - Short-Form Video Agency"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Jack Neil"
-    role: "creator"
-source_type: "podcast"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "zh"
-processing_status: "processed"
-date_archived: "2026-07-01"
-status: "source"
+title: Ava Jurgens - Short-Form Video Agency
+author: Jack Neil
+lang: en
+archived: 2026-07-01
 ---
 
 # 短影音代理商操作手冊 — 筆記

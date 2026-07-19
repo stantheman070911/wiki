@@ -1,46 +1,16 @@
 ---
-title: "Taking Control - Constructive Tension Across the Sale"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Taking Control - Constructive Tension Across the Sale
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/persuasion,
-    topic/pricing,
-    topic/qualification,
-    person/matthew-dixon,
-    person/brent-adamson,
-    source/the-challenger-sale
-  ]
-sources:
-  - id: "SRC-0035"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and
-      Tension - Move People Without Coercion
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
-      Sell the Goal, Scope the Journey, Secure Prepayment
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for
-      Consensus - Stakeholder Outcomes and Widespread Support
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger
-      Selling Model - Teach, Tailor, and Take Control
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
-      Rhythm - Leads, Appointments, Presentations, and Sales
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes -
-      Decision Criteria, Buying Process, and Mutual Effort
+  - topic/sales
+  - topic/persuasion
+  - topic/pricing
+  - topic/qualification
+  - person/matthew-dixon
+  - person/brent-adamson
+  - source/the-challenger-sale
+status: draft
+updated: 2026-07-18
 ---
 
 # Taking Control - Constructive Tension Across the Sale
@@ -84,7 +54,6 @@ A paint supplier’s rep refused to concede a price increase unsupported by the 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and Tension - Move People Without Coercion|Trust and Tension - Move People Without Coercion]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for Consensus - Stakeholder Outcomes and Widespread Support|Tailoring for Consensus - Stakeholder Outcomes and Widespread Support]]
@@ -93,5 +62,4 @@ A paint supplier’s rep refused to concede a price increase unsupported by the 
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes - Decision Criteria, Buying Process, and Mutual Effort|The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript|The Challenger Sale]]

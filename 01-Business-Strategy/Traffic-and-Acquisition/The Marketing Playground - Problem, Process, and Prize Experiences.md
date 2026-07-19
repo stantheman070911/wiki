@@ -1,42 +1,16 @@
 ---
-title: "The Marketing Playground - Problem, Process, and Prize Experiences"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: The Marketing Playground - Problem, Process, and Prize Experiences
+lang: en
 tags:
-  [
-    topic/marketing,
-    topic/funnel,
-    topic/content-strategy,
-    topic/persuasion,
-    topic/product,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0097"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Psychological
-      Moonshots - Improve Perception Before Reality
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead
-      Generation - Fifteen Questions and Dynamic Routing
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get
-      Them What They Need - The Defined-End Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
-      Traffic Before the Core Offer
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid
-      and the Halo Strategy
+  - topic/marketing
+  - topic/funnel
+  - topic/content-strategy
+  - topic/persuasion
+  - topic/product
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: draft
+updated: 2026-07-13
 ---
 
 # The Marketing Playground - Problem, Process, and Prize Experiences
@@ -78,7 +52,6 @@ A lead-generation software company can use a course to explain why demand is fai
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Psychological Moonshots - Improve Perception Before Reality|Psychological Moonshots - Improve Perception Before Reality]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing|Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get Them What They Need - The Defined-End Offer|Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
@@ -86,5 +59,4 @@ A lead-generation software company can use a course to explain why demand is fai
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid and the Halo Strategy|The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_MarketingPlayground_RawTranscript|Marketing Playground - Raw Transcript]]

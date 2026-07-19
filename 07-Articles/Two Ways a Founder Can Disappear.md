@@ -1,63 +1,15 @@
 ---
-title: "Two Ways a Founder Can Disappear"
-type: "article"
-domain: "articles"
-lang: "en"
+title: Two Ways a Founder Can Disappear
+lang: en
 tags:
-  [
-    topic/leadership,
-    topic/management,
-    topic/delegation,
-    topic/systems,
-    topic/org-design,
-    topic/scaling
-  ]
-sources:
-  - id: "SRC-0046"
-    role: "primary"
-  - id: "SRC-0106"
-    role: "supporting"
-  - id: "SRC-0011"
-    role: "supporting"
-  - id: "SRC-0015"
-    role: "supporting"
-  - id: "SRC-0084"
-    role: "supporting"
-  - id: "SRC-0024"
-    role: "supporting"
-  - id: "SRC-0010"
-    role: "supporting"
-  - id: "SRC-0044"
-    role: "supporting"
-date_added: "2026-07-15"
-updated: "2026-07-15"
-reviewed_on: ""
-status: "draft"
-parent_map: 07-Articles/Articles Index
-relationships:
-  - type: derives-from
-    target: 01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build
-      the Business as the Product
-  - type: derives-from
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-1-連鎖本質與3S原則
-  - type: derives-from
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
-      - SOPs, Checklists, and Systematizing the Vital 20%
-  - type: derives-from
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone
-      Operating a Machine to Achieve a Goal
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Founder Mode
-      - Direct Engagement Without Delegation Theater
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation,
-      Quantification, and Orchestration - The Business Development Loop
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth
-      Owner-Role Triad - Entrepreneur, Manager, and Technician
-  - type: derives-from
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5
-      Leadership - Humility and Professional Will
+  - topic/leadership
+  - topic/management
+  - topic/delegation
+  - topic/systems
+  - topic/org-design
+  - topic/scaling
+status: draft
+updated: 2026-07-15
 ---
 
 # Two Ways a Founder Can Disappear
@@ -84,7 +36,6 @@ At the end of the review, the founder has not taken over the operator’s follow
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Derives from:** [[01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build the Business as the Product|The Franchise Prototype - Build the Business as the Product]]
 - **Derives from:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-1-連鎖本質與3S原則|連鎖經營學 · Module 1：連鎖本質與 3S 原則]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%|Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
@@ -105,7 +56,6 @@ At the end of the review, the founder has not taken over the operator’s follow
 
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_MattGray_WhatSteveJobsCanTeachYouAboutBusiness_RawTranscript|What Steve Jobs Can Teach You About Business - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript|The E-Myth Revisited - Raw Transcript]]

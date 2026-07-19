@@ -1,51 +1,15 @@
 ---
-title: "The Effective Executive - Five Learnable Practices"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: The Effective Executive - Five Learnable Practices
+lang: en
 tags:
-  [
-    topic/management,
-    topic/leadership,
-    topic/productivity,
-    topic/decision-making,
-    topic/focus,
-    person/peter-drucker
-  ]
-sources:
-  - id: "SRC-0013"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design
-      Jobs Around Exceptional Contribution
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
-      Elimination - The Deep-Work Playbook
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time -
-      Record, Eliminate, and Consolidate
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective
-      Decision Process
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Contribution
-      Before Activity - Define Results and Make Knowledge Usable
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Five
-      Energies of Execution - Vision, Strategy, People, Work, Refinement
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
-      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary
-      Aim and Strategic Objective - Make the Business Serve the Life
+  - topic/management
+  - topic/leadership
+  - topic/productivity
+  - topic/decision-making
+  - topic/focus
+  - person/peter-drucker
+status: draft
+updated: 2026-07-13
 ---
 
 # The Effective Executive - Five Learnable Practices
@@ -90,7 +54,6 @@ The sequence progresses from mechanics to responsibility: time produces capacity
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design Jobs Around Exceptional Contribution|Staff for Strength - Design Jobs Around Exceptional Contribution]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time - Record, Eliminate, and Consolidate|Know Thy Time - Record, Eliminate, and Consolidate]]
@@ -101,5 +64,4 @@ The sequence progresses from mechanics to responsibility: time produces capacity
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary Aim and Strategic Objective - Make the Business Serve the Life|Primary Aim and Strategic Objective - Make the Business Serve the Life]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript|The Effective Executive - Raw Transcript]]

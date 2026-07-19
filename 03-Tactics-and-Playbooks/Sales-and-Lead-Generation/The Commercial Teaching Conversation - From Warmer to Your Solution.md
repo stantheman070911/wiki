@@ -1,39 +1,15 @@
 ---
-title: "The Commercial Teaching Conversation - From Warmer to Your Solution"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: The Commercial Teaching Conversation - From Warmer to Your Solution
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/storytelling,
-    topic/messaging,
-    person/matthew-dixon,
-    person/brent-adamson,
-    source/the-challenger-sale
-  ]
-sources:
-  - id: "SRC-0035"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
-      - Heros Journey, the Trojan Horse, and Handling Objections
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching -
-      Insight That Leads to Unique Strengths
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for
-      Consensus - Stakeholder Outcomes and Widespread Support
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger
-      Selling Model - Teach, Tailor, and Take Control
+  - topic/sales
+  - topic/storytelling
+  - topic/messaging
+  - person/matthew-dixon
+  - person/brent-adamson
+  - source/the-challenger-sale
+status: draft
+updated: 2026-07-18
 ---
 
 # The Commercial Teaching Conversation - From Warmer to Your Solution
@@ -77,12 +53,10 @@ ADP Dealer Services taught dealerships that buying isolated low-cost software sy
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections|Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching - Insight That Leads to Unique Strengths|Commercial Teaching - Insight That Leads to Unique Strengths]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for Consensus - Stakeholder Outcomes and Widespread Support|Tailoring for Consensus - Stakeholder Outcomes and Widespread Support]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger Selling Model - Teach, Tailor, and Take Control|The Challenger Selling Model - Teach, Tailor, and Take Control]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript|The Challenger Sale]]

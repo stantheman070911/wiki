@@ -1,36 +1,12 @@
 ---
-title: "Business Is 80% Mindset - Risk Tolerance and Refusing to Quit"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/mindset, topic/risk, person/sabri-suby ]
-sources:
-  - id: "SRC-0084"
-    role: "primary"
-date_added: "2026-07-12"
-updated: "2026-07-12"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business
-      - The 50% Hire and Buying Back Time
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
-      and Asymmetric Bets
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Hard Road
-      Is the Right Road - Second-Order Thinking and Effort Moats
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
-      Gratification - Patience and Inputs vs Outputs
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite
-      Games - Winning by Emptying the Tank
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/No One's Opinion
-      Pays Your Bills - Immunity to Critics
+title: Business Is 80% Mindset - Risk Tolerance and Refusing to Quit
+lang: en
+tags:
+  - topic/mindset
+  - topic/risk
+  - person/sabri-suby
+status: draft
+updated: 2026-07-12
 ---
 
 # Business Is 80% Mindset - Risk Tolerance and Refusing to Quit
@@ -62,7 +38,6 @@ Founders overweight tactics (the "mechanics") and underweight the psychological 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time|You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats|The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats]]
@@ -71,5 +46,4 @@ Founders overweight tactics (the "mechanics") and underweight the psychological 
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/No One's Opinion Pays Your Bills - Immunity to Critics|No One's Opinion Pays Your Bills - Immunity to Critics]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]

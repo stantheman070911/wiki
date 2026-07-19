@@ -1,45 +1,15 @@
 ---
-title: "Focus and Align - Make Priorities and Dependencies Public"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Focus and Align - Make Priorities and Dependencies Public
+lang: en
 tags:
-  [
-    topic/focus,
-    topic/prioritization,
-    topic/management,
-    topic/culture,
-    person/john-doerr,
-    source/measure-what-matters
-  ]
-sources:
-  - id: "SRC-0032"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous
-      Conversations, Feedback, and Recognition
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating
-      Cycle - Set, Check In, Score, and Reflect
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
-      Discipline - Freedom, Responsibility, and Stop-Doing Lists
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed
-      and Aspirational OKRs - Separate Reliability from Stretch
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical
-      Path - Work Backward from a Traction Goal
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs -
-      Define Objectives Through Sufficient Key Results
+  - topic/focus
+  - topic/prioritization
+  - topic/management
+  - topic/culture
+  - person/john-doerr
+  - source/measure-what-matters
+status: draft
+updated: 2026-07-18
 ---
 
 # Focus and Align - Make Priorities and Dependencies Public
@@ -84,7 +54,6 @@ The result is not complete cascading. It is a visible network in which central p
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous Conversations, Feedback, and Recognition|CFRs - Continuous Conversations, Feedback, and Recognition]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating Cycle - Set, Check In, Score, and Reflect|The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
@@ -93,5 +62,4 @@ The result is not complete cascading. It is a visible network in which central p
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs - Define Objectives Through Sufficient Key Results|OKRs - Define Objectives Through Sufficient Key Results]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript|Measure What Matters]]

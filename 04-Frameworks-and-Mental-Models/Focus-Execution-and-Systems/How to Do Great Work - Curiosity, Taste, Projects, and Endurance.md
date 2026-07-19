@@ -1,40 +1,17 @@
 ---
-title: "How to Do Great Work - Curiosity, Taste, Projects, and Endurance"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: How to Do Great Work - Curiosity, Taste, Projects, and Endurance
+lang: en
 tags:
-  [
-    topic/learning,
-    topic/skills,
-    topic/focus,
-    topic/innovation,
-    topic/consistency,
-    person/paul-graham,
-    person/steve-jobs,
-    source/paul-graham-essays
-  ]
-sources:
-  - id: "SRC-0046"
-    role: "primary"
-  - id: "SRC-0060"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New
-      Ideas - Work at the Fractal Edge of Knowledge
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to
-      Love to Read - Foundations, Clear Thinking, and Mental Models
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
-      Proficiency, Pain Tolerance, and Frustration Tolerance
+  - topic/learning
+  - topic/skills
+  - topic/focus
+  - topic/innovation
+  - topic/consistency
+  - person/paul-graham
+  - person/steve-jobs
+  - source/paul-graham-essays
+status: draft
+updated: 2026-07-13
 ---
 
 # How to Do Great Work - Curiosity, Taste, Projects, and Endurance
@@ -74,12 +51,10 @@ After leaving Reed College's required curriculum, Steve Jobs studied calligraphy
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New Ideas - Work at the Fractal Edge of Knowledge|Finding New Ideas - Work at the Fractal Edge of Knowledge]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to Love to Read - Foundations, Clear Thinking, and Mental Models|Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
 - **supporting:** [[06-Source-Library/Presentations/2026-07-13_Presentation_SteveJobs_StanfordCommencementAddress_RawTranscript|Steve Jobs' 2005 Stanford Commencement Address - Raw Transcript]]

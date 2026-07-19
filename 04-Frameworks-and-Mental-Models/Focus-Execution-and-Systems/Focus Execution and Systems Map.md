@@ -1,12 +1,7 @@
 ---
-title: "Focus, Execution, and Systems Map"
-title_zh: "專注、執行與系統導覽"
-type: "subdomain-index"
-domain: "frameworks-and-mental-models"
-lang: "en"
-updated: "2026-07-19"
-status: "evergreen"
-owner: "stanley-lu"
+title: Focus, Execution, and Systems Map
+title_zh: 專注、執行與系統導覽
+lang: en
 ---
 
 # Focus, Execution, and Systems Map
@@ -103,9 +98,8 @@ This folder remains flat because constraint, operating-system, experimentation, 
 ## Inventory
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Topics", status AS "Status", updated AS "Updated"
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems"
-WHERE type = "framework"
-AND contains(list("draft", "reviewed", "evergreen"), status)
+WHERE status
 SORT file.name ASC
 ```

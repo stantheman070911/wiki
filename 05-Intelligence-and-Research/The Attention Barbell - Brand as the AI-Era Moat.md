@@ -1,66 +1,18 @@
 ---
-title: "The Attention Barbell - Brand as the AI-Era Moat"
-type: "research"
-domain: "intelligence-and-research"
-lang: "en"
+title: The Attention Barbell - Brand as the AI-Era Moat
+lang: en
 tags:
-  [
-    topic/ai,
-    topic/brand,
-    topic/barbell-strategy,
-    topic/content-strategy,
-    topic/do-things-that-dont-scale,
-    topic/email-marketing,
-    person/gary-vaynerchuk,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0056"
-    role: "primary"
-  - id: "SRC-0104"
-    role: "supporting"
-  - id: "SRC-0087"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 05-Intelligence-and-Research/Intelligence and Research Index
-relationships:
-  - type: example
-    target: 01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business
-      Redesign - Speed to Value and Experience Moats
-  - type: example
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and
-      Monetization - The Give-Content, Ask-Ads Model
-  - type: example
-    target: 02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model
-  - type: example
-    target: 02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架
-  - type: example
-    target: 02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產
-  - type: example
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
-      Actually Is - Association, Influence, Direction, Reach
-  - type: example
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
-      Confidence
-  - type: example
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation
-      and Commitment - Persuasion's Two Deepest Levers
-  - type: related
-    target: 05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and
-      Human Escalation
-  - type: related
-    target: 05-Intelligence-and-Research/The Digital-Economy Income Shift - IP,
-      Media, Data, and Code
-  - type: related
-    target: 05-Intelligence-and-Research/The Risk Continuum - Building an
-      AI-Resistant Personal Brand
-  - type: related
-    target: 05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA,
-      and Risk as the Last Human Job
+  - topic/ai
+  - topic/brand
+  - topic/barbell-strategy
+  - topic/content-strategy
+  - topic/do-things-that-dont-scale
+  - topic/email-marketing
+  - person/gary-vaynerchuk
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: reviewed
+updated: 2026-07-08
 ---
 
 # The Attention Barbell - Brand as the AI-Era Moat
@@ -102,7 +54,6 @@ When every buyer asks an AI agent "who should I hire / go with?", discovery stop
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Example:** [[01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business Redesign - Speed to Value and Experience Moats|The AI-Ready Business Redesign - Speed to Value and Experience Moats]]
 - **Example:** [[01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model|Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
 - **Example:** [[02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model|Interest Media and the Zero-Follower Reach Model]]
@@ -117,7 +68,6 @@ When every buyer asks an AI agent "who should I hire / go with?", discovery stop
 - **Related:** [[05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job|Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Podcasts/2026-07-08_Talk_GaryVaynerchuk_NewRulesOfSocialMedia2026|New Rules of Social Media 2026]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_YourBusinessIsDeadAIReinvention_RawTranscript|Your Business Is Dead - AI Reinvention - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_ChatGPTAdsOpportunity_RawTranscript|ChatGPT Ads Opportunity - Raw Transcript]]

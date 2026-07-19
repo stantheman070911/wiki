@@ -1,39 +1,13 @@
 ---
-title: "Manage Your Money Well - The Habit Matters More Than the Amount"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/money-management, topic/mindset, topic/money, person/t-harv-eker ]
-sources:
-  - id: "SRC-0018"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money
-      Management System
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k -
-      Defense-Before-Offense Playbook
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Excellent Receivers
-      vs. Poor Receivers - Worthiness Is a Story You Tell Yourself
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth
-      vs. Focus on Working Income - The Four Net Worth Factors
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Have Money Work
-      Hard for You vs. Working Hard for Your Money
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint
-      - Reprogramming Thoughts, Feelings, and Actions Around Money
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think 'Both' vs.
-      Think 'Either-Or' - Abundance Over Scarcity
+title: Manage Your Money Well - The Habit Matters More Than the Amount
+lang: en
+tags:
+  - topic/money-management
+  - topic/mindset
+  - topic/money
+  - person/t-harv-eker
+status: draft
+updated: 2026-07-13
 ---
 
 # Manage Your Money Well - The Habit Matters More Than the Amount
@@ -59,7 +33,6 @@ Wealth File #14. This is the mindset half of the file; the concrete money-manage
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money Management System|The 6 Jars Money Management System]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - Defense-Before-Offense Playbook|The First 100k - Defense-Before-Offense Playbook]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself|Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself]]
@@ -69,5 +42,4 @@ Wealth File #14. This is the mindset half of the file; the concrete money-manage
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think 'Both' vs. Think 'Either-Or' - Abundance Over Scarcity|Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

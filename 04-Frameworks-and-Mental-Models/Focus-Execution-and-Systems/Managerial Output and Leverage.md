@@ -1,51 +1,15 @@
 ---
-title: "Managerial Output and Leverage"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Managerial Output and Leverage
+lang: en
 tags:
-  [
-    topic/management,
-    topic/leverage,
-    topic/leadership,
-    topic/inputs-vs-outputs,
-    person/andrew-grove,
-    source/high-output-management
-  ]
-sources:
-  - id: "SRC-0022"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders -
-      Reverse-Engineer OTE, Profit Pools, and Phantom Equity
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Performance Appraisal as a
-      Management System
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as
-      Managerial Production
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Overwhelm Is
-      a System Signal - Diagnose Before Burnout
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning
-      Backward from the Gap
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Breakfast Factory - Limiting Steps, WIP, and Capacity
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Task-Relevant
-      Maturity
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace
-      Influence Mapping - Authority, Value, and Recognition
+  - topic/management
+  - topic/leverage
+  - topic/leadership
+  - topic/inputs-vs-outputs
+  - person/andrew-grove
+  - source/high-output-management
+status: draft
+updated: 2026-07-18
 ---
 
 # Managerial Output and Leverage
@@ -94,7 +58,6 @@ Grove's two-hour new-employee orientation affected roughly two hundred people at
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity|Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Performance Appraisal as a Management System|Performance Appraisal as a Management System]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as Managerial Production|Meetings as Managerial Production]]
@@ -105,5 +68,4 @@ Grove's two-hour new-employee orientation affected roughly two hundred people at
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace Influence Mapping - Authority, Value, and Recognition|Workplace Influence Mapping - Authority, Value, and Recognition]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript|High Output Management - Raw Transcript]]

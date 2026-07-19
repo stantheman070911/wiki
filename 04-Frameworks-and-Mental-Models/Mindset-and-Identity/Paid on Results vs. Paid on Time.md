@@ -1,36 +1,13 @@
 ---
-title: "Paid on Results vs. Paid on Time"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Paid on Results vs. Paid on Time
+lang: en
 tags:
-  [
-    topic/compensation,
-    topic/business-model,
-    topic/mindset,
-    person/t-harv-eker
-  ]
-sources:
-  - id: "SRC-0018"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: has-example
-    target: 05-Intelligence-and-Research/The Digital-Economy Income Shift - IP,
-      Media, Data, and Code
-  - type: is-applied-by
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
-      Return on Time, and Money Rules
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth
-      vs. Focus on Working Income - The Four Net Worth Factors
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think
-      Small - The Law of Income
+  - topic/compensation
+  - topic/business-model
+  - topic/mindset
+  - person/t-harv-eker
+status: draft
+updated: 2026-07-13
 ---
 
 # Paid on Results vs. Paid on Time
@@ -56,12 +33,10 @@ Wealth File #11. Eker's core objection to the "go to school, get a steady job" s
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has example:** [[05-Intelligence-and-Research/The Digital-Economy Income Shift - IP, Media, Data, and Code|The Digital-Economy Income Shift - IP, Media, Data, and Code]]
 - **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors|Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think Small - The Law of Income|Think Big vs. Think Small - The Law of Income]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

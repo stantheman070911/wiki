@@ -1,41 +1,17 @@
 ---
-title: "Drum-Buffer-Rope - Release Work at the Constraint's Pace"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Drum-Buffer-Rope - Release Work at the Constraint's Pace
+lang: en
 tags:
-  [
-    topic/theory-of-constraints,
-    topic/operations,
-    topic/systems,
-    topic/prioritization,
-    topic/productivity,
-    person/eliyahu-m-goldratt,
-    person/jeff-cox,
-    source/the-goal
-  ]
-sources:
-  - id: "SRC-0030"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
-  Productivity Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
-      Supply
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Dependent
-      Events and Statistical Fluctuations - Why Balanced Capacity Fails
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of
-      Constraints - The Five Focusing Steps
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput
-      Accounting - Manage the System, Not Local Costs
+  - topic/theory-of-constraints
+  - topic/operations
+  - topic/systems
+  - topic/prioritization
+  - topic/productivity
+  - person/eliyahu-m-goldratt
+  - person/jeff-cox
+  - source/the-goal
+status: draft
+updated: 2026-07-18
 ---
 
 # Drum-Buffer-Rope - Release Work at the Constraint's Pace
@@ -75,12 +51,10 @@ Bearington used constraint data to predict when heat treatment and the NCX-10 wo
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails|Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of Constraints - The Five Focusing Steps|Theory of Constraints - The Five Focusing Steps]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput Accounting - Manage the System, Not Local Costs|Throughput Accounting - Manage the System, Not Local Costs]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_EliyahuMGoldrattJeffCox_TheGoal_RawTranscript|The Goal]]

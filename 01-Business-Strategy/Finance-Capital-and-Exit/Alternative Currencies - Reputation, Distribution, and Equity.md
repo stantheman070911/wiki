@@ -1,42 +1,17 @@
 ---
-title: "Alternative Currencies - Reputation, Distribution, and Equity"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Alternative Currencies - Reputation, Distribution, and Equity
+lang: en
 tags:
-  [
-    topic/wealth,
-    topic/capital,
-    topic/equity,
-    topic/brand,
-    topic/distribution,
-    topic/leverage,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0103"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a
-      Partnership Makes Sense - The Five Things a Partner Must Bring
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations -
-      Co-founders, Ownership, Possession, Control, and Vesting
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle -
-      Recover Time, Capital, and Better Judgment
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation -
-      Measurement, Leverage, and Compressed Work
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly
+  - topic/wealth
+  - topic/capital
+  - topic/equity
+  - topic/brand
+  - topic/distribution
+  - topic/leverage
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: draft
+updated: 2026-07-13
 ---
 
 # Alternative Currencies - Reputation, Distribution, and Equity
@@ -81,7 +56,6 @@ Priestley describes a company that sells a minority stake to establish an extern
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a Partnership Makes Sense - The Five Things a Partner Must Bring|When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting|Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment|Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment]]
@@ -89,5 +63,4 @@ Priestley describes a company that sells a minority stake to establish an extern
 - **Related:** [[01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly|Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_WhatBillionairesDoDifferently_RawTranscript|What Billionaires Do Differently - Raw Transcript]]

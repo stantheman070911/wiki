@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0001"
-title: "100 MSeries Summary"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Alex Hormozi"
-    role: "author"
-source_type: "book"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-08"
-status: "source"
+title: 100 MSeries Summary
+author: Alex Hormozi
+lang: en
+archived: 2026-07-08
 ---
 
 ## ***$100M Offers*** **— Alex Hormozi**

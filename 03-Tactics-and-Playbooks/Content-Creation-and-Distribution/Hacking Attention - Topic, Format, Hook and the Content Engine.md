@@ -1,56 +1,16 @@
 ---
-title: "Hacking Attention - Topic, Format, Hook and the Content Engine"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Hacking Attention - Topic, Format, Hook and the Content Engine
+lang: en
 tags:
-  [
-    topic/content-strategy,
-    topic/hooks,
-    topic/short-form-video,
-    topic/creative-volume,
-    topic/research,
-    person/tuan-le,
-    person/steven-bartlett
-  ]
-sources:
-  - id: "SRC-0081"
-    role: "primary"
-  - id: "SRC-0017"
-    role: "supporting"
-    locator: "Laws 11, 12"
-date_added: "2026-07-10"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-  Creation and Distribution Map
-relationships:
-  - type: applies
-    target: 02-Social-Media-Strategy/對標方法論與靈感池系統
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a
-      Brand Signal
-  - type: has-derivative
-    target: 07-Articles/Steal the Format, Not the Idea
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down
-      and the 70-20-10 Rule - Templatizing Viral Outliers
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hyperdopamine
-      Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
-      Proof, Path - Engineering the Video Intro
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film
-      Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content
-      Repository - Four Topic Buckets and Tweet-First Capture
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Seven
-      Factors of a Short - Topic to Editing
+  - topic/content-strategy
+  - topic/hooks
+  - topic/short-form-video
+  - topic/creative-volume
+  - topic/research
+  - person/tuan-le
+  - person/steven-bartlett
+status: draft
+updated: 2026-07-13
 ---
 
 # Hacking Attention - Topic, Format, Hook and the Content Engine
@@ -100,7 +60,6 @@ remove introductions, logos, establishing shots, and pleasantries from the openi
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[02-Social-Media-Strategy/對標方法論與靈感池系統|對標方法論與靈感池系統]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a Brand Signal|Absurdity as a Brand Signal]]
 - **Has derivative:** [[07-Articles/Steal the Format, Not the Idea|Steal the Format, Not the Idea]]
@@ -112,6 +71,5 @@ remove introductions, logos, establishing shots, and pleasantries from the openi
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Seven Factors of a Short - Topic to Editing|The Seven Factors of a Short - Topic to Editing]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-10_Video_TuanLe_HowToGoViralByHackingAttention|How to Go Insanely Viral (Almost) Every Time by Hacking Attention]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Laws 11, 12

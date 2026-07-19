@@ -1,27 +1,13 @@
 ---
-title: "Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/learning, topic/mindset, topic/identity, person/t-harv-eker ]
-sources:
-  - id: "SRC-0018"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and
-      the Education-ROI Playbook
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich
-      People Model Winners, Poor People Hang Around Losers
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint
-      - Reprogramming Thoughts, Feelings, and Actions Around Money
+title: Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE
+lang: en
+tags:
+  - topic/learning
+  - topic/mindset
+  - topic/identity
+  - person/t-harv-eker
+status: draft
+updated: 2026-07-13
 ---
 
 # Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE
@@ -49,11 +35,9 @@ Wealth File #17, closing the seventeen-file sequence. Eker calls "I know that" o
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and the Education-ROI Playbook|Skill Stacking and the Education-ROI Playbook]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich People Model Winners, Poor People Hang Around Losers|Association - Rich People Model Winners, Poor People Hang Around Losers]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

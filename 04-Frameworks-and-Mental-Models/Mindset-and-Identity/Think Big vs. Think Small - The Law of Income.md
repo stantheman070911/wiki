@@ -1,33 +1,13 @@
 ---
-title: "Think Big vs. Think Small - The Law of Income"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/mindset, topic/value-creation, topic/growth, person/t-harv-eker ]
-sources:
-  - id: "SRC-0018"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth
-      vs. Focus on Working Income - The Four Net Worth Factors
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on
-      Opportunities vs. Focus on Obstacles - Ready, Fire, Aim
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs.
-      Paid on Time
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs.
-      Playing Not to Lose
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Willing to
-      Self-Promote vs. Averse to Selling
+title: Think Big vs. Think Small - The Law of Income
+lang: en
+tags:
+  - topic/mindset
+  - topic/value-creation
+  - topic/growth
+  - person/t-harv-eker
+status: draft
+updated: 2026-07-13
 ---
 
 # Think Big vs. Think Small - The Law of Income
@@ -53,7 +33,6 @@ Wealth File #4. Eker defines an entrepreneur simply as "a person who solves prob
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors|Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim|Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs. Paid on Time|Paid on Results vs. Paid on Time]]
@@ -61,5 +40,4 @@ Wealth File #4. Eker defines an entrepreneur simply as "a person who solves prob
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Willing to Self-Promote vs. Averse to Selling|Willing to Self-Promote vs. Averse to Selling]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

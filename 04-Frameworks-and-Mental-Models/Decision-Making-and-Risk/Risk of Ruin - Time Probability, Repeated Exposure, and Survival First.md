@@ -1,45 +1,16 @@
 ---
-title: "Risk of Ruin - Time Probability, Repeated Exposure, and Survival First"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Risk of Ruin - Time Probability, Repeated Exposure, and Survival First
+lang: en
 tags:
-  [
-    topic/risk,
-    topic/decision-making,
-    topic/barbell-strategy,
-    topic/optionality,
-    topic/mental-models,
-    person/nassim-nicholas-taleb,
-    source/skin-in-the-game
-  ]
-sources:
-  - id: "SRC-0012"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Trust Should Have a Credit Limit
-  - type: is-applied-by
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default
-      Dead - Runway, Growth, and the Fatal Pinch
-  - type: is-applied-by
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of
-      Investing - Diversification via Uncorrelated Return Streams
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
-      and Asymmetric Bets
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the
-      Game - Aligning Upside, Downside, and Accountability
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Pre-Mortem
-      - Imagine Failure Before It Happens
+  - topic/risk
+  - topic/decision-making
+  - topic/barbell-strategy
+  - topic/optionality
+  - topic/mental-models
+  - person/nassim-nicholas-taleb
+  - source/skin-in-the-game
+status: draft
+updated: 2026-07-13
 ---
 
 # Risk of Ruin - Time Probability, Repeated Exposure, and Survival First
@@ -83,7 +54,6 @@ One hundred people each visiting a casino once may show a stable percentage of f
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Trust Should Have a Credit Limit|Trust Should Have a Credit Limit]]
 - **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch|Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
 - **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of Investing - Diversification via Uncorrelated Return Streams|The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
@@ -92,5 +62,4 @@ One hundred people each visiting a casino once may show a stable percentage of f
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Pre-Mortem - Imagine Failure Before It Happens|The Pre-Mortem - Imagine Failure Before It Happens]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript|Skin in the Game - Raw Transcript]]

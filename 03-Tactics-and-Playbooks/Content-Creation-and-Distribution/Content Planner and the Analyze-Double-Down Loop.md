@@ -1,46 +1,12 @@
 ---
-title: "Content Planner and the Analyze-Double-Down Loop"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
-tags: [ topic/content-strategy, topic/repurposing, topic/hooks ]
-sources:
-  - id: "SRC-0062"
-    role: "primary"
-date_added: "2026-07-02"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-  Creation and Distribution Map
-relationships:
-  - type: applies
-    target: 02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why
-  - type: applies
-    target: 02-Social-Media-Strategy/對標方法論與靈感池系統
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Framework for Making Frameworks - Distill by Commonality
-  - type: related
-    target: 03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder -
-      Fixing Views, Formats, and Timing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down
-      and the 70-20-10 Rule - Templatizing Viral Outliers
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film
-      Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content
-      Repository - Four Topic Buckets and Tweet-First Capture
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall
-      Distribution Method - One Pillar, a Week of Content
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音文案全公式：標題、開頭、結尾與腳本結構
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Customer-Base
-      Test Kitchen - Distributed R&D Before Rollout
+title: Content Planner and the Analyze-Double-Down Loop
+lang: en
+tags:
+  - topic/content-strategy
+  - topic/repurposing
+  - topic/hooks
+status: reviewed
+updated: 2026-07-13
 ---
 
 # Content Planner and the Analyze-Double-Down Loop
@@ -96,7 +62,6 @@ Once the formula is understood — Creator Vision → studied formats → planne
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why|Creator Vision Framework: What x Who x Why]]
 - **Applies:** [[02-Social-Media-Strategy/對標方法論與靈感池系統|對標方法論與靈感池系統]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Framework for Making Frameworks - Distill by Commonality|The Framework for Making Frameworks - Distill by Commonality]]
@@ -109,5 +74,4 @@ Once the formula is understood — Creator Vision → studied formats → planne
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Customer-Base Test Kitchen - Distributed R&D Before Rollout|The Customer-Base Test Kitchen - Distributed R&D Before Rollout]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-02_Video_BuildingAPersonalBrandIn2026|Building a Personal Brand in 2026]]

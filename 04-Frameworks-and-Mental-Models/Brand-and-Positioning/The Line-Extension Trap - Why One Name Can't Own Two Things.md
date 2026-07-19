@@ -1,45 +1,12 @@
 ---
-title: "The Line-Extension Trap - Why One Name Can't Own Two Things"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/positioning, topic/brand, person/ries-trout ]
-sources:
-  - id: "SRC-0007"
-    role: "primary"
-    locator: "ch. 11–13"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Growth-and-Scaling/多角化與規模化的判斷準則：一尺寬不如一萬尺深
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
-      Compounding - Too Good to Fail
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
-      Hole in the Mind (Cherchez le Creneau)
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
-      in the Prospect's Mind
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Positioning a Company -
-      Stand for a Specific Achievement, Not Diversification
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/The 22 Immutable Laws of
-      Marketing
-  - type: is-applied-by
-    target: 02-Social-Media-Strategy/The Personal-Brand House - Foundation,
-      Interior, Exterior
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as
-      Context - Make the Product Obviously Valuable
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
-      Actually Is - Association, Influence, Direction, Reach
+title: The Line-Extension Trap - Why One Name Can't Own Two Things
+lang: en
+tags:
+  - topic/positioning
+  - topic/brand
+  - person/ries-trout
+status: reviewed
+updated: 2026-07-08
 ---
 
 # The Line-Extension Trap - Why One Name Can't Own Two Things
@@ -80,7 +47,6 @@ The rule of thumb: use a **new name** for a genuinely new position; use the **ho
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/多角化與規模化的判斷準則：一尺寬不如一萬尺深|多角化與規模化的判斷準則：一尺寬不如一萬尺深]]
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail|Brand and Product Compounding - Too Good to Fail]]
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)|Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
@@ -92,5 +58,4 @@ The rule of thumb: use a **new name** for a genuinely new position; use the **ho
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning|Positioning]] — locator: ch. 11–13

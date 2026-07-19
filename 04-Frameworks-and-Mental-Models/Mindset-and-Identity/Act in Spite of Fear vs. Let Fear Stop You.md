@@ -1,34 +1,15 @@
 ---
-title: "Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the
-  Wealth Zone"
+title: Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone
 aliases:
-  - "Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the
-    Wealth Zone"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/mindset, topic/courage, topic/risk, person/t-harv-eker ]
-sources:
-  - id: "SRC-0018"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Bigger Than Your
-      Problems vs. Smaller Than Your Problems
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
-      Confidence
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Committed to Rich
-      vs. Wanting to Be Rich - The Three Levels of Wanting
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on
-      Opportunities vs. Focus on Obstacles - Ready, Fire, Aim
+  - Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone
+lang: en
+tags:
+  - topic/mindset
+  - topic/courage
+  - topic/risk
+  - person/t-harv-eker
+status: draft
+updated: 2026-07-13
 ---
 
 # Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone
@@ -56,12 +37,10 @@ Wealth File #16. Eker returns to the Process of Manifestation (thoughts→feelin
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Bigger Than Your Problems vs. Smaller Than Your Problems|Bigger Than Your Problems vs. Smaller Than Your Problems]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting|Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim|Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

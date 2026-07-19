@@ -1,52 +1,15 @@
 ---
-title: "Don't Follow Competitors Down - The $50M Price-Cut Lesson"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Don't Follow Competitors Down - The $50M Price-Cut Lesson
+lang: en
 tags:
-  [
-    topic/competition,
-    topic/pricing,
-    topic/market-leader,
-    topic/positioning,
-    topic/moat,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: has-derivative
-    target: 07-Articles/Change the Comparison Before You Change the Price
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
-      Compounding - Too Good to Fail
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
-      Hole in the Mind (Cherchez le Creneau)
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition -
-      Why All Happy Companies Are Different
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/The 22 Immutable Laws of
-      Marketing
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
-      Discount - Make the Difference Obvious
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where
-      the Fewest Go
+  - topic/competition
+  - topic/pricing
+  - topic/market-leader
+  - topic/positioning
+  - topic/moat
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Don't Follow Competitors Down - The $50M Price-Cut Lesson
@@ -91,7 +54,6 @@ A motocross-training founder feared a copycat replicating his low-margin single-
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
 - **Has derivative:** [[07-Articles/Change the Comparison Before You Change the Price|Change the Comparison Before You Change the Price]]
 - **Related:** [[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail|Brand and Product Compounding - Too Good to Fail]]
@@ -103,5 +65,4 @@ A motocross-training founder feared a copycat replicating his low-margin single-
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where the Fewest Go|The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

@@ -1,46 +1,14 @@
 ---
-title: "Levels of a Personal Brand and the Five Archetypes"
-type: "strategy"
-domain: "social-media-strategy"
-lang: "en"
+title: Levels of a Personal Brand and the Five Archetypes
+lang: en
 tags:
-  [
-    topic/personal-brand,
-    topic/positioning,
-    topic/content-strategy,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0071"
-    role: "primary"
-  - id: "SRC-0090"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 02-Social-Media-Strategy/Social Media Strategy Index
-relationships:
-  - type: has-example
-    target: 05-Intelligence-and-Research/The Risk Continuum - Building an
-      AI-Resistant Personal Brand
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creator
-      Monetization Ladder and Content-Concept Formulas
-  - type: related
-    target: 02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why
-  - type: related
-    target: 02-Social-Media-Strategy/Key Person of Influence - Pitch, Publish,
-      Product, Profile, and Partnerships
-  - type: related
-    target: 02-Social-Media-Strategy/Personal-Brand Positioning and the
-      No-Competition Model
-  - type: related
-    target: 02-Social-Media-Strategy/The Personal-Brand House - Foundation,
-      Interior, Exterior
-  - type: related
-    target: 02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架
+  - topic/personal-brand
+  - topic/positioning
+  - topic/content-strategy
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Levels of a Personal Brand and the Five Archetypes
@@ -85,7 +53,6 @@ Promoting yourself is now permanent cultural infrastructure — in an era of AI 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has example:** [[05-Intelligence-and-Research/The Risk Continuum - Building an AI-Resistant Personal Brand|The Risk Continuum: Building an AI-Resistant Personal Brand]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creator Monetization Ladder and Content-Concept Formulas|Creator Monetization Ladder and Content-Concept Formulas]]
 - **Related:** [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why|Creator Vision Framework: What x Who x Why]]
@@ -95,6 +62,5 @@ Promoting yourself is now permanent cultural infrastructure — in an era of AI 
 - **Related:** [[02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架|品牌即媒體公司：注意力到信任框架]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_ArtOfThePersonalBrand|Art Of The Personal Brand]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_FivePsOfKeyPersonOfInfluence_RawTranscript|Five Ps of a Key Person of Influence - Raw Transcript]]

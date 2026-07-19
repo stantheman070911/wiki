@@ -1,52 +1,21 @@
 ---
-title: "The Digital-Economy Income Shift - IP, Media, Data, and Code"
-type: "research"
-domain: "intelligence-and-research"
-lang: "en"
+title: The Digital-Economy Income Shift - IP, Media, Data, and Code
+lang: en
 tags:
-  [
-    topic/ai,
-    topic/ip,
-    topic/automation,
-    topic/personal-brand,
-    topic/power-law,
-    topic/wealth,
-    topic/career,
-    person/daniel-priestley,
-    person/james-dale-davidson,
-    person/william-rees-mogg,
-    source/daniel-priestley-youtube,
-    source/the-sovereign-individual
-  ]
-sources:
-  - id: "SRC-0086"
-    role: "primary"
-  - id: "SRC-0009"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 05-Intelligence-and-Research/Intelligence and Research Index
-relationships:
-  - type: example
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtual Firm -
-      Falling Transaction Costs and the Unbundling of Organizations
-  - type: example
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law
-      of Venture Capital and Careers
-  - type: example
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs.
-      Paid on Time
-  - type: related
-    target: 05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions
-      Competing as Service Providers
-  - type: related
-    target: 05-Intelligence-and-Research/Technology Platforms - How New Protocols
-      and Tools Shift Power
-  - type: related
-    target: 05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era
-      Moat
+  - topic/ai
+  - topic/ip
+  - topic/automation
+  - topic/personal-brand
+  - topic/power-law
+  - topic/wealth
+  - topic/career
+  - person/daniel-priestley
+  - person/james-dale-davidson
+  - person/william-rees-mogg
+  - source/daniel-priestley-youtube
+  - source/the-sovereign-individual
+status: draft
+updated: 2026-07-13
 ---
 
 # The Digital-Economy Income Shift - IP, Media, Data, and Code
@@ -95,7 +64,6 @@ Priestley contrasts an industrial-era “average worker” with a globally disco
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Example:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations|The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
 - **Example:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law of Venture Capital and Careers|The Power Law of Venture Capital and Careers]]
 - **Example:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs. Paid on Time|Paid on Results vs. Paid on Time]]
@@ -104,6 +72,5 @@ Priestley contrasts an industrial-era “average worker” with a globally disco
 - **Related:** [[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat|The Attention Barbell - Brand as the AI-Era Moat]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_AIAndTheDigitalIncomeShift_RawTranscript|AI and the Digital Income Shift - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript|The Sovereign Individual - Raw Transcript]]

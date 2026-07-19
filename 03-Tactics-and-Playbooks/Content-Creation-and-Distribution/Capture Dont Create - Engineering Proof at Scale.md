@@ -2,69 +2,15 @@
 title: "Capture, Don't Create: Engineering Proof at Scale"
 aliases:
   - "Capture, Don't Create: Engineering Proof at Scale"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+lang: en
 tags:
-  [
-    topic/content-strategy,
-    topic/proof,
-    topic/personal-brand,
-    topic/ai,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0050"
-    role: "primary"
-  - id: "SRC-0042"
-    role: "supporting"
-date_added: "2026-07-02"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-  Creation and Distribution Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/內容產製系統與募資紀律
-  - type: applies
-    target: 02-Social-Media-Strategy/The AI-Era Content Barbell
-  - type: applies
-    target: 02-Social-Media-Strategy/可信度行銷與公開建構
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status
-      Signal - Shame, Guilt, and Documenting the Struggle
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/No One's Opinion
-      Pays Your Bills - Immunity to Critics
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
-      Observability and Behavioral Residue
-  - type: has-derivative
-    target: 07-Articles/Design for the Second Audience
-  - type: has-derivative
-    target: 07-Articles/Steal the Format, Not the Idea
-  - type: has-example
-    target: 05-Intelligence-and-Research/The Risk Continuum - Building an
-      AI-Resistant Personal Brand
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Declarative
-      to Sell, Procedural to Deliver
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
-      - Heros Journey, the Trojan Horse, and Handling Objections
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content
-      Repository - Four Topic Buckets and Tweet-First Capture
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The
-      StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
-      Business - Train Like an Employee and the Department Playbook
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence -
-      Build in Public, Daily Cadence, Post-Launch Loop
+  - topic/content-strategy
+  - topic/proof
+  - topic/personal-brand
+  - topic/ai
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-13
 ---
 
 # Capture, Don't Create: Engineering Proof at Scale
@@ -115,7 +61,6 @@ AI disrupts creators from lowest risk to highest, in that order. To protect your
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/內容產製系統與募資紀律|內容產製系統與募資紀律]]
 - **Applies:** [[02-Social-Media-Strategy/The AI-Era Content Barbell|The AI-Era Content Barbell - Raw Shorts, Produced Long Form, and Live Interaction]]
 - **Applies:** [[02-Social-Media-Strategy/可信度行銷與公開建構|可信度行銷與公開建構]]
@@ -133,6 +78,5 @@ AI disrupts creators from lowest risk to highest, in that order. To protect your
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop|The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Podcasts/2026-07-02_Podcast_AlexHormozi_PersonalBrandVsAI|Personal Brand vs. AI]]
 - **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

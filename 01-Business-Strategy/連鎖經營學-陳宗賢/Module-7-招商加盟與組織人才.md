@@ -1,42 +1,19 @@
 ---
-title: "連鎖經營學 · Module 7：招商加盟與組織人才"
+title: 連鎖經營學 · Module 7：招商加盟與組織人才
 aliases:
-  - "連鎖經營學 · Module 7：招商加盟與組織人才"
-type: "series-entry"
-domain: "business-strategy"
-series: "連鎖經營學"
-lang: "zh"
+  - 連鎖經營學 · Module 7：招商加盟與組織人才
+lang: zh
 tags:
-  [
-    topic/chain-store,
-    topic/franchise,
-    topic/org-design,
-    topic/hiring,
-    topic/unit-economics,
-    topic/operations,
-    person/chen-tsung-hsien
-  ]
-sources:
-  - id: "SRC-0044"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
-relationships:
-  - type: derives-from
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-8-財務會計與獲利核心
-  - type: prerequisite
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-2-連鎖類型與內創委任經營
-  - type: prerequisite
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-6-物流與供應鏈周轉
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
+  - topic/chain-store
+  - topic/franchise
+  - topic/org-design
+  - topic/hiring
+  - topic/unit-economics
+  - topic/operations
+  - person/chen-tsung-hsien
+status: reviewed
+updated: 2026-07-08
+series: 連鎖經營學
 ---
 
 # 連鎖經營學 · Module 7：招商加盟與組織人才
@@ -95,7 +72,6 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **衍生自:** [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
 - **是其前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-8-財務會計與獲利核心|連鎖經營學 · Module 8：財務會計與獲利核心]]
 - **前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-2-連鎖類型與內創委任經營|連鎖經營學 · Module 2：連鎖類型與內部創業／委任經營]]
@@ -104,5 +80,4 @@ relationships:
 - **相關:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing|Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]

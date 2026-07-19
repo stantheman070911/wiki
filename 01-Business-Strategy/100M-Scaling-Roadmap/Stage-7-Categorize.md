@@ -1,37 +1,17 @@
 ---
-title: "$100M 擴張路線圖 · Stage 7：Categorize 分工"
+title: $100M 擴張路線圖 · Stage 7：Categorize 分工
 aliases:
-  - "$100M 擴張路線圖 · Stage 7：Categorize 分工"
-type: "series-entry"
-domain: "business-strategy"
-series: "$100M Scaling Roadmap"
-lang: "zh"
+  - $100M 擴張路線圖 · Stage 7：Categorize 分工
+lang: zh
 tags:
-  [
-    topic/scaling,
-    source/acquisition-100m-roadmap,
-    topic/org-design,
-    topic/decision-making,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0059"
-    role: "primary"
-    locator: "Stage 7"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
-relationships:
-  - type: derives-from
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-8-Specialize
-  - type: prerequisite
-    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-6-Optimize
-  - type: related
-    target: 05-Intelligence-and-Research/供應鏈風險與關鍵人風險分散
+  - topic/scaling
+  - source/acquisition-100m-roadmap
+  - topic/org-design
+  - topic/decision-making
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
+series: $100M Scaling Roadmap
 ---
 
 # $100M 擴張路線圖 · Stage 7：Categorize 分工
@@ -95,12 +75,10 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **衍生自:** [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
 - **是其前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-8-Specialize|$100M 擴張路線圖 · Stage 8：Specialize 專精]]
 - **前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-6-Optimize|$100M 擴張路線圖 · Stage 6：Optimize 優化]]
 - **相關:** [[05-Intelligence-and-Research/供應鏈風險與關鍵人風險分散|供應鏈風險與關鍵人風險分散]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap|$100M Scaling Roadmap（Personalized Guide）]] — locator: Stage 7

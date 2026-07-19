@@ -1,38 +1,14 @@
 ---
-title: "Creator Monetization Ladder and Content-Concept Formulas"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Creator Monetization Ladder and Content-Concept Formulas
+lang: en
 tags:
-  [
-    topic/personal-brand,
-    topic/monetization,
-    topic/email-marketing,
-    topic/content-formats,
-    topic/offers
-  ]
-sources:
-  - id: "SRC-0071"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
-  Creation and Distribution Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/私域經營三段邏輯：引流、留存、轉換
-  - type: applies
-    target: 02-Social-Media-Strategy/Levels of a Personal Brand and the Five Archetypes
-  - type: applies
-    target: 02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產
-  - type: related
-    target: 03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder -
-      Fixing Views, Formats, and Timing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence -
-      Build in Public, Daily Cadence, Post-Launch Loop
+  - topic/personal-brand
+  - topic/monetization
+  - topic/email-marketing
+  - topic/content-formats
+  - topic/offers
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Creator Monetization Ladder and Content-Concept Formulas
@@ -77,7 +53,6 @@ Reliable, repeatable content shapes that build a buying audience:
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/私域經營三段邏輯：引流、留存、轉換|私域經營三段邏輯：引流、留存、轉換]]
 - **Applies:** [[02-Social-Media-Strategy/Levels of a Personal Brand and the Five Archetypes|Levels of a Personal Brand and the Five Archetypes]]
 - **Applies:** [[02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產|電子郵件名單：最被低估的自有高意圖資產]]
@@ -85,5 +60,4 @@ Reliable, repeatable content shapes that build a buying audience:
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop|The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_ArtOfThePersonalBrand|Art Of The Personal Brand]]

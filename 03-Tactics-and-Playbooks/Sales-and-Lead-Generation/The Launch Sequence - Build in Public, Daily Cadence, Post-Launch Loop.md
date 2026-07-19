@@ -1,43 +1,14 @@
 ---
-title: "The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop
+lang: en
 tags:
-  [
-    topic/monetization,
-    topic/offers,
-    topic/content-strategy,
-    topic/personal-brand,
-    person/jun-yuh
-  ]
-sources:
-  - id: "SRC-0075"
-    role: "primary"
-  - id: "SRC-0057"
-    role: "supporting"
-date_added: "2026-07-10"
-updated: "2026-07-10"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why
-  - type: applies
-    target: 02-Social-Media-Strategy/可信度行銷與公開建構
-  - type: applies
-    target: 02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
-      Create - Engineering Proof at Scale
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creator
-      Monetization Ladder and Content-Concept Formulas
-  - type: related
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film
-      Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing
+  - topic/monetization
+  - topic/offers
+  - topic/content-strategy
+  - topic/personal-brand
+  - person/jun-yuh
+status: draft
+updated: 2026-07-10
 ---
 
 # The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop
@@ -84,7 +55,6 @@ For creators selling a digital product, course, or event who post "it's live," e
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why|Creator Vision Framework: What x Who x Why]]
 - **Applies:** [[02-Social-Media-Strategy/可信度行銷與公開建構|可信度行銷與公開建構]]
 - **Applies:** [[02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產|電子郵件名單：最被低估的自有高意圖資產]]
@@ -93,6 +63,5 @@ For creators selling a digital product, course, or event who post "it's live," e
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing|Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-10_Video_JunYuh_HowToGrowAndMonetizeOnline2026|How To Actually Grow And Monetize Online in 2026 (PROVEN)]]
 - **supporting:** [[06-Source-Library/Podcasts/2026-07-10_Podcast_JunYuh_HowToBlowUpAnyPersonalBrand2026_The505Podcast|How To Blow Up ANY Personal Brand in 2026 (and Get Rich) — ft Jun Yuh (THE 505 PODCAST)]]

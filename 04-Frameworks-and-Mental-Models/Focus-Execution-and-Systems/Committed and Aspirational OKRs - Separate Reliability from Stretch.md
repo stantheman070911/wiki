@@ -1,45 +1,15 @@
 ---
-title: "Committed and Aspirational OKRs - Separate Reliability from Stretch"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Committed and Aspirational OKRs - Separate Reliability from Stretch
+lang: en
 tags:
-  [
-    topic/commitment,
-    topic/risk,
-    topic/learning,
-    topic/execution,
-    person/john-doerr,
-    source/measure-what-matters
-  ]
-sources:
-  - id: "SRC-0032"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
-  Execution and Systems Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
-      to Do
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating
-      Cycle - Set, Check In, Score, and Reflect
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and
-      Align - Make Priorities and Dependencies Public
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs -
-      Define Objectives Through Sufficient Key Results
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Out-Fail the
-      Competition - Building an Experimentation System
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Proximate
-      Objectives - Setting the Next Achievable Target
+  - topic/commitment
+  - topic/risk
+  - topic/learning
+  - topic/execution
+  - person/john-doerr
+  - source/measure-what-matters
+status: draft
+updated: 2026-07-18
 ---
 
 # Committed and Aspirational OKRs - Separate Reliability from Stretch
@@ -83,7 +53,6 @@ Fund and sequence the commitment basket first. Use remaining capacity to pursue 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating Cycle - Set, Check In, Score, and Reflect|The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and Align - Make Priorities and Dependencies Public|Focus and Align - Make Priorities and Dependencies Public]]
@@ -92,5 +61,4 @@ Fund and sequence the commitment basket first. Use remaining capacity to pursue 
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Proximate Objectives - Setting the Next Achievable Target|Proximate Objectives - Setting the Next Achievable Target]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript|Measure What Matters]]

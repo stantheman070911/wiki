@@ -1,42 +1,14 @@
 ---
-title: "Outbound and Inbound Are Separate Teams - The Sales Career Ladder"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Outbound and Inbound Are Separate Teams - The Sales Career Ladder
+lang: en
 tags:
-  [
-    topic/hiring,
-    topic/sales,
-    topic/compensation,
-    topic/org-design,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0073"
-    role: "primary"
-  - id: "SRC-0074"
-    role: "supporting"
-date_added: "2026-07-09"
-updated: "2026-07-09"
-reviewed_on: "2026-07-09"
-status: "reviewed"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders -
-      Reverse-Engineer OTE, Profit Pools, and Phantom Equity
-  - type: related
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
-      Intellectual Property - Process Above the Player
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four
-      Lead-Conversion Levers - Speed, Availability, Personalization, Volume
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback -
-      Sales as the Training Ground
+  - topic/hiring
+  - topic/sales
+  - topic/compensation
+  - topic/org-design
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-09
 ---
 
 # Outbound and Inbound Are Separate Teams - The Sales Career Ladder
@@ -79,7 +51,6 @@ A door-to-door roofing sales organization saw its outbound door-knocking hustle 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity|Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing|Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
@@ -87,6 +58,5 @@ A door-to-door roofing sales organization saw its outbound door-knocking hustle 
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript|Cash Cow Breakdowns - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]

@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0074"
-title: "Cash Cow Breakdowns"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Alex Hormozi"
-    role: "creator"
-source_type: "video"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-09"
-status: "source"
+title: Cash Cow Breakdowns
+author: Alex Hormozi
+lang: en
+archived: 2026-07-09
 ---
 
 # Alex Hormozi Cash Cow Business Breakdowns & Scaling AMAs - Extraction Notes & Entry Map

@@ -1,51 +1,15 @@
 ---
-title: "Commercial Teaching - Insight That Leads to Unique Strengths"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Commercial Teaching - Insight That Leads to Unique Strengths
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/differentiation,
-    topic/value-creation,
-    person/matthew-dixon,
-    person/brent-adamson,
-    source/the-challenger-sale
-  ]
-sources:
-  - id: "SRC-0035"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the
-      Prospect Already Gives You - Research-Based Positioning
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
-      Features - Sell the Identity Behind the Product
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State
-      Diagnosis - Facts, Problems, Impact, Cause, and Emotion
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Gap Prospecting -
-      Intrigue, Offer, Ask, and Cadence
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery -
-      Situation, Problem, Implication, and Need-Payoff
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for
-      Consensus - Stakeholder Outcomes and Widespread Support
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger
-      Selling Model - Teach, Tailor, and Take Control
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Commercial
-      Teaching Conversation - From Warmer to Your Solution
+  - topic/sales
+  - topic/differentiation
+  - topic/value-creation
+  - person/matthew-dixon
+  - person/brent-adamson
+  - source/the-challenger-sale
+status: draft
+updated: 2026-07-18
 ---
 
 # Commercial Teaching - Insight That Leads to Unique Strengths
@@ -89,7 +53,6 @@ Grainger shifted customers from tracking what MRO products they bought to examin
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the Prospect Already Gives You - Research-Based Positioning|Own What the Prospect Already Gives You - Research-Based Positioning]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product|Values Before Features - Sell the Identity Behind the Product]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion|Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion]]
@@ -100,5 +63,4 @@ Grainger shifted customers from tracking what MRO products they bought to examin
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Commercial Teaching Conversation - From Warmer to Your Solution|The Commercial Teaching Conversation - From Warmer to Your Solution]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript|The Challenger Sale]]

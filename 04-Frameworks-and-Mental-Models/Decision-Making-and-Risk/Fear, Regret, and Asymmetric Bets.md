@@ -1,83 +1,17 @@
 ---
-title: "Fear, Regret, and Asymmetric Bets"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Fear, Regret, and Asymmetric Bets
+lang: en
 tags:
-  [
-    topic/mindset,
-    topic/risk,
-    topic/decision-making,
-    person/alex-hormozi,
-    person/daniel-priestley,
-    person/nassim-nicholas-taleb,
-    source/daniel-priestley-youtube,
-    source/skin-in-the-game
-  ]
-sources:
-  - id: "SRC-0068"
-    role: "primary"
-  - id: "SRC-0085"
-    role: "supporting"
-  - id: "SRC-0012"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
-  Making and Risk Map
-relationships:
-  - type: has-example
-    target: 05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA,
-      and Risk as the Last Human Job
-  - type: is-applied-by
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Fundraising Is a Process -
-      Momentum, Herd Dynamics, and Survival
-  - type: is-applied-by
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
-      Return on Time, and Money Rules
-  - type: is-applied-by
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of
-      Investing - Diversification via Uncorrelated Return Streams
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The Entrepreneur
-      Apprenticeship
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Increase the
-      Surface Area of Luck
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin -
-      Time Probability, Repeated Exposure, and Survival First
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Hard Road
-      Is the Right Road - Second-Order Thinking and Effort Moats
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law
-      of Venture Capital and Careers
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Pre-Mortem
-      - Imagine Failure Before It Happens
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a
-      Partnership Makes Sense - The Five Things a Partner Must Bring
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/選擇、承諾與人生取捨
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Out-Fail the
-      Competition - Building an Experimentation System
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80%
-      Mindset - Risk Tolerance and Refusing to Quit
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin
-      Story - Heroes Use Pain
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group
-      and Re-engineering Your Circle
+  - topic/mindset
+  - topic/risk
+  - topic/decision-making
+  - person/alex-hormozi
+  - person/daniel-priestley
+  - person/nassim-nicholas-taleb
+  - source/daniel-priestley-youtube
+  - source/skin-in-the-game
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Fear, Regret, and Asymmetric Bets
@@ -120,7 +54,6 @@ Source for this section: *Alex Hormozi Answers Your Questions (Ask Me Anything)*
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has example:** [[05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job|Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
 - **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/Fundraising Is a Process - Momentum, Herd Dynamics, and Survival|Fundraising Is a Process - Momentum, Herd Dynamics, and Survival]]
 - **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
@@ -140,7 +73,6 @@ Source for this section: *Alex Hormozi Answers Your Questions (Ask Me Anything)*
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle|The Reference Group and Re-engineering Your Circle]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript|25 Harsh Truths at 45 - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript|Skin in the Game - Raw Transcript]]

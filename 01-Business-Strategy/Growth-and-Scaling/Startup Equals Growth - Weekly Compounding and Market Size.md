@@ -1,47 +1,16 @@
 ---
-title: "Startup Equals Growth - Weekly Compounding and Market Size"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Startup Equals Growth - Weekly Compounding and Market Size
+lang: en
 tags:
-  [
-    topic/startups,
-    topic/growth,
-    topic/scaling,
-    topic/tam,
-    topic/inputs-vs-outputs,
-    person/paul-graham,
-    source/paul-graham-essays
-  ]
-sources:
-  - id: "SRC-0046"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Flywheel
-      and the Doom Loop - Compound Momentum in One Direction
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
-      50 Percent Rule - Build Product and Traction in Parallel
-  - type: has-example
-    target: 05-Intelligence-and-Research/Startup Hubs - Ambition, Density, and the
-      People Who Matter
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Do Things That Don't
-      Scale - Recruit, Delight, and Learn by Hand
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Software Shape -
-      Survive to Product-Market Fit, Then Retain Forever
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default
-      Dead - Runway, Growth, and the Fatal Pinch
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/The TAM Illusion
+  - topic/startups
+  - topic/growth
+  - topic/scaling
+  - topic/tam
+  - topic/inputs-vs-outputs
+  - person/paul-graham
+  - source/paul-graham-essays
+status: draft
+updated: 2026-07-13
 ---
 
 # Startup Equals Growth - Weekly Compounding and Market Size
@@ -76,7 +45,6 @@ At 10% weekly growth, 100 users become roughly 14,000 in a year and about two mi
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Flywheel and the Doom Loop - Compound Momentum in One Direction|The Flywheel and the Doom Loop - Compound Momentum in One Direction]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The 50 Percent Rule - Build Product and Traction in Parallel|The 50 Percent Rule - Build Product and Traction in Parallel]]
 - **Has example:** [[05-Intelligence-and-Research/Startup Hubs - Ambition, Density, and the People Who Matter|Startup Hubs - Ambition, Density, and the People Who Matter]]
@@ -86,5 +54,4 @@ At 10% weekly growth, 100 users become roughly 14,000 in a year and about two mi
 - **Related:** [[01-Business-Strategy/Growth-and-Scaling/The TAM Illusion|The TAM Illusion - Saturated Markets, the Puddle-to-Ocean Path, and Five Directions to Move]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

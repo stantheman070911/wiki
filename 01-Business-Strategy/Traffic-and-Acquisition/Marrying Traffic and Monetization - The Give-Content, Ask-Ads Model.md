@@ -1,63 +1,15 @@
 ---
-title: "Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model
+lang: en
 tags:
-  [
-    topic/marketing,
-    topic/monetization,
-    topic/growth,
-    topic/paid-ads,
-    topic/offers,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0066"
-    role: "primary"
-  - id: "SRC-0074"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-13"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
-      Actually Is - Association, Influence, Direction, Reach
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation
-      and Commitment - Persuasion's Two Deepest Levers
-  - type: has-example
-    target: 05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era
-      Moat
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Building a Content Team -
-      Hiring Funnel, Contractors, and Onboarding
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom
-      Loop and the One-Brand Bet
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/業績公式與商業定位：從流量思維到變現路徑
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
-      Traffic Before the Core Offer
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid
-      and the Halo Strategy
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
-      - Ads Are an At-Bats Game
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/五大流量模型與私域轉換：從你找人到人找你
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/網紅行銷引擎：以CPM反推的分散式機器
-  - type: related
-    target: 02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model
+  - topic/marketing
+  - topic/monetization
+  - topic/growth
+  - topic/paid-ads
+  - topic/offers
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-13
 ---
 
 # Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model
@@ -100,7 +52,6 @@ For every new medium, start with an agency to buy lessons and shrink timelines �
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation and Commitment - Persuasion's Two Deepest Levers|Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
 - **Has example:** [[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat|The Attention Barbell - Brand as the AI-Era Moat]]
@@ -116,6 +67,5 @@ For every new medium, start with an agency to buy lessons and shrink timelines �
 - **Related:** [[02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model|Interest Media and the Zero-Follower Reach Model]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode|Building a Brand - Easy Mode]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]

@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0083"
-title: "Psychology of Building a Successful Service Business"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Will Barron"
-    role: "creator"
-source_type: "video"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-10"
-status: "source"
+title: Psychology of Building a Successful Service Business
+author: Will Barron
+lang: en
+archived: 2026-07-10
 ---
 
 # The Psychology of Building a Successful Service Business — Extraction Notes & Entry Map

@@ -1,46 +1,17 @@
 ---
-title: "Don't Resign, Redesign - Four Ways to Change Work in Place"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Don't Resign, Redesign - Four Ways to Change Work in Place
+lang: en
 tags:
-  [
-    topic/career,
-    topic/strategy,
-    topic/skills,
-    topic/decision-making,
-    topic/innovation,
-    person/bill-burnett,
-    person/dave-evans,
-    source/designing-your-new-work-life
-  ]
-sources:
-  - id: "SRC-0026"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
-      Filter - Stay, Scale, or Burn It Down
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Overwhelm Is
-      a System Signal - Diagnose Before Burnout
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good
-      Enough for Now - Acceptance Without Settling
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The ARC of
-      Career Motivation - Autonomy, Relatedness, and Competence
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace
-      Influence Mapping - Authority, Value, and Recognition
-  - type: related
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Quitting Well and
-      Moving On
+  - topic/career
+  - topic/strategy
+  - topic/skills
+  - topic/decision-making
+  - topic/innovation
+  - person/bill-burnett
+  - person/dave-evans
+  - source/designing-your-new-work-life
+status: draft
+updated: 2026-07-18
 ---
 
 # Don't Resign, Redesign - Four Ways to Change Work in Place
@@ -83,7 +54,6 @@ Sarah loved technical leadership but was drained by budgets and schedules. She p
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Overwhelm Is a System Signal - Diagnose Before Burnout|Overwhelm Is a System Signal - Diagnose Before Burnout]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good Enough for Now - Acceptance Without Settling|Good Enough for Now - Acceptance Without Settling]]
@@ -92,5 +62,4 @@ Sarah loved technical leadership but was drained by budgets and schedules. She p
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Quitting Well and Moving On|Quitting Well and Moving On]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript|Designing Your New Work Life - Raw Transcript]]

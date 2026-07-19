@@ -1,35 +1,12 @@
 ---
-title: "Happiness Is a Skill - Presence, Peace, and Self-Care"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/happiness, topic/mindset, person/naval-ravikant ]
-sources:
-  - id: "SRC-0003"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
-  Leadership and Wellbeing Map
-relationships:
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to
-      Love to Read - Foundations, Clear Thinking, and Mental Models
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is
-      Short - Ruthless Attention Allocation
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/孤獨、簡單勝過輕鬆與犧牲平庸
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/決策、幸福與心智管理
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
-      Gratification - Patience and Inputs vs Outputs
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group
-      and Re-engineering Your Circle
+title: Happiness Is a Skill - Presence, Peace, and Self-Care
+lang: en
+tags:
+  - topic/happiness
+  - topic/mindset
+  - person/naval-ravikant
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Happiness Is a Skill - Presence, Peace, and Self-Care
@@ -72,7 +49,6 @@ The existing entry [[決策、幸福與心智管理]] covers Naval's happiness *
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to Love to Read - Foundations, Clear Thinking, and Mental Models|Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is Short - Ruthless Attention Allocation|Life Is Short - Ruthless Attention Allocation]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/孤獨、簡單勝過輕鬆與犧牲平庸|孤獨、簡單勝過輕鬆與犧牲平庸]]
@@ -81,5 +57,4 @@ The existing entry [[決策、幸福與心智管理]] covers Naval's happiness *
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle|The Reference Group and Re-engineering Your Circle]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_EricJorgenson_TheAlmanackOfNavalRavikant|The Almanack Of Naval Ravikant]]

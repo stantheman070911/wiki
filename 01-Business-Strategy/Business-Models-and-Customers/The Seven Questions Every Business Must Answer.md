@@ -1,47 +1,14 @@
 ---
-title: "The Seven Questions Every Business Must Answer"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: The Seven Questions Every Business Must Answer
+lang: en
 tags:
-  [
-    topic/monopoly,
-    topic/business-model,
-    topic/secrets,
-    topic/product,
-    person/peter-thiel
-  ]
-sources:
-  - id: "SRC-0014"
-    role: "primary"
-    locator: "ch. 13"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: "2026-07-13"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
-  and Customers Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How
-      to Find What Everyone Else Has Missed
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Pre-Mortem
-      - Imagine Failure Before It Happens
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is
-      Destiny - The Sales Channel Power Law
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
-      of a Perfect Business
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept
-      - Three Circles and the Economic Denominator
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition -
-      Why All Happy Companies Are Different
+  - topic/monopoly
+  - topic/business-model
+  - topic/secrets
+  - topic/product
+  - person/peter-thiel
+status: reviewed
+updated: 2026-07-13
 ---
 
 # The Seven Questions Every Business Must Answer
@@ -76,7 +43,6 @@ Thiel uses the cleantech bubble as a diagnostic case study precisely because the
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How to Find What Everyone Else Has Missed|Secrets - How to Find What Everyone Else Has Missed]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Pre-Mortem - Imagine Failure Before It Happens|The Pre-Mortem - Imagine Failure Before It Happens]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law|Distribution Is Destiny - The Sales Channel Power Law]]
@@ -86,5 +52,4 @@ Thiel uses the cleantech bubble as a diagnostic case study precisely because the
 - **Related:** [[01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition - Why All Happy Companies Are Different|Monopoly vs. Competition - Why All Happy Companies Are Different]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 13

@@ -1,42 +1,15 @@
 ---
-title: "Triple-A Growth Sprints - Analyze, Ask, and Act"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Triple-A Growth Sprints - Analyze, Ask, and Act
+lang: en
 tags:
-  [
-    topic/growth,
-    topic/operations,
-    topic/prioritization,
-    topic/decision-making,
-    person/wes-bush,
-    source/product-led-growth
-  ]
-sources:
-  - id: "SRC-0040"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
-  Productivity Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow
-      With Customer Outcomes
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand,
-      Communicate, and Deliver Customer Value
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of
-      Constraints - The Five Focusing Steps
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating
-      Cycle - Set, Check In, Score, and Reflect
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Bowling Alley
-      Framework - Straight-Line Onboarding and Two Bumpers
+  - topic/growth
+  - topic/operations
+  - topic/prioritization
+  - topic/decision-making
+  - person/wes-bush
+  - source/product-led-growth
+status: draft
+updated: 2026-07-18
 ---
 
 # Triple-A Growth Sprints - Analyze, Ask, and Act
@@ -81,7 +54,6 @@ Use the value foundation as a diagnostic shortcut: weak signups may signal poor 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow With Customer Outcomes|Value Metrics - Price and Grow With Customer Outcomes]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand, Communicate, and Deliver Customer Value|UCD - Understand, Communicate, and Deliver Customer Value]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of Constraints - The Five Focusing Steps|Theory of Constraints - The Five Focusing Steps]]
@@ -89,5 +61,4 @@ Use the value foundation as a diagnostic shortcut: weak signups may signal poor 
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers|The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript|Product-Led Growth]]

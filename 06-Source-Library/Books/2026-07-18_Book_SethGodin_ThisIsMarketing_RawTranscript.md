@@ -1,19 +1,9 @@
 ---
-source_id: "SRC-0039"
-title: "This Is Marketing"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Seth Godin"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "2018"
-date_archived: "2026-07-18"
-status: "source"
+title: This Is Marketing
+author: Seth Godin
+lang: en
+published: "2018"
+archived: 2026-07-18
 ---
 
 Portfolio/Penguin An imprint of Penguin Random House LLC

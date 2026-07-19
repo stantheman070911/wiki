@@ -1,66 +1,15 @@
 ---
-title: "The Four Business Shapes - E-commerce, Service, Education, Software"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: The Four Business Shapes - E-commerce, Service, Education, Software
+lang: en
 tags:
-  [
-    topic/business-model,
-    topic/scaling,
-    topic/mental-models,
-    topic/theory-of-constraints,
-    topic/moat,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0107"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
-  and Customers Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape
-      - Scale Fast, Then Fight Cash, Supply, and Brand
-  - type: applies
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Software Shape -
-      Survive to Product-Market Fit, Then Retain Forever
-  - type: applies
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of
-      Service Businesses
-  - type: applies
-    target: 01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem
-      - Sell Consumable Inputs, Not the Black Box
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape
-      - Scale Fast, Then Fight Cash, Supply, and Brand
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Software Shape -
-      Survive to Product-Market Fit, Then Retain Forever
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of
-      Service Businesses
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem
-      - Sell Consumable Inputs, Not the Black Box
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
-      of a Perfect Business
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept
-      - Three Circles and the Economic Denominator
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The SMB Service
-      Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/The Seven Levels of Business
-      Growth - From Side Hustle to Exit
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the
-      Overkill Bias - Why the Best Get to Teach
+  - topic/business-model
+  - topic/scaling
+  - topic/mental-models
+  - topic/theory-of-constraints
+  - topic/moat
+  - person/alex-hormozi
+status: draft
+updated: 2026-07-18
 ---
 
 # The Four Business Shapes - E-commerce, Service, Education, Software
@@ -104,7 +53,6 @@ Use this to diagnose which model you are actually in (and therefore which proble
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand|The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand]]
 - **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Software Shape - Survive to Product-Market Fit, Then Retain Forever|The Software Shape - Survive to Product-Market Fit, Then Retain Forever]]
 - **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of Service Businesses|The Virtuous Cycle of Service Businesses]]
@@ -120,5 +68,4 @@ Use this to diagnose which model you are actually in (and therefore which proble
 - **Related:** [[01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the Overkill Bias - Why the Best Get to Teach|Real-World Proof and the Overkill Bias - Why the Best Get to Teach]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-18_Video_AlexHormozi_HowToGrowAnyBusinessFast_RawTranscript|How to Grow Any Business Fast (The Four Business Shapes)]]

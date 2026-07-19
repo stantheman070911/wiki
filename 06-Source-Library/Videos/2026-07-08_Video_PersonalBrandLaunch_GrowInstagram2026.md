@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0072"
-title: "Grow Instagram in 2026"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Personal Brand Launch"
-    role: "creator"
-source_type: "video"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-08"
-status: "source"
+title: Grow Instagram in 2026
+author: Personal Brand Launch
+lang: en
+archived: 2026-07-08
 ---
 
 # How to Grow an Instagram Account in 2026 (Ava / Personal Brand Launch) — Extraction Notes & Entry Map

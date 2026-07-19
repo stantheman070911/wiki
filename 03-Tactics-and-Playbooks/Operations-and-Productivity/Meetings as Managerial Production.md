@@ -1,43 +1,15 @@
 ---
-title: "Meetings as Managerial Production"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Meetings as Managerial Production
+lang: en
 tags:
-  [
-    topic/management,
-    topic/operations,
-    topic/leadership,
-    topic/feedback,
-    person/andrew-grove,
-    source/high-output-management
-  ]
-sources:
-  - id: "SRC-0022"
-    role: "primary"
-    locator: "chapter 4"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
-  Productivity Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial
-      Output and Leverage
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Overwhelm Is
-      a System Signal - Diagnose Before Burnout
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and
-      Stay in Sync
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Task-Relevant
-      Maturity
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Team Checklists -
-      Communication Before Coordination
+  - topic/management
+  - topic/operations
+  - topic/leadership
+  - topic/feedback
+  - person/andrew-grove
+  - source/high-output-management
+status: draft
+updated: 2026-07-18
 ---
 
 # Meetings as Managerial Production
@@ -81,7 +53,6 @@ Grove treats a ninety-minute one-on-one every two weeks as leverage over roughly
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial Output and Leverage|Managerial Output and Leverage]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Overwhelm Is a System Signal - Diagnose Before Burnout|Overwhelm Is a System Signal - Diagnose Before Burnout]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and Stay in Sync|Get and Stay in Sync]]
@@ -89,5 +60,4 @@ Grove treats a ninety-minute one-on-one every two weeks as leverage over roughly
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Team Checklists - Communication Before Coordination|Team Checklists - Communication Before Coordination]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript|High Output Management - Raw Transcript]] — locator: chapter 4

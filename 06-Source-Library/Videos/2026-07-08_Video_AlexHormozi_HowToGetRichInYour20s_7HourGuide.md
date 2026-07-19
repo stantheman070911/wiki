@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0068"
-title: "How to Get Rich in Your 20s - 7-Hour Guide"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Alex Hormozi"
-    role: "creator"
-source_type: "video"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-08"
-status: "source"
+title: How to Get Rich in Your 20s - 7-Hour Guide
+author: Alex Hormozi
+lang: en
+archived: 2026-07-08
 ---
 
 ## Raw transcript

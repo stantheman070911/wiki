@@ -1,30 +1,13 @@
 ---
-title: "Association - Rich People Model Winners, Poor People Hang Around Losers"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
-tags: [ topic/mindset, topic/identity, topic/focus, person/t-harv-eker ]
-sources:
-  - id: "SRC-0018"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: has-example
-    target: 05-Intelligence-and-Research/Startup Hubs - Ambition, Density, and the
-      People Who Matter
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Admire vs. Resent
-      the Rich - Bless That Which You Want
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Constantly Learn
-      and Grow vs. Think They Already Know - BE, DO, HAVE
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Willing to
-      Self-Promote vs. Averse to Selling
+title: Association - Rich People Model Winners, Poor People Hang Around Losers
+lang: en
+tags:
+  - topic/mindset
+  - topic/identity
+  - topic/focus
+  - person/t-harv-eker
+status: draft
+updated: 2026-07-13
 ---
 
 # Association - Rich People Model Winners, Poor People Hang Around Losers
@@ -51,12 +34,10 @@ Wealth File #7. Follows directly from admiring vs. resenting the rich (Wealth Fi
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has example:** [[05-Intelligence-and-Research/Startup Hubs - Ambition, Density, and the People Who Matter|Startup Hubs - Ambition, Density, and the People Who Matter]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Admire vs. Resent the Rich - Bless That Which You Want|Admire vs. Resent the Rich - Bless That Which You Want]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE|Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Willing to Self-Promote vs. Averse to Selling|Willing to Self-Promote vs. Averse to Selling]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

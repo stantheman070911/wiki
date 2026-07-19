@@ -1,45 +1,15 @@
 ---
-title: "Three Market Positioning Styles - Head to Head, Big Fish, or New Game"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Three Market Positioning Styles - Head to Head, Big Fish, or New Game
+lang: en
 tags:
-  [
-    topic/positioning,
-    topic/differentiation,
-    topic/strategy,
-    topic/marketing,
-    person/april-dunford,
-    source/obviously-awesome
-  ]
-sources:
-  - id: "SRC-0023"
-    role: "primary"
-    locator: "Chapter 10"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Business-Models-and-Customers/Smallest Viable
-      Market - Specificity Before Scale
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
-      Hole in the Mind (Cherchez le Creneau)
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition -
-      Why All Happy Companies Are Different
-  - type: is-applied-by
-    target: 01-Business-Strategy/Positioning-and-Branding/Positioning a Company -
-      Stand for a Specific Achievement, Not Diversification
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the
-      Prospect Already Gives You - Research-Based Positioning
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning
-      Sequence - Alternatives, Attributes, Value, Customers, and Market
+  - topic/positioning
+  - topic/differentiation
+  - topic/strategy
+  - topic/marketing
+  - person/april-dunford
+  - source/obviously-awesome
+status: draft
+updated: 2026-07-18
 ---
 
 # Three Market Positioning Styles - Head to Head, Big Fish, or New Game
@@ -82,7 +52,6 @@ Eloqua initially focused on the unusual “demand generation” practitioners wh
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/Smallest Viable Market - Specificity Before Scale|Smallest Viable Market - Specificity Before Scale]]
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)|Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition - Why All Happy Companies Are Different|Monopoly vs. Competition - Why All Happy Companies Are Different]]
@@ -91,5 +60,4 @@ Eloqua initially focused on the unusual “demand generation” practitioners wh
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market|Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AprilDunford_ObviouslyAwesome_RawTranscript|Obviously Awesome]] — locator: Chapter 10

@@ -1,53 +1,18 @@
 ---
-title: "The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the
-  Market That Isn't Ready to Buy Yet"
+title: The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet
 aliases:
-  - "The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market
-    That Isn't Ready to Buy Yet"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+  - The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet
+lang: en
 tags:
-  [
-    topic/funnel,
-    topic/content-strategy,
-    topic/research,
-    topic/avatar,
-    person/sabri-suby,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0078"
-    role: "primary"
-  - id: "SRC-0097"
-    role: "supporting"
-date_added: "2026-07-10"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Direct-Response
-      Copywriting
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
-      Rule of 100 - Lead Generation Fundamentals
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/High-Ticket Self-Checkout -
-      Brand and Qualification Compress the Sale
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A
-      Seven-Part Framework for an Irresistible Offer
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and
-      Monetization - The Give-Content, Ask-Ads Model
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground -
-      Problem, Process, and Prize Experiences
+  - topic/funnel
+  - topic/content-strategy
+  - topic/research
+  - topic/avatar
+  - person/sabri-suby
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: draft
+updated: 2026-07-13
 ---
 
 # The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet
@@ -98,7 +63,6 @@ Marketing engineered to speak to the *entire* pyramid â€” not just the top 3% â€
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Direct-Response Copywriting|Direct-Response Copywriting - NEWIF, the Nine Questions, and Three Conversion-Killing Mistakes]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/High-Ticket Self-Checkout - Brand and Qualification Compress the Sale|High-Ticket Self-Checkout - Brand and Qualification Compress the Sale]]
@@ -108,6 +72,5 @@ Marketing engineered to speak to the *entire* pyramid â€” not just the top 3% â€
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground - Problem, Process, and Prize Experiences|The Marketing Playground - Problem, Process, and Prize Experiences]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook|Customer Acquisition, Offers, And Ads Playbook]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_MarketingPlayground_RawTranscript|Marketing Playground - Raw Transcript]]

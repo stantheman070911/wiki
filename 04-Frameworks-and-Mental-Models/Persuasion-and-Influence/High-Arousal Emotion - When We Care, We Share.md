@@ -1,43 +1,15 @@
 ---
-title: "High-Arousal Emotion - When We Care, We Share"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: High-Arousal Emotion - When We Care, We Share
+lang: en
 tags:
-  [
-    topic/word-of-mouth,
-    topic/persuasion,
-    topic/content-strategy,
-    topic/storytelling,
-    person/jonah-berger,
-    source/contagious
-  ]
-sources:
-  - id: "SRC-0033"
-    role: "primary"
-    locator: "ch. 3"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: "2026-07-18"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
-  and Influence Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
-      Framework - Six Drivers of Word of Mouth
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
-      - Heros Journey, the Trojan Horse, and Handling Objections
-  - type: is-applied-by
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
-      Framework - Six Drivers of Word of Mouth
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top
-      of Mind, Tip of Tongue
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable
-      Virality - Build a Trojan Horse People Can't Retell Without You
+  - topic/word-of-mouth
+  - topic/persuasion
+  - topic/content-strategy
+  - topic/storytelling
+  - person/jonah-berger
+  - source/contagious
+status: reviewed
+updated: 2026-07-18
 ---
 
 # High-Arousal Emotion - When We Care, We Share
@@ -76,7 +48,6 @@ The third STEPPS driver (see [[The STEPPS Framework - Six Drivers of Word of Mou
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections|Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]]
 - **Is applied by:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
@@ -84,5 +55,4 @@ The third STEPPS driver (see [[The STEPPS Framework - Six Drivers of Word of Mou
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable Virality - Build a Trojan Horse People Can't Retell Without You|Valuable Virality - Build a Trojan Horse People Can't Retell Without You]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_JonahBerger_Contagious|Contagious: Why Things Catch On]] — locator: ch. 3

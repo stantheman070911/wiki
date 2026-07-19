@@ -1,43 +1,17 @@
 ---
-title: "Selling Upmarket - Contextual Adjacency and Land-and-Expand"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Selling Upmarket - Contextual Adjacency and Land-and-Expand
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/positioning,
-    topic/trust,
-    topic/enterprise,
-    topic/partnerships,
-    topic/proof,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0095"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points
-      - Anchor a New Position to What's Already Believed
-  - type: applies
-    target: 01-Business-Strategy/Pricing-and-Offers/High-Ticket Self-Checkout -
-      Brand and Qualification Compress the Sale
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
-      Selling Through Trusted Referrers
-  - type: has-derivative
-    target: 07-Articles/Trust Should Have a Credit Limit
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
-      Sell the Goal, Scope the Journey, Secure Prepayment
+  - topic/sales
+  - topic/positioning
+  - topic/trust
+  - topic/enterprise
+  - topic/partnerships
+  - topic/proof
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: draft
+updated: 2026-07-13
 ---
 
 # Selling Upmarket - Contextual Adjacency and Land-and-Expand
@@ -80,7 +54,6 @@ A property-sourcing adviser repositioned exclusively for senior leaders at major
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points - Anchor a New Position to What's Already Believed|Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
 - **Applies:** [[01-Business-Strategy/Pricing-and-Offers/High-Ticket Self-Checkout - Brand and Qualification Compress the Sale|High-Ticket Self-Checkout - Brand and Qualification Compress the Sale]]
 - **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
@@ -88,5 +61,4 @@ A property-sourcing adviser repositioned exclusively for senior leaders at major
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_HowToSellToRichPeople_RawTranscript|How to Sell to Rich People - Raw Transcript]]

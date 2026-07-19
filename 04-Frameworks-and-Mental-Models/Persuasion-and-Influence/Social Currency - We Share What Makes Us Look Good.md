@@ -1,52 +1,15 @@
 ---
-title: "Social Currency - We Share What Makes Us Look Good"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Social Currency - We Share What Makes Us Look Good
+lang: en
 tags:
-  [
-    topic/word-of-mouth,
-    topic/persuasion,
-    topic/brand,
-    topic/incentives,
-    person/jonah-berger,
-    source/contagious
-  ]
-sources:
-  - id: "SRC-0033"
-    role: "primary"
-    locator: "ch. 1"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: "2026-07-18"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
-  and Influence Map
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
-      Framework - Six Drivers of Word of Mouth
-  - type: contrast
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top
-      of Mind, Tip of Tongue
-  - type: is-applied-by
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
-      Framework - Six Drivers of Word of Mouth
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a
-      Brand Signal
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/People Like Us
-      Do Things Like This - Culture and Status as Behavior
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
-      Observability and Behavioral Residue
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
-      Liking, Authority, and Scarcity - The Four Social Shortcuts
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable
-      Virality - Build a Trojan Horse People Can't Retell Without You
+  - topic/word-of-mouth
+  - topic/persuasion
+  - topic/brand
+  - topic/incentives
+  - person/jonah-berger
+  - source/contagious
+status: reviewed
+updated: 2026-07-18
 ---
 
 # Social Currency - We Share What Makes Us Look Good
@@ -89,7 +52,6 @@ Scarcity (limited supply/time) and exclusivity (access gated by criteria or *kno
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
 - **Contrast:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue|Triggers - Top of Mind, Tip of Tongue]]
 - **Is applied by:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
@@ -100,5 +62,4 @@ Scarcity (limited supply/time) and exclusivity (access gated by criteria or *kno
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable Virality - Build a Trojan Horse People Can't Retell Without You|Valuable Virality - Build a Trojan Horse People Can't Retell Without You]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_JonahBerger_Contagious|Contagious: Why Things Catch On]] — locator: ch. 1

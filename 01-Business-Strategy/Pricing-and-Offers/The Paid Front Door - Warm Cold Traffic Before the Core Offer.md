@@ -1,71 +1,14 @@
 ---
-title: "The Paid Front Door - Warm Cold Traffic Before the Core Offer"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: The Paid Front Door - Warm Cold Traffic Before the Core Offer
+lang: en
 tags:
-  [
-    topic/offers,
-    topic/front-end-offer,
-    topic/sales,
-    topic/funnel,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-  - id: "SRC-0042"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: has-example
-    target: 05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and
-      Human Escalation
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Declarative
-      to Sell, Procedural to Deliver
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback -
-      Sales as the Training Ground
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/Survive vs Thrive
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a
-      Force Multiplier
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills
-      診斷、1-1-1 與萬能前門
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
-      Unscalable Premium Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
-      Discount - Make the Difference Obvious
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get
-      Them What They Need - The Defined-End Offer
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/High-Ticket Self-Checkout -
-      Brand and Qualification Compress the Sale
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
-      Selling Through Trusted Referrers
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition
-      - Make the Customer Fund the Next Customer
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and
-      Monetization - The Give-Content, Ask-Ads Model
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
-      - Ads Are an At-Bats Game
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground -
-      Problem, Process, and Prize Experiences
+  - topic/offers
+  - topic/front-end-offer
+  - topic/sales
+  - topic/funnel
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # The Paid Front Door - Warm Cold Traffic Before the Core Offer
@@ -117,7 +60,6 @@ For a health newsletter in AMA 3, repeated generic meal-plan offers had failed. 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has example:** [[05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and Human Escalation|ChatGPT Advertising - Intent, Memory, and Human Escalation]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Declarative to Sell, Procedural to Deliver|Declarative to Sell, Procedural to Deliver]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]
@@ -135,6 +77,5 @@ For a health newsletter in AMA 3, repeated generic meal-plan offers had failed. 
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground - Problem, Process, and Prize Experiences|The Marketing Playground - Problem, Process, and Prize Experiences]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
 - **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

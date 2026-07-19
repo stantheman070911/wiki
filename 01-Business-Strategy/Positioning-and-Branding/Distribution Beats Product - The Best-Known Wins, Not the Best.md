@@ -1,49 +1,14 @@
 ---
-title: "Distribution Beats Product - The Best-Known Wins, Not the Best"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Distribution Beats Product - The Best-Known Wins, Not the Best
+lang: en
 tags:
-  [
-    topic/distribution,
-    topic/sales,
-    topic/marketing,
-    topic/moat,
-    person/sabri-suby
-  ]
-sources:
-  - id: "SRC-0084"
-    role: "primary"
-date_added: "2026-07-12"
-updated: "2026-07-12"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority
-      Rule - How Intransigent Preferences Dominate Flexible Majorities
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape
-      - Scale Fast, Then Fight Cash, Supply, and Brand
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
-      Compounding - Too Good to Fail
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition -
-      Why All Happy Companies Are Different
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
-      in the Prospect's Mind
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the
-      Overkill Bias - Why the Best Get to Teach
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing
-      Scale - Sell the Outcome, Not Your Effort
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where
-      the Fewest Go
+  - topic/distribution
+  - topic/sales
+  - topic/marketing
+  - topic/moat
+  - person/sabri-suby
+status: draft
+updated: 2026-07-12
 ---
 
 # Distribution Beats Product - The Best-Known Wins, Not the Best
@@ -73,7 +38,6 @@ A hard pill for product-obsessed founders: the market rarely rewards the finest 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities|The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand|The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand]]
 - **Related:** [[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail|Brand and Product Compounding - Too Good to Fail]]
@@ -84,5 +48,4 @@ A hard pill for product-obsessed founders: the market rarely rewards the finest 
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where the Fewest Go|The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]

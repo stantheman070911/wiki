@@ -1,19 +1,9 @@
 ---
-source_id: "SRC-0036"
-title: "The SPIN Selling Fieldbook"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Neil Rackham"
-    role: "author"
-source_type: "book"
-source_format: "raw-transcript"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-published_on: "1996"
-date_archived: "2026-07-18"
-status: "source"
+title: The SPIN Selling Fieldbook
+author: Neil Rackham
+lang: en
+published: "1996"
+archived: 2026-07-18
 ---
 
 

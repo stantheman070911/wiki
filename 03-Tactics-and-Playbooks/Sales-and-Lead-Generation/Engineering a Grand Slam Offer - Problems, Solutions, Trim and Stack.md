@@ -1,42 +1,14 @@
 ---
-title: "Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack
+lang: en
 tags:
-  [
-    topic/offers,
-    topic/value-equation,
-    topic/product,
-    topic/sales,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0021"
-    role: "primary"
-    locator: "Parts 1–2"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
-      Slam Offer
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
-      Framework for Making Frameworks - Distill by Commonality
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal -
-      The Guarantee Toolkit
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and
-      Urgency - Engineering Demand with Supply and Deadlines
-  - type: is-applied-by
-    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
-      Slam Offer
+  - topic/offers
+  - topic/value-equation
+  - topic/product
+  - topic/sales
+  - person/alex-hormozi
+status: draft
+updated: 2026-07-18
 ---
 
 # Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack
@@ -80,7 +52,6 @@ Same solution, many delivery costs and perceived values — that variety is what
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Framework for Making Frameworks - Distill by Commonality|The Framework for Making Frameworks - Distill by Commonality]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal - The Guarantee Toolkit|Risk Reversal - The Guarantee Toolkit]]
@@ -88,5 +59,4 @@ Same solution, many delivery costs and perceived values — that variety is what
 - **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MOffers_RawTranscript|$100M Offers]] — locator: Parts 1–2

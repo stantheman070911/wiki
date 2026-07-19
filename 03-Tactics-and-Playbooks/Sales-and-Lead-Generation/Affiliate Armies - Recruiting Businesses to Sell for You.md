@@ -1,43 +1,14 @@
 ---
-title: "Affiliate Armies - Recruiting Businesses to Sell for You"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: Affiliate Armies - Recruiting Businesses to Sell for You
+lang: en
 tags:
-  [
-    topic/partnerships,
-    topic/distribution,
-    topic/channel-strategy,
-    topic/sales,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0019"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/網紅行銷引擎：以CPM反推的分散式機器
-  - type: applies
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
-      Rule of 100 - Lead Generation Fundamentals
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The
-      Whisper-Tease-Shout Launch
-  - type: prerequisite
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The
-      Whisper-Tease-Shout Launch
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Cold Outreach -
-      Personalize, Big Fast Value, Volume
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals -
-      Engineering Word of Mouth Through Goodwill
+  - topic/partnerships
+  - topic/distribution
+  - topic/channel-strategy
+  - topic/sales
+  - person/alex-hormozi
+status: draft
+updated: 2026-07-18
 ---
 
 # Affiliate Armies - Recruiting Businesses to Sell for You
@@ -79,7 +50,6 @@ Affiliates are the highest-leverage of the four lead-getters (customers, employe
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/網紅行銷引擎：以CPM反推的分散式機器|網紅行銷引擎：以CPM反推的分散式機器]]
 - **Applies:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Whisper-Tease-Shout Launch|The Whisper-Tease-Shout Launch]]
@@ -88,5 +58,4 @@ Affiliates are the highest-leverage of the four lead-getters (customers, employe
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals - Engineering Word of Mouth Through Goodwill|Referrals - Engineering Word of Mouth Through Goodwill]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript|$100M Leads]]

@@ -1,47 +1,19 @@
 ---
-title: "Oversubscribed - Signal Collection, Official Capacity, and
-  Campaign-Driven Demand"
+title: Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven Demand
 aliases:
-  - "Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven
-    Demand"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+  - Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven Demand
+lang: en
 tags:
-  [
-    topic/supply-and-demand,
-    topic/marketing,
-    topic/qualification,
-    topic/pricing,
-    topic/supply-constraint,
-    topic/growth,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0092"
-    role: "primary"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
-      Supply
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and
-      Urgency - Engineering Demand with Supply and Deadlines
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect
-      Repeatable Week - Designing a Predictable Business Rhythm
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/Community Quality Is
-      the Offer - Qualification, Curation, and Network Effects
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid
-      and the Halo Strategy
+  - topic/supply-and-demand
+  - topic/marketing
+  - topic/qualification
+  - topic/pricing
+  - topic/supply-constraint
+  - topic/growth
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: draft
+updated: 2026-07-13
 ---
 
 # Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven Demand
@@ -85,7 +57,6 @@ Priestley uses Glastonbury Festival as the model: interest is collected long bef
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and Urgency - Engineering Demand with Supply and Deadlines|Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect Repeatable Week - Designing a Predictable Business Rhythm|The Perfect Repeatable Week - Designing a Predictable Business Rhythm]]
@@ -93,5 +64,4 @@ Priestley uses Glastonbury Festival as the model: interest is collected long bef
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid and the Halo Strategy|The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_HowToBecomeOversubscribed_RawTranscript|How to Become Oversubscribed - Raw Transcript]]

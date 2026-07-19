@@ -1,53 +1,17 @@
 ---
-title: "The Four Lead-Conversion Levers - Speed, Availability, Personalization,
-  Volume"
-type: "playbook"
-domain: "tactics-and-playbooks"
-lang: "en"
+title: The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume
+lang: en
 tags:
-  [
-    topic/sales,
-    topic/volume,
-    topic/automation,
-    topic/ai,
-    topic/funnel,
-    person/alex-hormozi,
-    person/daniel-priestley,
-    source/daniel-priestley-youtube
-  ]
-sources:
-  - id: "SRC-0042"
-    role: "primary"
-  - id: "SRC-0088"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
-  Generation Map
-relationships:
-  - type: applies
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
-      Selling Through Trusted Referrers
-  - type: related
-    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
-      Business - Train Like an Employee and the Department Playbook
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead
-      Generation - Fifteen Questions and Dynamic Routing
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Outbound and Inbound
-      Are Separate Teams - The Sales Career Ladder
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
-      Rule of 100 - Lead Generation Fundamentals
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
-      Rhythm - Leads, Appointments, Presentations, and Sales
-  - type: related
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback -
-      Sales as the Training Ground
+  - topic/sales
+  - topic/volume
+  - topic/automation
+  - topic/ai
+  - topic/funnel
+  - person/alex-hormozi
+  - person/daniel-priestley
+  - source/daniel-priestley-youtube
+status: draft
+updated: 2026-07-13
 ---
 
 # The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume
@@ -91,7 +55,6 @@ Hormozi cites appointment data from thousands of daily bookings: businesses limi
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your Business - Train Like an Employee and the Department Playbook|Using AI in Your Business - Train Like an Employee and the Department Playbook]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing|Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
@@ -101,6 +64,5 @@ Hormozi cites appointment data from thousands of daily bookings: businesses limi
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_CompleteSalesProcessLAPS_RawTranscript|Complete Sales Process - LAPS - Raw Transcript]]

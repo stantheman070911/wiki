@@ -1,42 +1,13 @@
 ---
-title: "Borrowed Reference-Points - Anchor a New Position to What's Already Believed"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
-tags: [ topic/positioning, topic/brand, topic/believability, person/ries-trout ]
-sources:
-  - id: "SRC-0006"
-    role: "primary"
-    locator: "ch. 15–16, 21"
-  - id: "SRC-0007"
-    role: "supporting"
-date_added: "2026-07-13"
-updated: "2026-07-13"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as
-      Context - Make the Product Obviously Valuable
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value
-      - The Psychology of Deals and the Rule of 100
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
-      Liking, Authority, and Scarcity - The Four Social Shortcuts
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top
-      of Mind, Tip of Tongue
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Selling Upmarket -
-      Contextual Adjacency and Land-and-Expand
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
-      Hole in the Mind (Cherchez le Creneau)
-  - type: related
-    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
-      in the Prospect's Mind
+title: Borrowed Reference-Points - Anchor a New Position to What's Already Believed
+lang: en
+tags:
+  - topic/positioning
+  - topic/brand
+  - topic/believability
+  - person/ries-trout
+status: draft
+updated: 2026-07-13
 ---
 
 # Borrowed Reference-Points - Anchor a New Position to What's Already Believed
@@ -76,7 +47,6 @@ Ries and Trout's place-marketing cases (Belgium, Jamaica, the Stowe ski resort) 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as Context - Make the Product Obviously Valuable|Positioning as Context - Make the Product Obviously Valuable]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100|Practical Value - The Psychology of Deals and the Rule of 100]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
@@ -86,6 +56,5 @@ Ries and Trout's place-marketing cases (Belgium, Jamaica, the Stowe ski resort) 
 - **Related:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning_FullText|Positioning - Full Text]] — locator: ch. 15–16, 21
 - **supporting:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning|Positioning]]

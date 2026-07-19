@@ -1,18 +1,8 @@
 ---
-source_id: "SRC-0008"
-title: "How To Build Your Brand"
-type: "source"
-domain: "source-library"
-creators:
-  - name: "Caleb Ralston"
-    role: "author"
-source_type: "workbook"
-source_format: "source-note"
-source_lang: "en"
-note_lang: "en"
-processing_status: "processed"
-date_archived: "2026-07-08"
-status: "source"
+title: How To Build Your Brand
+author: Caleb Ralston
+lang: en
+archived: 2026-07-08
 ---
 
 # How to Build Your Brand Workbook (Caleb Ralston) — Extraction Notes & Entry Map

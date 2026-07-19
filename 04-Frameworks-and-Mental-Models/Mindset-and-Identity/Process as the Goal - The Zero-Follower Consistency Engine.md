@@ -1,63 +1,15 @@
 ---
-title: "Process as the Goal - The Zero-Follower Consistency Engine"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Process as the Goal - The Zero-Follower Consistency Engine
+lang: en
 tags:
-  [
-    topic/consistency,
-    topic/mindset,
-    topic/inputs-vs-outputs,
-    topic/patience,
-    topic/personal-brand,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0067"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
-relationships:
-  - type: has-derivative
-    target: 07-Articles/Confidence Is a Receipt, Not a Requirement
-  - type: is-applied-by
-    target: 02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder -
-      Fixing Views, Formats, and Timing
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback -
-      Sales as the Training Ground
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Teach to Learn -
-      Public Obligation and the Feynman Loop
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Replace,
-      Don't Fight, a Habit
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Flywheel
-      and the Doom Loop - Compound Momentum in One Direction
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
-      Confidence
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status
-      Signal - Shame, Guilt, and Documenting the Struggle
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
-      Gratification - Patience and Inputs vs Outputs
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite
-      Games - Winning by Emptying the Tank
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and
-      Systems - The Two Psychological Shifts Behind Consistent Revenue
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
-      Proficiency, Pain Tolerance, and Frustration Tolerance
+  - topic/consistency
+  - topic/mindset
+  - topic/inputs-vs-outputs
+  - topic/patience
+  - topic/personal-brand
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # Process as the Goal - The Zero-Follower Consistency Engine
@@ -95,7 +47,6 @@ The near-universal reason people never build an audience from zero is that they 
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Has derivative:** [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
 - **Is applied by:** [[02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model|Interest Media and the Zero-Follower Reach Model]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing|Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
@@ -111,5 +62,4 @@ The near-universal reason people never build an audience from zero is that they 
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_GrowAudienceFrom0Followers|Grow an Audience from 0 Followers]]

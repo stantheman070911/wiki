@@ -1,41 +1,17 @@
 ---
-title: "連鎖經營學 · Module 2：連鎖類型與內部創業／委任經營"
+title: 連鎖經營學 · Module 2：連鎖類型與內部創業／委任經營
 aliases:
-  - "連鎖經營學 · Module 2：連鎖類型與內部創業／委任經營"
-type: "series-entry"
-domain: "business-strategy"
-series: "連鎖經營學"
-lang: "zh"
+  - 連鎖經營學 · Module 2：連鎖類型與內部創業／委任經營
+lang: zh
 tags:
-  [
-    topic/chain-store,
-    topic/franchise,
-    topic/licensing,
-    topic/compensation,
-    person/chen-tsung-hsien
-  ]
-sources:
-  - id: "SRC-0044"
-    role: "primary"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
-relationships:
-  - type: derives-from
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-3-品牌四大共識與市場定位
-  - type: is-prerequisite-for
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-7-招商加盟與組織人才
-  - type: prerequisite
-    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-1-連鎖本質與3S原則
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/選擇權與退出心態：Soft-Shop、三種成長路徑與
-      Phantom Equity
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion
+  - topic/chain-store
+  - topic/franchise
+  - topic/licensing
+  - topic/compensation
+  - person/chen-tsung-hsien
+status: reviewed
+updated: 2026-07-08
+series: 連鎖經營學
 ---
 
 # 連鎖經營學 · Module 2：連鎖類型與內部創業／委任經營
@@ -100,7 +76,6 @@ relationships:
 
 ## 關係
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **衍生自:** [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
 - **是其前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-3-品牌四大共識與市場定位|連鎖經營學 · Module 3：品牌四大共識與市場定位]]
 - **是其前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-7-招商加盟與組織人才|連鎖經營學 · Module 7：招商加盟與組織人才]]
@@ -109,5 +84,4 @@ relationships:
 - **相關:** [[01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion|Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
 ## 來源
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]

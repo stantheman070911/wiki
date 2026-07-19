@@ -1,61 +1,14 @@
 ---
-title: "ICP Qualification Through Segmented Churn"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: ICP Qualification Through Segmented Churn
+lang: en
 tags:
-  [
-    topic/retention,
-    topic/churn,
-    topic/ltv,
-    topic/messaging,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0065"
-    role: "primary"
-  - id: "SRC-0074"
-    role: "supporting"
-date_added: "2026-07-08"
-updated: "2026-07-08"
-reviewed_on: "2026-07-08"
-status: "reviewed"
-parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
-  and Customers Map
-relationships:
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
-      Automation - Manual Onboarding to Fix Churn
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead
-      Generation - Fifteen Questions and Dynamic Routing
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/Community Quality Is
-      the Offer - Qualification, Curation, and Network Effects
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
-      of a Perfect Business
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The SMB Service
-      Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Software Shape -
-      Survive to Product-Market Fit, Then Retain Forever
-  - type: related
-    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of
-      Service Businesses
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
-      Period - The Three Numbers That Decide If You Win
-  - type: related
-    target: 01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a
-      Force Multiplier
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
-      Alignment
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize
-      the Whole Revenue System
+  - topic/retention
+  - topic/churn
+  - topic/ltv
+  - topic/messaging
+  - person/alex-hormozi
+status: reviewed
+updated: 2026-07-08
 ---
 
 # ICP Qualification Through Segmented Churn
@@ -103,7 +56,6 @@ A financial-advisor-focused lead-generation agency provided the three-bucket ava
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing|Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Community Quality Is the Offer - Qualification, Curation, and Network Effects|Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
@@ -117,6 +69,5 @@ A financial-advisor-focused lead-generation agency provided the three-bucket ava
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize the Whole Revenue System|Price, Churn, and EPC - Optimize the Whole Revenue System]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]

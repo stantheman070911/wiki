@@ -1,45 +1,13 @@
 ---
-title: "Scarcity and Urgency - Engineering Demand with Supply and Deadlines"
-type: "framework"
-domain: "frameworks-and-mental-models"
-lang: "en"
+title: Scarcity and Urgency - Engineering Demand with Supply and Deadlines
+lang: en
 tags:
-  [
-    topic/persuasion,
-    topic/offers,
-    topic/supply-and-demand,
-    person/alex-hormozi
-  ]
-sources:
-  - id: "SRC-0021"
-    role: "primary"
-date_added: "2026-07-18"
-updated: "2026-07-18"
-reviewed_on: ""
-status: "draft"
-parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
-  and Influence Map
-relationships:
-  - type: is-applied-by
-    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
-      Slam Offer
-  - type: is-applied-by
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The
-      Whisper-Tease-Shout Launch
-  - type: is-applied-by
-    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Engineering a Grand
-      Slam Offer - Problems, Solutions, Trim and Stack
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Bend Their
-      Reality - Loss, Fairness, Deadlines, and Anchors
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal -
-      The Guarantee Toolkit
-  - type: related
-    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
-      Liking, Authority, and Scarcity - The Four Social Shortcuts
+  - topic/persuasion
+  - topic/offers
+  - topic/supply-and-demand
+  - person/alex-hormozi
+status: draft
+updated: 2026-07-18
 ---
 
 # Scarcity and Urgency - Engineering Demand with Supply and Deadlines
@@ -87,7 +55,6 @@ These are the two demand-side levers of the offer-enhancer stack (the others bei
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
 - **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed|Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven Demand]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Whisper-Tease-Shout Launch|The Whisper-Tease-Shout Launch]]
@@ -97,5 +64,4 @@ These are the two demand-side levers of the offer-enhancer stack (the others bei
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MOffers_RawTranscript|$100M Offers]]

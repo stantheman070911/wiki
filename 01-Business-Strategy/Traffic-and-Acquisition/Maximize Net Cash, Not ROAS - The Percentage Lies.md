@@ -1,49 +1,14 @@
 ---
-title: "Maximize Net Cash, Not ROAS - The Percentage Lies"
-type: "strategy"
-domain: "business-strategy"
-lang: "en"
+title: Maximize Net Cash, Not ROAS - The Percentage Lies
+lang: en
 tags:
-  [
-    topic/paid-ads,
-    topic/unit-economics,
-    topic/cash-flow,
-    topic/decision-making,
-    person/sabri-suby
-  ]
-sources:
-  - id: "SRC-0084"
-    role: "primary"
-date_added: "2026-07-12"
-updated: "2026-07-12"
-reviewed_on: ""
-status: "draft"
-parent_map: 01-Business-Strategy/Business Strategy Index
-relationships:
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the
-      Problem You Have, Not the One You're Afraid Of
-  - type: applies
-    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
-      Gratification - Patience and Inputs vs Outputs
-  - type: has-example
-    target: 05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and
-      Human Escalation
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
-      Period - The Three Numbers That Decide If You Win
-  - type: related
-    target: 01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural -
-      Defending Margin Against Organizational Creep
-  - type: related
-    target: 01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize
-      the Whole Revenue System
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition
-      - Make the Customer Fund the Next Customer
-  - type: related
-    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
-      - Ads Are an At-Bats Game
+  - topic/paid-ads
+  - topic/unit-economics
+  - topic/cash-flow
+  - topic/decision-making
+  - person/sabri-suby
+status: draft
+updated: 2026-07-12
 ---
 
 # Maximize Net Cash, Not ROAS - The Percentage Lies
@@ -75,7 +40,6 @@ Founders instinctively defend a high ROAS and refuse to let it drop, so they cap
 
 ## Relationships
 
-<!-- generated from frontmatter relationships; do not edit by hand -->
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the Problem You Have, Not the One You're Afraid Of|Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed Gratification - Patience and Inputs vs Outputs|Delayed Gratification - Patience and Inputs vs Outputs]]
 - **Has example:** [[05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and Human Escalation|ChatGPT Advertising - Intent, Memory, and Human Escalation]]
@@ -86,5 +50,4 @@ Founders instinctively defend a high ROAS and refuse to let it drop, so they cap
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
 ## Source reference
 
-<!-- generated from frontmatter sources; do not edit by hand -->
 - **primary:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]
