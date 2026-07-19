@@ -3,20 +3,44 @@ title: "The Contrarian Question and Zero to One - Vertical vs. Horizontal Progre
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mental-models, topic/decision-making, topic/mindset, person/peter-thiel]
-source:
-  type: "book"
-  name: "Zero to One: Notes on Startups, or How to Build the Future"
-  author: "Peter Thiel with Blake Masters"
-  url: ""
-  date_of_source: "2014"
+tags:
+  [
+    topic/mental-models,
+    topic/decision-making,
+    topic/mindset,
+    person/peter-thiel
+  ]
+sources:
+  - id: "SRC-0014"
+    role: "primary"
+    locator: "ch. 1"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition -
+      Why All Happy Companies Are Different
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles
+      Thinking - Reason from Physics, Not Analogy
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness
+      - Separate Truth from Identity and Conformism
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How
+      to Find What Everyone Else Has Missed
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs.
+      Indefinite Optimism - Planning Your Way to the Future
 ---
 
 # The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 The future-defining question isn't "what's a good business idea" but "what important truth do very few people agree with you on" — and the only progress that answers it is vertical (0→1, doing something new), not horizontal (1→n, copying what already works).
@@ -49,10 +73,14 @@ Thiel opens every job interview and this book with the same question because it 
 - The Founding Fathers, the Royal Society, and Fairchild Semiconductor's "traitorous eight" are examples of small, mission-bound groups that changed the world — the startup pattern, before "startup" was a word.
 
 ## Relationships
-- **related:** [[Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
-- **related:** [[Monopoly vs. Competition - Why All Happy Companies Are Different]]
-- **related:** [[Secrets - How to Find What Everyone Else Has Missed]]
-- **related:** [[First-Principles Thinking - Reason from Physics, Not Analogy]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition - Why All Happy Companies Are Different|Monopoly vs. Competition - Why All Happy Companies Are Different]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles Thinking - Reason from Physics, Not Analogy|First-Principles Thinking - Reason from Physics, Not Analogy]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness - Separate Truth from Identity and Conformism|Independent-Mindedness - Separate Truth from Identity and Conformism]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How to Find What Everyone Else Has Missed|Secrets - How to Find What Everyone Else Has Missed]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs. Indefinite Optimism - Planning Your Way to the Future|Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
 ## Source reference
-Peter Thiel with Blake Masters, *Zero to One*, Preface and ch. 1 ("The Challenge of the Future"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 1

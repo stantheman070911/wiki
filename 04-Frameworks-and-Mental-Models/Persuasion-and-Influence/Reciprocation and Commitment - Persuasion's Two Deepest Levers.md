@@ -3,20 +3,54 @@ title: "Reciprocation and Commitment - Persuasion's Two Deepest Levers"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/persuasion, topic/commitment, topic/consistency, person/robert-cialdini]
-source:
-  type: "book"
-  name: "Influence: The Psychology of Persuasion"
-  author: "Robert B. Cialdini"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/persuasion,
+    topic/commitment,
+    topic/consistency,
+    person/robert-cialdini
+  ]
+sources:
+  - id: "SRC-0002"
+    role: "primary"
+    locator: "ch. 2–3"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Confidence Is a Receipt, Not a Requirement
+  - type: has-example
+    target: 05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era
+      Moat
+  - type: is-applied-by
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and
+      Monetization - The Give-Content, Ask-Ads Model
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting
+      Fundamentals - AIDA, the Headline, and the Slippery Slope
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
+      - Heros Journey, the Trojan Horse, and Handling Objections
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/身份、故事與致勝三步
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
+      Liking, Authority, and Scarcity - The Four Social Shortcuts
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical
+      Empathy - Labels, Silence, and the Accusation Audit
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of
+      Influence - Click-Whirr, Trigger Features, and the Contrast Principle
 ---
 
 # Reciprocation and Commitment - Persuasion's Two Deepest Levers
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 Two of the most powerful compliance forces are the rule of reciprocation (we feel obligated to repay what we receive) and the drive for consistency (we align later behavior with earlier commitments) — both work automatically, and both can be triggered by a small first move.
@@ -52,11 +86,18 @@ Cialdini's first two principles are the deepest because they exploit near-univer
 - Lowball: the car priced attractively to win the decision, then quietly raised.
 
 ## Relationships
-- **related:** [[Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
-- **related:** [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
-- **related:** [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
-- **related:** [[The Attention Barbell - Brand as the AI-Era Moat]]
-- **related:** [[身份、故事與致勝三步]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
+- **Has example:** [[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat|The Attention Barbell - Brand as the AI-Era Moat]]
+- **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model|Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope|Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections|Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/身份、故事與致勝三步|身份、故事與致勝三步]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical Empathy - Labels, Silence, and the Accusation Audit|Tactical Empathy - Labels, Silence, and the Accusation Audit]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle|Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
 ## Source reference
-Robert B. Cialdini, *Influence: The Psychology of Persuasion*, ch. 2–3. Extraction notes in [[2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion]]; PDF archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion|Influence Psychology Of Persuasion]] — locator: ch. 2–3

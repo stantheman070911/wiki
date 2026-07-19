@@ -3,20 +3,47 @@ title: "The Customer-Base Test Kitchen - Distributed R&D Before Rollout"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/research, topic/feedback, topic/product, topic/systems, topic/innovation, person/alex-hormozi]
-source:
-  type: "conversation"
-  name: "Alex Hormozi AMA 3"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/research,
+    topic/feedback,
+    topic/product,
+    topic/systems,
+    topic/innovation,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0042"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
+      Product-Discovery Loop - Launch, Learn, Evolve, Delight
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Framework for Making Frameworks - Distill by Commonality
+  - type: has-derivative
+    target: 07-Articles/Do It by Hand Until You Know What It Is
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+      Planner and the Analyze-Double-Down Loop
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements
+      to Your Machine to Get Around Your Problems
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems
+      to Get at Their Root Causes
 ---
 
 # The Customer-Base Test Kitchen - Distributed R&D Before Rollout
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 Use a representative subset of customers as a recurring test kitchen so the whole customer base receives validated improvements without bearing the cost of every experiment.
@@ -54,11 +81,15 @@ The monthly test-kitchen cycle:
 At Gym Launch, Hormozi reports selecting roughly 10–20 representative gyms and assigning a monthly R&D budget to the biggest shared problem. About half the tests failed, but even those results saved the wider customer base from running the same losing experiments; winners were then rolled out system-wide.
 
 ## Relationships
-- **applies:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
-- **related:** [[Content Planner and the Analyze-Double-Down Loop]]
-- **related:** [[Diagnose Problems to Get at Their Root Causes]]
-- **applies:** [[The Framework for Making Frameworks - Distill by Commonality]]
-- **related:** [[Design Improvements to Your Machine to Get Around Your Problems]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Framework for Making Frameworks - Distill by Commonality|The Framework for Making Frameworks - Distill by Commonality]]
+- **Has derivative:** [[07-Articles/Do It by Hand Until You Know What It Is|Do It by Hand Until You Know What It Is]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Planner and the Analyze-Double-Down Loop|Content Planner and the Analyze-Double-Down Loop]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements to Your Machine to Get Around Your Problems|Design Improvements to Your Machine to Get Around Your Problems]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems to Get at Their Root Causes|Diagnose Problems to Get at Their Root Causes]]
 ## Source reference
-Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

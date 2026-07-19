@@ -3,20 +3,42 @@ title: "Riding Waves of Change - Five Guideposts for Industry Transitions"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/strategy, topic/innovation, topic/decision-making, topic/market-saturation, person/richard-rumelt, source/good-strategy-bad-strategy]
-source:
-  type: "book"
-  name: "Good Strategy/Bad Strategy: The Difference and Why It Matters"
-  author: "Richard Rumelt"
-  url: ""
-  date_of_source: "2011"
+tags:
+  [
+    topic/strategy,
+    topic/innovation,
+    topic/decision-making,
+    topic/market-saturation,
+    person/richard-rumelt,
+    source/good-strategy-bad-strategy
+  ]
+sources:
+  - id: "SRC-0038"
+    role: "primary"
+    locator: "Ch. 13"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Inertia
+      and Entropy - Three Kinds of Organizational Stuckness
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Keeping
+      Your Head - Social Herding, the Inside View, and Strategy as Hypothesis
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategic
+      Leverage - Anticipation, Pivot Points, Concentration
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy
+      as Design - Coordinating Actions Under Constraint
 ---
 
 # Riding Waves of Change - Five Guideposts for Industry Transitions
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 Industry transitions ("waves of change") upend competitive high ground largely independent of any one company's will, and while there's no formula for predicting them precisely, five recurring guideposts — rising fixed costs, deregulation, predictable forecasting biases, incumbent response patterns, and attractor states — help a leader see ten percent more clearly than rivals, which is often enough to win.
@@ -52,9 +74,13 @@ When assessing an industry transition, check each guidepost in turn:
 - **NEC's "C&C" (computers and communications) forecast (1977)**: a textbook "battle of titans" convergence prediction that pushed both AT&T and IBM toward a confrontation neither ultimately had — both were undercut simultaneously by the same underlying wave (the microprocessor) rather than by each other.
 
 ## Relationships
-- **related:** [[Strategic Leverage - Anticipation, Pivot Points, Concentration]]
-- **related:** [[Inertia and Entropy - Three Kinds of Organizational Stuckness]]
-- **related:** [[Strategy as Design - Coordinating Actions Under Constraint]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Inertia and Entropy - Three Kinds of Organizational Stuckness|Inertia and Entropy - Three Kinds of Organizational Stuckness]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Keeping Your Head - Social Herding, the Inside View, and Strategy as Hypothesis|Keeping Your Head - Social Herding, the Inside View, and Strategy as Hypothesis]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategic Leverage - Anticipation, Pivot Points, Concentration|Strategic Leverage - Anticipation, Pivot Points, Concentration]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy as Design - Coordinating Actions Under Constraint|Strategy as Design - Coordinating Actions Under Constraint]]
 ## Source reference
-Richard Rumelt, *Good Strategy/Bad Strategy: The Difference and Why It Matters* (2011), Ch. 13 ("Using Dynamics"). Raw text archived in [[2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 13

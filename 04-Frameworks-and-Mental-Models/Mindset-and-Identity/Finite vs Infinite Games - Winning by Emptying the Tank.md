@@ -3,20 +3,48 @@ title: "Finite vs Infinite Games - Winning by Emptying the Tank"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, person/alex-hormozi]
-source:
-  type: "video"
-  name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags: [ topic/mindset, person/alex-hormozi ]
+sources:
+  - id: "SRC-0068"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback -
+      Sales as the Training Ground
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal
+      Urgency - Speed, Parallelism, and Aggressive Timelines
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
+      Confidence
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80%
+      Mindset - Risk Tolerance and Refusing to Quit
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
+      Gratification - Patience and Inputs vs Outputs
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin
+      Story - Heroes Use Pain
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs.
+      Playing Not to Lose
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
+      - The Zero-Follower Consistency Engine
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Reframing Trauma
+      and Labels - Logic, Evidence, Utility
 ---
 
 # Finite vs Infinite Games - Winning by Emptying the Tank
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 Business, health, and marriage are infinite games — you don't win by winning, you win by staying in long enough to outlast everyone — so define winning as inputs you control and "nothing left in the tank."
@@ -45,9 +73,18 @@ Hormozi says it took him too long to learn the difference between finite and inf
 - Naval Ravikant: "What looks like work to other people should feel like play for you" — the artist paints to paint, not to finish.
 
 ## Relationships
-- **related:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
-- **related:** [[Volume and Feedback - Sales as the Training Ground]]
-- **related:** [[Hardship as Origin Story - Heroes Use Pain]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines|Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80% Mindset - Risk Tolerance and Refusing to Quit|Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed Gratification - Patience and Inputs vs Outputs|Delayed Gratification - Patience and Inputs vs Outputs]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain|Hardship as Origin Story - Heroes Use Pain]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs. Playing Not to Lose|Playing to Win vs. Playing Not to Lose]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal - The Zero-Follower Consistency Engine|Process as the Goal - The Zero-Follower Consistency Engine]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Reframing Trauma and Labels - Logic, Evidence, Utility|Reframing Trauma and Labels - Logic, Evidence, Utility]]
 ## Source reference
-Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]

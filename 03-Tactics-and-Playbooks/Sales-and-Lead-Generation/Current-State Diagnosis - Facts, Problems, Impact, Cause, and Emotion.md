@@ -3,20 +3,49 @@ title: "Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/research, topic/qualification, topic/value-creation, person/keenan, source/gap-selling]
-source:
-  type: "book"
-  name: "Gap Selling"
-  author: "Keenan"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/sales,
+    topic/research,
+    topic/qualification,
+    topic/value-creation,
+    person/keenan,
+    source/gap-selling
+  ]
+sources:
+  - id: "SRC-0034"
+    role: "primary"
+    locator: "chapters 2–4 and 8"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Gap Selling -
+      Current State, Future State, and the Value of Change
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching -
+      Insight That Leads to Unique Strengths
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
+      Sell the Goal, Scope the Journey, Secure Prepayment
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Problem-Centric
+      Discovery - Four Question Types and the CRM Challenge
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery -
+      Situation, Problem, Implication, and Need-Payoff
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem
+      Identification Chart - Problems, Impacts, and Root Causes
 ---
 
 # Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Diagnose a buyer's current state through five layers—facts, problems, impact, root cause, and emotion—so the proposed change addresses the real business problem rather than a surface symptom.
@@ -56,10 +85,15 @@ Trace both directions to test the chain: facts and causes should plausibly produ
 A theater's disconnected ticketing and CRM systems are not valuable merely because integration is technically cleaner. The business consequences—manual data entry, unrecognized first-time buyers, weak follow-up, fewer repeat visits, and lost revenue—make the issue worth solving.
 
 ## Relationships
-- **related:** [[Gap Selling - Current State, Future State, and the Value of Change]]
-- **related:** [[The Problem Identification Chart - Problems, Impacts, and Root Causes]]
-- **related:** [[Problem-Centric Discovery - Four Question Types and the CRM Challenge]]
-- **related:** [[Commercial Teaching - Insight That Leads to Unique Strengths]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Gap Selling - Current State, Future State, and the Value of Change|Gap Selling - Current State, Future State, and the Value of Change]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching - Insight That Leads to Unique Strengths|Commercial Teaching - Insight That Leads to Unique Strengths]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Problem-Centric Discovery - Four Question Types and the CRM Challenge|Problem-Centric Discovery - Four Question Types and the CRM Challenge]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery - Situation, Problem, Implication, and Need-Payoff|SPIN Discovery - Situation, Problem, Implication, and Need-Payoff]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem Identification Chart - Problems, Impacts, and Root Causes|The Problem Identification Chart - Problems, Impacts, and Root Causes]]
 ## Source reference
-Keenan, *Gap Selling* (2018), chapters 2–4 and 8. [[2026-07-18_Book_Keenan_GapSelling_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_Keenan_GapSelling_RawTranscript|Gap Selling]] — locator: chapters 2–4 and 8

@@ -3,20 +3,45 @@ title: "Throughput Accounting - Manage the System, Not Local Costs"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/theory-of-constraints, topic/operations, topic/cash-flow, topic/efficiency, person/eliyahu-m-goldratt, person/jeff-cox, source/the-goal]
-source:
-  type: "book"
-  name: "The Goal"
-  author: "Eliyahu M. Goldratt and Jeff Cox"
-  url: ""
-  date_of_source: "1984"
+tags:
+  [
+    topic/theory-of-constraints,
+    topic/operations,
+    topic/cash-flow,
+    topic/efficiency,
+    person/eliyahu-m-goldratt,
+    person/jeff-cox,
+    source/the-goal
+  ]
+sources:
+  - id: "SRC-0030"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Drum-Buffer-Rope -
+      Release Work at the Constraint's Pace
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
+      Supply
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Dependent
+      Events and Statistical Fluctuations - Why Balanced Capacity Fails
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of
+      Constraints - The Five Focusing Steps
+  - type: related
+    target: 07-Articles/Fix the Bottleneck, Not Everything
 ---
 
 # Throughput Accounting - Manage the System, Not Local Costs
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Judge an operating decision by whether it increases throughput, reduces inventory, or reduces operating expense for the whole system—not by whether it makes one resource look efficient.
@@ -50,11 +75,14 @@ Use three operational measures together:
 The Bearington plant increased throughput, cut inventory, and improved delivery while reported product cost initially rose because smaller batches created more setups. The expense base had not risen; the accounting model treated idle non-constraint time as if it were a scarce cost and later recorded inventory reduction as a loss because less "value added" remained capitalized on the balance sheet.
 
 ## Relationships
-- **related:** [[Theory of Constraints - The Five Focusing Steps]]
-- **related:** [[Drum-Buffer-Rope - Release Work at the Constraint's Pace]]
-- **related:** [[Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails]]
-- **related:** [[Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
-- **related:** [[Fix the Bottleneck, Not Everything]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Drum-Buffer-Rope - Release Work at the Constraint's Pace|Drum-Buffer-Rope - Release Work at the Constraint's Pace]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails|Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of Constraints - The Five Focusing Steps|Theory of Constraints - The Five Focusing Steps]]
+- **Related:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
 ## Source reference
-Eliyahu M. Goldratt and Jeff Cox, *The Goal: A Process of Ongoing Improvement* (1984). [[2026-07-18_Book_EliyahuMGoldrattJeffCox_TheGoal_RawTranscript]]
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_EliyahuMGoldrattJeffCox_TheGoal_RawTranscript|The Goal]]

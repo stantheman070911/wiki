@@ -3,20 +3,43 @@ title: "Direct vs Brand Marketing - Measure Action, Build Culture Patiently"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/advertising, topic/paid-ads, topic/brand, topic/funnel, topic/ltv, topic/marketing, person/seth-godin, source/this-is-marketing]
-source:
-  type: "book"
-  name: "This Is Marketing"
-  author: "Seth Godin"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/advertising,
+    topic/paid-ads,
+    topic/brand,
+    topic/funnel,
+    topic/ltv,
+    topic/marketing,
+    person/seth-godin,
+    source/this-is-marketing
+  ]
+sources:
+  - id: "SRC-0039"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability -
+      Own Attention and Design Word of Mouth
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals -
+      Engineering Word of Mouth Through Goodwill
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand
+      Conversion Path - Problem, Plan, and Calls to Action
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom
+      Loop and the One-Brand Bet
 ---
 
 # Direct vs Brand Marketing - Measure Action, Build Culture Patiently
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Direct marketing should be tracked to profitable action, while brand marketing should be funded as a patient, consistent effort to shape memory, trust, and culture.
@@ -57,10 +80,13 @@ Both modes depend on a product experience that keeps the promise.
 Traditional direct-mail businesses compared the cost of sending letters with the lifetime value of customers they acquired. The internet accelerates the same logic through measurable clicks and funnel steps. By contrast, a brand exposure such as a billboard or sponsorship may reinforce cultural meaning but should not be credited with precise conversions it cannot prove.
 
 ## Relationships
-- **related:** [[Permission and Remarkability - Own Attention and Design Word of Mouth]]
-- **related:** [[The Direct-Response Doom Loop and the One-Brand Bet]]
-- **related:** [[The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
-- **related:** [[Referrals - Engineering Word of Mouth Through Goodwill]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability - Own Attention and Design Word of Mouth|Permission and Remarkability - Own Attention and Design Word of Mouth]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals - Engineering Word of Mouth Through Goodwill|Referrals - Engineering Word of Mouth Through Goodwill]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand Conversion Path - Problem, Plan, and Calls to Action|The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom Loop and the One-Brand Bet|The Direct-Response Doom Loop and the One-Brand Bet]]
 ## Source reference
-Seth Godin, *This Is Marketing: You Can't Be Seen Until You Learn to See* (2018), [[2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript|This Is Marketing]]

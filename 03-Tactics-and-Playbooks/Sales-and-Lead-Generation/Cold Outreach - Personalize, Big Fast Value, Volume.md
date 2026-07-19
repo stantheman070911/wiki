@@ -3,20 +3,44 @@ title: "Cold Outreach - Personalize, Big Fast Value, Volume"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/persuasion, topic/copywriting, topic/automation, person/alex-hormozi]
-source:
-  type: "book"
-  name: "$100M Leads"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/sales,
+    topic/persuasion,
+    topic/copywriting,
+    topic/automation,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0019"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition
+      - Make the Customer Fund the Next Customer
+  - type: applies
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
+      Rule of 100 - Lead Generation Fundamentals
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
+      Clever - Write Below Third Grade and Meet the Avatar
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies -
+      Recruiting Businesses to Sell for You
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Gap Prospecting -
+      Intrigue, Offer, Ask, and Cadence
 ---
 
 # Cold Outreach - Personalize, Big Fast Value, Volume
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Reaching strangers one-to-one works when you solve three problems in order — get a way to contact them, make a cold message feel warm through personalization plus big, fast, free value, and then do enough volume, follow-up, and automation that the right people can't help but respond.
@@ -52,10 +76,14 @@ Cold outreach is the advanced cousin of warm outreach and one of the [[The Core 
 - A portfolio company automated scrape→craft→send: one VA sending ~2,000 emails/day generated ~40 engaged leads/day, ~4 new customers/day at ~$20K each — enough to blow past 100 customers/month.
 
 ## Relationships
-- **applies:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
-- **related:** [[Client-Financed Acquisition - Make the Customer Fund the Next Customer]]
-- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
-- **related:** [[Affiliate Armies - Recruiting Businesses to Sell for You]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition - Make the Customer Fund the Next Customer|Client-Financed Acquisition - Make the Customer Fund the Next Customer]]
+- **Applies:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies - Recruiting Businesses to Sell for You|Affiliate Armies - Recruiting Businesses to Sell for You]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Gap Prospecting - Intrigue, Offer, Ask, and Cadence|Gap Prospecting - Intrigue, Offer, Ask, and Cadence]]
 ## Source reference
-Alex Hormozi, *$100M Leads* (2023), "Cold Outreach." Raw transcript archived at [[2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript|$100M Leads]]

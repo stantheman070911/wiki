@@ -3,20 +3,54 @@ title: "Commercial Teaching - Insight That Leads to Unique Strengths"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/differentiation, topic/value-creation, person/matthew-dixon, person/brent-adamson, source/the-challenger-sale]
-source:
-  type: "book"
-  name: "The Challenger Sale"
-  author: "Matthew Dixon and Brent Adamson"
-  url: ""
-  date_of_source: "2011"
+tags:
+  [
+    topic/sales,
+    topic/differentiation,
+    topic/value-creation,
+    person/matthew-dixon,
+    person/brent-adamson,
+    source/the-challenger-sale
+  ]
+sources:
+  - id: "SRC-0035"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the
+      Prospect Already Gives You - Research-Based Positioning
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
+      Features - Sell the Identity Behind the Product
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State
+      Diagnosis - Facts, Problems, Impact, Cause, and Emotion
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Gap Prospecting -
+      Intrigue, Offer, Ask, and Cadence
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery -
+      Situation, Problem, Implication, and Need-Payoff
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for
+      Consensus - Stakeholder Outcomes and Widespread Support
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger
+      Selling Model - Teach, Tailor, and Take Control
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Commercial
+      Teaching Conversation - From Warmer to Your Solution
 ---
 
 # Commercial Teaching - Insight That Leads to Unique Strengths
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Teach customers an economically important truth they have overlooked, but design the insight so acting on it naturally favors a capability you can deliver better than competitors.
@@ -54,10 +88,17 @@ The design question is: **What is costing our customers more than they realize t
 Grainger shifted customers from tracking what MRO products they bought to examining how they bought them. It showed that unplanned purchases—about 40 percent of MRO spend—carried large hidden process and inventory costs, then connected the solution to Grainger’s distinctive breadth, availability, and delivery scale.
 
 ## Relationships
-- **related:** [[The Challenger Selling Model - Teach, Tailor, and Take Control]]
-- **related:** [[The Commercial Teaching Conversation - From Warmer to Your Solution]]
-- **related:** [[Own What the Prospect Already Gives You - Research-Based Positioning]]
-- **related:** [[Values Before Features - Sell the Identity Behind the Product]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the Prospect Already Gives You - Research-Based Positioning|Own What the Prospect Already Gives You - Research-Based Positioning]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product|Values Before Features - Sell the Identity Behind the Product]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion|Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Gap Prospecting - Intrigue, Offer, Ask, and Cadence|Gap Prospecting - Intrigue, Offer, Ask, and Cadence]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery - Situation, Problem, Implication, and Need-Payoff|SPIN Discovery - Situation, Problem, Implication, and Need-Payoff]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for Consensus - Stakeholder Outcomes and Widespread Support|Tailoring for Consensus - Stakeholder Outcomes and Widespread Support]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger Selling Model - Teach, Tailor, and Take Control|The Challenger Selling Model - Teach, Tailor, and Take Control]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Commercial Teaching Conversation - From Warmer to Your Solution|The Commercial Teaching Conversation - From Warmer to Your Solution]]
 ## Source reference
-Matthew Dixon and Brent Adamson, *The Challenger Sale: Taking Control of the Customer Conversation* (2011). [[2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript|The Challenger Sale]]

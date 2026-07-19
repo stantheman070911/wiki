@@ -1,24 +1,52 @@
 ---
-title: "Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven Demand"
+title: "Oversubscribed - Signal Collection, Official Capacity, and
+  Campaign-Driven Demand"
 aliases:
-  - "Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven Demand"
+  - "Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven
+    Demand"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/supply-and-demand, topic/marketing, topic/qualification, topic/pricing, topic/supply-constraint, topic/growth, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "How to Become Oversubscribed"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/supply-and-demand,
+    topic/marketing,
+    topic/qualification,
+    topic/pricing,
+    topic/supply-constraint,
+    topic/growth,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0092"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
+      Supply
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and
+      Urgency - Engineering Demand with Supply and Deadlines
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect
+      Repeatable Week - Designing a Predictable Business Rhythm
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/Community Quality Is
+      the Offer - Qualification, Curation, and Network Effects
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid
+      and the Halo Strategy
 ---
 
 # Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven Demand
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Create demand before opening sales by collecting more qualified signals than the business can serve, publishing a credible capacity constraint, and launching when logic, emotion, and urgency align.
@@ -56,10 +84,14 @@ Run a signal-led launch:
 Priestley uses Glastonbury Festival as the model: interest is collected long before a brief sales window, and disclosed demand greatly exceeds the available tickets. The sales event works because the market was made first.
 
 ## Relationships
-- **applies:** [[Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
-- **related:** [[The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
-- **related:** [[Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
-- **related:** [[The Perfect Repeatable Week - Designing a Predictable Business Rhythm]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and Urgency - Engineering Demand with Supply and Deadlines|Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect Repeatable Week - Designing a Predictable Business Rhythm|The Perfect Repeatable Week - Designing a Predictable Business Rhythm]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Community Quality Is the Offer - Qualification, Curation, and Network Effects|Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid and the Halo Strategy|The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
 ## Source reference
-Daniel Priestley, *How to Become Oversubscribed*. Raw transcript in [[2026-07-13_Video_DanielPriestley_HowToBecomeOversubscribed_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_HowToBecomeOversubscribed_RawTranscript|How to Become Oversubscribed - Raw Transcript]]

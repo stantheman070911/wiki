@@ -3,20 +3,55 @@ title: "Life Is Short - Ruthless Attention Allocation"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/focus, topic/happiness, topic/opportunity-cost, topic/decision-making, topic/mindset, person/paul-graham, person/daniel-priestley, person/steve-jobs, person/steven-bartlett, source/paul-graham-essays, source/daniel-priestley-youtube]
-source:
-  type: "essay collection"
-  name: "Paul Graham - Collected Essays"
-  author: "Paul Graham"
-  url: "https://paulgraham.com/articles.html"
-  date_of_source: "2005-2026"
+tags:
+  [
+    topic/focus,
+    topic/happiness,
+    topic/opportunity-cost,
+    topic/decision-making,
+    topic/mindset,
+    person/paul-graham,
+    person/daniel-priestley,
+    person/steve-jobs,
+    person/steven-bartlett,
+    source/paul-graham-essays,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0046"
+    role: "primary"
+  - id: "SRC-0085"
+    role: "supporting"
+  - id: "SRC-0060"
+    role: "supporting"
+  - id: "SRC-0017"
+    role: "supporting"
+    locator: "Law 27"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Every Possession Comes With a Job
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
+      Elimination - The Deep-Work Playbook
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/選擇、承諾與人生取捨
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
+      Discipline - Freedom, Responsibility, and Stop-Doing Lists
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Happiness
+      Is a Skill - Presence, Peace, and Self-Care
 ---
 
 # Life Is Short - Ruthless Attention Allocation
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 Life's scarcity is experienced through limited high-quality attention, so remove recurring forms of counterfeit pleasure and spend the resulting time on people and work whose value survives the moment.
@@ -57,16 +92,17 @@ The number of weekends with one's young children is countable and falls quickly.
 Steve Jobs used a daily mortality question for decades. Its value was not predicting death but making fear of failure, pride, and external expectations temporarily irrelevant to major choices.
 
 ## Relationships
-- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
-- **related:** [[Happiness Is a Skill - Presence, Peace, and Self-Care]]
-- **related:** [[選擇、承諾與人生取捨]]
-- **related:** [[A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Every Possession Comes With a Job|Every Possession Comes With a Job]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/選擇、承諾與人生取捨|選擇、承諾與人生取捨]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Happiness Is a Skill - Presence, Peace, and Self-Care|Happiness Is a Skill - Presence, Peace, and Self-Care]]
 ## Source reference
-Paul Graham, “Life is Short,” “The Top Idea in Your Mind,” “Stuff,” “How to Lose Time and Money,” “Having Kids,” and “The Top of My Todo List,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
 
-Additional source: Daniel Priestley, *25 Harsh Truths at 45*, [[2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript]].
-
-Additional source: Steve Jobs, *Stanford Commencement Address* (2005), [[2026-07-13_Presentation_SteveJobs_StanfordCommencementAddress_RawTranscript]].
-
-Additional source: Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 27. [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript|25 Harsh Truths at 45 - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Presentations/2026-07-13_Presentation_SteveJobs_StanfordCommencementAddress_RawTranscript|Steve Jobs' 2005 Stanford Commencement Address - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 27

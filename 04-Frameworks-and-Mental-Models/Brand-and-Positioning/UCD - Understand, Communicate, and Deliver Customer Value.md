@@ -1,22 +1,55 @@
 ---
 title: "UCD - Understand, Communicate, and Deliver Customer Value"
 type: "framework"
-domain: "business-strategy"
+domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/value-creation, topic/product, topic/messaging, topic/research, person/wes-bush, source/product-led-growth]
-source:
-  type: "book"
-  name: "Product-Led Growth"
-  author: "Wes Bush"
-  url: ""
-  date_of_source: "2019"
+tags:
+  [
+    topic/value-creation,
+    topic/product,
+    topic/messaging,
+    topic/research,
+    person/wes-bush,
+    source/product-led-growth
+  ]
+sources:
+  - id: "SRC-0040"
+    role: "primary"
 date_added: "2026-07-18"
-updated: "2026-07-18"
+updated: "2026-07-19"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Software Shape -
+      Survive to Product-Market Fit, Then Retain Forever
+  - type: is-applied-by
+    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
+      Slam Offer
+  - type: is-applied-by
+    target: 01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow
+      With Customer Outcomes
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth
+      Sprints - Analyze, Ask, and Act
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
+      Automation - Manual Onboarding to Fix Churn
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Bowling Alley
+      Framework - Straight-Line Onboarding and Two Bumpers
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Marketing as
+      Service - Make Change for People You Seek to Serve
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
+      MOAT Framework - Choose Freemium, Free Trial, or Demo
 ---
 
 # UCD - Understand, Communicate, and Deliver Customer Value
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 Sustainable product-led growth requires one continuous promise: understand the outcome customers seek, communicate it accurately, and remove the gap between that perceived value and the experience the product delivers.
@@ -56,11 +89,17 @@ Revisit the sequence whenever signups, upgrades, retention, or expansion weaken;
 - The "hot spaghetti" analogy captures ability debt: promising a finished meal but handing users ingredients, tools, and a kitchen transfers the hard work back to the customer.
 
 ## Relationships
-- **related:** [[Value Metrics - Price and Grow With Customer Outcomes]]
-- **related:** [[The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers]]
-- **related:** [[Triple-A Growth Sprints - Analyze, Ask, and Act]]
-- **related:** [[The MOAT Framework - Choose Freemium, Free Trial, or Demo]]
-- **related:** [[The Value Equation and the Grand Slam Offer]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Software Shape - Survive to Product-Market Fit, Then Retain Forever|The Software Shape - Survive to Product-Market Fit, Then Retain Forever]]
+- **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
+- **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow With Customer Outcomes|Value Metrics - Price and Grow With Customer Outcomes]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth Sprints - Analyze, Ask, and Act|Triple-A Growth Sprints - Analyze, Ask, and Act]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers|The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Marketing as Service - Make Change for People You Seek to Serve|Marketing as Service - Make Change for People You Seek to Serve]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The MOAT Framework - Choose Freemium, Free Trial, or Demo|The MOAT Framework - Choose Freemium, Free Trial, or Demo]]
 ## Source reference
-Wes Bush, *Product-Led Growth: How to Build a Product That Sells Itself* (2019). Raw transcript in [[2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript|Product-Led Growth]]

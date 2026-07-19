@@ -3,20 +3,48 @@ title: "Founder Mode - Direct Engagement Without Delegation Theater"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/startups, topic/management, topic/leadership, topic/delegation, topic/org-design, person/paul-graham, person/matt-gray, source/paul-graham-essays]
-source:
-  type: "essay collection"
-  name: "Paul Graham - Collected Essays"
-  author: "Paul Graham"
-  url: "https://paulgraham.com/articles.html"
-  date_of_source: "2024"
+tags:
+  [
+    topic/startups,
+    topic/management,
+    topic/leadership,
+    topic/delegation,
+    topic/org-design,
+    person/paul-graham,
+    person/matt-gray,
+    source/paul-graham-essays
+  ]
+sources:
+  - id: "SRC-0046"
+    role: "primary"
+  - id: "SRC-0106"
+    role: "supporting"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Two Ways a Founder Can Disappear
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Lifestyle
+      Boutique Operating Model - Team, Product Ecosystem, and Campaigns
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations -
+      Co-founders, Ownership, Possession, Control, and Vesting
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone
+      Operating a Machine to Achieve a Goal
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
+      - Who-Not-How and Planning Backward From the Goal
 ---
 
 # Founder Mode - Direct Engagement Without Delegation Theater
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Founders should delegate ownership without surrendering direct access to product truth: skip-level contact, detailed reviews, and selective intervention preserve the insight that made the company work.
@@ -51,11 +79,15 @@ Brian Chesky's account of scaling Airbnb prompted the distinction: the accepted 
 Steve Jobs's involvement in product details, naming, marketing, and rehearsed launches illustrates lifecycle ownership: the founder did not merely set a vision and inspect financial output, but repeatedly connected the product's internal standard with the story experienced by customers.
 
 ## Relationships
-- **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
-- **related:** [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
-- **related:** [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Two Ways a Founder Can Disappear|Two Ways a Founder Can Disappear]]
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns|The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting|Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone Operating a Machine to Achieve a Goal|Manage as Someone Operating a Machine to Achieve a Goal]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
 ## Source reference
-Paul Graham, “Founder Mode,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
 
-Additional source: Matt Gray, *What Steve Jobs Can Teach You About Business (That Harvard Can't)*, [[2026-07-13_Video_MattGray_WhatSteveJobsCanTeachYouAboutBusiness_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_MattGray_WhatSteveJobsCanTeachYouAboutBusiness_RawTranscript|What Steve Jobs Can Teach You About Business - Raw Transcript]]

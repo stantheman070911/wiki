@@ -1,24 +1,80 @@
 ---
-title: "Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb"
+title: "Demand or Supply - The One-Constraint Diagnosis, Three Functions, and
+  the Ticking Time Bomb"
 aliases:
-  - "Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb"
+  - "Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the
+    Ticking Time Bomb"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/theory-of-constraints, topic/decision-making, topic/supply-and-demand, topic/prioritization, person/alex-hormozi, person/eliyahu-m-goldratt, person/jeff-cox, source/the-goal]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/theory-of-constraints,
+    topic/decision-making,
+    topic/supply-and-demand,
+    topic/prioritization,
+    person/alex-hormozi,
+    person/eliyahu-m-goldratt,
+    person/jeff-cox,
+    source/the-goal
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
+  - id: "SRC-0042"
+    role: "supporting"
+  - id: "SRC-0030"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-18"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Fix the Bottleneck, Not Everything
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架
+  - type: is-applied-by
+    target: 01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills
+      診斷、1-1-1 與萬能前門
+  - type: is-applied-by
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Drum-Buffer-Rope -
+      Release Work at the Constraint's Pace
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
+      Elimination - The Deep-Work Playbook
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
+      Business - Train Like an Employee and the Department Playbook
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor
+      Dilution Problem - Four Ways to Scale Past Yourself
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the
+      Problem You Have, Not the One You're Afraid Of
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
+      Filter - Stay, Scale, or Burn It Down
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Greener-Pasture Fallacy
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of
+      Constraints - The Five Focusing Steps
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput
+      Accounting - Manage the System, Not Local Costs
 ---
 
 # Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 At any moment a business is constrained by either demand or supply — solve the binding one and ignore the other — while sequencing today's constraint against any existential future constraint (the ticking time bomb), and staffing only the function that the constraint actually requires.
@@ -62,19 +118,25 @@ In AMA 3, a virtual-assistant business appeared to have many constraints, but th
 - For the specific case where the supply constraint is the founder's own personal skill (rather than a general operational bottleneck), see [[The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]] for the four levers available to scale past a founder-bound delivery ceiling.
 
 ## Relationships
-- **related:** [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
-- **related:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
-- **related:** [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
-- **related:** [[The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]]
-- **related:** [[Theory of Constraints - The Five Focusing Steps]]
-- **related:** [[Drum-Buffer-Rope - Release Work at the Constraint's Pace]]
-- **related:** [[Throughput Accounting - Manage the System, Not Local Costs]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架|人群場景痛點解決方案：客戶洞察與需求驗證框架]]
+- **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門|少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
+- **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed|Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven Demand]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing|Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Drum-Buffer-Rope - Release Work at the Constraint's Pace|Drum-Buffer-Rope - Release Work at the Constraint's Pace]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your Business - Train Like an Employee and the Department Playbook|Using AI in Your Business - Train Like an Employee and the Department Playbook]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor Dilution Problem - Four Ways to Scale Past Yourself|The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the Problem You Have, Not the One You're Afraid Of|Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Greener-Pasture Fallacy|The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of Constraints - The Five Focusing Steps|Theory of Constraints - The Five Focusing Steps]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput Accounting - Manage the System, Not Local Costs|Throughput Accounting - Manage the System, Not Local Costs]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
 
-Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
-
-Additional source: Eliyahu M. Goldratt and Jeff Cox, *The Goal: A Process of Ongoing Improvement* (1984), [[2026-07-18_Book_EliyahuMGoldrattJeffCox_TheGoal_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_EliyahuMGoldrattJeffCox_TheGoal_RawTranscript|The Goal]]

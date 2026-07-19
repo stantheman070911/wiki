@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0081"
 title: "How to Go Insanely Viral (Almost) Every Time by Hacking Attention"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Tuan Le"
+    role: "creator"
 source_type: "video"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Tuan Le"
 date_archived: "2026-07-10"
 status: "source"
 ---

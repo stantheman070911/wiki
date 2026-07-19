@@ -3,20 +3,47 @@ title: "Referrals - Engineering Word of Mouth Through Goodwill"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/referrals, topic/word-of-mouth, topic/retention, topic/sales, person/alex-hormozi]
-source:
-  type: "book"
-  name: "$100M Leads"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/referrals,
+    topic/word-of-mouth,
+    topic/retention,
+    topic/sales,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0019"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
+      Selling Through Trusted Referrers
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing -
+      Measure Action, Build Culture Patiently
+  - type: applies
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
+      Rule of 100 - Lead Generation Fundamentals
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
+      Framework - Six Drivers of Word of Mouth
+  - type: related
+    target: 03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability -
+      Own Attention and Design Word of Mouth
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies -
+      Recruiting Businesses to Sell for You
 ---
 
 # Referrals - Engineering Word of Mouth Through Goodwill
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Referrals are the only lead source that scales exponentially instead of linearly, and you unlock them by manufacturing goodwill (value delivered minus price paid) and then treating the ask as an offer — because most businesses get few referrals for exactly two reasons: their product isn't as good as they think, and they never ask.
@@ -55,10 +82,15 @@ Three components: how you give the incentive, what you incentivize with, how you
 - Service businesses routinely added 25–30% more signups by asking for the referral *the moment* someone bought — often covering the entire ad spend.
 
 ## Relationships
-- **applies:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
-- **related:** [[The STEPPS Framework - Six Drivers of Word of Mouth]]
-- **related:** [[Centers of Influence - Selling Through Trusted Referrers]]
-- **related:** [[Affiliate Armies - Recruiting Businesses to Sell for You]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing - Measure Action, Build Culture Patiently|Direct vs Brand Marketing - Measure Action, Build Culture Patiently]]
+- **Applies:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
+- **Related:** [[03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability - Own Attention and Design Word of Mouth|Permission and Remarkability - Own Attention and Design Word of Mouth]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies - Recruiting Businesses to Sell for You|Affiliate Armies - Recruiting Businesses to Sell for You]]
 ## Source reference
-Alex Hormozi, *$100M Leads* (2023), "Customer Referrals." Raw transcript archived at [[2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript|$100M Leads]]

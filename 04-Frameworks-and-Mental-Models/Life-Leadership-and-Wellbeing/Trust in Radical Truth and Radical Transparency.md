@@ -3,20 +3,57 @@ title: "Trust in Radical Truth and Radical Transparency"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/radical-transparency, topic/culture, topic/leadership, topic/trust, topic/idea-meritocracy, person/ray-dalio, source/bridgewater-associates]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/radical-transparency,
+    topic/culture,
+    topic/leadership,
+    topic/trust,
+    topic/idea-meritocracy,
+    person/ray-dalio,
+    source/bridgewater-associates
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 1"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Trust Should Have a Credit Limit
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/工作習慣與誠實忠告
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
+      Your Decision Making
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How
+      to Get Beyond Disagreements
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale
+      Paradox - Confront Reality Without Losing Faith
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as
+      Infrastructure
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a
+      Culture Where Mistakes Are Okay But Not Learning From Them Isn't
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate
+      Meaningful Work and Meaningful Relationships
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and
+      Deal With It - Pain, Truth, and the Hyperrealist's Formula
 ---
 
 # Trust in Radical Truth and Radical Transparency
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 Withholding truth to spare feelings or protect power always costs an organization more than it saves — radical transparency, where nearly everyone can see nearly everything, is what actually makes an idea meritocracy function, even though it takes roughly 18 months for a new hire to adjust to it and some never do.
@@ -45,11 +82,18 @@ Opens Dalio's Work Principles and sets the foundation formula for the rest of th
 - **Taping all meetings**, despite lawyers warning it created legal exposure, proved over decades to reduce Bridgewater's legal and regulatory risk rather than increase it — Dalio's reasoning: "if we're handling things well, transparency proves it; if badly, it ensures we get what we deserve."
 
 ## Relationships
-- **related:** [[Believability-Weight Your Decision Making]]
-- **related:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
-- **related:** [[Cultivate Meaningful Work and Meaningful Relationships]]
-- **related:** [[Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
-- **related:** [[工作習慣與誠實忠告]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Trust Should Have a Credit Limit|Trust Should Have a Credit Limit]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/工作習慣與誠實忠告|工作習慣與誠實忠告]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How to Get Beyond Disagreements|Recognize How to Get Beyond Disagreements]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale Paradox - Confront Reality Without Losing Faith|The Stockdale Paradox - Confront Reality Without Losing Faith]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as Infrastructure|Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate Meaningful Work and Meaningful Relationships|Cultivate Meaningful Work and Meaningful Relationships]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula|Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
 ## Source reference
-Ray Dalio, *Principles*, Part III, Ch. 1 ("Trust in Radical Truth and Radical Transparency"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 1

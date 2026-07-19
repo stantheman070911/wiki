@@ -3,20 +3,58 @@ title: "The Software Shape - Survive to Product-Market Fit, Then Retain Forever"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/product, topic/retention, topic/churn, topic/scaling, topic/capital, person/alex-hormozi, person/wes-bush, source/product-led-growth]
-source:
-  type: "video"
-  name: "How to Grow Any Business Fast (The Four Business Shapes)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/product,
+    topic/retention,
+    topic/churn,
+    topic/scaling,
+    topic/capital,
+    person/alex-hormozi,
+    person/wes-bush,
+    source/product-led-growth
+  ]
+sources:
+  - id: "SRC-0107"
+    role: "primary"
+  - id: "SRC-0040"
+    role: "supporting"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
+  and Customers Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand,
+      Communicate, and Deliver Customer Value
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
+      MOAT Framework - Choose Freemium, Free Trial, or Demo
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
+      Shapes - E-commerce, Service, Education, Software
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
+      Automation - Manual Onboarding to Fix Churn
+  - type: prerequisite
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
+      Shapes - E-commerce, Service, Education, Software
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
+      Through Segmented Churn
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
+      Product-Discovery Loop - Launch, Learn, Evolve, Delight
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly
+      Compounding and Market Size
 ---
 
 # The Software Shape - Survive to Product-Market Fit, Then Retain Forever
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/Business-Models-and-Customers/Business Models and Customers Map|Business Models and Customers]]
 
 ## One-line summary
 Software is the slowest, most capital-hungry shape to start — a long unprofitable runway to product-market fit that kills most founders — but once PMF and revenue retention exist it becomes the most scalable, highest-margin, stickiest, and most valuable of the four models.
@@ -62,15 +100,18 @@ How to win in software:
 - **Replit** (~\$150M ARR) shows vibe-coding is rising, but its own CEO could cite only a couple of fully vibe-coded businesses at scale — as of now, human-built software still wins on robustness for products that must support millions of users.
 
 ## Relationships
-- **prerequisite:** [[The Four Business Shapes - E-commerce, Service, Education, Software]]
-- **related:** [[Activation Before Automation - Manual Onboarding to Fix Churn]]
-- **related:** [[ICP Qualification Through Segmented Churn]]
-- **related:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
-- **related:** [[Startup Equals Growth - Weekly Compounding and Market Size]]
-- **related:** [[The MOAT Framework - Choose Freemium, Free Trial, or Demo]]
-- **related:** [[UCD - Understand, Communicate, and Deliver Customer Value]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand, Communicate, and Deliver Customer Value|UCD - Understand, Communicate, and Deliver Customer Value]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The MOAT Framework - Choose Freemium, Free Trial, or Demo|The MOAT Framework - Choose Freemium, Free Trial, or Demo]]
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
+- **Prerequisite:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly Compounding and Market Size|Startup Equals Growth - Weekly Compounding and Market Size]]
 ## Source reference
-Alex Hormozi, *How to Grow Any Business Fast (The Four Business Shapes)*. Raw transcript archived in [[2026-07-18_Video_AlexHormozi_HowToGrowAnyBusinessFast_RawTranscript]].
 
-Wes Bush, *Product-Led Growth: How to Build a Product That Sells Itself* (2019). Raw transcript in [[2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-18_Video_AlexHormozi_HowToGrowAnyBusinessFast_RawTranscript|How to Grow Any Business Fast (The Four Business Shapes)]]
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript|Product-Led Growth]]

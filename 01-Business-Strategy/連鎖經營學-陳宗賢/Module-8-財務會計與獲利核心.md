@@ -6,20 +6,40 @@ type: "series-entry"
 domain: "business-strategy"
 series: "連鎖經營學"
 lang: "zh"
-tags: [topic/chain-store, topic/unit-economics, topic/cash-flow, topic/franchise, person/chen-tsung-hsien]
-source:
-  type: "presentation"
-  name: "陳宗賢的連鎖經營學（8-1〜8-5）"
-  author: "陳宗賢"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/chain-store,
+    topic/unit-economics,
+    topic/cash-flow,
+    topic/franchise,
+    person/chen-tsung-hsien
+  ]
+sources:
+  - id: "SRC-0044"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
+relationships:
+  - type: derives-from
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
+  - type: prerequisite
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-4-商品規劃與獲利結構
+  - type: prerequisite
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-7-招商加盟與組織人才
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
+      Return on Time, and Money Rules
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
+      Alignment
 ---
 
 # 連鎖經營學 · Module 8：財務會計與獲利核心
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
 
 > 系列導覽：[[連鎖經營學總覽|總覽與方法論]]　｜　上一模組：[[Module-7-招商加盟與組織人才|Module 7]]
 
@@ -84,12 +104,13 @@ status: "reviewed"
 
 ## 關係
 
-- **related:** [[連鎖經營學總覽|總覽與方法論]]
-- **prerequisite:** [[Module-7-招商加盟與組織人才|Module 7：招商加盟與組織人才]]
-- **prerequisite:** [[Module-4-商品規劃與獲利結構|Module 4：商品規劃與獲利結構]]
-- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- **related:** [[Billing-Cycle vs Value-Cycle Alignment]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **衍生自:** [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
+- **前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-4-商品規劃與獲利結構|連鎖經營學 · Module 4：商品規劃與獲利結構]]
+- **前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-7-招商加盟與組織人才|連鎖經營學 · Module 7：招商加盟與組織人才]]
+- **相關:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
+- **相關:** [[01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle Alignment|Billing-Cycle vs Value-Cycle Alignment]]
 ## 來源
 
-陳宗賢，《連鎖經營學》課程。39 份投影片文字擷取與 10 份 Excel 管理表單詳見 [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]

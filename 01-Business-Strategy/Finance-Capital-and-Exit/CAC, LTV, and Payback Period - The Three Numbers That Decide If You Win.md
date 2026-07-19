@@ -3,20 +3,56 @@ title: "CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/cac, topic/ltv, topic/unit-economics, topic/cash-flow, person/sabri-suby]
-source:
-  type: "video"
-  name: "Customer Acquisition, Offers, and Ads Playbook (compilation)"
-  author: "Sabri Suby"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/cac,
+    topic/ltv,
+    topic/unit-economics,
+    topic/cash-flow,
+    person/sabri-suby
+  ]
+sources:
+  - id: "SRC-0078"
+    role: "primary"
 date_added: "2026-07-10"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
+      - Who-Not-How and Planning Backward From the Goal
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is
+      Destiny - The Sales Channel Power Law
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
+      Through Segmented Churn
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/Survive vs Thrive
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of
+      Investing - Diversification via Uncorrelated Return Streams
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize
+      the Whole Revenue System
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A
+      Seven-Part Framework for an Irresistible Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
+      Slam Offer
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS
+      - The Percentage Lies
 ---
 
 # CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Every business reduces to three numbers — customer acquisition cost (CAC), lifetime value (LTV), and payback period — and whoever can afford to spend the most to acquire a customer, and get that money back the fastest, wins the market.
@@ -65,10 +101,19 @@ Rule of thumb: be willing to spend up to ~33% of LTV to acquire a customer.
 - Businesses that raise ad spend from $10K/month to $50K/month and see 30-day ROAS drop, but need to be evaluated on lifetime ROAS instead of first-purchase ROAS before concluding the spend increase failed.
 
 ## Relationships
-- **related:** [[The Value Equation and the Grand Slam Offer]]
-- **related:** [[The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]]
-- **related:** [[Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value]]
-- **related:** [[ICP Qualification Through Segmented Churn]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law|Distribution Is Destiny - The Sales Channel Power Law]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Survive vs Thrive|Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of Investing - Diversification via Uncorrelated Return Streams|The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly|Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize the Whole Revenue System|Price, Churn, and EPC - Optimize the Whole Revenue System]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A Seven-Part Framework for an Irresistible Offer|The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS - The Percentage Lies|Maximize Net Cash, Not ROAS - The Percentage Lies]]
 ## Source reference
-Sabri Suby, customer-acquisition training video (part of a four-video compilation). Raw transcript and extraction notes archived at [[2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook|Customer Acquisition, Offers, And Ads Playbook]]

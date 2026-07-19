@@ -3,20 +3,77 @@ title: "Constantly Train, Test, Evaluate, and Sort People"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/hiring, topic/feedback, topic/leadership, topic/management, topic/culture, topic/learning, person/ray-dalio, person/steven-bartlett, person/andrew-grove, person/matthew-dixon, person/brent-adamson, source/bridgewater-associates, source/high-output-management, source/the-challenger-sale]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/hiring,
+    topic/feedback,
+    topic/leadership,
+    topic/management,
+    topic/culture,
+    topic/learning,
+    person/ray-dalio,
+    person/steven-bartlett,
+    person/andrew-grove,
+    person/matthew-dixon,
+    person/brent-adamson,
+    source/bridgewater-associates,
+    source/high-output-management,
+    source/the-challenger-sale
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 9"
+  - id: "SRC-0017"
+    role: "supporting"
+    locator: "Law 30"
+  - id: "SRC-0022"
+    role: "supporting"
+    locator: "chapters 11–16"
+  - id: "SRC-0035"
+    role: "supporting"
+    locator: "chapters 3 and 8"
 date_added: "2026-07-13"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Adaptive
+      Leadership - Consistent Standards, Individual Treatment
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a
+      Culture Where Mistakes Are Okay But Not Learning From Them Isn't
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Task-Relevant
+      Maturity
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That
+      People Are Wired Very Differently
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Hire Right, Because the
+      Penalties for Hiring Wrong Are Huge
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Performance Appraisal as a
+      Management System
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More
+      Important Than the WHAT
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design
+      Jobs Around Exceptional Contribution
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone
+      Operating a Machine to Achieve a Goal
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger
+      Selling Model - Teach, Tailor, and Take Control
 ---
 
 # Constantly Train, Test, Evaluate, and Sort People
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Both people and organizational design have to keep evolving after hiring — assessing "what someone is actually like," honestly and with evidence rather than gut feel or kindness, is the single most powerful lever a manager has, and it has to be done continuously, not just at the annual review.
@@ -73,20 +130,22 @@ Add the **three-bars test**: “If everyone here had this person’s cultural va
 - **The Challenger rollout.** Dixon and Adamson describe behavior change as a system implementation, not a training event: manager coaching, tools, messaging, and measurement reinforce the rep skills, while behavioral certification tests application rather than recall.
 
 ## Relationships
-- **related:** [[Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
-- **related:** [[Remember That the WHO Is More Important Than the WHAT]]
-- **applies:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
-- **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
-- **applies:** [[Adaptive Leadership - Consistent Standards, Individual Treatment]]
-- **related:** [[Performance Appraisal as a Management System]]
-- **related:** [[Task-Relevant Maturity]]
-- **related:** [[The Challenger Selling Model - Teach, Tailor, and Take Control]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Adaptive Leadership - Consistent Standards, Individual Treatment|Adaptive Leadership - Consistent Standards, Individual Treatment]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Task-Relevant Maturity|Task-Relevant Maturity]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That People Are Wired Very Differently|Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Hire Right, Because the Penalties for Hiring Wrong Are Huge|Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Performance Appraisal as a Management System|Performance Appraisal as a Management System]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More Important Than the WHAT|Remember That the WHO Is More Important Than the WHAT]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design Jobs Around Exceptional Contribution|Staff for Strength - Design Jobs Around Exceptional Contribution]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone Operating a Machine to Achieve a Goal|Manage as Someone Operating a Machine to Achieve a Goal]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger Selling Model - Teach, Tailor, and Take Control|The Challenger Selling Model - Teach, Tailor, and Take Control]]
 ## Source reference
-Ray Dalio, *Principles*, Part III, Ch. 9 ("Constantly Train, Test, Evaluate, and Sort People"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
 
-Additional source: Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 30. [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
-
-Additional source: Andrew S. Grove, *High Output Management* (1983; revised 1995), chapters 11–16, [[2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript]].
-
-Additional source: Matthew Dixon and Brent Adamson, *The Challenger Sale: Taking Control of the Customer Conversation* (2011), chapters 3 and 8, [[2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 9
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 30
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript|High Output Management - Raw Transcript]] — locator: chapters 11–16
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript|The Challenger Sale]] — locator: chapters 3 and 8

@@ -3,20 +3,46 @@ title: "Positioning a Company - Stand for a Specific Achievement, Not Diversific
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/positioning, topic/brand, topic/diversification, topic/differentiation, person/ries-trout]
-source:
-  type: "book"
-  name: "Positioning: The Battle for Your Mind"
-  author: "Al Ries & Jack Trout"
-  url: ""
-  date_of_source: "1981"
+tags:
+  [
+    topic/positioning,
+    topic/brand,
+    topic/diversification,
+    topic/differentiation,
+    person/ries-trout
+  ]
+sources:
+  - id: "SRC-0006"
+    role: "primary"
+    locator: "ch. 14"
+  - id: "SRC-0007"
+    role: "supporting"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the
+      Prospect Already Gives You - Research-Based Positioning
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension
+      Trap - Why One Name Can't Own Two Things
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market
+      Positioning Styles - Head to Head, Big Fish, or New Game
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition -
+      Why All Happy Companies Are Different
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
+      in the Prospect's Mind
 ---
 
 # Positioning a Company - Stand for a Specific Achievement, Not Diversification
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 A corporate position must rest on one specific, major achievement the company is known for — not on vague claims like "our people" or "diversification," which say nothing distinct in the prospect's mind.
@@ -49,10 +75,15 @@ Positioning a *company* (as opposed to a single product) has extra pitfalls: eve
 - Ford's "better ideas" corporate theme as a middling example — not a true position, since it doesn't answer why Ford doesn't out-execute GM if the ideas are really better.
 
 ## Relationships
-- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
-- **applies:** [[The Line-Extension Trap - Why One Name Can't Own Two Things]]
-- **applies:** [[Own What the Prospect Already Gives You - Research-Based Positioning]]
-- **related:** [[Monopoly vs. Competition - Why All Happy Companies Are Different]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the Prospect Already Gives You - Research-Based Positioning|Own What the Prospect Already Gives You - Research-Based Positioning]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension Trap - Why One Name Can't Own Two Things|The Line-Extension Trap - Why One Name Can't Own Two Things]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market Positioning Styles - Head to Head, Big Fish, or New Game|Three Market Positioning Styles - Head to Head, Big Fish, or New Game]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition - Why All Happy Companies Are Different|Monopoly vs. Competition - Why All Happy Companies Are Different]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
 ## Source reference
-Al Ries & Jack Trout, *Positioning: The Battle for Your Mind*, ch. 14 ("Positioning a Company: Xerox"). Full text in [[2026-07-08_Book_RiesTrout_Positioning_FullText]]; extraction notes in [[2026-07-08_Book_RiesTrout_Positioning]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning_FullText|Positioning - Full Text]] — locator: ch. 14
+- **supporting:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning|Positioning]]

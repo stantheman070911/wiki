@@ -3,20 +3,45 @@ title: "Strategy as Design - Coordinating Actions Under Constraint"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/strategy, topic/systems, topic/decision-making, topic/moat, person/richard-rumelt, source/good-strategy-bad-strategy]
-source:
-  type: "book"
-  name: "Good Strategy/Bad Strategy: The Difference and Why It Matters"
-  author: "Richard Rumelt"
-  url: ""
-  date_of_source: "2011"
+tags:
+  [
+    topic/strategy,
+    topic/systems,
+    topic/decision-making,
+    topic/moat,
+    person/richard-rumelt,
+    source/good-strategy-bad-strategy
+  ]
+sources:
+  - id: "SRC-0038"
+    role: "primary"
+    locator: "Ch. 9"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Chain-Link
+      Systems - Getting Stuck and Getting Unstuck
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Competitive
+      Advantage - Why Owning One Isn't Enough
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Inertia
+      and Entropy - Three Kinds of Organizational Stuckness
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Riding
+      Waves of Change - Five Guideposts for Industry Transitions
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
+      Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action
 ---
 
 # Strategy as Design - Coordinating Actions Under Constraint
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 Under real constraints, strategy behaves less like a decision (pick from a list of options) and more like engineering design (find the configuration where every part is tuned to every other part) — and the tighter the constraint or the fiercer the competition, the more that tight coordination matters, while abundant resources let you get away with sloppier integration.
@@ -49,10 +74,14 @@ Use this trade-off explicitly: when resources are scarce and competition is fier
 - **Xerox and Canon**: Xerox's plain-paper patent bought decades of strategic simplicity; Canon built around Xerox's patent with a genuinely coordinated design (reliable desktop copiers instead of centralized high-volume machines), eventually taking the market Xerox's resource-driven laxity had left undefended.
 
 ## Relationships
-- **related:** [[The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
-- **related:** [[Chain-Link Systems - Getting Stuck and Getting Unstuck]]
-- **related:** [[Competitive Advantage - Why Owning One Isn't Enough]]
-- **related:** [[Inertia and Entropy - Three Kinds of Organizational Stuckness]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Chain-Link Systems - Getting Stuck and Getting Unstuck|Chain-Link Systems - Getting Stuck and Getting Unstuck]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Competitive Advantage - Why Owning One Isn't Enough|Competitive Advantage - Why Owning One Isn't Enough]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Inertia and Entropy - Three Kinds of Organizational Stuckness|Inertia and Entropy - Three Kinds of Organizational Stuckness]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Riding Waves of Change - Five Guideposts for Industry Transitions|Riding Waves of Change - Five Guideposts for Industry Transitions]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
 ## Source reference
-Richard Rumelt, *Good Strategy/Bad Strategy: The Difference and Why It Matters* (2011), Ch. 9 ("Using Design"). Raw text archived in [[2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 9

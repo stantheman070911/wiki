@@ -1,22 +1,62 @@
 ---
-title: "Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle"
+title: "Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast
+  Principle"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/persuasion, topic/influence, person/robert-cialdini, person/steven-bartlett]
-source:
-  type: "book"
-  name: "Influence: The Psychology of Persuasion"
-  author: "Robert B. Cialdini"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/persuasion,
+    topic/influence,
+    person/robert-cialdini,
+    person/steven-bartlett
+  ]
+sources:
+  - id: "SRC-0002"
+    role: "primary"
+    locator: "ch. 1"
+  - id: "SRC-0017"
+    role: "supporting"
+    locator: "Laws 6 and 17"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Change the Comparison Before You Change the Price
+  - type: is-applied-by
+    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
+      Unscalable Premium Offer
+  - type: is-applied-by
+    target: 01-Business-Strategy/Pricing-and-Offers/Goldilocks Pricing - Anchors,
+      Decoys, and the Middle Option
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting
+      Fundamentals - AIDA, the Headline, and the Slippery Slope
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音文案全公式：標題、開頭、結尾與腳本結構
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/行為主義、風險定價與環境設計
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation
+      and Commitment - Persuasion's Two Deepest Levers
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
+      Liking, Authority, and Scarcity - The Four Social Shortcuts
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority
+      Rule - How Intransigent Preferences Dominate Flexible Majorities
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top
+      of Mind, Tip of Tongue
 ---
 
 # Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 Much compliance is automatic: a single trigger feature fires a pre-recorded "click, whirr" response, which is usually efficient but leaves us exploitable — and the contrast principle shows how the *order* of what we're shown reshapes judgment.
@@ -59,14 +99,20 @@ Chapter 1's foundation for the whole of *Influence*. Because we're overloaded wi
 - Langer's copier line: "because I have to make copies."
 
 ## Relationships
-- **related:** [[Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
-- **related:** [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
-- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
-- **related:** [[短影音文案全公式：標題、開頭、結尾與腳本結構]]
-- **related:** [[行為主義、風險定價與環境設計]]
-- **related:** [[Goldilocks Pricing - Anchors, Decoys, and the Middle Option]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Change the Comparison Before You Change the Price|Change the Comparison Before You Change the Price]]
+- **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
+- **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/Goldilocks Pricing - Anchors, Decoys, and the Middle Option|Goldilocks Pricing - Anchors, Decoys, and the Middle Option]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope|Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音文案全公式：標題、開頭、結尾與腳本結構|短影音文案全公式：標題、開頭、結尾與腳本結構]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/行為主義、風險定價與環境設計|行為主義、風險定價與環境設計]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation and Commitment - Persuasion's Two Deepest Levers|Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities|The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue|Triggers - Top of Mind, Tip of Tongue]]
 ## Source reference
-Robert B. Cialdini, *Influence: The Psychology of Persuasion*, ch. 1. Extraction notes in [[2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion]]; PDF archived alongside.
 
-Additional source: Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Laws 6 and 17. [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion|Influence Psychology Of Persuasion]] — locator: ch. 1
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Laws 6 and 17

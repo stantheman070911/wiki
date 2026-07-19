@@ -3,20 +3,44 @@ title: "Black Swans - Find Unknown Unknowns and Hidden Leverage"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/decision-making, topic/risk, topic/persuasion, topic/research, person/chris-voss, person/tahl-raz, source/never-split-the-difference]
-source:
-  type: "book"
-  name: "Never Split the Difference"
-  author: "Chris Voss with Tahl Raz"
-  url: ""
-  date_of_source: "2016"
+tags:
+  [
+    topic/decision-making,
+    topic/risk,
+    topic/persuasion,
+    topic/research,
+    person/chris-voss,
+    person/tahl-raz,
+    source/never-split-the-difference
+  ]
+sources:
+  - id: "SRC-0028"
+    role: "primary"
+    locator: "Chapter 10"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
+      Your Decision Making
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Bend Their
+      Reality - Loss, Fairness, Deadlines, and Anchors
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated
+      Questions - How and What Create the Illusion of Control
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority
+      Rule - How Intransigent Preferences Dominate Flexible Majorities
 ---
 
 # Black Swans - Find Unknown Unknowns and Hidden Leverage
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 Treat inconsistencies and apparently irrational behavior as clues to unknown information that can transform both the negotiation and its leverage.
@@ -53,10 +77,13 @@ Search with **Anomaly–Hypothesis–Leverage–Test**:
 A real-estate broker described a fully occupied building as a cash cow, yet the owner wanted to sell. Instead of accepting the contradiction, a student labeled the apparent doubt about the market. The broker corrected him and revealed that the owner urgently needed cash to cover troubled properties elsewhere, transforming the buyer's leverage.
 
 ## Relationships
-- **related:** [[Calibrated Questions - How and What Create the Illusion of Control]]
-- **related:** [[Bend Their Reality - Loss, Fairness, Deadlines, and Anchors]]
-- **related:** [[Believability-Weight Your Decision Making]]
-- **related:** [[The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Bend Their Reality - Loss, Fairness, Deadlines, and Anchors|Bend Their Reality - Loss, Fairness, Deadlines, and Anchors]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated Questions - How and What Create the Illusion of Control|Calibrated Questions - How and What Create the Illusion of Control]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities|The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
 ## Source reference
-Chris Voss with Tahl Raz, *Never Split the Difference* (2016), Chapter 10 and Appendix. Raw transcript archived in [[2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapter 10

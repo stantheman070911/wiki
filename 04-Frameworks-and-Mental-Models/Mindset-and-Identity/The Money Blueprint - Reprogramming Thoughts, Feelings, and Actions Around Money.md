@@ -1,22 +1,51 @@
 ---
-title: "The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money"
+title: "The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions
+  Around Money"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/identity, topic/decision-making, person/t-harv-eker]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags: [ topic/mindset, topic/identity, topic/decision-making, person/t-harv-eker ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and
+      the Blame-Power Law
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Admire vs. Resent
+      the Rich - Bless That Which You Want
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Committed to Rich
+      vs. Wanting to Be Rich - The Three Levels of Wanting
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Constantly Learn
+      and Grow vs. Think They Already Know - BE, DO, HAVE
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Excellent Receivers
+      vs. Poor Receivers - Worthiness Is a Story You Tell Yourself
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/I Create My Life
+      vs. Life Happens to Me - Escaping the Victim Triangle
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money
+      Well - The Habit Matters More Than the Amount
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs.
+      Playing Not to Lose
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think 'Both' vs.
+      Think 'Either-Or' - Abundance Over Scarcity
 ---
 
 # The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 Everyone has a subconscious "financial blueprint" — a preset ceiling of programming, thoughts, feelings, and actions around money — and no amount of outer knowledge or skill will move your results permanently past it until you find and rewrite it.
@@ -55,10 +84,18 @@ Eker frames wealth as having both an "outer game" (business knowledge, investing
 - A well-dressed seminar attendee stuck at a consistent $500,000/year for seven years had simply never reset his blueprint past that number — "the actual amounts don't matter, what matters is whether you're reaching your full financial potential."
 
 ## Relationships
-- **related:** [[I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle]]
-- **related:** [[Manage Your Money Well - The Habit Matters More Than the Amount]]
-- **related:** [[Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE]]
-- **related:** [[Accountability and the Blame-Power Law]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and the Blame-Power Law|Accountability and the Blame-Power Law]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Admire vs. Resent the Rich - Bless That Which You Want|Admire vs. Resent the Rich - Bless That Which You Want]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting|Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE|Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself|Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle|I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money Well - The Habit Matters More Than the Amount|Manage Your Money Well - The Habit Matters More Than the Amount]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs. Playing Not to Lose|Playing to Win vs. Playing Not to Lose]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think 'Both' vs. Think 'Either-Or' - Abundance Over Scarcity|Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Part One: "Your Money Blueprint." Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

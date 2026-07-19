@@ -1,24 +1,59 @@
 ---
-title: "Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative"
+title: "Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over
+  Narrative"
 aliases:
-  - "Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative"
+  - "Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over
+    Narrative"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/decision-making, topic/ai, topic/prioritization, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi — Cash Cow Business Breakdowns & Service/E-commerce/HVAC Scaling AMAs (compilation)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/decision-making,
+    topic/ai,
+    topic/prioritization,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0073"
+    role: "primary"
+  - id: "SRC-0074"
+    role: "supporting"
 date_added: "2026-07-09"
 updated: "2026-07-09"
 reviewed_on: "2026-07-09"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Fix the Bottleneck, Not Everything
+  - type: has-example
+    target: 05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA,
+      and Risk as the Last Human Job
+  - type: is-applied-by
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS
+      - The Percentage Lies
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems
+      to Get at Their Root Causes
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Perceive and Don't
+      Tolerate Problems
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
+      Business - Train Like an Employee and the Department Playbook
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
+      Filter - Stay, Scale, or Burn It Down
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
+      Supply
 ---
 
 # Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 A scary industry narrative (AI will kill my business, a competitor will eat my market) only deserves strategic attention once it shows up in your actual numbers — until then it's a story, and redirecting resources to fight it is solving a problem you don't have instead of the one you do.
@@ -55,10 +90,18 @@ A website-as-a-service company doing $20M/year on 100% outbound cold calling wor
 - Founders closest to an industry sometimes see real signal before it's statistically visible — weigh domain expertise, but require it to cash out in a falsifiable prediction about a specific metric.
 
 ## Relationships
-- **related:** [[Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
-- **related:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- **related:** [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
-- **related:** [[Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
+- **Has example:** [[05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job|Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
+- **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS - The Percentage Lies|Maximize Net Cash, Not ROAS - The Percentage Lies]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems to Get at Their Root Causes|Diagnose Problems to Get at Their Root Causes]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Perceive and Don't Tolerate Problems|Perceive and Don't Tolerate Problems]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your Business - Train Like an Employee and the Department Playbook|Using AI in Your Business - Train Like an Employee and the Department Playbook]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
 ## Source reference
-Alex Hormozi, business-breakdown/AMA compilation (service business scaling segment). Raw transcript archived in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript]]; extraction notes in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript|Cash Cow Breakdowns - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]

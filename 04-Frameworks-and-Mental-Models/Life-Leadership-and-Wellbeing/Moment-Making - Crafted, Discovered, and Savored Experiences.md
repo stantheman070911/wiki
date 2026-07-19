@@ -3,20 +3,45 @@ title: "Moment-Making - Crafted, Discovered, and Savored Experiences"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/happiness, topic/creativity, topic/focus, person/bill-burnett, person/dave-evans, source/how-to-live-a-meaningful-life]
-source:
-  type: "book"
-  name: "How to Live a Meaningful Life"
-  author: "Bill Burnett and Dave Evans"
-  url: ""
-  date_of_source: "2026"
+tags:
+  [
+    topic/happiness,
+    topic/creativity,
+    topic/focus,
+    person/bill-burnett,
+    person/dave-evans,
+    source/how-to-live-a-meaningful-life
+  ]
+sources:
+  - id: "SRC-0027"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Formative
+      Communities - Become Better Together
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Meaning in
+      Life Is Designed in Particular Moments
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Simple
+      Flow - Presence Beyond Peak Performance
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The
+      Designer's Way - Acceptance, Availability, and Engaged Detachment
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Wonder
+      Formula - Curiosity Plus Mystery
 ---
 
 # Moment-Making - Crafted, Discovered, and Savored Experiences
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 Meaningful moments can be deliberately arranged, attentively discovered, and later deepened through savoring.
@@ -50,10 +75,14 @@ Each mode converts attention into felt meaning at a different point: before, dur
 One crafted moment is waking early to meditate in a quiet favorite chair. A discovered moment is noticing two cars at a light playing the same song and sharing a spontaneous smile. A sudden savoring can be as small as pausing in a difficult conversation to actually taste the coffee already in your hand.
 
 ## Relationships
-- **related:** [[Meaning in Life Is Designed in Particular Moments]]
-- **related:** [[The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
-- **related:** [[The Wonder Formula - Curiosity Plus Mystery]]
-- **related:** [[Formative Communities - Become Better Together]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Formative Communities - Become Better Together|Formative Communities - Become Better Together]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Meaning in Life Is Designed in Particular Moments|Meaning in Life Is Designed in Particular Moments]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Simple Flow - Presence Beyond Peak Performance|Simple Flow - Presence Beyond Peak Performance]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Designer's Way - Acceptance, Availability, and Engaged Detachment|The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Wonder Formula - Curiosity Plus Mystery|The Wonder Formula - Curiosity Plus Mystery]]
 ## Source reference
-Bill Burnett and Dave Evans, *How to Live a Meaningful Life: Using Design Thinking to Unlock Purpose, Joy, and Flow Every Day* (2026). [[2026-07-18_Book_BillBurnettDaveEvans_HowToLiveAMeaningfulLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_HowToLiveAMeaningfulLife_RawTranscript|How to Live a Meaningful Life]]

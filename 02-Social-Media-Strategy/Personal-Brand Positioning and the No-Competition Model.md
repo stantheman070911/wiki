@@ -3,20 +3,46 @@ title: "Personal-Brand Positioning and the No-Competition Model"
 type: "strategy"
 domain: "social-media-strategy"
 lang: "en"
-tags: [topic/personal-brand, topic/positioning, topic/differentiation, topic/niche, topic/content-strategy]
-source:
-  type: "video"
-  name: "The Art of the Personal Brand"
-  author: ""
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/personal-brand,
+    topic/positioning,
+    topic/differentiation,
+    topic/niche,
+    topic/content-strategy
+  ]
+sources:
+  - id: "SRC-0071"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 02-Social-Media-Strategy/Social Media Strategy Index
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder -
+      Fixing Views, Formats, and Timing
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Positioning Yourself
+      - Find a Horse to Ride
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
+      Hole in the Mind (Cherchez le Creneau)
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
+      in the Prospect's Mind
+  - type: related
+    target: 02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why
+  - type: related
+    target: 02-Social-Media-Strategy/Levels of a Personal Brand and the Five Archetypes
+  - type: related
+    target: 02-Social-Media-Strategy/受眾定位與先小後大法則
 ---
 
 # Personal-Brand Positioning and the No-Competition Model
+
+> **Up:** [[Home|Home]] → [[02-Social-Media-Strategy/Social Media Strategy Index|Social Media Strategy]]
 
 ## One-line summary
 Almost no one actually competes with you — of 100 who say they'll start, ~3 remain — so pick a niche whose "content TAM" serves your goal and stand out with one of three positioning moves.
@@ -46,10 +72,16 @@ Two questions decide whether a personal brand cuts through: *where do I aim* (co
 - Shelby Sap's women-focused sales-training angle as a clean "standout demographic" play.
 
 ## Relationships
-- **related:** [[Levels of a Personal Brand and the Five Archetypes]]
-- **related:** [[受眾定位與先小後大法則]]
-- **related:** [[Creator Vision Framework - What x Who x Why]]
-- **related:** [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing|Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Positioning Yourself - Find a Horse to Ride|Positioning Yourself - Find a Horse to Ride]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)|Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
+- **Related:** [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why|Creator Vision Framework: What x Who x Why]]
+- **Related:** [[02-Social-Media-Strategy/Levels of a Personal Brand and the Five Archetypes|Levels of a Personal Brand and the Five Archetypes]]
+- **Related:** [[02-Social-Media-Strategy/受眾定位與先小後大法則|受眾定位與先小後大法則]]
 ## Source reference
-"The Art of the Personal Brand" (video). Extraction notes and raw transcript in [[2026-07-08_Video_ArtOfThePersonalBrand]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_ArtOfThePersonalBrand|Art Of The Personal Brand]]

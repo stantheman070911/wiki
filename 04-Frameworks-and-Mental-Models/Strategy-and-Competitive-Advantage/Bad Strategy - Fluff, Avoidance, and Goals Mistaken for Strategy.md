@@ -3,20 +3,41 @@ title: "Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/strategy, topic/decision-making, topic/mental-models, person/richard-rumelt, source/good-strategy-bad-strategy]
-source:
-  type: "book"
-  name: "Good Strategy/Bad Strategy: The Difference and Why It Matters"
-  author: "Richard Rumelt"
-  url: ""
-  date_of_source: "2011"
+tags:
+  [
+    topic/strategy,
+    topic/decision-making,
+    topic/mental-models,
+    person/richard-rumelt,
+    source/good-strategy-bad-strategy
+  ]
+sources:
+  - id: "SRC-0038"
+    role: "primary"
+    locator: "Ch. 4"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs -
+      Define Objectives Through Sufficient Key Results
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Keeping
+      Your Head - Social Herding, the Inside View, and Strategy as Hypothesis
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Proximate
+      Objectives - Setting the Next Achievable Target
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
+      Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action
 ---
 
 # Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 Bad strategy isn't the absence of a plan — it's an identifiable, recurring pattern (fluff, refusal to name the real problem, goals dressed up as strategy, and either scattershot or unreachable objectives) that leaders default to because it avoids the genuinely hard work of choosing.
@@ -52,9 +73,13 @@ Companion diagnostic to [[The Kernel of Good Strategy - Diagnosis, Guiding Polic
 - **DEC's 1992 "Boxes vs. Chips vs. Solutions" deadlock**: three executives each preferred a different strategic direction in a cyclical, un-resolvable preference pattern (Condorcet's paradox); forced to reach consensus, the group settled on "DEC is committed to providing high-quality products and services and being a leader in data processing" — pure fluff, and the company failed to pivot until it was too late.
 
 ## Relationships
-- **related:** [[The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
-- **related:** [[Keeping Your Head - Social Herding, the Inside View, and Strategy as Hypothesis]]
-- **related:** [[Proximate Objectives - Setting the Next Achievable Target]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs - Define Objectives Through Sufficient Key Results|OKRs - Define Objectives Through Sufficient Key Results]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Keeping Your Head - Social Herding, the Inside View, and Strategy as Hypothesis|Keeping Your Head - Social Herding, the Inside View, and Strategy as Hypothesis]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Proximate Objectives - Setting the Next Achievable Target|Proximate Objectives - Setting the Next Achievable Target]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
 ## Source reference
-Richard Rumelt, *Good Strategy/Bad Strategy: The Difference and Why It Matters* (2011), Ch. 3 ("Bad Strategy") and Ch. 4 ("Why So Much Bad Strategy?"). Raw text archived in [[2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 4

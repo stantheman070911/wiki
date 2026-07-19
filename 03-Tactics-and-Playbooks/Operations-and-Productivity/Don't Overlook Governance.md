@@ -3,20 +3,43 @@ title: "Don't Overlook Governance"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/org-design, topic/leadership, topic/idea-meritocracy, topic/management, person/ray-dalio, source/bridgewater-associates]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/org-design,
+    topic/leadership,
+    topic/idea-meritocracy,
+    topic/management,
+    person/ray-dalio,
+    source/bridgewater-associates
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 16"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How
+      to Get Beyond Disagreements
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More
+      Important Than the WHAT
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations -
+      Co-founders, Ownership, Possession, Control, and Vesting
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone
+      Operating a Machine to Achieve a Goal
 ---
 
 # Don't Overlook Governance
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 All the culture, people, and machine-design principles in the rest of the book are worthless without a governance system that constrains power itself — no one, however capable or principled, should be more powerful than the system or effectively irreplaceable, and Dalio admits this was his own biggest, latest-discovered gap.
@@ -43,10 +66,13 @@ Sixteenth and final chapter of Work Principles. Dalio explicitly frames this as 
 - **The 2016 CEO reshuffle.** Greg Jensen was overloaded trying to serve as both co-CEO and co-CIO simultaneously; the failure led to a painful temporary demotion and Dalio stepping back in as co-CEO for roughly a year. On advice from Jim Collins — "put capable CEOs in place and have a capable governance system to replace them if they're not capable" — Dalio realized Bridgewater had never built formal governance, because he himself had always been the informal check on the organization. This is the direct origin of this chapter and of Bridgewater's current board structure.
 
 ## Relationships
-- **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
-- **applies:** [[Recognize How to Get Beyond Disagreements]]
-- **related:** [[Remember That the WHO Is More Important Than the WHAT]]
-- **related:** [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How to Get Beyond Disagreements|Recognize How to Get Beyond Disagreements]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More Important Than the WHAT|Remember That the WHO Is More Important Than the WHAT]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting|Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone Operating a Machine to Achieve a Goal|Manage as Someone Operating a Machine to Achieve a Goal]]
 ## Source reference
-Ray Dalio, *Principles*, Part III, Ch. 16 ("And for Heaven's Sake, Don't Overlook Governance!"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 16

@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0072"
 title: "Grow Instagram in 2026"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Personal Brand Launch"
+    role: "creator"
 source_type: "video"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Personal Brand Launch"
 date_archived: "2026-07-08"
 status: "source"
 ---

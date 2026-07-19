@@ -3,20 +3,52 @@ title: "Monopoly vs. Competition - Why All Happy Companies Are Different"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/monopoly, topic/competition, topic/positioning, topic/differentiation, person/peter-thiel]
-source:
-  type: "book"
-  name: "Zero to One: Notes on Startups, or How to Build the Future"
-  author: "Peter Thiel with Blake Masters"
-  url: ""
-  date_of_source: "2014"
+tags:
+  [
+    topic/monopoly,
+    topic/competition,
+    topic/positioning,
+    topic/differentiation,
+    person/peter-thiel
+  ]
+sources:
+  - id: "SRC-0014"
+    role: "primary"
+    locator: "ch. 4"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market
+      Positioning Styles - Head to Head, Big Fish, or New Game
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How
+      to Find What Everyone Else Has Missed
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Contrarian
+      Question and Zero to One - Vertical vs. Horizontal Progress
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Seven Questions
+      Every Business Must Answer
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product
+      - The Best-Known Wins, Not the Best
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors
+      Down - The $50M Price-Cut Lesson
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning a Company -
+      Stand for a Specific Achievement, Not Diversification
 ---
 
 # Monopoly vs. Competition - Why All Happy Companies Are Different
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Creating value isn't enough — you have to capture it, and under perfect competition all profit gets competed away, so every durable business is, by definition, some kind of monopoly (a company so good at what it does that no other firm offers a close substitute).
@@ -52,11 +84,17 @@ in real rivalries, there's no productive middle ground — either avoid the figh
 - Bernard Loiseau, a three-Michelin-star chef, killed himself in 2003 after a rival guide downgraded his restaurant — an extreme illustration of what a purely competitive, no-margin-for-error ecosystem does to the people inside it.
 
 ## Relationships
-- **related:** [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
-- **related:** [[The Seven Questions Every Business Must Answer]]
-- **related:** [[Distribution Beats Product - The Best-Known Wins, Not the Best]]
-- **related:** [[Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
-- **applies:** [[The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market Positioning Styles - Head to Head, Big Fish, or New Game|Three Market Positioning Styles - Head to Head, Big Fish, or New Game]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How to Find What Everyone Else Has Missed|Secrets - How to Find What Everyone Else Has Missed]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress|The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Seven Questions Every Business Must Answer|The Seven Questions Every Business Must Answer]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly|Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product - The Best-Known Wins, Not the Best|Distribution Beats Product - The Best-Known Wins, Not the Best]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors Down - The $50M Price-Cut Lesson|Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Positioning a Company - Stand for a Specific Achievement, Not Diversification|Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
 ## Source reference
-Peter Thiel with Blake Masters, *Zero to One*, ch. 3 ("All Happy Companies Are Different") and ch. 4 ("The Ideology of Competition"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 4

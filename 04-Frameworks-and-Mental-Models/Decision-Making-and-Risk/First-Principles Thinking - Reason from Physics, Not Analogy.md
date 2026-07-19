@@ -3,20 +3,48 @@ title: "First-Principles Thinking - Reason from Physics, Not Analogy"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/decision-making, topic/mental-models, person/elon-musk]
-source:
-  type: "book"
-  name: "The Book of Elon: A Guide to Purpose and Success"
-  author: "Eric Jorgenson (Elon Musk)"
-  url: ""
-  date_of_source: "2026"
+tags: [ topic/decision-making, topic/mental-models, person/elon-musk ]
+sources:
+  - id: "SRC-0004"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm -
+      Musk's Five-Step Process Method
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
+      Open-Minded
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Contrarian
+      Question and Zero to One - Vertical vs. Horizontal Progress
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal
+      Urgency - Speed, Parallelism, and Aggressive Timelines
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for
+      Makers - Constraints for Designing Good Things
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Framework for Making Frameworks - Distill by Commonality
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to
+      Love to Read - Foundations, Clear Thinking, and Mental Models
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/決策、幸福與心智管理
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
+      Confidence
 ---
 
 # First-Principles Thinking - Reason from Physics, Not Analogy
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 For anything important, boil the problem down to its fundamental truths and reason up from there, rather than reasoning by analogy ("it's always been done this way") — which only ever yields slight iterations of the status quo.
@@ -50,11 +78,18 @@ Musk credits a physicist's mode of thinking for most of his non-obvious decision
 - Thinking in limits to define the theoretical minimum mass or cost, then engineering toward it.
 
 ## Relationships
-- **related:** [[The Algorithm - Musk's Five-Step Process Method]]
-- **related:** [[Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
-- **related:** [[The Framework for Making Frameworks - Distill by Commonality]]
-- **related:** [[Build Evidence, Not Confidence]]
-- **related:** [[決策、幸福與心智管理]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm - Musk's Five-Step Process Method|The Algorithm - Musk's Five-Step Process Method]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress|The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines|Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for Makers - Constraints for Designing Good Things|Taste for Makers - Constraints for Designing Good Things]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Framework for Making Frameworks - Distill by Commonality|The Framework for Making Frameworks - Distill by Commonality]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to Love to Read - Foundations, Clear Thinking, and Mental Models|Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/決策、幸福與心智管理|決策、幸福與心智管理]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
 ## Source reference
-Eric Jorgenson, *The Book of Elon* (2026), "Think Like a Physicist." Extraction notes in [[2026-07-08_Book_EricJorgenson_TheBookOfElon]]; PDF archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_EricJorgenson_TheBookOfElon|The Book Of Elon]]

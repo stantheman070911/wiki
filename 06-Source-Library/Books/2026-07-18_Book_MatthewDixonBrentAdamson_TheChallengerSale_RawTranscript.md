@@ -1,12 +1,19 @@
 ---
+source_id: "SRC-0035"
 title: "The Challenger Sale"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Matthew Dixon"
+    role: "author"
+  - name: "Brent Adamson"
+    role: "author"
 source_type: "book"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Matthew Dixon and Brent Adamson"
+published_on: "2011"
 date_archived: "2026-07-18"
 status: "source"
 ---

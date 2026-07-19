@@ -3,20 +3,68 @@ title: "The Virtuous Cycle of Service Businesses"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/service-business, topic/pricing, topic/hiring, topic/reputation, topic/supply-constraint, topic/margins, topic/systems, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/service-business,
+    topic/pricing,
+    topic/hiring,
+    topic/reputation,
+    topic/supply-constraint,
+    topic/margins,
+    topic/systems,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
+  - id: "SRC-0074"
+    role: "supporting"
+  - id: "SRC-0107"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-18"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
+  and Customers Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
+      Shapes - E-commerce, Service, Education, Software
+  - type: prerequisite
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
+      Shapes - E-commerce, Service, Education, Software
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
+      Through Segmented Churn
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
+      of a Perfect Business
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The SMB Service
+      Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/打造不依賴創辦人的商業模式：從賣時間到賣系統
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
+      Unscalable Premium Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You
+      Can't Control Price
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Performance-Based Pricing - When
+      It Works and How Not to Get Cheated
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Virtuous Cycle of Price -
+      Why Premium Pricing Serves Customers Better
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
+      Selling Through Trusted Referrers
 ---
 
 # The Virtuous Cycle of Service Businesses
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/Business-Models-and-Customers/Business Models and Customers Map|Business Models and Customers]]
 
 ## One-line summary
 A good service business is supposed to keep raising prices: higher prices fund better talent, better talent lifts reputation and demand, demand exceeds supply, which justifies higher prices again — so growth comes from more valuable clients and a tighter avatar, not from doing more cheap work.
@@ -67,14 +115,22 @@ A later Cash Cow business breakdown extended the reinvestment side of the cycle:
 - Efficiency and price rises must not erode the delivery elements that drive reputation and retention.
 
 ## Relationships
-- **prerequisite:** [[The Four Business Shapes - E-commerce, Service, Education, Software]]
-- **related:** [[ICP Qualification Through Segmented Churn]]
-- **related:** [[The Five Advantages of a Perfect Business]]
-- **related:** [[Compete on Efficiency When You Can't Control Price]]
-- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
-- **related:** [[Centers of Influence - Selling Through Trusted Referrers]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
+- **Prerequisite:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Five Advantages of a Perfect Business|The Five Advantages of a Perfect Business]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone|The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/打造不依賴創辦人的商業模式：從賣時間到賣系統|打造不依賴創辦人的商業模式：從賣時間到賣系統]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You Can't Control Price|Compete on Efficiency When You Can't Control Price]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Performance-Based Pricing - When It Works and How Not to Get Cheated|Performance-Based Pricing - When It Works and How Not to Get Cheated]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Virtuous Cycle of Price - Why Premium Pricing Serves Customers Better|The Virtuous Cycle of Price - Why Premium Pricing Serves Customers Better]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
 
-Expanded 2026-07-18 with the service-shape framing (talent as the defining constraint, the teaching-business reframe, founder productization, and the deliberate low-cost path) from Alex Hormozi, *How to Grow Any Business Fast (The Four Business Shapes)*, [[2026-07-18_Video_AlexHormozi_HowToGrowAnyBusinessFast_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-18_Video_AlexHormozi_HowToGrowAnyBusinessFast_RawTranscript|How to Grow Any Business Fast (The Four Business Shapes)]]

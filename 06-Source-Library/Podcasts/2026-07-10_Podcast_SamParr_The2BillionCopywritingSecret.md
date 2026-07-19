@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0058"
 title: "The $2 Billion Copywriting Secret Behind The Most Successful Ad Ever — w/ Sam Parr (Sweat Equity)"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Sam Parr"
+    role: "creator"
 source_type: "podcast"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Sam Parr"
 date_archived: "2026-07-10"
 status: "source"
 ---

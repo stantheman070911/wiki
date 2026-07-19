@@ -1,24 +1,64 @@
 ---
-title: "Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding"
+title: "Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale,
+  and Branding"
 aliases:
-  - "Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding"
+  - "Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and
+    Branding"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/monopoly, topic/scaling, topic/moat, topic/cash-flow, person/peter-thiel]
-source:
-  type: "book"
-  name: "Zero to One: Notes on Startups, or How to Build the Future"
-  author: "Peter Thiel with Blake Masters"
-  url: ""
-  date_of_source: "2014"
+tags:
+  [
+    topic/monopoly,
+    topic/scaling,
+    topic/moat,
+    topic/cash-flow,
+    person/peter-thiel
+  ]
+sources:
+  - id: "SRC-0014"
+    role: "primary"
+    locator: "ch. 5"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Megapolitics -
+      How Technology Changes the Returns to Violence
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law
+      of Venture Capital and Careers
+  - type: has-example
+    target: 05-Intelligence-and-Research/Technology Platforms - How New Protocols
+      and Tools Shift Power
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business
+      Redesign - Speed to Value and Experience Moats
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Seven Questions
+      Every Business Must Answer
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Alternative Currencies -
+      Reputation, Distribution, and Equity
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
+      Period - The Three Numbers That Decide If You Win
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a
+      Force Multiplier
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/The TAM Illusion
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition -
+      Why All Happy Companies Are Different
 ---
 
 # Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 A business is worth the sum of its discounted future cash flows, not its current growth rate — so the real design task is building a monopoly durable enough to still be capturing value 10+ years out, and the way there is starting in a market small enough to dominate outright, then expanding in a deliberate sequence.
@@ -50,11 +90,19 @@ First-mover status is a tactic, not a goal — it only matters if you can defend
 - Twitter's 250M+ users required minimal new customized features to keep growing — evidence of scale designed into the product from the start, not bolted on later.
 
 ## Relationships
-- **related:** [[Monopoly vs. Competition - Why All Happy Companies Are Different]]
-- **related:** [[The Seven Questions Every Business Must Answer]]
-- **related:** [[The TAM Illusion - Saturated Markets, the Puddle-to-Ocean Path, and Five Directions to Move]]
-- **related:** [[Add a Zero - Market Choice as a Force Multiplier]]
-- **related:** [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Megapolitics - How Technology Changes the Returns to Violence|Megapolitics - How Technology Changes the Returns to Violence]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law of Venture Capital and Careers|The Power Law of Venture Capital and Careers]]
+- **Has example:** [[05-Intelligence-and-Research/Technology Platforms - How New Protocols and Tools Shift Power|Technology Platforms - How New Protocols and Tools Shift Power]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business Redesign - Speed to Value and Experience Moats|The AI-Ready Business Redesign - Speed to Value and Experience Moats]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Seven Questions Every Business Must Answer|The Seven Questions Every Business Must Answer]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Alternative Currencies - Reputation, Distribution, and Equity|Alternative Currencies - Reputation, Distribution, and Equity]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a Force Multiplier|Add a Zero - Market Choice as a Force Multiplier]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/The TAM Illusion|The TAM Illusion - Saturated Markets, the Puddle-to-Ocean Path, and Five Directions to Move]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition - Why All Happy Companies Are Different|Monopoly vs. Competition - Why All Happy Companies Are Different]]
 ## Source reference
-Peter Thiel with Blake Masters, *Zero to One*, ch. 5 ("Last Mover Advantage"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 5

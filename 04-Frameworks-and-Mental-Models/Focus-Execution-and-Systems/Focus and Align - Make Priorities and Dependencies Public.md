@@ -3,20 +3,48 @@ title: "Focus and Align - Make Priorities and Dependencies Public"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/focus, topic/prioritization, topic/management, topic/culture, person/john-doerr, source/measure-what-matters]
-source:
-  type: "book"
-  name: "Measure What Matters"
-  author: "John Doerr"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/focus,
+    topic/prioritization,
+    topic/management,
+    topic/culture,
+    person/john-doerr,
+    source/measure-what-matters
+  ]
+sources:
+  - id: "SRC-0032"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous
+      Conversations, Feedback, and Recognition
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating
+      Cycle - Set, Check In, Score, and Reflect
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
+      Discipline - Freedom, Responsibility, and Stop-Doing Lists
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed
+      and Aspirational OKRs - Separate Reliability from Stretch
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical
+      Path - Work Backward from a Traction Goal
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs -
+      Define Objectives Through Sufficient Key Results
 ---
 
 # Focus and Align - Make Priorities and Dependencies Public
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Shared goals improve execution when leaders choose very few priorities, explain why they matter, and expose every cross-team dependency without turning alignment into rigid top-down cascading.
@@ -55,11 +83,15 @@ The result is not complete cascading. It is a visible network in which central p
 - Intuit used public goals to connect globally distributed functions and replace siloed handoffs with horizontal collaboration.
 
 ## Relationships
-- **related:** [[OKRs - Define Objectives Through Sufficient Key Results]]
-- **related:** [[The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
-- **related:** [[CFRs - Continuous Conversations, Feedback, and Recognition]]
-- **related:** [[A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
-- **related:** [[Critical Path - Work Backward from a Traction Goal]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous Conversations, Feedback, and Recognition|CFRs - Continuous Conversations, Feedback, and Recognition]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating Cycle - Set, Check In, Score, and Reflect|The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed and Aspirational OKRs - Separate Reliability from Stretch|Committed and Aspirational OKRs - Separate Reliability from Stretch]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical Path - Work Backward from a Traction Goal|Critical Path - Work Backward from a Traction Goal]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs - Define Objectives Through Sufficient Key Results|OKRs - Define Objectives Through Sufficient Key Results]]
 ## Source reference
-John Doerr, *Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs* (2018). Raw transcript in [[2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript|Measure What Matters]]

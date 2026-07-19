@@ -3,20 +3,43 @@ title: "Perceive and Don't Tolerate Problems"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/management, topic/culture, topic/feedback, topic/operations, person/ray-dalio, source/bridgewater-associates]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/management,
+    topic/culture,
+    topic/feedback,
+    topic/operations,
+    person/ray-dalio,
+    source/bridgewater-associates
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 11"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the
+      Problem You Have, Not the One You're Afraid Of
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a
+      Culture Where Mistakes Are Okay But Not Learning From Them Isn't
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems
+      to Get at Their Root Causes
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone
+      Operating a Machine to Achieve a Goal
 ---
 
 # Perceive and Don't Tolerate Problems
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 Problems are fuel for improvement — "coal thrown into a locomotive" — but only if they actually get noticed; every organization naturally drifts toward complacency and normalizes its own decay, so perceiving problems has to be actively engineered rather than left to happen on its own.
@@ -44,10 +67,13 @@ Eleventh chapter of Work Principles, and the first of the four-chapter run (perc
 - The Client Service Department's quality slippage (memos going out with sloppy errors) after Dalio stepped back from direct oversight is this chapter's running example of Frog-in-Boiling-Water normalization — nobody had dramatically lowered the bar, it drifted down gradually while attention was elsewhere.
 
 ## Relationships
-- **applies:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
-- **related:** [[Diagnose Problems to Get at Their Root Causes]]
-- **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
-- **applies:** [[Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the Problem You Have, Not the One You're Afraid Of|Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems to Get at Their Root Causes|Diagnose Problems to Get at Their Root Causes]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone Operating a Machine to Achieve a Goal|Manage as Someone Operating a Machine to Achieve a Goal]]
 ## Source reference
-Ray Dalio, *Principles*, Part III, Ch. 11 ("Perceive and Don't Tolerate Problems"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 11

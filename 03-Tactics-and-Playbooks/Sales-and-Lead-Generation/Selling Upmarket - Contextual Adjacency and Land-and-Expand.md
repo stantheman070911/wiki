@@ -3,20 +3,46 @@ title: "Selling Upmarket - Contextual Adjacency and Land-and-Expand"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/positioning, topic/trust, topic/enterprise, topic/partnerships, topic/proof, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "How to Sell to Rich People"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/sales,
+    topic/positioning,
+    topic/trust,
+    topic/enterprise,
+    topic/partnerships,
+    topic/proof,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0095"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points
+      - Anchor a New Position to What's Already Believed
+  - type: applies
+    target: 01-Business-Strategy/Pricing-and-Offers/High-Ticket Self-Checkout -
+      Brand and Qualification Compress the Sale
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
+      Selling Through Trusted Referrers
+  - type: has-derivative
+    target: 07-Articles/Trust Should Have a Credit Limit
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
+      Sell the Goal, Scope the Journey, Secure Prepayment
 ---
 
 # Selling Upmarket - Contextual Adjacency and Land-and-Expand
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Win high-value clients by making the value legible, arriving with trusted contextual signals, starting with a low-friction proof project, documenting the result, and expanding only after trust is earned.
@@ -53,10 +79,14 @@ Use **Land and Expand**:
 A property-sourcing adviser repositioned exclusively for senior leaders at major accounting firms, replaced generic testimonials with segment-specific proof, and required a multi-year acquisition journey. Relevance and commitment increased together.
 
 ## Relationships
-- **related:** [[Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
-- **applies:** [[Centers of Influence - Selling Through Trusted Referrers]]
-- **applies:** [[High-Ticket Self-Checkout - Brand and Qualification Compress the Sale]]
-- **applies:** [[Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points - Anchor a New Position to What's Already Believed|Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
+- **Applies:** [[01-Business-Strategy/Pricing-and-Offers/High-Ticket Self-Checkout - Brand and Qualification Compress the Sale|High-Ticket Self-Checkout - Brand and Qualification Compress the Sale]]
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
+- **Has derivative:** [[07-Articles/Trust Should Have a Credit Limit|Trust Should Have a Credit Limit]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
 ## Source reference
-Daniel Priestley, *How to Sell to Rich People*. Raw transcript in [[2026-07-13_Video_DanielPriestley_HowToSellToRichPeople_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_HowToSellToRichPeople_RawTranscript|How to Sell to Rich People - Raw Transcript]]

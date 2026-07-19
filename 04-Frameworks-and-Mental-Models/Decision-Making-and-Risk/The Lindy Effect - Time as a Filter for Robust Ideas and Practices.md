@@ -3,20 +3,43 @@ title: "The Lindy Effect - Time as a Filter for Robust Ideas and Practices"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/decision-making, topic/risk, topic/research, topic/learning, topic/mental-models, person/nassim-nicholas-taleb, source/skin-in-the-game]
-source:
-  type: "book"
-  name: "Skin in the Game"
-  author: "Nassim Nicholas Taleb"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/decision-making,
+    topic/risk,
+    topic/research,
+    topic/learning,
+    topic/mental-models,
+    person/nassim-nicholas-taleb,
+    source/skin-in-the-game
+  ]
+sources:
+  - id: "SRC-0012"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Preserve the Core,
+      Stimulate Progress - Build an Institution That Can Evolve
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reality Filters
+      - Track Records, Costly Signals, and the Green Lumber Fallacy
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective
+      Decision Process
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to
+      Love to Read - Foundations, Clear Thinking, and Mental Models
 ---
 
 # The Lindy Effect - Time as a Filter for Robust Ideas and Practices
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 For nonperishable things exposed to real selection, surviving longer is evidence of robustness and often increases expected remaining life.
@@ -53,10 +76,13 @@ Apply the **Lindy evidence test**:
 Taleb contrasts fresh food with old laws and books: biological goods perish, while a repeatedly used nonperishable rule can gain evidence with age. Plumbing and other practiced crafts are filtered continuously by whether they work; a fashionable theory can circulate through peer approval without comparable contact with consequences.
 
 ## Relationships
-- **related:** [[Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]]
-- **related:** [[Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
-- **related:** [[Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
-- **related:** [[The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve|Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy|Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective Decision Process|The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to Love to Read - Foundations, Clear Thinking, and Mental Models|Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
 ## Source reference
-Nassim Nicholas Taleb, *Skin in the Game: Hidden Asymmetries in Daily Life* (2018), [[2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript|Skin in the Game - Raw Transcript]]

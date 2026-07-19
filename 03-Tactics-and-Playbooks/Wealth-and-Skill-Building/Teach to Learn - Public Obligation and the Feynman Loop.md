@@ -3,20 +3,42 @@ title: "Teach to Learn - Public Obligation and the Feynman Loop"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/learning, topic/skills, topic/writing, topic/consistency, topic/feedback, person/steven-bartlett]
-source:
-  type: "book"
-  name: "The Diary of a CEO - The 33 Laws of Business and Life"
-  author: "Steven Bartlett"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/learning,
+    topic/skills,
+    topic/writing,
+    topic/consistency,
+    topic/feedback,
+    person/steven-bartlett
+  ]
+sources:
+  - id: "SRC-0017"
+    role: "primary"
+    locator: "Law 2"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
+      - The Zero-Follower Consistency Engine
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
+      Clever - Write Below Third Grade and Meet the Avatar
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a
+      Discovery Tool - Useful, Simple, and Rewritten
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and
+      the Education-ROI Playbook
 ---
 
 # Teach to Learn - Public Obligation and the Feynman Loop
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Turn learning into a public teaching obligation: the need to explain simply, publish consistently, and respond to feedback converts passive knowledge into usable skill.
@@ -53,10 +75,13 @@ The obligation should specify a cadence, medium, and consequence. “I want to w
 Bartlett committed to learning and publishing one idea each day. The constraint of a short social post forced compression, while audience response refined both his thinking and delivery; the practice eventually produced a large audience around the learning habit itself.
 
 ## Relationships
-- **related:** [[Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
-- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
-- **related:** [[Skill Stacking and the Education-ROI Playbook]]
-- **applies:** [[Process as the Goal - The Zero-Follower Consistency Engine]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal - The Zero-Follower Consistency Engine|Process as the Goal - The Zero-Follower Consistency Engine]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a Discovery Tool - Useful, Simple, and Rewritten|Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and the Education-ROI Playbook|Skill Stacking and the Education-ROI Playbook]]
 ## Source reference
-Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 2. Raw transcript archived in [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 2

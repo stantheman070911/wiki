@@ -3,20 +3,36 @@ title: "包裝、網紅與 2026 年 TikTok 戰術"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "zh"
-tags: [topic/brand, topic/influencer-marketing, topic/tiktok, topic/hooks, topic/short-form-video, source/founder-marketing-roundup]
-source:
-  type: "podcast"
-  name: "Anatomy of a Dream — 創辦人與行銷實戰彙整（Charlotte Jarden、Grace Andrews、Natalie Barbou、Kent Yashimura）"
-  author: "多位受訪創辦人"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/brand,
+    topic/influencer-marketing,
+    topic/tiktok,
+    topic/hooks,
+    topic/short-form-video,
+    source/founder-marketing-roundup
+  ]
+sources:
+  - id: "SRC-0051"
+    role: "primary"
 date_added: "2026-07-02"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+  Creation and Distribution Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/內容產製系統與募資紀律
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/網紅行銷引擎：以CPM反推的分散式機器
+  - type: applies
+    target: 02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架
 ---
 
 # 包裝、網紅與 2026 年 TikTok 戰術
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution]]
 
 ## 一句話總結
 
@@ -70,9 +86,11 @@ status: "reviewed"
 
 ## 關係
 
-- **applies:** [[品牌即媒體公司：注意力到信任框架]]
-- **applies:** [[內容產製系統與募資紀律]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **應用於:** [[01-Business-Strategy/Finance-Capital-and-Exit/內容產製系統與募資紀律|內容產製系統與募資紀律]]
+- **應用於:** [[01-Business-Strategy/Traffic-and-Acquisition/網紅行銷引擎：以CPM反推的分散式機器|網紅行銷引擎：以CPM反推的分散式機器]]
+- **應用於:** [[02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架|品牌即媒體公司：注意力到信任框架]]
 ## 來源
 
-Anatomy of a Dream，創辦人與行銷實戰彙整。完整筆記存於 [[2026-07-02_Podcast_AnatomyOfADream_FounderMarketingRoundup]]。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Podcasts/2026-07-02_Podcast_AnatomyOfADream_FounderMarketingRoundup|Founder Marketing Roundup]]

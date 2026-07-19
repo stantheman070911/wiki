@@ -1,24 +1,53 @@
 ---
-title: "The 5A Operating System - Alignment, Awareness, Accountabilities, Activities, and Assets"
+title: "The 5A Operating System - Alignment, Awareness, Accountabilities,
+  Activities, and Assets"
 aliases:
-  - "The 5A Operating System - Alignment, Awareness, Accountabilities, Activities, and Assets"
+  - "The 5A Operating System - Alignment, Awareness, Accountabilities,
+    Activities, and Assets"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/execution, topic/leadership, topic/operations, topic/commitment, topic/systems, topic/capital, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "Five-A Goal-Setting Framework"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/execution,
+    topic/leadership,
+    topic/operations,
+    topic/commitment,
+    topic/systems,
+    topic/capital,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0089"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect
+      Repeatable Week - Designing a Predictable Business Rhythm
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Five
+      Energies of Execution - Vision, Strategy, People, Work, Refinement
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
+      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary
+      Aim and Strategic Objective - Make the Business Serve the Life
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
+      - Who-Not-How and Planning Backward From the Goal
 ---
 
 # The 5A Operating System - Alignment, Awareness, Accountabilities, Activities, and Assets
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Turn a desired future into a ninety-day operating cycle by aligning people to the end state, surfacing uncomfortable realities, assigning outcomes, repeating the right activities, and investing in assets that make later cycles easier.
@@ -55,10 +84,14 @@ Run the sequence every ninety days:
 Priestley contrasts a costly property producing modest rent with a much smaller investment in a lead-generation asset capable of producing recurring demand. Asset selection should be based on the bottleneck and return, not on conventional status.
 
 ## Relationships
-- **related:** [[Five Energies of Execution - Vision, Strategy, People, Work, Refinement]]
-- **related:** [[The Perfect Repeatable Week - Designing a Predictable Business Rhythm]]
-- **related:** [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
-- **related:** [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect Repeatable Week - Designing a Predictable Business Rhythm|The Perfect Repeatable Week - Designing a Predictable Business Rhythm]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Five Energies of Execution - Vision, Strategy, People, Work, Refinement|Five Energies of Execution - Vision, Strategy, People, Work, Refinement]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)|The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary Aim and Strategic Objective - Make the Business Serve the Life|Primary Aim and Strategic Objective - Make the Business Serve the Life]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
 ## Source reference
-Daniel Priestley, *Five-A Goal-Setting Framework*. Raw transcript in [[2026-07-13_Video_DanielPriestley_FiveAGoalSettingFramework_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_FiveAGoalSettingFramework_RawTranscript|Five-A Goal-Setting Framework - Raw Transcript]]

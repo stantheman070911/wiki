@@ -3,20 +3,50 @@ title: "The StoryBrand Conversion Path - Problem, Plan, and Calls to Action"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/messaging, topic/copywriting, topic/sales, topic/persuasion, topic/trust, person/donald-miller, source/building-a-storybrand]
-source:
-  type: "book"
-  name: "Building a StoryBrand 2.0"
-  author: "Donald Miller"
-  url: ""
-  date_of_source: "2025"
+tags:
+  [
+    topic/messaging,
+    topic/copywriting,
+    topic/sales,
+    topic/persuasion,
+    topic/trust,
+    person/donald-miller,
+    source/building-a-storybrand
+  ]
+sources:
+  - id: "SRC-0029"
+    role: "primary"
+    locator: "chapters 5–10"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing -
+      Measure Action, Build Culture Patiently
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7
+      Framework - Customer as Hero, Brand as Guide
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting
+      Fundamentals - AIDA, the Headline, and the Slippery Slope
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
+      Proof, Path - Engineering the Video Intro
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
+      - Heros Journey, the Trojan Horse, and Handling Objections
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The
+      StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment
 ---
 
 # The StoryBrand Conversion Path - Problem, Plan, and Calls to Action
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Move a prospect from recognition to action by naming all three levels of their problem, establishing trust through empathy and competence, reducing risk with a short plan, and asking clearly for the next commitment.
@@ -52,11 +82,15 @@ A prospect can understand an offer and still hesitate because the problem feels 
 CarMax sells cars while messaging against the internal fear of haggling and being deceived; its no-haggle and quality agreements reduce that fear. A mattress retailer increased sales by stating a three-step process—choose, receive delivery, and optionally remove the old mattress—immediately before asking for the order.
 
 ## Relationships
-- **related:** [[The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide]]
-- **related:** [[The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment]]
-- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
-- **related:** [[Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]
-- **related:** [[Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing - Measure Action, Build Culture Patiently|Direct vs Brand Marketing - Measure Action, Build Culture Patiently]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide|The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope|Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections|Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment|The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment]]
 ## Source reference
-Donald Miller, *Building a StoryBrand 2.0* (2025), chapters 5–10. Raw transcript archived at [[2026-07-18_Book_DonaldMiller_BuildingAStoryBrand20_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_DonaldMiller_BuildingAStoryBrand20_RawTranscript|Building a StoryBrand 2.0]] — locator: chapters 5–10

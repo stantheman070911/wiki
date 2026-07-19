@@ -3,20 +3,48 @@ title: "Tailoring for Consensus - Stakeholder Outcomes and Widespread Support"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/persuasion, topic/influence, person/matthew-dixon, person/brent-adamson, source/the-challenger-sale]
-source:
-  type: "book"
-  name: "The Challenger Sale"
-  author: "Matthew Dixon and Brent Adamson"
-  url: ""
-  date_of_source: "2011"
+tags:
+  [
+    topic/sales,
+    topic/persuasion,
+    topic/influence,
+    person/matthew-dixon,
+    person/brent-adamson,
+    source/the-challenger-sale
+  ]
+sources:
+  - id: "SRC-0035"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace
+      Influence Mapping - Authority, Value, and Recognition
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching -
+      Insight That Leads to Unique Strengths
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control -
+      Constructive Tension Across the Sale
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger
+      Selling Model - Teach, Tailor, and Take Control
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Commercial
+      Teaching Conversation - From Warmer to Your Solution
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes -
+      Decision Criteria, Buying Process, and Mutual Effort
 ---
 
 # Tailoring for Consensus - Stakeholder Outcomes and Widespread Support
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Build consensus by translating one commercial insight into the distinct outcomes, metrics, and concerns of every stakeholder whose support the decision maker needs.
@@ -54,10 +82,15 @@ For each stakeholder, capture **outcome → metric → objection → relevant ca
 Solae equipped reps with role cards and message-to-role maps so a technical soy-ingredient solution could be discussed differently with manufacturing, marketing, procurement, and executives. Its value-planning sheet documented the project goal, each stakeholder’s outcome, objections, and the capability that addressed them—sometimes with stakeholder sign-off.
 
 ## Relationships
-- **related:** [[The Challenger Selling Model - Teach, Tailor, and Take Control]]
-- **related:** [[Commercial Teaching - Insight That Leads to Unique Strengths]]
-- **related:** [[Taking Control - Constructive Tension Across the Sale]]
-- **related:** [[Workplace Influence Mapping - Authority, Value, and Recognition]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace Influence Mapping - Authority, Value, and Recognition|Workplace Influence Mapping - Authority, Value, and Recognition]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching - Insight That Leads to Unique Strengths|Commercial Teaching - Insight That Leads to Unique Strengths]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control - Constructive Tension Across the Sale|Taking Control - Constructive Tension Across the Sale]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger Selling Model - Teach, Tailor, and Take Control|The Challenger Selling Model - Teach, Tailor, and Take Control]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Commercial Teaching Conversation - From Warmer to Your Solution|The Commercial Teaching Conversation - From Warmer to Your Solution]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes - Decision Criteria, Buying Process, and Mutual Effort|The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
 ## Source reference
-Matthew Dixon and Brent Adamson, *The Challenger Sale: Taking Control of the Customer Conversation* (2011). [[2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript|The Challenger Sale]]

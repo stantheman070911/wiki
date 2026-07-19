@@ -3,20 +3,39 @@ title: "Paid on Results vs. Paid on Time"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/compensation, topic/business-model, topic/mindset, person/t-harv-eker]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags:
+  [
+    topic/compensation,
+    topic/business-model,
+    topic/mindset,
+    person/t-harv-eker
+  ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: has-example
+    target: 05-Intelligence-and-Research/The Digital-Economy Income Shift - IP,
+      Media, Data, and Code
+  - type: is-applied-by
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
+      Return on Time, and Money Rules
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth
+      vs. Focus on Working Income - The Four Net Worth Factors
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think
+      Small - The Law of Income
 ---
 
 # Paid on Results vs. Paid on Time
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 Getting paid by the hour or on a steady salary buys security, but it also hard-caps income at your available hours; rich people accept the lack of guarantee that comes with being paid on results — commission, profit share, equity, or ownership — because that's the only structure with no ceiling.
@@ -36,9 +55,13 @@ Wealth File #11. Eker's core objection to the "go to school, get a steady job" s
 - If a results-based structure isn't available where you are, evaluate starting a side business, joining as a commissioned salesperson, or converting to an independent contractor relationship — the tax and leverage benefits of business ownership compound the income benefit.
 
 ## Relationships
-- **related:** [[Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
-- **related:** [[Think Big vs. Think Small - The Law of Income]]
-- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has example:** [[05-Intelligence-and-Research/The Digital-Economy Income Shift - IP, Media, Data, and Code|The Digital-Economy Income Shift - IP, Media, Data, and Code]]
+- **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors|Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think Small - The Law of Income|Think Big vs. Think Small - The Law of Income]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #11. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

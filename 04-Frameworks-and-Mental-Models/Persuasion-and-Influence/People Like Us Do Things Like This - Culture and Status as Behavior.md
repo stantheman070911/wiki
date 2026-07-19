@@ -3,20 +3,42 @@ title: "People Like Us Do Things Like This - Culture and Status as Behavior"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/culture, topic/identity, topic/influence, topic/marketing, person/seth-godin, source/this-is-marketing]
-source:
-  type: "book"
-  name: "This Is Marketing"
-  author: "Seth Godin"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/culture,
+    topic/identity,
+    topic/influence,
+    topic/marketing,
+    person/seth-godin,
+    source/this-is-marketing
+  ]
+sources:
+  - id: "SRC-0039"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
+      Features - Sell the Identity Behind the Product
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
+      Observability and Behavioral Residue
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency
+      - We Share What Makes Us Look Good
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and
+      Tension - Move People Without Coercion
 ---
 
 # People Like Us Do Things Like This - Culture and Status as Behavior
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 Behavior spreads when an action becomes a credible signal of what people like us do and where a person belongs or stands within that group.
@@ -54,10 +76,13 @@ The intended change becomes easier when the signal truthfully connects the new b
 Water Health International used brightly colored clean-water containers that made adoption visible in a village. Early adopters talked about the benefit, children saw germs projected at school, and respected neighbors carried the containers. Clean water gradually shifted from a novel purchase to what responsible community members did.
 
 ## Relationships
-- **related:** [[Values Before Features - Sell the Identity Behind the Product]]
-- **related:** [[Social Currency - We Share What Makes Us Look Good]]
-- **related:** [[Public - Observability and Behavioral Residue]]
-- **related:** [[Trust and Tension - Move People Without Coercion]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product|Values Before Features - Sell the Identity Behind the Product]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue|Public - Observability and Behavioral Residue]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good|Social Currency - We Share What Makes Us Look Good]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and Tension - Move People Without Coercion|Trust and Tension - Move People Without Coercion]]
 ## Source reference
-Seth Godin, *This Is Marketing: You Can't Be Seen Until You Learn to See* (2018), [[2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript|This Is Marketing]]

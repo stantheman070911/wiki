@@ -3,20 +3,93 @@ title: "The Change Cost Filter - Stay, Scale, or Burn It Down"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/decision-making, topic/opportunity-cost, topic/focus, topic/career, person/alex-hormozi, person/bill-burnett, person/dave-evans, source/designing-your-new-work-life]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/decision-making,
+    topic/opportunity-cost,
+    topic/focus,
+    topic/career,
+    person/alex-hormozi,
+    person/bill-burnett,
+    person/dave-evans,
+    source/designing-your-new-work-life
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
+  - id: "SRC-0026"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Fix the Bottleneck, Not Everything
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/商業四大需求層次：救命、治病、養生、建體
+  - type: is-applied-by
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger
+  - type: is-applied-by
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
+      Return on Time, and Money Rules
+  - type: is-applied-by
+    target: 01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion
+  - type: is-applied-by
+    target: 01-Business-Strategy/Growth-and-Scaling/The TAM Illusion
+  - type: is-applied-by
+    target: 01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills
+      診斷、1-1-1 與萬能前門
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors
+      Down - The $50M Price-Cut Lesson
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom
+      Loop and the One-Brand Bet
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
+      Elimination - The Deep-Work Playbook
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign,
+      Redesign - Four Ways to Change Work in Place
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
+      and Asymmetric Bets
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Institutional
+      Phase Transitions - Persistent Make-Believe, Decay, and Reaction
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the
+      Problem You Have, Not the One You're Afraid Of
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Hard Road
+      Is the Right Road - Second-Order Thinking and Effort Moats
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a
+      Partnership Makes Sense - The Five Things a Partner Must Bring
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/用數學做決策：損益表、PDCA與預測降低不確定性
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/選擇、承諾與人生取捨
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
+      Supply
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Overwhelm Is
+      a System Signal - Diagnose Before Burnout
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Greener-Pasture Fallacy
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp -
+      The Messy Middle and the 40-for-2 Management Trade
 ---
 
 # The Change Cost Filter - Stay, Scale, or Burn It Down
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 Every change carries a hidden performance tax, so most ideas should wait; but when a better opportunity has far higher upside, count opportunity cost instead of sunk cost and be willing to burn down the smaller game.
@@ -70,18 +143,32 @@ To a serial-visionary founder juggling five businesses, Hormozi laid out the 20%
 - A new location is not scaling if the existing location still depends on the founder or has large unused demand capacity.
 
 ## Relationships
-- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
-- **related:** [[Fear, Regret, and Asymmetric Bets]]
-- **related:** [[選擇、承諾與人生取捨]]
-- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- **related:** [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
-- **related:** [[Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
-- **related:** [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
-- **related:** [[Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
-- **related:** [[Don't Resign, Redesign - Four Ways to Change Work in Place]]
-- **related:** [[Overwhelm Is a System Signal - Diagnose Before Burnout]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/商業四大需求層次：救命、治病、養生、建體|商業四大需求層次：救命、治病、養生、建體]]
+- **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger|Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint]]
+- **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
+- **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion|Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
+- **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/The TAM Illusion|The TAM Illusion - Saturated Markets, the Puddle-to-Ocean Path, and Five Directions to Move]]
+- **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門|少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors Down - The $50M Price-Cut Lesson|Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom Loop and the One-Brand Bet|The Direct-Response Doom Loop and the One-Brand Bet]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign, Redesign - Four Ways to Change Work in Place|Don't Resign, Redesign - Four Ways to Change Work in Place]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction|Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the Problem You Have, Not the One You're Afraid Of|Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats|The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a Partnership Makes Sense - The Five Things a Partner Must Bring|When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/用數學做決策：損益表、PDCA與預測降低不確定性|用數學做決策：損益表、PDCA與預測降低不確定性]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/選擇、承諾與人生取捨|選擇、承諾與人生取捨]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Overwhelm Is a System Signal - Diagnose Before Burnout|Overwhelm Is a System Signal - Diagnose Before Burnout]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Greener-Pasture Fallacy|The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp - The Messy Middle and the 40-for-2 Management Trade|The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
 
-Additional source: Bill Burnett and Dave Evans, *Designing Your New Work Life* (2021; originally published as *Designing Your Work Life*, 2020), [[2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript|Designing Your New Work Life - Raw Transcript]]

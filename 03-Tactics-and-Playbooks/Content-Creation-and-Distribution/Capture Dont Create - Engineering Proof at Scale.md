@@ -5,20 +5,71 @@ aliases:
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/content-strategy, topic/proof, topic/personal-brand, topic/ai, person/alex-hormozi]
-source:
-  type: "podcast"
-  name: "Alex Hormozi — Building a Personal Brand in 2026"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/content-strategy,
+    topic/proof,
+    topic/personal-brand,
+    topic/ai,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0050"
+    role: "primary"
+  - id: "SRC-0042"
+    role: "supporting"
 date_added: "2026-07-02"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+  Creation and Distribution Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/內容產製系統與募資紀律
+  - type: applies
+    target: 02-Social-Media-Strategy/The AI-Era Content Barbell
+  - type: applies
+    target: 02-Social-Media-Strategy/可信度行銷與公開建構
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status
+      Signal - Shame, Guilt, and Documenting the Struggle
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/No One's Opinion
+      Pays Your Bills - Immunity to Critics
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
+      Observability and Behavioral Residue
+  - type: has-derivative
+    target: 07-Articles/Design for the Second Audience
+  - type: has-derivative
+    target: 07-Articles/Steal the Format, Not the Idea
+  - type: has-example
+    target: 05-Intelligence-and-Research/The Risk Continuum - Building an
+      AI-Resistant Personal Brand
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Declarative
+      to Sell, Procedural to Deliver
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
+      - Heros Journey, the Trojan Horse, and Handling Objections
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content
+      Repository - Four Topic Buckets and Tweet-First Capture
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The
+      StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
+      Business - Train Like an Employee and the Department Playbook
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence -
+      Build in Public, Daily Cadence, Post-Launch Loop
 ---
 
 # Capture, Don't Create: Engineering Proof at Scale
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution]]
 
 ## One-line summary
 Bake proof-generation into how you already run your business and document what's already happening, rather than manufacturing content from scratch.
@@ -63,11 +114,25 @@ AI disrupts creators from lowest risk to highest, in that order. To protect your
 - Ask of every claim: “What could I show so I no longer need to say this?” Then build that evidence into delivery and capture it by default.
 
 ## Relationships
-- **related:** [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
-- **applies:** [[內容產製系統與募資紀律]]
-- **applies:** [[可信度行銷與公開建構]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/內容產製系統與募資紀律|內容產製系統與募資紀律]]
+- **Applies:** [[02-Social-Media-Strategy/The AI-Era Content Barbell|The AI-Era Content Barbell - Raw Shorts, Produced Long Form, and Live Interaction]]
+- **Applies:** [[02-Social-Media-Strategy/可信度行銷與公開建構|可信度行銷與公開建構]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle|Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/No One's Opinion Pays Your Bills - Immunity to Critics|No One's Opinion Pays Your Bills - Immunity to Critics]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue|Public - Observability and Behavioral Residue]]
+- **Has derivative:** [[07-Articles/Design for the Second Audience|Design for the Second Audience]]
+- **Has derivative:** [[07-Articles/Steal the Format, Not the Idea|Steal the Format, Not the Idea]]
+- **Has example:** [[05-Intelligence-and-Research/The Risk Continuum - Building an AI-Resistant Personal Brand|The Risk Continuum: Building an AI-Resistant Personal Brand]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Declarative to Sell, Procedural to Deliver|Declarative to Sell, Procedural to Deliver]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections|Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content Repository - Four Topic Buckets and Tweet-First Capture|The Content Repository - Four Topic Buckets and Tweet-First Capture]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment|The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your Business - Train Like an Employee and the Department Playbook|Using AI in Your Business - Train Like an Employee and the Department Playbook]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop|The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop]]
 ## Source reference
-Alex Hormozi, "Building a Personal Brand in 2026" (podcast transcript). Full notes archived at [[2026-07-02_Podcast_AlexHormozi_PersonalBrandVsAI]].
 
-Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Podcasts/2026-07-02_Podcast_AlexHormozi_PersonalBrandVsAI|Personal Brand vs. AI]]
+- **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

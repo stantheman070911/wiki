@@ -3,20 +3,57 @@ title: "The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/strategy, topic/decision-making, topic/mental-models, topic/focus, person/richard-rumelt, source/good-strategy-bad-strategy]
-source:
-  type: "book"
-  name: "Good Strategy/Bad Strategy: The Difference and Why It Matters"
-  author: "Richard Rumelt"
-  url: ""
-  date_of_source: "2011"
+tags:
+  [
+    topic/strategy,
+    topic/decision-making,
+    topic/mental-models,
+    topic/focus,
+    person/richard-rumelt,
+    source/good-strategy-bad-strategy
+  ]
+sources:
+  - id: "SRC-0038"
+    role: "primary"
+    locator: "Ch. 5"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Growth-and-Scaling/Growth Is Not a Strategy - When
+      Expansion Destroys Value
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical
+      Path - Work Backward from a Traction Goal
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bad
+      Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Chain-Link
+      Systems - Getting Stuck and Getting Unstuck
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Focus
+      - Winning a Segment by Coordinating Policy Around It
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Keeping
+      Your Head - Social Herding, the Inside View, and Strategy as Hypothesis
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Proximate
+      Objectives - Setting the Next Achievable Target
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategic
+      Leverage - Anticipation, Pivot Points, Concentration
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy
+      as Design - Coordinating Actions Under Constraint
 ---
 
 # The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 A strategy only has substance if it contains a diagnosis of the real challenge, a guiding policy for tackling it, and a set of coherent actions that carry the policy out — strip out any of the three and what's left is a goal, a slogan, or a wish, not a strategy.
@@ -52,10 +89,18 @@ Test any strategy document by asking, for each element: is this a diagnosis, a p
 - **George Kennan's 1946 "long telegram"**: diagnosed the USSR as an ideologically expansionist but realist power, yielding the guiding policy of containment — a single diagnosis that shaped decades of downstream U.S. actions (NATO, the Berlin Airlift, Korea).
 
 ## Relationships
-- **related:** [[Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy]]
-- **related:** [[Strategic Leverage - Anticipation, Pivot Points, Concentration]]
-- **related:** [[Proximate Objectives - Setting the Next Achievable Target]]
-- **related:** [[Strategy as Design - Coordinating Actions Under Constraint]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/Growth Is Not a Strategy - When Expansion Destroys Value|Growth Is Not a Strategy - When Expansion Destroys Value]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical Path - Work Backward from a Traction Goal|Critical Path - Work Backward from a Traction Goal]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy|Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Chain-Link Systems - Getting Stuck and Getting Unstuck|Chain-Link Systems - Getting Stuck and Getting Unstuck]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Focus - Winning a Segment by Coordinating Policy Around It|Focus - Winning a Segment by Coordinating Policy Around It]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Keeping Your Head - Social Herding, the Inside View, and Strategy as Hypothesis|Keeping Your Head - Social Herding, the Inside View, and Strategy as Hypothesis]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Proximate Objectives - Setting the Next Achievable Target|Proximate Objectives - Setting the Next Achievable Target]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategic Leverage - Anticipation, Pivot Points, Concentration|Strategic Leverage - Anticipation, Pivot Points, Concentration]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy as Design - Coordinating Actions Under Constraint|Strategy as Design - Coordinating Actions Under Constraint]]
 ## Source reference
-Richard Rumelt, *Good Strategy/Bad Strategy: The Difference and Why It Matters* (2011), Introduction and Ch. 5 ("The Kernel of Good Strategy"). Raw text archived in [[2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 5

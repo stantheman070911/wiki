@@ -3,20 +3,44 @@ title: "用數學做決策：損益表、PDCA與預測降低不確定性"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "zh"
-tags: [topic/decision-making, topic/unit-economics, source/kim-startup-qa, person/kim]
-source:
-  type: "conversation"
-  name: "創業解惑社 Q&A 整理（共用表單副本，344 則問答）"
-  author: "阿金（Kim）"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/decision-making,
+    topic/unit-economics,
+    source/kim-startup-qa,
+    person/kim
+  ]
+sources:
+  - id: "SRC-0041"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "evergreen"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/商業四大需求層次：救命、治病、養生、建體
+  - type: is-applied-by
+    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
+      Alignment
+  - type: is-applied-by
+    target: 01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing
+      Offers to Fund Growth
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to
+      Make Decisions Effectively - Expected Value, Levels, and Algorithms
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
+      Filter - Stay, Scale, or Burn It Down
 ---
 
 # 用數學做決策：損益表、PDCA與預測降低不確定性
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## 一句話總結
 
@@ -70,11 +94,14 @@ status: "evergreen"
 
 ## 關係
 
-- **related:** [[人群場景痛點解決方案：客戶洞察與需求驗證框架]]
-- **related:** [[商業四大需求層次：救命、治病、養生、建體]]
-- **related:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- **related:** [[Billing-Cycle vs Value-Cycle Alignment]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **由其應用:** [[01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架|人群場景痛點解決方案：客戶洞察與需求驗證框架]]
+- **由其應用:** [[01-Business-Strategy/Business-Models-and-Customers/商業四大需求層次：救命、治病、養生、建體|商業四大需求層次：救命、治病、養生、建體]]
+- **由其應用:** [[01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle Alignment|Billing-Cycle vs Value-Cycle Alignment]]
+- **由其應用:** [[01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing Offers to Fund Growth|The Money Model - Sequencing Offers to Fund Growth]]
+- **相關:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms|Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms]]
+- **相關:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
 ## 來源
 
-創業解惑社 Q&A 整理（共用表單副本，344 則問答），阿金（Kim）。封存來源：[[2026-07-08_Conversation_阿金_創業解惑社QA整理]]。本條目綜合 Q1、Q4、Q22、Q34、Q84、Q194、Q205 等多則問答的重複性核心洞察。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Conversations/2026-07-08_Conversation_阿金_創業解惑社QA整理|創業解惑社QA整理]]

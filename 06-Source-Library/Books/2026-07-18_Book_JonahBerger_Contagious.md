@@ -1,12 +1,17 @@
 ---
+source_id: "SRC-0033"
 title: "Contagious: Why Things Catch On"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Jonah Berger"
+    role: "author"
 source_type: "book"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Jonah Berger"
+published_on: "2013"
 date_archived: "2026-07-18"
 status: "source"
 ---

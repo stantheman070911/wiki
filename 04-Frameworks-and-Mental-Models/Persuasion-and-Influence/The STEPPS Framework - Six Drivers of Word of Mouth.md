@@ -3,20 +3,84 @@ title: "The STEPPS Framework - Six Drivers of Word of Mouth"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/word-of-mouth, topic/marketing, topic/content-strategy, topic/mental-models, person/jonah-berger, source/contagious]
-source:
-  type: "book"
-  name: "Contagious: Why Things Catch On"
-  author: "Jonah Berger"
-  url: ""
-  date_of_source: "2013"
+tags:
+  [
+    topic/word-of-mouth,
+    topic/marketing,
+    topic/content-strategy,
+    topic/mental-models,
+    person/jonah-berger,
+    source/contagious
+  ]
+sources:
+  - id: "SRC-0033"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: "2026-07-18"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal
+      Emotion - When We Care, We Share
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value
+      - The Psychology of Deals and the Rule of 100
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
+      Observability and Behavioral Residue
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency
+      - We Share What Makes Us Look Good
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top
+      of Mind, Tip of Tongue
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable
+      Virality - Build a Trojan Horse People Can't Retell Without You
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/Smallest Viable
+      Market - Specificity Before Scale
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability -
+      Own Attention and Design Word of Mouth
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals -
+      Engineering Word of Mouth Through Goodwill
+  - type: is-applied-by
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal
+      Emotion - When We Care, We Share
+  - type: is-applied-by
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value
+      - The Psychology of Deals and the Rule of 100
+  - type: is-applied-by
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
+      Observability and Behavioral Residue
+  - type: is-applied-by
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency
+      - We Share What Makes Us Look Good
+  - type: is-applied-by
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top
+      of Mind, Tip of Tongue
+  - type: is-applied-by
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable
+      Virality - Build a Trojan Horse People Can't Retell Without You
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
+      Actually Is - Association, Influence, Direction, Reach
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
+      Liking, Authority, and Scarcity - The Four Social Shortcuts
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority
+      Rule - How Intransigent Preferences Dominate Flexible Majorities
 ---
 
 # The STEPPS Framework - Six Drivers of Word of Mouth
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 Things catch on because of the *message*, not a special messenger — and six engineerable qualities (Social Currency, Triggers, Emotion, Public, Practical Value, Stories) make any product or idea more likely to be talked about and shared.
@@ -49,15 +113,27 @@ Word of mouth matters because it is *targeted* (naturally reaches interested peo
 - **Build in either layer.** STEPPS can live in the product itself (the $100 cheesesteak *is* the Social Currency) or in the messaging around it (Kit Kat didn't change; its *coffee* pairing did).
 
 ## Relationships
-- **applies:** [[Social Currency - We Share What Makes Us Look Good]]
-- **applies:** [[Triggers - Top of Mind, Tip of Tongue]]
-- **applies:** [[High-Arousal Emotion - When We Care, We Share]]
-- **applies:** [[Public - Observability and Behavioral Residue]]
-- **applies:** [[Practical Value - The Psychology of Deals and the Rule of 100]]
-- **applies:** [[Valuable Virality - Build a Trojan Horse People Can't Retell Without You]]
-- **related:** [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
-- **related:** [[The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
-- **related:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal Emotion - When We Care, We Share|High-Arousal Emotion - When We Care, We Share]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100|Practical Value - The Psychology of Deals and the Rule of 100]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue|Public - Observability and Behavioral Residue]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good|Social Currency - We Share What Makes Us Look Good]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue|Triggers - Top of Mind, Tip of Tongue]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable Virality - Build a Trojan Horse People Can't Retell Without You|Valuable Virality - Build a Trojan Horse People Can't Retell Without You]]
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/Smallest Viable Market - Specificity Before Scale|Smallest Viable Market - Specificity Before Scale]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability - Own Attention and Design Word of Mouth|Permission and Remarkability - Own Attention and Design Word of Mouth]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals - Engineering Word of Mouth Through Goodwill|Referrals - Engineering Word of Mouth Through Goodwill]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal Emotion - When We Care, We Share|High-Arousal Emotion - When We Care, We Share]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100|Practical Value - The Psychology of Deals and the Rule of 100]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue|Public - Observability and Behavioral Residue]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good|Social Currency - We Share What Makes Us Look Good]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue|Triggers - Top of Mind, Tip of Tongue]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable Virality - Build a Trojan Horse People Can't Retell Without You|Valuable Virality - Build a Trojan Horse People Can't Retell Without You]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities|The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
 ## Source reference
-Jonah Berger, *Contagious: Why Things Catch On* (Simon & Schuster, 2013), Introduction and Epilogue. Extraction notes in [[2026-07-18_Book_JonahBerger_Contagious]]; full text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_JonahBerger_Contagious|Contagious: Why Things Catch On]]

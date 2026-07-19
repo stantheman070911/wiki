@@ -3,20 +3,63 @@ title: "The Algorithm - Musk's Five-Step Process Method"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/operations, topic/simplification, topic/automation, person/elon-musk]
-source:
-  type: "book"
-  name: "The Book of Elon: A Guide to Purpose and Success"
-  author: "Eric Jorgenson (Elon Musk)"
-  url: ""
-  date_of_source: "2026"
+tags:
+  [
+    topic/operations,
+    topic/simplification,
+    topic/automation,
+    person/elon-musk
+  ]
+sources:
+  - id: "SRC-0004"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
+      Manufacturing as the Moat
+  - type: applies
+    target: 01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills
+      診斷、1-1-1 與萬能前門
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles
+      Thinking - Reason from Physics, Not Analogy
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation,
+      Quantification, and Orchestration - The Business Development Loop
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal
+      Urgency - Speed, Parallelism, and Aggressive Timelines
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
+      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Breakfast Factory - Limiting Steps, WIP, and Capacity
+  - type: has-derivative
+    target: 07-Articles/Fix the Bottleneck, Not Everything
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
+      Organizations
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
+      Elimination - The Deep-Work Playbook
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
+      - SOPs, Checklists, and Systematizing the Vital 20%
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
+      Intellectual Property - Process Above the Player
 ---
 
 # The Algorithm - Musk's Five-Step Process Method
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 Improve any product or process in a strict order — question the requirements, delete, simplify, accelerate, automate — because doing them out of order (especially automating first) means you optimize and automate things that should never have existed.
@@ -52,11 +95,21 @@ Musk made every team at his companies "rigorously implement" this five-step meth
 - "The best part is no part" as Method #26 of the 69 Core Musk Methods.
 
 ## Relationships
-- **applies:** [[First-Principles Thinking - Reason from Physics, Not Analogy]]
-- **applies:** [[The Factory Is the Product - Manufacturing as the Moat]]
-- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
-- **applies:** [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
-- **applies:** [[Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]
+- **Applies:** [[01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門|少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles Thinking - Reason from Physics, Not Analogy|First-Principles Thinking - Reason from Physics, Not Analogy]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation, Quantification, and Orchestration - The Business Development Loop|Innovation, Quantification, and Orchestration - The Business Development Loop]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines|Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)|The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Breakfast Factory - Limiting Steps, WIP, and Capacity|The Breakfast Factory - Limiting Steps, WIP, and Capacity]]
+- **Has derivative:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%|Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
 ## Source reference
-Eric Jorgenson, *The Book of Elon* (2026), "Designing the Organization — The Algorithm." Extraction notes in [[2026-07-08_Book_EricJorgenson_TheBookOfElon]]; PDF archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_EricJorgenson_TheBookOfElon|The Book Of Elon]]

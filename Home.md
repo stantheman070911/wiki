@@ -1,7 +1,12 @@
 ---
 type: "vault-home"
 title: "THE WIKI"
+domain: "meta"
+lang: "en"
 tags: [home]
+updated: "2026-07-19"
+status: "evergreen"
+owner: "stanley-lu"
 ---
 
 # THE WIKI
@@ -10,16 +15,18 @@ A centralized knowledge vault for business strategy, social media strategy, tact
 
 ## Start here
 
+Chinese entry point: [[Home-ZH|THE WIKI 中文入口]].
+
 1. **Choose the reader's job:** strategy, execution, reasoning, research, or synthesis.
 2. **Open the matching domain map** below; use its curated path before the generated inventory.
 3. **Follow relationships** inside an entry for prerequisites, applications, examples, contrasts, and translations.
 4. **Verify provenance** through the linked source record or collection manifest.
 
-Core architecture: [[Vault Conventions|editorial conventions]] · [[Architecture Schema|page types and validation rules]] · [[Topic-Index#All topics (153)|complete topic index]] · [[Portable Index|plugin-independent inventory]]
+Core architecture: [[Vault Conventions|editorial conventions]] · [[Architecture Schema|page types and validation rules]] · [[Topic-Index|complete topic index]] · [[Portable Index|plugin-independent inventory]]
 
 ## Sections
 
-- [[01-Business-Strategy/Business Strategy Index|01 — Business Strategy]] — business models, growth, ops, decision-making *(`$= dv.pages('"01-Business-Strategy"').where(p => ["strategy", "series-entry", "series-hub"].includes(p.type)).length` entries and hubs)*
+- [[01-Business-Strategy/Business Strategy Index|01 — Business Strategy]] — business models, growth, ops, decision-making *(`$= dv.pages('"01-Business-Strategy"').where(p => p.domain == "business-strategy" && !["domain-index", "subdomain-index"].includes(p.type)).length` entries and hubs)*
 - [[02-Social-Media-Strategy/Social Media Strategy Index|02 — Social Media Strategy]] — platform strategy, content strategy, growth tactics *(`$= dv.pages('"02-Social-Media-Strategy"').where(p => p.type == "strategy").length` entries)*
 - [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|03 — Tactics and Playbooks]] — step-by-step, repeatable how-tos *(`$= dv.pages('"03-Tactics-and-Playbooks"').where(p => p.type == "playbook").length` entries)*
 - [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|04 — Frameworks and Mental Models]] — reusable thinking tools and mental models *(`$= dv.pages('"04-Frameworks-and-Mental-Models"').where(p => p.type == "framework").length` entries)*
@@ -28,12 +35,34 @@ Core architecture: [[Vault Conventions|editorial conventions]] · [[Architecture
 - [[07-Articles/Articles Index|07 — Articles]] — composed, outward-facing pieces synthesized from multiple entries *(`$= dv.pages('"07-Articles"').where(p => p.type == "article").length` articles)*
 - [[_Inbox/Inbox Index|Inbox]] — unprocessed material awaiting triage
 
-**`Reports/`** — long-form analytical syntheses generated *from* the wiki (not source material feeding into it). These are downstream deliverables, not peer entries: intentionally kept outside the sub-topic taxonomy and the wikilink graph, with no inbound or outbound links to other vault pages. Provenance is noted in each report's own text rather than via links. Treat a report as a dated snapshot that may drift from the source entries it was synthesized from.
+- [[Reports/Reports Index|Reports]] — governed, dated analytical syntheses generated *from* the wiki. Reports participate in navigation, lifecycle, and graph traceability while remaining downstream artifacts rather than source material.
+
+## Governed reports
+
+These curated links keep current reports reader-reachable independently of the generated Reports Index.
+
+- [[Reports/Creator and Personal Brand Businesses - Industry Handbook|Creator and Personal Brand Businesses — Industry Handbook]]
+- [[Reports/How In-Person Training Businesses Really Work|How In-Person Training Businesses Really Work]]
 
 ## Major series
 
 - [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M Scaling Roadmap]] — ten ordered scaling stages
 - [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學]] — eight modules with a complete [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|source manifest]]
+
+## Featured articles
+
+These static links keep every composed article reachable without relying on the generated Articles Index.
+
+- [[07-Articles/Change the Comparison Before You Change the Price|Change the Comparison Before You Change the Price]]
+- [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
+- [[07-Articles/Design for the Second Audience|Design for the Second Audience]]
+- [[07-Articles/Disagreement Needs a Finish Line|Disagreement Needs a Finish Line]]
+- [[07-Articles/Do It by Hand Until You Know What It Is|Do It by Hand Until You Know What It Is]]
+- [[07-Articles/Every Possession Comes With a Job|Every Possession Comes With a Job]]
+- [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
+- [[07-Articles/Steal the Format, Not the Idea|Steal the Format, Not the Idea]]
+- [[07-Articles/Trust Should Have a Credit Limit|Trust Should Have a Credit Limit]]
+- [[07-Articles/Two Ways a Founder Can Disappear|Two Ways a Founder Can Disappear]]
 
 ## Recently added
 
@@ -87,7 +116,7 @@ SORT reviewed_on ASC
 ### Unprocessed sources
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Source", source_type AS "Type", author AS "Author", date_archived AS "Archived"
+TABLE WITHOUT ID file.link AS "Source", source_type AS "Type", creators.name AS "Creators", date_archived AS "Archived"
 WHERE type = "source" AND processing_status = "unprocessed"
 SORT date_archived ASC
 ```
@@ -98,7 +127,7 @@ SORT date_archived ASC
 - **Unsure where it goes** → drop it in `_Inbox/` first; see placement rules in [[Vault Conventions]]
 - **Process the inbox** → paste [[Process-Inbox]] into Claude (or use the `process-inbox` skill)
 - **Find a topic** → Quick Switcher (`Cmd+O`), global search (`Cmd+Shift+F`), or the tag pane
-- **Browse every topic** → [[Topic-Index#All topics (153)|Topic Index — all 153 active topics]]
+- **Browse every topic** → [[Topic-Index|Topic Index — complete governed taxonomy]]
 - **Bridge English and Chinese** → [[Topic-Index|bilingual topic index]]; monolingual topics remain visible in the complete index
 - **Read taxonomy rules** → [[Tags]] — the governed, faceted vocabulary (`topic/` `person/` `source/`)
 - **Browse sources and people** → [[Source and Author Index]] — author, person, source, and media-type facets
@@ -112,7 +141,7 @@ SORT date_archived ASC
 
 - Condense, don't summarize — every entry should be usable without reading the source.
 - Prefer frameworks and mental models over one-off facts — they generalize.
-- Cite the source and date on every entry, and link it, for traceability.
+- Reference stable source IDs on every entry; keep authoritative bibliography on canonical source records.
 - Update existing entries when better information arrives, rather than creating duplicates.
 
 ---

@@ -3,20 +3,55 @@ title: "The Digital-Economy Income Shift - IP, Media, Data, and Code"
 type: "research"
 domain: "intelligence-and-research"
 lang: "en"
-tags: [topic/ai, topic/ip, topic/automation, topic/personal-brand, topic/power-law, topic/wealth, topic/career, person/daniel-priestley, person/james-dale-davidson, person/william-rees-mogg, source/daniel-priestley-youtube, source/the-sovereign-individual]
-source:
-  type: "video"
-  name: "AI and the Digital Income Shift"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/ai,
+    topic/ip,
+    topic/automation,
+    topic/personal-brand,
+    topic/power-law,
+    topic/wealth,
+    topic/career,
+    person/daniel-priestley,
+    person/james-dale-davidson,
+    person/william-rees-mogg,
+    source/daniel-priestley-youtube,
+    source/the-sovereign-individual
+  ]
+sources:
+  - id: "SRC-0086"
+    role: "primary"
+  - id: "SRC-0009"
+    role: "supporting"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 05-Intelligence-and-Research/Intelligence and Research Index
+relationships:
+  - type: example
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtual Firm -
+      Falling Transaction Costs and the Unbundling of Organizations
+  - type: example
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law
+      of Venture Capital and Careers
+  - type: example
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs.
+      Paid on Time
+  - type: related
+    target: 05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions
+      Competing as Service Providers
+  - type: related
+    target: 05-Intelligence-and-Research/Technology Platforms - How New Protocols
+      and Tools Shift Power
+  - type: related
+    target: 05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era
+      Moat
 ---
 
 # The Digital-Economy Income Shift - IP, Media, Data, and Code
+
+> **Up:** [[Home|Home]] → [[05-Intelligence-and-Research/Intelligence and Research Index|Intelligence and Research]]
 
 ## One-line summary
 Digital markets can increase the advantage of people who combine measurable performance with portable assets—intellectual property, media, data, and code—while weakening some geographic wage premiums, but the timing and political consequences remain uncertain.
@@ -59,14 +94,16 @@ Add a portability test: identify which assets, customer relationships, licenses,
 Priestley contrasts an industrial-era “average worker” with a globally discoverable specialist at the intersection of executive fitness and first-marathon coaching. Narrowing the game changes the competitive set; it does not eliminate the need to become genuinely good.
 
 ## Relationships
-- **example:** [[The Power Law of Venture Capital and Careers]]
-- **example:** [[Paid on Results vs. Paid on Time]]
-- **related:** [[The Attention Barbell - Brand as the AI-Era Moat]]
-- **related:** [[Technology Platforms - How New Protocols and Tools Shift Power]]
-- **related:** [[Commercialized Sovereignty - Jurisdictions Competing as Service Providers]]
-- **example:** [[The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Example:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations|The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
+- **Example:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law of Venture Capital and Careers|The Power Law of Venture Capital and Careers]]
+- **Example:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs. Paid on Time|Paid on Results vs. Paid on Time]]
+- **Related:** [[05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions Competing as Service Providers|Commercialized Sovereignty - Jurisdictions Competing as Service Providers]]
+- **Related:** [[05-Intelligence-and-Research/Technology Platforms - How New Protocols and Tools Shift Power|Technology Platforms - How New Protocols and Tools Shift Power]]
+- **Related:** [[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat|The Attention Barbell - Brand as the AI-Era Moat]]
 ## Source reference
-Daniel Priestley, *AI and the Digital Income Shift*. Raw transcript in [[2026-07-13_Video_DanielPriestley_AIAndTheDigitalIncomeShift_RawTranscript]].
 
-Additional source: James Dale Davidson and William Rees-Mogg, *The Sovereign Individual* (1997), [[2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_AIAndTheDigitalIncomeShift_RawTranscript|AI and the Digital Income Shift - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript|The Sovereign Individual - Raw Transcript]]

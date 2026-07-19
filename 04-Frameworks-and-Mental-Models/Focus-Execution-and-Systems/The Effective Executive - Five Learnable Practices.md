@@ -3,20 +3,54 @@ title: "The Effective Executive - Five Learnable Practices"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/management, topic/leadership, topic/productivity, topic/decision-making, topic/focus, person/peter-drucker]
-source:
-  type: "book"
-  name: "The Effective Executive"
-  author: "Peter F. Drucker"
-  url: ""
-  date_of_source: "1967"
+tags:
+  [
+    topic/management,
+    topic/leadership,
+    topic/productivity,
+    topic/decision-making,
+    topic/focus,
+    person/peter-drucker
+  ]
+sources:
+  - id: "SRC-0013"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design
+      Jobs Around Exceptional Contribution
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
+      Elimination - The Deep-Work Playbook
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time -
+      Record, Eliminate, and Consolidate
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective
+      Decision Process
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Contribution
+      Before Activity - Define Results and Make Knowledge Usable
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Five
+      Energies of Execution - Vision, Strategy, People, Work, Refinement
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
+      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary
+      Aim and Strategic Objective - Make the Business Serve the Life
 ---
 
 # The Effective Executive - Five Learnable Practices
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Effectiveness is not a personality or talent but a trainable discipline: manage time, define contribution, build on strength, concentrate resources, and make a few consequential decisions systematically.
@@ -55,11 +89,17 @@ The sequence progresses from mechanics to responsibility: time produces capacity
 - Drucker contrasts countable internal data with early qualitative signals: the Edsel’s research missed a shift from income-based to taste-based car buying because the old categories still produced reassuring numbers.
 
 ## Relationships
-- **related:** [[Know Thy Time - Record, Eliminate, and Consolidate]]
-- **related:** [[Contribution Before Activity - Define Results and Make Knowledge Usable]]
-- **related:** [[Staff for Strength - Design Jobs Around Exceptional Contribution]]
-- **related:** [[The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
-- **related:** [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design Jobs Around Exceptional Contribution|Staff for Strength - Design Jobs Around Exceptional Contribution]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time - Record, Eliminate, and Consolidate|Know Thy Time - Record, Eliminate, and Consolidate]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective Decision Process|The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Contribution Before Activity - Define Results and Make Knowledge Usable|Contribution Before Activity - Define Results and Make Knowledge Usable]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Five Energies of Execution - Vision, Strategy, People, Work, Refinement|Five Energies of Execution - Vision, Strategy, People, Work, Refinement]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)|The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary Aim and Strategic Objective - Make the Business Serve the Life|Primary Aim and Strategic Objective - Make the Business Serve the Life]]
 ## Source reference
-Peter F. Drucker, *The Effective Executive* (1967; 2006 edition). Raw archived text in [[2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript|The Effective Executive - Raw Transcript]]

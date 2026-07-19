@@ -3,20 +3,39 @@ title: "Price, Churn, and EPC - Optimize the Whole Revenue System"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/pricing, topic/churn, topic/ltv, topic/funnel, person/alex-hormozi]
-source:
-  type: "conversation"
-  name: "Alex Hormozi AMA 3"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags: [ topic/pricing, topic/churn, topic/ltv, topic/funnel, person/alex-hormozi ]
+sources:
+  - id: "SRC-0042"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
+      Through Segmented Churn
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
+      Period - The Three Numbers That Decide If You Win
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
+      Alignment
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
+      Slam Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow
+      With Customer Outcomes
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS
+      - The Percentage Lies
 ---
 
 # Price, Churn, and EPC - Optimize the Whole Revenue System
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 A pricing decision is good only when its combined effects on conversion, retention, revenue, and acquisition economics improve earnings per visitor—not when it optimizes churn in isolation.
@@ -53,11 +72,15 @@ A lower price that cuts churn 20% but cuts revenue per customer 50% is usually a
 Hormozi contrasts a hypothetical 50% price reduction with only a 20% churn improvement: the retention chart looks better, but the economics deteriorate. Conversely, raising a launch price from $6,000 to $9,000 would not automatically add 50% revenue because conversion, expectations, and card approvals would also change.
 
 ## Relationships
-- **related:** [[Billing-Cycle vs Value-Cycle Alignment]]
-- **related:** [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
-- **related:** [[Maximize Net Cash, Not ROAS - The Percentage Lies]]
-- **related:** [[ICP Qualification Through Segmented Churn]]
-- **related:** [[The Value Equation and the Grand Slam Offer]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle Alignment|Billing-Cycle vs Value-Cycle Alignment]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow With Customer Outcomes|Value Metrics - Price and Grow With Customer Outcomes]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS - The Percentage Lies|Maximize Net Cash, Not ROAS - The Percentage Lies]]
 ## Source reference
-Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

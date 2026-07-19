@@ -3,20 +3,44 @@ title: "Risk Reversal - The Guarantee Toolkit"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/persuasion, topic/risk, topic/offers, topic/trust, person/alex-hormozi]
-source:
-  type: "book"
-  name: "$100M Offers"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: "2021"
+tags:
+  [
+    topic/persuasion,
+    topic/risk,
+    topic/offers,
+    topic/trust,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0021"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Pricing-and-Offers/Performance-Based Pricing - When
+      It Works and How Not to Get Cheated
+  - type: is-applied-by
+    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
+      Slam Offer
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Engineering a Grand
+      Slam Offer - Problems, Solutions, Trim and Stack
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and
+      Urgency - Engineering Demand with Supply and Deadlines
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
+      Liking, Authority, and Scarcity - The Four Social Shortcuts
 ---
 
 # Risk Reversal - The Guarantee Toolkit
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 The single biggest objection to any purchase is risk, so the highest-leverage conversion move is to reverse it with a guarantee — and a guarantee only has teeth when it names a concrete "or-what": if you don't get X in Y time, we will Z.
@@ -62,10 +86,14 @@ Combine an unconditional short-window guarantee with a conditional longer-window
 - Agencies switching from retainer to a *performance* (implied) guarantee reportedly moved from ~$20K to ~$200K/month by aligning pay with client results.
 
 ## Relationships
-- **related:** [[The Value Equation and the Grand Slam Offer]]
-- **related:** [[Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
-- **related:** [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
-- **related:** [[Performance-Based Pricing - When It Works and How Not to Get Cheated]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/Performance-Based Pricing - When It Works and How Not to Get Cheated|Performance-Based Pricing - When It Works and How Not to Get Cheated]]
+- **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack|Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and Urgency - Engineering Demand with Supply and Deadlines|Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
 ## Source reference
-Alex Hormozi, *$100M Offers* (2021), "Enhancing the Offer: Guarantees." Raw transcript archived at [[2026-07-18_Book_AlexHormozi_100MOffers_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MOffers_RawTranscript|$100M Offers]]

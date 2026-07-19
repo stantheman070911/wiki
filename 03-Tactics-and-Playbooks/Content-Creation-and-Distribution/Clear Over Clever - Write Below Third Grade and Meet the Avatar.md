@@ -3,20 +3,84 @@ title: "Clear Over Clever - Write Below Third Grade and Meet the Avatar"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/copywriting, topic/messaging, topic/avatar, topic/advertising, topic/positioning, person/alex-hormozi, person/matt-gray]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/copywriting,
+    topic/messaging,
+    topic/avatar,
+    topic/advertising,
+    topic/positioning,
+    person/alex-hormozi,
+    person/matt-gray
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
+  - id: "SRC-0106"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+  Creation and Distribution Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a
+      Force Multiplier
+  - type: applies
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
+      in the Prospect's Mind
+  - type: applies
+    target: 01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing
+      Scale - Sell the Outcome, Not Your Effort
+  - type: applies
+    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
+      Discount - Make the Difference Obvious
+  - type: applies
+    target: 01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get
+      Them What They Need - The Defined-End Offer
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7
+      Framework - Customer as Hero, Brand as Guide
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
+      Features - Sell the Identity Behind the Product
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reality Filters
+      - Track Records, Costly Signals, and the Green Lumber Fallacy
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting
+      Fundamentals - AIDA, the Headline, and the Slippery Slope
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Declarative
+      to Sell, Procedural to Deliver
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
+      Proof, Path - Engineering the Video Intro
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
+      - Heros Journey, the Trojan Horse, and Handling Objections
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The
+      StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a
+      Discovery Tool - Useful, Simple, and Rewritten
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Cold Outreach -
+      Personalize, Big Fast Value, Volume
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
+      Intellectual Property - Process Above the Player
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Teach to Learn -
+      Public Obligation and the Feynman Loop
 ---
 
 # Clear Over Clever - Write Below Third Grade and Meet the Avatar
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution]]
 
 ## One-line summary
 Strip jargon and complexity out of your marketing until it reads below a third-grade level and speaks to the customer's actual outcome ("sad face → happy face, and insurance covers it"); if a reader has to decode a word, you've already lost them.
@@ -59,13 +123,27 @@ Steve Jobs introduced the iPhone as three familiar things in one: a widescreen i
 - "Clear over clever" applies to marketing and sales copy; internal documentation may need more precision.
 
 ## Relationships
-- **applies:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- **applies:** [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
-- **applies:** [[Positioning - Own a Word in the Prospect's Mind]]
-- **applies:** [[Add a Zero - Market Choice as a Force Multiplier]]
-- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a Force Multiplier|Add a Zero - Market Choice as a Force Multiplier]]
+- **Applies:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
+- **Applies:** [[01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort|The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
+- **Applies:** [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious|Decommoditize Before You Discount - Make the Difference Obvious]]
+- **Applies:** [[01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get Them What They Need - The Defined-End Offer|Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide|The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product|Values Before Features - Sell the Identity Behind the Product]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy|Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope|Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Declarative to Sell, Procedural to Deliver|Declarative to Sell, Procedural to Deliver]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections|Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment|The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a Discovery Tool - Useful, Simple, and Rewritten|Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Cold Outreach - Personalize, Big Fast Value, Volume|Cold Outreach - Personalize, Big Fast Value, Volume]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Teach to Learn - Public Obligation and the Feynman Loop|Teach to Learn - Public Obligation and the Feynman Loop]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
 
-Additional source: Matt Gray, *What Steve Jobs Can Teach You About Business (That Harvard Can't)*, [[2026-07-13_Video_MattGray_WhatSteveJobsCanTeachYouAboutBusiness_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_MattGray_WhatSteveJobsCanTeachYouAboutBusiness_RawTranscript|What Steve Jobs Can Teach You About Business - Raw Transcript]]

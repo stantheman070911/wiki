@@ -3,20 +3,44 @@ title: "Value Metrics - Price and Grow With Customer Outcomes"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/pricing, topic/value-creation, topic/unit-economics, topic/product, person/wes-bush, source/product-led-growth]
-source:
-  type: "book"
-  name: "Product-Led Growth"
-  author: "Wes Bush"
-  url: ""
-  date_of_source: "2019"
+tags:
+  [
+    topic/pricing,
+    topic/value-creation,
+    topic/unit-economics,
+    topic/product,
+    person/wes-bush,
+    source/product-led-growth
+  ]
+sources:
+  - id: "SRC-0040"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand,
+      Communicate, and Deliver Customer Value
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
+      MOAT Framework - Choose Freemium, Free Trial, or Demo
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth
+      Sprints - Analyze, Ask, and Act
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
+      Alignment
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize
+      the Whole Revenue System
 ---
 
 # Value Metrics - Price and Grow With Customer Outcomes
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 A value metric aligns pricing, product behavior, and customer success by charging on a unit that customers understand, that tracks value received, and that expands as their success grows.
@@ -56,11 +80,14 @@ Generate candidates from customer outcomes and product behavior, then validate t
 - Email platforms commonly charge by contacts because buyers understand the unit and it scales with the size of their reachable audience.
 
 ## Relationships
-- **related:** [[UCD - Understand, Communicate, and Deliver Customer Value]]
-- **related:** [[The MOAT Framework - Choose Freemium, Free Trial, or Demo]]
-- **related:** [[Triple-A Growth Sprints - Analyze, Ask, and Act]]
-- **related:** [[Price, Churn, and EPC - Optimize the Whole Revenue System]]
-- **related:** [[Billing-Cycle vs Value-Cycle Alignment]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand, Communicate, and Deliver Customer Value|UCD - Understand, Communicate, and Deliver Customer Value]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The MOAT Framework - Choose Freemium, Free Trial, or Demo|The MOAT Framework - Choose Freemium, Free Trial, or Demo]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth Sprints - Analyze, Ask, and Act|Triple-A Growth Sprints - Analyze, Ask, and Act]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle Alignment|Billing-Cycle vs Value-Cycle Alignment]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize the Whole Revenue System|Price, Churn, and EPC - Optimize the Whole Revenue System]]
 ## Source reference
-Wes Bush, *Product-Led Growth: How to Build a Product That Sells Itself* (2019). Raw transcript in [[2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript|Product-Led Growth]]

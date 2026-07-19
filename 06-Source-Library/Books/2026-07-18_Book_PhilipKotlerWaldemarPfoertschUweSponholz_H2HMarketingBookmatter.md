@@ -1,12 +1,19 @@
 ---
+source_id: "SRC-0037"
 title: "H2H Marketing - The Genesis of Human-to-Human Marketing"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Philip Kotler, Waldemar Pfoertsch,"
+    role: "author"
+  - name: "Uwe Sponholz"
+    role: "author"
 source_type: "book"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Philip Kotler, Waldemar Pfoertsch, and Uwe Sponholz"
+published_on: "2021"
 date_archived: "2026-07-18"
 status: "source"
 ---

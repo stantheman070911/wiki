@@ -1,12 +1,17 @@
 ---
+source_id: "SRC-0022"
 title: "High Output Management - Raw Transcript"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Andrew S. Grove"
+    role: "author"
 source_type: "book"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Andrew S. Grove"
+published_on: "1983"
 date_archived: "2026-07-18"
 status: "source"
 ---

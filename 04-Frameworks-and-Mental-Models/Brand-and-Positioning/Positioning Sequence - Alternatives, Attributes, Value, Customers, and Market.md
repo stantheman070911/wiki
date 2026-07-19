@@ -3,20 +3,42 @@ title: "Positioning Sequence - Alternatives, Attributes, Value, Customers, and M
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/positioning, topic/differentiation, topic/research, topic/marketing, person/april-dunford, source/obviously-awesome]
-source:
-  type: "book"
-  name: "Obviously Awesome"
-  author: "April Dunford"
-  url: ""
-  date_of_source: "2019"
+tags:
+  [
+    topic/positioning,
+    topic/differentiation,
+    topic/research,
+    topic/marketing,
+    person/april-dunford,
+    source/obviously-awesome
+  ]
+sources:
+  - id: "SRC-0023"
+    role: "primary"
+    locator: "Chapters 2–9 and 12"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing
+      Scale - Sell the Outcome, Not Your Effort
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the
+      Prospect Already Gives You - Research-Based Positioning
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as
+      Context - Make the Product Obviously Valuable
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market
+      Positioning Styles - Head to Head, Big Fish, or New Game
 ---
 
 # Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 Build positioning outside-in: start with what best customers would do without you, derive unique attributes and value, identify who cares most, then choose the market and optional trend.
@@ -55,10 +77,13 @@ Use the **A–A–V–C–M–T sequence**:
 A CRM company had a relationship-modeling capability that most enterprises ignored but investment banks valued intensely because relationships drove revenue. Repositioning from generic enterprise CRM to CRM for investment banks made the unique capability central, enabled higher pricing, and helped revenue grow from about $2 million to more than $70 million in eighteen months.
 
 ## Relationships
-- **related:** [[Positioning as Context - Make the Product Obviously Valuable]]
-- **related:** [[Own What the Prospect Already Gives You - Research-Based Positioning]]
-- **related:** [[Three Market Positioning Styles - Head to Head, Big Fish, or New Game]]
-- **related:** [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort|The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the Prospect Already Gives You - Research-Based Positioning|Own What the Prospect Already Gives You - Research-Based Positioning]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as Context - Make the Product Obviously Valuable|Positioning as Context - Make the Product Obviously Valuable]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market Positioning Styles - Head to Head, Big Fish, or New Game|Three Market Positioning Styles - Head to Head, Big Fish, or New Game]]
 ## Source reference
-April Dunford, *Obviously Awesome* (2019), Chapters 2–9 and 12. Raw transcript archived in [[2026-07-18_Book_AprilDunford_ObviouslyAwesome_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AprilDunford_ObviouslyAwesome_RawTranscript|Obviously Awesome]] — locator: Chapters 2–9 and 12

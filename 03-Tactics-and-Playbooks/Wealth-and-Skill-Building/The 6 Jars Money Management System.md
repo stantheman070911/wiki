@@ -3,20 +3,39 @@ title: "The 6 Jars Money Management System"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/money-management, topic/passive-income, topic/cash-flow, person/t-harv-eker]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags:
+  [
+    topic/money-management,
+    topic/passive-income,
+    topic/cash-flow,
+    person/t-harv-eker
+  ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth
+      vs. Focus on Working Income - The Four Net Worth Factors
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Have Money Work
+      Hard for You vs. Working Hard for Your Money
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money
+      Well - The Habit Matters More Than the Amount
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k -
+      Defense-Before-Offense Playbook
 ---
 
 # The 6 Jars Money Management System
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Split every dollar of after-tax income across six purpose-labeled accounts (Financial Freedom 10%, Long-Term Savings 10%, Education 10%, Play 10%, Give 10%, Necessities 50%) the moment it arrives, so saving/investing and guilt-free spending both happen automatically instead of competing for the same undifferentiated pool.
@@ -48,10 +67,13 @@ This is the concrete allocation system Eker teaches inside Wealth File #14 ("Ric
 - A participant facing a $400 impulse coat purchase caught herself mid-decision with "you'd be much better off putting that toward your FFA account" — evidence the system's value is as much behavioral (a reflex, once installed) as arithmetic.
 
 ## Relationships
-- **applies:** [[Manage Your Money Well - The Habit Matters More Than the Amount]]
-- **applies:** [[Have Money Work Hard for You vs. Working Hard for Your Money]]
-- **related:** [[The First 100k - Defense-Before-Offense Playbook]]
-- **applies:** [[Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors|Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Have Money Work Hard for You vs. Working Hard for Your Money|Have Money Work Hard for You vs. Working Hard for Your Money]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money Well - The Habit Matters More Than the Amount|Manage Your Money Well - The Habit Matters More Than the Amount]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - Defense-Before-Offense Playbook|The First 100k - Defense-Before-Offense Playbook]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #14. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

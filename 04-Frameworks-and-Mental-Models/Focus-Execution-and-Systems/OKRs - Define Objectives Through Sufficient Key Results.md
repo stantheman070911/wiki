@@ -3,20 +3,45 @@ title: "OKRs - Define Objectives Through Sufficient Key Results"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/execution, topic/management, topic/systems, topic/prioritization, person/john-doerr, source/measure-what-matters]
-source:
-  type: "book"
-  name: "Measure What Matters"
-  author: "John Doerr"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/execution,
+    topic/management,
+    topic/systems,
+    topic/prioritization,
+    person/john-doerr,
+    source/measure-what-matters
+  ]
+sources:
+  - id: "SRC-0032"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
+      to Do
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating
+      Cycle - Set, Check In, Score, and Reflect
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed
+      and Aspirational OKRs - Separate Reliability from Stretch
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and
+      Align - Make Priorities and Dependencies Public
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bad
+      Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy
 ---
 
 # OKRs - Define Objectives Through Sufficient Key Results
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 An OKR turns a consequential direction into an observable promise by pairing one concrete objective with the complete set of measurable outcomes required to achieve it.
@@ -56,11 +81,14 @@ Use the **Objective–Key Result sufficiency test**:
 - The Ford Pinto and Wells Fargo cases show why a single aggressive quantity target without counterbalancing quality or ethics can produce rational but destructive behavior.
 
 ## Relationships
-- **related:** [[The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
-- **related:** [[Committed and Aspirational OKRs - Separate Reliability from Stretch]]
-- **related:** [[Focus and Align - Make Priorities and Dependencies Public]]
-- **related:** [[Do What You Set Out to Do]]
-- **related:** [[Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating Cycle - Set, Check In, Score, and Reflect|The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed and Aspirational OKRs - Separate Reliability from Stretch|Committed and Aspirational OKRs - Separate Reliability from Stretch]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and Align - Make Priorities and Dependencies Public|Focus and Align - Make Priorities and Dependencies Public]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy|Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy]]
 ## Source reference
-John Doerr, *Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs* (2018). Raw transcript in [[2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript|Measure What Matters]]

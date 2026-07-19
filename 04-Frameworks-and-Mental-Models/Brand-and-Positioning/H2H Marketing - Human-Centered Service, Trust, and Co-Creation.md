@@ -3,20 +3,46 @@ title: "H2H Marketing - Human-Centered Service, Trust, and Co-Creation"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/marketing, topic/trust, topic/brand, topic/retention, person/philip-kotler, person/waldemar-pfoertsch, person/uwe-sponholz, source/h2h-marketing]
-source:
-  type: "book"
-  name: "H2H Marketing - The Genesis of Human-to-Human Marketing"
-  author: "Philip Kotler, Waldemar Pfoertsch, and Uwe Sponholz"
-  url: ""
-  date_of_source: "2021"
+tags:
+  [
+    topic/marketing,
+    topic/trust,
+    topic/brand,
+    topic/retention,
+    person/philip-kotler,
+    person/waldemar-pfoertsch,
+    person/uwe-sponholz,
+    source/h2h-marketing
+  ]
+sources:
+  - id: "SRC-0037"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing
+      Scale - Sell the Outcome, Not Your Effort
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Marketing as
+      Service - Make Change for People You Seek to Serve
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
+      Features - Sell the Identity Behind the Product
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
+      Actually Is - Association, Influence, Direction, Reach
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With
+      Agreement - Keep the Other Mind Open
 ---
 
 # H2H Marketing - Human-Centered Service, Trust, and Co-Creation
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 Treat marketing as people creating meaningful value with other people, using human-centered design, service logic, and digital connectivity to earn trust rather than accelerate consumption.
@@ -53,10 +79,14 @@ The model is influenced throughout by **design thinking + service-dominant logic
 The preface contrasts the one-way 4P push model with an internet environment shaped by customer pull, user-generated content, automation, and AI. It also describes the book itself as a journey from marketing's current limitations through an H2H mindset and management model to an iterative operating process and a broader search for social meaning.
 
 ## Relationships
-- **related:** [[Values Before Features - Sell the Identity Behind the Product]]
-- **related:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- **related:** [[Start With Agreement - Keep the Other Mind Open]]
-- **related:** [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort|The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Marketing as Service - Make Change for People You Seek to Serve|Marketing as Service - Make Change for People You Seek to Serve]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product|Values Before Features - Sell the Identity Behind the Product]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open|Start With Agreement - Keep the Other Mind Open]]
 ## Source reference
-Philip Kotler, Waldemar Pfoertsch, and Uwe Sponholz, *H2H Marketing: The Genesis of Human-to-Human Marketing* (2021), foreword, preface, and structural bookmatter. Archived bookmatter in [[2026-07-18_Book_PhilipKotlerWaldemarPfoertschUweSponholz_H2HMarketingBookmatter]]. This source did not include the full chapter text, so the entry is deliberately limited to claims supported by the supplied front matter and contents.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_PhilipKotlerWaldemarPfoertschUweSponholz_H2HMarketingBookmatter|H2H Marketing - The Genesis of Human-to-Human Marketing]]

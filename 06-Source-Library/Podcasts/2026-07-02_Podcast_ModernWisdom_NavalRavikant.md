@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0053"
 title: "Naval Ravikant"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Modern Wisdom"
+    role: "creator"
 source_type: "podcast"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "zh"
 processing_status: "processed"
-author: "Modern Wisdom"
 date_archived: "2026-07-02"
 status: "source"
 ---

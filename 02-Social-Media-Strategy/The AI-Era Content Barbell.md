@@ -1,24 +1,49 @@
 ---
-title: "The AI-Era Content Barbell - Raw Shorts, Produced Long Form, and Live Interaction"
+title: "The AI-Era Content Barbell - Raw Shorts, Produced Long Form, and Live
+  Interaction"
 aliases:
-  - "The AI-Era Content Barbell - Raw Shorts, Produced Long Form, and Live Interaction"
+  - "The AI-Era Content Barbell - Raw Shorts, Produced Long Form, and Live
+    Interaction"
 type: "strategy"
 domain: "social-media-strategy"
 lang: "en"
-tags: [topic/content-strategy, topic/short-form-video, topic/content-formats, topic/ai, topic/personal-brand, person/alex-hormozi]
-source:
-  type: "conversation"
-  name: "Alex Hormozi AMA 3"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/content-strategy,
+    topic/short-form-video,
+    topic/content-formats,
+    topic/ai,
+    topic/personal-brand,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0042"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 02-Social-Media-Strategy/Social Media Strategy Index
+relationships:
+  - type: has-example
+    target: 05-Intelligence-and-Research/The Risk Continuum - Building an
+      AI-Resistant Personal Brand
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
+      Create - Engineering Proof at Scale
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
+      Proof, Path - Engineering the Video Intro
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content
+      Repository - Four Topic Buckets and Tweet-First Capture
+  - type: related
+    target: 02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model
 ---
 
 # The AI-Era Content Barbell - Raw Shorts, Produced Long Form, and Live Interaction
+
+> **Up:** [[Home|Home]] → [[02-Social-Media-Strategy/Social Media Strategy Index|Social Media Strategy]]
 
 ## One-line summary
 As polished production becomes cheap, content differentiates at two poles: unmistakably live or raw human presence, and deeply structured long-form work whose substance justifies production.
@@ -52,11 +77,14 @@ Build a format barbell:
 Hormozi describes moving short-form content toward a more authentic, less produced look while keeping long form structured and polished. He also uses live streams to counter the feedback bias created when the people behind the studio camera are younger team members rather than the broader audience he intends to serve.
 
 ## Relationships
-- **related:** [[Interest Media and the Zero-Follower Reach Model]]
-- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
-- **related:** [[Capture Dont Create - Engineering Proof at Scale]]
-- **related:** [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
-- **related:** [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has example:** [[05-Intelligence-and-Research/The Risk Continuum - Building an AI-Resistant Personal Brand|The Risk Continuum: Building an AI-Resistant Personal Brand]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content Repository - Four Topic Buckets and Tweet-First Capture|The Content Repository - Four Topic Buckets and Tweet-First Capture]]
+- **Related:** [[02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model|Interest Media and the Zero-Follower Reach Model]]
 ## Source reference
-Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

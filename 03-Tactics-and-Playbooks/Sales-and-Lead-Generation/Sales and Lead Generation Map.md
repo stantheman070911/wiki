@@ -1,13 +1,17 @@
 ---
 title: "Sales and Lead Generation Map"
+title_zh: "銷售與潛在客戶開發導覽"
 type: "subdomain-index"
 domain: "tactics-and-playbooks"
 lang: "en"
 updated: "2026-07-19"
 status: "evergreen"
+owner: "stanley-lu"
 ---
 
 # Sales and Lead Generation Map
+
+> **中文名稱：** 銷售與潛在客戶開發導覽
 
 Use this map for prospecting, qualification, discovery, teaching, negotiation, conversion, referrals, and repeatable sales systems. Return to [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]].
 
@@ -21,11 +25,71 @@ Use this map for prospecting, qualification, discovery, teaching, negotiation, c
 
 ## Conceptual clusters
 
-- **Lead generation:** outreach, referrals, affiliates, channels, cadence, and volume
-- **Qualification and discovery:** current state, problems, implications, causes, stakeholders, and buying process
-- **Commercial teaching:** reframing, tailoring, positioning, proof, and solution differentiation
-- **Control and negotiation:** tension, pricing, concessions, calibrated questions, and mutual commitments
-- **Sales systems:** pipeline rhythms, intellectual property, onboarding, conversion paths, and feedback loops
+### Lead generation
+
+Outreach, referrals, affiliates, channels, cadence, and volume.
+
+- [[Affiliate Armies - Recruiting Businesses to Sell for You]]
+- [[Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
+- [[Cold Outreach - Personalize, Big Fast Value, Volume]]
+- [[Distribution Is Destiny - The Sales Channel Power Law]]
+- [[Do Things That Don't Scale - Recruit, Delight, and Learn by Hand]]
+- [[Gap Prospecting - Intrigue, Offer, Ask, and Cadence]]
+- [[Referrals - Engineering Word of Mouth Through Goodwill]]
+- [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
+- [[The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
+- [[The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop]]
+
+### Qualification and discovery
+
+Current state, problems, implications, causes, stakeholders, and buying process.
+
+- [[Advances, Not Continuations - Plan Every Sales Call]]
+- [[Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
+- [[Buyer Needs and Benefits - From Implied Problems to Explicit Value]]
+- [[Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion]]
+- [[Problem-Centric Discovery - Four Question Types and the CRM Challenge]]
+- [[SPIN Discovery - Situation, Problem, Implication, and Need-Payoff]]
+- [[The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
+- [[The Problem Identification Chart - Problems, Impacts, and Root Causes]]
+
+### Commercial teaching
+
+Reframing, tailoring, positioning, proof, and solution differentiation.
+
+- [[Buyer Needs and Benefits - From Implied Problems to Explicit Value]]
+- [[Commercial Teaching - Insight That Leads to Unique Strengths]]
+- [[Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack]]
+- [[Selling Upmarket - Contextual Adjacency and Land-and-Expand]]
+- [[Tailoring for Consensus - Stakeholder Outcomes and Widespread Support]]
+- [[The Challenger Selling Model - Teach, Tailor, and Take Control]]
+- [[The Commercial Teaching Conversation - From Warmer to Your Solution]]
+- [[The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
+
+### Control and negotiation
+
+Tension, pricing, concessions, calibrated questions, and mutual commitments.
+
+- [[Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
+- [[Taking Control - Constructive Tension Across the Sale]]
+- [[The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers]]
+- [[The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
+- [[The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
+
+### Sales systems
+
+Pipeline rhythms, intellectual property, onboarding, conversion paths, and feedback loops.
+
+- [[Activation Before Automation - Manual Onboarding to Fix Churn]]
+- [[Advances, Not Continuations - Plan Every Sales Call]]
+- [[Do Things That Don't Scale - Recruit, Delight, and Learn by Hand]]
+- [[Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack]]
+- [[Outbound and Inbound Are Separate Teams - The Sales Career Ladder]]
+- [[Sales Systems as Intellectual Property - Process Above the Player]]
+- [[The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers]]
+- [[The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
+- [[The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
+- [[Volume and Feedback - Sales as the Training Ground]]
 
 ## Capacity decision
 
@@ -37,5 +101,6 @@ This folder remains flat because acquisition, discovery, teaching, and closing f
 TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Topics", status AS "Status", updated AS "Updated"
 FROM "03-Tactics-and-Playbooks/Sales-and-Lead-Generation"
 WHERE type = "playbook"
+AND contains(list("draft", "reviewed", "evergreen"), status)
 SORT file.name ASC
 ```

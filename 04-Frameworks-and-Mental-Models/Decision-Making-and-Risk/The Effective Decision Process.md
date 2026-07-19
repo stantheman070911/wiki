@@ -1,24 +1,62 @@
 ---
-title: "The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback"
+title: "The Effective Decision Process - Principles, Boundary Conditions,
+  Action, and Feedback"
 aliases:
-  - "The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback"
+  - "The Effective Decision Process - Principles, Boundary Conditions, Action,
+    and Feedback"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/decision-making, topic/root-cause, topic/execution, topic/feedback, topic/risk, person/peter-drucker]
-source:
-  type: "book"
-  name: "The Effective Executive"
-  author: "Peter F. Drucker"
-  url: ""
-  date_of_source: "1967"
+tags:
+  [
+    topic/decision-making,
+    topic/root-cause,
+    topic/execution,
+    topic/feedback,
+    topic/risk,
+    person/peter-drucker
+  ]
+sources:
+  - id: "SRC-0013"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Disagreement Needs a Finish Line
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems
+      to Get at Their Root Causes
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
+      Your Decision Making
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to
+      Make Decisions Effectively - Expected Value, Levels, and Algorithms
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How
+      to Get Beyond Disagreements
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Lindy
+      Effect - Time as a Filter for Robust Ideas and Practices
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale
+      Paradox - Confront Reality Without Losing Faith
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
+      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Effective Executive - Five Learnable Practices
 ---
 
 # The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 Make few consequential decisions by diagnosing the class of problem, defining nonnegotiable boundary conditions, choosing what is right before compromising, embedding execution, and testing assumptions against direct reality.
@@ -64,12 +102,18 @@ An executive decision is a judgment under uncertainty, not a calculation that di
 - A discontinued product generated years of excess components because nobody identified the purchasing clerk as someone who needed to know the decision.
 
 ## Relationships
-- **related:** [[Diagnose Problems to Get at Their Root Causes]]
-- **related:** [[Recognize How to Get Beyond Disagreements]]
-- **related:** [[Believability-Weight Your Decision Making]]
-- **related:** [[Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms]]
-- **related:** [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
-- **related:** [[The Effective Executive - Five Learnable Practices]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Disagreement Needs a Finish Line|Disagreement Needs a Finish Line]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems to Get at Their Root Causes|Diagnose Problems to Get at Their Root Causes]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms|Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How to Get Beyond Disagreements|Recognize How to Get Beyond Disagreements]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Lindy Effect - Time as a Filter for Robust Ideas and Practices|The Lindy Effect - Time as a Filter for Robust Ideas and Practices]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale Paradox - Confront Reality Without Losing Faith|The Stockdale Paradox - Confront Reality Without Losing Faith]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)|The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Effective Executive - Five Learnable Practices|The Effective Executive - Five Learnable Practices]]
 ## Source reference
-Peter F. Drucker, *The Effective Executive*, chs. 6–7, “The Elements of Decision-making” and “Effective Decisions” (1967; 2006 edition). Raw archived text in [[2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript|The Effective Executive - Raw Transcript]]

@@ -3,20 +3,49 @@ title: "Cultivate Meaningful Work and Meaningful Relationships"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/culture, topic/leadership, topic/trust, topic/org-design, person/ray-dalio, source/bridgewater-associates]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/culture,
+    topic/leadership,
+    topic/trust,
+    topic/org-design,
+    person/ray-dalio,
+    source/bridgewater-associates
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 2"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Preserve the Core,
+      Stimulate Progress - Build an Institution That Can Evolve
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/The Mechanics of Mafia -
+      Cult-Like Culture and the Recruiting Pitch
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a
+      Culture Where Mistakes Are Okay But Not Learning From Them Isn't
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Formative
+      Communities - Become Better Together
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and
+      Stay in Sync
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in
+      Radical Truth and Radical Transparency
 ---
 
 # Cultivate Meaningful Work and Meaningful Relationships
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 Relationships inside a high-performing organization should function like a demanding family or team — unconditional caring paired with uncompromisingly high standards ("tough love") — rather than the transactional detachment of a typical employer-employee relationship.
@@ -43,10 +72,15 @@ Second chapter of Work Principles, following directly from radical truth and tra
 - **The NYC office shuttle bus complaint.** Bridgewater ran a free shuttle bus as a generosity, not an entitlement; when the schedule changed and employees complained as though a right had been revoked, it became Dalio's go-to illustration of confusing generosity with an earned entitlement.
 
 ## Relationships
-- **related:** [[Trust in Radical Truth and Radical Transparency]]
-- **related:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
-- **related:** [[Get and Stay in Sync]]
-- **related:** [[The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve|Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch|The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Formative Communities - Become Better Together|Formative Communities - Become Better Together]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and Stay in Sync|Get and Stay in Sync]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in Radical Truth and Radical Transparency|Trust in Radical Truth and Radical Transparency]]
 ## Source reference
-Ray Dalio, *Principles*, Part III, Ch. 2 ("Cultivate Meaningful Work and Meaningful Relationships"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 2

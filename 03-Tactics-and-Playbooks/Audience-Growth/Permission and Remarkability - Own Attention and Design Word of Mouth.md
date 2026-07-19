@@ -3,20 +3,41 @@ title: "Permission and Remarkability - Own Attention and Design Word of Mouth"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/owned-audience, topic/word-of-mouth, topic/trust, topic/marketing, person/seth-godin, source/this-is-marketing]
-source:
-  type: "book"
-  name: "This Is Marketing"
-  author: "Seth Godin"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/owned-audience,
+    topic/word-of-mouth,
+    topic/trust,
+    topic/marketing,
+    person/seth-godin,
+    source/this-is-marketing
+  ]
+sources:
+  - id: "SRC-0039"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing -
+      Measure Action, Build Culture Patiently
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
+      Observability and Behavioral Residue
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
+      Framework - Six Drivers of Word of Mouth
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals -
+      Engineering Word of Mouth Through Goodwill
 ---
 
 # Permission and Remarkability - Own Attention and Design Word of Mouth
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Build an audience that explicitly wants to hear from you, then design an experience people choose to discuss because sharing it serves their identity or their peers.
@@ -54,10 +75,13 @@ Build the permission-to-propagation loop:
 Early email service Yoyodyne treated permission as an asset customers granted for expected, relevant communication. Network products such as fax machines and social platforms add a second mechanism: users recruit others because every additional participant can make the product more useful to the existing network.
 
 ## Relationships
-- **related:** [[The STEPPS Framework - Six Drivers of Word of Mouth]]
-- **related:** [[Referrals - Engineering Word of Mouth Through Goodwill]]
-- **related:** [[Public - Observability and Behavioral Residue]]
-- **related:** [[Direct vs Brand Marketing - Measure Action, Build Culture Patiently]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing - Measure Action, Build Culture Patiently|Direct vs Brand Marketing - Measure Action, Build Culture Patiently]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue|Public - Observability and Behavioral Residue]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals - Engineering Word of Mouth Through Goodwill|Referrals - Engineering Word of Mouth Through Goodwill]]
 ## Source reference
-Seth Godin, *This Is Marketing: You Can't Be Seen Until You Learn to See* (2018), [[2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript|This Is Marketing]]

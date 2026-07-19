@@ -3,20 +3,56 @@ title: "Technology Platforms - How New Protocols and Tools Shift Power"
 type: "research"
 domain: "intelligence-and-research"
 lang: "en"
-tags: [topic/innovation, topic/distribution, topic/moat, topic/product, topic/ai, topic/writing, person/paul-graham, person/james-dale-davidson, person/william-rees-mogg, source/paul-graham-essays, source/the-sovereign-individual]
-source:
-  type: "essay collection"
-  name: "Paul Graham - Collected Essays"
-  author: "Paul Graham"
-  url: "https://paulgraham.com/articles.html"
-  date_of_source: "2001-2026"
+tags:
+  [
+    topic/innovation,
+    topic/distribution,
+    topic/moat,
+    topic/product,
+    topic/ai,
+    topic/writing,
+    person/paul-graham,
+    person/james-dale-davidson,
+    person/william-rees-mogg,
+    source/paul-graham-essays,
+    source/the-sovereign-individual
+  ]
+sources:
+  - id: "SRC-0046"
+    role: "primary"
+  - id: "SRC-0009"
+    role: "supporting"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 05-Intelligence-and-Research/Intelligence and Research Index
+relationships:
+  - type: example
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtual Firm -
+      Falling Transaction Costs and the Unbundling of Organizations
+  - type: example
+    target: 01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly
+  - type: example
+    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
+      Manufacturing as the Moat
+  - type: example
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
+      Open-Minded
+  - type: example
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine
+      - Why Computers Complement Humans Instead of Replacing Them
+  - type: example
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Megapolitics -
+      How Technology Changes the Returns to Violence
+  - type: related
+    target: 05-Intelligence-and-Research/The Digital-Economy Income Shift - IP,
+      Media, Data, and Code
 ---
 
 # Technology Platforms - How New Protocols and Tools Shift Power
+
+> **Up:** [[Home|Home]] → [[05-Intelligence-and-Research/Intelligence and Research Index|Intelligence and Research]]
 
 ## One-line summary
 Technological power shifts when cheaper tools, new protocols, or more expressive platforms let small groups create capabilities that incumbents' organization, incentives, and installed assumptions prevent them from pursuing.
@@ -47,13 +83,17 @@ For an emerging technology, ask: **What became radically cheaper? What can a sma
 Twitter behaved like a new recipient-unspecified messaging protocol; web applications made server-based continuous delivery possible; open source weakened proprietary server monopolies; early personal computers looked like hobbyist toys to established hardware companies.
 
 ## Relationships
-- **example:** [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
-- **example:** [[Man and Machine - Why Computers Complement Humans Instead of Replacing Them]]
-- **example:** [[The Factory Is the Product - Manufacturing as the Moat]]
-- **example:** [[Megapolitics - How Technology Changes the Returns to Violence]]
-- **example:** [[The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Example:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations|The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
+- **Example:** [[01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly|Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
+- **Example:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]
+- **Example:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **Example:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine - Why Computers Complement Humans Instead of Replacing Them|Man and Machine - Why Computers Complement Humans Instead of Replacing Them]]
+- **Example:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Megapolitics - How Technology Changes the Returns to Violence|Megapolitics - How Technology Changes the Returns to Violence]]
+- **Related:** [[05-Intelligence-and-Research/The Digital-Economy Income Shift - IP, Media, Data, and Code|The Digital-Economy Income Shift - IP, Media, Data, and Code]]
 ## Source reference
-Paul Graham, “Why Twitter is a Big Deal,” “The Other Road Ahead,” “What Business Can Learn from Open Source,” “The Hardware Renaissance,” “The Power of the Marginal,” and “Writes and Write-Nots,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
 
-Additional source: James Dale Davidson and William Rees-Mogg, *The Sovereign Individual* (1997), [[2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript|The Sovereign Individual - Raw Transcript]]

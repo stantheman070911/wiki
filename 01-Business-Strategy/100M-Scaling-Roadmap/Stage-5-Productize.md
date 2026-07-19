@@ -6,20 +6,40 @@ type: "series-entry"
 domain: "business-strategy"
 series: "$100M Scaling Roadmap"
 lang: "zh"
-tags: [topic/scaling, source/acquisition-100m-roadmap, topic/ltv, topic/offers, topic/upsell, person/alex-hormozi]
-source:
-  type: "pdf"
-  name: "$100M Scaling Roadmap（Personalized Guide）"
-  author: "Alex Hormozi / Acquisition.com"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/scaling,
+    source/acquisition-100m-roadmap,
+    topic/ltv,
+    topic/offers,
+    topic/upsell,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0059"
+    role: "primary"
+    locator: "Stage 5"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
+relationships:
+  - type: derives-from
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
+  - type: is-prerequisite-for
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-6-Optimize
+  - type: prerequisite
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-4-Prioritize
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/零售策略與通路飛輪
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/業績公式與商業定位：從流量思維到變現路徑
 ---
 
 # $100M 擴張路線圖 · Stage 5：Productize 產品化
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
 
 > 系列導覽：[[$100M Scaling Roadmap Overview|總覽與方法論]]　｜　上一關：[[Stage-4-Prioritize|Stage 4：Prioritize 取捨]]　｜　下一關：[[Stage-6-Optimize|Stage 6：Optimize 優化]]
 
@@ -74,12 +94,13 @@ status: "reviewed"
 
 ## 關係
 
-- **related:** [[$100M Scaling Roadmap Overview|總覽與方法論]]
-- **prerequisite:** [[Stage-4-Prioritize|Stage 4：Prioritize 取捨]]
-- **related:** [[Stage-6-Optimize|Stage 6：Optimize 優化]]
-- **related:** [[業績公式與商業定位：從流量思維到變現路徑]]（客單價／回購率變數）
-- **related:** [[零售策略與通路飛輪]]（把再投資紀律用在庫存與通路擴張）
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **衍生自:** [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
+- **是其前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-6-Optimize|$100M 擴張路線圖 · Stage 6：Optimize 優化]]
+- **前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-4-Prioritize|$100M 擴張路線圖 · Stage 4：Prioritize 取捨]]
+- **相關:** [[01-Business-Strategy/Business-Models-and-Customers/零售策略與通路飛輪|零售策略與通路飛輪]]
+- **相關:** [[01-Business-Strategy/Positioning-and-Branding/業績公式與商業定位：從流量思維到變現路徑|業績公式與商業定位：從流量思維到變現路徑]]
 ## 來源
 
-$100M Scaling Roadmap（Personalized Guide），Stage 5，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap|$100M Scaling Roadmap（Personalized Guide）]] — locator: Stage 5

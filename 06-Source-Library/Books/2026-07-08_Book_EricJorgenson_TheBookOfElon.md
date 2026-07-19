@@ -1,12 +1,17 @@
 ---
+source_id: "SRC-0004"
 title: "The Book Of Elon"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Eric Jorgenson"
+    role: "author"
 source_type: "book"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Eric Jorgenson"
+published_on: "2026"
 date_archived: "2026-07-08"
 status: "source"
 ---

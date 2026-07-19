@@ -3,20 +3,60 @@ title: "Get and Stay in Sync"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/culture, topic/leadership, topic/feedback, topic/decision-making, person/ray-dalio, source/bridgewater-associates]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/culture,
+    topic/leadership,
+    topic/feedback,
+    topic/decision-making,
+    person/ray-dalio,
+    source/bridgewater-associates
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 4"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Disagreement Needs a Finish Line
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone
+      Operating a Machine to Achieve a Goal
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as
+      Managerial Production
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
+      Your Decision Making
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How
+      to Get Beyond Disagreements
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Contribution
+      Before Activity - Define Results and Make Knowledge Usable
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative
+      Cooperation - Feedback, Friction, and Choice C
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate
+      Meaningful Work and Meaningful Relationships
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Hybrid
+      Organizations and Dual Reporting
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With
+      Agreement - Keep the Other Mind Open
 ---
 
 # Get and Stay in Sync
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 Alignment across an organization is never automatic and never permanent — it has to be actively, continuously manufactured through structured, open-minded-yet-assertive disagreement, especially as the organization scales past the size where everyone naturally overhears everyone else.
@@ -45,10 +85,19 @@ Fourth chapter of Work Principles: having established truth, relationships, and 
 - Dalio frames "3 to 5 is more than 20" as counterintuitive to most managers' instinct to add more people to a stuck problem — the book argues the opposite instinct (shrink the room) usually produces better outcomes for genuinely hard, conceptual problems.
 
 ## Relationships
-- **related:** [[Cultivate Meaningful Work and Meaningful Relationships]]
-- **related:** [[Recognize How to Get Beyond Disagreements]]
-- **related:** [[Believability-Weight Your Decision Making]]
-- **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Disagreement Needs a Finish Line|Disagreement Needs a Finish Line]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone Operating a Machine to Achieve a Goal|Manage as Someone Operating a Machine to Achieve a Goal]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as Managerial Production|Meetings as Managerial Production]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How to Get Beyond Disagreements|Recognize How to Get Beyond Disagreements]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Contribution Before Activity - Define Results and Make Knowledge Usable|Contribution Before Activity - Define Results and Make Knowledge Usable]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative Cooperation - Feedback, Friction, and Choice C|Creative Cooperation - Feedback, Friction, and Choice C]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate Meaningful Work and Meaningful Relationships|Cultivate Meaningful Work and Meaningful Relationships]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Hybrid Organizations and Dual Reporting|Hybrid Organizations and Dual Reporting]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open|Start With Agreement - Keep the Other Mind Open]]
 ## Source reference
-Ray Dalio, *Principles*, Part III, Ch. 4 ("Get and Stay in Sync"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 4

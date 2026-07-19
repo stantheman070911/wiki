@@ -3,20 +3,38 @@ title: "POWERS 與 HEARTED 尊重框架"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "zh"
-tags: [topic/leadership, topic/management, topic/mental-models, person/alex-hormozi, source/modern-wisdom]
-source:
-  type: "podcast"
-  name: "Modern Wisdom — Chris Williamson × Alex Hormozi"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/leadership,
+    topic/management,
+    topic/mental-models,
+    person/alex-hormozi,
+    source/modern-wisdom
+  ]
+sources:
+  - id: "SRC-0049"
+    role: "primary"
 date_added: "2026-07-01"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
+      Organizations
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/行為主義、風險定價與環境設計
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/孤獨、簡單勝過輕鬆與犧牲平庸
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利
 ---
 
 # POWERS 與 HEARTED 尊重框架
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## 一句話總結
 
@@ -71,11 +89,12 @@ status: "reviewed"
 
 ## 關係
 
-- **related:** [[行為主義、風險定價與環境設計]]
-- **related:** [[孤獨、簡單勝過輕鬆與犧牲平庸]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **由其應用:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
+- **相關:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/行為主義、風險定價與環境設計|行為主義、風險定價與環境設計]]
+- **相關:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/孤獨、簡單勝過輕鬆與犧牲平庸|孤獨、簡單勝過輕鬆與犧牲平庸]]
+- **相關:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利|招募、領導與地理紅利]]
 ## 來源
 
-Modern Wisdom，Chris Williamson × Alex Hormozi。完整筆記存於 [[2026-07-01_Podcast_ModernWisdom_AlexHormozi]]。
-
-*註：字母縮寫的逐字對應為筆記作者根據口述描述的重建，行為本身出自 Hormozi，字母對應為推斷，若需精確建議與其書面著作核對。*
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Podcasts/2026-07-01_Podcast_ModernWisdom_AlexHormozi|Alex Hormozi on Modern Wisdom with Chris Williamson]]

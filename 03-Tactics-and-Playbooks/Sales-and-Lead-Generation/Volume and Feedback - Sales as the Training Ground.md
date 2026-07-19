@@ -3,20 +3,70 @@ title: "Volume and Feedback - Sales as the Training Ground"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/reps, topic/volume, topic/creative-volume, topic/skill-acquisition, person/alex-hormozi]
-source:
-  type: "video"
-  name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/sales,
+    topic/reps,
+    topic/volume,
+    topic/creative-volume,
+    topic/skill-acquisition,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0068"
+    role: "primary"
+  - id: "SRC-0065"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
+      Traffic Before the Core Offer
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
+      - Ads Are an At-Bats Game
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Soft Skills
+      Are Observable Behavior Chains
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
+      Confidence
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite
+      Games - Winning by Emptying the Tank
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and
+      Systems - The Two Psychological Shifts Behind Consistent Revenue
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
+      - The Zero-Follower Consistency Engine
+  - type: has-derivative
+    target: 07-Articles/Confidence Is a Receipt, Not a Requirement
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
+      Elimination - The Deep-Work Playbook
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Outbound and Inbound
+      Are Separate Teams - The Sales Career Ladder
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
+      Intellectual Property - Process Above the Player
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four
+      Lead-Conversion Levers - Speed, Availability, Personalization, Volume
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and
+      the Education-ROI Playbook
 ---
 
 # Volume and Feedback - Sales as the Training Ground
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Skill = reps × improvement between reps; do enormous volume in a high-feedback environment (ideally high-volume sales), analyze your best and worst, and habituate away fear.
@@ -48,11 +98,23 @@ Hormozi observes that nearly every millionaire and billionaire he knows started 
 - A luxury-home builder looking for one salesperson was told most business owners have an advertising problem for talent: use LinkedIn, outreach, and relocation, then add two zeros to the effort before deciding it cannot work.
 
 ## Relationships
-- **applies:** [[Build Evidence, Not Confidence]]
-- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
-- **related:** [[Skill Stacking and the Education-ROI Playbook]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold Traffic Before the Core Offer|The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Soft Skills Are Observable Behavior Chains|Soft Skills Are Observable Behavior Chains]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite Games - Winning by Emptying the Tank|Finite vs Infinite Games - Winning by Emptying the Tank]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue|Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal - The Zero-Follower Consistency Engine|Process as the Goal - The Zero-Follower Consistency Engine]]
+- **Has derivative:** [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Outbound and Inbound Are Separate Teams - The Sales Career Ladder|Outbound and Inbound Are Separate Teams - The Sales Career Ladder]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume|The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and the Education-ROI Playbook|Skill Stacking and the Education-ROI Playbook]]
 ## Source reference
-Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
 
-Expanded with examples from *Alex Hormozi Answers Your Questions (Ask Me Anything)*; extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

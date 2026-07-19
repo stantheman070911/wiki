@@ -1,12 +1,19 @@
 ---
+source_id: "SRC-0016"
 title: "The Creative Act - Raw Transcript"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Rick Rubin"
+    role: "author"
+  - name: "Neil Strauss"
+    role: "author"
 source_type: "book"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Rick Rubin with Neil Strauss"
+published_on: "2023"
 date_archived: "2026-07-13"
 status: "source"
 ---

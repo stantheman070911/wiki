@@ -3,20 +3,33 @@ title: "No One's Opinion Pays Your Bills - Immunity to Critics"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/reputation, person/sabri-suby]
-source:
-  type: "video"
-  name: "11 Brutal Truths To Grow Your Business Fast"
-  author: "Sabri Suby"
-  url: ""
-  date_of_source: ""
+tags: [ topic/mindset, topic/reputation, person/sabri-suby ]
+sources:
+  - id: "SRC-0084"
+    role: "primary"
 date_added: "2026-07-12"
 updated: "2026-07-12"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
+      Create - Engineering Proof at Scale
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80%
+      Mindset - Risk Tolerance and Refusing to Quit
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status
+      Signal - Shame, Guilt, and Documenting the Struggle
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group
+      and Re-engineering Your Circle
 ---
 
 # No One's Opinion Pays Your Bills - Immunity to Critics
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 Success attracts critics and haters, but no one's opinion of you ever paid your bills — the only opinion that matters is your paying customers', so deliberately anchor on their results instead of the noise.
@@ -42,10 +55,13 @@ As a business grows it draws attention, and attention brings detractors, one-sta
 - His office kept as a "shrine" of client results and testimonials, used as the deliberate counterweight to negativity.
 
 ## Relationships
-- **related:** [[The Reference Group and Re-engineering Your Circle]]
-- **related:** [[Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]]
-- **related:** [[Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]]
-- **related:** [[Capture Dont Create - Engineering Proof at Scale]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80% Mindset - Risk Tolerance and Refusing to Quit|Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle|Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle|The Reference Group and Re-engineering Your Circle]]
 ## Source reference
-Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #10). Raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]

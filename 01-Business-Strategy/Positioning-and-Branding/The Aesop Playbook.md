@@ -1,24 +1,64 @@
 ---
-title: "The Aesop Playbook - Ritual Economics, Diagnostic Selling, and Engineering the Second Sale"
+title: "The Aesop Playbook - Ritual Economics, Diagnostic Selling, and
+  Engineering the Second Sale"
 aliases:
-  - "The Aesop Playbook - Ritual Economics, Diagnostic Selling, and Engineering the Second Sale"
+  - "The Aesop Playbook - Ritual Economics, Diagnostic Selling, and Engineering
+    the Second Sale"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/pricing, topic/positioning, topic/brand, topic/persuasion, topic/ltv, topic/differentiation, person/sabri-suby]
-source:
-  type: "video"
-  name: "How Aesop Sells Soap For 30x More Than Everyone Else"
-  author: "Sabri Suby"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/pricing,
+    topic/positioning,
+    topic/brand,
+    topic/persuasion,
+    topic/ltv,
+    topic/differentiation,
+    person/sabri-suby
+  ]
+sources:
+  - id: "SRC-0080"
+    role: "primary"
 date_added: "2026-07-10"
 updated: "2026-07-13"
 reviewed_on: "2026-07-10"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Psychological
+      Moonshots - Improve Perception Before Reality
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
+      Actually Is - Association, Influence, Direction, Reach
+  - type: has-derivative
+    target: 07-Articles/Change the Comparison Before You Change the Price
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
+      Sell the Goal, Scope the Journey, Secure Prepayment
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
+      Compounding - Too Good to Fail
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
+      in the Prospect's Mind
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
+      Unscalable Premium Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
+      Discount - Make the Difference Obvious
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
+      Slam Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架
 ---
 
 # The Aesop Playbook - Ritual Economics, Diagnostic Selling, and Engineering the Second Sale
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Aesop turned a commodity product (hand soap) into a $55 premium without discounts, celebrity endorsement, or miracle claims — by pricing off daily ritual instead of rare occasion, diagnosing instead of pitching, treating the first sale as the least profitable one, and making the packaging itself unpaid, ongoing marketing.
@@ -58,13 +98,19 @@ Founded in a Melbourne hair salon in 1987, Aesop refused the category's standard
 - Sabri Suby's own branded book mailer: an expensive, giveaway packaging choice that drives organic social shares and, by his account, hundreds of thousands of "sales" of a free book.
 
 ## Relationships
-- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
-- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- **related:** [[情緒價值與功能性價值：跳脫價格戰的定位框架]]
-- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
-- **applies:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- **related:** [[The Value Equation and the Grand Slam Offer]]
-- **related:** [[Brand and Product Compounding - Too Good to Fail]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Psychological Moonshots - Improve Perception Before Reality|Psychological Moonshots - Improve Perception Before Reality]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **Has derivative:** [[07-Articles/Change the Comparison Before You Change the Price|Change the Comparison Before You Change the Price]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail|Brand and Product Compounding - Too Good to Fail]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious|Decommoditize Before You Discount - Make the Difference Obvious]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架|情緒價值與功能性價值：跳脫價格戰的定位框架]]
 ## Source reference
-Sabri Suby, *How Aesop Sells Soap For 30x More Than Everyone Else* (YouTube). Raw transcript and extraction notes archived at [[2026-07-10_Video_SabriSuby_HowAesopSellsSoapFor30xMore]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_HowAesopSellsSoapFor30xMore|How Aesop Sells Soap for 30x More]]

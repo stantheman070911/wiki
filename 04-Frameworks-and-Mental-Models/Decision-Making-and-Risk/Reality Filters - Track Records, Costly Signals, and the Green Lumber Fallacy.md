@@ -3,20 +3,49 @@ title: "Reality Filters - Track Records, Costly Signals, and the Green Lumber Fa
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/proof, topic/believability, topic/research, topic/decision-making, topic/learning, topic/risk, person/nassim-nicholas-taleb, source/skin-in-the-game]
-source:
-  type: "book"
-  name: "Skin in the Game"
-  author: "Nassim Nicholas Taleb"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/proof,
+    topic/believability,
+    topic/research,
+    topic/decision-making,
+    topic/learning,
+    topic/risk,
+    person/nassim-nicholas-taleb,
+    source/skin-in-the-game
+  ]
+sources:
+  - id: "SRC-0012"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Trust Should Have a Credit Limit
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
+      Clever - Write Below Third Grade and Meet the Avatar
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
+      Your Decision Making
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the
+      Game - Aligning Upside, Downside, and Accountability
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Lindy
+      Effect - Time as a Filter for Robust Ideas and Practices
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Contribution
+      Before Activity - Define Results and Make Knowledge Usable
 ---
 
 # Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 When outcomes are measurable, durable performance under real constraints is stronger evidence than polish, credentials, vocabulary, or a persuasive causal story.
@@ -56,10 +85,15 @@ Lower levels can help screen candidates but should not override contradictory ev
 Taleb's surgeon who looks like a butcher may be the stronger choice because a successful career despite the appearance implies a powerful reality filter. The green-lumber trader knew less descriptive detail than his bankrupt counterpart but understood the market variables that determined survival.
 
 ## Relationships
-- **related:** [[Believability-Weight Your Decision Making]]
-- **related:** [[The Lindy Effect - Time as a Filter for Robust Ideas and Practices]]
-- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
-- **related:** [[Contribution Before Activity - Define Results and Make Knowledge Usable]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Trust Should Have a Credit Limit|Trust Should Have a Credit Limit]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the Game - Aligning Upside, Downside, and Accountability|Skin in the Game - Aligning Upside, Downside, and Accountability]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Lindy Effect - Time as a Filter for Robust Ideas and Practices|The Lindy Effect - Time as a Filter for Robust Ideas and Practices]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Contribution Before Activity - Define Results and Make Knowledge Usable|Contribution Before Activity - Define Results and Make Knowledge Usable]]
 ## Source reference
-Nassim Nicholas Taleb, *Skin in the Game: Hidden Asymmetries in Daily Life* (2018), [[2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript|Skin in the Game - Raw Transcript]]

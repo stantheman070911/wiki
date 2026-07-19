@@ -3,20 +3,46 @@ title: "Hybrid Organizations and Dual Reporting"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/org-design, topic/management, topic/systems, topic/leadership, person/andrew-grove, source/high-output-management]
-source:
-  type: "book"
-  name: "High Output Management"
-  author: "Andrew S. Grove"
-  url: ""
-  date_of_source: "1983"
+tags:
+  [
+    topic/org-design,
+    topic/management,
+    topic/systems,
+    topic/leadership,
+    person/andrew-grove,
+    source/high-output-management
+  ]
+sources:
+  - id: "SRC-0022"
+    role: "primary"
+    locator: "chapters 7–10"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
+      Organizations
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
+      Discipline - Freedom, Responsibility, and Stop-Doing Lists
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity
+      Needs Standards and Distributed Judgment
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and
+      Stay in Sync
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace
+      Influence Mapping - Authority, Value, and Recognition
 ---
 
 # Hybrid Organizations and Dual Reporting
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 Large organizations inevitably combine mission units for responsiveness with functional groups for scale and expertise, using dual reporting and peer coordination to manage the resulting ambiguity.
@@ -56,10 +82,14 @@ Complete decentralization duplicates scarce capability and fragments standards; 
 Intel combined mission-oriented business divisions with functional manufacturing, sales, finance, and technology groups. Plant security reported both to local management, which could observe daily execution, and corporate security, which set standards. Manufacturing managers across divisions also formed a peer council that supplied technical supervision their general managers could not provide.
 
 ## Relationships
-- **related:** [[Complexity Needs Standards and Distributed Judgment]]
-- **related:** [[Get and Stay in Sync]]
-- **related:** [[Special-Forces Teams and Flat Organizations]]
-- **related:** [[A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity Needs Standards and Distributed Judgment|Complexity Needs Standards and Distributed Judgment]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and Stay in Sync|Get and Stay in Sync]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace Influence Mapping - Authority, Value, and Recognition|Workplace Influence Mapping - Authority, Value, and Recognition]]
 ## Source reference
-Andrew S. Grove, *High Output Management* (1983; revised 1995), chapters 7–10. [[2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript|High Output Management - Raw Transcript]] — locator: chapters 7–10

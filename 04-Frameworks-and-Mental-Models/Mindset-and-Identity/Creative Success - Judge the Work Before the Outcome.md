@@ -3,20 +3,40 @@ title: "Creative Success - Judge the Work Before the Outcome"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/creativity, topic/mindset, topic/identity, topic/decision-making, person/rick-rubin]
-source:
-  type: "book"
-  name: "The Creative Act - A Way of Being"
-  author: "Rick Rubin with Neil Strauss"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/creativity,
+    topic/mindset,
+    topic/identity,
+    topic/decision-making,
+    person/rick-rubin
+  ]
+sources:
+  - id: "SRC-0016"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness
+      - Separate Truth from Identity and Conformism
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Finish and
+      Release - Abundance Beats Perfectionism
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for
+      Makers - Constraints for Designing Good Things
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs.
+      Playing Not to Lose
 ---
 
 # Creative Success - Judge the Work Before the Outcome
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 Define creative success at the moment the work meets your honest standard and is released, because popularity, revenue, timing, and critical approval are market outcomes rather than reliable measures of the work.
@@ -52,10 +72,13 @@ Use the market scorecard to learn about distribution and reception, not to retro
 Rubin describes the upward exchange among the Beatles, the Beach Boys, and their producers: *Rubber Soul* inspired *Pet Sounds*, which then helped inspire *Sgt. Pepper*. The standard rose through admiration and mutual influence rather than a zero-sum attempt to diminish the other artist.
 
 ## Relationships
-- **related:** [[Finish and Release - Abundance Beats Perfectionism]]
-- **related:** [[Independent-Mindedness - Separate Truth from Identity and Conformism]]
-- **related:** [[Playing to Win vs. Playing Not to Lose]]
-- **related:** [[Taste for Makers - Constraints for Designing Good Things]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness - Separate Truth from Identity and Conformism|Independent-Mindedness - Separate Truth from Identity and Conformism]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Finish and Release - Abundance Beats Perfectionism|Finish and Release - Abundance Beats Perfectionism]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for Makers - Constraints for Designing Good Things|Taste for Makers - Constraints for Designing Good Things]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs. Playing Not to Lose|Playing to Win vs. Playing Not to Lose]]
 ## Source reference
-Rick Rubin with Neil Strauss, *The Creative Act: A Way of Being* (2023). Raw transcript archived at [[2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript|The Creative Act - Raw Transcript]]

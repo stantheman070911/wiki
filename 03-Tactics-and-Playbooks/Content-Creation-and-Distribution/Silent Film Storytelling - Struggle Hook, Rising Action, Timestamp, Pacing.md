@@ -3,20 +3,50 @@ title: "Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Paci
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/storytelling, topic/short-form-video, topic/content-strategy, topic/hooks, person/jun-yuh]
-source:
-  type: "video"
-  name: "4 Steps On How To Start Your Personal Brand From Scratch In 2026"
-  author: "Jun Yuh"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/storytelling,
+    topic/short-form-video,
+    topic/content-strategy,
+    topic/hooks,
+    person/jun-yuh
+  ]
+sources:
+  - id: "SRC-0076"
+    role: "primary"
+  - id: "SRC-0057"
+    role: "supporting"
 date_added: "2026-07-10"
 updated: "2026-07-10"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+  Creation and Distribution Map
+relationships:
+  - type: applies
+    target: 02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why
+  - type: has-derivative
+    target: 07-Articles/Steal the Format, Not the Idea
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+      Planner and the Analyze-Double-Down Loop
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down
+      and the 70-20-10 Rule - Templatizing Viral Outliers
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking
+      Attention - Topic, Format, Hook and the Content Engine
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
+      Proof, Path - Engineering the Video Intro
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence -
+      Build in Public, Daily Cadence, Post-Launch Loop
 ---
 
 # Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution]]
 
 ## One-line summary
 "Relatable" and "vulnerable" are useless instructions because they aren't repeatable — the reason a personal-story reel goes viral is a set of four tangible, checkable features (a struggle hook, a rising-action sound, a timestamp, and read-aloud pacing) you can templatize and repost.
@@ -50,12 +80,17 @@ This is the "double-down" loop in practice: once a format like this wins, templa
 - Jun Yuh's own "silent film storytelling" reels: the same struggle→transformation storyline reposted across Instagram and TikTok, each pulling millions of views, built on 8M+ followers grown with the format.
 
 ## Relationships
-- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
-- **applies:** [[Creator Vision Framework - What x Who x Why]]
-- **related:** [[Content Planner and the Analyze-Double-Down Loop]]
-- **related:** [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
-- **related:** [[Hacking Attention - Topic, Format, Hook and the Content Engine]]
-- **related:** [[The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why|Creator Vision Framework: What x Who x Why]]
+- **Has derivative:** [[07-Articles/Steal the Format, Not the Idea|Steal the Format, Not the Idea]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Planner and the Analyze-Double-Down Loop|Content Planner and the Analyze-Double-Down Loop]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers|Double-Down and the 70/20/10 Rule - Templatizing Viral Outliers]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking Attention - Topic, Format, Hook and the Content Engine|Hacking Attention - Topic, Format, Hook and the Content Engine]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop|The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop]]
 ## Source reference
-Jun Yuh, *4 Steps On How To Start Your Personal Brand From Scratch In 2026* (video). Raw transcript archived at [[2026-07-10_Video_JunYuh_HowToStartAPersonalBrandFromScratch2026]]; expanded across the long-form interview [[2026-07-10_Podcast_JunYuh_HowToBlowUpAnyPersonalBrand2026_The505Podcast]]. (The video's Creator Vision and content-planner material is captured in [[Creator Vision Framework - What x Who x Why]] and [[Content Planner and the Analyze-Double-Down Loop]].)
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-10_Video_JunYuh_HowToStartAPersonalBrandFromScratch2026|4 Steps On How To Start Your Personal Brand From Scratch In 2026]]
+- **supporting:** [[06-Source-Library/Podcasts/2026-07-10_Podcast_JunYuh_HowToBlowUpAnyPersonalBrand2026_The505Podcast|How To Blow Up ANY Personal Brand in 2026 (and Get Rich) — ft Jun Yuh (THE 505 PODCAST)]]

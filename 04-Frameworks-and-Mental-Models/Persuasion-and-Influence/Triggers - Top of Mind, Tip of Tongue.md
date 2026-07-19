@@ -3,20 +3,48 @@ title: "Triggers - Top of Mind, Tip of Tongue"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/word-of-mouth, topic/marketing, topic/content-strategy, person/jonah-berger, source/contagious]
-source:
-  type: "book"
-  name: "Contagious: Why Things Catch On"
-  author: "Jonah Berger"
-  url: ""
-  date_of_source: "2013"
+tags:
+  [
+    topic/word-of-mouth,
+    topic/marketing,
+    topic/content-strategy,
+    person/jonah-berger,
+    source/contagious
+  ]
+sources:
+  - id: "SRC-0033"
+    role: "primary"
+    locator: "ch. 2"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: "2026-07-18"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
+      Framework - Six Drivers of Word of Mouth
+  - type: contrast
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency
+      - We Share What Makes Us Look Good
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points
+      - Anchor a New Position to What's Already Believed
+  - type: is-applied-by
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
+      Framework - Six Drivers of Word of Mouth
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal
+      Emotion - When We Care, We Share
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of
+      Influence - Click-Whirr, Trigger Features, and the Contrast Principle
 ---
 
 # Triggers - Top of Mind, Tip of Tongue
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 People talk about and choose whatever is top of mind, so linking a product or idea to frequent cues in the everyday environment keeps it being mentioned long after the initial excitement fades.
@@ -42,11 +70,15 @@ A **trigger** is an environmental cue that makes a related idea accessible; a pr
 - If you need durable (not just launch-day) word of mouth, favor a frequently-triggered hook over a merely interesting one.
 
 ## Relationships
-- **applies:** [[The STEPPS Framework - Six Drivers of Word of Mouth]]
-- **contrast:** [[Social Currency - We Share What Makes Us Look Good]]
-- **related:** [[High-Arousal Emotion - When We Care, We Share]]
-- **related:** [[Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
-- **related:** [[Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
+- **Contrast:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good|Social Currency - We Share What Makes Us Look Good]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points - Anchor a New Position to What's Already Believed|Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal Emotion - When We Care, We Share|High-Arousal Emotion - When We Care, We Share]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle|Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
 ## Source reference
-Jonah Berger, *Contagious: Why Things Catch On* (Simon & Schuster, 2013), ch. 2. Extraction notes in [[2026-07-18_Book_JonahBerger_Contagious]]; full text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_JonahBerger_Contagious|Contagious: Why Things Catch On]] — locator: ch. 2

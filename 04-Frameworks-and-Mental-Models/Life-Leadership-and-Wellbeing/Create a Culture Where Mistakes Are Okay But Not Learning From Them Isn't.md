@@ -3,20 +3,64 @@ title: "Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn'
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/culture, topic/feedback, topic/learning, topic/leadership, person/ray-dalio, source/bridgewater-associates]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/culture,
+    topic/feedback,
+    topic/learning,
+    topic/leadership,
+    person/ray-dalio,
+    source/bridgewater-associates
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 3"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/Community Quality Is
+      the Offer - Qualification, Curation, and Network Effects
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test,
+      Evaluate, and Sort People
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules
+      - Codify, Transfer, and Train Behavior
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems
+      to Get at Their Root Causes
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Perceive and Don't
+      Tolerate Problems
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and
+      Protocols to Shape How Work Is Done
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale
+      Paradox - Confront Reality Without Losing Faith
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Out-Fail the
+      Competition - Building an Experimentation System
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate
+      Meaningful Work and Meaningful Relationships
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in
+      Radical Truth and Radical Transparency
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and
+      Deal With It - Pain, Truth, and the Hyperrealist's Formula
 ---
 
 # Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 Since everyone fails, the real differentiator between organizations isn't failure rate — it's whether failures get surfaced and mined for lessons or driven underground by fear of punishment; punishing mistakes just teaches people to hide them, which is strictly worse than the original mistake.
@@ -45,10 +89,20 @@ Third chapter of Work Principles, directly downstream of radical transparency: a
 - **Michael Jordan's ski instructor** reportedly said Jordan "reveled in his mistakes" on the slopes, treating each one as a puzzle to be solved rather than a source of shame — Dalio's illustration of "failing well" at the individual level.
 
 ## Relationships
-- **related:** [[Trust in Radical Truth and Radical Transparency]]
-- **related:** [[Perceive and Don't Tolerate Problems]]
-- **related:** [[Diagnose Problems to Get at Their Root Causes]]
-- **related:** [[Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/Community Quality Is the Offer - Qualification, Curation, and Network Effects|Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People|Constantly Train, Test, Evaluate, and Sort People]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior|Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems to Get at Their Root Causes|Diagnose Problems to Get at Their Root Causes]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Perceive and Don't Tolerate Problems|Perceive and Don't Tolerate Problems]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and Protocols to Shape How Work Is Done|Use Tools and Protocols to Shape How Work Is Done]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale Paradox - Confront Reality Without Losing Faith|The Stockdale Paradox - Confront Reality Without Losing Faith]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Out-Fail the Competition - Building an Experimentation System|Out-Fail the Competition - Building an Experimentation System]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate Meaningful Work and Meaningful Relationships|Cultivate Meaningful Work and Meaningful Relationships]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in Radical Truth and Radical Transparency|Trust in Radical Truth and Radical Transparency]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula|Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
 ## Source reference
-Ray Dalio, *Principles*, Part III, Ch. 3 ("Create a Culture in Which It Is Okay to Make Mistakes and Unacceptable Not to Learn from Them"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 3

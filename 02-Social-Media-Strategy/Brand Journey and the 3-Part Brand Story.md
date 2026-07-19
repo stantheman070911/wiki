@@ -3,20 +3,46 @@ title: "Brand Journey and the 3-Part Brand Story"
 type: "strategy"
 domain: "social-media-strategy"
 lang: "en"
-tags: [topic/personal-brand, topic/brand, topic/positioning, topic/narrative, person/caleb-ralston]
-source:
-  type: "pdf"
-  name: "How to Build Your Brand Workbook"
-  author: "Caleb Ralston"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/personal-brand,
+    topic/brand,
+    topic/positioning,
+    topic/narrative,
+    person/caleb-ralston
+  ]
+sources:
+  - id: "SRC-0008"
+    role: "primary"
+    locator: "ch. 1–2"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 02-Social-Media-Strategy/Social Media Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
+      Actually Is - Association, Influence, Direction, Reach
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Audience-Growth/The Podcast Guest Ladder -
+      Hook, Product Ecosystem, and Podcast Pyramid
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall
+      Distribution Method - One Pillar, a Week of Content
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
+      in the Prospect's Mind
+  - type: related
+    target: 02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why
+  - type: related
+    target: 02-Social-Media-Strategy/The Personal-Brand House - Foundation,
+      Interior, Exterior
 ---
 
 # Brand Journey and the 3-Part Brand Story
+
+> **Up:** [[Home|Home]] → [[02-Social-Media-Strategy/Social Media Strategy Index|Social Media Strategy]]
 
 ## One-line summary
 Define a brand by reverse-engineering it from the outcome you want (the Brand Journey's four questions) and by anchoring it in a three-part story — the Catalyst, the Core Truth, and the Proof.
@@ -53,11 +79,15 @@ Working backward from the outcome ensures every piece of content and every skill
 - Nike (Catalyst), Russ (Core Truth), GaryVee (Proof).
 
 ## Relationships
-- **related:** [[Creator Vision Framework - What x Who x Why]]
-- **related:** [[The Personal-Brand House - Foundation, Interior, Exterior]]
-- **applies:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
-- **related:** [[The Waterfall Distribution Method - One Pillar, a Week of Content]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Audience-Growth/The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid|The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall Distribution Method - One Pillar, a Week of Content|The Waterfall Distribution Method - One Pillar, a Week of Content]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
+- **Related:** [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why|Creator Vision Framework: What x Who x Why]]
+- **Related:** [[02-Social-Media-Strategy/The Personal-Brand House - Foundation, Interior, Exterior|The Personal-Brand House - Foundation, Interior, Exterior]]
 ## Source reference
-Caleb Ralston, *How to Build Your Brand Workbook*, ch. 1–2. Extraction notes in [[2026-07-08_Workbook_CalebRalston_HowToBuildYourBrand]]; PDF archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Workbook_CalebRalston_HowToBuildYourBrand|How To Build Your Brand]] — locator: ch. 1–2

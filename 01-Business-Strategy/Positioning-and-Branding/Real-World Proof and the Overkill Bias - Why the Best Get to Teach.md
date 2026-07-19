@@ -3,20 +3,43 @@ title: "Real-World Proof and the Overkill Bias - Why the Best Get to Teach"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/proof, topic/believability, topic/brand, topic/positioning, topic/differentiation, person/alex-hormozi]
-source:
-  type: "video"
-  name: "How to Grow Any Business Fast (The Four Business Shapes)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/proof,
+    topic/believability,
+    topic/brand,
+    topic/positioning,
+    topic/differentiation,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0107"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
+      Shapes - E-commerce, Service, Education, Software
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product
+      - The Best-Known Wins, Not the Best
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing
+      Scale - Sell the Outcome, Not Your Effort
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem
+      - Sell Consumable Inputs, Not the Black Box
+  - type: related
+    target: 07-Articles/Confidence Is a Receipt, Not a Requirement
 ---
 
 # Real-World Proof and the Overkill Bias - Why the Best Get to Teach
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 People don't buy education, coaching, or expertise from whoever can teach it — they buy from whoever has the most extreme real-world proof, because of an "overkill bias" that assumes someone who succeeded at the hardest version will easily handle their easier one.
@@ -49,11 +72,14 @@ Use this for experts, coaches, consultants, course creators, and personal brands
 - **Cordon Bleu:** a strong reputation for producing employable chefs lets it charge premium tuition, because the brand confers value onto graduates.
 
 ## Relationships
-- **related:** [[The Four Business Shapes - E-commerce, Service, Education, Software]]
-- **related:** [[The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
-- **related:** [[Distribution Beats Product - The Best-Known Wins, Not the Best]]
-- **related:** [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
-- **related:** [[Confidence Is a Receipt, Not a Requirement]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product - The Best-Known Wins, Not the Best|Distribution Beats Product - The Best-Known Wins, Not the Best]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort|The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box|The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
+- **Related:** [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
 ## Source reference
-Alex Hormozi, *How to Grow Any Business Fast (The Four Business Shapes)*. Raw transcript archived in [[2026-07-18_Video_AlexHormozi_HowToGrowAnyBusinessFast_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-18_Video_AlexHormozi_HowToGrowAnyBusinessFast_RawTranscript|How to Grow Any Business Fast (The Four Business Shapes)]]

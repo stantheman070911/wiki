@@ -3,20 +3,45 @@ title: "Alternative Currencies - Reputation, Distribution, and Equity"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/wealth, topic/capital, topic/equity, topic/brand, topic/distribution, topic/leverage, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "What Billionaires Do Differently"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/wealth,
+    topic/capital,
+    topic/equity,
+    topic/brand,
+    topic/distribution,
+    topic/leverage,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0103"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a
+      Partnership Makes Sense - The Five Things a Partner Must Bring
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations -
+      Co-founders, Ownership, Possession, Control, and Vesting
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle -
+      Recover Time, Capital, and Better Judgment
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation -
+      Measurement, Leverage, and Compressed Work
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly
 ---
 
 # Alternative Currencies - Reputation, Distribution, and Equity
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Beyond cash and time, a business can accumulate reputation, audience access, intellectual property, relationships, and priced equity that can be exchanged for talent, partnerships, acquisitions, and future opportunity.
@@ -55,10 +80,14 @@ For each, define how it is measured, who values it, what it can purchase, and th
 Priestley describes a company that sells a minority stake to establish an external valuation, then uses another portion of its shares in a proposed acquisition. The shares function like currency because another party has already priced and trusted them.
 
 ## Relationships
-- **related:** [[Wealth Creation - Measurement, Leverage, and Compressed Work]]
-- **related:** [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
-- **related:** [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
-- **applies:** [[When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a Partnership Makes Sense - The Five Things a Partner Must Bring|When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting|Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment|Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation - Measurement, Leverage, and Compressed Work|Wealth Creation - Measurement, Leverage, and Compressed Work]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly|Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
 ## Source reference
-Daniel Priestley, *What Billionaires Do Differently*. Raw transcript in [[2026-07-13_Video_DanielPriestley_WhatBillionairesDoDifferently_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_WhatBillionairesDoDifferently_RawTranscript|What Billionaires Do Differently - Raw Transcript]]

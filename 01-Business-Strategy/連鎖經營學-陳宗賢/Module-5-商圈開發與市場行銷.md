@@ -6,20 +6,39 @@ type: "series-entry"
 domain: "business-strategy"
 series: "連鎖經營學"
 lang: "zh"
-tags: [topic/chain-store, topic/operations, topic/business-model, topic/growth, person/chen-tsung-hsien]
-source:
-  type: "presentation"
-  name: "陳宗賢的連鎖經營學（5-1〜5-7）"
-  author: "陳宗賢"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/chain-store,
+    topic/operations,
+    topic/business-model,
+    topic/growth,
+    person/chen-tsung-hsien
+  ]
+sources:
+  - id: "SRC-0044"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
+relationships:
+  - type: derives-from
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
+  - type: is-prerequisite-for
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-6-物流與供應鏈周轉
+  - type: prerequisite
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-4-商品規劃與獲利結構
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a
+      Force Multiplier
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/TikTok Shop與飽和市場的白地策略
 ---
 
 # 連鎖經營學 · Module 5：商圈開發與市場行銷
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
 
 > 系列導覽：[[連鎖經營學總覽|總覽與方法論]]　｜　上一模組：[[Module-4-商品規劃與獲利結構|Module 4]]　｜　下一模組：[[Module-6-物流與供應鏈周轉|Module 6]]
 
@@ -81,12 +100,13 @@ status: "reviewed"
 
 ## 關係
 
-- **related:** [[連鎖經營學總覽|總覽與方法論]]
-- **prerequisite:** [[Module-4-商品規劃與獲利結構|Module 4：商品規劃與獲利結構]]
-- **related:** [[Module-6-物流與供應鏈周轉|Module 6：物流與供應鏈周轉]]
-- **related:** [[TikTok Shop與飽和市場的白地策略]]
-- **related:** [[Add a Zero - Market Choice as a Force Multiplier]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **衍生自:** [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
+- **是其前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-6-物流與供應鏈周轉|連鎖經營學 · Module 6：物流管理與供應鏈周轉]]
+- **前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-4-商品規劃與獲利結構|連鎖經營學 · Module 4：商品規劃與獲利結構]]
+- **相關:** [[01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a Force Multiplier|Add a Zero - Market Choice as a Force Multiplier]]
+- **相關:** [[01-Business-Strategy/Growth-and-Scaling/TikTok Shop與飽和市場的白地策略|TikTok Shop與飽和市場的白地策略]]
 ## 來源
 
-陳宗賢，《連鎖經營學》課程。39 份投影片文字擷取與 10 份 Excel 管理表單詳見 [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]

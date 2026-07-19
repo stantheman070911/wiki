@@ -1,22 +1,33 @@
 ---
-title: "Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself"
+title: "Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell
+  Yourself"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/identity, topic/self-belief, person/t-harv-eker]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags: [ topic/mindset, topic/identity, topic/self-belief, person/t-harv-eker ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money
+      Well - The Habit Matters More Than the Amount
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint
+      - Reprogramming Thoughts, Feelings, and Actions Around Money
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Willing to
+      Self-Promote vs. Averse to Selling
 ---
 
 # Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 The single biggest reason most people don't reach their financial potential is that they're bad at receiving — usually from a felt sense of unworthiness — and since worthiness is a made-up story rather than a fact, the fix is to consciously choose a more useful story, not to earn worthiness first.
@@ -40,9 +51,12 @@ Wealth File #10. Eker ties poor receiving to childhood conditioning around punis
 - A seminar participant in tears says he can't feel good about having money "when others have so little"; Eker's reframe — "whom do you help by being broke?" — shifts him toward creating wealth first, then helping from strength.
 
 ## Relationships
-- **related:** [[Willing to Self-Promote vs. Averse to Selling]]
-- **related:** [[Manage Your Money Well - The Habit Matters More Than the Amount]]
-- **related:** [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money Well - The Habit Matters More Than the Amount|Manage Your Money Well - The Habit Matters More Than the Amount]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Willing to Self-Promote vs. Averse to Selling|Willing to Self-Promote vs. Averse to Selling]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #10. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

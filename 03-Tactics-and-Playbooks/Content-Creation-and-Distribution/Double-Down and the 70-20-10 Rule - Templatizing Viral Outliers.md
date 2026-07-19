@@ -5,20 +5,50 @@ aliases:
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/content-strategy, source/personal-brand-launch, person/ava-jurgens]
-source:
-  type: "video"
-  name: "How to Grow an Instagram Account in 2026"
-  author: "Ava (Personal Brand Launch)"
-  url: ""
-  date_of_source: ""
+tags: [ topic/content-strategy, source/personal-brand-launch, person/ava-jurgens ]
+sources:
+  - id: "SRC-0072"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+  Creation and Distribution Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
+      - Ads Are an At-Bats Game
+  - type: applies
+    target: 02-Social-Media-Strategy/對標方法論與靈感池系統
+  - type: has-derivative
+    target: 07-Articles/Steal the Format, Not the Idea
+  - type: related
+    target: 03-Tactics-and-Playbooks/Audience-Growth/Instagram 0-to-100k - The
+      Three-Level Follower Roadmap
+  - type: related
+    target: 03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder -
+      Fixing Views, Formats, and Timing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+      Planner and the Analyze-Double-Down Loop
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking
+      Attention - Topic, Format, Hook and the Content Engine
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film
+      Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Seven
+      Factors of a Short - Topic to Editing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall
+      Distribution Method - One Pillar, a Week of Content
 ---
 
 # Double-Down and the 70/20/10 Rule - Templatizing Viral Outliers
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution]]
 
 ## One-line summary
 Find viral outliers (≥5× a creator's follower count in views), template them by transferring their components, and structure each month's content 70/20/10 across proven concepts, your own double-downs, and fresh experiments.
@@ -59,11 +89,19 @@ Once past the initial grind, growth is driven less by novelty than by systematic
 - Mode C in practice: take a video that worked and re-shoot the identical value/hook in a new engaging format.
 
 ## Relationships
-- **related:** [[Content Planner and the Analyze-Double-Down Loop]]
-- **applies:** [[對標方法論與靈感池系統]]
-- **related:** [[The Seven Factors of a Short - Topic to Editing]]
-- **related:** [[Instagram 0-to-100k - The Three-Level Follower Roadmap]]
-- **related:** [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
+- **Applies:** [[02-Social-Media-Strategy/對標方法論與靈感池系統|對標方法論與靈感池系統]]
+- **Has derivative:** [[07-Articles/Steal the Format, Not the Idea|Steal the Format, Not the Idea]]
+- **Related:** [[03-Tactics-and-Playbooks/Audience-Growth/Instagram 0-to-100k - The Three-Level Follower Roadmap|Instagram 0-to-100k - The Three-Level Follower Roadmap]]
+- **Related:** [[03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing|Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Planner and the Analyze-Double-Down Loop|Content Planner and the Analyze-Double-Down Loop]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking Attention - Topic, Format, Hook and the Content Engine|Hacking Attention - Topic, Format, Hook and the Content Engine]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing|Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Seven Factors of a Short - Topic to Editing|The Seven Factors of a Short - Topic to Editing]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall Distribution Method - One Pillar, a Week of Content|The Waterfall Distribution Method - One Pillar, a Week of Content]]
 ## Source reference
-Ava (Personal Brand Launch), *How to Grow an Instagram Account in 2026*. Extraction notes in [[2026-07-08_Video_PersonalBrandLaunch_GrowInstagram2026]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_PersonalBrandLaunch_GrowInstagram2026|Grow Instagram in 2026]]

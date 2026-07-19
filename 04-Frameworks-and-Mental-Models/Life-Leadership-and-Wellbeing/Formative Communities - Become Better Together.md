@@ -3,20 +3,42 @@ title: "Formative Communities - Become Better Together"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/culture, topic/trust, topic/learning, person/bill-burnett, person/dave-evans, source/how-to-live-a-meaningful-life]
-source:
-  type: "book"
-  name: "How to Live a Meaningful Life"
-  author: "Bill Burnett and Dave Evans"
-  url: ""
-  date_of_source: "2026"
+tags:
+  [
+    topic/culture,
+    topic/trust,
+    topic/learning,
+    person/bill-burnett,
+    person/dave-evans,
+    source/how-to-live-a-meaningful-life
+  ]
+sources:
+  - id: "SRC-0027"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions
+      - Formation Beyond Problem Solving
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate
+      Meaningful Work and Meaningful Relationships
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+      Design Compass - Workview, Lifeview, and Coherency
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Moment-Making
+      - Crafted, Discovered, and Savored Experiences
 ---
 
 # Formative Communities - Become Better Together
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 A formative community exists not mainly to socialize or complete a task, but to help its members become more authentic and coherent people through sustained reflection and story.
@@ -53,10 +75,13 @@ A functioning group also needs a growth commitment, a shared method, regular int
 In Stanford’s Distinguished Careers Institute, highly accomplished and well-connected people repeatedly reported that their cohort provided a kind of community they had never experienced: people gathered to help one another live more purposeful lives, not to win, network, or produce a shared deliverable.
 
 ## Relationships
-- **related:** [[Focus Questions - Formation Beyond Problem Solving]]
-- **related:** [[Life Design Compass - Workview, Lifeview, and Coherency]]
-- **related:** [[Moment-Making - Crafted, Discovered, and Savored Experiences]]
-- **related:** [[Cultivate Meaningful Work and Meaningful Relationships]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions - Formation Beyond Problem Solving|Focus Questions - Formation Beyond Problem Solving]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate Meaningful Work and Meaningful Relationships|Cultivate Meaningful Work and Meaningful Relationships]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Design Compass - Workview, Lifeview, and Coherency|Life Design Compass - Workview, Lifeview, and Coherency]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Moment-Making - Crafted, Discovered, and Savored Experiences|Moment-Making - Crafted, Discovered, and Savored Experiences]]
 ## Source reference
-Bill Burnett and Dave Evans, *How to Live a Meaningful Life: Using Design Thinking to Unlock Purpose, Joy, and Flow Every Day* (2026). [[2026-07-18_Book_BillBurnettDaveEvans_HowToLiveAMeaningfulLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_HowToLiveAMeaningfulLife_RawTranscript|How to Live a Meaningful Life]]

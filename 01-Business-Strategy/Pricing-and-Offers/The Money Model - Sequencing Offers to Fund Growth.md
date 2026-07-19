@@ -3,20 +3,53 @@ title: "The Money Model - Sequencing Offers to Fund Growth"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/cash-flow, topic/cac, topic/offers, topic/continuity, person/alex-hormozi]
-source:
-  type: "book"
-  name: "$100M Money Models"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: "2025"
+tags:
+  [
+    topic/cash-flow,
+    topic/cac,
+    topic/offers,
+    topic/continuity,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0020"
+    role: "primary"
+  - id: "SRC-0001"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/用數學做決策：損益表、PDCA與預測降低不確定性
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
+      Rule of 100 - Lead Generation Fundamentals
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/From Proof Story to
+      Scalable IP - Productize, Attract, Convert, and Amplify
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape
+      - Scale Fast, Then Fight Cash, Supply, and Brand
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
+      Alignment
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem
+      - Sell Consumable Inputs, Not the Black Box
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
+      Slam Offer
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition
+      - Make the Customer Fund the Next Customer
 ---
 
 # The Money Model - Sequencing Offers to Fund Growth
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Structure a business as a deliberate, staged sequence of four offer types — attraction, upsell, downsell, continuity — so that 30-day gross profit exceeds twice the customer acquisition cost, meaning every customer pays for their own acquisition (and funds the next one) within a month.
@@ -64,12 +97,18 @@ flowchart LR
 - The most dangerous business position identified in the book: customer acquisition costing more than 30-day gross profit returns — a silent killer that looks like growth (rising customer count) while actually bleeding the company of cash.
 
 ## Relationships
-- **related:** [[The Value Equation and the Grand Slam Offer]]
-- **related:** [[Client-Financed Acquisition - Make the Customer Fund the Next Customer]]
-- **related:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
-- **related:** [[Billing-Cycle vs Value-Cycle Alignment]]
-- **related:** [[The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
-- **applies:** [[用數學做決策：損益表、PDCA與預測降低不確定性]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/用數學做決策：損益表、PDCA與預測降低不確定性|用數學做決策：損益表、PDCA與預測降低不確定性]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify|From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand|The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle Alignment|Billing-Cycle vs Value-Cycle Alignment]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box|The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition - Make the Customer Fund the Next Customer|Client-Financed Acquisition - Make the Customer Fund the Next Customer]]
 ## Source reference
-Alex Hormozi, *$100M Money Models* (2025). Full audiobook transcript archived at [[2026-07-18_Book_AlexHormozi_100MMoneyModels_RawTranscript]]; earlier series extraction: [[2026-07-08_Book_AlexHormozi_100MSeriesSummary]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MMoneyModels_RawTranscript|$100M Money Models]]
+- **supporting:** [[06-Source-Library/Books/2026-07-08_Book_AlexHormozi_100MSeriesSummary|100 MSeries Summary]]

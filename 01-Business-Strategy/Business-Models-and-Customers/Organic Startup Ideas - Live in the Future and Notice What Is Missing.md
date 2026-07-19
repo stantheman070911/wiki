@@ -3,20 +3,40 @@ title: "Organic Startup Ideas - Live in the Future and Notice What Is Missing"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/startups, topic/business-model, topic/research, topic/innovation, topic/niche, person/paul-graham, source/paul-graham-essays]
-source:
-  type: "essay collection"
-  name: "Paul Graham - Collected Essays"
-  author: "Paul Graham"
-  url: "https://paulgraham.com/articles.html"
-  date_of_source: "2005-2025"
+tags:
+  [
+    topic/startups,
+    topic/business-model,
+    topic/research,
+    topic/innovation,
+    topic/niche,
+    person/paul-graham,
+    source/paul-graham-essays
+  ]
+sources:
+  - id: "SRC-0046"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
+  and Customers Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New
+      Ideas - Work at the Fractal Edge of Knowledge
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How
+      to Find What Everyone Else Has Missed
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
+      Product-Discovery Loop - Launch, Learn, Evolve, Delight
 ---
 
 # Organic Startup Ideas - Live in the Future and Notice What Is Missing
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/Business-Models-and-Customers/Business Models and Customers Map|Business Models and Customers]]
 
 ## One-line summary
 The best startup ideas are noticed rather than invented: become expert at a changing frontier, build what you or nearby users urgently need, and disable the filters that hide tedious or unfashionable problems.
@@ -45,9 +65,12 @@ Screen an idea with four questions: **Who urgently needs it? How do we know firs
 Dropbox emerged from Drew Houston's own need; Airbnb from its founders' need for rent; Stripe from programmers' frustration with payments. Stripe's unattractive schlep was also its protection from casual competitors.
 
 ## Relationships
-- **applies:** [[Secrets - How to Find What Everyone Else Has Missed]]
-- **applies:** [[Finding New Ideas - Work at the Fractal Edge of Knowledge]]
-- **related:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New Ideas - Work at the Fractal Edge of Knowledge|Finding New Ideas - Work at the Fractal Edge of Knowledge]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How to Find What Everyone Else Has Missed|Secrets - How to Find What Everyone Else Has Missed]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
 ## Source reference
-Paul Graham, “How to Get Startup Ideas,” “Organic Startup Ideas,” “Schlep Blindness,” and “How to Get New Ideas,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

@@ -6,20 +6,40 @@ type: "series-entry"
 domain: "business-strategy"
 series: "$100M Scaling Roadmap"
 lang: "zh"
-tags: [topic/scaling, source/acquisition-100m-roadmap, topic/advertising, topic/sales, topic/rule-of-100, person/alex-hormozi]
-source:
-  type: "pdf"
-  name: "$100M Scaling Roadmap（Personalized Guide）"
-  author: "Alex Hormozi / Acquisition.com"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/scaling,
+    source/acquisition-100m-roadmap,
+    topic/advertising,
+    topic/sales,
+    topic/rule-of-100,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0059"
+    role: "primary"
+    locator: "Stage 2"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
+relationships:
+  - type: derives-from
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
+  - type: is-prerequisite-for
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-3-Stabilize
+  - type: prerequisite
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-1-Monetize
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/網紅行銷引擎：以CPM反推的分散式機器
+  - type: related
+    target: 02-Social-Media-Strategy/短影音研究引擎、鉤子與格式
 ---
 
 # $100M 擴張路線圖 · Stage 2：Advertise 廣告
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
 
 > 系列導覽：[[$100M Scaling Roadmap Overview|總覽與方法論]]　｜　上一關：[[Stage-1-Monetize|Stage 1：Monetize 變現]]　｜　下一關：[[Stage-3-Stabilize|Stage 3：Stabilize 穩定]]
 
@@ -82,12 +102,13 @@ status: "reviewed"
 
 ## 關係
 
-- **related:** [[$100M Scaling Roadmap Overview|總覽與方法論]]
-- **prerequisite:** [[Stage-1-Monetize|Stage 1：Monetize 變現]]
-- **related:** [[Stage-3-Stabilize|Stage 3：Stabilize 穩定]]
-- **related:** [[網紅行銷引擎：以CPM反推的分散式機器]]（把行銷變成可預測系統的成熟版本）
-- **related:** [[短影音研究引擎、鉤子與格式]]（「加倍下注有效者」與只抄鉤子的同源邏輯）
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **衍生自:** [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
+- **是其前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-3-Stabilize|$100M 擴張路線圖 · Stage 3：Stabilize 穩定]]
+- **前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-1-Monetize|$100M 擴張路線圖 · Stage 1：Monetize 變現]]
+- **相關:** [[01-Business-Strategy/Traffic-and-Acquisition/網紅行銷引擎：以CPM反推的分散式機器|網紅行銷引擎：以CPM反推的分散式機器]]
+- **相關:** [[02-Social-Media-Strategy/短影音研究引擎、鉤子與格式|短影音研究引擎、鉤子與格式]]
 ## 來源
 
-$100M Scaling Roadmap（Personalized Guide），Stage 2，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap|$100M Scaling Roadmap（Personalized Guide）]] — locator: Stage 2

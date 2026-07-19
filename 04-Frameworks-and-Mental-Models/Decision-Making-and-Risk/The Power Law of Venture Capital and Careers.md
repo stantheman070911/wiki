@@ -3,20 +3,65 @@ title: "The Power Law of Venture Capital and Careers"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/power-law, topic/risk, topic/capital, topic/decision-making, topic/startups, person/peter-thiel, person/paul-graham, person/daniel-priestley, source/paul-graham-essays, source/daniel-priestley-youtube]
-source:
-  type: "book"
-  name: "Zero to One: Notes on Startups, or How to Build the Future"
-  author: "Peter Thiel with Blake Masters"
-  url: ""
-  date_of_source: "2014"
+tags:
+  [
+    topic/power-law,
+    topic/risk,
+    topic/capital,
+    topic/decision-making,
+    topic/startups,
+    person/peter-thiel,
+    person/paul-graham,
+    person/daniel-priestley,
+    source/paul-graham-essays,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0014"
+    role: "primary"
+    locator: "ch. 7"
+  - id: "SRC-0046"
+    role: "supporting"
+  - id: "SRC-0086"
+    role: "supporting"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: has-example
+    target: 05-Intelligence-and-Research/The Digital-Economy Income Shift - IP,
+      Media, Data, and Code
+  - type: is-applied-by
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation -
+      Measurement, Leverage, and Compressed Work
+  - type: is-applied-by
+    target: 01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is
+      Destiny - The Sales Channel Power Law
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
+      and Asymmetric Bets
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Increase the
+      Surface Area of Luck
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine
+      - Why Computers Complement Humans Instead of Replacing Them
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs.
+      Indefinite Optimism - Planning Your Way to the Future
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority
+      Rule - How Intransigent Preferences Dominate Flexible Majorities
 ---
 
 # The Power Law of Venture Capital and Careers
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 Venture returns (and by extension, most high-stakes bets — including your own career) don't follow a normal distribution where diversification averages out risk; they follow a power law where a tiny handful of outcomes dwarf everything else combined, which makes "spray and pray" diversification a losing strategy, not a safe one.
@@ -57,14 +102,20 @@ ask which one thing (market, skill, relationship, channel) is most likely to be 
 - Owning 0.01% of Google was worth more than $35M at time of writing — illustrating why joining the right company at a small ownership stake can beat founding a smaller, riskier one at 100% ownership.
 
 ## Relationships
-- **related:** [[Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
-- **related:** [[Distribution Is Destiny - The Sales Channel Power Law]]
-- **related:** [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
-- **related:** [[Fear, Regret, and Asymmetric Bets]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has example:** [[05-Intelligence-and-Research/The Digital-Economy Income Shift - IP, Media, Data, and Code|The Digital-Economy Income Shift - IP, Media, Data, and Code]]
+- **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation - Measurement, Leverage, and Compressed Work|Wealth Creation - Measurement, Leverage, and Compressed Work]]
+- **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly|Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law|Distribution Is Destiny - The Sales Channel Power Law]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Increase the Surface Area of Luck|Increase the Surface Area of Luck]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine - Why Computers Complement Humans Instead of Replacing Them|Man and Machine - Why Computers Complement Humans Instead of Replacing Them]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs. Indefinite Optimism - Planning Your Way to the Future|Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities|The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
 ## Source reference
-Peter Thiel with Blake Masters, *Zero to One*, ch. 7 ("Follow the Money"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.
 
-Paul Graham, “Superlinear Returns,” “Black Swan Farming,” “A Way to Detect Bias,” and “The Power of the Marginal,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
-
-Additional source: Daniel Priestley, *AI and the Digital Income Shift*, [[2026-07-13_Video_DanielPriestley_AIAndTheDigitalIncomeShift_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 7
+- **supporting:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_AIAndTheDigitalIncomeShift_RawTranscript|AI and the Digital Income Shift - Raw Transcript]]

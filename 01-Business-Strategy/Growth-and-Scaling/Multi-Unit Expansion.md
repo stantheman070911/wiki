@@ -1,24 +1,73 @@
 ---
-title: "Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital"
+title: "Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising
+  Is Expensive Capital"
 aliases:
-  - "Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital"
+  - "Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is
+    Expensive Capital"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/scaling, topic/franchise, topic/licensing, topic/capital, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/scaling,
+    topic/franchise,
+    topic/licensing,
+    topic/capital,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
+  - id: "SRC-0074"
+    role: "supporting"
+  - id: "SRC-0042"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor
+      Dilution Problem - Four Ways to Scale Past Yourself
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
+      Filter - Stay, Scale, or Burn It Down
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders -
+      Reverse-Engineer OTE, Profit Pools, and Phantom Equity
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business
+      - The 50% Hire and Buying Back Time
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/打造不依賴創辦人的商業模式：從賣時間到賣系統
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/選擇權與退出心態：Soft-Shop、三種成長路徑與
+      Phantom Equity
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
+      Manufacturing as the Moat
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build
+      the Business as the Product
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle -
+      Infancy, Adolescence, and Maturity
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You
+      Can't Control Price
+  - type: related
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-2-連鎖類型與內創委任經營
+  - type: related
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-7-招商加盟與組織人才
+  - type: related
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
 ---
 
 # Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Don't open the next location until the current one is maxed and runs without you — prove it with the founder-replacement test (open a unit per quarter with a team that isn't you) — and understand that franchising is the most expensive capital there is, so only reach for it when you actually need capital you can't otherwise raise.
@@ -64,13 +113,24 @@ A premium nail salon in AMA 3 added the economic-independence test: its reported
 - Overexpansion is far harder to undo than to avoid; an extra year spent nailing the model often shaves years off the back end.
 
 ## Relationships
-- **applies:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- **related:** [[Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
-- **related:** [[Compete on Efficiency When You Can't Control Price]]
-- **related:** [[選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
-- **related:** [[The Factory Is the Product - Manufacturing as the Moat]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor Dilution Problem - Four Ways to Scale Past Yourself|The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity|Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time|You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/打造不依賴創辦人的商業模式：從賣時間到賣系統|打造不依賴創辦人的商業模式：從賣時間到賣系統]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity|選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build the Business as the Product|The Franchise Prototype - Build the Business as the Product]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle - Infancy, Adolescence, and Maturity|The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You Can't Control Price|Compete on Efficiency When You Can't Control Price]]
+- **Related:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-2-連鎖類型與內創委任經營|連鎖經營學 · Module 2：連鎖類型與內部創業／委任經營]]
+- **Related:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-7-招商加盟與組織人才|連鎖經營學 · Module 7：招商加盟與組織人才]]
+- **Related:** [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
 
-Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]
+- **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

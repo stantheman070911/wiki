@@ -3,20 +3,45 @@ title: "Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/offers, topic/value-equation, topic/product, topic/sales, person/alex-hormozi]
-source:
-  type: "book"
-  name: "$100M Offers"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: "2021"
+tags:
+  [
+    topic/offers,
+    topic/value-equation,
+    topic/product,
+    topic/sales,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0021"
+    role: "primary"
+    locator: "Parts 1–2"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
+      Slam Offer
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Framework for Making Frameworks - Distill by Commonality
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal -
+      The Guarantee Toolkit
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and
+      Urgency - Engineering Demand with Supply and Deadlines
+  - type: is-applied-by
+    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
+      Slam Offer
 ---
 
 # Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 The repeatable procedure for constructing an offer: name the dream outcome, brainstorm every problem between the buyer and it, convert each into a delivery vehicle, then trim the low-value/high-cost pieces and stack the rest into one named package.
@@ -54,10 +79,14 @@ Same solution, many delivery costs and perceived values — that variety is what
 - A weight-loss offer's problem list starts at "buying healthy food is hard/expensive/time-consuming/unsustainable" and cascades through cooking, eating, and exercising — each reversed into a "how to…" solution before choosing delivery.
 
 ## Relationships
-- **applies:** [[The Value Equation and the Grand Slam Offer]]
-- **related:** [[Risk Reversal - The Guarantee Toolkit]]
-- **related:** [[Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
-- **related:** [[The Framework for Making Frameworks - Distill by Commonality]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Framework for Making Frameworks - Distill by Commonality|The Framework for Making Frameworks - Distill by Commonality]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal - The Guarantee Toolkit|Risk Reversal - The Guarantee Toolkit]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and Urgency - Engineering Demand with Supply and Deadlines|Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
+- **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
 ## Source reference
-Alex Hormozi, *$100M Offers* (2021), "Creating Your Grand Slam Offer" (Parts 1–2). Raw transcript archived at [[2026-07-18_Book_AlexHormozi_100MOffers_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MOffers_RawTranscript|$100M Offers]] — locator: Parts 1–2

@@ -6,20 +6,42 @@ type: "series-entry"
 domain: "business-strategy"
 series: "連鎖經營學"
 lang: "zh"
-tags: [topic/chain-store, topic/franchise, topic/org-design, topic/hiring, topic/unit-economics, topic/operations, person/chen-tsung-hsien]
-source:
-  type: "presentation"
-  name: "陳宗賢的連鎖經營學（7-1〜7-7）"
-  author: "陳宗賢"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/chain-store,
+    topic/franchise,
+    topic/org-design,
+    topic/hiring,
+    topic/unit-economics,
+    topic/operations,
+    person/chen-tsung-hsien
+  ]
+sources:
+  - id: "SRC-0044"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
+relationships:
+  - type: derives-from
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
+  - type: is-prerequisite-for
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-8-財務會計與獲利核心
+  - type: prerequisite
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-2-連鎖類型與內創委任經營
+  - type: prerequisite
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-6-物流與供應鏈周轉
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
 ---
 
 # 連鎖經營學 · Module 7：招商加盟與組織人才
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
 
 > 系列導覽：[[連鎖經營學總覽|總覽與方法論]]　｜　上一模組：[[Module-6-物流與供應鏈周轉|Module 6]]　｜　下一模組：[[Module-8-財務會計與獲利核心|Module 8]]
 
@@ -73,13 +95,14 @@ status: "reviewed"
 
 ## 關係
 
-- **related:** [[連鎖經營學總覽|總覽與方法論]]
-- **prerequisite:** [[Module-2-連鎖類型與內創委任經營|Module 2：連鎖類型與內創委任經營]]
-- **prerequisite:** [[Module-6-物流與供應鏈周轉|Module 6：物流與供應鏈周轉]]
-- **related:** [[Module-8-財務會計與獲利核心|Module 8：財務會計與獲利核心]]
-- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- **related:** [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **衍生自:** [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
+- **是其前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-8-財務會計與獲利核心|連鎖經營學 · Module 8：財務會計與獲利核心]]
+- **前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-2-連鎖類型與內創委任經營|連鎖經營學 · Module 2：連鎖類型與內部創業／委任經營]]
+- **前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-6-物流與供應鏈周轉|連鎖經營學 · Module 6：物流管理與供應鏈周轉]]
+- **相關:** [[01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion|Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
+- **相關:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing|Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
 ## 來源
 
-陳宗賢，《連鎖經營學》課程。39 份投影片文字擷取與 10 份 Excel 管理表單詳見 [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]

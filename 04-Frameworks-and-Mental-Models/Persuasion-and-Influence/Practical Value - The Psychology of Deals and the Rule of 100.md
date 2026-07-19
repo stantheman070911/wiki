@@ -3,20 +3,58 @@ title: "Practical Value - The Psychology of Deals and the Rule of 100"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/word-of-mouth, topic/pricing, topic/persuasion, topic/decision-making, person/jonah-berger, source/contagious]
-source:
-  type: "book"
-  name: "Contagious: Why Things Catch On"
-  author: "Jonah Berger"
-  url: ""
-  date_of_source: "2013"
+tags:
+  [
+    topic/word-of-mouth,
+    topic/pricing,
+    topic/persuasion,
+    topic/decision-making,
+    person/jonah-berger,
+    source/contagious
+  ]
+sources:
+  - id: "SRC-0033"
+    role: "primary"
+    locator: "ch. 5"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: "2026-07-18"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
+      Framework - Six Drivers of Word of Mouth
+  - type: contrast
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
+      Rule of 100 - Lead Generation Fundamentals
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points
+      - Anchor a New Position to What's Already Believed
+  - type: is-applied-by
+    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
+      Unscalable Premium Offer
+  - type: is-applied-by
+    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
+      Slam Offer
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Ackerman
+      Bargaining System - Calibrated Concessions and Exact Numbers
+  - type: is-applied-by
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
+      Framework - Six Drivers of Word of Mouth
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Bend Their
+      Reality - Loss, Fairness, Deadlines, and Anchors
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
+      Liking, Authority, and Scarcity - The Four Social Shortcuts
 ---
 
 # Practical Value - The Psychology of Deals and the Rule of 100
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 People share genuinely useful "news you can use" to help others — and whether a deal *feels* good depends not on its real size but on reference points, framing, and the Rule of 100.
@@ -52,12 +90,18 @@ Perceived value follows Kahneman & Tversky's **prospect theory**:
 - Target content at the narrowest audience that genuinely fits; package useful knowledge into short, forwardable, single-topic bundles.
 
 ## Relationships
-- **applies:** [[The STEPPS Framework - Six Drivers of Word of Mouth]]
-- **contrast:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
-- **related:** [[Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
-- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
-- **related:** [[The Value Equation and the Grand Slam Offer]]
-- **related:** [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
+- **Contrast:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points - Anchor a New Position to What's Already Believed|Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
+- **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
+- **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers|The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Bend Their Reality - Loss, Fairness, Deadlines, and Anchors|Bend Their Reality - Loss, Fairness, Deadlines, and Anchors]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
 ## Source reference
-Jonah Berger, *Contagious: Why Things Catch On* (Simon & Schuster, 2013), ch. 5. Extraction notes in [[2026-07-18_Book_JonahBerger_Contagious]]; full text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_JonahBerger_Contagious|Contagious: Why Things Catch On]] — locator: ch. 5

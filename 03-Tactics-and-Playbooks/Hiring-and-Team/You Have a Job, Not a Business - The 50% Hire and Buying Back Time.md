@@ -3,20 +3,61 @@ title: "You Have a Job, Not a Business - The 50% Hire and Buying Back Time"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/hiring, topic/delegation, topic/scaling, person/sabri-suby, person/michael-gerber, source/e-myth-revisited]
-source:
-  type: "video"
-  name: "11 Brutal Truths To Grow Your Business Fast"
-  author: "Sabri Suby"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/hiring,
+    topic/delegation,
+    topic/scaling,
+    person/sabri-suby,
+    person/michael-gerber,
+    source/e-myth-revisited
+  ]
+sources:
+  - id: "SRC-0084"
+    role: "primary"
+  - id: "SRC-0011"
+    role: "supporting"
+    locator: "chapters 3–6"
 date_added: "2026-07-12"
 updated: "2026-07-12"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Employment
+      Dependence Trade - Reliability, Freedom, and Hidden Hostages
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Lifestyle
+      Boutique Operating Model - Team, Product Ecosystem, and Campaigns
+  - type: applies
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default
+      Dead - Runway, Growth, and the Fatal Pinch
+  - type: applies
+    target: 01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion
+  - type: applies
+    target: 01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle -
+      Infancy, Adolescence, and Maturity
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth
+      Owner-Role Triad - Entrepreneur, Manager, and Technician
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80%
+      Mindset - Risk Tolerance and Refusing to Quit
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
+      - Who-Not-How and Planning Backward From the Goal
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
+      Organizations
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
+      - SOPs, Checklists, and Systematizing the Vital 20%
 ---
 
 # You Have a Job, Not a Business - The 50% Hire and Buying Back Time
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Until you hire a team you don't own a business, you own a job — and the thing keeping most founders trapped is measuring every candidate against their own efficiency instead of hiring people who are "only" 50% as good and buying back their time.
@@ -53,14 +94,20 @@ The most common complaint among owners is "I can't find good people." Because th
 - Suby selling all day and doing client work every evening until he had 70 clients — unsustainable. His first account manager didn't need his depth, bought back ~100 hours/month, and those hours went into building a sales team and process — turning a one-man agency into a scalable business.
 
 ## Relationships
-- **applies:** [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
-- **related:** [[Special-Forces Teams and Flat Organizations]]
-- **applies:** [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
-- **applies:** [[Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]]
-- **applies:** [[The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician]]
-- **applies:** [[The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages|The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages]]
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns|The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns]]
+- **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch|Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
+- **Applies:** [[01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion|Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
+- **Applies:** [[01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle - Infancy, Adolescence, and Maturity|The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician|The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80% Mindset - Risk Tolerance and Refusing to Quit|Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%|Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
 ## Source reference
-Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #3). Raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].
 
-Additional source: Michael E. Gerber, *The E-Myth Revisited*, chapters 3–6, [[2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript|The E-Myth Revisited - Raw Transcript]] — locator: chapters 3–6

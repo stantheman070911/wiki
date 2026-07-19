@@ -6,20 +6,42 @@ type: "series-entry"
 domain: "business-strategy"
 series: "連鎖經營學"
 lang: "zh"
-tags: [topic/chain-store, topic/product, topic/unit-economics, topic/scaling, person/chen-tsung-hsien]
-source:
-  type: "presentation"
-  name: "陳宗賢的連鎖經營學（4-1〜4-5）"
-  author: "陳宗賢"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/chain-store,
+    topic/product,
+    topic/unit-economics,
+    topic/scaling,
+    person/chen-tsung-hsien
+  ]
+sources:
+  - id: "SRC-0044"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
+relationships:
+  - type: derives-from
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
+  - type: is-prerequisite-for
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-5-商圈開發與市場行銷
+  - type: is-prerequisite-for
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-8-財務會計與獲利核心
+  - type: prerequisite
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-3-品牌四大共識與市場定位
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
+      Manufacturing as the Moat
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
+      Unscalable Premium Offer
 ---
 
 # 連鎖經營學 · Module 4：商品規劃與獲利結構
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
 
 > 系列導覽：[[連鎖經營學總覽|總覽與方法論]]　｜　上一模組：[[Module-3-品牌四大共識與市場定位|Module 3]]　｜　下一模組：[[Module-5-商圈開發與市場行銷|Module 5]]
 
@@ -79,12 +101,14 @@ status: "reviewed"
 
 ## 關係
 
-- **related:** [[連鎖經營學總覽|總覽與方法論]]
-- **prerequisite:** [[Module-3-品牌四大共識與市場定位|Module 3：品牌四大共識與市場定位]]
-- **related:** [[Module-8-財務會計與獲利核心|Module 8：財務會計與獲利核心]]
-- **related:** [[The Factory Is the Product - Manufacturing as the Moat]]
-- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **衍生自:** [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
+- **是其前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-5-商圈開發與市場行銷|連鎖經營學 · Module 5：商圈開發與市場行銷]]
+- **是其前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-8-財務會計與獲利核心|連鎖經營學 · Module 8：財務會計與獲利核心]]
+- **前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-3-品牌四大共識與市場定位|連鎖經營學 · Module 3：品牌四大共識與市場定位]]
+- **相關:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]
+- **相關:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
 ## 來源
 
-陳宗賢，《連鎖經營學》課程。39 份投影片文字擷取與 10 份 Excel 管理表單詳見 [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]

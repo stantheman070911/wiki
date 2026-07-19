@@ -1,12 +1,17 @@
 ---
+source_id: "SRC-0032"
 title: "Measure What Matters"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "John Doerr"
+    role: "author"
 source_type: "book"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "John Doerr"
+published_on: "2018"
 date_archived: "2026-07-18"
 status: "source"
 ---

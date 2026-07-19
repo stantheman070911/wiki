@@ -1,24 +1,39 @@
 ---
-title: "Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone"
+title: "Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the
+  Wealth Zone"
 aliases:
-  - "Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone"
+  - "Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the
+    Wealth Zone"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/courage, topic/risk, person/t-harv-eker]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags: [ topic/mindset, topic/courage, topic/risk, person/t-harv-eker ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Bigger Than Your
+      Problems vs. Smaller Than Your Problems
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
+      Confidence
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Committed to Rich
+      vs. Wanting to Be Rich - The Three Levels of Wanting
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on
+      Opportunities vs. Focus on Obstacles - Ready, Fire, Aim
 ---
 
 # Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 Rich and poor people both experience fear, doubt, and worry equally — the entire difference is that rich people act anyway, because action, not the absence of fear, is the bridge between an inner intention and an outer result.
@@ -40,9 +55,13 @@ Wealth File #16. Eker returns to the Process of Manifestation (thoughts→feelin
 - Practice "power thinking": when a nonsupportive thought arises, consciously label it ("cancel," or "thank you for sharing") and replace it with a more useful one — distinct from positive thinking because it doesn't require believing the new thought is objectively true, only that it's more useful than the old one.
 
 ## Relationships
-- **related:** [[Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting]]
-- **related:** [[Bigger Than Your Problems vs. Smaller Than Your Problems]]
-- **related:** [[Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Bigger Than Your Problems vs. Smaller Than Your Problems|Bigger Than Your Problems vs. Smaller Than Your Problems]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting|Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim|Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #16. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

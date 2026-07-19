@@ -3,20 +3,42 @@ title: "Replace, Don't Fight, a Habit"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/systems, topic/consistency, topic/mindset, topic/identity, topic/execution, person/steven-bartlett]
-source:
-  type: "book"
-  name: "The Diary of a CEO - The 33 Laws of Business and Life"
-  author: "Steven Bartlett"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/systems,
+    topic/consistency,
+    topic/mindset,
+    topic/identity,
+    topic/execution,
+    person/steven-bartlett
+  ]
+sources:
+  - id: "SRC-0017"
+    role: "primary"
+    locator: "Law 8"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
+      to Do
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/行為主義、風險定價與環境設計
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and
+      Systems - The Two Psychological Shifts Behind Consistent Revenue
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
+      - The Zero-Follower Consistency Engine
 ---
 
 # Replace, Don't Fight, a Habit
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Break a bad habit by preserving its cue and purpose while substituting a less harmful routine and reward; suppression keeps attention fixed on the behavior and drains limited self-control.
@@ -53,10 +75,13 @@ Use the **Replace the Loop protocol**:
 Bartlett’s father smoked only in his car. Once he recognized the car as the cue, he removed the cigarettes and put miniature lollipops in the same container. He retained the reach-and-reward sequence while replacing the harmful routine.
 
 ## Relationships
-- **related:** [[Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue]]
-- **related:** [[行為主義、風險定價與環境設計]]
-- **related:** [[Do What You Set Out to Do]]
-- **related:** [[Process as the Goal - The Zero-Follower Consistency Engine]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/行為主義、風險定價與環境設計|行為主義、風險定價與環境設計]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue|Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal - The Zero-Follower Consistency Engine|Process as the Goal - The Zero-Follower Consistency Engine]]
 ## Source reference
-Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 8. Raw transcript archived in [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 8

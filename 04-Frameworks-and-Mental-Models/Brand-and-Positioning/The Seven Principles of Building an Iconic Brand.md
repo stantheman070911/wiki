@@ -3,20 +3,40 @@ title: "The Seven Principles of Building an Iconic Brand"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/personal-brand, topic/consistency, topic/mindset, topic/simplicity]
-source:
-  type: "video"
-  name: "Building an Iconic Personal Brand (seven core principles)"
-  author: ""
-  url: ""
-  date_of_source: ""
+tags: [ topic/personal-brand, topic/consistency, topic/mindset, topic/simplicity ]
+sources:
+  - id: "SRC-0061"
+    role: "primary"
 date_added: "2026-07-02"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/業績公式與商業定位：從流量思維到變現路徑
+  - type: is-applied-by
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-3-品牌四大共識與市場定位
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a
+      Brand Signal
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
+      Actually Is - Association, Influence, Direction, Reach
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for
+      Makers - Constraints for Designing Good Things
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/決策、幸福與心智管理
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/創作心態：六大陷阱與執行路線圖
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/身份、故事與致勝三步
 ---
 
 # The Seven Principles of Building an Iconic Brand
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 Iconic brands are built, not born — they emerge from decades of devotion to a craft, not from chasing metrics, money, or audience approval.
@@ -62,10 +82,17 @@ Survivorship bias: the examples cited (Nvidia, MrBeast, Jordan, Jobs) are extrem
 Principle 4 ("the audience comes last") sits in direct tension with 陳修平's explicit "以市場為中心" stance in [[業績公式與商業定位：從流量思維到變現路徑]] ("拍平台算法想推的" rather than "拍我想拍的"). This is not a one-off disagreement — Naval Ravikant's "find what feels like play to you" ([[財富公式：專屬知識、槓桿與判斷力]]) and Bloom Nutrition's "give creators creative freedom, rigid briefs kill reach" ([[網紅行銷引擎：以CPM反推的分散式機器]]) sit on the same side as this entry. See the tension note in [[業績公式與商業定位：從流量思維到變現路徑]] for a suggested reconciliation.
 
 ## Relationships
-- **related:** [[創作心態：六大陷阱與執行路線圖]]
-- **related:** [[決策、幸福與心智管理]]
-- **related:** [[身份、故事與致勝三步]]
-- **related:** [[業績公式與商業定位：從流量思維到變現路徑]]（框架張力：市場中心 vs 創作者本位）
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/業績公式與商業定位：從流量思維到變現路徑|業績公式與商業定位：從流量思維到變現路徑]]
+- **Is applied by:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-3-品牌四大共識與市場定位|連鎖經營學 · Module 3：品牌四大共識與市場定位]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a Brand Signal|Absurdity as a Brand Signal]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for Makers - Constraints for Designing Good Things|Taste for Makers - Constraints for Designing Good Things]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/決策、幸福與心智管理|決策、幸福與心智管理]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/創作心態：六大陷阱與執行路線圖|創作心態：六大陷阱與執行路線圖]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/身份、故事與致勝三步|身份、故事與致勝三步]]
 ## Source reference
-"Building an Iconic Personal Brand" (video transcript, seven core principles). Full notes archived at [[2026-07-02_Video_BuildingAnIconicPersonalBrand]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-02_Video_BuildingAnIconicPersonalBrand|Building An Iconic Personal Brand]]

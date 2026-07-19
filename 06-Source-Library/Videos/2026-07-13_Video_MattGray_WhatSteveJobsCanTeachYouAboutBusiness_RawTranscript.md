@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0106"
 title: "What Steve Jobs Can Teach You About Business - Raw Transcript"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Matt Gray"
+    role: "creator"
 source_type: "video"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Matt Gray"
 date_archived: "2026-07-13"
 status: "source"
 ---

@@ -3,20 +3,47 @@ title: "Calibrated Questions - How and What Create the Illusion of Control"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/persuasion, topic/influence, topic/decision-making, topic/sales, person/chris-voss, person/tahl-raz, source/never-split-the-difference]
-source:
-  type: "book"
-  name: "Never Split the Difference"
-  author: "Chris Voss with Tahl Raz"
-  url: ""
-  date_of_source: "2016"
+tags:
+  [
+    topic/persuasion,
+    topic/influence,
+    topic/decision-making,
+    topic/sales,
+    person/chris-voss,
+    person/tahl-raz,
+    source/never-split-the-difference
+  ]
+sources:
+  - id: "SRC-0028"
+    role: "primary"
+    locator: "Chapter 7"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Problem-Centric
+      Discovery - Four Question Types and the CRM Challenge
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Black Swans -
+      Find Unknown Unknowns and Hidden Leverage
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Guarantee
+      Execution - How, the Rule of Three, and Hidden Players
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No -
+      Protect Autonomy to Start the Real Negotiation
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Mirroring and
+      Voice - Slow the Negotiation and Keep Them Talking
 ---
 
 # Calibrated Questions - How and What Create the Illusion of Control
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 Ask carefully designed “How” and “What” questions that make the counterpart solve your problem while experiencing autonomy and control.
@@ -52,12 +79,14 @@ Build questions with **Direction–Calibration–Delivery–Follow-through**:
 A consultant whose client kept assigning work without paying summarized the situation and asked, “How am I supposed to do that?” The client apologized, disclosed an internal accounting problem, provided a new contact, and paid within forty-eight hours.
 
 ## Relationships
-- **related:** [[Master No - Protect Autonomy to Start the Real Negotiation]]
-- **related:** [[Guarantee Execution - How, the Rule of Three, and Hidden Players]]
-- **related:** [[Problem-Centric Discovery - Four Question Types and the CRM Challenge]]
-- **related:** [[Mirroring and Voice - Slow the Negotiation and Keep Them Talking]]
 
-- **related:** [[Black Swans - Find Unknown Unknowns and Hidden Leverage]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Problem-Centric Discovery - Four Question Types and the CRM Challenge|Problem-Centric Discovery - Four Question Types and the CRM Challenge]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Black Swans - Find Unknown Unknowns and Hidden Leverage|Black Swans - Find Unknown Unknowns and Hidden Leverage]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Guarantee Execution - How, the Rule of Three, and Hidden Players|Guarantee Execution - How, the Rule of Three, and Hidden Players]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No - Protect Autonomy to Start the Real Negotiation|Master No - Protect Autonomy to Start the Real Negotiation]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Mirroring and Voice - Slow the Negotiation and Keep Them Talking|Mirroring and Voice - Slow the Negotiation and Keep Them Talking]]
 ## Source reference
-Chris Voss with Tahl Raz, *Never Split the Difference* (2016), Chapter 7 and Appendix. Raw transcript archived in [[2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapter 7

@@ -1,24 +1,50 @@
 ---
-title: "Kaizen and the Progress Principle - Small Wins, Course Corrections, and Motivation"
+title: "Kaizen and the Progress Principle - Small Wins, Course Corrections, and
+  Motivation"
 aliases:
-  - "Kaizen and the Progress Principle - Small Wins, Course Corrections, and Motivation"
+  - "Kaizen and the Progress Principle - Small Wins, Course Corrections, and
+    Motivation"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/systems, topic/operations, topic/feedback, topic/execution, topic/consistency, topic/leadership, person/steven-bartlett]
-source:
-  type: "book"
-  name: "The Diary of a CEO - The 33 Laws of Business and Life"
-  author: "Steven Bartlett"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/systems,
+    topic/operations,
+    topic/feedback,
+    topic/execution,
+    topic/consistency,
+    topic/leadership,
+    person/steven-bartlett
+  ]
+sources:
+  - id: "SRC-0017"
+    role: "primary"
+    locator: "Laws 19, 20"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements
+      to Your Machine to Get Around Your Problems
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
+      Discipline - Freedom, Responsibility, and Stop-Doing Lists
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
+      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Flywheel
+      and the Doom Loop - Compound Momentum in One Direction
 ---
 
 # Kaizen and the Progress Principle - Small Wins, Course Corrections, and Motivation
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Make improvement a recurring team process: define the standard, invite small changes from the people closest to the work, implement and broadcast visible wins, and correct small deviations before they compound.
@@ -60,10 +86,13 @@ Support the loop with regular one-to-one and team check-ins that ask: What is sl
 Toyota’s kaizen system made improvement part of every worker’s job and used supervisors as idea coaches. At the NUMMI plant, largely the same workforce and equipment produced radically better quality once authority, training, and improvement routines changed. British Cycling applied marginal gains across equipment, hygiene, sleep, and training, creating both performance improvement and a shared narrative of progress.
 
 ## Relationships
-- **related:** [[The Flywheel and the Doom Loop - Compound Momentum in One Direction]]
-- **related:** [[Design Improvements to Your Machine to Get Around Your Problems]]
-- **related:** [[A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
-- **related:** [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements to Your Machine to Get Around Your Problems|Design Improvements to Your Machine to Get Around Your Problems]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)|The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Flywheel and the Doom Loop - Compound Momentum in One Direction|The Flywheel and the Doom Loop - Compound Momentum in One Direction]]
 ## Source reference
-Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Laws 19, 20, and 31. Raw transcript archived in [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Laws 19, 20

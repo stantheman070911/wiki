@@ -3,20 +3,49 @@ title: "Interest Media and the Zero-Follower Reach Model"
 type: "strategy"
 domain: "social-media-strategy"
 lang: "en"
-tags: [topic/marketing, topic/distribution, topic/reach, topic/volume, person/gary-vaynerchuk]
-source:
-  type: "video"
-  name: "The New Rules of Social Media (2026)"
-  author: "Gary Vaynerchuk"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/marketing,
+    topic/distribution,
+    topic/reach,
+    topic/volume,
+    person/gary-vaynerchuk
+  ]
+sources:
+  - id: "SRC-0056"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 02-Social-Media-Strategy/Social Media Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
+      - The Zero-Follower Consistency Engine
+  - type: has-example
+    target: 05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era
+      Moat
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder -
+      Fixing Views, Formats, and Timing
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall
+      Distribution Method - One Pillar, a Week of Content
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and
+      Monetization - The Give-Content, Ask-Ads Model
+  - type: related
+    target: 02-Social-Media-Strategy/The AI-Era Content Barbell
+  - type: related
+    target: 02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架
+  - type: related
+    target: 02-Social-Media-Strategy/對標方法論與靈感池系統
 ---
 
 # Interest Media and the Zero-Follower Reach Model
+
+> **Up:** [[Home|Home]] → [[02-Social-Media-Strategy/Social Media Strategy Index|Social Media Strategy]]
 
 ## One-line summary
 Feeds now distribute by interest, not by who you follow, so followers no longer gate reach — the merit of the single post wins, which means you test everything organically first and only put paid media behind the pieces that beat your view norm.
@@ -52,11 +81,17 @@ This turns the organic feed into a free, real-market pre-test and stops money be
 - He runs a distributed machine: multiple handles (GaryVee, "GaryVee on podcast," "Uncle V") heading toward 1,000+ accounts, and claims 432 posts in a single day — an agency-scale illustration of reach-without-followers.
 
 ## Relationships
-- **related:** [[品牌即媒體公司：注意力到信任框架]]
-- **related:** [[The Attention Barbell - Brand as the AI-Era Moat]]
-- **related:** [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
-- **related:** [[對標方法論與靈感池系統]]
-- **applies:** [[Process as the Goal - The Zero-Follower Consistency Engine]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal - The Zero-Follower Consistency Engine|Process as the Goal - The Zero-Follower Consistency Engine]]
+- **Has example:** [[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat|The Attention Barbell - Brand as the AI-Era Moat]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing|Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall Distribution Method - One Pillar, a Week of Content|The Waterfall Distribution Method - One Pillar, a Week of Content]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model|Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
+- **Related:** [[02-Social-Media-Strategy/The AI-Era Content Barbell|The AI-Era Content Barbell - Raw Shorts, Produced Long Form, and Live Interaction]]
+- **Related:** [[02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架|品牌即媒體公司：注意力到信任框架]]
+- **Related:** [[02-Social-Media-Strategy/對標方法論與靈感池系統|對標方法論與靈感池系統]]
 ## Source reference
-Gary Vaynerchuk, *The New Rules of Social Media (2026)*. Extraction notes in [[2026-07-08_Talk_GaryVaynerchuk_NewRulesOfSocialMedia2026]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Podcasts/2026-07-08_Talk_GaryVaynerchuk_NewRulesOfSocialMedia2026|New Rules of Social Media 2026]]

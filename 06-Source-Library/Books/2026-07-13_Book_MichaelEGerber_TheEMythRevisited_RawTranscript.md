@@ -1,12 +1,17 @@
 ---
+source_id: "SRC-0011"
 title: "The E-Myth Revisited - Raw Transcript"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Michael E. Gerber"
+    role: "author"
 source_type: "book"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Michael E. Gerber"
+published_on: "1995"
 date_archived: "2026-07-13"
 status: "source"
 ---

@@ -5,20 +5,54 @@ aliases:
 type: "research"
 domain: "intelligence-and-research"
 lang: "en"
-tags: [topic/ai, topic/personal-brand, topic/brand, topic/risk, person/alex-hormozi]
-source:
-  type: "podcast"
-  name: "Alex Hormozi — Building a Personal Brand in 2026"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/ai,
+    topic/personal-brand,
+    topic/brand,
+    topic/risk,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0050"
+    role: "primary"
 date_added: "2026-07-02"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 05-Intelligence-and-Research/Intelligence and Research Index
+relationships:
+  - type: example
+    target: 02-Social-Media-Strategy/Levels of a Personal Brand and the Five Archetypes
+  - type: example
+    target: 02-Social-Media-Strategy/The AI-Era Content Barbell
+  - type: example
+    target: 02-Social-Media-Strategy/可信度行銷與公開建構
+  - type: example
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
+      Create - Engineering Proof at Scale
+  - type: example
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
+      Actually Is - Association, Influence, Direction, Reach
+  - type: example
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
+      Liking, Authority, and Scarcity - The Four Social Shortcuts
+  - type: related
+    target: 05-Intelligence-and-Research/AI、資料與內容的賭注理論
+  - type: related
+    target: 05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and
+      Human Escalation
+  - type: related
+    target: 05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era
+      Moat
+  - type: related
+    target: 05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA,
+      and Risk as the Last Human Job
 ---
 
 # The Risk Continuum: Building an AI-Resistant Personal Brand
+
+> **Up:** [[Home|Home]] → [[05-Intelligence-and-Research/Intelligence and Research Index|Intelligence and Research]]
 
 ## One-line summary
 AI disrupts creators from lowest risk to highest, in that order — your defensibility is a function of demonstrable proof, not content quality.
@@ -67,8 +101,19 @@ Note: AI taking live calls convincingly is likely only 1-2 years away, so real-t
 - Don't wait for perfect credentials to start demonstrating — even a small, real, verifiable result beats a polished but unproven claim.
 
 ## Relationships
-- **related:** [[AI、資料與內容的賭注理論]] (Hormozi's earlier "stakes theory" framework — this entry is a more granular, tiered elaboration of the same core idea: higher stakes require higher human credibility)
-- **example:** [[可信度行銷與公開建構]] (Bloom Nutrition's practical application of building public proof and credibility)
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Example:** [[02-Social-Media-Strategy/Levels of a Personal Brand and the Five Archetypes|Levels of a Personal Brand and the Five Archetypes]]
+- **Example:** [[02-Social-Media-Strategy/The AI-Era Content Barbell|The AI-Era Content Barbell - Raw Shorts, Produced Long Form, and Live Interaction]]
+- **Example:** [[02-Social-Media-Strategy/可信度行銷與公開建構|可信度行銷與公開建構]]
+- **Example:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]
+- **Example:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **Example:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
+- **Related:** [[05-Intelligence-and-Research/AI、資料與內容的賭注理論|AI、資料與內容的賭注理論]]
+- **Related:** [[05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and Human Escalation|ChatGPT Advertising - Intent, Memory, and Human Escalation]]
+- **Related:** [[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat|The Attention Barbell - Brand as the AI-Era Moat]]
+- **Related:** [[05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job|Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
 ## Source reference
-Alex Hormozi, "Building a Personal Brand in 2026" (podcast transcript). Full notes archived at [[2026-07-02_Podcast_AlexHormozi_PersonalBrandVsAI]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Podcasts/2026-07-02_Podcast_AlexHormozi_PersonalBrandVsAI|Personal Brand vs. AI]]

@@ -3,20 +3,53 @@ title: "Taste for Makers - Constraints for Designing Good Things"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/innovation, topic/simplicity, topic/product, topic/feedback, topic/skills, topic/creativity, person/paul-graham, person/rick-rubin, source/paul-graham-essays]
-source:
-  type: "essay collection"
-  name: "Paul Graham - Collected Essays"
-  author: "Paul Graham"
-  url: "https://paulgraham.com/articles.html"
-  date_of_source: "2002-2024"
+tags:
+  [
+    topic/innovation,
+    topic/simplicity,
+    topic/product,
+    topic/feedback,
+    topic/skills,
+    topic/creativity,
+    person/paul-graham,
+    person/rick-rubin,
+    source/paul-graham-essays
+  ]
+sources:
+  - id: "SRC-0046"
+    role: "primary"
+  - id: "SRC-0016"
+    role: "supporting"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
+      Product-Discovery Loop - Launch, Learn, Evolve, Delight
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative
+      Experiments - Opposites, Constraints, A-B Tests, and Context
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Seven
+      Principles of Building an Iconic Brand
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles
+      Thinking - Reason from Physics, Not Analogy
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Success -
+      Judge the Work Before the Outcome
 ---
 
 # Taste for Makers - Constraints for Designing Good Things
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Good design is not arbitrary preference: it is simple, timeless, structurally correct, suggestive, and repeatedly revised by a maker whose taste stays ahead of the current execution.
@@ -50,13 +83,16 @@ Review a design through six lenses: **function, simplicity, coherence, durabilit
 Programming languages, paintings, mathematical proofs, and physical products share recurring design virtues despite different media. This cross-domain recurrence is evidence that taste tracks properties beyond personal preference.
 
 ## Relationships
-- **related:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
-- **related:** [[The Seven Principles of Building an Iconic Brand]]
-- **related:** [[First-Principles Thinking - Reason from Physics, Not Analogy]]
-- **related:** [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
-- **related:** [[The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Seven Principles of Building an Iconic Brand|The Seven Principles of Building an Iconic Brand]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles Thinking - Reason from Physics, Not Analogy|First-Principles Thinking - Reason from Physics, Not Analogy]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion|The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Success - Judge the Work Before the Outcome|Creative Success - Judge the Work Before the Outcome]]
 ## Source reference
-Paul Graham, “Taste for Makers,” “Six Principles for Making New Things,” “Copy What You Like,” “Design and Research,” and “Is There Such a Thing as Good Taste?,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
 
-Rick Rubin with Neil Strauss, *The Creative Act: A Way of Being* (2023), sections “Temporary Rules” and “The Gatekeeper.” Raw transcript archived at [[2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript|The Creative Act - Raw Transcript]]

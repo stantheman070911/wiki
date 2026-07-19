@@ -3,20 +3,54 @@ title: "When a Partnership Makes Sense - The Five Things a Partner Must Bring"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/partnerships, topic/equity, topic/decision-making, topic/career, topic/skill-acquisition, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/partnerships,
+    topic/equity,
+    topic/decision-making,
+    topic/career,
+    topic/skill-acquisition,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Employment
+      Dependence Trade - Reliability, Freedom, and Hidden Hostages
+  - type: is-applied-by
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Alternative Currencies -
+      Reputation, Distribution, and Equity
+  - type: is-applied-by
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
+      Return on Time, and Money Rules
+  - type: is-applied-by
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/投資人與合夥人的選擇框架：股權結構與價值觀篩選
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/家族企業與伴侶共創的邊界設計：分工、拍板與共同改善會議
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and
+      the Education-ROI Playbook
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
+      and Asymmetric Bets
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
+      Filter - Stay, Scale, or Burn It Down
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/選擇、承諾與人生取捨
 ---
 
 # When a Partnership Makes Sense - The Five Things a Partner Must Bring
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 A partnership is only worth it if the other person brings money, time, skill, network, or distribution that you lack; if you're both the same, one of you is unnecessary — and effort you'd both rate differently is where partnerships crack.
@@ -55,11 +89,18 @@ An 18-year-old weighing a partnership in a $200k pest-control business (5% equit
 - Even a well-matched partnership needs explicit agreements on roles and effort to survive the perception gap.
 
 ## Relationships
-- **related:** [[Skill Stacking and the Education-ROI Playbook]]
-- **related:** [[Fear, Regret, and Asymmetric Bets]]
-- **related:** [[選擇、承諾與人生取捨]]
-- **related:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages|The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages]]
+- **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/Alternative Currencies - Reputation, Distribution, and Equity|Alternative Currencies - Reputation, Distribution, and Equity]]
+- **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
+- **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/投資人與合夥人的選擇框架：股權結構與價值觀篩選|投資人與合夥人的選擇框架：股權結構與價值觀篩選]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/家族企業與伴侶共創的邊界設計：分工、拍板與共同改善會議|家族企業與伴侶共創的邊界設計：分工、拍板與共同改善會議]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and the Education-ROI Playbook|Skill Stacking and the Education-ROI Playbook]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/選擇、承諾與人生取捨|選擇、承諾與人生取捨]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

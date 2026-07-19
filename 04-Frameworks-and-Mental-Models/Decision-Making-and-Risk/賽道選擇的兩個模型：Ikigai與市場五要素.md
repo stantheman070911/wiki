@@ -3,20 +3,34 @@ title: "賽道選擇的兩個模型：Ikigai與市場五要素"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "zh"
-tags: [topic/positioning, topic/career, source/kim-startup-qa, person/kim]
-source:
-  type: "conversation"
-  name: "創業解惑社 Q&A 整理（共用表單副本，344 則問答）"
-  author: "阿金（Kim）"
-  url: ""
-  date_of_source: ""
+tags: [ topic/positioning, topic/career, source/kim-startup-qa, person/kim ]
+sources:
+  - id: "SRC-0041"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to
+      Love to Read - Foundations, Clear Thinking, and Mental Models
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/商業是連結與解決問題的方式：賺錢是驗證訊號而非目的
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
+      Proficiency, Pain Tolerance, and Frustration Tolerance
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/完美主義是恐懼的偽裝：用行動與deadline打破癱瘓
 ---
 
 # 賽道選擇的兩個模型：Ikigai與市場五要素
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## 一句話總結
 
@@ -76,11 +90,13 @@ status: "reviewed"
 
 ## 關係
 
-- **related:** [[人群場景痛點解決方案：客戶洞察與需求驗證框架]]
-- **related:** [[完美主義是恐懼的偽裝：用行動與deadline打破癱瘓]]
-- **related:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
-- **related:** [[Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **由其應用:** [[01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架|人群場景痛點解決方案：客戶洞察與需求驗證框架]]
+- **相關:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to Love to Read - Foundations, Clear Thinking, and Mental Models|Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
+- **相關:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/商業是連結與解決問題的方式：賺錢是驗證訊號而非目的|商業是連結與解決問題的方式：賺錢是驗證訊號而非目的]]
+- **相關:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
+- **相關:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/完美主義是恐懼的偽裝：用行動與deadline打破癱瘓|完美主義是恐懼的偽裝：用行動與deadline打破癱瘓]]
 ## 來源
 
-創業解惑社 Q&A 整理（共用表單副本，344 則問答），阿金（Kim）。封存來源：[[2026-07-08_Conversation_阿金_創業解惑社QA整理]]。本條目綜合 Q50、Q81、Q82、Q86、Q87、Q338 等多則問答的重複性核心洞察。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Conversations/2026-07-08_Conversation_阿金_創業解惑社QA整理|創業解惑社QA整理]]

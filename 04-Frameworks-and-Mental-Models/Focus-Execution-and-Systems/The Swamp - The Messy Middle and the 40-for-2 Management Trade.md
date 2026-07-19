@@ -3,20 +3,56 @@ title: "The Swamp - The Messy Middle and the 40-for-2 Management Trade"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/scaling, topic/hiring, topic/delegation, topic/focus, topic/leverage, topic/decision-making, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/scaling,
+    topic/hiring,
+    topic/delegation,
+    topic/focus,
+    topic/leverage,
+    topic/decision-making,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger
+  - type: is-applied-by
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
+      Return on Time, and Money Rules
+  - type: is-applied-by
+    target: 01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle -
+      Infancy, Adolescence, and Maturity
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders -
+      Reverse-Engineer OTE, Profit Pools, and Phantom Equity
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
+      Elimination - The Deep-Work Playbook
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
+      Filter - Stay, Scale, or Burn It Down
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Greener-Pasture Fallacy
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
+      - Who-Not-How and Planning Backward From the Goal
 ---
 
 # The Swamp - The Messy Middle and the 40-for-2 Management Trade
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 The $1–3M stretch is the hardest because your two options both hurt — work even harder yourself, or bet almost all your profit on one hire — and the way through is to keep trading big blocks of doing for small blocks of managing until you've managed yourself out of the work entirely.
@@ -55,11 +91,18 @@ An apartment broker doing $250k couldn't identify his highest-leverage 6am actio
 - The trade only works if you actually stop doing the handed-off work; staying in it means you bought a title, not leverage.
 
 ## Relationships
-- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
-- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- **related:** [[Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
-- **related:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger|Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint]]
+- **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
+- **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle - Infancy, Adolescence, and Maturity|The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity|Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing|Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Greener-Pasture Fallacy|The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

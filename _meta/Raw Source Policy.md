@@ -3,7 +3,7 @@ title: "Raw Source Policy"
 type: "governance"
 domain: "meta"
 lang: "en"
-updated: "2026-07-13"
+updated: "2026-07-19"
 status: "evergreen"
 ---
 
@@ -20,17 +20,17 @@ Raw sources remain in the vault for verification but are excluded from default k
 
 ## Search behavior
 
-Normal knowledge search should include:
+Normal reader search should include:
 
-`-path:"06-Source-Library" -path:"00-Templates" -path:"_meta"`
+`path:"01-Business-Strategy" OR path:"02-Social-Media-Strategy" OR path:"03-Tactics-and-Playbooks" OR path:"04-Frameworks-and-Mental-Models" OR path:"05-Intelligence-and-Research" OR path:"07-Articles" OR path:"Reports" OR file:"Home" OR file:"Home-ZH"`
 
 Source-verification search should begin with:
 
 `path:"06-Source-Library"`
 
-The default graph uses the knowledge-only filter documented in [[Graph Views]]. Source traceability remains available as a separate graph/search mode.
+The default graph uses the exact reader filter documented in [[Graph Views]]. Source traceability remains available as a separate graph/search mode.
 
-The repeatable before/after proxy in [[Search Performance]] measures full-vault scanning against the knowledge-only scope. Regenerate it after large archive changes.
+The repeatable before/after proxy in [[Search Performance]] measures full-vault scanning against the exact reader scope. Regenerate it after large archive changes.
 
 ## Large-source thresholds
 
@@ -39,8 +39,8 @@ The repeatable before/after proxy in [[Search Performance]] measures full-vault 
 - Consider a separate linked archive vault when raw sources exceed 250 MB or materially degrade startup/search performance.
 - A retained large source requires `large_source: true` and `split_decision` metadata.
 
-## Current decision
+## Recorded split decisions
 
-[[2026-07-13_Essays_PaulGraham_CollectedEssays]] is approximately 3.3 MB. It remains a single `raw-collection` because 21 derived entries already depend on its stable source identity, it remains below the 5 MB split threshold, and splitting it into hundreds of essay files would add more navigational and maintenance cost than it removes. Reassess if indexing performance degrades or the file grows.
+[[2026-07-13_Essays_PaulGraham_CollectedEssays]] remains a single `raw-collection` because derived pages depend on its stable source identity and splitting the collection into individual essay files would add navigation and maintenance cost. Reassess against the policy thresholds and generated [[Search Performance]] evidence if the source or its indexing behavior changes.
 
-[[2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript]] is approximately 1.0 MB. It remains a single `raw-transcript` because its chapter headings provide adequate internal navigation, it is well below the split threshold, and preserving one book-level source identity keeps citations stable. Reassess if the transcript grows or search performance changes.
+[[2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript]] remains a single `raw-transcript` because chapter headings provide adequate internal navigation and a book-level source identity keeps citations stable. Reassess against the policy thresholds and generated [[Search Performance]] evidence if the source or its indexing behavior changes.

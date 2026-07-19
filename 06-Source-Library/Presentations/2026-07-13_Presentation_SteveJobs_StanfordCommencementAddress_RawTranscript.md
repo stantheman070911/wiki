@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0060"
 title: "Steve Jobs' 2005 Stanford Commencement Address - Raw Transcript"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Steve Jobs"
+    role: "creator"
 source_type: "presentation"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Steve Jobs"
 date_archived: "2026-07-13"
 status: "source"
 ---

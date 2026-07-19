@@ -3,20 +3,44 @@ title: "Companies as Philanthropy - Purpose and Building for Humanity"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/mission, topic/value-creation, person/elon-musk]
-source:
-  type: "book"
-  name: "The Book of Elon: A Guide to Purpose and Success"
-  author: "Eric Jorgenson (Elon Musk)"
-  url: ""
-  date_of_source: "2026"
+tags: [ topic/mission, topic/value-creation, person/elon-musk ]
+sources:
+  - id: "SRC-0004"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
+  and Customers Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/商業是連結與解決問題的方式：賺錢是驗證訊號而非目的
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin
+      Story - Heroes Use Pain
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
+      Proficiency, Pain Tolerance, and Frustration Tolerance
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
+      Return on Time, and Money Rules
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation -
+      Measurement, Leverage, and Compressed Work
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/財富公式：專屬知識、槓桿與判斷力
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
+      Manufacturing as the Moat
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Preserve the Core,
+      Stimulate Progress - Build an Institution That Can Evolve
 ---
 
 # Companies as Philanthropy - Purpose and Building for Humanity
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/Business-Models-and-Customers/Business Models and Customers Map|Business Models and Customers]]
 
 ## One-line summary
 If philanthropy means acting from love of humanity, then building a company that fixes a real problem at scale within the market system can do more good than donating — so choose a purpose that matters and be useful.
@@ -47,11 +71,17 @@ Asked why he doesn't "put his name on a hospital wing," Musk reframes company-bu
 - His stance that fixing something within the market system generally beats a nonprofit donation for real-world impact.
 
 ## Relationships
-- **related:** [[The Factory Is the Product - Manufacturing as the Moat]]
-- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- **related:** [[財富公式：專屬知識、槓桿與判斷力]]
-- **applies:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
-- **applies:** [[Hardship as Origin Story - Heroes Use Pain]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/商業是連結與解決問題的方式：賺錢是驗證訊號而非目的|商業是連結與解決問題的方式：賺錢是驗證訊號而非目的]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain|Hardship as Origin Story - Heroes Use Pain]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation - Measurement, Leverage, and Compressed Work|Wealth Creation - Measurement, Leverage, and Compressed Work]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/財富公式：專屬知識、槓桿與判斷力|財富公式：專屬知識、槓桿與判斷力]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve|Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
 ## Source reference
-Eric Jorgenson, *The Book of Elon* (2026), "Building Our Future — Companies Are Philanthropy." Extraction notes in [[2026-07-08_Book_EricJorgenson_TheBookOfElon]]; PDF archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_EricJorgenson_TheBookOfElon|The Book Of Elon]]

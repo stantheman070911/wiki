@@ -3,14 +3,14 @@ title: ""
 type: "template"
 template_for: "generic-knowledge"
 domain: ""
-lang: "en"                # en | zh  (one language per entry; pair translations via Related entries)
+lang: "en"                # en | zh (one language per entry; pair true translations with a translation relationship)
 tags: []                  # faceted + controlled: topic/… person/… source/…  — reuse from [[Tags]] first
-source:
-  type: ""                # podcast | article | book | pdf | paper | video | image | presentation | interview | conversation
-  name: ""
-  author: ""
-  url: ""
-  date_of_source: ""      # original publication date, if known
+sources:
+  - id: ""                # immutable source_id from the canonical source record
+    role: "primary"       # primary | supporting | contrasting | example | background
+relationships:
+  - type: "related"       # prerequisite | applies | example | contrast | translation | related
+    target: ""             # exact title of the target governed knowledge page
 date_added: ""            # YYYY-MM-DD
 updated: ""               # YYYY-MM-DD
 reviewed_on: ""           # blank for drafts; date for reviewed / evergreen
@@ -25,25 +25,30 @@ The single most important takeaway, in one sentence.
 ## Context
 Why this matters / what problem or situation it addresses. 1-3 sentences.
 
-## Key insights
+## Core material
+
+### Key insights
+
 - Insight one, stated as a clear, applicable principle.
 - Insight two.
 - Insight three.
 
-## Framework / model (if applicable)
+### Framework / model (if applicable)
+
 Name and describe any named framework, mental model, or step-by-step process. Use a numbered list or short diagram in prose.
 
-## Tactics / how to apply
-Concrete, actionable steps for using this knowledge. Be specific enough to execute without re-reading the source.
+### Notable examples
 
-## Notable examples
 Real examples, case studies, or quotes that illustrate the idea.
 
+## Application
+
+Concrete, actionable steps for using this knowledge. Be specific enough to execute without re-reading the source.
+
 ## Relationships
-- **related:** Wikilink to a relevant entry, e.g. `[[Entry Title]]`
-- **translation:** True cross-language equivalent, e.g. `[[其對應條目]]`
+
+<!-- Generated from frontmatter `relationships`; do not edit this section manually. -->
 
 ## Source reference
-Full citation, then a real link to the archived copy — a wikilink for a Markdown note
-(`[[2026-07-08_Book_Author_Title]]`) or an angle-bracket link for an attachment
-(`[file.pdf](<../06-Source-Library/Books/file.pdf>)`). Never a bare code-span path.
+
+<!-- Generated from frontmatter `sources`; do not edit this section manually. -->

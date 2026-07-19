@@ -3,20 +3,69 @@ title: "Manage as Someone Operating a Machine to Achieve a Goal"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/management, topic/leadership, topic/systems, topic/org-design, person/ray-dalio, source/bridgewater-associates]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/management,
+    topic/leadership,
+    topic/systems,
+    topic/org-design,
+    person/ray-dalio,
+    source/bridgewater-associates
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 10"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Contribution
+      Before Activity - Define Results and Make Knowledge Usable
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Founder Mode
+      - Direct Engagement Without Delegation Theater
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
+      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth
+      Owner-Role Triad - Entrepreneur, Manager, and Technician
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and
+      Stay in Sync
+  - type: has-derivative
+    target: 07-Articles/Two Ways a Founder Can Disappear
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test,
+      Evaluate, and Sort People
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
+      Organizations
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements
+      to Your Machine to Get Around Your Problems
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems
+      to Get at Their Root Causes
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Don't Overlook
+      Governance
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Perceive and Don't
+      Tolerate Problems
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and
+      Protocols to Shape How Work Is Done
 ---
 
 # Manage as Someone Operating a Machine to Achieve a Goal
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 A great manager acts as an organizational engineer — not a doer, a philosopher, or a cheerleader — constantly comparing what the machine (the org's people and design together) actually produces against the goal, and re-engineering both the design and the people when there's a gap.
@@ -56,11 +105,22 @@ A manager's job is diagnosing whether a given shortfall traces to the machine's 
 - **The Client Service Department quality breakdown (~2011–12)**, where sloppy client memos slipped through after Dalio stepped back from direct oversight, is the running case study across this and the next three chapters (diagnosis, design, execution) — its fix included David McCormick's departmental reforms and biannual "Quality Day" peer-review meetings.
 
 ## Relationships
-- **applies:** [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
-- **related:** [[Perceive and Don't Tolerate Problems]]
-- **related:** [[Diagnose Problems to Get at Their Root Causes]]
-- **applies:** [[Get and Stay in Sync]]
-- **related:** [[Special-Forces Teams and Flat Organizations]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Contribution Before Activity - Define Results and Make Knowledge Usable|Contribution Before Activity - Define Results and Make Knowledge Usable]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Founder Mode - Direct Engagement Without Delegation Theater|Founder Mode - Direct Engagement Without Delegation Theater]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)|The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician|The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and Stay in Sync|Get and Stay in Sync]]
+- **Has derivative:** [[07-Articles/Two Ways a Founder Can Disappear|Two Ways a Founder Can Disappear]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People|Constantly Train, Test, Evaluate, and Sort People]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements to Your Machine to Get Around Your Problems|Design Improvements to Your Machine to Get Around Your Problems]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems to Get at Their Root Causes|Diagnose Problems to Get at Their Root Causes]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Don't Overlook Governance|Don't Overlook Governance]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Perceive and Don't Tolerate Problems|Perceive and Don't Tolerate Problems]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and Protocols to Shape How Work Is Done|Use Tools and Protocols to Shape How Work Is Done]]
 ## Source reference
-Ray Dalio, *Principles*, Part III, Ch. 10 ("Manage as Someone Operating a Machine to Achieve a Goal"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 10

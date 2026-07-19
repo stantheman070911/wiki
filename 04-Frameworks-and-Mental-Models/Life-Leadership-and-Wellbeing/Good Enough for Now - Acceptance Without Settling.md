@@ -3,20 +3,46 @@ title: "Good Enough for Now - Acceptance Without Settling"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/happiness, topic/mindset, topic/career, topic/commitment, person/bill-burnett, person/dave-evans, source/designing-your-new-work-life]
-source:
-  type: "book"
-  name: "Designing Your New Work Life"
-  author: "Bill Burnett and Dave Evans"
-  url: ""
-  date_of_source: "2021"
+tags:
+  [
+    topic/happiness,
+    topic/mindset,
+    topic/career,
+    topic/commitment,
+    person/bill-burnett,
+    person/dave-evans,
+    source/designing-your-new-work-life
+  ]
+sources:
+  - id: "SRC-0026"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign,
+      Redesign - Four Ways to Change Work in Place
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Quitting Well and
+      Moving On
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well -
+      Narrow, Decide, Let Go, and Move On
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The
+      Designer's Way - Acceptance, Availability, and Engaged Detachment
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Wayfinding
+      with Energy and Engagement
 ---
 
 # Good Enough for Now - Acceptance Without Settling
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 “Good enough for now” accepts present reality, releases the demand that happiness wait for a future milestone, and creates room for small improvements.
@@ -52,10 +78,14 @@ Use a weekly cycle:
 Garth learned on his second day that his new job was far worse than represented. He made it workable for eighteen months by scheduling energy breaks and learning from people in Sales. Those relationships later helped him move to a better company with his record and self-respect intact.
 
 ## Relationships
-- **related:** [[Wayfinding with Energy and Engagement]]
-- **related:** [[Don't Resign, Redesign - Four Ways to Change Work in Place]]
-- **related:** [[Quitting Well and Moving On]]
-- **related:** [[Choosing Well - Narrow, Decide, Let Go, and Move On]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign, Redesign - Four Ways to Change Work in Place|Don't Resign, Redesign - Four Ways to Change Work in Place]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Quitting Well and Moving On|Quitting Well and Moving On]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well - Narrow, Decide, Let Go, and Move On|Choosing Well - Narrow, Decide, Let Go, and Move On]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Designer's Way - Acceptance, Availability, and Engaged Detachment|The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Wayfinding with Energy and Engagement|Wayfinding with Energy and Engagement]]
 ## Source reference
-Bill Burnett and Dave Evans, *Designing Your New Work Life* (2021; originally published as *Designing Your Work Life*, 2020). [[2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript|Designing Your New Work Life - Raw Transcript]]

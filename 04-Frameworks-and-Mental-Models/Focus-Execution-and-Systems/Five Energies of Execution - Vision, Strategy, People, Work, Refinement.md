@@ -3,20 +3,42 @@ title: "Five Energies of Execution - Vision, Strategy, People, Work, Refinement"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/execution, topic/leadership, topic/systems, topic/focus, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "25 Harsh Truths at 45"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/execution,
+    topic/leadership,
+    topic/systems,
+    topic/focus,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0085"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Finish and
+      Release - Abundance Beats Perfectionism
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5A
+      Operating System
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Effective Executive - Five Learnable Practices
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative
+      Cooperation - Feedback, Friction, and Choice C
 ---
 
 # Five Energies of Execution - Vision, Strategy, People, Work, Refinement
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Progress stalls when a project keeps applying one mode of effort to every problem; execution requires shifting deliberately among vision, strategy, people, work, and refinement.
@@ -54,10 +76,13 @@ The weakest answer identifies the energy to emphasize next. Recheck after the co
 Priestley describes leaving a high-reach social platform after its outrage-heavy feed lowered his energy. The audience metric looked positive, but the downstream effect on judgment and action was negative.
 
 ## Relationships
-- **related:** [[The 5A Operating System - Alignment, Awareness, Accountabilities, Activities, and Assets]]
-- **related:** [[The Effective Executive - Five Learnable Practices]]
-- **related:** [[Finish and Release - Abundance Beats Perfectionism]]
-- **related:** [[Creative Cooperation - Feedback, Friction, and Choice C]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Finish and Release - Abundance Beats Perfectionism|Finish and Release - Abundance Beats Perfectionism]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5A Operating System|The 5A Operating System - Alignment, Awareness, Accountabilities, Activities, and Assets]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Effective Executive - Five Learnable Practices|The Effective Executive - Five Learnable Practices]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative Cooperation - Feedback, Friction, and Choice C|Creative Cooperation - Feedback, Friction, and Choice C]]
 ## Source reference
-Daniel Priestley, *25 Harsh Truths at 45*. Raw transcript in [[2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript|25 Harsh Truths at 45 - Raw Transcript]]

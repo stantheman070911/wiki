@@ -1,17 +1,23 @@
 ---
-title: "Alex Hormozi"
+source_id: "SRC-0049"
+title: "Alex Hormozi on Modern Wisdom with Chris Williamson"
+aliases:
+  - "Alex Hormozi × Chris Williamson — Modern Wisdom"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Modern Wisdom"
+    role: "creator"
 source_type: "podcast"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "zh"
 processing_status: "processed"
-author: "Modern Wisdom"
 date_archived: "2026-07-01"
 status: "source"
 ---
 
-# Alex Hormozi × Chris Williamson（Modern Wisdom）— 筆記與重點整理
+# Alex Hormozi on Modern Wisdom with Chris Williamson
 
 以下筆記整理自本集訪談逐字稿（Chris Williamson 與 Alex Hormozi 的對談）。依主題編排，直陳核心概念，並在能點出重點之處保留原話。
 

@@ -3,20 +3,45 @@ title: "Performance Appraisal as a Management System"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/feedback, topic/management, topic/hiring, topic/leadership, person/andrew-grove, source/high-output-management]
-source:
-  type: "book"
-  name: "High Output Management"
-  author: "Andrew S. Grove"
-  url: ""
-  date_of_source: "1983"
+tags:
+  [
+    topic/feedback,
+    topic/management,
+    topic/hiring,
+    topic/leadership,
+    person/andrew-grove,
+    source/high-output-management
+  ]
+sources:
+  - id: "SRC-0022"
+    role: "primary"
+    locator: "chapter 13"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial
+      Output and Leverage
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Task-Relevant
+      Maturity
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous
+      Conversations, Feedback, and Recognition
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders -
+      Reverse-Engineer OTE, Profit Pools, and Phantom Equity
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test,
+      Evaluate, and Sort People
 ---
 
 # Performance Appraisal as a Management System
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 A performance appraisal is a high-leverage intervention designed to improve future performance by judging real output and operating behavior, communicating a few actionable messages, and securing commitment to change.
@@ -59,10 +84,14 @@ Reviews fail when they become retrospective paperwork, vague praise, surprise cr
 Grove once gave a manager a strong rating because current sales and profit were excellent despite warning signs in turnover and team health. A year later output collapsed; the earlier results had been delayed light from prior work. The lesson was to judge the manager's current contribution with both output and internal measures rather than merely record what was easiest to see.
 
 ## Relationships
-- **related:** [[Managerial Output and Leverage]]
-- **related:** [[Task-Relevant Maturity]]
-- **related:** [[Constantly Train, Test, Evaluate, and Sort People]]
-- **related:** [[Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial Output and Leverage|Managerial Output and Leverage]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Task-Relevant Maturity|Task-Relevant Maturity]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous Conversations, Feedback, and Recognition|CFRs - Continuous Conversations, Feedback, and Recognition]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity|Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People|Constantly Train, Test, Evaluate, and Sort People]]
 ## Source reference
-Andrew S. Grove, *High Output Management* (1983; revised 1995), chapter 13. [[2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript|High Output Management - Raw Transcript]] — locator: chapter 13

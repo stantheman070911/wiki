@@ -3,20 +3,69 @@ title: "The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/startups, topic/product, topic/feedback, topic/retention, person/paul-graham, person/daniel-priestley, source/paul-graham-essays, source/daniel-priestley-youtube]
-source:
-  type: "essay collection"
-  name: "Paul Graham - Collected Essays"
-  author: "Paul Graham"
-  url: "https://paulgraham.com/articles.html"
-  date_of_source: "2001-2026"
+tags:
+  [
+    topic/startups,
+    topic/product,
+    topic/feedback,
+    topic/retention,
+    person/paul-graham,
+    person/daniel-priestley,
+    source/paul-graham-essays,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0046"
+    role: "primary"
+  - id: "SRC-0100"
+    role: "supporting"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
+  and Customers Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for
+      Makers - Constraints for Designing Good Things
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Relentlessly
+      Resourceful - The Founder Trait Stack
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passionate
+      Visionary Scientist - A Three-Part Founder Mindset
+  - type: has-derivative
+    target: 07-Articles/Do It by Hand Until You Know What It Is
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative
+      Experiments - Opposites, Constraints, A-B Tests, and Context
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Customer-Base
+      Test Kitchen - Distributed R&D Before Rollout
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
+      Automation - Manual Onboarding to Fix Churn
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Do Things That Don't
+      Scale - Recruit, Delight, and Learn by Hand
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The Entrepreneur
+      Apprenticeship
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/From Proof Story to
+      Scalable IP - Productize, Attract, Convert, and Amplify
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/Organic Startup Ideas
+      - Live in the Future and Notice What Is Missing
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Software Shape -
+      Survive to Product-Market Fit, Then Retain Forever
 ---
 
 # The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/Business-Models-and-Customers/Business Models and Customers Map|Business Models and Customers]]
 
 ## One-line summary
 An early startup discovers its real product by launching a minimally useful version, watching users closely, evolving toward their strongest needs, and making a small group love the total experience.
@@ -54,13 +103,22 @@ Use a five-step loop: **launch a quantum of utility → observe behavior → spe
 Airbnb's founders improved listings in person and learned the marketplace by working beside hosts. Wufoo sent handwritten notes. These actions looked inefficient but turned user contact into product intelligence and a culture of care.
 
 ## Relationships
-- **related:** [[Do Things That Don't Scale - Recruit, Delight, and Learn by Hand]]
-- **related:** [[Organic Startup Ideas - Live in the Future and Notice What Is Missing]]
-- **related:** [[Activation Before Automation - Manual Onboarding to Fix Churn]]
 
-- **related:** [[The Entrepreneur Apprenticeship - Commercial Awareness and 90-Day Side-Hustle Tests]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for Makers - Constraints for Designing Good Things|Taste for Makers - Constraints for Designing Good Things]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Relentlessly Resourceful - The Founder Trait Stack|Relentlessly Resourceful - The Founder Trait Stack]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passionate Visionary Scientist - A Three-Part Founder Mindset|The Passionate Visionary Scientist - A Three-Part Founder Mindset]]
+- **Has derivative:** [[07-Articles/Do It by Hand Until You Know What It Is|Do It by Hand Until You Know What It Is]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Customer-Base Test Kitchen - Distributed R&D Before Rollout|The Customer-Base Test Kitchen - Distributed R&D Before Rollout]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Do Things That Don't Scale - Recruit, Delight, and Learn by Hand|Do Things That Don't Scale - Recruit, Delight, and Learn by Hand]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The Entrepreneur Apprenticeship|The Entrepreneur Apprenticeship - Commercial Awareness and 90-Day Side-Hustle Tests]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify|From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Organic Startup Ideas - Live in the Future and Notice What Is Missing|Organic Startup Ideas - Live in the Future and Notice What Is Missing]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Software Shape - Survive to Product-Market Fit, Then Retain Forever|The Software Shape - Survive to Product-Market Fit, Then Retain Forever]]
 ## Source reference
-Paul Graham, “Startups in 13 Sentences,” “What I've Learned from Users,” “Be Good,” and “Do Things that Don't Scale,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
 
-Additional source: Daniel Priestley, *Product-Market Fit Framework*, [[2026-07-13_Video_DanielPriestley_ProductMarketFitFramework_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_ProductMarketFitFramework_RawTranscript|Product-Market Fit Framework - Raw Transcript]]

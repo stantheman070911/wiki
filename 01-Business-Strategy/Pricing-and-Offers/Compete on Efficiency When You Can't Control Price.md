@@ -3,20 +3,52 @@ title: "Compete on Efficiency When You Can't Control Price"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/margins, topic/efficiency, topic/unit-economics, topic/operations, topic/pricing, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/margins,
+    topic/efficiency,
+    topic/unit-economics,
+    topic/operations,
+    topic/pricing,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
+      Business - Train Like an Employee and the Department Playbook
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
+      of a Perfect Business
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The SMB Service
+      Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of
+      Service Businesses
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural -
+      Defending Margin Against Organizational Creep
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
+      Manufacturing as the Moat
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
+      Discount - Make the Difference Obvious
 ---
 
 # Compete on Efficiency When You Can't Control Price
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 In industries where price is fixed by insurers, regulators, or a commodity market, you can't win from the top line, so you win from the bottom up — drive cost of delivery down and let margin expansion do the work of several new locations.
@@ -54,11 +86,17 @@ A dietitian group faced fixed insurance reimbursement (~$150/hour). Hormozi's co
 - Margin harvesting funds growth; it is a means to reinvest, not an end in itself.
 
 ## Relationships
-- **related:** [[The Factory Is the Product - Manufacturing as the Moat]]
-- **related:** [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
-- **related:** [[The Five Advantages of a Perfect Business]]
-- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- **related:** [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your Business - Train Like an Employee and the Department Playbook|Using AI in Your Business - Train Like an Employee and the Department Playbook]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Five Advantages of a Perfect Business|The Five Advantages of a Perfect Business]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone|The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of Service Businesses|The Virtuous Cycle of Service Businesses]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural - Defending Margin Against Organizational Creep|Profit Is Unnatural - Defending Margin Against Organizational Creep]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion|Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious|Decommoditize Before You Discount - Make the Difference Obvious]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

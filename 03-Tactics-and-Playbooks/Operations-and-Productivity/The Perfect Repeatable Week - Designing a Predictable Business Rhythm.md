@@ -3,20 +3,48 @@ title: "The Perfect Repeatable Week - Designing a Predictable Business Rhythm"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/operations, topic/systems, topic/execution, topic/consistency, topic/leadership, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "Seven Boring Habits for Seven-Figure Businesses"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/operations,
+    topic/systems,
+    topic/execution,
+    topic/consistency,
+    topic/leadership,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0101"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Lifestyle
+      Boutique Operating Model - Team, Product Ecosystem, and Campaigns
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5A
+      Operating System
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
+      to Do
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time -
+      Record, Eliminate, and Consolidate
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
+      Rhythm - Leads, Appointments, Presentations, and Sales
 ---
 
 # The Perfect Repeatable Week - Designing a Predictable Business Rhythm
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 Translate the annual target into a profitable weekly unit, assign the activities and owners that produce it, and repeat that operating week until evidence justifies a change.
@@ -55,10 +83,15 @@ Bookend each week with a Monday **three-to-six priorities** meeting and a Friday
 Priestley compares the model with a touring band: the show, pack-down, travel, setup, and rehearsal form a machine that repeats. The creative work is not eliminated; it is embedded in a reliable operating cycle.
 
 ## Relationships
-- **related:** [[The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
-- **applies:** [[The 5A Operating System - Alignment, Awareness, Accountabilities, Activities, and Assets]]
-- **related:** [[Do What You Set Out to Do]]
-- **related:** [[Know Thy Time - Record, Eliminate, and Consolidate]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns|The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns]]
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed|Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven Demand]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5A Operating System|The 5A Operating System - Alignment, Awareness, Accountabilities, Activities, and Assets]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time - Record, Eliminate, and Consolidate|Know Thy Time - Record, Eliminate, and Consolidate]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
 ## Source reference
-Daniel Priestley, *Seven Boring Habits for Seven-Figure Businesses*. Raw transcript in [[2026-07-13_Video_DanielPriestley_SevenBoringHabitsForSevenFigureBusinesses_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_SevenBoringHabitsForSevenFigureBusinesses_RawTranscript|Seven Boring Habits for Seven-Figure Businesses - Raw Transcript]]

@@ -3,20 +3,74 @@ title: "A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/culture, topic/systems, topic/operations, topic/management, topic/focus, person/jim-collins, source/good-to-great]
-source:
-  type: "book"
-  name: "Good to Great"
-  author: "Jim Collins"
-  url: ""
-  date_of_source: "2001"
+tags:
+  [
+    topic/culture,
+    topic/systems,
+    topic/operations,
+    topic/management,
+    topic/focus,
+    person/jim-collins,
+    source/good-to-great
+  ]
+sources:
+  - id: "SRC-0010"
+    role: "primary"
+    locator: "chapter 6"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept
+      - Three Circles and the Economic Denominator
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules
+      - Codify, Transfer, and Train Behavior
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More
+      Important Than the WHAT
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
+      Organizations
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
+      Elimination - The Deep-Work Playbook
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
+      - SOPs, Checklists, and Systematizing the Vital 20%
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Team Checklists -
+      Communication Before Coordination
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and
+      Protocols to Shape How Work Is Done
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity
+      Needs Standards and Distributed Judgment
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and
+      Align - Make Priorities and Dependencies Public
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Kaizen and
+      the Progress Principle
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Flywheel
+      and the Doom Loop - Compound Momentum in One Direction
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Hybrid
+      Organizations and Dual Reporting
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is
+      Short - Ruthless Attention Allocation
 ---
 
 # A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 A culture of discipline gives self-disciplined people freedom within a clear framework, holds them accountable for outcomes, and systematically stops work that does not fit the organization's strategy.
@@ -53,13 +107,23 @@ Growing companies often respond to disorder by adding hierarchy and rules. That 
 Abbott used responsibility accounting to assign every meaningful cost, investment, and result to one accountable person while preserving room for entrepreneurial action. Nucor combined only four management layers with clear performance economics and shared sacrifice. By contrast, Burroughs and Rubbermaid achieved temporary discipline through dominant CEOs, then declined when the disciplinarian left.
 
 ## Relationships
-- **related:** [[Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
-- **related:** [[Use Tools and Protocols to Shape How Work Is Done]]
-- **related:** [[Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
-- **related:** [[Special-Forces Teams and Flat Organizations]]
-- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
-- **related:** [[The Hedgehog Concept - Three Circles and the Economic Denominator]]
-- **related:** [[The Flywheel and the Doom Loop - Compound Momentum in One Direction]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept - Three Circles and the Economic Denominator|The Hedgehog Concept - Three Circles and the Economic Denominator]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior|Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More Important Than the WHAT|Remember That the WHO Is More Important Than the WHAT]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%|Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Team Checklists - Communication Before Coordination|Team Checklists - Communication Before Coordination]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and Protocols to Shape How Work Is Done|Use Tools and Protocols to Shape How Work Is Done]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity Needs Standards and Distributed Judgment|Complexity Needs Standards and Distributed Judgment]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and Align - Make Priorities and Dependencies Public|Focus and Align - Make Priorities and Dependencies Public]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Kaizen and the Progress Principle|Kaizen and the Progress Principle - Small Wins, Course Corrections, and Motivation]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Flywheel and the Doom Loop - Compound Momentum in One Direction|The Flywheel and the Doom Loop - Compound Momentum in One Direction]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Hybrid Organizations and Dual Reporting|Hybrid Organizations and Dual Reporting]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is Short - Ruthless Attention Allocation|Life Is Short - Ruthless Attention Allocation]]
 ## Source reference
-Jim Collins, *Good to Great*, chapter 6, "A Culture of Discipline" (2001). [[2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript|Good to Great - Raw Transcript]] — locator: chapter 6

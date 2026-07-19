@@ -3,20 +3,77 @@ title: "The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/funnel, topic/qualification, topic/retention, topic/systems, person/daniel-priestley, person/keenan, person/neil-rackham, source/daniel-priestley-youtube, source/gap-selling, source/the-spin-selling-fieldbook]
-source:
-  type: "video"
-  name: "Complete Sales Process - LAPS"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/sales,
+    topic/funnel,
+    topic/qualification,
+    topic/retention,
+    topic/systems,
+    person/daniel-priestley,
+    person/keenan,
+    person/neil-rackham,
+    source/daniel-priestley-youtube,
+    source/gap-selling,
+    source/the-spin-selling-fieldbook
+  ]
+sources:
+  - id: "SRC-0088"
+    role: "primary"
+  - id: "SRC-0034"
+    role: "supporting"
+    locator: "chapters 8, 12"
+  - id: "SRC-0036"
+    role: "supporting"
+    locator: "chapters 4–13"
 date_added: "2026-07-13"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/From Proof Story to
+      Scalable IP - Productize, Attract, Convert, and Amplify
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect
+      Repeatable Week - Designing a Predictable Business Rhythm
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Advances, Not
+      Continuations - Plan Every Sales Call
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead
+      Generation - Fifteen Questions and Dynamic Routing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
+      Sell the Goal, Scope the Journey, Secure Prepayment
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Gap Prospecting -
+      Intrigue, Offer, Ask, and Cadence
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Problem-Centric
+      Discovery - Four Question Types and the CRM Challenge
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
+      Intellectual Property - Process Above the Player
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery -
+      Situation, Problem, Implication, and Need-Payoff
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control -
+      Constructive Tension Across the Sale
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four
+      Lead-Conversion Levers - Speed, Availability, Personalization, Volume
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes -
+      Decision Criteria, Buying Process, and Mutual Effort
 ---
 
 # The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 A predictable sales engine manages four weekly flows—leads, appointments, presentations, and sales—and improves the conversion between each instead of treating revenue as one opaque outcome.
@@ -65,18 +122,23 @@ Revenue becomes difficult to diagnose when marketing, appointment setting, selli
 Priestley illustrates a weekly dashboard such as 50 leads, 10 appointments, six presentations, and two sales. The point is not the particular ratio; it is knowing which transition must improve and being able to staff against predictable demand.
 
 ## Relationships
-- **related:** [[The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
-- **related:** [[Sales Systems as Intellectual Property - Process Above the Player]]
-- **related:** [[Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
-- **related:** [[Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
-- **related:** [[The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
-- **related:** [[Problem-Centric Discovery - Four Question Types and the CRM Challenge]]
-- **related:** [[SPIN Discovery - Situation, Problem, Implication, and Need-Payoff]]
-- **related:** [[Advances, Not Continuations - Plan Every Sales Call]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify|From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect Repeatable Week - Designing a Predictable Business Rhythm|The Perfect Repeatable Week - Designing a Predictable Business Rhythm]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Advances, Not Continuations - Plan Every Sales Call|Advances, Not Continuations - Plan Every Sales Call]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing|Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Gap Prospecting - Intrigue, Offer, Ask, and Cadence|Gap Prospecting - Intrigue, Offer, Ask, and Cadence]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Problem-Centric Discovery - Four Question Types and the CRM Challenge|Problem-Centric Discovery - Four Question Types and the CRM Challenge]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery - Situation, Problem, Implication, and Need-Payoff|SPIN Discovery - Situation, Problem, Implication, and Need-Payoff]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control - Constructive Tension Across the Sale|Taking Control - Constructive Tension Across the Sale]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume|The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes - Decision Criteria, Buying Process, and Mutual Effort|The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
 ## Source reference
-Daniel Priestley, *Complete Sales Process - LAPS*. Raw transcript in [[2026-07-13_Video_DanielPriestley_CompleteSalesProcessLAPS_RawTranscript]].
 
-Additional source: Keenan, *Gap Selling* (2018), chapters 8, 12, and 18. [[2026-07-18_Book_Keenan_GapSelling_RawTranscript]].
-
-Additional source: Neil Rackham, *The SPIN Selling Fieldbook* (1996), chapters 4–13. [[2026-07-18_Book_NeilRackham_TheSPINSellingFieldbook_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_CompleteSalesProcessLAPS_RawTranscript|Complete Sales Process - LAPS - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_Keenan_GapSelling_RawTranscript|Gap Selling]] — locator: chapters 8, 12
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_NeilRackham_TheSPINSellingFieldbook_RawTranscript|The SPIN Selling Fieldbook]] — locator: chapters 4–13

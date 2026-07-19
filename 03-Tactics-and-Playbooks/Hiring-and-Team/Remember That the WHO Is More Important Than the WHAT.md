@@ -3,20 +3,62 @@ title: "Remember That the WHO Is More Important Than the WHAT"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/hiring, topic/leadership, topic/org-design, topic/believability, person/ray-dalio, person/jim-collins, source/bridgewater-associates, source/good-to-great]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/hiring,
+    topic/leadership,
+    topic/org-design,
+    topic/believability,
+    person/ray-dalio,
+    person/jim-collins,
+    source/bridgewater-associates,
+    source/good-to-great
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 7"
+  - id: "SRC-0010"
+    role: "supporting"
+    locator: "chapter 3"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
+      Your Decision Making
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
+      Discipline - Freedom, Responsibility, and Stop-Doing Lists
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Contribution
+      Before Activity - Define Results and Make Knowledge Usable
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5
+      Leadership - Humility and Professional Will
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
+      - Who-Not-How and Planning Backward From the Goal
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test,
+      Evaluate, and Sort People
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Hire Right, Because the
+      Penalties for Hiring Wrong Are Huge
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design
+      Jobs Around Exceptional Contribution
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Don't Overlook
+      Governance
 ---
 
 # Remember That the WHO Is More Important Than the WHAT
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 People systematically over-invest in figuring out *what* should be done while under-investing in *who* should decide and do it — but organizations don't make decisions, specific people with specific, knowable qualities do, so getting the WHO right is the higher-leverage move and should come first.
@@ -55,14 +97,19 @@ Collins extends the rule into three people disciplines:
 - Wells Fargo recruited exceptional executives before it knew exactly how banking deregulation would unfold; that adaptable bench later produced leaders for numerous major banks. Fannie Mae replaced fourteen of twenty-six executives before finalizing its turnaround path. In contrast, the "genius with a thousand helpers" model at Eckerd and Teledyne weakened when the central genius departed.
 
 ## Relationships
-- **applies:** [[Believability-Weight Your Decision Making]]
-- **related:** [[Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
-- **related:** [[Constantly Train, Test, Evaluate, and Sort People]]
-- **applies:** [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
-- **applies:** [[Level 5 Leadership - Humility and Professional Will]]
-- **applies:** [[A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Contribution Before Activity - Define Results and Make Knowledge Usable|Contribution Before Activity - Define Results and Make Knowledge Usable]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5 Leadership - Humility and Professional Will|Level 5 Leadership - Humility and Professional Will]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People|Constantly Train, Test, Evaluate, and Sort People]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Hire Right, Because the Penalties for Hiring Wrong Are Huge|Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design Jobs Around Exceptional Contribution|Staff for Strength - Design Jobs Around Exceptional Contribution]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Don't Overlook Governance|Don't Overlook Governance]]
 ## Source reference
-Ray Dalio, *Principles*, Part III, Ch. 7 ("Remember That the WHO Is More Important than the WHAT"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
 
-Additional source: Jim Collins, *Good to Great*, chapter 3, "First Who ... Then What" (2001), [[2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 7
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript|Good to Great - Raw Transcript]] — locator: chapter 3

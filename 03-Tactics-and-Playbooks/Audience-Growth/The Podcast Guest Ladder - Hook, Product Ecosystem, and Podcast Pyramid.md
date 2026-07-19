@@ -3,20 +3,41 @@ title: "The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/personal-brand, topic/content-strategy, topic/distribution, topic/partnerships, topic/positioning, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "How to Get on the World's Biggest Podcasts"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/personal-brand,
+    topic/content-strategy,
+    topic/distribution,
+    topic/partnerships,
+    topic/positioning,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0094"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
+      Selling Through Trusted Referrers
+  - type: applies
+    target: 02-Social-Media-Strategy/Brand Journey and the 3-Part Brand Story
+  - type: applies
+    target: 02-Social-Media-Strategy/Key Person of Influence - Pitch, Publish,
+      Product, Profile, and Partnerships
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall
+      Distribution Method - One Pillar, a Week of Content
 ---
 
 # The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Earn access to larger podcasts by becoming an unusually valuable guest on smaller ones, opening with a rehearsed hook, promoting every appearance, and giving interested listeners a clear next step.
@@ -54,10 +75,13 @@ Move upward after repeated outperformance, not after merely appearing once.
 Priestley attributes his first invitation to *The Diary of a CEO* to two unusually strong appearances on Ali Abdaal's show. The later booking was downstream of visible performance, not a direct attempt to skip the lower tiers.
 
 ## Relationships
-- **applies:** [[Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships]]
-- **related:** [[The Waterfall Distribution Method - One Pillar, a Week of Content]]
-- **applies:** [[Centers of Influence - Selling Through Trusted Referrers]]
-- **applies:** [[Brand Journey and the 3-Part Brand Story]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
+- **Applies:** [[02-Social-Media-Strategy/Brand Journey and the 3-Part Brand Story|Brand Journey and the 3-Part Brand Story]]
+- **Applies:** [[02-Social-Media-Strategy/Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships|Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall Distribution Method - One Pillar, a Week of Content|The Waterfall Distribution Method - One Pillar, a Week of Content]]
 ## Source reference
-Daniel Priestley, *How to Get on the World's Biggest Podcasts*. Raw transcript in [[2026-07-13_Video_DanielPriestley_HowToGetOnTheWorldsBiggestPodcasts_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_HowToGetOnTheWorldsBiggestPodcasts_RawTranscript|How to Get on the World's Biggest Podcasts - Raw Transcript]]

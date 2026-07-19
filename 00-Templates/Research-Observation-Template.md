@@ -2,15 +2,15 @@
 title: ""
 type: "template"
 template_for: "research"
-domain: ""
+domain: "intelligence-and-research"
 lang: "en"
 tags: []
-source:
-  type: ""
-  name: ""
-  author: ""
-  url: ""
-  date_of_source: ""
+sources:
+  - id: ""
+    role: "primary"
+relationships:
+  - type: "related"
+    target: ""
 date_added: ""
 updated: ""
 reviewed_on: ""
@@ -21,28 +21,28 @@ status: "draft"
 
 ## One-line summary
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- State the observation and why it matters in one sentence. -->
 
 ## Context
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- Define the observed setting, time horizon, and relevant boundary conditions. -->
 
 ## Observation / evidence
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- Separate direct evidence from interpretation; link records or attachments where possible. -->
 
 ## Implications
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- Explain what this evidence changes for decisions, models, or future research. -->
 
 ## Open questions
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- List unresolved questions and what evidence would answer them. -->
 
 ## Relationships
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- Generated from frontmatter `relationships`; do not edit this section manually. -->
 
 ## Source reference
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- Generated from frontmatter `sources`; do not edit this section manually. -->

@@ -3,20 +3,38 @@ title: "The 22 Immutable Laws of Marketing"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/positioning, topic/brand, person/ries-trout]
-source:
-  type: "book"
-  name: "The 22 Immutable Laws of Marketing"
-  author: "Al Ries & Jack Trout"
-  url: ""
-  date_of_source: "1993"
+tags: [ topic/positioning, topic/brand, person/ries-trout ]
+sources:
+  - id: "SRC-0005"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-13"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension
+      Trap - Why One Name Can't Own Two Things
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
+      Actually Is - Association, Influence, Direction, Reach
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors
+      Down - The $50M Price-Cut Lesson
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
+      Hole in the Mind (Cherchez le Creneau)
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
+      in the Prospect's Mind
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架
 ---
 
 # The 22 Immutable Laws of Marketing
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Marketing is a battle of perceptions fought inside the prospect's mind, not a battle of products in the marketplace — and 22 recurring, often-violated laws govern who wins that battle, from being first into the mind to knowing when line extension, hype, or unlimited resources will quietly sink a brand.
@@ -72,12 +90,15 @@ The 22 laws, grouped by theme:
 - Lindbergh vs. Bert Hinkler (first vs. second solo Atlantic flight); Hertz/Avis/National ladder in rent-a-cars; Heineken vs. Michelob (new category vs. me-too import); Volvo/safety, Domino's/home delivery, Federal Express/overnight; Wang's failed pivot from word processors to computers; New Coke winning blind taste tests yet losing the market to Coca-Cola Classic; Atari abandoning "video games" only for Nintendo to take the category; BMW losing focus by chasing Mercedes into large sedans, then recovering by re-emphasizing "driving."
 
 ## Relationships
-- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
-- **applies:** [[The Line-Extension Trap - Why One Name Can't Own Two Things]]
-- **related:** [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
-- **related:** [[Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
-- **applies:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- **related:** [[情緒價值與功能性價值：跳脫價格戰的定位框架]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension Trap - Why One Name Can't Own Two Things|The Line-Extension Trap - Why One Name Can't Own Two Things]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors Down - The $50M Price-Cut Lesson|Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)|Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架|情緒價值與功能性價值：跳脫價格戰的定位框架]]
 ## Source reference
-Al Ries & Jack Trout, *The 22 Immutable Laws of Marketing: Violate Them at Your Own Risk* (1993). Archived original PDF in [2026-07-08_Book_RiesTrout_22ImmutableLawsOfMarketing.txt](<../../06-Source-Library/Books/2026-07-08_Book_RiesTrout_22ImmutableLawsOfMarketing.txt>).
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_22ImmutableLawsOfMarketing|The 22 Immutable Laws of Marketing — archived source]]

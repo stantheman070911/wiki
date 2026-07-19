@@ -3,20 +3,48 @@ title: "Do Things That Don't Scale - Recruit, Delight, and Learn by Hand"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/startups, topic/do-things-that-dont-scale, topic/sales, topic/onboarding, topic/feedback, person/paul-graham, source/paul-graham-essays]
-source:
-  type: "essay collection"
-  name: "Paul Graham - Collected Essays"
-  author: "Paul Graham"
-  url: "https://paulgraham.com/articles.html"
-  date_of_source: "2013"
+tags:
+  [
+    topic/startups,
+    topic/do-things-that-dont-scale,
+    topic/sales,
+    topic/onboarding,
+    topic/feedback,
+    person/paul-graham,
+    source/paul-graham-essays
+  ]
+sources:
+  - id: "SRC-0046"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
+      Product-Discovery Loop - Launch, Learn, Evolve, Delight
+  - type: applies
+    target: 01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly
+      Compounding and Market Size
+  - type: has-derivative
+    target: 07-Articles/Do It by Hand Until You Know What It Is
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
+      Automation - Manual Onboarding to Fix Churn
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
+      Rule of 100 - Lead Generation Fundamentals
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The Entrepreneur
+      Apprenticeship
 ---
 
 # Do Things That Don't Scale - Recruit, Delight, and Learn by Hand
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Early growth is usually hand-cranked: founders manually recruit users, deliver an unusually good experience, and use that close contact to discover what scalable product should eventually replace the manual work.
@@ -45,9 +73,15 @@ The unscalable-growth sequence is: **recruit one user → install or onboard imm
 Stripe's founders performed “Collison installations” by taking a willing user's laptop and integrating Stripe immediately. Airbnb's founders traveled to New York, recruited hosts door to door, and photographed listings themselves.
 
 ## Relationships
-- **applies:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
-- **related:** [[Activation Before Automation - Manual Onboarding to Fix Churn]]
-- **related:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- **Applies:** [[01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly Compounding and Market Size|Startup Equals Growth - Weekly Compounding and Market Size]]
+- **Has derivative:** [[07-Articles/Do It by Hand Until You Know What It Is|Do It by Hand Until You Know What It Is]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The Entrepreneur Apprenticeship|The Entrepreneur Apprenticeship - Commercial Awareness and 90-Day Side-Hustle Tests]]
 ## Source reference
-Paul Graham, “Do Things that Don't Scale,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

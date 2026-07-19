@@ -3,20 +3,49 @@ title: "Levels of a Personal Brand and the Five Archetypes"
 type: "strategy"
 domain: "social-media-strategy"
 lang: "en"
-tags: [topic/personal-brand, topic/positioning, topic/content-strategy, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "The Art of the Personal Brand"
-  author: ""
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/personal-brand,
+    topic/positioning,
+    topic/content-strategy,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0071"
+    role: "primary"
+  - id: "SRC-0090"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 02-Social-Media-Strategy/Social Media Strategy Index
+relationships:
+  - type: has-example
+    target: 05-Intelligence-and-Research/The Risk Continuum - Building an
+      AI-Resistant Personal Brand
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creator
+      Monetization Ladder and Content-Concept Formulas
+  - type: related
+    target: 02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why
+  - type: related
+    target: 02-Social-Media-Strategy/Key Person of Influence - Pitch, Publish,
+      Product, Profile, and Partnerships
+  - type: related
+    target: 02-Social-Media-Strategy/Personal-Brand Positioning and the
+      No-Competition Model
+  - type: related
+    target: 02-Social-Media-Strategy/The Personal-Brand House - Foundation,
+      Interior, Exterior
+  - type: related
+    target: 02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架
 ---
 
 # Levels of a Personal Brand and the Five Archetypes
+
+> **Up:** [[Home|Home]] → [[02-Social-Media-Strategy/Social Media Strategy Index|Social Media Strategy]]
 
 ## One-line summary
 A personal brand is how the world sees you when you're not in the room; it exists on four levels (0–3), and most people should deliberately aim for Level 1 — an extension of what you do that doesn't define you — via one of five low-lift archetypes.
@@ -55,12 +84,17 @@ Promoting yourself is now permanent cultural infrastructure — in an era of AI 
 - A cinematographer making good-looking car content builds a portfolio that proves craft without anyone questioning the passion.
 
 ## Relationships
-- **related:** [[Creator Vision Framework - What x Who x Why]]
-- **related:** [[Personal-Brand Positioning and the No-Competition Model]]
-- **related:** [[品牌即媒體公司：注意力到信任框架]]
-- **related:** [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has example:** [[05-Intelligence-and-Research/The Risk Continuum - Building an AI-Resistant Personal Brand|The Risk Continuum: Building an AI-Resistant Personal Brand]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creator Monetization Ladder and Content-Concept Formulas|Creator Monetization Ladder and Content-Concept Formulas]]
+- **Related:** [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why|Creator Vision Framework: What x Who x Why]]
+- **Related:** [[02-Social-Media-Strategy/Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships|Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships]]
+- **Related:** [[02-Social-Media-Strategy/Personal-Brand Positioning and the No-Competition Model|Personal-Brand Positioning and the No-Competition Model]]
+- **Related:** [[02-Social-Media-Strategy/The Personal-Brand House - Foundation, Interior, Exterior|The Personal-Brand House - Foundation, Interior, Exterior]]
+- **Related:** [[02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架|品牌即媒體公司：注意力到信任框架]]
 ## Source reference
-"The Art of the Personal Brand" (video). Extraction notes and raw transcript in [[2026-07-08_Video_ArtOfThePersonalBrand]].
 
-Additional source: Daniel Priestley, *Five Ps of a Key Person of Influence*, [[2026-07-13_Video_DanielPriestley_FivePsOfKeyPersonOfInfluence_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_ArtOfThePersonalBrand|Art Of The Personal Brand]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_FivePsOfKeyPersonOfInfluence_RawTranscript|Five Ps of a Key Person of Influence - Raw Transcript]]

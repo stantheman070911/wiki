@@ -3,20 +3,46 @@ title: "Tactical Empathy - Labels, Silence, and the Accusation Audit"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/persuasion, topic/influence, topic/trust, person/chris-voss, person/tahl-raz, source/never-split-the-difference]
-source:
-  type: "book"
-  name: "Never Split the Difference"
-  author: "Chris Voss with Tahl Raz"
-  url: ""
-  date_of_source: "2016"
+tags:
+  [
+    topic/persuasion,
+    topic/influence,
+    topic/trust,
+    person/chris-voss,
+    person/tahl-raz,
+    source/never-split-the-difference
+  ]
+sources:
+  - id: "SRC-0028"
+    role: "primary"
+    locator: "Chapter 3"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No -
+      Protect Autonomy to Start the Real Negotiation
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Mirroring and
+      Voice - Slow the Negotiation and Keep Them Talking
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation
+      and Commitment - Persuasion's Two Deepest Levers
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With
+      Agreement - Keep the Other Mind Open
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and
+      Tension - Move People Without Coercion
 ---
 
 # Tactical Empathy - Labels, Silence, and the Accusation Audit
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 Make the counterpart's perspective and emotions discussable by labeling them aloud, then preempt the worst objections with an accusation audit.
@@ -50,10 +76,14 @@ Use **Observe–Label–Pause–Audit**:
 When a consulting contract was about to be cut, a negotiator named Anna opened by labeling the client team's likely view that her group was expensive and had failed to communicate its value. The accusations were no longer weapons the client needed to deploy, and the discussion shifted toward preserving the contract while saving the client about $1 million.
 
 ## Relationships
-- **related:** [[Mirroring and Voice - Slow the Negotiation and Keep Them Talking]]
-- **related:** [[Master No - Protect Autonomy to Start the Real Negotiation]]
-- **related:** [[Start With Agreement - Keep the Other Mind Open]]
-- **related:** [[Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No - Protect Autonomy to Start the Real Negotiation|Master No - Protect Autonomy to Start the Real Negotiation]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Mirroring and Voice - Slow the Negotiation and Keep Them Talking|Mirroring and Voice - Slow the Negotiation and Keep Them Talking]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation and Commitment - Persuasion's Two Deepest Levers|Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open|Start With Agreement - Keep the Other Mind Open]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and Tension - Move People Without Coercion|Trust and Tension - Move People Without Coercion]]
 ## Source reference
-Chris Voss with Tahl Raz, *Never Split the Difference* (2016), Chapter 3 and Appendix. Raw transcript archived in [[2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapter 3

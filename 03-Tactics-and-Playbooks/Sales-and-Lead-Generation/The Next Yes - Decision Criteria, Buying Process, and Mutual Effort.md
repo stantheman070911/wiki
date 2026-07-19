@@ -3,20 +3,52 @@ title: "The Next Yes - Decision Criteria, Buying Process, and Mutual Effort"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/qualification, topic/decision-making, topic/systems, person/keenan, source/gap-selling]
-source:
-  type: "book"
-  name: "Gap Selling"
-  author: "Keenan"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/sales,
+    topic/qualification,
+    topic/decision-making,
+    topic/systems,
+    person/keenan,
+    source/gap-selling
+  ]
+sources:
+  - id: "SRC-0034"
+    role: "primary"
+    locator: "chapters 12–13 and 18–19"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Guarantee
+      Execution - How, the Rule of Three, and Hidden Players
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No -
+      Protect Autonomy to Start the Real Negotiation
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Advances, Not
+      Continuations - Plan Every Sales Call
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Problem-Centric
+      Discovery - Four Question Types and the CRM Challenge
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for
+      Consensus - Stakeholder Outcomes and Widespread Support
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control -
+      Constructive Tension Across the Sale
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
+      Rhythm - Leads, Appointments, Presentations, and Sales
 ---
 
 # The Next Yes - Decision Criteria, Buying Process, and Mutual Effort
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Move a deal through a staircase of explicit buyer commitments by aligning decision criteria with desired outcomes, mapping every buying step, and requiring mutual effort toward the next yes.
@@ -54,10 +86,16 @@ Pipeline health is the accumulation of verified yeses, not the seller's confiden
 Keenan's ski-school platform won enthusiasm from school leaders, then repeatedly encountered IT and finally HR. The unrecognized HR approval—and its labor-law risk—turned an attractive future state into a negative gap. Missing one required yes made the deal structurally impossible, regardless of product appeal.
 
 ## Relationships
-- **related:** [[Problem-Centric Discovery - Four Question Types and the CRM Challenge]]
-- **related:** [[The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
-- **related:** [[Taking Control - Constructive Tension Across the Sale]]
-- **related:** [[Tailoring for Consensus - Stakeholder Outcomes and Widespread Support]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Guarantee Execution - How, the Rule of Three, and Hidden Players|Guarantee Execution - How, the Rule of Three, and Hidden Players]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No - Protect Autonomy to Start the Real Negotiation|Master No - Protect Autonomy to Start the Real Negotiation]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Advances, Not Continuations - Plan Every Sales Call|Advances, Not Continuations - Plan Every Sales Call]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Problem-Centric Discovery - Four Question Types and the CRM Challenge|Problem-Centric Discovery - Four Question Types and the CRM Challenge]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for Consensus - Stakeholder Outcomes and Widespread Support|Tailoring for Consensus - Stakeholder Outcomes and Widespread Support]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control - Constructive Tension Across the Sale|Taking Control - Constructive Tension Across the Sale]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
 ## Source reference
-Keenan, *Gap Selling* (2018), chapters 12–13 and 18–19. [[2026-07-18_Book_Keenan_GapSelling_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_Keenan_GapSelling_RawTranscript|Gap Selling]] — locator: chapters 12–13 and 18–19

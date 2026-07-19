@@ -1,24 +1,42 @@
 ---
-title: "Direct-Response Copywriting - NEWIF, the Nine Questions, and Three Conversion-Killing Mistakes"
+title: "Direct-Response Copywriting - NEWIF, the Nine Questions, and Three
+  Conversion-Killing Mistakes"
 aliases:
-  - "Direct-Response Copywriting - NEWIF, the Nine Questions, and Three Conversion-Killing Mistakes"
+  - "Direct-Response Copywriting - NEWIF, the Nine Questions, and Three
+    Conversion-Killing Mistakes"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/copywriting, topic/persuasion, topic/proof, person/sabri-suby]
-source:
-  type: "video"
-  name: "Customer Acquisition, Offers, and Ads Playbook (compilation)"
-  author: "Sabri Suby"
-  url: ""
-  date_of_source: ""
+tags: [ topic/copywriting, topic/persuasion, topic/proof, person/sabri-suby ]
+sources:
+  - id: "SRC-0078"
+    role: "primary"
 date_added: "2026-07-10"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+  Creation and Distribution Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A
+      Seven-Part Framework for an Irresistible Offer
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid
+      and the Halo Strategy
+  - type: has-derivative
+    target: 07-Articles/Change the Comparison Before You Change the Price
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hyperdopamine
+      Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
+      Proof, Path - Engineering the Video Intro
 ---
 
 # Direct-Response Copywriting - NEWIF, the Nine Questions, and Three Conversion-Killing Mistakes
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution]]
 
 ## One-line summary
 Sales messages convert on two checklists — is the message New, Unique, Exciting, Easy, Predictable, and Huge (NEWIF), and does it answer all nine questions a skeptical prospect is silently asking — and fail for three repeatable, fixable reasons: burying the benefit, jargon, and claims louder than proof.
@@ -76,10 +94,14 @@ Following this formula tends to make messaging polarizing — Suby's view is tha
 - The Facebook retargeting-pixel dynamic cited as evidence that claims alone no longer differentiate: once a prospect clicks one ad in a category, they're immediately flooded with competitor ads making the identical claim, so proof becomes the only remaining differentiator.
 
 ## Relationships
-- **related:** [[Hyperdopamine Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy]]
-- **applies:** [[The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
-- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
-- **applies:** [[The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A Seven-Part Framework for an Irresistible Offer|The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]]
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid and the Halo Strategy|The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
+- **Has derivative:** [[07-Articles/Change the Comparison Before You Change the Price|Change the Comparison Before You Change the Price]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hyperdopamine Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy|Hyperdopamine Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]
 ## Source reference
-Sabri Suby, marketing-mistakes and customer-acquisition training videos (part of a four-video compilation). Raw transcript and extraction notes archived at [[2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook|Customer Acquisition, Offers, And Ads Playbook]]

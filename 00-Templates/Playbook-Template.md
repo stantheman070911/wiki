@@ -2,15 +2,15 @@
 title: ""
 type: "template"
 template_for: "playbook"
-domain: ""
+domain: "tactics-and-playbooks"
 lang: "en"
 tags: []
-source:
-  type: ""
-  name: ""
-  author: ""
-  url: ""
-  date_of_source: ""
+sources:
+  - id: ""
+    role: "primary"
+relationships:
+  - type: "related"
+    target: ""
 date_added: ""
 updated: ""
 reviewed_on: ""
@@ -21,28 +21,34 @@ status: "draft"
 
 ## One-line summary
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- State the result this procedure produces in one sentence. -->
 
-## Use case / context
+## Context
 
-<!-- Complete or remove guidance comments before review. -->
-
-## Prerequisites
-
-<!-- Complete or remove guidance comments before review. -->
+<!-- Define the use case, trigger, and boundary conditions. -->
 
 ## Procedure
 
-<!-- Complete or remove guidance comments before review. -->
+### Prerequisites
 
-## Checks and exceptions
+<!-- List inputs, permissions, tools, or decisions required before starting. -->
 
-<!-- Complete or remove guidance comments before review. -->
+### Steps
+
+<!-- Use a numbered sequence with one verifiable action per step. -->
+
+### Checks and exceptions
+
+<!-- State completion checks, failure conditions, and alternate branches. -->
+
+## Application
+
+<!-- Explain adaptation by context, scale, or maturity when the procedure is not one-size-fits-all. -->
 
 ## Relationships
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- Generated from frontmatter `relationships`; do not edit this section manually. -->
 
 ## Source reference
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- Generated from frontmatter `sources`; do not edit this section manually. -->

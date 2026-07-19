@@ -3,20 +3,54 @@ title: "Managerial Output and Leverage"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/management, topic/leverage, topic/leadership, topic/inputs-vs-outputs, person/andrew-grove, source/high-output-management]
-source:
-  type: "book"
-  name: "High Output Management"
-  author: "Andrew S. Grove"
-  url: ""
-  date_of_source: "1983"
+tags:
+  [
+    topic/management,
+    topic/leverage,
+    topic/leadership,
+    topic/inputs-vs-outputs,
+    person/andrew-grove,
+    source/high-output-management
+  ]
+sources:
+  - id: "SRC-0022"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders -
+      Reverse-Engineer OTE, Profit Pools, and Phantom Equity
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Performance Appraisal as a
+      Management System
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as
+      Managerial Production
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Overwhelm Is
+      a System Signal - Diagnose Before Burnout
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning
+      Backward from the Gap
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Breakfast Factory - Limiting Steps, WIP, and Capacity
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Task-Relevant
+      Maturity
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace
+      Influence Mapping - Authority, Value, and Recognition
 ---
 
 # Managerial Output and Leverage
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 A manager's output is the output of the teams under their supervision or influence, so managerial productivity rises by choosing timely activities that multiply other people's performance.
@@ -59,10 +93,17 @@ Use four questions on each candidate activity: Who will it affect? For how long?
 Grove's two-hour new-employee orientation affected roughly two hundred people at once and modeled Intel's values through both content and behavior. A performance review uses only a few managerial hours but can redirect a person's work for a year. Conversely, a manager who delayed a decision effectively gave a red light to an entire organization, illustrating how inaction can have high negative leverage.
 
 ## Relationships
-- **related:** [[Meetings as Managerial Production]]
-- **related:** [[Performance Appraisal as a Management System]]
-- **related:** [[Task-Relevant Maturity]]
-- **related:** [[Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity|Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Performance Appraisal as a Management System|Performance Appraisal as a Management System]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as Managerial Production|Meetings as Managerial Production]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Overwhelm Is a System Signal - Diagnose Before Burnout|Overwhelm Is a System Signal - Diagnose Before Burnout]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning Backward from the Gap|Planning Backward from the Gap]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Breakfast Factory - Limiting Steps, WIP, and Capacity|The Breakfast Factory - Limiting Steps, WIP, and Capacity]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Task-Relevant Maturity|Task-Relevant Maturity]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace Influence Mapping - Authority, Value, and Recognition|Workplace Influence Mapping - Authority, Value, and Recognition]]
 ## Source reference
-Andrew S. Grove, *High Output Management* (1983; revised 1995). [[2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript|High Output Management - Raw Transcript]]

@@ -3,20 +3,51 @@ title: "The Challenger Selling Model - Teach, Tailor, and Take Control"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/persuasion, topic/differentiation, person/matthew-dixon, person/brent-adamson, source/the-challenger-sale]
-source:
-  type: "book"
-  name: "The Challenger Sale"
-  author: "Matthew Dixon and Brent Adamson"
-  url: ""
-  date_of_source: "2011"
+tags:
+  [
+    topic/sales,
+    topic/persuasion,
+    topic/differentiation,
+    person/matthew-dixon,
+    person/brent-adamson,
+    source/the-challenger-sale
+  ]
+sources:
+  - id: "SRC-0035"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Gap Selling -
+      Current State, Future State, and the Value of Change
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test,
+      Evaluate, and Sort People
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching -
+      Insight That Leads to Unique Strengths
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
+      Intellectual Property - Process Above the Player
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for
+      Consensus - Stakeholder Outcomes and Widespread Support
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control -
+      Constructive Tension Across the Sale
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Commercial
+      Teaching Conversation - From Warmer to Your Solution
 ---
 
 # The Challenger Selling Model - Teach, Tailor, and Take Control
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 In complex sales, outperform by teaching a differentiated perspective, tailoring it to each stakeholder’s economics, and taking respectful control of progress and value.
@@ -52,11 +83,16 @@ Use the full model for complex, disruptive, multi-stakeholder sales; do not over
 Relationship Builders sought entry into the customer’s comfort zone; Challengers sought to move the customer beyond it. The research found nearly 40 percent of all star performers in the Challenger cluster, compared with only 7 percent in the Relationship Builder cluster, with the gap becoming more extreme in complex sales.
 
 ## Relationships
-- **related:** [[Commercial Teaching - Insight That Leads to Unique Strengths]]
-- **related:** [[The Commercial Teaching Conversation - From Warmer to Your Solution]]
-- **related:** [[Tailoring for Consensus - Stakeholder Outcomes and Widespread Support]]
-- **related:** [[Taking Control - Constructive Tension Across the Sale]]
-- **related:** [[Sales Systems as Intellectual Property - Process Above the Player]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Gap Selling - Current State, Future State, and the Value of Change|Gap Selling - Current State, Future State, and the Value of Change]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People|Constantly Train, Test, Evaluate, and Sort People]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching - Insight That Leads to Unique Strengths|Commercial Teaching - Insight That Leads to Unique Strengths]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for Consensus - Stakeholder Outcomes and Widespread Support|Tailoring for Consensus - Stakeholder Outcomes and Widespread Support]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control - Constructive Tension Across the Sale|Taking Control - Constructive Tension Across the Sale]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Commercial Teaching Conversation - From Warmer to Your Solution|The Commercial Teaching Conversation - From Warmer to Your Solution]]
 ## Source reference
-Matthew Dixon and Brent Adamson, *The Challenger Sale: Taking Control of the Customer Conversation* (2011). [[2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript|The Challenger Sale]]

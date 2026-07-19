@@ -3,20 +3,30 @@ title: "Bigger Than Your Problems vs. Smaller Than Your Problems"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/decision-making, topic/identity, person/t-harv-eker]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags: [ topic/mindset, topic/decision-making, topic/identity, person/t-harv-eker ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Act in Spite of
+      Fear vs. Let Fear Stop You
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on
+      Opportunities vs. Focus on Obstacles - Ready, Fire, Aim
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/I Create My Life
+      vs. Life Happens to Me - Escaping the Victim Triangle
 ---
 
 # Bigger Than Your Problems vs. Smaller Than Your Problems
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 Problems don't go away as you get richer — you get bigger relative to them; the size of a problem is never the real issue, only the size of the person facing it, and growing yourself is the only permanent fix.
@@ -37,9 +47,12 @@ Wealth File #9. Eker generalizes this into a container metaphor: your wealth can
 - Treat "growing yourself" as the actual wealth strategy: instead of only chasing bigger opportunities, deliberately take on responsibilities slightly past your current comfort level so your capacity keeps pace with (or leads) your income.
 
 ## Relationships
-- **related:** [[Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim]]
-- **related:** [[Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
-- **related:** [[I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Act in Spite of Fear vs. Let Fear Stop You|Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim|Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle|I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #9. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

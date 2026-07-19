@@ -1,12 +1,17 @@
 ---
+source_id: "SRC-0034"
 title: "Gap Selling"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Keenan"
+    role: "author"
 source_type: "book"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Keenan"
+published_on: "2018"
 date_archived: "2026-07-18"
 status: "source"
 ---

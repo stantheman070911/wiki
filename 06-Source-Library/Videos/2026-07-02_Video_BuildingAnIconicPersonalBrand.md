@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0061"
 title: "Building An Iconic Personal Brand"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Unknown"
+    role: "unknown"
 source_type: "video"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: ""
 date_archived: "2026-07-02"
 status: "source"
 ---

@@ -3,20 +3,43 @@ title: "Quitting Well and Moving On"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/career, topic/reputation, topic/trust, topic/strategy, topic/commitment, person/bill-burnett, person/dave-evans, source/designing-your-new-work-life]
-source:
-  type: "book"
-  name: "Designing Your New Work Life"
-  author: "Bill Burnett and Dave Evans"
-  url: ""
-  date_of_source: "2021"
+tags:
+  [
+    topic/career,
+    topic/reputation,
+    topic/trust,
+    topic/strategy,
+    topic/commitment,
+    person/bill-burnett,
+    person/dave-evans,
+    source/designing-your-new-work-life
+  ]
+sources:
+  - id: "SRC-0026"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well -
+      Narrow, Decide, Let Go, and Move On
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good
+      Enough for Now - Acceptance Without Settling
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign,
+      Redesign - Four Ways to Change Work in Place
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You
+      Pivot - Life Design Interviews and Experiences
 ---
 
 # Quitting Well and Moving On
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 A generative quit converts the final months of one job into reputation, relationships, operating knowledge, and momentum for the next.
@@ -55,10 +78,13 @@ Then execute four steps:
 Before leaving Apple, Bill Burnett spent months arranging promotions for two deserving team members and handing a major laptop program to a trusted leader. He departed after seven years with the team strengthened and his network intact, then moved into a design consultancy.
 
 ## Relationships
-- **related:** [[Don't Resign, Redesign - Four Ways to Change Work in Place]]
-- **related:** [[Good Enough for Now - Acceptance Without Settling]]
-- **related:** [[Prototype Before You Pivot - Life Design Interviews and Experiences]]
-- **related:** [[Choosing Well - Narrow, Decide, Let Go, and Move On]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well - Narrow, Decide, Let Go, and Move On|Choosing Well - Narrow, Decide, Let Go, and Move On]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good Enough for Now - Acceptance Without Settling|Good Enough for Now - Acceptance Without Settling]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign, Redesign - Four Ways to Change Work in Place|Don't Resign, Redesign - Four Ways to Change Work in Place]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You Pivot - Life Design Interviews and Experiences|Prototype Before You Pivot - Life Design Interviews and Experiences]]
 ## Source reference
-Bill Burnett and Dave Evans, *Designing Your New Work Life* (2021; originally published as *Designing Your Work Life*, 2020). [[2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript|Designing Your New Work Life - Raw Transcript]]

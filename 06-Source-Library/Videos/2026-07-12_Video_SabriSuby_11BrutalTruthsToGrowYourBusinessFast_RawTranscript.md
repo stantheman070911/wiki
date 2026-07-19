@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0084"
 title: "11 Brutal Truths To Grow Your Business Fast"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Sabri Suby"
+    role: "creator"
 source_type: "video"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Sabri Suby"
 date_archived: "2026-07-12"
 status: "source"
 ---

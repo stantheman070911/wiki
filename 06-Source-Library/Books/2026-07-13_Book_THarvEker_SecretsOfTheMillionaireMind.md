@@ -1,12 +1,17 @@
 ---
+source_id: "SRC-0018"
 title: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "T. Harv Eker"
+    role: "author"
 source_type: "book"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "T. Harv Eker"
+published_on: "2005"
 date_archived: "2026-07-13"
 status: "source"
 ---

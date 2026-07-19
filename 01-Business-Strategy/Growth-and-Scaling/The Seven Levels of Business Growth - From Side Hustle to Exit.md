@@ -3,20 +3,56 @@ title: "The Seven Levels of Business Growth - From Side Hustle to Exit"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/growth, topic/scaling, topic/business-model, topic/delegation, topic/org-design, topic/m-and-a, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "Seven Levels of Business"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/growth,
+    topic/scaling,
+    topic/business-model,
+    topic/delegation,
+    topic/org-design,
+    topic/m-and-a,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0102"
+    role: "primary"
+  - id: "SRC-0105"
+    role: "supporting"
+  - id: "SRC-0096"
+    role: "supporting"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor
+      Dilution Problem - Four Ways to Scale Past Yourself
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary
+      Aim and Strategic Objective - Make the Business Serve the Life
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
+      - Who-Not-How and Planning Backward From the Goal
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
+      Shapes - E-commerce, Service, Education, Software
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Lifestyle
+      Boutique Operating Model - Team, Product Ecosystem, and Campaigns
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle -
+      Recover Time, Capital, and Better Judgment
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle -
+      Infancy, Adolescence, and Maturity
 ---
 
 # The Seven Levels of Business Growth - From Side Hustle to Exit
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Each revenue level requires a different founder job, asset base, and organization; growth stalls when a business keeps using the skills and structure of the previous stage.
@@ -50,14 +86,18 @@ The central strategic fork is between a **lifestyle boutique**—roughly 4–12 
 Priestley describes losing access to prominent partners during the financial crisis and discovering that the attention, reputation, and market access had belonged to those partners rather than to his company. The next stage required formalizing assets the business itself owned.
 
 ## Relationships
-- **related:** [[The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns]]
-- **applies:** [[The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]]
-- **applies:** [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
-- **related:** [[Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor Dilution Problem - Four Ways to Scale Past Yourself|The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary Aim and Strategic Objective - Make the Business Serve the Life|Primary Aim and Strategic Objective - Make the Business Serve the Life]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns|The Lifestyle Boutique Operating Model - Team, Product Ecosystem, and Campaigns]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment|Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle - Infancy, Adolescence, and Maturity|The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
 ## Source reference
-Daniel Priestley, *Seven Levels of Business*. Raw transcript in [[2026-07-13_Video_DanielPriestley_SevenLevelsOfBusiness_RawTranscript]].
 
-Daniel Priestley, *Zero to Seven Figures in Five Steps*. Raw transcript in [[2026-07-13_Video_DanielPriestley_ZeroToSevenFiguresInFiveSteps_RawTranscript]].
-
-Daniel Priestley, *Lifestyle Business vs. Performance Business*. Raw transcript in [[2026-07-13_Video_DanielPriestley_LifestyleBusinessVsPerformanceBusiness_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_SevenLevelsOfBusiness_RawTranscript|Seven Levels of Business - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_ZeroToSevenFiguresInFiveSteps_RawTranscript|Zero to Seven Figures in Five Steps - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_LifestyleBusinessVsPerformanceBusiness_RawTranscript|Lifestyle Business vs. Performance Business - Raw Transcript]]

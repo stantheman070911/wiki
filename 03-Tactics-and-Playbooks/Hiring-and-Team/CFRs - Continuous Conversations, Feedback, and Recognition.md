@@ -3,20 +3,44 @@ title: "CFRs - Continuous Conversations, Feedback, and Recognition"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/feedback, topic/management, topic/culture, topic/leadership, person/john-doerr, source/measure-what-matters]
-source:
-  type: "book"
-  name: "Measure What Matters"
-  author: "John Doerr"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/feedback,
+    topic/management,
+    topic/culture,
+    topic/leadership,
+    person/john-doerr,
+    source/measure-what-matters
+  ]
+sources:
+  - id: "SRC-0032"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and
+      Align - Make Priorities and Dependencies Public
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Soft Skills
+      Are Observable Behavior Chains
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as
+      Infrastructure
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Performance Appraisal as a
+      Management System
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating
+      Cycle - Set, Check In, Score, and Reflect
 ---
 
 # CFRs - Continuous Conversations, Feedback, and Recognition
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Continuous performance management combines contributor-led conversations, specific multidirectional feedback, and visible recognition so goals remain human, current, and useful for growth.
@@ -55,11 +79,14 @@ Short pulse surveys can complement the loop by detecting changes in clarity, ene
 - Lumeris learned that OKRs failed as paperwork until leaders built trust, trained every manager, and practiced "brutal transparency without judgment."
 
 ## Relationships
-- **related:** [[The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
-- **related:** [[Focus and Align - Make Priorities and Dependencies Public]]
-- **related:** [[Performance Appraisal as a Management System]]
-- **related:** [[Soft Skills Are Observable Behavior Chains]]
-- **related:** [[Trust as Infrastructure]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and Align - Make Priorities and Dependencies Public|Focus and Align - Make Priorities and Dependencies Public]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Soft Skills Are Observable Behavior Chains|Soft Skills Are Observable Behavior Chains]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as Infrastructure|Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Performance Appraisal as a Management System|Performance Appraisal as a Management System]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating Cycle - Set, Check In, Score, and Reflect|The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
 ## Source reference
-John Doerr, *Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs* (2018). Raw transcript in [[2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript|Measure What Matters]]

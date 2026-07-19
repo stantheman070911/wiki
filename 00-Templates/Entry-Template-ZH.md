@@ -3,14 +3,14 @@ title: ""
 type: "template"
 template_for: "generic-knowledge"
 domain: ""
-lang: "zh"                # en | zh（每則條目單一語言；譯文以 Related entries 互相連結）
+lang: "zh"                # en | zh（每則條目單一語言；真正譯文以 translation 關係互相連結）
 tags: []                  # 分面且受控：topic/… person/… source/… — 先從 [[Tags]] 複用既有標籤
-source:
-  type: ""                # podcast | article | book | pdf | paper | video | image | presentation | interview | conversation
-  name: ""
-  author: ""
-  url: ""
-  date_of_source: ""      # 原始發布日期（若已知）
+sources:
+  - id: ""                # 來源記錄的不可變 source_id
+    role: "primary"       # primary | supporting | contrasting | example | background
+relationships:
+  - type: "related"       # prerequisite | applies | example | contrast | translation | related
+    target: ""             # 目標治理知識頁的精確標題
 date_added: ""            # YYYY-MM-DD
 updated: ""               # YYYY-MM-DD
 reviewed_on: ""           # 草稿留空；reviewed / evergreen 填寫日期
@@ -45,10 +45,9 @@ status: "draft"           # draft | reviewed | evergreen
 具體、可執行的步驟；具體到不必回頭看原始來源也能照做。
 
 ## 關係
-- **related:** 相關條目的 wikilink，例如 `[[條目標題]]`
-- **translation:** 真正的跨語言對應條目：`[[Its English counterpart]]`
+
+<!-- 由 frontmatter 的 `relationships` 自動產生；請勿手動編輯本節。 -->
 
 ## 來源
-完整引註，接著給出封存副本的「真實連結」：Markdown 筆記用 wikilink
-（`[[2026-07-08_Book_Author_Title]]`），附件用角括號連結
-（`[檔名.pdf](<../06-Source-Library/Books/檔名.pdf>)`）。切勿只寫成程式碼區塊路徑。
+
+<!-- 由 frontmatter 的 `sources` 自動產生；請勿手動編輯本節。 -->

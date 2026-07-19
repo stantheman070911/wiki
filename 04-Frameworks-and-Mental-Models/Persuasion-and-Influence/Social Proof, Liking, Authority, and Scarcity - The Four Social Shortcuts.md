@@ -3,20 +3,66 @@ title: "Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcut
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/persuasion, person/robert-cialdini]
-source:
-  type: "book"
-  name: "Influence: The Psychology of Persuasion"
-  author: "Robert B. Cialdini"
-  url: ""
-  date_of_source: ""
+tags: [ topic/persuasion, person/robert-cialdini ]
+sources:
+  - id: "SRC-0002"
+    role: "primary"
+    locator: "ch. 4–7"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Design for the Second Audience
+  - type: has-example
+    target: 05-Intelligence-and-Research/The Risk Continuum - Building an
+      AI-Resistant Personal Brand
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points
+      - Anchor a New Position to What's Already Believed
+  - type: is-applied-by
+    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
+      Unscalable Premium Offer
+  - type: is-applied-by
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
+      Selling Through Trusted Referrers
+  - type: is-applied-by
+    target: 02-Social-Media-Strategy/可信度行銷與公開建構
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value
+      - The Psychology of Deals and the Rule of 100
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
+      Observability and Behavioral Residue
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation
+      and Commitment - Persuasion's Two Deepest Levers
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal -
+      The Guarantee Toolkit
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and
+      Urgency - Engineering Demand with Supply and Deadlines
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency
+      - We Share What Makes Us Look Good
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority
+      Rule - How Intransigent Preferences Dominate Flexible Majorities
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
+      Framework - Six Drivers of Word of Mouth
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of
+      Influence - Click-Whirr, Trigger Features, and the Contrast Principle
 ---
 
 # Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 Four more automatic compliance triggers: we follow the crowd (social proof), say yes to people we like (liking), defer to experts (authority), and want what's rare (scarcity) — each a usually-useful shortcut that is routinely counterfeited.
@@ -56,12 +102,24 @@ Rounding out Cialdini's six principles. Each is a heuristic that outsources a ha
 - "Limited time / while supplies last"; banned books and restricted information becoming more desired.
 
 ## Relationships
-- **related:** [[Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
-- **related:** [[Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
-- **related:** [[可信度行銷與公開建構]]
-- **related:** [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
-- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
-- **related:** [[Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Design for the Second Audience|Design for the Second Audience]]
+- **Has example:** [[05-Intelligence-and-Research/The Risk Continuum - Building an AI-Resistant Personal Brand|The Risk Continuum: Building an AI-Resistant Personal Brand]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points - Anchor a New Position to What's Already Believed|Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
+- **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
+- **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
+- **Is applied by:** [[02-Social-Media-Strategy/可信度行銷與公開建構|可信度行銷與公開建構]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100|Practical Value - The Psychology of Deals and the Rule of 100]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue|Public - Observability and Behavioral Residue]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation and Commitment - Persuasion's Two Deepest Levers|Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal - The Guarantee Toolkit|Risk Reversal - The Guarantee Toolkit]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and Urgency - Engineering Demand with Supply and Deadlines|Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good|Social Currency - We Share What Makes Us Look Good]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities|The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle|Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
 ## Source reference
-Robert B. Cialdini, *Influence: The Psychology of Persuasion*, ch. 4–7. Extraction notes in [[2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion]]; PDF archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion|Influence Psychology Of Persuasion]] — locator: ch. 4–7

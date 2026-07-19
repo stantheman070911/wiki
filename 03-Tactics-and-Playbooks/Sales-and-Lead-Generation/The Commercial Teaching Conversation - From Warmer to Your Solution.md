@@ -3,20 +3,42 @@ title: "The Commercial Teaching Conversation - From Warmer to Your Solution"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/storytelling, topic/messaging, person/matthew-dixon, person/brent-adamson, source/the-challenger-sale]
-source:
-  type: "book"
-  name: "The Challenger Sale"
-  author: "Matthew Dixon and Brent Adamson"
-  url: ""
-  date_of_source: "2011"
+tags:
+  [
+    topic/sales,
+    topic/storytelling,
+    topic/messaging,
+    person/matthew-dixon,
+    person/brent-adamson,
+    source/the-challenger-sale
+  ]
+sources:
+  - id: "SRC-0035"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
+      - Heros Journey, the Trojan Horse, and Handling Objections
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching -
+      Insight That Leads to Unique Strengths
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for
+      Consensus - Stakeholder Outcomes and Widespread Support
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger
+      Selling Model - Teach, Tailor, and Take Control
 ---
 
 # The Commercial Teaching Conversation - From Warmer to Your Solution
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Lead customers from a familiar business challenge to a surprising reframe, make its consequences rationally and emotionally unavoidable, establish a new way to act, and only then introduce your solution.
@@ -54,10 +76,13 @@ The six-step choreography is:
 ADP Dealer Services taught dealerships that buying isolated low-cost software systems created duplicated processes and hidden expenses—up to 40 percent redundant costs. Its Profit Clinics spent the first two-thirds on dealership economics and only then showed how an integrated ADP system enabled the new way.
 
 ## Relationships
-- **related:** [[Commercial Teaching - Insight That Leads to Unique Strengths]]
-- **related:** [[The Challenger Selling Model - Teach, Tailor, and Take Control]]
-- **related:** [[Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections]]
-- **related:** [[Tailoring for Consensus - Stakeholder Outcomes and Widespread Support]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections|Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching - Insight That Leads to Unique Strengths|Commercial Teaching - Insight That Leads to Unique Strengths]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for Consensus - Stakeholder Outcomes and Widespread Support|Tailoring for Consensus - Stakeholder Outcomes and Widespread Support]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger Selling Model - Teach, Tailor, and Take Control|The Challenger Selling Model - Teach, Tailor, and Take Control]]
 ## Source reference
-Matthew Dixon and Brent Adamson, *The Challenger Sale: Taking Control of the Customer Conversation* (2011). [[2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript|The Challenger Sale]]

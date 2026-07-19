@@ -3,20 +3,39 @@ title: "Startup Hubs - Ambition, Density, and the People Who Matter"
 type: "research"
 domain: "intelligence-and-research"
 lang: "en"
-tags: [topic/startups, topic/culture, topic/recruiting, topic/capital, topic/growth, person/paul-graham, source/paul-graham-essays]
-source:
-  type: "essay collection"
-  name: "Paul Graham - Collected Essays"
-  author: "Paul Graham"
-  url: "https://paulgraham.com/articles.html"
-  date_of_source: "2006-2016"
+tags:
+  [
+    topic/startups,
+    topic/culture,
+    topic/recruiting,
+    topic/capital,
+    topic/growth,
+    person/paul-graham,
+    source/paul-graham-essays
+  ]
+sources:
+  - id: "SRC-0046"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 05-Intelligence-and-Research/Intelligence and Research Index
+relationships:
+  - type: example
+    target: 01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly
+      Compounding and Market Size
+  - type: example
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich
+      People Model Winners, Poor People Hang Around Losers
+  - type: example
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group
+      and Re-engineering Your Circle
 ---
 
 # Startup Hubs - Ambition, Density, and the People Who Matter
+
+> **Up:** [[Home|Home]] → [[05-Intelligence-and-Research/Intelligence and Research Index|Intelligence and Research]]
 
 ## One-line summary
 Startup hubs work through dense, self-reinforcing networks of ambitious builders, technical talent, experienced investors, trust, and a local culture that treats company creation as normal.
@@ -46,9 +65,12 @@ Assess an ecosystem across **talent density, founder ambition, experienced capit
 Silicon Valley's advantage is not a monument but a high probability that a chance meeting includes someone who can help start, fund, or understand a technology company. Pittsburgh's plausible path was to become more intensely itself, using universities, affordability, and existing technical strengths.
 
 ## Relationships
-- **example:** [[The Reference Group and Re-engineering Your Circle]]
-- **example:** [[Association - Rich People Model Winners, Poor People Hang Around Losers]]
-- **example:** [[Startup Equals Growth - Weekly Compounding and Market Size]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Example:** [[01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly Compounding and Market Size|Startup Equals Growth - Weekly Compounding and Market Size]]
+- **Example:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich People Model Winners, Poor People Hang Around Losers|Association - Rich People Model Winners, Poor People Hang Around Losers]]
+- **Example:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle|The Reference Group and Re-engineering Your Circle]]
 ## Source reference
-Paul Graham, “Why Startup Hubs Work,” “Cities and Ambition,” “How to Be Silicon Valley,” “How to Make Pittsburgh a Startup Hub,” and “Why to Move to a Startup Hub,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

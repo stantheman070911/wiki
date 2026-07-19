@@ -6,20 +6,40 @@ type: "series-entry"
 domain: "business-strategy"
 series: "$100M Scaling Roadmap"
 lang: "zh"
-tags: [topic/scaling, source/acquisition-100m-roadmap, topic/niche, topic/focus, topic/management, person/alex-hormozi]
-source:
-  type: "pdf"
-  name: "$100M Scaling Roadmap（Personalized Guide）"
-  author: "Alex Hormozi / Acquisition.com"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/scaling,
+    source/acquisition-100m-roadmap,
+    topic/niche,
+    topic/focus,
+    topic/management,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0059"
+    role: "primary"
+    locator: "Stage 4"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
+relationships:
+  - type: derives-from
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
+  - type: is-prerequisite-for
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-5-Productize
+  - type: prerequisite
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-3-Stabilize
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/TikTok Shop與飽和市場的白地策略
+  - type: related
+    target: 02-Social-Media-Strategy/受眾定位與先小後大法則
 ---
 
 # $100M 擴張路線圖 · Stage 4：Prioritize 取捨
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
 
 > 系列導覽：[[$100M Scaling Roadmap Overview|總覽與方法論]]　｜　上一關：[[Stage-3-Stabilize|Stage 3：Stabilize 穩定]]　｜　下一關：[[Stage-5-Productize|Stage 5：Productize 產品化]]
 
@@ -75,12 +95,13 @@ status: "reviewed"
 
 ## 關係
 
-- **related:** [[$100M Scaling Roadmap Overview|總覽與方法論]]
-- **prerequisite:** [[Stage-3-Stabilize|Stage 3：Stabilize 穩定]]
-- **related:** [[Stage-5-Productize|Stage 5：Productize 產品化]]
-- **related:** [[受眾定位與先小後大法則]]（先在小眾稱王的同源原則）
-- **related:** [[TikTok Shop與飽和市場的白地策略]]（用受眾白地聚焦特定客群）
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **衍生自:** [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
+- **是其前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-5-Productize|$100M 擴張路線圖 · Stage 5：Productize 產品化]]
+- **前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-3-Stabilize|$100M 擴張路線圖 · Stage 3：Stabilize 穩定]]
+- **相關:** [[01-Business-Strategy/Growth-and-Scaling/TikTok Shop與飽和市場的白地策略|TikTok Shop與飽和市場的白地策略]]
+- **相關:** [[02-Social-Media-Strategy/受眾定位與先小後大法則|受眾定位與先小後大法則]]
 ## 來源
 
-$100M Scaling Roadmap（Personalized Guide），Stage 4，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap|$100M Scaling Roadmap（Personalized Guide）]] — locator: Stage 4

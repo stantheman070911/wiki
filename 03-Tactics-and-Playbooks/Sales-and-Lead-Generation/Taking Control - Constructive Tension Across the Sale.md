@@ -3,20 +3,49 @@ title: "Taking Control - Constructive Tension Across the Sale"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/persuasion, topic/pricing, topic/qualification, person/matthew-dixon, person/brent-adamson, source/the-challenger-sale]
-source:
-  type: "book"
-  name: "The Challenger Sale"
-  author: "Matthew Dixon and Brent Adamson"
-  url: ""
-  date_of_source: "2011"
+tags:
+  [
+    topic/sales,
+    topic/persuasion,
+    topic/pricing,
+    topic/qualification,
+    person/matthew-dixon,
+    person/brent-adamson,
+    source/the-challenger-sale
+  ]
+sources:
+  - id: "SRC-0035"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and
+      Tension - Move People Without Coercion
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
+      Sell the Goal, Scope the Journey, Secure Prepayment
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for
+      Consensus - Stakeholder Outcomes and Widespread Support
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger
+      Selling Model - Teach, Tailor, and Take Control
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
+      Rhythm - Leads, Appointments, Presentations, and Sales
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes -
+      Decision Criteria, Buying Process, and Mutual Effort
 ---
 
 # Taking Control - Constructive Tension Across the Sale
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Take respectful control from qualification through negotiation by holding firm on value, making clear requests, and delaying premature closure long enough to uncover better paths forward.
@@ -54,10 +83,15 @@ Prepare power positions, needed information, likely objections, desired outcomes
 A paint supplier’s rep refused to concede a price increase unsupported by the economics. He documented productivity improvements, verified them with plant leadership, and secured a joint conversation with purchasing. The increase was accepted because the rep stood on demonstrated value without attacking the buyer.
 
 ## Relationships
-- **related:** [[The Challenger Selling Model - Teach, Tailor, and Take Control]]
-- **related:** [[Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
-- **related:** [[The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
-- **related:** [[Tailoring for Consensus - Stakeholder Outcomes and Widespread Support]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and Tension - Move People Without Coercion|Trust and Tension - Move People Without Coercion]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for Consensus - Stakeholder Outcomes and Widespread Support|Tailoring for Consensus - Stakeholder Outcomes and Widespread Support]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger Selling Model - Teach, Tailor, and Take Control|The Challenger Selling Model - Teach, Tailor, and Take Control]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes - Decision Criteria, Buying Process, and Mutual Effort|The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
 ## Source reference
-Matthew Dixon and Brent Adamson, *The Challenger Sale: Taking Control of the Customer Conversation* (2011). [[2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript|The Challenger Sale]]

@@ -3,20 +3,50 @@ title: "Absurdity as a Brand Signal"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/brand, topic/differentiation, topic/storytelling, topic/reach, topic/positioning, person/steven-bartlett]
-source:
-  type: "book"
-  name: "The Diary of a CEO - The 33 Laws of Business and Life"
-  author: "Steven Bartlett"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/brand,
+    topic/differentiation,
+    topic/storytelling,
+    topic/reach,
+    topic/positioning,
+    person/steven-bartlett
+  ]
+sources:
+  - id: "SRC-0017"
+    role: "primary"
+    locator: "Laws 10 and 12"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Design for the Second Audience
+  - type: is-applied-by
+    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
+      Discount - Make the Difference Obvious
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking
+      Attention - Topic, Format, Hook and the Content Engine
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Seven
+      Principles of Building an Iconic Brand
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
+      Features - Sell the Identity Behind the Product
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
+      Actually Is - Association, Influence, Direction, Reach
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency
+      - We Share What Makes Us Look Good
 ---
 
 # Absurdity as a Brand Signal
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 A conspicuous, apparently impractical choice can communicate a brand’s identity more memorably than a list of useful features because costly deviation from convention gives people a story worth retelling.
@@ -52,10 +82,16 @@ Evaluate a proposed **brand signal** with four questions:
 Bartlett’s early agency installed an oversized blue slide in an office with few employees. It was rarely used for transport, but it became the image journalists repeatedly used to convey youth, disruption, and playfulness. Tesla’s unconventional mode names and hidden playful features similarly generated conversation that conventional specifications did not.
 
 ## Relationships
-- **related:** [[The Seven Principles of Building an Iconic Brand]]
-- **related:** [[Values Before Features - Sell the Identity Behind the Product]]
-- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- **related:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Design for the Second Audience|Design for the Second Audience]]
+- **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious|Decommoditize Before You Discount - Make the Difference Obvious]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking Attention - Topic, Format, Hook and the Content Engine|Hacking Attention - Topic, Format, Hook and the Content Engine]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Seven Principles of Building an Iconic Brand|The Seven Principles of Building an Iconic Brand]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product|Values Before Features - Sell the Identity Behind the Product]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good|Social Currency - We Share What Makes Us Look Good]]
 ## Source reference
-Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Laws 10 and 12. Raw transcript archived in [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Laws 10 and 12

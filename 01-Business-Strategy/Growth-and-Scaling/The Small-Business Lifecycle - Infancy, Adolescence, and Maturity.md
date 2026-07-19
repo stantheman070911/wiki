@@ -3,20 +3,52 @@ title: "The Small-Business Lifecycle - Infancy, Adolescence, and Maturity"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/growth, topic/scaling, topic/delegation, topic/operations, topic/management, topic/org-design, person/michael-gerber, source/e-myth-revisited]
-source:
-  type: "book"
-  name: "The E-Myth Revisited"
-  author: "Michael E. Gerber"
-  url: ""
-  date_of_source: "1995"
+tags:
+  [
+    topic/growth,
+    topic/scaling,
+    topic/delegation,
+    topic/operations,
+    topic/management,
+    topic/org-design,
+    person/michael-gerber,
+    source/e-myth-revisited
+  ]
+sources:
+  - id: "SRC-0011"
+    role: "primary"
+    locator: "chapters 3–6"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth
+      Owner-Role Triad - Entrepreneur, Manager, and Technician
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp -
+      The Messy Middle and the 40-for-2 Management Trade
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business
+      - The 50% Hire and Buying Back Time
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements
+      to Your Machine to Get Around Your Problems
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build
+      the Business as the Product
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/The Seven Levels of Business
+      Growth - From Side Hustle to Exit
 ---
 
 # The Small-Business Lifecycle - Infancy, Adolescence, and Maturity
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Small businesses move from founder-does-everything Infancy into delegation-stressed Adolescence, but they reach Maturity only by adopting a designed, founder-independent operating model—not merely by surviving long enough.
@@ -52,11 +84,16 @@ Maturity does not require completing Infancy and Adolescence badly first. The co
 Sarah delegates much of her pie shop to Elizabeth but never constructs a real owner–employee agreement or management system. When Elizabeth leaves, the business collapses back into founder labor. The problem is not simply misplaced trust; it is a relationship and organization left undefined because the owner avoided managerial work.
 
 ## Relationships
-- **applies:** [[The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician]]
-- **related:** [[The Franchise Prototype - Build the Business as the Product]]
-- **related:** [[The Seven Levels of Business Growth - From Side Hustle to Exit]]
-- **related:** [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
-- **applies:** [[The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician|The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp - The Messy Middle and the 40-for-2 Management Trade|The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time|You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements to Your Machine to Get Around Your Problems|Design Improvements to Your Machine to Get Around Your Problems]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion|Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build the Business as the Product|The Franchise Prototype - Build the Business as the Product]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/The Seven Levels of Business Growth - From Side Hustle to Exit|The Seven Levels of Business Growth - From Side Hustle to Exit]]
 ## Source reference
-Michael E. Gerber, *The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It*, chapters 3–6. Archived transcript: [[2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript|The E-Myth Revisited - Raw Transcript]] — locator: chapters 3–6

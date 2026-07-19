@@ -1,11 +1,17 @@
 ---
 title: "Frameworks and Mental Models"
+title_zh: "框架與心智模型"
 type: "domain-index"
 domain: "frameworks-and-mental-models"
 lang: "en"
+updated: "2026-07-19"
+status: "evergreen"
+owner: "stanley-lu"
 ---
 
 # Frameworks and Mental Models
+
+> **中文名稱：** 框架與心智模型
 
 Reusable thinking tools: mental models, decision frameworks, and named principles that generalize across situations.
 
@@ -21,14 +27,16 @@ Belongs here: reusable decision tools and cross-domain thinking models. Does not
 - [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems Map]]
 - [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity Map]]
 - [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing Map]]
+- [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence Map]]
 - [[Architecture Schema#Folder axes and placement|Placement boundaries for overlapping framework and operating topics]]
 
 ## Curated map
 
-- **Recommended sequence:** begin with the four subdomain maps, then use the placement boundaries to distinguish reusable models from strategies and procedures.
-- **Cornerstones:** [[Decision Making and Risk Map]] · [[Focus Execution and Systems Map]] · [[Mindset and Identity Map]] · [[Life Leadership and Wellbeing Map]]
+- **Recommended sequence:** begin with the five subdomain maps, then use the placement boundaries to distinguish reusable models from strategies and procedures.
+- **Cornerstones:** [[Decision Making and Risk Map]] · [[Focus Execution and Systems Map]] · [[Mindset and Identity Map]] · [[Life Leadership and Wellbeing Map]] · [[Persuasion and Influence Map]]
 - **Key frameworks:** the curated Start Here lists inside each subdomain map.
 - **Related playbook:** [[Focus as Elimination - The Deep-Work Playbook]]
+- **Brand-perception path:** [[Psychological Moonshots - Improve Perception Before Reality]]
 - **Major series:** none currently; clusters are topical maps, not ordered series.
 - **Complete static inventory:** [[Portable Index|Portable Index — Frameworks and Mental Models]]
 
@@ -38,30 +46,15 @@ Belongs here: reusable decision tools and cross-domain thinking models. Does not
 
 ### Decision Making & Risk
 
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
-FROM "04-Frameworks-and-Mental-Models/Decision-Making-and-Risk"
-WHERE type = "framework"
-SORT date_added DESC
-```
+Inventory ownership: [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk Map]].
 
 ### Mindset & Identity
 
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
-FROM "04-Frameworks-and-Mental-Models/Mindset-and-Identity"
-WHERE type = "framework"
-SORT date_added DESC
-```
+Inventory ownership: [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity Map]].
 
 ### Persuasion & Influence
 
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
-FROM "04-Frameworks-and-Mental-Models/Persuasion-and-Influence"
-WHERE type = "framework"
-SORT date_added DESC
-```
+Inventory ownership: [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence Map]].
 
 ### Brand & Positioning
 
@@ -69,23 +62,24 @@ SORT date_added DESC
 TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
 FROM "04-Frameworks-and-Mental-Models/Brand-and-Positioning"
 WHERE type = "framework"
+AND contains(list("draft", "reviewed", "evergreen"), status)
+SORT date_added DESC
+```
+
+### Strategy & Competitive Advantage
+
+```dataview
+TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
+FROM "04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage"
+WHERE type = "framework"
+AND contains(list("draft", "reviewed", "evergreen"), status)
 SORT date_added DESC
 ```
 
 ### Focus Execution & Systems
 
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
-FROM "04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems"
-WHERE type = "framework"
-SORT date_added DESC
-```
+Inventory ownership: [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus Execution and Systems Map]].
 
 ### Life Leadership & Wellbeing
 
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
-FROM "04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing"
-WHERE type = "framework"
-SORT date_added DESC
-```
+Inventory ownership: [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life Leadership and Wellbeing Map]].

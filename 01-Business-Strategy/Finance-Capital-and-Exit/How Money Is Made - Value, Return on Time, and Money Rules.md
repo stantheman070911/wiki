@@ -3,20 +3,87 @@ title: "How Money Is Made - Value, Return on Time, and Money Rules"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/money, topic/value-creation, topic/wealth, topic/partnerships, person/alex-hormozi, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/money,
+    topic/value-creation,
+    topic/wealth,
+    topic/partnerships,
+    person/alex-hormozi,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0068"
+    role: "primary"
+  - id: "SRC-0085"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
+      and Asymmetric Bets
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
+      Filter - Stay, Scale, or Burn It Down
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a
+      Partnership Makes Sense - The Five Things a Partner Must Bring
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal
+      Urgency - Speed, Parallelism, and Aggressive Timelines
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp -
+      The Messy Middle and the 40-for-2 Management Trade
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs.
+      Paid on Time
+  - type: has-derivative
+    target: 07-Articles/Every Possession Comes With a Job
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and
+      the Education-ROI Playbook
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k -
+      Defense-Before-Offense Playbook
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The
+      Complete Six-Step Roadmap
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/Companies as
+      Philanthropy - Purpose and Building for Humanity
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
+      of a Perfect Business
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation -
+      Measurement, Leverage, and Compressed Work
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a
+      Force Multiplier
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
+      Compounding - Too Good to Fail
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
+      Unscalable Premium Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Performance-Based Pricing - When
+      It Works and How Not to Get Cheated
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
+      Selling Through Trusted Referrers
+  - type: related
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-8-財務會計與獲利核心
 ---
 
 # How Money Is Made - Value, Return on Time, and Money Rules
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Money is voluntary value exchange; your earnings equal value created × ability to negotiate × how replaceable you are, and the discipline of getting rich (once) comes down to a handful of money rules about time, speed, and spending.
@@ -55,11 +122,29 @@ This consolidates Hormozi's "money rules" — the principles he says separate lo
 - Realizing a $500 sale took 30 minutes while a month of grocery/prep/cleaning cost $500 and far more time — the case for buying time back.
 
 ## Relationships
-- **related:** [[Brand and Product Compounding - Too Good to Fail]]
-- **related:** [[Skill Stacking and the Education-ROI Playbook]]
-- **related:** [[The First 100k - Defense-Before-Offense Playbook]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a Partnership Makes Sense - The Five Things a Partner Must Bring|When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines|Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp - The Messy Middle and the 40-for-2 Management Trade|The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs. Paid on Time|Paid on Results vs. Paid on Time]]
+- **Has derivative:** [[07-Articles/Every Possession Comes With a Job|Every Possession Comes With a Job]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and the Education-ROI Playbook|Skill Stacking and the Education-ROI Playbook]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - Defense-Before-Offense Playbook|The First 100k - Defense-Before-Offense Playbook]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The Complete Six-Step Roadmap|The First $100k - The Complete Six-Step Roadmap]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Companies as Philanthropy - Purpose and Building for Humanity|Companies as Philanthropy - Purpose and Building for Humanity]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Five Advantages of a Perfect Business|The Five Advantages of a Perfect Business]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation - Measurement, Leverage, and Compressed Work|Wealth Creation - Measurement, Leverage, and Compressed Work]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a Force Multiplier|Add a Zero - Market Choice as a Force Multiplier]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail|Brand and Product Compounding - Too Good to Fail]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Performance-Based Pricing - When It Works and How Not to Get Cheated|Performance-Based Pricing - When It Works and How Not to Get Cheated]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
+- **Related:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-8-財務會計與獲利核心|連鎖經營學 · Module 8：財務會計與獲利核心]]
 ## Source reference
-Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
 
-Additional source: Daniel Priestley, *25 Harsh Truths at 45*, [[2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript|25 Harsh Truths at 45 - Raw Transcript]]

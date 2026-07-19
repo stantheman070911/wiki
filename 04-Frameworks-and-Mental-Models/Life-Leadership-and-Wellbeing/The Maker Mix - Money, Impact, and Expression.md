@@ -3,20 +3,44 @@ title: "The Maker Mix - Money, Impact, and Expression"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/career, topic/money, topic/value-creation, topic/identity, topic/decision-making, person/bill-burnett, person/dave-evans, source/designing-your-new-work-life]
-source:
-  type: "book"
-  name: "Designing Your New Work Life"
-  author: "Bill Burnett and Dave Evans"
-  url: ""
-  date_of_source: "2021"
+tags:
+  [
+    topic/career,
+    topic/money,
+    topic/value-creation,
+    topic/identity,
+    topic/decision-making,
+    person/bill-burnett,
+    person/dave-evans,
+    source/designing-your-new-work-life
+  ]
+sources:
+  - id: "SRC-0026"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You
+      Pivot - Life Design Interviews and Experiences
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+      Design Compass - Workview, Lifeview, and Coherency
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The ARC of
+      Career Motivation - Autonomy, Relatedness, and Competence
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
+      Proficiency, Pain Tolerance, and Frustration Tolerance
 ---
 
 # The Maker Mix - Money, Impact, and Expression
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 Work does not have to choose between money and meaning; it can be designed as a changing mix of moneymaking, impact-making, and expression-making.
@@ -52,10 +76,13 @@ Use an Impact Map alongside the mix when needed: locate a role by its type of im
 Bill Burnett accepted a large pay cut to teach at Stanford because the move raised his impact while keeping enough money. He later protected weekends in an art studio to begin shifting expression upward before making it his primary activity.
 
 ## Relationships
-- **related:** [[Life Design Compass - Workview, Lifeview, and Coherency]]
-- **related:** [[The ARC of Career Motivation - Autonomy, Relatedness, and Competence]]
-- **related:** [[Prototype Before You Pivot - Life Design Interviews and Experiences]]
-- **related:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You Pivot - Life Design Interviews and Experiences|Prototype Before You Pivot - Life Design Interviews and Experiences]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Design Compass - Workview, Lifeview, and Coherency|Life Design Compass - Workview, Lifeview, and Coherency]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The ARC of Career Motivation - Autonomy, Relatedness, and Competence|The ARC of Career Motivation - Autonomy, Relatedness, and Competence]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## Source reference
-Bill Burnett and Dave Evans, *Designing Your New Work Life* (2021; originally published as *Designing Your Work Life*, 2020). [[2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript|Designing Your New Work Life - Raw Transcript]]

@@ -6,20 +6,43 @@ type: "series-entry"
 domain: "business-strategy"
 series: "連鎖經營學"
 lang: "zh"
-tags: [topic/chain-store, topic/brand, topic/positioning, topic/operations, person/chen-tsung-hsien]
-source:
-  type: "presentation"
-  name: "陳宗賢的連鎖經營學（3-1〜3-4）"
-  author: "陳宗賢"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/chain-store,
+    topic/brand,
+    topic/positioning,
+    topic/operations,
+    person/chen-tsung-hsien
+  ]
+sources:
+  - id: "SRC-0044"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Seven
+      Principles of Building an Iconic Brand
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
+      Actually Is - Association, Influence, Direction, Reach
+  - type: derives-from
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
+  - type: is-prerequisite-for
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-4-商品規劃與獲利結構
+  - type: prerequisite
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-2-連鎖類型與內創委任經營
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
+      in the Prospect's Mind
 ---
 
 # 連鎖經營學 · Module 3：品牌四大共識與市場定位
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
 
 > 系列導覽：[[連鎖經營學總覽|總覽與方法論]]　｜　上一模組：[[Module-2-連鎖類型與內創委任經營|Module 2]]　｜　下一模組：[[Module-4-商品規劃與獲利結構|Module 4]]
 
@@ -75,13 +98,14 @@ status: "reviewed"
 
 ## 關係
 
-- **related:** [[連鎖經營學總覽|總覽與方法論]]
-- **prerequisite:** [[Module-2-連鎖類型與內創委任經營|Module 2：連鎖類型與內創委任經營]]
-- **related:** [[Module-4-商品規劃與獲利結構|Module 4：商品規劃與獲利結構]]
-- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
-- **applies:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- **applies:** [[The Seven Principles of Building an Iconic Brand]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **應用於:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Seven Principles of Building an Iconic Brand|The Seven Principles of Building an Iconic Brand]]
+- **應用於:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **衍生自:** [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
+- **是其前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-4-商品規劃與獲利結構|連鎖經營學 · Module 4：商品規劃與獲利結構]]
+- **前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-2-連鎖類型與內創委任經營|連鎖經營學 · Module 2：連鎖類型與內部創業／委任經營]]
+- **相關:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
 ## 來源
 
-陳宗賢，《連鎖經營學》課程。39 份投影片文字擷取與 10 份 Excel 管理表單詳見 [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]

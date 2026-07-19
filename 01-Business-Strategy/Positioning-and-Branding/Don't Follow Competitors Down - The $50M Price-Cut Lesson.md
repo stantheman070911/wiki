@@ -3,20 +3,55 @@ title: "Don't Follow Competitors Down - The $50M Price-Cut Lesson"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/competition, topic/pricing, topic/market-leader, topic/positioning, topic/moat, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/competition,
+    topic/pricing,
+    topic/market-leader,
+    topic/positioning,
+    topic/moat,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
+      Filter - Stay, Scale, or Burn It Down
+  - type: has-derivative
+    target: 07-Articles/Change the Comparison Before You Change the Price
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
+      Compounding - Too Good to Fail
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
+      Hole in the Mind (Cherchez le Creneau)
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition -
+      Why All Happy Companies Are Different
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/The 22 Immutable Laws of
+      Marketing
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
+      Unscalable Premium Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
+      Discount - Make the Difference Obvious
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where
+      the Fewest Go
 ---
 
 # Don't Follow Competitors Down - The $50M Price-Cut Lesson
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 When a competitor undercuts you, reacting by cutting your own price or copying their model usually destroys your economics without changing customer behavior; focus on the customer instead, and let rivals copy the model that doesn't make money.
@@ -55,11 +90,18 @@ A motocross-training founder feared a copycat replicating his low-margin single-
 - A legitimate quality-vs-quantity stance must be backed by actual quality, not slogans.
 
 ## Relationships
-- **related:** [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
-- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
-- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- **applies:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- **related:** [[Brand and Product Compounding - Too Good to Fail]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **Has derivative:** [[07-Articles/Change the Comparison Before You Change the Price|Change the Comparison Before You Change the Price]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail|Brand and Product Compounding - Too Good to Fail]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)|Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition - Why All Happy Companies Are Different|Monopoly vs. Competition - Why All Happy Companies Are Different]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/The 22 Immutable Laws of Marketing|The 22 Immutable Laws of Marketing]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious|Decommoditize Before You Discount - Make the Difference Obvious]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where the Fewest Go|The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

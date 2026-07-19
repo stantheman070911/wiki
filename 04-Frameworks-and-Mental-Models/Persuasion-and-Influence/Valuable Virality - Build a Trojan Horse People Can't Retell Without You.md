@@ -3,20 +3,49 @@ title: "Valuable Virality - Build a Trojan Horse People Can't Retell Without You
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/word-of-mouth, topic/storytelling, topic/content-strategy, topic/brand, person/jonah-berger, source/contagious]
-source:
-  type: "book"
-  name: "Contagious: Why Things Catch On"
-  author: "Jonah Berger"
-  url: ""
-  date_of_source: "2013"
+tags:
+  [
+    topic/word-of-mouth,
+    topic/storytelling,
+    topic/content-strategy,
+    topic/brand,
+    person/jonah-berger,
+    source/contagious
+  ]
+sources:
+  - id: "SRC-0033"
+    role: "primary"
+    locator: "ch. 6"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: "2026-07-18"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
+      Framework - Six Drivers of Word of Mouth
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
+      - Heros Journey, the Trojan Horse, and Handling Objections
+  - type: is-applied-by
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
+      Framework - Six Drivers of Word of Mouth
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal
+      Emotion - When We Care, We Share
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
+      Observability and Behavioral Residue
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency
+      - We Share What Makes Us Look Good
 ---
 
 # Valuable Virality - Build a Trojan Horse People Can't Retell Without You
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 People transmit information wrapped in stories, so build a narrative people want to share — but make your product so integral to it that the story can't be told without mentioning you. Virality is worthless unless it's *valuable*.
@@ -46,11 +75,15 @@ The test: *if you removed the brand, would the story still make sense and still 
 - Anchor to a topic people already want to talk about, and hide your message inside it.
 
 ## Relationships
-- **applies:** [[The STEPPS Framework - Six Drivers of Word of Mouth]]
-- **related:** [[Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections]]
-- **related:** [[High-Arousal Emotion - When We Care, We Share]]
-- **related:** [[Social Currency - We Share What Makes Us Look Good]]
-- **related:** [[Public - Observability and Behavioral Residue]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections|Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal Emotion - When We Care, We Share|High-Arousal Emotion - When We Care, We Share]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue|Public - Observability and Behavioral Residue]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good|Social Currency - We Share What Makes Us Look Good]]
 ## Source reference
-Jonah Berger, *Contagious: Why Things Catch On* (Simon & Schuster, 2013), ch. 6. Extraction notes in [[2026-07-18_Book_JonahBerger_Contagious]]; full text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_JonahBerger_Contagious|Contagious: Why Things Catch On]] — locator: ch. 6

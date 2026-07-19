@@ -3,20 +3,42 @@ title: "Instagram 0-to-100k - The Three-Level Follower Roadmap"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/instagram, topic/short-form-video, topic/scaling, source/personal-brand-launch, person/ava-jurgens]
-source:
-  type: "video"
-  name: "How to Grow an Instagram Account in 2026"
-  author: "Ava (Personal Brand Launch)"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/instagram,
+    topic/short-form-video,
+    topic/scaling,
+    source/personal-brand-launch,
+    person/ava-jurgens
+  ]
+sources:
+  - id: "SRC-0072"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 02-Social-Media-Strategy/The Personal-Brand House - Foundation,
+      Interior, Exterior
+  - type: related
+    target: 03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder -
+      Fixing Views, Formats, and Timing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down
+      and the 70-20-10 Rule - Templatizing Viral Outliers
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Seven
+      Factors of a Short - Topic to Editing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音平台戰術與工具箱
 ---
 
 # Instagram 0-to-100k - The Three-Level Follower Roadmap
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Growth from 0 to 100k splits into three levels — the brutal 0–1k setup grind, the 1k–10k study-and-double-down phase, and the 10k–100k "just repeat" phase — each running the same script-film-edit-upload loop with a shifting content mix.
@@ -53,11 +75,14 @@ Most accounts die in the first level because 0–1k is the hardest, least-reward
 - Typical range to 1k: ~50–100 videos, shorter or longer per person.
 
 ## Relationships
-- **applies:** [[The Personal-Brand House - Foundation, Interior, Exterior]]
-- **related:** [[The Seven Factors of a Short - Topic to Editing]]
-- **related:** [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
-- **related:** [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
-- **related:** [[短影音平台戰術與工具箱]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[02-Social-Media-Strategy/The Personal-Brand House - Foundation, Interior, Exterior|The Personal-Brand House - Foundation, Interior, Exterior]]
+- **Related:** [[03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing|Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers|Double-Down and the 70/20/10 Rule - Templatizing Viral Outliers]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Seven Factors of a Short - Topic to Editing|The Seven Factors of a Short - Topic to Editing]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音平台戰術與工具箱|短影音平台戰術與工具箱]]
 ## Source reference
-Ava (Personal Brand Launch), *How to Grow an Instagram Account in 2026*. Extraction notes in [[2026-07-08_Video_PersonalBrandLaunch_GrowInstagram2026]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_PersonalBrandLaunch_GrowInstagram2026|Grow Instagram in 2026]]

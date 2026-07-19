@@ -3,14 +3,62 @@ title: "Trust Should Have a Credit Limit"
 type: "article"
 domain: "articles"
 lang: "en"
-tags: [topic/trust, topic/reputation, topic/incentives, topic/risk, topic/proof, topic/decision-making, topic/systems]
+tags:
+  [
+    topic/trust,
+    topic/reputation,
+    topic/incentives,
+    topic/risk,
+    topic/proof,
+    topic/decision-making,
+    topic/systems
+  ]
+sources:
+  - id: "SRC-0009"
+    role: "primary"
+  - id: "SRC-0012"
+    role: "supporting"
+  - id: "SRC-0015"
+    role: "supporting"
+  - id: "SRC-0095"
+    role: "supporting"
+  - id: "SRC-0065"
+    role: "supporting"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 07-Articles/Articles Index
+relationships:
+  - type: derives-from
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
+      Selling Through Trusted Referrers
+  - type: derives-from
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Selling Upmarket -
+      Contextual Adjacency and Land-and-Expand
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
+      Your Decision Making
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reality Filters
+      - Track Records, Costly Signals, and the Green Lumber Fallacy
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin -
+      Time Probability, Repeated Exposure, and Survival First
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the
+      Game - Aligning Upside, Downside, and Accountability
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as
+      Infrastructure
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in
+      Radical Truth and Radical Transparency
 ---
 
 # Trust Should Have a Credit Limit
+
+> **Up:** [[Home|Home]] → [[07-Articles/Articles Index|Articles]]
 
 **Article of the day · ~2 min read**
 
@@ -28,6 +76,17 @@ This also changes what a “high-trust culture” means. It is not a place with 
 
 So the next time you are unsure whether to trust someone, replace the character verdict with a design question: **What is the smallest consequential commitment that would produce useful evidence without exposing either side to ruin?** Make that commitment clear, let reality answer, and adjust the limit.
 
+## Relationships
+
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Derives from:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
+- **Derives from:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Selling Upmarket - Contextual Adjacency and Land-and-Expand|Selling Upmarket - Contextual Adjacency and Land-and-Expand]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy|Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin - Time Probability, Repeated Exposure, and Survival First|Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the Game - Aligning Upside, Downside, and Accountability|Skin in the Game - Aligning Upside, Downside, and Accountability]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as Infrastructure|Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in Radical Truth and Radical Transparency|Trust in Radical Truth and Radical Transparency]]
 ## Sources in THE WIKI
 - [[Trust as Infrastructure|Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets]]
 - [[Skin in the Game - Aligning Upside, Downside, and Accountability]]
@@ -37,3 +96,12 @@ So the next time you are unsure whether to trust someone, replace the character 
 - [[Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
 - [[Selling Upmarket - Contextual Adjacency and Land-and-Expand]]
 - [[Centers of Influence - Selling Through Trusted Referrers]]
+
+## Source reference
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript|The Sovereign Individual - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript|Skin in the Game - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_HowToSellToRichPeople_RawTranscript|How to Sell to Rich People - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

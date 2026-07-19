@@ -3,20 +3,46 @@ title: "Gap Selling - Current State, Future State, and the Value of Change"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/sales, topic/value-equation, topic/value-creation, topic/decision-making, person/keenan, source/gap-selling]
-source:
-  type: "book"
-  name: "Gap Selling"
-  author: "Keenan"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/sales,
+    topic/value-equation,
+    topic/value-creation,
+    topic/decision-making,
+    person/keenan,
+    source/gap-selling
+  ]
+sources:
+  - id: "SRC-0034"
+    role: "primary"
+    locator: "parts I–II"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Buyer Needs and
+      Benefits - From Implied Problems to Explicit Value
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State
+      Diagnosis - Facts, Problems, Impact, Cause, and Emotion
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
+      Sell the Goal, Scope the Journey, Secure Prepayment
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger
+      Selling Model - Teach, Tailor, and Take Control
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem
+      Identification Chart - Problems, Impacts, and Root Causes
 ---
 
 # Gap Selling - Current State, Future State, and the Value of Change
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 A sale becomes compelling when the buyer can see a valuable, urgent gap between a precisely diagnosed current state and a concrete future state that justifies the cost and risk of change.
@@ -51,10 +77,14 @@ Then test whether the gap exceeds the full change cost: price, implementation wo
 A routine tow is price-sensitive until the stranded driver must reach a once-in-a-lifetime White House dinner in forty minutes. The physical service is unchanged, but the desired outcome makes the gap—and therefore the value of immediate help—dramatically larger.
 
 ## Relationships
-- **related:** [[Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion]]
-- **related:** [[The Problem Identification Chart - Problems, Impacts, and Root Causes]]
-- **related:** [[Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
-- **related:** [[The Challenger Selling Model - Teach, Tailor, and Take Control]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Buyer Needs and Benefits - From Implied Problems to Explicit Value|Buyer Needs and Benefits - From Implied Problems to Explicit Value]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion|Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger Selling Model - Teach, Tailor, and Take Control|The Challenger Selling Model - Teach, Tailor, and Take Control]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem Identification Chart - Problems, Impacts, and Root Causes|The Problem Identification Chart - Problems, Impacts, and Root Causes]]
 ## Source reference
-Keenan, *Gap Selling* (2018), parts I–II. [[2026-07-18_Book_Keenan_GapSelling_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_Keenan_GapSelling_RawTranscript|Gap Selling]] — locator: parts I–II

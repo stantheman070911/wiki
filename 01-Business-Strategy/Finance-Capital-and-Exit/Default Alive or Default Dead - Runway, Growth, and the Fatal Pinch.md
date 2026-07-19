@@ -3,20 +3,54 @@ title: "Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/startups, topic/cash-flow, topic/growth, topic/hiring, topic/frugality, person/paul-graham, source/paul-graham-essays]
-source:
-  type: "essay collection"
-  name: "Paul Graham - Collected Essays"
-  author: "Paul Graham"
-  url: "https://paulgraham.com/articles.html"
-  date_of_source: "2007-2015"
+tags:
+  [
+    topic/startups,
+    topic/cash-flow,
+    topic/growth,
+    topic/hiring,
+    topic/frugality,
+    person/paul-graham,
+    source/paul-graham-essays
+  ]
+sources:
+  - id: "SRC-0046"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin -
+      Time Probability, Repeated Exposure, and Survival First
+  - type: has-example
+    target: 05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions
+      Competing as Service Providers
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business
+      - The 50% Hire and Buying Back Time
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k -
+      Defense-Before-Offense Playbook
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle -
+      Recover Time, Capital, and Better Judgment
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Fundraising Is a Process -
+      Momentum, Herd Dynamics, and Survival
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural -
+      Defending Margin Against Organizational Creep
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly
+      Compounding and Market Size
 ---
 
 # Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Know early whether current cash, expenses, and revenue growth lead to profitability; if they do not, cut burn or fix growth before slow growth and short runway become an irreversible fatal pinch.
@@ -46,11 +80,17 @@ Each month calculate **cash remaining ÷ net monthly burn = runway**, then proje
 Airbnb waited four months after YC fundraising to hire its first employee. The founders remained overloaded, but their labor was directed at evolving the product rather than scaling an uncertain model.
 
 ## Relationships
-- **related:** [[Startup Equals Growth - Weekly Compounding and Market Size]]
-- **related:** [[The First 100k - Defense-Before-Offense Playbook]]
-- **related:** [[You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
 
-- **related:** [[Fundraising Is a Process - Momentum, Herd Dynamics, and Survival]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin - Time Probability, Repeated Exposure, and Survival First|Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
+- **Has example:** [[05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions Competing as Service Providers|Commercialized Sovereignty - Jurisdictions Competing as Service Providers]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time|You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - Defense-Before-Offense Playbook|The First 100k - Defense-Before-Offense Playbook]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment|Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Fundraising Is a Process - Momentum, Herd Dynamics, and Survival|Fundraising Is a Process - Momentum, Herd Dynamics, and Survival]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural - Defending Margin Against Organizational Creep|Profit Is Unnatural - Defending Margin Against Organizational Creep]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly Compounding and Market Size|Startup Equals Growth - Weekly Compounding and Market Size]]
 ## Source reference
-Paul Graham, “Default Alive or Default Dead?,” “The Fatal Pinch,” “Ramen Profitable,” and “How Not to Die,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

@@ -1,22 +1,42 @@
 ---
-title: "Keeping Your Head - Social Herding, the Inside View, and Strategy as Hypothesis"
+title: "Keeping Your Head - Social Herding, the Inside View, and Strategy as
+  Hypothesis"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/strategy, topic/decision-making, topic/risk, topic/research, person/richard-rumelt, source/good-strategy-bad-strategy]
-source:
-  type: "book"
-  name: "Good Strategy/Bad Strategy: The Difference and Why It Matters"
-  author: "Richard Rumelt"
-  url: ""
-  date_of_source: "2011"
+tags:
+  [
+    topic/strategy,
+    topic/decision-making,
+    topic/risk,
+    topic/research,
+    person/richard-rumelt,
+    source/good-strategy-bad-strategy
+  ]
+sources:
+  - id: "SRC-0038"
+    role: "primary"
+    locator: "Ch. 18"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bad
+      Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Riding
+      Waves of Change - Five Guideposts for Industry Transitions
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
+      Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action
 ---
 
 # Keeping Your Head - Social Herding, the Inside View, and Strategy as Hypothesis
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 Good strategy is an educated, testable hypothesis about what will work — refined through real-world feedback the way a scientist refines a theory — while bad strategy collapses into an unfalsifiable closed loop when leaders substitute the crowd's confidence (social herding) or the belief that "our situation is different" (the inside view) for independent judgment about the actual facts.
@@ -55,9 +75,12 @@ The book's closing argument: strategy work is ultimately a discipline of thought
 - **The 2008 financial crisis**: Bernanke's 2004 "Great Moderation" speech, Greenspan's 2005 confidence in derivative pricing tools, and Geithner's 2006 praise of risk-transfer innovation all invoked inside-view reasoning against a backdrop of twenty-eight prior OECD real-estate credit-boom-bust cycles in fifty years — outside-view evidence that was available and ignored, not undiscovered.
 
 ## Relationships
-- **related:** [[Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy]]
-- **related:** [[The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
-- **related:** [[Riding Waves of Change - Five Guideposts for Industry Transitions]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy|Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Riding Waves of Change - Five Guideposts for Industry Transitions|Riding Waves of Change - Five Guideposts for Industry Transitions]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
 ## Source reference
-Richard Rumelt, *Good Strategy/Bad Strategy: The Difference and Why It Matters* (2011), Ch. 16 ("The Science of Strategy") and Ch. 18 ("Keeping Your Head"). Raw text archived in [[2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 18

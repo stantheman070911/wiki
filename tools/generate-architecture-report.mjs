@@ -1,193 +1,65 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
-import { spawnSync } from 'node:child_process';
+import { pathToFileURL } from 'node:url';
 
-const root = process.cwd();
-const ignored = new Set(['.git', '.obsidian', '.claude', 'node_modules']);
+import { checkVault } from './check-vault.mjs';
+import {
+  ARCHITECTURE_REPORT_REL,
+  renderArchitectureReport,
+} from './lib/architecture-report.mjs';
+import { loadTaxonomyRegistry } from './lib/taxonomy-registry.mjs';
+import { generatedOn, loadVault, stableGeneratedText } from './lib/vault.mjs';
 
-function walk(dir) {
-  const files = [];
-  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-    if (ignored.has(entry.name)) continue;
-    const full = path.join(dir, entry.name);
-    if (entry.isDirectory()) files.push(...walk(full));
-    else if (entry.isFile()) files.push(full);
+export {
+  ARCHITECTURE_REPORT_REL,
+  collectArchitectureReportData,
+  renderArchitectureReport,
+} from './lib/architecture-report.mjs';
+
+export function generateArchitectureReport(root = process.cwd(), {
+  check = false,
+  date = generatedOn(),
+  checkResult,
+  taxonomyRegistry,
+} = {}) {
+  const vault = loadVault(root);
+  const registry = taxonomyRegistry || loadTaxonomyRegistry(root);
+  const canonicalCheck = checkResult || checkVault(root, { generated: false, date });
+  const output = renderArchitectureReport(vault, {
+    date,
+    taxonomyRegistry: registry,
+    checkResult: canonicalCheck,
+  });
+  const outputPath = path.join(root, ARCHITECTURE_REPORT_REL);
+  const actual = fs.existsSync(outputPath) ? fs.readFileSync(outputPath, 'utf8') : '';
+  const stale = stableGeneratedText(actual) !== stableGeneratedText(output);
+  if (check && stale) throw new Error(`${ARCHITECTURE_REPORT_REL} is stale; regenerate it`);
+  if (!check && stale) {
+    fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+    fs.writeFileSync(outputPath, output);
   }
-  return files;
-}
-
-function fm(text) {
-  if (!text.startsWith('---\n')) return '';
-  const end = text.indexOf('\n---', 4);
-  return end < 0 ? '' : text.slice(4, end);
-}
-
-function value(frontmatter, key) {
-  const match = frontmatter.match(new RegExp(`^${key}:\\s*(.*?)\\s*$`, 'm'));
-  return match ? match[1].trim().replace(/^['"]|['"]$/g, '') : '';
-}
-
-function countBy(records, key) {
-  const counts = new Map();
-  for (const record of records) {
-    const item = record[key] || '[missing]';
-    counts.set(item, (counts.get(item) || 0) + 1);
-  }
-  return [...counts].sort(([a], [b]) => a.localeCompare(b));
-}
-
-function table(rows, left, right) {
-  return [`| ${left} | ${right} |`, '|---|---:|', ...rows.map(([key, number]) => `| ${key} | ${number} |`), ''].join('\n');
-}
-
-const files = walk(root);
-const records = files.filter((file) => file.endsWith('.md')).map((file) => {
-  const text = fs.readFileSync(file, 'utf8');
-  const frontmatter = fm(text);
   return {
-    rel: path.relative(root, file).split(path.sep).join('/'),
-    text,
-    type: value(frontmatter, 'type'),
-    domain: value(frontmatter, 'domain'),
-    lang: value(frontmatter, 'lang'),
-    status: value(frontmatter, 'status'),
-    sourceFormat: value(frontmatter, 'source_format'),
-    processingStatus: value(frontmatter, 'processing_status'),
+    outputPath,
+    stale,
+    gateOk: canonicalCheck.ok === true,
+    errors: canonicalCheck.errors || [],
+    warnings: canonicalCheck.warnings || [],
   };
-});
-const knowledgeTypes = new Set(['strategy', 'playbook', 'framework', 'research', 'article', 'series-entry', 'series-hub']);
-const knowledge = records.filter((record) => knowledgeTypes.has(record.type));
-const sources = records.filter((record) => record.type === 'source');
-const attachments = files.filter((file) => file.includes(`${path.sep}06-Source-Library${path.sep}`) && !file.endsWith('.md') && !file.endsWith('.DS_Store'));
-const audit = spawnSync(process.execPath, ['tools/audit-vault.mjs'], { cwd: root, encoding: 'utf8' });
-const auditText = `${audit.stdout || ''}${audit.stderr || ''}`;
-const warningCount = Number((auditText.match(/Vault audit warnings \((\d+)\)/) || [0, 0])[1]);
-const warningLines = auditText.split('\n').filter((line) => line.startsWith('- ') && line.includes('missing documented'));
-const generatedOn = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Taipei', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
-const registryStates = new Map();
-for (const line of fs.readFileSync('_meta/Tags.md', 'utf8').split('\n').filter((item) => item.startsWith('| `'))) {
-  const columns = line.split('|').slice(1, -1).map((item) => item.trim());
-  const state = columns[5];
-  if (['proposed', 'active', 'deprecated', 'merged'].includes(state)) registryStates.set(state, (registryStates.get(state) || 0) + 1);
 }
-const dashboard = fs.readFileSync('_meta/Editorial Dashboard.md', 'utf8');
-function dashboardCount(label) {
-  return Number((dashboard.match(new RegExp(`^\\| ${label} \\| (\\d+) \\|$`, 'm')) || [0, 0])[1]);
+
+function isMain() {
+  return process.argv[1] && pathToFileURL(path.resolve(process.argv[1])).href === import.meta.url;
 }
-const relationCounts = new Map();
-for (const record of knowledge) for (const match of record.text.matchAll(/^\s*- \*\*(prerequisite|applies|example|contrast|translation|related):\*\*/gm)) relationCounts.set(match[1], (relationCounts.get(match[1]) || 0) + 1);
-const sourceCollections = new Map();
-for (const source of sources) {
-  const collection = source.rel.split('/')[1] || '[root]';
-  if (!sourceCollections.has(collection)) sourceCollections.set(collection, { records: 0, attachments: 0 });
-  sourceCollections.get(collection).records += 1;
+
+if (isMain()) {
+  try {
+    const check = process.argv.includes('--check');
+    const result = generateArchitectureReport(process.cwd(), { check });
+    console.log(`${check ? 'Verified' : 'Generated'} ${ARCHITECTURE_REPORT_REL}: canonical gate ${result.gateOk ? 'PASS' : 'FAIL'}, ${result.errors.length} errors, ${result.warnings.length} warnings.`);
+    if (!result.gateOk) process.exitCode = 1;
+  } catch (error) {
+    console.error(`FAIL: ${error.message}`);
+    process.exitCode = 1;
+  }
 }
-for (const attachment of attachments) {
-  const rel = path.relative(root, attachment).split(path.sep).join('/');
-  const collection = rel.split('/')[1] || '[root]';
-  if (!sourceCollections.has(collection)) sourceCollections.set(collection, { records: 0, attachments: 0 });
-  sourceCollections.get(collection).attachments += 1;
-}
-const tablePages = knowledge.filter((record) => /^\|.*\|$/m.test(record.text)).length;
-const mermaidPages = knowledge.filter((record) => /^```mermaid/m.test(record.text)).length;
-const calloutPages = knowledge.filter((record) => /^> \[!/m.test(record.text)).length;
-const longWithoutH3 = knowledge.filter((record) => {
-  const body = record.text.replace(/^---[\s\S]*?---\n/, '');
-  return (body.match(/[\p{L}\p{N}]+/gu) || []).length >= 900 && !/^###\s+/m.test(body);
-}).length;
-
-const output = `---
-title: "Architecture Report"
-type: "governance"
-domain: "meta"
-lang: "en"
-generated_on: "${generatedOn}"
-status: "generated"
----
-
-# Architecture Report
-
-Generated by \`node tools/generate-architecture-report.mjs\`. Do not hand-edit metrics.
-
-## Gate status
-
-- Structural audit: **${audit.status === 0 ? 'PASS' : 'FAIL'}**
-- Structural errors: **${audit.status === 0 ? 0 : 'see audit output'}**
-- Editorial-spine warnings: **${warningCount}**
-- Markdown pages: **${records.length}**
-- Knowledge pages: **${knowledge.length}**
-- Markdown source records: **${sources.length}**
-- Source attachments: **${attachments.length}**
-- Active topics: **${(fs.readFileSync('_meta/Topic-Index.md', 'utf8').match(/^## All topics \((\d+)\)$/m) || [0, 0])[1]}**
-- Zero organic-inbound knowledge pages: **${dashboardCount('Zero organic inbound links')}**
-- Draft queue: **${dashboardCount('Draft knowledge')}**
-- Unprocessed sources: **${dashboardCount('Unprocessed sources')}**
-
-## Coverage gates
-
-| Gate | Result |
-|---|---|
-| Markdown sources covered or explicitly unprocessed/exempt | ${audit.status === 0 ? `${sources.length}/${sources.length}` : 'See audit failure'} |
-| Attachments linked by a page or manifest | ${audit.status === 0 ? `${attachments.length}/${attachments.length}` : 'See audit failure'} |
-| Broken file or fragment links | ${audit.status === 0 ? '0' : 'See audit failure'} |
-| Folder/domain or source-folder violations | ${audit.status === 0 ? '0' : 'See audit failure'} |
-| Filename/title or alias violations | ${audit.status === 0 ? '0' : 'See audit failure'} |
-| Missing required metadata or sections | ${audit.status === 0 ? '0' : 'See audit failure'} |
-| Unresolved heading fragments | ${audit.status === 0 ? '0' : 'See audit failure'} |
-| Series-integrity violations | ${audit.status === 0 ? '0' : 'See audit failure'} |
-| Stale portable indexes | ${audit.status === 0 ? '0' : 'See audit failure'} |
-
-## Pages by type
-
-${table(countBy(records, 'type'), 'Type', 'Pages')}
-## Knowledge by domain
-
-${table(countBy(knowledge, 'domain'), 'Domain', 'Pages')}
-## Knowledge by language
-
-${table(countBy(knowledge, 'lang'), 'Language', 'Pages')}
-## Knowledge by status
-
-${table(countBy(knowledge, 'status'), 'Status', 'Pages')}
-## Sources by format
-
-${table(countBy(sources, 'sourceFormat'), 'Source format', 'Records')}
-## Sources by processing status
-
-${table(countBy(sources, 'processingStatus'), 'Processing status', 'Records')}
-## Source coverage by collection
-
-| Collection | Markdown records | Attachments | Structural coverage |
-|---|---:|---:|---|
-${[...sourceCollections].sort(([a], [b]) => a.localeCompare(b)).map(([collection, counts]) => `| ${collection} | ${counts.records} | ${counts.attachments} | ${audit.status === 0 ? 'complete' : 'see audit'} |`).join('\n')}
-
-## Taxonomy lifecycle states
-
-${table([...registryStates].sort(([a], [b]) => a.localeCompare(b)), 'State', 'Tags')}
-## Relationship types
-
-${table(['prerequisite', 'applies', 'example', 'contrast', 'translation', 'related'].map((type) => [type, relationCounts.get(type) || 0]), 'Relationship', 'Links')}
-## Readability structure
-
-| Signal | Knowledge pages |
-|---|---:|
-| Contains a Markdown table | ${tablePages} |
-| Contains Mermaid | ${mermaidPages} |
-| Contains an Obsidian callout | ${calloutPages} |
-| At least 900 words with no H3 | ${longWithoutH3} |
-
-## Enforcement
-
-The audit checks semantic indexes, explicit page types, required metadata and sections, page and fragment links, taxonomy freshness, source and attachment coverage, source-folder conformity, domain/folder consistency, series integrity, aliases, filename length, and retired Inbox references.
-
-## Editorial migration backlog
-
-These warnings identify existing pages that have not yet been migrated to the documented shared content spine. They do not block structural changes, but new pages must not add warnings.
-
-${warningLines.length ? warningLines.join('\n') : '_None. The shared content spine is fully migrated._'}
-`;
-
-fs.writeFileSync('_meta/Architecture Report.md', output);
-console.log(`Generated _meta/Architecture Report.md (${audit.status === 0 ? 'PASS' : 'FAIL'}, ${warningCount} warnings).`);
-if (audit.status !== 0) process.exitCode = 1;

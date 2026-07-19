@@ -3,20 +3,36 @@ title: "個人品牌與IP打造框架"
 type: "strategy"
 domain: "social-media-strategy"
 lang: "zh"
-tags: [topic/personal-brand, topic/persona, topic/ip, person/chen-xiuping]
-source:
-  type: "presentation"
-  name: "陳修平短影音變現課程｜完整知識庫"
-  author: "陳修平（ShiFu 線上課程創辦人）"
-  url: ""
-  date_of_source: ""
+tags: [ topic/personal-brand, topic/persona, topic/ip, person/chen-xiuping ]
+sources:
+  - id: "SRC-0043"
+    role: "primary"
 date_added: "2026-07-02"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 02-Social-Media-Strategy/Social Media Strategy Index
+relationships:
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/全代操短影音代理商商業模式
+  - type: related
+    target: 02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why
+  - type: related
+    target: 02-Social-Media-Strategy/IP變現主流程與公域內容規劃循環
+  - type: related
+    target: 02-Social-Media-Strategy/The Personal-Brand House - Foundation,
+      Interior, Exterior
+  - type: related
+    target: 02-Social-Media-Strategy/受眾定位與先小後大法則
+  - type: related
+    target: 02-Social-Media-Strategy/可信度行銷與公開建構
+  - type: related
+    target: 02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架
 ---
 
 # 個人品牌與IP打造框架
+
+> **Up:** [[Home|Home]] → [[02-Social-Media-Strategy/Social Media Strategy Index|Social Media Strategy]]
 
 ## 一句話總結
 
@@ -83,12 +99,15 @@ status: "reviewed"
 
 ## 關係
 
-- **related:** [[受眾定位與先小後大法則]]
-- **related:** [[全代操短影音代理商商業模式]]
-- **related:** [[品牌即媒體公司：注意力到信任框架]]
-- **related:** [[可信度行銷與公開建構]]（Bloom Nutrition 案例，創辦人個人品牌與公開建構的實戰版本）
-- **related:** [[IP變現主流程與公域內容規劃循環]]（把人設與帳號定位放進完整的公域／私域渠道矩陣中檢視）
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **相關:** [[01-Business-Strategy/Business-Models-and-Customers/全代操短影音代理商商業模式|全代操短影音代理商商業模式]]
+- **相關:** [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why|Creator Vision Framework: What x Who x Why]]
+- **相關:** [[02-Social-Media-Strategy/IP變現主流程與公域內容規劃循環|IP變現主流程與公域內容規劃循環]]
+- **相關:** [[02-Social-Media-Strategy/The Personal-Brand House - Foundation, Interior, Exterior|The Personal-Brand House - Foundation, Interior, Exterior]]
+- **相關:** [[02-Social-Media-Strategy/受眾定位與先小後大法則|受眾定位與先小後大法則]]
+- **相關:** [[02-Social-Media-Strategy/可信度行銷與公開建構|可信度行銷與公開建構]]
+- **相關:** [[02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架|品牌即媒體公司：注意力到信任框架]]
 ## 來源
 
-陳修平短影音變現課程｜完整知識庫。完整筆記存於 [[2026-07-02_Course_陳修平_短影音變現課程完整知識庫]]。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Courses/2026-07-02_Course_陳修平_短影音變現課程完整知識庫|短影音變現課程完整知識庫]]

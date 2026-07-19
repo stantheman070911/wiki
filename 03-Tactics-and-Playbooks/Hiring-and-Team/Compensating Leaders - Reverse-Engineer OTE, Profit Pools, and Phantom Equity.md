@@ -3,20 +3,64 @@ title: "Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom E
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/compensation, topic/incentives, topic/equity, topic/leadership, topic/feedback, person/alex-hormozi, person/andrew-grove, source/high-output-management]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/compensation,
+    topic/incentives,
+    topic/equity,
+    topic/leadership,
+    topic/feedback,
+    person/alex-hormozi,
+    person/andrew-grove,
+    source/high-output-management
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
+  - id: "SRC-0042"
+    role: "supporting"
+  - id: "SRC-0022"
+    role: "supporting"
+    locator: "chapter 15"
 date_added: "2026-07-08"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/選擇權與退出心態：Soft-Shop、三種成長路徑與
+      Phantom Equity
+  - type: applies
+    target: 01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the
+      Game - Aligning Upside, Downside, and Accountability
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial
+      Output and Leverage
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp -
+      The Messy Middle and the 40-for-2 Management Trade
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Performance Appraisal as a
+      Management System
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
+      Organizations
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations -
+      Co-founders, Ownership, Possession, Control, and Vesting
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Outbound and Inbound
+      Are Separate Teams - The Sales Career Ladder
 ---
 
 # Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Don't guess at "5% or 10%" — decide what a great person in the role should earn (on-target earnings), then reverse-engineer the percentage from that; give leaders profit-pool upside so they think like owners, and use phantom equity to share exit upside without handing over real risk or control.
@@ -59,16 +103,21 @@ An auto-hail-repair owner asked how to design leadership comp without eroding co
 - Profit pools require clean, separated P&Ls per unit to calculate fairly.
 
 ## Relationships
-- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- **applies:** [[Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
-- **applies:** [[選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
-- **related:** [[Special-Forces Teams and Flat Organizations]]
-- **applies:** [[The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
-- **related:** [[Performance Appraisal as a Management System]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity|選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
+- **Applies:** [[01-Business-Strategy/Growth-and-Scaling/Multi-Unit Expansion|Multi-Unit Expansion - The Founder-Replacement Test and Why Franchising Is Expensive Capital]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the Game - Aligning Upside, Downside, and Accountability|Skin in the Game - Aligning Upside, Downside, and Accountability]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial Output and Leverage|Managerial Output and Leverage]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp - The Messy Middle and the 40-for-2 Management Trade|The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Performance Appraisal as a Management System|Performance Appraisal as a Management System]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing|Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting|Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Outbound and Inbound Are Separate Teams - The Sales Career Ladder|Outbound and Inbound Are Separate Teams - The Sales Career Ladder]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
 
-Corroborated in Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
-
-Additional source: Andrew S. Grove, *High Output Management* (1983; revised 1995), chapter 15, [[2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript|High Output Management - Raw Transcript]] — locator: chapter 15

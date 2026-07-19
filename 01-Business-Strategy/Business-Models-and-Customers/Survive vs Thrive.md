@@ -1,24 +1,54 @@
 ---
-title: "Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value"
+title: "Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into
+  Lifetime Value"
 aliases:
-  - "Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value"
+  - "Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into
+    Lifetime Value"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/ltv, topic/offers, topic/memberships, topic/positioning, topic/retention, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/ltv,
+    topic/offers,
+    topic/memberships,
+    topic/positioning,
+    topic/retention,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
+  and Customers Map
+relationships:
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
+      Period - The Three Numbers That Decide If You Win
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
+      Unscalable Premium Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
+      Alignment
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
+      Discount - Make the Difference Obvious
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get
+      Them What They Need - The Defined-End Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
+      Traffic Before the Core Offer
 ---
 
 # Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/Business-Models-and-Customers/Business Models and Customers Map|Business Models and Customers]]
 
 ## One-line summary
 Emergency ("survive") customers arrive via high-intent search, get price-shopped, and never come back; to build lifetime value you flip them into ongoing ("thrive") buyers and add interruption traffic that pays a premium to feel better rather than to stop feeling bad.
@@ -57,11 +87,15 @@ A mobile IV-drip business had a $278 Google CAC, ~$454 LTV, and could not decomm
 - Prevention claims must be honest; do not manufacture fear to sell subscriptions.
 
 ## Relationships
-- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
-- **related:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- **related:** [[Billing-Cycle vs Value-Cycle Alignment]]
-- **related:** [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
-- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle Alignment|Billing-Cycle vs Value-Cycle Alignment]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious|Decommoditize Before You Discount - Make the Difference Obvious]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get Them What They Need - The Defined-End Offer|Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold Traffic Before the Core Offer|The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

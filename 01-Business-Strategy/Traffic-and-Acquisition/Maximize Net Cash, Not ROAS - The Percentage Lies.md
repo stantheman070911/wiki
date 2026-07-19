@@ -3,20 +3,52 @@ title: "Maximize Net Cash, Not ROAS - The Percentage Lies"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/paid-ads, topic/unit-economics, topic/cash-flow, topic/decision-making, person/sabri-suby]
-source:
-  type: "video"
-  name: "11 Brutal Truths To Grow Your Business Fast"
-  author: "Sabri Suby"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/paid-ads,
+    topic/unit-economics,
+    topic/cash-flow,
+    topic/decision-making,
+    person/sabri-suby
+  ]
+sources:
+  - id: "SRC-0084"
+    role: "primary"
 date_added: "2026-07-12"
 updated: "2026-07-12"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the
+      Problem You Have, Not the One You're Afraid Of
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
+      Gratification - Patience and Inputs vs Outputs
+  - type: has-example
+    target: 05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and
+      Human Escalation
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
+      Period - The Three Numbers That Decide If You Win
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural -
+      Defending Margin Against Organizational Creep
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize
+      the Whole Revenue System
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition
+      - Make the Customer Fund the Next Customer
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
+      - Ads Are an At-Bats Game
 ---
 
 # Maximize Net Cash, Not ROAS - The Percentage Lies
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 You can't pay overhead with ROAS — optimize for the largest absolute pile of net free cash flow, not the highest return-on-ad-spend ratio, even if that ratio (and other vanity metrics) has to fall as you scale.
@@ -42,12 +74,17 @@ Founders instinctively defend a high ROAS and refuse to let it drop, so they cap
 - Suby: he could afford five Ferraris for years before buying one, because he reinvested that money into the business, team, offices, and new markets — compounding one Ferrari's worth into five.
 
 ## Relationships
-- **related:** [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
-- **related:** [[The Creative Volume Engine - Ads Are an At-Bats Game]]
-- **applies:** [[Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
-- **applies:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
 
-- **related:** [[Profit Is Unnatural - Defending Margin Against Organizational Creep]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the Problem You Have, Not the One You're Afraid Of|Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed Gratification - Patience and Inputs vs Outputs|Delayed Gratification - Patience and Inputs vs Outputs]]
+- **Has example:** [[05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and Human Escalation|ChatGPT Advertising - Intent, Memory, and Human Escalation]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural - Defending Margin Against Organizational Creep|Profit Is Unnatural - Defending Margin Against Organizational Creep]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize the Whole Revenue System|Price, Churn, and EPC - Optimize the Whole Revenue System]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition - Make the Customer Fund the Next Customer|Client-Financed Acquisition - Make the Customer Fund the Next Customer]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
 ## Source reference
-Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #6). Raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]

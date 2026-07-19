@@ -3,20 +3,67 @@ title: "Skill Stacking and the Education-ROI Playbook"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/skills, topic/education, topic/learning, person/alex-hormozi, person/steven-bartlett]
-source:
-  type: "video"
-  name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/skills,
+    topic/education,
+    topic/learning,
+    person/alex-hormozi,
+    person/steven-bartlett
+  ]
+sources:
+  - id: "SRC-0068"
+    role: "primary"
+  - id: "SRC-0017"
+    role: "supporting"
+    locator: "Law 1"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
+      Return on Time, and Money Rules
+  - type: applies
+    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
+      Compounding - Too Good to Fail
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a
+      Partnership Makes Sense - The Five Things a Partner Must Bring
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to
+      Love to Read - Foundations, Clear Thinking, and Mental Models
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Constantly Learn
+      and Grow vs. Think They Already Know - BE, DO, HAVE
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Declarative
+      to Sell, Procedural to Deliver
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback -
+      Sales as the Training Ground
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Positioning Yourself
+      - Find a Horse to Ride
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Teach to Learn -
+      Public Obligation and the Feynman Loop
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The Entrepreneur
+      Apprenticeship
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k -
+      Defense-Before-Offense Playbook
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The
+      Complete Six-Step Roadmap
 ---
 
 # Skill Stacking and the Education-ROI Playbook
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 You are the highest-returning asset you can invest in; buy skills with time and money to pay down "ignorance debt," because education's value equals the gap between where you are and where you want to be.
@@ -54,14 +101,22 @@ Hormozi's core allocation rule for the early years: put savings into yourself, n
 - He learned Facebook ads existed (declarative) in 2013 and how to run them (procedural) in one weekend, riding that skill for years.
 
 ## Relationships
-- **related:** [[The First 100k - Defense-Before-Offense Playbook]]
-- **applies:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- **related:** [[Volume and Feedback - Sales as the Training Ground]]
-- **related:** [[Teach to Learn - Public Obligation and the Feynman Loop]]
 
-- **related:** [[Declarative to Sell, Procedural to Deliver]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
+- **Applies:** [[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail|Brand and Product Compounding - Too Good to Fail]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a Partnership Makes Sense - The Five Things a Partner Must Bring|When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to Love to Read - Foundations, Clear Thinking, and Mental Models|Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE|Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Declarative to Sell, Procedural to Deliver|Declarative to Sell, Procedural to Deliver]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Positioning Yourself - Find a Horse to Ride|Positioning Yourself - Find a Horse to Ride]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Teach to Learn - Public Obligation and the Feynman Loop|Teach to Learn - Public Obligation and the Feynman Loop]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The Entrepreneur Apprenticeship|The Entrepreneur Apprenticeship - Commercial Awareness and 90-Day Side-Hustle Tests]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - Defense-Before-Offense Playbook|The First 100k - Defense-Before-Offense Playbook]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The Complete Six-Step Roadmap|The First $100k - The Complete Six-Step Roadmap]]
 ## Source reference
-Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
 
-Additional source: Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 1. [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 1

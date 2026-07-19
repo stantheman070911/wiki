@@ -3,20 +3,46 @@ title: "Skin in the Game - Aligning Upside, Downside, and Accountability"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/incentives, topic/risk, topic/decision-making, topic/trust, topic/feedback, topic/leadership, person/nassim-nicholas-taleb, source/skin-in-the-game]
-source:
-  type: "book"
-  name: "Skin in the Game"
-  author: "Nassim Nicholas Taleb"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/incentives,
+    topic/risk,
+    topic/decision-making,
+    topic/trust,
+    topic/feedback,
+    topic/leadership,
+    person/nassim-nicholas-taleb,
+    source/skin-in-the-game
+  ]
+sources:
+  - id: "SRC-0012"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Trust Should Have a Credit Limit
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders -
+      Reverse-Engineer OTE, Profit Pools, and Phantom Equity
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reality Filters
+      - Track Records, Costly Signals, and the Green Lumber Fallacy
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin -
+      Time Probability, Repeated Exposure, and Survival First
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as
+      Infrastructure
 ---
 
 # Skin in the Game - Aligning Upside, Downside, and Accountability
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 Advice and decisions become more ethical and reliable when the people who receive the upside also bear meaningful downside from being wrong.
@@ -56,10 +82,14 @@ Misalignment is greatest when control and reward sit together while delayed down
 Taleb contrasts hedge-fund owner-operators, who often invest substantial personal wealth alongside clients, with executives who keep years of compensation before a taxpayer-funded failure. Hammurabi's builder rule is an extreme historical attempt to prevent an expert from hiding structural risk that only appears after delivery.
 
 ## Relationships
-- **related:** [[Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
-- **related:** [[Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]]
-- **related:** [[Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets]]
-- **related:** [[Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Trust Should Have a Credit Limit|Trust Should Have a Credit Limit]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity|Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy|Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin - Time Probability, Repeated Exposure, and Survival First|Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as Infrastructure|Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets]]
 ## Source reference
-Nassim Nicholas Taleb, *Skin in the Game: Hidden Asymmetries in Daily Life* (2018), [[2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript|Skin in the Game - Raw Transcript]]

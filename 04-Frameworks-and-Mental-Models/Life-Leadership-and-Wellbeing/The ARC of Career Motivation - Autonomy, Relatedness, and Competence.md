@@ -3,20 +3,47 @@ title: "The ARC of Career Motivation - Autonomy, Relatedness, and Competence"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/career, topic/management, topic/skills, topic/culture, topic/learning, person/bill-burnett, person/dave-evans, source/designing-your-new-work-life]
-source:
-  type: "book"
-  name: "Designing Your New Work Life"
-  author: "Bill Burnett and Dave Evans"
-  url: ""
-  date_of_source: "2021"
+tags:
+  [
+    topic/career,
+    topic/management,
+    topic/skills,
+    topic/culture,
+    topic/learning,
+    person/bill-burnett,
+    person/dave-evans,
+    source/designing-your-new-work-life
+  ]
+sources:
+  - id: "SRC-0026"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign,
+      Redesign - Four Ways to Change Work in Place
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Task-Relevant
+      Maturity
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Maker
+      Mix - Money, Impact, and Expression
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace
+      Influence Mapping - Authority, Value, and Recognition
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
+      Proficiency, Pain Tolerance, and Frustration Tolerance
 ---
 
 # The ARC of Career Motivation - Autonomy, Relatedness, and Competence
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 Sustainable work motivation grows when people can exercise meaningful choice, belong to a working community, and become more capable at work that matters.
@@ -53,10 +80,14 @@ For each dimension, choose one small change and observe whether engagement incre
 Ann, a fast-food shift supervisor, could not rewrite the operating system, but she initiated a cross-shift handoff role that improved cleanliness and order accuracy. The change increased autonomy, strengthened relatedness between shifts, and demonstrated operational competence.
 
 ## Relationships
-- **related:** [[Don't Resign, Redesign - Four Ways to Change Work in Place]]
-- **related:** [[Task-Relevant Maturity]]
-- **related:** [[The Maker Mix - Money, Impact, and Expression]]
-- **related:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign, Redesign - Four Ways to Change Work in Place|Don't Resign, Redesign - Four Ways to Change Work in Place]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Task-Relevant Maturity|Task-Relevant Maturity]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Maker Mix - Money, Impact, and Expression|The Maker Mix - Money, Impact, and Expression]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace Influence Mapping - Authority, Value, and Recognition|Workplace Influence Mapping - Authority, Value, and Recognition]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## Source reference
-Bill Burnett and Dave Evans, *Designing Your New Work Life* (2021; originally published as *Designing Your Work Life*, 2020). [[2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript|Designing Your New Work Life - Raw Transcript]]

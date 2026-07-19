@@ -3,20 +3,43 @@ title: "Profit Is Unnatural - Defending Margin Against Organizational Creep"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/margins, topic/cash-flow, topic/efficiency, topic/operations, person/alex-hormozi]
-source:
-  type: "conversation"
-  name: "Alex Hormozi AMA 3"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/margins,
+    topic/cash-flow,
+    topic/efficiency,
+    topic/operations,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0042"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
+      Elimination - The Deep-Work Playbook
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default
+      Dead - Runway, Growth, and the Fatal Pinch
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation -
+      Measurement, Leverage, and Compressed Work
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You
+      Can't Control Price
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS
+      - The Percentage Lies
 ---
 
 # Profit Is Unnatural - Defending Margin Against Organizational Creep
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Profit does not preserve itself: organizations naturally spend available surplus, so margin requires a deliberate owner, explicit constraints, and proof before recurring cost is added.
@@ -53,11 +76,14 @@ Assign one leader explicit responsibility for preserving the gap between revenue
 Hormozi relays a billionaire mentor's observation that businesses slowly eat their own profits because people keep finding reasons to spend. The practical countermeasure is a person who repeatedly holds expenses down while revenue rises, preserving the widening spread rather than allowing headcount to absorb it.
 
 ## Relationships
-- **related:** [[Maximize Net Cash, Not ROAS - The Percentage Lies]]
-- **related:** [[Compete on Efficiency When You Can't Control Price]]
-- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
-- **related:** [[Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
-- **related:** [[Wealth Creation - Measurement, Leverage, and Compressed Work]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch|Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation - Measurement, Leverage, and Compressed Work|Wealth Creation - Measurement, Leverage, and Compressed Work]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You Can't Control Price|Compete on Efficiency When You Can't Control Price]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS - The Percentage Lies|Maximize Net Cash, Not ROAS - The Percentage Lies]]
 ## Source reference
-Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

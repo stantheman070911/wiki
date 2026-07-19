@@ -3,20 +3,33 @@ title: "Association - Rich People Model Winners, Poor People Hang Around Losers"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/identity, topic/focus, person/t-harv-eker]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags: [ topic/mindset, topic/identity, topic/focus, person/t-harv-eker ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: has-example
+    target: 05-Intelligence-and-Research/Startup Hubs - Ambition, Density, and the
+      People Who Matter
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Admire vs. Resent
+      the Rich - Bless That Which You Want
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Constantly Learn
+      and Grow vs. Think They Already Know - BE, DO, HAVE
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Willing to
+      Self-Promote vs. Averse to Selling
 ---
 
 # Association - Rich People Model Winners, Poor People Hang Around Losers
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 Most people earn within 20% of the average income of their closest friends, so who you associate with functions as a financial ceiling or floor — rich people deliberately seek out and model successful people, poor people judge and pull them down to a shared comfort level.
@@ -37,9 +50,13 @@ Wealth File #7. Follows directly from admiring vs. resenting the rich (Wealth Fi
 - Cut low-value negative inputs (trash TV, doom-scrolling bad news) that function as background "infection" even when no single instance seems significant.
 
 ## Relationships
-- **related:** [[Admire vs. Resent the Rich - Bless That Which You Want]]
-- **related:** [[Willing to Self-Promote vs. Averse to Selling]]
-- **related:** [[Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has example:** [[05-Intelligence-and-Research/Startup Hubs - Ambition, Density, and the People Who Matter|Startup Hubs - Ambition, Density, and the People Who Matter]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Admire vs. Resent the Rich - Bless That Which You Want|Admire vs. Resent the Rich - Bless That Which You Want]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE|Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Willing to Self-Promote vs. Averse to Selling|Willing to Self-Promote vs. Averse to Selling]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #7. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

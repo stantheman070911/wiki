@@ -20,18 +20,22 @@ This page defines the structural contract for THE WIKI. [[Vault Conventions]] ex
 | `framework` | Reusable reasoning or decision model | `04` | Summary, context, model, application, relationships, source |
 | `research` | Observation, forecast, case, or finding not yet generalized | `05` | Summary, evidence/context, implications, relationships, source |
 | `article` | Outward-facing synthesis | `07` | Narrative plus `Sources in THE WIKI` |
+| `report` | Governed, dated downstream synthesis | `Reports` | Executive narrative, structured derivation roots, report lifecycle |
 | `series-hub` | Authoritative overview and index for an ordered collection | Named series folder | Scope, complete index, relationships, source |
 | `series-entry` | One ordered unit in a series | Named series folder | Summary, series navigation, application, relationships, source |
 | `source` | Archived source note or raw transcript | `06` by source type | Source metadata and processing state |
 | `source-manifest` | Inventory and derivative map for a multi-file collection | Collection folder in `06` | Complete file list, derived pages, processing status |
 | `domain-index` | Curated domain map plus generated inventory | Domain root | Placement rule, Start Here, curated map, inventory |
 | `subdomain-index` | Orientation for a large or complex subdomain | Subdomain folder | Scope, Start Here, clusters, inventory |
+| `report-index` | Complete governed inventory of report snapshots | `Reports` root | Report contract, lifecycle, complete inventory |
 
-Supporting types are `vault-home`, `conventions`, `taxonomy-registry`, `topic-index`, `workflow`, `governance`, `template`, `source-index`, `article-index`, and `inbox-index`.
+Supporting types are `vault-home`, `conventions`, `taxonomy-registry`, `topic-index`, `workflow`, `governance`, `template`, `source-index`, `article-index`, `report-index`, and `inbox-index`.
 
 ## Core properties
 
 Knowledge pages require `title`, `type`, `domain`, `lang`, `tags`, `date_added`, `updated`, `reviewed_on`, and `status`. A `series` value is required for series hubs and entries. `owner` is optional until an accountable editor is assigned; never invent an owner.
+
+Reports require `title`, `type: report`, `domain: reports`, `lang`, `status`, `generated_on`, a nonempty `derived_from` list, `supersedes`, and `owner`. `generated_on` identifies an immutable synthesis snapshot; `supersedes` links earlier report snapshots when applicable. Reports are downstream artifacts, never source records.
 
 - `domain` identifies the durable subject/ownership area independently of page type.
 - `updated` records the latest substantial edit.
@@ -43,20 +47,25 @@ Knowledge pages require `title`, `type`, `domain`, `lang`, `tags`, `date_added`,
 
 | Status | Objective criteria | Review interval |
 |---|---|---|
-| `draft` | Correct page type and source link; shared spine present; not yet editorially checked | Review within 30 days |
+| `draft` | Correct page type and source link; shared spine present; not yet editorially checked | Capacity-scheduled |
 | `reviewed` | Placement, metadata, headings, links, source traceability, and terminology checked | Review after a substantial edit or within 12 months |
-| `evergreen` | Reviewed, stable, load-bearing, and intentionally maintained as a cornerstone | Review within 12 months |
+| `evergreen` | Reviewed, stable, load-bearing, and intentionally maintained as a cornerstone | Review within 6 months |
+| `deprecated` | Retained for context but no longer preferred | Resolve replacement or archive within 90 days |
+| `superseded` | Replaced by a newer page or artifact | Validate forwarding within 30 days |
+| `replaced` | Forwarding shell retained for retrieval after merge or rename | No recurring review after forwarding passes |
+| `archived` | Historical or provenance-only material outside active navigation | No recurring review |
 
-A substantial conceptual or structural edit updates `updated` and returns the page to `draft` unless the editor reviews it in the same change. Promotion requires setting `reviewed_on`; demotion requires a short note in the edit history or commit.
+A substantial conceptual or structural edit updates `updated` and returns the page to `draft` unless the editor reviews it in the same change. Promotion requires setting `reviewed_on`; demotion requires a short note in the edit history or commit. `superseded` and `replaced` pages require a resolvable `replaced_by` target. Active indexes include only `draft`, `reviewed`, and `evergreen`; see [[Editorial Governance]] for transitions, forwarding, stewardship, and capacity-aware review scheduling.
 
 ## Folder axes and placement
 
-Top-level folders represent the page's primary operational role. Subfolders represent stable subject areas. Named series folders represent collection membership and must declare `series` explicitly. Tags carry secondary subjects; folders must not attempt to encode every subject.
+Top-level folders represent the page's primary operational role, and the page's `type` must conform to the allowed top-level location in the Page types table. `domain` remains a distinct subject and stewardship field, but it does not override type-to-folder placement. Cross-domain relevance belongs in tags, relationships, and curated maps. Subfolders represent stable subject areas. Named series folders represent collection membership and must declare `series` explicitly. Tags carry secondary subjects; folders must not attempt to encode every subject.
 
 - **Business Positioning vs Framework Positioning:** business-specific market or brand choices are `strategy` under `01`; reusable positioning laws and diagnostic models are `framework` under `04`.
 - **Social Strategy vs Content Playbooks:** audience/channel choices and platform strategy belong in `02`; repeatable production or distribution procedures belong in `03`.
 - **Operations Playbooks vs Execution Frameworks:** executable operating procedures belong in `03`; general models for focus, constraints, and systems thinking belong in `04`.
 - **Mixed-purpose pages:** classify by the action a reader takes after reading. Split a page when two independent actions would require two page types.
+- **No hybrid placement:** a page may be linked from a domain map outside its home folder, but its file location must still match its declared type. Inventories display type explicitly and validation rejects mismatches rather than silently filtering them out.
 - **Series:** use a series folder only when order, shared source, or collection-level navigation is essential.
 
 ## Shared content spine
@@ -66,7 +75,7 @@ All knowledge page types require these concepts, although documented bilingual h
 1. Summary: `One-line summary` or `一句話總結`.
 2. Context: `Context`, `Background`, `背景`, `情境`, or `適用情境`.
 3. Application or implications: `Tactics / how to apply`, `Application`, `Implications`, `應用方式`, `應用`, `建議做法`, or `如何應用`.
-4. Typed or general relationships: `Relationships`, `Related entries`, `關係`, or `相關條目`.
+4. Typed relationships: `Relationships` or `關係`.
 5. Source: `Source reference`, `Sources in THE WIKI`, or `來源`.
 
 Page-type templates may add sections. Undocumented headings must not replace the shared spine. Use H3 for repeated conceptual blocks inside an H2 when a section has three or more independently linkable parts.
@@ -83,7 +92,7 @@ Chinese standard entries use exactly six H2 sections; page-specific detail belon
 | `research` | `一句話總結` → `背景` → `觀察與證據` → `應用` → `關係` → `來源` |
 | `series-entry` | `一句話總結` → `背景` → `核心內容` → `應用` → `關係` → `來源` |
 
-English entries retain documented page-type variation because their 17 signatures represent a small number of established source-specific and diagnostic layouts; they still implement the same shared spine.
+English entries retain documented page-type variation for established standard, diagnostic, and source-specific layouts; every supported variant still implements the same shared spine and is registered in the machine-readable schema.
 
 ## Typed relationships
 
@@ -124,6 +133,6 @@ Until relationship metadata is migrated, labels may be written in the Relationsh
 
 ## Maintenance cadence
 
-- Run `node tools/generate-topic-index.mjs` after tag changes.
-- Run `node tools/audit-vault.mjs` after every structural change.
+- Regenerate the taxonomy and topic views after an approved registry change; never hand-edit generated indexes.
+- Run `npm test` and `npm run check` after every structural change. `check-vault` is the single release gate and regenerates deterministic outputs in memory before comparison.
 - Review taxonomy, folder capacity, source coverage, drafts, and zero-inbound pages monthly while the vault is growing rapidly; move to quarterly once change volume stabilizes.

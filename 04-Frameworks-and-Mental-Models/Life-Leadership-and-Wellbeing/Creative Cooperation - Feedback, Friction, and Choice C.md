@@ -3,20 +3,49 @@ title: "Creative Cooperation - Feedback, Friction, and Choice C"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/creativity, topic/feedback, topic/decision-making, topic/leadership, person/rick-rubin]
-source:
-  type: "book"
-  name: "The Creative Act - A Way of Being"
-  author: "Rick Rubin with Neil Strauss"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/creativity,
+    topic/feedback,
+    topic/decision-making,
+    topic/leadership,
+    person/rick-rubin
+  ]
+sources:
+  - id: "SRC-0016"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Disagreement Needs a Finish Line
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative
+      Experiments - Opposites, Constraints, A-B Tests, and Context
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
+      Open-Minded
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How
+      to Get Beyond Disagreements
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Five
+      Energies of Execution - Vision, Strategy, People, Work, Refinement
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and
+      Stay in Sync
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With
+      Agreement - Keep the Other Mind Open
 ---
 
 # Creative Cooperation - Feedback, Friction, and Choice C
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 Creative collaboration works when contrasting perspectives serve the piece rather than compete for authorship, using specific feedback and continued iteration to find a Choice C everyone recognizes as stronger.
@@ -56,10 +85,16 @@ The goal is not unanimous taste on every detail; it is a fair process that extra
 Rubin compares cooperation to a jazz ensemble: members alternately lead, support, and leave space in response to the evolving whole. The strongest contribution at a given moment may be a solo, a counterpoint, or silence.
 
 ## Relationships
-- **related:** [[Recognize How to Get Beyond Disagreements]]
-- **related:** [[Get and Stay in Sync]]
-- **related:** [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
-- **related:** [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Disagreement Needs a Finish Line|Disagreement Needs a Finish Line]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How to Get Beyond Disagreements|Recognize How to Get Beyond Disagreements]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Five Energies of Execution - Vision, Strategy, People, Work, Refinement|Five Energies of Execution - Vision, Strategy, People, Work, Refinement]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and Stay in Sync|Get and Stay in Sync]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open|Start With Agreement - Keep the Other Mind Open]]
 ## Source reference
-Rick Rubin with Neil Strauss, *The Creative Act: A Way of Being* (2023). Raw transcript archived at [[2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript|The Creative Act - Raw Transcript]]

@@ -3,20 +3,56 @@ title: "Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/personal-brand, topic/content-formats, topic/short-form-video, topic/consistency, topic/reps]
-source:
-  type: "video"
-  name: "The Art of the Personal Brand"
-  author: ""
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/personal-brand,
+    topic/content-formats,
+    topic/short-form-video,
+    topic/consistency,
+    topic/reps
+  ]
+sources:
+  - id: "SRC-0071"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model
+  - type: applies
+    target: 02-Social-Media-Strategy/Personal-Brand Positioning and the
+      No-Competition Model
+  - type: applies
+    target: 02-Social-Media-Strategy/短影音研究引擎、鉤子與格式
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
+      Gratification - Patience and Inputs vs Outputs
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
+      - The Zero-Follower Consistency Engine
+  - type: related
+    target: 03-Tactics-and-Playbooks/Audience-Growth/Instagram 0-to-100k - The
+      Three-Level Follower Roadmap
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+      Planner and the Analyze-Double-Down Loop
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creator
+      Monetization Ladder and Content-Concept Formulas
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down
+      and the 70-20-10 Rule - Templatizing Viral Outliers
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
+      Proof, Path - Engineering the Video Intro
 ---
 
 # Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Diagnose stalled growth by view-count tier, pick the right format for the idea, remix winners across formats, and hold the line against a timing ladder that doesn't expect money until year one.
@@ -53,10 +89,19 @@ A practical operating manual for the middle of the personal-brand journey: what 
 - Set expectations against the timing ladder — commit to the 30- and 100-day marks first, and don't judge the venture on money before ~year one.
 
 ## Relationships
-- **applies:** [[Personal-Brand Positioning and the No-Competition Model]]
-- **related:** [[Content Planner and the Analyze-Double-Down Loop]]
-- **applies:** [[短影音研究引擎、鉤子與格式]]
-- **applies:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model|Interest Media and the Zero-Follower Reach Model]]
+- **Applies:** [[02-Social-Media-Strategy/Personal-Brand Positioning and the No-Competition Model|Personal-Brand Positioning and the No-Competition Model]]
+- **Applies:** [[02-Social-Media-Strategy/短影音研究引擎、鉤子與格式|短影音研究引擎、鉤子與格式]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed Gratification - Patience and Inputs vs Outputs|Delayed Gratification - Patience and Inputs vs Outputs]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal - The Zero-Follower Consistency Engine|Process as the Goal - The Zero-Follower Consistency Engine]]
+- **Related:** [[03-Tactics-and-Playbooks/Audience-Growth/Instagram 0-to-100k - The Three-Level Follower Roadmap|Instagram 0-to-100k - The Three-Level Follower Roadmap]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Planner and the Analyze-Double-Down Loop|Content Planner and the Analyze-Double-Down Loop]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creator Monetization Ladder and Content-Concept Formulas|Creator Monetization Ladder and Content-Concept Formulas]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers|Double-Down and the 70/20/10 Rule - Templatizing Viral Outliers]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]
 ## Source reference
-"The Art of the Personal Brand" (video). Extraction notes and raw transcript in [[2026-07-08_Video_ArtOfThePersonalBrand]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_ArtOfThePersonalBrand|Art Of The Personal Brand]]

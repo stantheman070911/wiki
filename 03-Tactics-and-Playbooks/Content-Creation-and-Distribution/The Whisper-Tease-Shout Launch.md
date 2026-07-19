@@ -3,20 +3,40 @@ title: "The Whisper-Tease-Shout Launch"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/marketing, topic/content-strategy, topic/product, person/alex-hormozi]
-source:
-  type: "book"
-  name: "$100M Leads"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/marketing,
+    topic/content-strategy,
+    topic/product,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0019"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+  Creation and Distribution Map
+relationships:
+  - type: applies
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies -
+      Recruiting Businesses to Sell for You
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and
+      Urgency - Engineering Demand with Supply and Deadlines
+  - type: is-prerequisite-for
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies -
+      Recruiting Businesses to Sell for You
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
+      Rule of 100 - Lead Generation Fundamentals
 ---
 
 # The Whisper-Tease-Shout Launch
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution]]
 
 ## One-line summary
 Launch anything by escalating attention over time in three phases — whisper to build curiosity, tease to reveal value, shout to drive action — front-loading all the work so the launch day is plug-and-play.
@@ -49,9 +69,13 @@ A launch concentrates demand into a window: promote before the product is buyabl
 - Prestige Labs used a launch to activate ~400 gym affiliates, converting a flat first three weeks into ~$450K/week by month's end.
 
 ## Relationships
-- **applies:** [[Affiliate Armies - Recruiting Businesses to Sell for You]]
-- **related:** [[Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
-- **related:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies - Recruiting Businesses to Sell for You|Affiliate Armies - Recruiting Businesses to Sell for You]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and Urgency - Engineering Demand with Supply and Deadlines|Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
+- **Is prerequisite for:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies - Recruiting Businesses to Sell for You|Affiliate Armies - Recruiting Businesses to Sell for You]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
 ## Source reference
-Alex Hormozi, *$100M Leads* (2023), "Affiliates and Partners" (launch section). Raw transcript archived at [[2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript|$100M Leads]]

@@ -5,20 +5,59 @@ aliases:
 type: "strategy"
 domain: "social-media-strategy"
 lang: "en"
-tags: [topic/personal-brand, topic/positioning, topic/storytelling, topic/content-pillars, topic/avatar]
-source:
-  type: "video"
-  name: "Building a Personal Brand in 2026"
-  author: ""
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/personal-brand,
+    topic/positioning,
+    topic/storytelling,
+    topic/content-pillars,
+    topic/avatar
+  ]
+sources:
+  - id: "SRC-0062"
+    role: "primary"
 date_added: "2026-07-02"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 02-Social-Media-Strategy/Social Media Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
+      Features - Sell the Identity Behind the Product
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+      Planner and the Analyze-Double-Down Loop
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film
+      Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content
+      Repository - Four Topic Buckets and Tweet-First Capture
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音文案全公式：標題、開頭、結尾與腳本結構
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence -
+      Build in Public, Daily Cadence, Post-Launch Loop
+  - type: related
+    target: 02-Social-Media-Strategy/Brand Journey and the 3-Part Brand Story
+  - type: related
+    target: 02-Social-Media-Strategy/Levels of a Personal Brand and the Five Archetypes
+  - type: related
+    target: 02-Social-Media-Strategy/Personal-Brand Positioning and the
+      No-Competition Model
+  - type: related
+    target: 02-Social-Media-Strategy/The Personal-Brand House - Foundation,
+      Interior, Exterior
+  - type: related
+    target: 02-Social-Media-Strategy/個人品牌與IP打造框架
+  - type: related
+    target: 02-Social-Media-Strategy/受眾定位與先小後大法則
 ---
 
 # Creator Vision Framework: What x Who x Why
+
+> **Up:** [[Home|Home]] → [[02-Social-Media-Strategy/Social Media Strategy Index|Social Media Strategy]]
 
 ## One-line summary
 Your personal brand sits at the intersection of What (message and content pillars), Who (target avatar), and Why (your story) — "become the niche" instead of niching down to one topic.
@@ -73,10 +112,21 @@ This is structurally the same pattern as 陳修平's story script formula (成�
 - When writing a hook, replace any generic pain statement with the most specific psychographic version you can — name the exact person and exact pain.
 
 ## Relationships
-- **related:** [[個人品牌與IP打造框架]]
-- **related:** [[受眾定位與先小後大法則]]
-- **related:** [[短影音文案全公式：標題、開頭、結尾與腳本結構]]（3P 故事框架與陳修平的說故事腳本公式是同一種結構）
-- **related:** [[Content Planner and the Analyze-Double-Down Loop]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product|Values Before Features - Sell the Identity Behind the Product]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Planner and the Analyze-Double-Down Loop|Content Planner and the Analyze-Double-Down Loop]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing|Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content Repository - Four Topic Buckets and Tweet-First Capture|The Content Repository - Four Topic Buckets and Tweet-First Capture]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音文案全公式：標題、開頭、結尾與腳本結構|短影音文案全公式：標題、開頭、結尾與腳本結構]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop|The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop]]
+- **Related:** [[02-Social-Media-Strategy/Brand Journey and the 3-Part Brand Story|Brand Journey and the 3-Part Brand Story]]
+- **Related:** [[02-Social-Media-Strategy/Levels of a Personal Brand and the Five Archetypes|Levels of a Personal Brand and the Five Archetypes]]
+- **Related:** [[02-Social-Media-Strategy/Personal-Brand Positioning and the No-Competition Model|Personal-Brand Positioning and the No-Competition Model]]
+- **Related:** [[02-Social-Media-Strategy/The Personal-Brand House - Foundation, Interior, Exterior|The Personal-Brand House - Foundation, Interior, Exterior]]
+- **Related:** [[02-Social-Media-Strategy/個人品牌與IP打造框架|個人品牌與IP打造框架]]
+- **Related:** [[02-Social-Media-Strategy/受眾定位與先小後大法則|受眾定位與先小後大法則]]
 ## Source reference
-"Building a Personal Brand in 2026" (video transcript). Full notes archived at [[2026-07-02_Video_BuildingAPersonalBrandIn2026]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-02_Video_BuildingAPersonalBrandIn2026|Building a Personal Brand in 2026]]

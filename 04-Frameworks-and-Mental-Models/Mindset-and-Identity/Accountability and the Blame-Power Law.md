@@ -3,20 +3,42 @@ title: "Accountability and the Blame-Power Law"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/business-model, person/alex-hormozi]
-source:
-  type: "video"
-  name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags: [ topic/mindset, topic/business-model, person/alex-hormozi ]
+sources:
+  - id: "SRC-0068"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k -
+      Defense-Before-Offense Playbook
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
+      - Who-Not-How and Planning Backward From the Goal
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin
+      Story - Heroes Use Pain
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/I Create My Life
+      vs. Life Happens to Me - Escaping the Victim Triangle
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Reframing Trauma
+      and Labels - Logic, Evidence, Utility
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint
+      - Reprogramming Thoughts, Feelings, and Actions Around Money
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group
+      and Re-engineering Your Circle
 ---
 
 # Accountability and the Blame-Power Law
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 The first move out of poverty is total ownership — "it's my fault" — because wherever you point blame you also hand over power.
@@ -41,10 +63,16 @@ Hormozi frames accountability as the concrete foundation beneath every other ski
 - A woman at a conference listed "six reasons this won't work for my business"; told "you're right, it never will," she immediately fought back with why it *would* — the extreme exposes the frame.
 
 ## Relationships
-- **related:** [[Reframing Trauma and Labels - Logic, Evidence, Utility]]
-- **related:** [[Hardship as Origin Story - Heroes Use Pain]]
-- **related:** [[The First 100k - Defense-Before-Offense Playbook]]
-- **related:** [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - Defense-Before-Offense Playbook|The First 100k - Defense-Before-Offense Playbook]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain|Hardship as Origin Story - Heroes Use Pain]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle|I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Reframing Trauma and Labels - Logic, Evidence, Utility|Reframing Trauma and Labels - Logic, Evidence, Utility]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle|The Reference Group and Re-engineering Your Circle]]
 ## Source reference
-Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]

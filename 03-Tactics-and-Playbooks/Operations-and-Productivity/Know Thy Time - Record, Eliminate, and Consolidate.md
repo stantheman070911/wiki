@@ -3,20 +3,47 @@ title: "Know Thy Time - Record, Eliminate, and Consolidate"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/productivity, topic/focus, topic/operations, topic/prioritization, person/peter-drucker]
-source:
-  type: "book"
-  name: "The Effective Executive"
-  author: "Peter F. Drucker"
-  url: ""
-  date_of_source: "1967"
+tags:
+  [
+    topic/productivity,
+    topic/focus,
+    topic/operations,
+    topic/prioritization,
+    person/peter-drucker
+  ]
+sources:
+  - id: "SRC-0013"
+    role: "primary"
+    locator: "ch. 2"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Effective Executive - Five Learnable Practices
+  - type: has-derivative
+    target: 07-Articles/Every Possession Comes With a Job
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
+      to Do
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
+      Elimination - The Deep-Work Playbook
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
+      - SOPs, Checklists, and Systematizing the Vital 20%
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect
+      Repeatable Week - Designing a Predictable Business Rhythm
 ---
 
 # Know Thy Time - Record, Eliminate, and Consolidate
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 Manage time from evidence rather than memory: record where it actually goes, remove recurring waste, and reserve the remaining capacity in uninterrupted blocks large enough for consequential work.
@@ -55,10 +82,15 @@ Time is the limiting resource of knowledge work: it cannot be stored, replaced, 
 - A hospital’s recurring search for beds was caused by a simple information defect: admissions received a 5 a.m. count but not the discharge notices already sent elsewhere.
 
 ## Relationships
-- **applies:** [[The Effective Executive - Five Learnable Practices]]
-- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
-- **related:** [[Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
-- **related:** [[Do What You Set Out to Do]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Effective Executive - Five Learnable Practices|The Effective Executive - Five Learnable Practices]]
+- **Has derivative:** [[07-Articles/Every Possession Comes With a Job|Every Possession Comes With a Job]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%|Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect Repeatable Week - Designing a Predictable Business Rhythm|The Perfect Repeatable Week - Designing a Predictable Business Rhythm]]
 ## Source reference
-Peter F. Drucker, *The Effective Executive*, ch. 2, “Know Thy Time” (1967; 2006 edition). Raw archived text in [[2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript|The Effective Executive - Raw Transcript]] — locator: ch. 2

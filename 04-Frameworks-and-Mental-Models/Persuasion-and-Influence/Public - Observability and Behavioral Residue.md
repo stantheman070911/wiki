@@ -3,20 +3,59 @@ title: "Public - Observability and Behavioral Residue"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/word-of-mouth, topic/persuasion, topic/brand, person/jonah-berger, source/contagious]
-source:
-  type: "book"
-  name: "Contagious: Why Things Catch On"
-  author: "Jonah Berger"
-  url: ""
-  date_of_source: "2013"
+tags:
+  [
+    topic/word-of-mouth,
+    topic/persuasion,
+    topic/brand,
+    person/jonah-berger,
+    source/contagious
+  ]
+sources:
+  - id: "SRC-0033"
+    role: "primary"
+    locator: "ch. 4"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: "2026-07-18"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
+      Framework - Six Drivers of Word of Mouth
+  - type: has-derivative
+    target: 07-Articles/Design for the Second Audience
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability -
+      Own Attention and Design Word of Mouth
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
+      Create - Engineering Proof at Scale
+  - type: is-applied-by
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
+      Framework - Six Drivers of Word of Mouth
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/People Like Us
+      Do Things Like This - Culture and Status as Behavior
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency
+      - We Share What Makes Us Look Good
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
+      Liking, Authority, and Scarcity - The Four Social Shortcuts
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority
+      Rule - How Intransigent Preferences Dominate Flexible Majorities
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable
+      Virality - Build a Trojan Horse People Can't Retell Without You
 ---
 
 # Public - Observability and Behavioral Residue
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 People imitate what they can see, so making a product, choice, or behavior more observable — and leaving visible traces after use — drives it to catch on: built to show is built to grow.
@@ -47,11 +86,19 @@ Physical traces that persist *after* use. Livestrong's **yellow** bands (a rarel
 - When discouraging a behavior, never cite how many people already do it — publicize the healthy majority instead.
 
 ## Relationships
-- **applies:** [[The STEPPS Framework - Six Drivers of Word of Mouth]]
-- **related:** [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
-- **related:** [[Social Currency - We Share What Makes Us Look Good]]
-- **related:** [[Capture Dont Create - Engineering Proof at Scale]]
-- **related:** [[The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
+- **Has derivative:** [[07-Articles/Design for the Second Audience|Design for the Second Audience]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability - Own Attention and Design Word of Mouth|Permission and Remarkability - Own Attention and Design Word of Mouth]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/People Like Us Do Things Like This - Culture and Status as Behavior|People Like Us Do Things Like This - Culture and Status as Behavior]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good|Social Currency - We Share What Makes Us Look Good]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities|The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable Virality - Build a Trojan Horse People Can't Retell Without You|Valuable Virality - Build a Trojan Horse People Can't Retell Without You]]
 ## Source reference
-Jonah Berger, *Contagious: Why Things Catch On* (Simon & Schuster, 2013), ch. 4. Extraction notes in [[2026-07-18_Book_JonahBerger_Contagious]]; full text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_JonahBerger_Contagious|Contagious: Why Things Catch On]] — locator: ch. 4

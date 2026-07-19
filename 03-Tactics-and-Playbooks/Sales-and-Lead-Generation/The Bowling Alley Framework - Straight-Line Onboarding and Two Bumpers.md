@@ -3,20 +3,45 @@ title: "The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/onboarding, topic/product, topic/retention, topic/funnel, person/wes-bush, source/product-led-growth]
-source:
-  type: "book"
-  name: "Product-Led Growth"
-  author: "Wes Bush"
-  url: ""
-  date_of_source: "2019"
+tags:
+  [
+    topic/onboarding,
+    topic/product,
+    topic/retention,
+    topic/funnel,
+    person/wes-bush,
+    source/product-led-growth
+  ]
+sources:
+  - id: "SRC-0040"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand,
+      Communicate, and Deliver Customer Value
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
+      MOAT Framework - Choose Freemium, Free Trial, or Demo
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Checklist Design -
+      Pause Points, Killer Items, and Field Testing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth
+      Sprints - Analyze, Ask, and Act
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
+      Automation - Manual Onboarding to Fix Churn
 ---
 
 # The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Onboarding should create the shortest path to the user's desired outcome, then use in-product and conversational bumpers only when they keep the user on that path.
@@ -57,11 +82,14 @@ Conversational tracks should advance in order: reach a quick win, reach the desi
 - Autopilot uses post-trial reasons to trigger different responses, including an extension for evaluators and a customer-success call when the product felt too complex.
 
 ## Relationships
-- **related:** [[UCD - Understand, Communicate, and Deliver Customer Value]]
-- **related:** [[The MOAT Framework - Choose Freemium, Free Trial, or Demo]]
-- **related:** [[Triple-A Growth Sprints - Analyze, Ask, and Act]]
-- **related:** [[Activation Before Automation - Manual Onboarding to Fix Churn]]
-- **related:** [[Checklist Design - Pause Points, Killer Items, and Field Testing]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand, Communicate, and Deliver Customer Value|UCD - Understand, Communicate, and Deliver Customer Value]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The MOAT Framework - Choose Freemium, Free Trial, or Demo|The MOAT Framework - Choose Freemium, Free Trial, or Demo]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Checklist Design - Pause Points, Killer Items, and Field Testing|Checklist Design - Pause Points, Killer Items, and Field Testing]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth Sprints - Analyze, Ask, and Act|Triple-A Growth Sprints - Analyze, Ask, and Act]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
 ## Source reference
-Wes Bush, *Product-Led Growth: How to Build a Product That Sells Itself* (2019). Raw transcript in [[2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript|Product-Led Growth]]

@@ -1,24 +1,56 @@
 ---
-title: "The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies"
+title: "The Founder's Paradox - Why Extreme, Contradictory Individuals Build the
+  Most Valuable Companies"
 aliases:
-  - "The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies"
+  - "The Founder's Paradox - Why Extreme, Contradictory Individuals Build the
+    Most Valuable Companies"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/leadership, topic/identity, topic/founder-brand, topic/mindset, person/peter-thiel]
-source:
-  type: "book"
-  name: "Zero to One: Notes on Startups, or How to Build the Future"
-  author: "Peter Thiel with Blake Masters"
-  url: ""
-  date_of_source: "2014"
+tags:
+  [
+    topic/leadership,
+    topic/identity,
+    topic/founder-brand,
+    topic/mindset,
+    person/peter-thiel
+  ]
+sources:
+  - id: "SRC-0014"
+    role: "primary"
+    locator: "ch. 14"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5
+      Leadership - Humility and Professional Will
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status
+      Signal - Shame, Guilt, and Documenting the Struggle
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs.
+      Indefinite Optimism - Planning Your Way to the Future
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
+      - Who-Not-How and Planning Backward From the Goal
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin
+      Story - Heroes Use Pain
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the
+      Hero's Journey - The Founder Archetype Who Builds Against Doubt
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That
+      People Are Wired Very Differently
 ---
 
 # The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 Founders don't just sit at the extremes of a normal bell curve — they hold opposite traits simultaneously (rich and poor, insider and outsider, charismatic and disagreeable), because that same extremity is what unlocks non-incremental company-building and what makes founders culturally useful as vessels for public worship and blame.
@@ -49,11 +81,16 @@ when a founder presents extreme or contradictory traits, resist collapsing it to
 - Howard Hughes: built Houston's first radio transmitter at 11, made nine commercially successful films by 30, set multiple aviation speed records, then spent his final ~30 years in self-imposed isolation after a severe 1946 plane crash — the clearest single-person before/after arc in the chapter.
 
 ## Relationships
-- **related:** [[Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
-- **related:** [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
-- **related:** [[Hardship as Origin Story - Heroes Use Pain]]
-- **related:** [[Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]]
-- **related:** [[Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt]] (a different but complementary lens on unusual founders — Dalio's trait-checklist framing vs. Thiel's contradictory-traits framing)
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5 Leadership - Humility and Professional Will|Level 5 Leadership - Humility and Professional Will]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle|Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs. Indefinite Optimism - Planning Your Way to the Future|Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain|Hardship as Origin Story - Heroes Use Pain]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt|Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That People Are Wired Very Differently|Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
 ## Source reference
-Peter Thiel with Blake Masters, *Zero to One*, ch. 14 ("The Founder's Paradox"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 14

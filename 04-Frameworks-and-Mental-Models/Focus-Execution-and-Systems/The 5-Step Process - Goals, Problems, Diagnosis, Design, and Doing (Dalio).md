@@ -3,20 +3,68 @@ title: "The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dali
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/execution, topic/decision-making, topic/systems, topic/prioritization, topic/root-cause, person/ray-dalio, source/bridgewater-associates]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/execution,
+    topic/decision-making,
+    topic/systems,
+    topic/prioritization,
+    topic/root-cause,
+    person/ray-dalio,
+    source/bridgewater-associates
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 2"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements
+      to Your Machine to Get Around Your Problems
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems
+      to Get at Their Root Causes
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
+      to Do
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone
+      Operating a Machine to Achieve a Goal
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm -
+      Musk's Five-Step Process Method
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective
+      Decision Process
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation,
+      Quantification, and Orchestration - The Business Development Loop
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Kaizen and
+      the Progress Principle
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5A
+      Operating System
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Effective Executive - Five Learnable Practices
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Framework for Making Frameworks - Distill by Commonality
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and
+      Deal With It - Pain, Truth, and the Hyperrealist's Formula
 ---
 
 # The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Personal and organizational evolution happens through one iterative loop — set clear goals, surface the problems blocking them, diagnose those problems to their root cause, design a plan around the diagnosis, and then push through to execution — and doing all five steps well, in strict sequence without blurring them, all but guarantees getting what you want.
@@ -50,11 +98,21 @@ flowchart LR
 - Dalio frames the whole process as directly transferable between a single person's career and an entire organization — Work Principles' chapters on managing, diagnosing, and designing (Chs. 10–13) are this same five-step loop applied at the machine/organization level rather than the individual level.
 
 ## Relationships
-- **related:** [[Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
-- **related:** [[Diagnose Problems to Get at Their Root Causes]]
-- **related:** [[Design Improvements to Your Machine to Get Around Your Problems]]
-- **related:** [[The Framework for Making Frameworks - Distill by Commonality]]
-- **related:** Related but distinct framework, same name: [[The Algorithm - Musk's Five-Step Process Method]] (Musk's engineering process — question requirements, delete, simplify, accelerate, automate — is a different five-step method for the same general purpose)
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements to Your Machine to Get Around Your Problems|Design Improvements to Your Machine to Get Around Your Problems]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems to Get at Their Root Causes|Diagnose Problems to Get at Their Root Causes]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone Operating a Machine to Achieve a Goal|Manage as Someone Operating a Machine to Achieve a Goal]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm - Musk's Five-Step Process Method|The Algorithm - Musk's Five-Step Process Method]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective Decision Process|The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation, Quantification, and Orchestration - The Business Development Loop|Innovation, Quantification, and Orchestration - The Business Development Loop]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Kaizen and the Progress Principle|Kaizen and the Progress Principle - Small Wins, Course Corrections, and Motivation]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5A Operating System|The 5A Operating System - Alignment, Awareness, Accountabilities, Activities, and Assets]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Effective Executive - Five Learnable Practices|The Effective Executive - Five Learnable Practices]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Framework for Making Frameworks - Distill by Commonality|The Framework for Making Frameworks - Distill by Commonality]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula|Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
 ## Source reference
-Ray Dalio, *Principles*, Part II, Ch. 2 ("Use the 5-Step Process to Get What You Want Out of Life"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 2

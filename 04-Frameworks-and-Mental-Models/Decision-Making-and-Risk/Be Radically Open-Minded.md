@@ -1,24 +1,79 @@
 ---
-title: "Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth"
+title: "Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and
+  Triangulating Truth"
 aliases:
-  - "Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth"
+  - "Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and
+    Triangulating Truth"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/decision-making, topic/mindset, topic/believability, topic/mental-models, person/ray-dalio, person/steven-bartlett, source/bridgewater-associates]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/decision-making,
+    topic/mindset,
+    topic/believability,
+    topic/mental-models,
+    person/ray-dalio,
+    person/steven-bartlett,
+    source/bridgewater-associates
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 3"
+  - id: "SRC-0017"
+    role: "supporting"
+    locator: "Law 5"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Disagreement Needs a Finish Line
+  - type: has-example
+    target: 05-Intelligence-and-Research/Technology Platforms - How New Protocols
+      and Tools Shift Power
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative
+      Experiments - Opposites, Constraints, A-B Tests, and Context
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
+      Your Decision Making
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles
+      Thinking - Reason from Physics, Not Analogy
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness
+      - Separate Truth from Identity and Conformism
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to
+      Make Decisions Effectively - Expected Value, Levels, and Algorithms
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale
+      Paradox - Confront Reality Without Losing Faith
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative
+      Cooperation - Feedback, Friction, and Choice C
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
+      Confidence
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and
+      Deal With It - Pain, Truth, and the Hyperrealist's Formula
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the
+      Hero's Journey - The Founder Archetype Who Builds Against Doubt
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That
+      People Are Wired Very Differently
 ---
 
 # Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 Two nearly universal barriers — the ego barrier (subconscious defensiveness about being wrong) and the blind-spot barrier (your particular way of thinking makes some things literally invisible to you) — keep almost everyone from seeing reality clearly, and radical open-mindedness (a learnable skill, not a fixed trait) is the direct antidote.
@@ -54,14 +109,23 @@ Before committing to an important, uncertain decision, deliberately seek out peo
 - **The 1982 collapse itself** is Dalio's central cautionary example of the ego barrier in action: total public confidence in a view that turned out to be completely wrong, followed by financial near-ruin.
 
 ## Relationships
-- **related:** [[Believability-Weight Your Decision Making]]
-- **related:** [[Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms]]
-- **related:** [[Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
-- **related:** [[Build Evidence, Not Confidence]]
-- **related:** [[First-Principles Thinking - Reason from Physics, Not Analogy]]
-- **related:** [[Technology Platforms - How New Protocols and Tools Shift Power]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Disagreement Needs a Finish Line|Disagreement Needs a Finish Line]]
+- **Has example:** [[05-Intelligence-and-Research/Technology Platforms - How New Protocols and Tools Shift Power|Technology Platforms - How New Protocols and Tools Shift Power]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles Thinking - Reason from Physics, Not Analogy|First-Principles Thinking - Reason from Physics, Not Analogy]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness - Separate Truth from Identity and Conformism|Independent-Mindedness - Separate Truth from Identity and Conformism]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms|Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale Paradox - Confront Reality Without Losing Faith|The Stockdale Paradox - Confront Reality Without Losing Faith]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative Cooperation - Feedback, Friction, and Choice C|Creative Cooperation - Feedback, Friction, and Choice C]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula|Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt|Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That People Are Wired Very Differently|Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
 ## Source reference
-Ray Dalio, *Principles*, Part II, Ch. 3 ("Be Radically Open-Minded"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
 
-Additional source: Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 5. [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 3
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 5

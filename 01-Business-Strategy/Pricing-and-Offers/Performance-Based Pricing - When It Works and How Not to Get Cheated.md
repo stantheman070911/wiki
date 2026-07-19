@@ -3,20 +3,49 @@ title: "Performance-Based Pricing - When It Works and How Not to Get Cheated"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/pricing, topic/incentives, topic/enterprise, topic/business-model, topic/risk, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/pricing,
+    topic/incentives,
+    topic/enterprise,
+    topic/business-model,
+    topic/risk,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal -
+      The Guarantee Toolkit
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
+      Sell the Goal, Scope the Journey, Secure Prepayment
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of
+      Service Businesses
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/全代操短影音代理商商業模式
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
+      Return on Time, and Money Rules
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
+      Unscalable Premium Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem
+      - Sell Consumable Inputs, Not the Black Box
 ---
 
 # Performance-Based Pricing - When It Works and How Not to Get Cheated
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Performance pricing is always best on paper and often worst in practice; it only works when you can trust the client to pay, which means selling to accountable enterprises or controlling the money flow yourself — otherwise you've built an incentive to be cheated.
@@ -55,11 +84,16 @@ A high-volume cold-email agency ($2.2M) wanted to switch to performance at scale
 - Even with enterprises, define attribution windows and reporting up front to avoid disputes.
 
 ## Relationships
-- **related:** [[The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
-- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
-- **related:** [[The Virtuous Cycle of Service Businesses]]
-- **related:** [[全代操短影音代理商商業模式]]
-- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal - The Guarantee Toolkit|Risk Reversal - The Guarantee Toolkit]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of Service Businesses|The Virtuous Cycle of Service Businesses]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/全代操短影音代理商商業模式|全代操短影音代理商商業模式]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box|The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

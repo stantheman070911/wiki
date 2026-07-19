@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0008"
 title: "How To Build Your Brand"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Caleb Ralston"
+    role: "author"
 source_type: "workbook"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Caleb Ralston"
 date_archived: "2026-07-08"
 status: "source"
 ---

@@ -3,20 +3,49 @@ title: "The AI-Ready Business Redesign - Speed to Value and Experience Moats"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/ai, topic/business-model, topic/product, topic/moat, topic/memberships, topic/differentiation, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "Your Business Is Dead - AI Reinvention"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/ai,
+    topic/business-model,
+    topic/product,
+    topic/moat,
+    topic/memberships,
+    topic/differentiation,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0104"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
+  and Customers Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Technology as
+      an Accelerator, Not a Strategy
+  - type: has-example
+    target: 05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era
+      Moat
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
+      Business - Train Like an Employee and the Department Playbook
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/Community Quality Is
+      the Offer - Qualification, Curation, and Network Effects
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtual Firm -
+      Falling Transaction Costs and the Unbundling of Organizations
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly
 ---
 
 # The AI-Ready Business Redesign - Speed to Value and Experience Moats
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/Business-Models-and-Customers/Business Models and Customers Map|Business Models and Customers]]
 
 ## One-line summary
 Redesign an AI-exposed business from the customer's desired outcome backward, use agents to compress speed to value, and defend the result with a narrow reputation plus exclusivity, community, and real experiences.
@@ -50,12 +79,15 @@ Use a three-part redesign:
 Priestley describes converting a hands-on book-coaching process into an AI-guided product and using agents to give every accelerator client forms of marketing and strategic assistance that previously would have been too expensive to deliver broadly.
 
 ## Relationships
-- **related:** [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
-- **related:** [[The Attention Barbell - Brand as the AI-Era Moat]]
-- **related:** [[Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
-- **related:** [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
 
-- **related:** [[Technology as an Accelerator, Not a Strategy]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Technology as an Accelerator, Not a Strategy|Technology as an Accelerator, Not a Strategy]]
+- **Has example:** [[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat|The Attention Barbell - Brand as the AI-Era Moat]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your Business - Train Like an Employee and the Department Playbook|Using AI in Your Business - Train Like an Employee and the Department Playbook]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Community Quality Is the Offer - Qualification, Curation, and Network Effects|Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations|The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly|Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
 ## Source reference
-Daniel Priestley, *Your Business Is Dead - AI Reinvention*. Raw transcript in [[2026-07-13_Video_DanielPriestley_YourBusinessIsDeadAIReinvention_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_YourBusinessIsDeadAIReinvention_RawTranscript|Your Business Is Dead - AI Reinvention - Raw Transcript]]

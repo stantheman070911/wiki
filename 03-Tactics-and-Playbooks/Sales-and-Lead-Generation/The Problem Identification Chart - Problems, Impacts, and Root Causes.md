@@ -3,20 +3,46 @@ title: "The Problem Identification Chart - Problems, Impacts, and Root Causes"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/research, topic/qualification, topic/systems, person/keenan, source/gap-selling]
-source:
-  type: "book"
-  name: "Gap Selling"
-  author: "Keenan"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/sales,
+    topic/research,
+    topic/qualification,
+    topic/systems,
+    person/keenan,
+    source/gap-selling
+  ]
+sources:
+  - id: "SRC-0034"
+    role: "primary"
+    locator: "chapters 3, 8, 11"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Gap Selling -
+      Current State, Future State, and the Value of Change
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead
+      Generation - Fifteen Questions and Dynamic Routing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State
+      Diagnosis - Facts, Problems, Impact, Cause, and Emotion
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Gap Prospecting -
+      Intrigue, Offer, Ask, and Cadence
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Problem-Centric
+      Discovery - Four Question Types and the CRM Challenge
 ---
 
 # The Problem Identification Chart - Problems, Impacts, and Root Causes
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Before contacting buyers, map every problem the offering can solve to its possible business impacts and root causes so prospecting, qualification, discovery, and demos stay problem-centric.
@@ -53,10 +79,14 @@ For prospecting, add account evidence and rank targets: A = many problems/high i
 For sales consulting, a symptom such as inconsistent execution can connect to missed quota, unreliable forecasts, and excessive acquisition cost, with possible causes in process, coaching, structure, skills, or management. Those links give the seller precise areas to investigate without assuming which cause applies.
 
 ## Relationships
-- **related:** [[Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion]]
-- **related:** [[Problem-Centric Discovery - Four Question Types and the CRM Challenge]]
-- **related:** [[Gap Prospecting - Intrigue, Offer, Ask, and Cadence]]
-- **related:** [[Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Gap Selling - Current State, Future State, and the Value of Change|Gap Selling - Current State, Future State, and the Value of Change]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing|Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion|Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Gap Prospecting - Intrigue, Offer, Ask, and Cadence|Gap Prospecting - Intrigue, Offer, Ask, and Cadence]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Problem-Centric Discovery - Four Question Types and the CRM Challenge|Problem-Centric Discovery - Four Question Types and the CRM Challenge]]
 ## Source reference
-Keenan, *Gap Selling* (2018), chapters 3, 8, 11, and 15. [[2026-07-18_Book_Keenan_GapSelling_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_Keenan_GapSelling_RawTranscript|Gap Selling]] — locator: chapters 3, 8, 11

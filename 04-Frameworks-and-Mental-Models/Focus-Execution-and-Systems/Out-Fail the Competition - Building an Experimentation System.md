@@ -3,20 +3,47 @@ title: "Out-Fail the Competition - Building an Experimentation System"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/innovation, topic/feedback, topic/decision-making, topic/risk, topic/culture, topic/execution, person/steven-bartlett]
-source:
-  type: "book"
-  name: "The Diary of a CEO - The 33 Laws of Business and Life"
-  author: "Steven Bartlett"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/innovation,
+    topic/feedback,
+    topic/decision-making,
+    topic/risk,
+    topic/culture,
+    topic/execution,
+    person/steven-bartlett
+  ]
+sources:
+  - id: "SRC-0017"
+    role: "primary"
+    locator: "Law 21"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative
+      Experiments - Opposites, Constraints, A-B Tests, and Context
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
+      and Asymmetric Bets
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed
+      and Aspirational OKRs - Separate Reliability from Stretch
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation,
+      Quantification, and Orchestration - The Business Development Loop
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a
+      Culture Where Mistakes Are Okay But Not Learning From Them Isn't
 ---
 
 # Out-Fail the Competition - Building an Experimentation System
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Increase the rate of bounded, measurable experiments: when downside is reversible and learning is shared, more failures produce faster feedback and create more chances for a rare winner to pay for the portfolio.
@@ -57,10 +84,14 @@ Before testing, classify the decision: **one-way door** (hard to reverse; slow d
 Booking.com built an experimentation platform and normalized thousands of concurrent tests to discover customer behavior rather than settle product arguments by authority. Amazon treats invention and failure as inseparable, using the asymmetric payoff of rare winners such as AWS to justify a portfolio of bounded experiments.
 
 ## Relationships
-- **related:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
-- **related:** [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
-- **related:** [[Innovation, Quantification, and Orchestration - The Business Development Loop]]
-- **related:** [[Fear, Regret, and Asymmetric Bets]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed and Aspirational OKRs - Separate Reliability from Stretch|Committed and Aspirational OKRs - Separate Reliability from Stretch]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation, Quantification, and Orchestration - The Business Development Loop|Innovation, Quantification, and Orchestration - The Business Development Loop]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
 ## Source reference
-Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 21. Raw transcript archived in [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 21

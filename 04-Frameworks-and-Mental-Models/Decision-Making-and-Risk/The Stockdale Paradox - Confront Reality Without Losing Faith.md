@@ -3,20 +3,52 @@ title: "The Stockdale Paradox - Confront Reality Without Losing Faith"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/decision-making, topic/risk, topic/leadership, topic/feedback, person/jim-collins, source/good-to-great]
-source:
-  type: "book"
-  name: "Good to Great"
-  author: "Jim Collins"
-  url: ""
-  date_of_source: "2001"
+tags:
+  [
+    topic/decision-making,
+    topic/risk,
+    topic/leadership,
+    topic/feedback,
+    person/jim-collins,
+    source/good-to-great
+  ]
+sources:
+  - id: "SRC-0010"
+    role: "primary"
+    locator: "chapter 4"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
+      Open-Minded
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Institutional
+      Phase Transitions - Persistent Make-Believe, Decay, and Reaction
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective
+      Decision Process
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Pre-Mortem
+      - Imagine Failure Before It Happens
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a
+      Culture Where Mistakes Are Okay But Not Learning From Them Isn't
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in
+      Radical Truth and Radical Transparency
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and
+      Deal With It - Pain, Truth, and the Hyperrealist's Formula
 ---
 
 # The Stockdale Paradox - Confront Reality Without Losing Faith
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 Resilient decision makers hold unwavering faith that they will prevail in the end while confronting the most brutal facts of present reality without denial or artificial deadlines.
@@ -57,13 +89,16 @@ Optimism becomes dangerous when it promises a painless timetable or filters out 
 Admiral Jim Stockdale survived eight years as a prisoner of war by never doubting the eventual outcome while refusing comforting predictions about when release would come. Kroger accepted that its old grocery format was becoming obsolete and rebuilt its store system; A&P saw similar evidence, closed an experiment that contradicted its preferences, and kept deteriorating.
 
 ## Relationships
-- **related:** [[Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
-- **related:** [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
-- **related:** [[Trust in Radical Truth and Radical Transparency]]
-- **related:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
-- **related:** [[The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
 
-- **related:** [[Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction|Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective Decision Process|The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Pre-Mortem - Imagine Failure Before It Happens|The Pre-Mortem - Imagine Failure Before It Happens]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in Radical Truth and Radical Transparency|Trust in Radical Truth and Radical Transparency]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula|Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
 ## Source reference
-Jim Collins, *Good to Great*, chapter 4, "Confront the Brutal Facts (Yet Never Lose Faith)" (2001). [[2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript|Good to Great - Raw Transcript]] — locator: chapter 4

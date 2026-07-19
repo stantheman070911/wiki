@@ -3,20 +3,50 @@ title: "Positioning Yourself - Find a Horse to Ride"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/positioning, topic/career, topic/skills, topic/value-creation, person/ries-trout, person/steven-bartlett]
-source:
-  type: "book"
-  name: "Positioning: The Battle for Your Mind"
-  author: "Al Ries & Jack Trout"
-  url: ""
-  date_of_source: "1981"
+tags:
+  [
+    topic/positioning,
+    topic/career,
+    topic/skills,
+    topic/value-creation,
+    person/ries-trout,
+    person/steven-bartlett
+  ]
+sources:
+  - id: "SRC-0007"
+    role: "primary"
+    locator: "ch. 23–25"
+  - id: "SRC-0017"
+    role: "supporting"
+    locator: "Law 26"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/財富公式：專屬知識、槓桿與判斷力
+  - type: applies
+    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
+      Hole in the Mind (Cherchez le Creneau)
+  - type: applies
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
+      in the Prospect's Mind
+  - type: applies
+    target: 02-Social-Media-Strategy/Personal-Brand Positioning and the
+      No-Competition Model
+  - type: applies
+    target: 02-Social-Media-Strategy/The Personal-Brand House - Foundation,
+      Interior, Exterior
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and
+      the Education-ROI Playbook
 ---
 
 # Positioning Yourself - Find a Horse to Ride
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Apply positioning to your own career: define and own a specialist position in others' minds, and accept that success comes more from what others can do for you — so find a "horse to ride" rather than trying to do everything yourself.
@@ -66,14 +96,16 @@ The book's most personal chapter turns the doctrine inward. The same rules that 
 - The concentrate-your-fire rule: become #1 scotch in New York first, then roll out nationally.
 
 ## Relationships
-- **applies:** [[Positioning - Own a Word in the Prospect's Mind]]
-- **applies:** [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
-- **applies:** [[Personal-Brand Positioning and the No-Competition Model]]
-- **applies:** [[The Personal-Brand House - Foundation, Interior, Exterior]]
-- **applies:** [[財富公式：專屬知識、槓桿與判斷力]]
-- **related:** [[Skill Stacking and the Education-ROI Playbook]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/財富公式：專屬知識、槓桿與判斷力|財富公式：專屬知識、槓桿與判斷力]]
+- **Applies:** [[01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)|Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **Applies:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
+- **Applies:** [[02-Social-Media-Strategy/Personal-Brand Positioning and the No-Competition Model|Personal-Brand Positioning and the No-Competition Model]]
+- **Applies:** [[02-Social-Media-Strategy/The Personal-Brand House - Foundation, Interior, Exterior|The Personal-Brand House - Foundation, Interior, Exterior]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and the Education-ROI Playbook|Skill Stacking and the Education-ROI Playbook]]
 ## Source reference
-Al Ries & Jack Trout, *Positioning: The Battle for Your Mind*, ch. 23–25. Extraction notes in [[2026-07-08_Book_RiesTrout_Positioning]].
 
-Additional source: Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 26. [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning|Positioning]] — locator: ch. 23–25
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 26

@@ -3,20 +3,45 @@ title: "Focus Questions - Formation Beyond Problem Solving"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/decision-making, topic/identity, topic/learning, person/bill-burnett, person/dave-evans, source/how-to-live-a-meaningful-life]
-source:
-  type: "book"
-  name: "How to Live a Meaningful Life"
-  author: "Bill Burnett and Dave Evans"
-  url: ""
-  date_of_source: "2026"
+tags:
+  [
+    topic/decision-making,
+    topic/identity,
+    topic/learning,
+    person/bill-burnett,
+    person/dave-evans,
+    source/how-to-live-a-meaningful-life
+  ]
+sources:
+  - id: "SRC-0027"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well -
+      Narrow, Decide, Let Go, and Move On
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reframe Gravity
+      Problems into Actionable Problems
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey
+      Plans - Parallel Futures Before Commitment
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Formative
+      Communities - Become Better Together
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+      Design Compass - Workview, Lifeview, and Coherency
 ---
 
 # Focus Questions - Formation Beyond Problem Solving
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 Alongside solving the urgent problem in front of you, live into a slower question about who the decision is helping you become.
@@ -53,11 +78,14 @@ Use the **double agenda**:
 Harmony’s presenting problem was whether to stay in a nonprofit role or launch a demanding start-up. Her first focus question asked how the coming decade of work should shape who she would be at sixty. A community member deepened it by asking what she and her husband wanted “us” to be at sixty, prompting a conversation that changed the decision context without mechanically choosing for her.
 
 ## Relationships
-- **related:** [[Formative Communities - Become Better Together]]
-- **related:** [[Life Design Compass - Workview, Lifeview, and Coherency]]
-- **related:** [[Three Odyssey Plans - Parallel Futures Before Commitment]]
-- **related:** [[Reframe Gravity Problems into Actionable Problems]]
-- **related:** [[Choosing Well - Narrow, Decide, Let Go, and Move On]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well - Narrow, Decide, Let Go, and Move On|Choosing Well - Narrow, Decide, Let Go, and Move On]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reframe Gravity Problems into Actionable Problems|Reframe Gravity Problems into Actionable Problems]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey Plans - Parallel Futures Before Commitment|Three Odyssey Plans - Parallel Futures Before Commitment]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Formative Communities - Become Better Together|Formative Communities - Become Better Together]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Design Compass - Workview, Lifeview, and Coherency|Life Design Compass - Workview, Lifeview, and Coherency]]
 ## Source reference
-Bill Burnett and Dave Evans, *How to Live a Meaningful Life: Using Design Thinking to Unlock Purpose, Joy, and Flow Every Day* (2026). [[2026-07-18_Book_BillBurnettDaveEvans_HowToLiveAMeaningfulLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_HowToLiveAMeaningfulLife_RawTranscript|How to Live a Meaningful Life]]

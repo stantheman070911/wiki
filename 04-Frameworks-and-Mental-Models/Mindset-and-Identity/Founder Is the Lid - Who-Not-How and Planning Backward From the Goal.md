@@ -3,20 +3,74 @@ title: "Founder Is the Lid - Who-Not-How and Planning Backward From the Goal"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/leadership, topic/mindset, topic/decision-making, topic/delegation, topic/hiring, person/sabri-suby, person/steven-bartlett]
-source:
-  type: "video"
-  name: "Customer Acquisition, Offers, and Ads Playbook (compilation)"
-  author: "Sabri Suby"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/leadership,
+    topic/mindset,
+    topic/decision-making,
+    topic/delegation,
+    topic/hiring,
+    person/sabri-suby,
+    person/steven-bartlett
+  ]
+sources:
+  - id: "SRC-0078"
+    role: "primary"
+  - id: "SRC-0017"
+    role: "supporting"
+    locator: "Law 28"
 date_added: "2026-07-10"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
+      Period - The Three Numbers That Decide If You Win
+  - type: is-applied-by
+    target: 01-Business-Strategy/Growth-and-Scaling/The Seven Levels of Business
+      Growth - From Side Hustle to Exit
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More
+      Important Than the WHAT
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations -
+      Co-founders, Ownership, Possession, Control, and Vesting
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business
+      - The 50% Hire and Buying Back Time
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Founder Mode
+      - Direct Engagement Without Delegation Theater
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5A
+      Operating System
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth
+      Owner-Role Triad - Entrepreneur, Manager, and Technician
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp -
+      The Messy Middle and the 40-for-2 Management Trade
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5
+      Leadership - Humility and Professional Will
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary
+      Aim and Strategic Objective - Make the Business Serve the Life
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and
+      the Blame-Power Law
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs.
+      Indefinite Optimism - Planning Your Way to the Future
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox
 ---
 
 # Founder Is the Lid - Who-Not-How and Planning Backward From the Goal
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 The business is a mirror of the founder — most "business problems" are personal capacity problems wearing a disguise — and the two concrete fixes are hiring people collectively better than yourself instead of doing everything personally, and planning the year backward from a defined goal instead of executing blind.
@@ -60,12 +114,24 @@ For each critical outcome, separate the founder’s non-delegable role—mission
 - A common owner exchange cited as evidence of blind execution: owner says they want to double the business; when asked if they've tried doubling ad spend, the answer is "I've just never thought about it."
 
 ## Relationships
-- **related:** [[Accountability and the Blame-Power Law]]
-- **related:** [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
-- **related:** [[The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
-- **related:** [[Remember That the WHO Is More Important Than the WHAT]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
+- **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/The Seven Levels of Business Growth - From Side Hustle to Exit|The Seven Levels of Business Growth - From Side Hustle to Exit]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More Important Than the WHAT|Remember That the WHO Is More Important Than the WHAT]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting|Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time|You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Founder Mode - Direct Engagement Without Delegation Theater|Founder Mode - Direct Engagement Without Delegation Theater]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5A Operating System|The 5A Operating System - Alignment, Awareness, Accountabilities, Activities, and Assets]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician|The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp - The Messy Middle and the 40-for-2 Management Trade|The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5 Leadership - Humility and Professional Will|Level 5 Leadership - Humility and Professional Will]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary Aim and Strategic Objective - Make the Business Serve the Life|Primary Aim and Strategic Objective - Make the Business Serve the Life]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and the Blame-Power Law|Accountability and the Blame-Power Law]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs. Indefinite Optimism - Planning Your Way to the Future|Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox|The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]]
 ## Source reference
-Sabri Suby, "seven truths" business-lessons training video (part of a four-video compilation). Raw transcript and extraction notes archived at [[2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook]].
 
-Additional source: Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 28. [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook|Customer Acquisition, Offers, And Ads Playbook]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 28

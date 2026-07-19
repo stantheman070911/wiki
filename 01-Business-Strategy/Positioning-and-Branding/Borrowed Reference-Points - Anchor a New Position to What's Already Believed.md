@@ -3,20 +3,45 @@ title: "Borrowed Reference-Points - Anchor a New Position to What's Already Beli
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/positioning, topic/brand, topic/believability, person/ries-trout]
-source:
-  type: "book"
-  name: "Positioning: The Battle for Your Mind"
-  author: "Al Ries & Jack Trout"
-  url: ""
-  date_of_source: "1981"
+tags: [ topic/positioning, topic/brand, topic/believability, person/ries-trout ]
+sources:
+  - id: "SRC-0006"
+    role: "primary"
+    locator: "ch. 15–16, 21"
+  - id: "SRC-0007"
+    role: "supporting"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as
+      Context - Make the Product Obviously Valuable
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value
+      - The Psychology of Deals and the Rule of 100
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
+      Liking, Authority, and Scarcity - The Four Social Shortcuts
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top
+      of Mind, Tip of Tongue
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Selling Upmarket -
+      Contextual Adjacency and Land-and-Expand
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
+      Hole in the Mind (Cherchez le Creneau)
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
+      in the Prospect's Mind
 ---
 
 # Borrowed Reference-Points - Anchor a New Position to What's Already Believed
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 When you have no existing mental picture to build on, don't invent one from scratch — borrow credibility by anchoring to an already-strong reference point (an analogy) or a third-party authority (a list, ranking, or outside expert).
@@ -50,9 +75,17 @@ Ries and Trout's place-marketing cases (Belgium, Jamaica, the Stowe ski resort) 
 - Stowe, Vermont: "One of the world's top 10 ski resorts" (borrowed from a named outside travel writer's published ranking, alongside Aspen, St. Moritz, and Kitzbühel).
 
 ## Relationships
-- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
-- **related:** [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
-- **applies:** [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as Context - Make the Product Obviously Valuable|Positioning as Context - Make the Product Obviously Valuable]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100|Practical Value - The Psychology of Deals and the Rule of 100]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue|Triggers - Top of Mind, Tip of Tongue]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Selling Upmarket - Contextual Adjacency and Land-and-Expand|Selling Upmarket - Contextual Adjacency and Land-and-Expand]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)|Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
 ## Source reference
-Al Ries & Jack Trout, *Positioning: The Battle for Your Mind*, ch. 15–16, 21 ("Positioning a Country: Belgium," "Positioning an Island: Jamaica," "Positioning a Ski Resort: Stowe"). Full text in [[2026-07-08_Book_RiesTrout_Positioning_FullText]]; extraction notes in [[2026-07-08_Book_RiesTrout_Positioning]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning_FullText|Positioning - Full Text]] — locator: ch. 15–16, 21
+- **supporting:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning|Positioning]]

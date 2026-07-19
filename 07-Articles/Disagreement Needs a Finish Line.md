@@ -3,14 +3,58 @@ title: "Disagreement Needs a Finish Line"
 type: "article"
 domain: "articles"
 lang: "en"
-tags: [topic/decision-making, topic/idea-meritocracy, topic/feedback, topic/culture, topic/execution, topic/mental-models]
+tags:
+  [
+    topic/decision-making,
+    topic/idea-meritocracy,
+    topic/feedback,
+    topic/culture,
+    topic/execution,
+    topic/mental-models
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+  - id: "SRC-0013"
+    role: "supporting"
+  - id: "SRC-0046"
+    role: "supporting"
+  - id: "SRC-0017"
+    role: "supporting"
+  - id: "SRC-0016"
+    role: "supporting"
 date_added: "2026-07-16"
 updated: "2026-07-16"
 reviewed_on: ""
 status: "draft"
+parent_map: 07-Articles/Articles Index
+relationships:
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
+      Open-Minded
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
+      Your Decision Making
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness
+      - Separate Truth from Identity and Conformism
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How
+      to Get Beyond Disagreements
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective
+      Decision Process
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative
+      Cooperation - Feedback, Friction, and Choice C
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and
+      Stay in Sync
 ---
 
 # Disagreement Needs a Finish Line
+
+> **Up:** [[Home|Home]] → [[07-Articles/Articles Index|Articles]]
 
 **Article of the day · ~2 min read**
 
@@ -30,6 +74,16 @@ Closure does not require people to pretend they agree. It requires the decision 
 
 When a committee reconvenes after such a pause, the room may still contain disagreement. That is not failure. If the process worked, the decision-maker now has competing explanations, relevant tests, and a fallback if reality rejects the chosen path. Someone can decide. Someone can act. The dissenting minority knows how the decision can be revisited. Disagreement has done its job, and execution can begin.
 
+## Relationships
+
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness - Separate Truth from Identity and Conformism|Independent-Mindedness - Separate Truth from Identity and Conformism]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How to Get Beyond Disagreements|Recognize How to Get Beyond Disagreements]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective Decision Process|The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative Cooperation - Feedback, Friction, and Choice C|Creative Cooperation - Feedback, Friction, and Choice C]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and Stay in Sync|Get and Stay in Sync]]
 ## Sources in THE WIKI
 - [[Recognize How to Get Beyond Disagreements]]
 - [[The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
@@ -38,3 +92,12 @@ When a committee reconvenes after such a pause, the room may still contain disag
 - [[Get and Stay in Sync]]
 - [[Believability-Weight Your Decision Making]]
 - [[Creative Cooperation - Feedback, Friction, and Choice C]]
+
+## Source reference
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript|The Effective Executive - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript|The Creative Act - Raw Transcript]]

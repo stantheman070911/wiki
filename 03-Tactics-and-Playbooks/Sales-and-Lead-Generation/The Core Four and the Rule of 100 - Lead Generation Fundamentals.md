@@ -3,20 +3,82 @@ title: "The Core Four and the Rule of 100 - Lead Generation Fundamentals"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/rule-of-100, topic/qualification, person/alex-hormozi, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "book"
-  name: "$100M Leads"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/sales,
+    topic/rule-of-100,
+    topic/qualification,
+    person/alex-hormozi,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0019"
+    role: "primary"
+  - id: "SRC-0001"
+    role: "supporting"
+  - id: "SRC-0042"
+    role: "supporting"
+  - id: "SRC-0098"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-13"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架
+  - type: applies
+    target: 01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing
+      Offers to Fund Growth
+  - type: applies
+    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
+      Slam Offer
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition
+      - Make the Customer Fund the Next Customer
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid
+      and the Halo Strategy
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
+      - Ads Are an At-Bats Game
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/五大流量模型與私域轉換：從你找人到人找你
+  - type: contrast
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value
+      - The Psychology of Deals and the Rule of 100
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies -
+      Recruiting Businesses to Sell for You
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Cold Outreach -
+      Personalize, Big Fast Value, Volume
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals -
+      Engineering Word of Mouth Through Goodwill
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The
+      Whisper-Tease-Shout Launch
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead
+      Generation - Fifteen Questions and Dynamic Routing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is
+      Destiny - The Sales Channel Power Law
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Do Things That Don't
+      Scale - Recruit, Delight, and Learn by Hand
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four
+      Lead-Conversion Levers - Speed, Availability, Personalization, Volume
 ---
 
 # The Core Four and the Rule of 100 - Lead Generation Fundamentals
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 There are exactly four ways to generate leads — warm outreach, cold outreach, content, and paid ads — and the discipline that makes any of them work is the Rule of 100: 100 units of action (contacts, minutes of content, or ad dollars) every day for 100 days straight, in strict progression from warm outreach through to paid scale.
@@ -74,24 +136,28 @@ Start with warm outreach using your existing network; build with consistent cont
 - A solo trainer with ten clients was told that posting and outreach were the only free acquisition paths under his control; passive-income architecture was a distraction until sustained promotion produced active income and a repeatable sales motion.
 
 ## Relationships
-- **applies:** [[The Value Equation and the Grand Slam Offer]]
-- **applies:** [[The Money Model - Sequencing Offers to Fund Growth]]
-- **applies:** [[五大流量模型與私域轉換：從你找人到人找你]]
-- **applies:** [[The Creative Volume Engine - Ads Are an At-Bats Game]]
-- **applies:** [[人群場景痛點解決方案：客戶洞察與需求驗證框架]]
-- **related:** [[Cold Outreach - Personalize, Big Fast Value, Volume]]
-- **related:** [[Referrals - Engineering Word of Mouth Through Goodwill]]
-- **related:** [[Affiliate Armies - Recruiting Businesses to Sell for You]]
-- **related:** [[The Whisper-Tease-Shout Launch]]
-- **related:** [[Client-Financed Acquisition - Make the Customer Fund the Next Customer]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架|人群場景痛點解決方案：客戶洞察與需求驗證框架]]
+- **Applies:** [[01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing Offers to Fund Growth|The Money Model - Sequencing Offers to Fund Growth]]
+- **Applies:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Client-Financed Acquisition - Make the Customer Fund the Next Customer|Client-Financed Acquisition - Make the Customer Fund the Next Customer]]
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid and the Halo Strategy|The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/五大流量模型與私域轉換：從你找人到人找你|五大流量模型與私域轉換：從你找人到人找你]]
+- **Contrast:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100|Practical Value - The Psychology of Deals and the Rule of 100]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Affiliate Armies - Recruiting Businesses to Sell for You|Affiliate Armies - Recruiting Businesses to Sell for You]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Cold Outreach - Personalize, Big Fast Value, Volume|Cold Outreach - Personalize, Big Fast Value, Volume]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals - Engineering Word of Mouth Through Goodwill|Referrals - Engineering Word of Mouth Through Goodwill]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Whisper-Tease-Shout Launch|The Whisper-Tease-Shout Launch]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing|Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law|Distribution Is Destiny - The Sales Channel Power Law]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Do Things That Don't Scale - Recruit, Delight, and Learn by Hand|Do Things That Don't Scale - Recruit, Delight, and Learn by Hand]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume|The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
 ## Source reference
-Alex Hormozi, *$100M Leads* (2023). Full audiobook transcript archived at [[2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript]]; earlier series notes: [[2026-07-08_Book_AlexHormozi_100MSeriesSummary]].
 
-Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
-
-Additional source: Daniel Priestley, *Online-Assessment Lead-Generation System*, [[2026-07-13_Video_DanielPriestley_OnlineAssessmentLeadGenerationSystem_RawTranscript]].
-
-Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
-
-Additional source: Daniel Priestley, *Online-Assessment Lead-Generation System*, [[2026-07-13_Video_DanielPriestley_OnlineAssessmentLeadGenerationSystem_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript|$100M Leads]]
+- **supporting:** [[06-Source-Library/Books/2026-07-08_Book_AlexHormozi_100MSeriesSummary|100 MSeries Summary]]
+- **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_OnlineAssessmentLeadGenerationSystem_RawTranscript|Online-Assessment Lead-Generation System - Raw Transcript]]

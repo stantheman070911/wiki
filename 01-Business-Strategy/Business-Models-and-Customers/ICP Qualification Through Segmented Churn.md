@@ -3,20 +3,64 @@ title: "ICP Qualification Through Segmented Churn"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/retention, topic/churn, topic/ltv, topic/messaging, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/retention,
+    topic/churn,
+    topic/ltv,
+    topic/messaging,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
+  - id: "SRC-0074"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
+  and Customers Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
+      Automation - Manual Onboarding to Fix Churn
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead
+      Generation - Fifteen Questions and Dynamic Routing
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/Community Quality Is
+      the Offer - Qualification, Curation, and Network Effects
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
+      of a Perfect Business
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The SMB Service
+      Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Software Shape -
+      Survive to Product-Market Fit, Then Retain Forever
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of
+      Service Businesses
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
+      Period - The Three Numbers That Decide If You Win
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a
+      Force Multiplier
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
+      Alignment
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize
+      the Whole Revenue System
 ---
 
 # ICP Qualification Through Segmented Churn
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/Business-Models-and-Customers/Business Models and Customers Map|Business Models and Customers]]
 
 ## One-line summary
 Your ideal customer is defined by who actually stays, so segment churn by channel, avatar, and behavior, find the cohort that retains, and then point all messaging and pricing at that cohort instead of averaging good customers together with the ones who were always going to leave.
@@ -58,11 +102,21 @@ A financial-advisor-focused lead-generation agency provided the three-bucket ava
 - Some churn is a delivery or activation problem, not a fit problem; segmentation tells you which.
 
 ## Relationships
-- **related:** [[Activation Before Automation - Manual Onboarding to Fix Churn]]
-- **related:** [[The Five Advantages of a Perfect Business]]
-- **related:** [[Billing-Cycle vs Value-Cycle Alignment]]
-- **related:** [[The Virtuous Cycle of Service Businesses]]
-- **related:** [[Add a Zero - Market Choice as a Force Multiplier]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing|Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Community Quality Is the Offer - Qualification, Curation, and Network Effects|Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Five Advantages of a Perfect Business|The Five Advantages of a Perfect Business]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone|The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Software Shape - Survive to Product-Market Fit, Then Retain Forever|The Software Shape - Survive to Product-Market Fit, Then Retain Forever]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of Service Businesses|The Virtuous Cycle of Service Businesses]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/Add a Zero - Market Choice as a Force Multiplier|Add a Zero - Market Choice as a Force Multiplier]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle Alignment|Billing-Cycle vs Value-Cycle Alignment]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize the Whole Revenue System|Price, Churn, and EPC - Optimize the Whole Revenue System]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]

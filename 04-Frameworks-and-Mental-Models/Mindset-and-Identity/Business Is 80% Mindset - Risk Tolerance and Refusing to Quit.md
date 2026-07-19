@@ -3,20 +3,39 @@ title: "Business Is 80% Mindset - Risk Tolerance and Refusing to Quit"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/risk, person/sabri-suby]
-source:
-  type: "video"
-  name: "11 Brutal Truths To Grow Your Business Fast"
-  author: "Sabri Suby"
-  url: ""
-  date_of_source: ""
+tags: [ topic/mindset, topic/risk, person/sabri-suby ]
+sources:
+  - id: "SRC-0084"
+    role: "primary"
 date_added: "2026-07-12"
 updated: "2026-07-12"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business
+      - The 50% Hire and Buying Back Time
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
+      and Asymmetric Bets
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Hard Road
+      Is the Right Road - Second-Order Thinking and Effort Moats
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
+      Gratification - Patience and Inputs vs Outputs
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite
+      Games - Winning by Emptying the Tank
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/No One's Opinion
+      Pays Your Bills - Immunity to Critics
 ---
 
 # Business Is 80% Mindset - Risk Tolerance and Refusing to Quit
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 Business is 20% mechanics and 80% mindset — most big businesses got big because the founder simply never quit and carried an unusually high tolerance for risk.
@@ -42,10 +61,15 @@ Founders overweight tactics (the "mechanics") and underweight the psychological 
 - Suby losing a $35,000 website deal because a prospect wanted to visit an office he didn't have, then walking into the forest for a "meeting with himself," deciding to build a real business, and taking on the office, fit-out, deposit, and first hires.
 
 ## Relationships
-- **related:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
-- **related:** [[Fear, Regret, and Asymmetric Bets]]
-- **related:** [[The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats]]
-- **related:** [[Finite vs Infinite Games - Winning by Emptying the Tank]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time|You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats|The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed Gratification - Patience and Inputs vs Outputs|Delayed Gratification - Patience and Inputs vs Outputs]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite Games - Winning by Emptying the Tank|Finite vs Infinite Games - Winning by Emptying the Tank]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/No One's Opinion Pays Your Bills - Immunity to Critics|No One's Opinion Pays Your Bills - Immunity to Critics]]
 ## Source reference
-Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #2). Raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]

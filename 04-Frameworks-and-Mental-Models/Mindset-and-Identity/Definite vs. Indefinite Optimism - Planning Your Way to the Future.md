@@ -3,20 +3,45 @@ title: "Definite vs. Indefinite Optimism - Planning Your Way to the Future"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/decision-making, topic/mental-models, person/peter-thiel]
-source:
-  type: "book"
-  name: "Zero to One: Notes on Startups, or How to Build the Future"
-  author: "Peter Thiel with Blake Masters"
-  url: ""
-  date_of_source: "2014"
+tags:
+  [
+    topic/mindset,
+    topic/decision-making,
+    topic/mental-models,
+    person/peter-thiel
+  ]
+sources:
+  - id: "SRC-0014"
+    role: "primary"
+    locator: "ch. 6"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How
+      to Find What Everyone Else Has Missed
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Contrarian
+      Question and Zero to One - Vertical vs. Horizontal Progress
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law
+      of Venture Capital and Careers
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
+      - Who-Not-How and Planning Backward From the Goal
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passionate
+      Visionary Scientist - A Three-Part Founder Mindset
 ---
 
 # Definite vs. Indefinite Optimism - Planning Your Way to the Future
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 You can expect the future to be either definite (knowable and worth planning for in detail) or indefinite (random, so you diversify and stay optionality-rich instead) — and only definite optimism, not lean-startup iteration or a diversified portfolio, reliably builds something great.
@@ -52,11 +77,15 @@ when you (or a company, or a country) explain a plan, does it name a specific de
 - Rawls's "veil of ignorance" and Nozick's process libertarianism are both indefinite optimisms: neither has a concrete vision of the good society, only a fair process for arriving at one.
 
 ## Relationships
-- **related:** [[The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
-- **related:** [[The Power Law of Venture Capital and Careers]]
-- **related:** [[Secrets - How to Find What Everyone Else Has Missed]]
-- **related:** [[The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]]
-- **related:** [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How to Find What Everyone Else Has Missed|Secrets - How to Find What Everyone Else Has Missed]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress|The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law of Venture Capital and Careers|The Power Law of Venture Capital and Careers]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox|The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passionate Visionary Scientist - A Three-Part Founder Mindset|The Passionate Visionary Scientist - A Three-Part Founder Mindset]]
 ## Source reference
-Peter Thiel with Blake Masters, *Zero to One*, ch. 6 ("You Are Not a Lottery Ticket") and Conclusion ("Stagnation or Singularity?"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 6

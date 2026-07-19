@@ -3,20 +3,63 @@ title: "Brand and Product Compounding - Too Good to Fail"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/brand, topic/product, topic/reputation, topic/retention, person/alex-hormozi]
-source:
-  type: "video"
-  name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/brand,
+    topic/product,
+    topic/reputation,
+    topic/retention,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0068"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension
+      Trap - Why One Name Can't Own Two Things
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
+      Actually Is - Association, Influence, Direction, Reach
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Flywheel
+      and the Doom Loop - Compound Momentum in One Direction
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
+      Confidence
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
+      Automation - Manual Onboarding to Fix Churn
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and
+      the Education-ROI Playbook
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape
+      - Scale Fast, Then Fight Cash, Supply, and Brand
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
+      Return on Time, and Money Rules
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product
+      - The Best-Known Wins, Not the Best
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors
+      Down - The $50M Price-Cut Lesson
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Preserve the Core,
+      Stimulate Progress - Build an Institution That Can Evolve
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/The Aesop Playbook
 ---
 
 # Brand and Product Compounding - Too Good to Fail
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 The two things Hormozi wishes he'd understood in his 20s are brand and product — because both compound: a great product plus a trusted reputation sells itself again and again, while great marketing only ever buys one sale.
@@ -45,9 +88,21 @@ Hormozi spent his 20s obsessed with sales and marketing because they had fast fe
 - When Hormozi launched new software, existing clients sent screenshots of their credit cards saying "if Alex made it, I'll buy it" — delivery on the first promise, not marketing, drove it.
 
 ## Relationships
-- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- **applies:** [[Build Evidence, Not Confidence]]
-- **related:** [[Skill Stacking and the Education-ROI Playbook]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension Trap - Why One Name Can't Own Two Things|The Line-Extension Trap - Why One Name Can't Own Two Things]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Flywheel and the Doom Loop - Compound Momentum in One Direction|The Flywheel and the Doom Loop - Compound Momentum in One Direction]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and the Education-ROI Playbook|Skill Stacking and the Education-ROI Playbook]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand|The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product - The Best-Known Wins, Not the Best|Distribution Beats Product - The Best-Known Wins, Not the Best]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors Down - The $50M Price-Cut Lesson|Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve|Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/The Aesop Playbook|The Aesop Playbook - Ritual Economics, Diagnostic Selling, and Engineering the Second Sale]]
 ## Source reference
-Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]

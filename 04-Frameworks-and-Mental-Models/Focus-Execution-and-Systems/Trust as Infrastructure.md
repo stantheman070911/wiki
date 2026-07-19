@@ -1,24 +1,59 @@
 ---
-title: "Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets"
+title: "Trust as Infrastructure - Reputation, Verification, and Exclusion in
+  Decentralized Markets"
 aliases:
-  - "Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets"
+  - "Trust as Infrastructure - Reputation, Verification, and Exclusion in
+    Decentralized Markets"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/trust, topic/reputation, topic/systems, topic/incentives, topic/risk, topic/operations, person/james-dale-davidson, person/william-rees-mogg, source/the-sovereign-individual]
-source:
-  type: "book"
-  name: "The Sovereign Individual"
-  author: "James Dale Davidson and William Rees-Mogg"
-  url: ""
-  date_of_source: "1997"
+tags:
+  [
+    topic/trust,
+    topic/reputation,
+    topic/systems,
+    topic/incentives,
+    topic/risk,
+    topic/operations,
+    person/james-dale-davidson,
+    person/william-rees-mogg,
+    source/the-sovereign-individual
+  ]
+sources:
+  - id: "SRC-0009"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Trust Should Have a Credit Limit
+  - type: is-applied-by
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
+      Selling Through Trusted Referrers
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous
+      Conversations, Feedback, and Recognition
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
+      Intellectual Property - Process Above the Player
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the
+      Game - Aligning Upside, Downside, and Accountability
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in
+      Radical Truth and Radical Transparency
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and
+      Tension - Move People Without Coercion
 ---
 
 # Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 When central enforcement is weak, commerce depends on identity, reputation, collateral, verification, and credible exclusion that make future opportunity more valuable than a one-time fraud.
@@ -57,10 +92,16 @@ Missing layers should reduce the size and reversibility of the transaction.
 Medieval trade fairs used officials who notarized contracts, seized goods from defaulters, and could exclude dishonest merchants from future fairs. The book anticipates cryptographic identity and verifiable reputation playing a similar role in digital markets where participants may never meet.
 
 ## Relationships
-- **related:** [[Skin in the Game - Aligning Upside, Downside, and Accountability]]
-- **related:** [[Centers of Influence - Selling Through Trusted Referrers]]
-- **related:** [[Trust in Radical Truth and Radical Transparency]]
-- **related:** [[Sales Systems as Intellectual Property - Process Above the Player]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Trust Should Have a Credit Limit|Trust Should Have a Credit Limit]]
+- **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous Conversations, Feedback, and Recognition|CFRs - Continuous Conversations, Feedback, and Recognition]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the Game - Aligning Upside, Downside, and Accountability|Skin in the Game - Aligning Upside, Downside, and Accountability]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in Radical Truth and Radical Transparency|Trust in Radical Truth and Radical Transparency]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and Tension - Move People Without Coercion|Trust and Tension - Move People Without Coercion]]
 ## Source reference
-James Dale Davidson and William Rees-Mogg, *The Sovereign Individual* (1997), [[2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript|The Sovereign Individual - Raw Transcript]]

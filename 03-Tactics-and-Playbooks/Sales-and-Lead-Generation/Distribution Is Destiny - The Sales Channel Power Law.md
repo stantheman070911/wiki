@@ -3,20 +3,64 @@ title: "Distribution Is Destiny - The Sales Channel Power Law"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/distribution, topic/channel-strategy, topic/sales, topic/cac, topic/ltv, topic/power-law, person/peter-thiel, person/gabriel-weinberg, person/justin-mares, source/traction]
-source:
-  type: "book"
-  name: "Zero to One: Notes on Startups, or How to Build the Future"
-  author: "Peter Thiel with Blake Masters"
-  url: ""
-  date_of_source: "2014"
+tags:
+  [
+    topic/distribution,
+    topic/channel-strategy,
+    topic/sales,
+    topic/cac,
+    topic/ltv,
+    topic/power-law,
+    person/peter-thiel,
+    person/gabriel-weinberg,
+    person/justin-mares,
+    source/traction
+  ]
+sources:
+  - id: "SRC-0014"
+    role: "primary"
+    locator: "ch. 11"
+  - id: "SRC-0031"
+    role: "supporting"
 date_added: "2026-07-13"
 updated: "2026-07-18"
 reviewed_on: "2026-07-18"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Seven Questions
+      Every Business Must Answer
+  - type: applies
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
+      Period - The Three Numbers That Decide If You Win
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law
+      of Venture Capital and Careers
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bullseye
+      - Test All Channels, Then Focus on One
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
+      50 Percent Rule - Build Product and Traction in Parallel
+  - type: is-applied-by
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bullseye
+      - Test All Channels, Then Focus on One
+  - type: is-applied-by
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
+      50 Percent Rule - Build Product and Traction in Parallel
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/The Mechanics of Mafia -
+      Cult-Like Culture and the Recruiting Pitch
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
+      Rule of 100 - Lead Generation Fundamentals
 ---
 
 # Distribution Is Destiny - The Sales Channel Power Law
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 "If you've invented something new but haven't invented an effective way to sell it, you have a bad business, no matter how good the product" — distribution follows its own power law, so the right move is to find the one channel that fits your price point and nail it, not spread thin across several.
@@ -50,13 +94,19 @@ plot your price point against the CLV/CAC math to identify which of the five reg
 - Better Place's confusing purchase process (Israeli EV startup, $800M raised, ~1,000 cars sold before 2013 bankruptcy) — even excellent underlying technology fails without a legible way to buy it, tying to [[The Seven Questions Every Business Must Answer]]'s distribution question.
 
 ## Relationships
-- **applies:** [[The Power Law of Venture Capital and Careers]]
-- **applies:** [[The Seven Questions Every Business Must Answer]]
-- **applies:** [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
-- **related:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
-- **related:** [[The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch]]
-- **related:** [[Bullseye - Test All Channels, Then Focus on One]]
-- **related:** [[The 50 Percent Rule - Build Product and Traction in Parallel]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Seven Questions Every Business Must Answer|The Seven Questions Every Business Must Answer]]
+- **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law of Venture Capital and Careers|The Power Law of Venture Capital and Careers]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bullseye - Test All Channels, Then Focus on One|Bullseye - Test All Channels, Then Focus on One]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The 50 Percent Rule - Build Product and Traction in Parallel|The 50 Percent Rule - Build Product and Traction in Parallel]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bullseye - Test All Channels, Then Focus on One|Bullseye - Test All Channels, Then Focus on One]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The 50 Percent Rule - Build Product and Traction in Parallel|The 50 Percent Rule - Build Product and Traction in Parallel]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch|The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
 ## Source reference
-Peter Thiel with Blake Masters, *Zero to One*, ch. 11 ("If You Build It, Will They Come?"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside. Additional channel-selection framework from Gabriel Weinberg and Justin Mares, *Traction* (2015), archived at [[2026-07-18_Book_GabrielWeinbergJustinMares_Traction_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 11
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_GabrielWeinbergJustinMares_Traction_RawTranscript|Traction]]

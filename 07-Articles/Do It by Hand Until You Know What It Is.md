@@ -3,14 +3,54 @@ title: "Do It by Hand Until You Know What It Is"
 type: "article"
 domain: "articles"
 lang: "en"
-tags: [topic/automation, topic/onboarding, topic/product, topic/feedback, topic/innovation, topic/do-things-that-dont-scale]
+tags:
+  [
+    topic/automation,
+    topic/onboarding,
+    topic/product,
+    topic/feedback,
+    topic/innovation,
+    topic/do-things-that-dont-scale
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
+  - id: "SRC-0040"
+    role: "supporting"
+  - id: "SRC-0046"
+    role: "supporting"
+  - id: "SRC-0100"
+    role: "supporting"
+  - id: "SRC-0011"
+    role: "supporting"
+  - id: "SRC-0042"
+    role: "supporting"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 07-Articles/Articles Index
+relationships:
+  - type: derives-from
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
+      Product-Discovery Loop - Launch, Learn, Evolve, Delight
+  - type: derives-from
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Customer-Base
+      Test Kitchen - Distributed R&D Before Rollout
+  - type: derives-from
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
+      Automation - Manual Onboarding to Fix Churn
+  - type: derives-from
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Do Things That Don't
+      Scale - Recruit, Delight, and Learn by Hand
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation,
+      Quantification, and Orchestration - The Business Development Loop
 ---
 
 # Do It by Hand Until You Know What It Is
+
+> **Up:** [[Home|Home]] → [[07-Articles/Articles Index|Articles]]
 
 **Article of the day · ~2 min read**
 
@@ -28,6 +68,14 @@ Michael Gerber’s operating loop places orchestration after innovation and quan
 
 If the software company links those sessions to later behavior, it will leave with more than support notes. It can see which customer types and acquisition channels are associated with retention, which early actions deserve testing as activation signals, and where confusion recurs. Only then should it rebuild the automated path. For a while, the person beside the customer is not standing in for missing software. They are finding out what the software is.
 
+## Relationships
+
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Derives from:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- **Derives from:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Customer-Base Test Kitchen - Distributed R&D Before Rollout|The Customer-Base Test Kitchen - Distributed R&D Before Rollout]]
+- **Derives from:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
+- **Derives from:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Do Things That Don't Scale - Recruit, Delight, and Learn by Hand|Do Things That Don't Scale - Recruit, Delight, and Learn by Hand]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation, Quantification, and Orchestration - The Business Development Loop|Innovation, Quantification, and Orchestration - The Business Development Loop]]
 ## Sources in THE WIKI
 
 - [[Activation Before Automation - Manual Onboarding to Fix Churn]]
@@ -35,3 +83,13 @@ If the software company links those sessions to later behavior, it will leave wi
 - [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
 - [[Innovation, Quantification, and Orchestration - The Business Development Loop]]
 - [[The Customer-Base Test Kitchen - Distributed R&D Before Rollout]]
+
+## Source reference
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript|Product-Led Growth]]
+- **supporting:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_ProductMarketFitFramework_RawTranscript|Product-Market Fit Framework - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript|The E-Myth Revisited - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

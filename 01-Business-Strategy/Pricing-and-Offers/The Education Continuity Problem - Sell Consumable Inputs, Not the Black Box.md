@@ -3,20 +3,67 @@ title: "The Education Continuity Problem - Sell Consumable Inputs, Not the Black
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/education, topic/memberships, topic/continuity, topic/cash-flow, topic/offers, topic/pricing, topic/moat, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/education,
+    topic/memberships,
+    topic/continuity,
+    topic/cash-flow,
+    topic/offers,
+    topic/pricing,
+    topic/moat,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
+  - id: "SRC-0074"
+    role: "supporting"
+  - id: "SRC-0042"
+    role: "supporting"
+  - id: "SRC-0107"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-18"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
+      Shapes - E-commerce, Service, Education, Software
+  - type: prerequisite
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
+      Shapes - E-commerce, Service, Education, Software
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/Community Quality Is
+      the Offer - Qualification, Curation, and Network Effects
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
+      of a Perfect Business
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the
+      Overkill Bias - Why the Best Get to Teach
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
+      Alignment
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get
+      Them What They Need - The Defined-End Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Performance-Based Pricing - When
+      It Works and How Not to Get Cheated
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing
+      Offers to Fund Growth
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
+      - Ads Are an At-Bats Game
 ---
 
 # The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Education has enormous one-time value and near-zero value once learned, so a recurring-revenue business built on teaching alone will not stick; make it recur by selling consumable inputs — fresh, perishable value the member burns each cycle — rather than the one-time knowledge.
@@ -66,16 +113,22 @@ AMA 3 adds the strongest form of this model: hair-extension and permanent-makeup
 - Consumable value must be genuinely fresh each cycle; recycled "new" content is quickly seen through.
 
 ## Relationships
-- **prerequisite:** [[The Four Business Shapes - E-commerce, Service, Education, Software]]
-- **related:** [[Billing-Cycle vs Value-Cycle Alignment]]
-- **related:** [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
-- **related:** [[The Creative Volume Engine - Ads Are an At-Bats Game]]
-- **related:** [[The Five Advantages of a Perfect Business]]
-- **related:** [[Performance-Based Pricing - When It Works and How Not to Get Cheated]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
+- **Prerequisite:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Community Quality Is the Offer - Qualification, Curation, and Network Effects|Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Five Advantages of a Perfect Business|The Five Advantages of a Perfect Business]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the Overkill Bias - Why the Best Get to Teach|Real-World Proof and the Overkill Bias - Why the Best Get to Teach]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle Alignment|Billing-Cycle vs Value-Cycle Alignment]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get Them What They Need - The Defined-End Offer|Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Performance-Based Pricing - When It Works and How Not to Get Cheated|Performance-Based Pricing - When It Works and How Not to Get Cheated]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing Offers to Fund Growth|The Money Model - Sequencing Offers to Fund Growth]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
 
-Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
-
-Expanded 2026-07-18 with the "big head, long tail" pricing structure and the group-buying and continued-education stickiness levers from Alex Hormozi, *How to Grow Any Business Fast (The Four Business Shapes)*, [[2026-07-18_Video_AlexHormozi_HowToGrowAnyBusinessFast_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]
+- **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-18_Video_AlexHormozi_HowToGrowAnyBusinessFast_RawTranscript|How to Grow Any Business Fast (The Four Business Shapes)]]

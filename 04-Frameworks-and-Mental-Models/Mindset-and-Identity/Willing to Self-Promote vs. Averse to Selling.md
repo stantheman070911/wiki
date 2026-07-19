@@ -3,20 +3,30 @@ title: "Willing to Self-Promote vs. Averse to Selling"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/persuasion, topic/marketing, topic/mindset, person/t-harv-eker]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags: [ topic/persuasion, topic/marketing, topic/mindset, person/t-harv-eker ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich
+      People Model Winners, Poor People Hang Around Losers
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Excellent Receivers
+      vs. Poor Receivers - Worthiness Is a Story You Tell Yourself
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think
+      Small - The Law of Income
 ---
 
 # Willing to Self-Promote vs. Averse to Selling
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 A great product nobody knows about earns nothing, so if you genuinely believe in your value, withholding it from people who need it is the actual disservice — rich people promote themselves and their offer with enthusiasm; poor people treat promotion as distasteful.
@@ -37,9 +47,12 @@ Wealth File #8. Eker locates aversion to selling as one of the more disguised bl
 - Separate the three historical roots (past bad experience, past rejection, parental conditioning) and address each explicitly rather than treating "I don't like selling" as one undifferentiated block.
 
 ## Relationships
-- **related:** [[Think Big vs. Think Small - The Law of Income]]
-- **related:** [[Association - Rich People Model Winners, Poor People Hang Around Losers]]
-- **related:** [[Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich People Model Winners, Poor People Hang Around Losers|Association - Rich People Model Winners, Poor People Hang Around Losers]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself|Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think Small - The Law of Income|Think Big vs. Think Small - The Law of Income]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #8. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

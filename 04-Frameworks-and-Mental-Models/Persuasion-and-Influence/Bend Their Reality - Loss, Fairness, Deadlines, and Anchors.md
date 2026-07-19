@@ -3,20 +3,48 @@ title: "Bend Their Reality - Loss, Fairness, Deadlines, and Anchors"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/persuasion, topic/influence, topic/decision-making, topic/risk, topic/pricing, person/chris-voss, person/tahl-raz, source/never-split-the-difference]
-source:
-  type: "book"
-  name: "Never Split the Difference"
-  author: "Chris Voss with Tahl Raz"
-  url: ""
-  date_of_source: "2016"
+tags:
+  [
+    topic/persuasion,
+    topic/influence,
+    topic/decision-making,
+    topic/risk,
+    topic/pricing,
+    person/chris-voss,
+    person/tahl-raz,
+    source/never-split-the-difference
+  ]
+sources:
+  - id: "SRC-0028"
+    role: "primary"
+    locator: "Chapter 6"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
+      Sell the Goal, Scope the Journey, Secure Prepayment
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Ackerman
+      Bargaining System - Calibrated Concessions and Exact Numbers
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Black Swans -
+      Find Unknown Unknowns and Hidden Leverage
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value
+      - The Psychology of Deals and the Rule of 100
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and
+      Urgency - Engineering Demand with Supply and Deadlines
 ---
 
 # Bend Their Reality - Loss, Fairness, Deadlines, and Anchors
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 Negotiated value depends on emotional reference points, so shape the frame around loss, fairness, time, and anchors instead of treating price as an objective fact.
@@ -51,10 +79,14 @@ Use **Frame–Anchor–Expand–Protect**:
 In Haiti, a family faced a $150,000 ransom demand. By learning that the kidnappers wanted weekend party money, stalling toward their Friday deadline, using calibrated questions, and finishing with the precise figure of $4,751 plus a low-value gift, the negotiators safely closed far below the original anchor.
 
 ## Relationships
-- **related:** [[The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers]]
-- **related:** [[Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
-- **related:** [[Practical Value - The Psychology of Deals and the Rule of 100]]
-- **related:** [[Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers|The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Black Swans - Find Unknown Unknowns and Hidden Leverage|Black Swans - Find Unknown Unknowns and Hidden Leverage]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100|Practical Value - The Psychology of Deals and the Rule of 100]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and Urgency - Engineering Demand with Supply and Deadlines|Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
 ## Source reference
-Chris Voss with Tahl Raz, *Never Split the Difference* (2016), Chapter 6. Raw transcript archived in [[2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapter 6

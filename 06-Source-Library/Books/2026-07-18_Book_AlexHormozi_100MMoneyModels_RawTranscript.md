@@ -1,12 +1,17 @@
 ---
+source_id: "SRC-0020"
 title: "$100M Money Models"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Alex Hormozi"
+    role: "author"
 source_type: "book"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Alex Hormozi"
+published_on: "2025"
 date_archived: "2026-07-18"
 status: "source"
 ---

@@ -3,20 +3,98 @@ title: "Barbell Pricing and the Unscalable Premium Offer"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/pricing, topic/offers, topic/value-equation, topic/supply-and-demand, person/alex-hormozi]
-source:
-  type: "video"
-  name: "If I Started A Business in 2026, I'd Do This (playlist: How to Make Your First $100,000)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/pricing,
+    topic/offers,
+    topic/value-equation,
+    topic/supply-and-demand,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0054"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value
+      - The Psychology of Deals and the Rule of 100
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
+      Liking, Authority, and Scarcity - The Four Social Shortcuts
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of
+      Influence - Click-Whirr, Trigger Features, and the Contrast Principle
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
+      Sell the Goal, Scope the Journey, Secure Prepayment
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/Survive vs Thrive
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
+      of a Perfect Business
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The SMB Service
+      Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of
+      Service Businesses
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
+      Return on Time, and Money Rules
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/選擇權與退出心態：Soft-Shop、三種成長路徑與
+      Phantom Equity
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors
+      Down - The $50M Price-Cut Lesson
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/The Aesop Playbook
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/業績公式與商業定位：從流量思維到變現路徑
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
+      Alignment
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
+      Discount - Make the Difference Obvious
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get
+      Them What They Need - The Defined-End Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Goldilocks Pricing - Anchors,
+      Decoys, and the Middle Option
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Performance-Based Pricing - When
+      It Works and How Not to Get Cheated
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A
+      Seven-Part Framework for an Irresistible Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
+      Traffic Before the Core Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
+      Slam Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Virtuous Cycle of Price -
+      Why Premium Pricing Serves Customers Better
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and
+      Monetization - The Give-Content, Ask-Ads Model
+  - type: related
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-4-商品規劃與獲利結構
 ---
 
 # Barbell Pricing and the Unscalable Premium Offer
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Sell something very expensive to a select few or very cheap to everyone — the middle is where businesses die — and when starting, the easiest premium is to sell your own time one-on-one, unscalably, because the cash and the anchor it creates fund everything else.
@@ -55,12 +133,34 @@ A business is an arbitrage between the cost of getting a customer and what you m
 - Tesla's Roadster → Model S → Model 3 descent from premium to mass.
 
 ## Relationships
-- **related:** [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
-- **related:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- **related:** [[The Five Advantages of a Perfect Business]]
-- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- **related:** [[業績公式與商業定位：從流量思維到變現路徑]]
-- **related:** [[選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100|Practical Value - The Psychology of Deals and the Rule of 100]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle|Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Survive vs Thrive|Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Five Advantages of a Perfect Business|The Five Advantages of a Perfect Business]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone|The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of Service Businesses|The Virtuous Cycle of Service Businesses]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity|選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors Down - The $50M Price-Cut Lesson|Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/The Aesop Playbook|The Aesop Playbook - Ritual Economics, Diagnostic Selling, and Engineering the Second Sale]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/業績公式與商業定位：從流量思維到變現路徑|業績公式與商業定位：從流量思維到變現路徑]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle Alignment|Billing-Cycle vs Value-Cycle Alignment]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious|Decommoditize Before You Discount - Make the Difference Obvious]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get Them What They Need - The Defined-End Offer|Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Goldilocks Pricing - Anchors, Decoys, and the Middle Option|Goldilocks Pricing - Anchors, Decoys, and the Middle Option]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Performance-Based Pricing - When It Works and How Not to Get Cheated|Performance-Based Pricing - When It Works and How Not to Get Cheated]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A Seven-Part Framework for an Irresistible Offer|The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold Traffic Before the Core Offer|The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Virtuous Cycle of Price - Why Premium Pricing Serves Customers Better|The Virtuous Cycle of Price - Why Premium Pricing Serves Customers Better]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架|情緒價值與功能性價值：跳脫價格戰的定位框架]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model|Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
+- **Related:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-4-商品規劃與獲利結構|連鎖經營學 · Module 4：商品規劃與獲利結構]]
 ## Source reference
-Alex Hormozi, *If I Started A Business in 2026, I'd Do This* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Podcasts/2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000|How to Make Your First $100,000]]

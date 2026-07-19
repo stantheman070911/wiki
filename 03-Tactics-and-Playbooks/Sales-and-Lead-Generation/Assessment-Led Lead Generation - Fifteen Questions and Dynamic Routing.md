@@ -3,20 +3,50 @@ title: "Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/marketing, topic/qualification, topic/funnel, topic/cta, topic/automation, topic/sales, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "Online-Assessment Lead-Generation System"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/marketing,
+    topic/qualification,
+    topic/funnel,
+    topic/cta,
+    topic/automation,
+    topic/sales,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0098"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
+      Through Segmented Churn
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground -
+      Problem, Process, and Prize Experiences
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
+      Rule of 100 - Lead Generation Fundamentals
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four
+      Lead-Conversion Levers - Speed, Availability, Personalization, Volume
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
+      Rhythm - Leads, Appointments, Presentations, and Sales
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem
+      Identification Chart - Problems, Impacts, and Root Causes
 ---
 
 # Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 A useful assessment earns a lead by diagnosing a meaningful problem, benchmarking ten best practices, collecting five qualification signals, and routing each respondent to a next step matched to fit and readiness.
@@ -51,10 +81,15 @@ Build four layers:
 Priestley's model uses a sleep assessment to show the structure: test the environment, routine, and related best practices, then route someone seeking education differently from someone seeking fully managed help.
 
 ## Relationships
-- **related:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
-- **related:** [[The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
-- **applies:** [[ICP Qualification Through Segmented Churn]]
-- **related:** [[The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground - Problem, Process, and Prize Experiences|The Marketing Playground - Problem, Process, and Prize Experiences]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume|The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem Identification Chart - Problems, Impacts, and Root Causes|The Problem Identification Chart - Problems, Impacts, and Root Causes]]
 ## Source reference
-Daniel Priestley, *Online-Assessment Lead-Generation System*. Raw transcript in [[2026-07-13_Video_DanielPriestley_OnlineAssessmentLeadGenerationSystem_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_OnlineAssessmentLeadGenerationSystem_RawTranscript|Online-Assessment Lead-Generation System - Raw Transcript]]

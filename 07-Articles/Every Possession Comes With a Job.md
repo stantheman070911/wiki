@@ -3,14 +3,52 @@ title: "Every Possession Comes With a Job"
 type: "article"
 domain: "articles"
 lang: "en"
-tags: [topic/happiness, topic/focus, topic/opportunity-cost, topic/money, topic/decision-making, topic/simplicity]
+tags:
+  [
+    topic/happiness,
+    topic/focus,
+    topic/opportunity-cost,
+    topic/money,
+    topic/decision-making,
+    topic/simplicity
+  ]
+sources:
+  - id: "SRC-0046"
+    role: "primary"
+  - id: "SRC-0085"
+    role: "supporting"
+  - id: "SRC-0060"
+    role: "supporting"
+  - id: "SRC-0017"
+    role: "supporting"
+  - id: "SRC-0053"
+    role: "supporting"
+  - id: "SRC-0013"
+    role: "supporting"
+  - id: "SRC-0068"
+    role: "supporting"
 date_added: "2026-07-17"
 updated: "2026-07-17"
 reviewed_on: ""
 status: "draft"
+parent_map: 07-Articles/Articles Index
+relationships:
+  - type: derives-from
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
+      Return on Time, and Money Rules
+  - type: derives-from
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time -
+      Record, Eliminate, and Consolidate
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is
+      Short - Ruthless Attention Allocation
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/決策、幸福與心智管理
 ---
 
 # Every Possession Comes With a Job
+
+> **Up:** [[Home|Home]] → [[07-Articles/Articles Index|Articles]]
 
 **Article of the day · ~2 min read**
 
@@ -26,6 +64,13 @@ This is not an argument against owning things. Some possessions give more than t
 
 Return to the piano. Its purchase price may be zero, but moving and tuning may not be. The first line of its ledger is every cash cost—delivery, setup, upkeep, and disposal—translated into after-tax working hours. The second is the attention required to house, maintain, protect, and eventually pass it on. The third is what it will make possible: weekly practice, music with your children, or the pleasure of playing. If those scenes are real and justify the first two lines, take it. If they remain vague while only the bargain feels vivid, leave it where it is.
 
+## Relationships
+
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Derives from:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
+- **Derives from:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time - Record, Eliminate, and Consolidate|Know Thy Time - Record, Eliminate, and Consolidate]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is Short - Ruthless Attention Allocation|Life Is Short - Ruthless Attention Allocation]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/決策、幸福與心智管理|決策、幸福與心智管理]]
 ## Sources in THE WIKI
 
 - [[Life Is Short - Ruthless Attention Allocation]]
@@ -33,3 +78,14 @@ Return to the piano. Its purchase price may be zero, but moving and tuning may n
 - [[決策、幸福與心智管理]]
 - [[Know Thy Time - Record, Eliminate, and Consolidate]]
 - [[How Money Is Made - Value, Return on Time, and Money Rules]]
+
+## Source reference
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript|25 Harsh Truths at 45 - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Presentations/2026-07-13_Presentation_SteveJobs_StanfordCommencementAddress_RawTranscript|Steve Jobs' 2005 Stanford Commencement Address - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]]
+- **supporting:** [[06-Source-Library/Podcasts/2026-07-02_Podcast_ModernWisdom_NavalRavikant|Naval Ravikant]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript|The Effective Executive - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]

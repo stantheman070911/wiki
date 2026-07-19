@@ -3,20 +3,46 @@ title: "Technology as an Accelerator, Not a Strategy"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/innovation, topic/decision-making, topic/systems, topic/risk, person/jim-collins, source/good-to-great]
-source:
-  type: "book"
-  name: "Good to Great"
-  author: "Jim Collins"
-  url: ""
-  date_of_source: "2001"
+tags:
+  [
+    topic/innovation,
+    topic/decision-making,
+    topic/systems,
+    topic/risk,
+    person/jim-collins,
+    source/good-to-great
+  ]
+sources:
+  - id: "SRC-0010"
+    role: "primary"
+    locator: "chapter 7"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business
+      Redesign - Speed to Value and Experience Moats
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept
+      - Three Circles and the Economic Denominator
+  - type: is-applied-by
+    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
+      Manufacturing as the Moat
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
+      Business - Train Like an Employee and the Department Playbook
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine
+      - Why Computers Complement Humans Instead of Replacing Them
 ---
 
 # Technology as an Accelerator, Not a Strategy
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 Technology creates durable advantage when it accelerates a coherent business system; it cannot supply the missing strategy, people, discipline, or momentum by itself.
@@ -53,11 +79,14 @@ Technological shifts generate fear of being left behind and pressure companies i
 Walgreens cautiously tested the internet, then connected online prescriptions to its convenience and distribution system before scaling. Kroger used scanners to release cash trapped in inventory and fund store modernization. Nucor's mini-mill technology mattered because its culture and economics could exploit it; the same equipment would not have repaired Bethlehem Steel's management failures.
 
 ## Relationships
-- **related:** [[The AI-Ready Business Redesign - Speed to Value and Experience Moats]]
-- **related:** [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
-- **related:** [[Man and Machine - Why Computers Complement Humans Instead of Replacing Them]]
-- **related:** [[The Factory Is the Product - Manufacturing as the Moat]]
-- **related:** [[The Hedgehog Concept - Three Circles and the Economic Denominator]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business Redesign - Speed to Value and Experience Moats|The AI-Ready Business Redesign - Speed to Value and Experience Moats]]
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept - Three Circles and the Economic Denominator|The Hedgehog Concept - Three Circles and the Economic Denominator]]
+- **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your Business - Train Like an Employee and the Department Playbook|Using AI in Your Business - Train Like an Employee and the Department Playbook]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine - Why Computers Complement Humans Instead of Replacing Them|Man and Machine - Why Computers Complement Humans Instead of Replacing Them]]
 ## Source reference
-Jim Collins, *Good to Great*, chapter 7, "Technology Accelerators" (2001). [[2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript|Good to Great - Raw Transcript]] — locator: chapter 7

@@ -3,20 +3,81 @@ title: "Sales Systems as Intellectual Property - Process Above the Player"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/culture, topic/systems, topic/ip, topic/consistency, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/sales,
+    topic/culture,
+    topic/systems,
+    topic/ip,
+    topic/consistency,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
+  - id: "SRC-0074"
+    role: "supporting"
+  - id: "SRC-0042"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build
+      the Business as the Product
+  - type: applies
+    target: 01-Business-Strategy/Pricing-and-Offers/High-Ticket Self-Checkout -
+      Brand and Qualification Compress the Sale
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor
+      Dilution Problem - Four Ways to Scale Past Yourself
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Soft Skills
+      Are Observable Behavior Chains
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Framework for Making Frameworks - Distill by Commonality
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as
+      Infrastructure
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
+      Clever - Write Below Third Grade and Meet the Avatar
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules
+      - Codify, Transfer, and Train Behavior
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
+      - SOPs, Checklists, and Systematizing the Vital 20%
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm -
+      Musk's Five-Step Process Method
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Advances, Not
+      Continuations - Plan Every Sales Call
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Outbound and Inbound
+      Are Separate Teams - The Sales Career Ladder
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger
+      Selling Model - Teach, Tailor, and Take Control
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
+      Rhythm - Leads, Appointments, Presentations, and Sales
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback -
+      Sales as the Training Ground
 ---
 
 # Sales Systems as Intellectual Property - Process Above the Player
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 A world-class sales team is built on a process no individual is allowed to override; when the system — script, training cadence, and standards — reliably turns a raw, high-work-ethic hire into a closer, that process is your company's real IP, and the leader's job is to enforce it, not to collect mercenaries.
@@ -63,13 +124,27 @@ AMA 3 makes the feedback loop more explicit: a world-class team role-plays every
 - Tactics come after the root: fix the process and leader first; if that fails, restructure the team.
 
 ## Relationships
-- **related:** [[Volume and Feedback - Sales as the Training Ground]]
-- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- **related:** [[The Algorithm - Musk's Five-Step Process Method]]
-- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
-- **applies:** [[The Framework for Making Frameworks - Distill by Commonality]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build the Business as the Product|The Franchise Prototype - Build the Business as the Product]]
+- **Applies:** [[01-Business-Strategy/Pricing-and-Offers/High-Ticket Self-Checkout - Brand and Qualification Compress the Sale|High-Ticket Self-Checkout - Brand and Qualification Compress the Sale]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor Dilution Problem - Four Ways to Scale Past Yourself|The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Soft Skills Are Observable Behavior Chains|Soft Skills Are Observable Behavior Chains]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Framework for Making Frameworks - Distill by Commonality|The Framework for Making Frameworks - Distill by Commonality]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as Infrastructure|Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior|Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing|Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%|Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm - Musk's Five-Step Process Method|The Algorithm - Musk's Five-Step Process Method]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Advances, Not Continuations - Plan Every Sales Call|Advances, Not Continuations - Plan Every Sales Call]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Outbound and Inbound Are Separate Teams - The Sales Career Ladder|Outbound and Inbound Are Separate Teams - The Sales Career Ladder]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger Selling Model - Teach, Tailor, and Take Control|The Challenger Selling Model - Teach, Tailor, and Take Control]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
 
-Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]
+- **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

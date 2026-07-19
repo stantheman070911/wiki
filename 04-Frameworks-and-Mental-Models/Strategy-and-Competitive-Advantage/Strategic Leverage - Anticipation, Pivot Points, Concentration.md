@@ -3,20 +3,42 @@ title: "Strategic Leverage - Anticipation, Pivot Points, Concentration"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/strategy, topic/leverage, topic/focus, topic/decision-making, person/richard-rumelt, source/good-strategy-bad-strategy]
-source:
-  type: "book"
-  name: "Good Strategy/Bad Strategy: The Difference and Why It Matters"
-  author: "Richard Rumelt"
-  url: ""
-  date_of_source: "2011"
+tags:
+  [
+    topic/strategy,
+    topic/leverage,
+    topic/focus,
+    topic/decision-making,
+    person/richard-rumelt,
+    source/good-strategy-bad-strategy
+  ]
+sources:
+  - id: "SRC-0038"
+    role: "primary"
+    locator: "Ch. 6"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Focus
+      - Winning a Segment by Coordinating Policy Around It
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Proximate
+      Objectives - Setting the Next Achievable Target
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Riding
+      Waves of Change - Five Guideposts for Industry Transitions
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
+      Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action
 ---
 
 # Strategic Leverage - Anticipation, Pivot Points, Concentration
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 Strategic leverage comes from anticipating how others will behave, finding the pivot point where a small push produces an outsized effect, and concentrating resources there instead of spreading them evenly across every priority.
@@ -49,9 +71,13 @@ Before committing resources to any initiative, ask three questions in sequence:
 - **Pierre Wack at Shell (1970s)**: anticipated the OPEC oil-price shock years ahead by reading income, population, and development-goal trends in Iran, Iraq, and Venezuela — an anticipation, not a forecast, that let Shell position ahead of the "flood" while rivals like George W. Bush's offshore drilling ventures got caught by the reversal.
 
 ## Relationships
-- **related:** [[The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
-- **related:** [[Focus - Winning a Segment by Coordinating Policy Around It]]
-- **related:** [[Proximate Objectives - Setting the Next Achievable Target]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Focus - Winning a Segment by Coordinating Policy Around It|Focus - Winning a Segment by Coordinating Policy Around It]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Proximate Objectives - Setting the Next Achievable Target|Proximate Objectives - Setting the Next Achievable Target]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Riding Waves of Change - Five Guideposts for Industry Transitions|Riding Waves of Change - Five Guideposts for Industry Transitions]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
 ## Source reference
-Richard Rumelt, *Good Strategy/Bad Strategy: The Difference and Why It Matters* (2011), Ch. 6 ("Using Leverage"). Raw text archived in [[2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 6

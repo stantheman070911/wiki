@@ -1,12 +1,17 @@
 ---
+source_id: "SRC-0024"
 title: "The Checklist Manifesto - Raw Transcript"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Atul Gawande"
+    role: "author"
 source_type: "book"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Atul Gawande"
+published_on: "2009"
 date_archived: "2026-07-18"
 status: "source"
 ---

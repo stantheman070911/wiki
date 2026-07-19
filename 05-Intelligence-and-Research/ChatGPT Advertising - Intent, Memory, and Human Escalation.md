@@ -3,20 +3,42 @@ title: "ChatGPT Advertising - Intent, Memory, and Human Escalation"
 type: "research"
 domain: "intelligence-and-research"
 lang: "en"
-tags: [topic/ai, topic/advertising, topic/paid-ads, topic/personal-brand, topic/cta, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "ChatGPT Ads Opportunity"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/ai,
+    topic/advertising,
+    topic/paid-ads,
+    topic/personal-brand,
+    topic/cta,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0087"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 05-Intelligence-and-Research/Intelligence and Research Index
+relationships:
+  - type: example
+    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
+      Traffic Before the Core Offer
+  - type: example
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS
+      - The Percentage Lies
+  - type: related
+    target: 05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era
+      Moat
+  - type: related
+    target: 05-Intelligence-and-Research/The Risk Continuum - Building an
+      AI-Resistant Personal Brand
 ---
 
 # ChatGPT Advertising - Intent, Memory, and Human Escalation
+
+> **Up:** [[Home|Home]] → [[05-Intelligence-and-Research/Intelligence and Research Index|Intelligence and Research]]
 
 ## One-line summary
 If conversational AI becomes an advertising surface, its advantage could be unusually rich intent and context, but advertisers should prepare measurable economics and useful escalation paths rather than assume the forecast or channel performance is proven.
@@ -53,10 +75,13 @@ Prepare a channel-agnostic conversational-ad test:
 Priestley compares the possible opening with early search and social advertising, when large attention pools initially had limited advertiser competition. The analogy suggests a testable opportunity, not guaranteed channel economics.
 
 ## Relationships
-- **related:** [[The Attention Barbell - Brand as the AI-Era Moat]]
-- **example:** [[Maximize Net Cash, Not ROAS - The Percentage Lies]]
-- **example:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- **related:** [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Example:** [[01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold Traffic Before the Core Offer|The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **Example:** [[01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS - The Percentage Lies|Maximize Net Cash, Not ROAS - The Percentage Lies]]
+- **Related:** [[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat|The Attention Barbell - Brand as the AI-Era Moat]]
+- **Related:** [[05-Intelligence-and-Research/The Risk Continuum - Building an AI-Resistant Personal Brand|The Risk Continuum: Building an AI-Resistant Personal Brand]]
 ## Source reference
-Daniel Priestley, *ChatGPT Ads Opportunity*. Raw transcript in [[2026-07-13_Video_DanielPriestley_ChatGPTAdsOpportunity_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_ChatGPTAdsOpportunity_RawTranscript|ChatGPT Ads Opportunity - Raw Transcript]]

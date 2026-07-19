@@ -3,20 +3,45 @@ title: "Proximate Objectives - Setting the Next Achievable Target"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/strategy, topic/focus, topic/decision-making, topic/execution, person/richard-rumelt, source/good-strategy-bad-strategy]
-source:
-  type: "book"
-  name: "Good Strategy/Bad Strategy: The Difference and Why It Matters"
-  author: "Richard Rumelt"
-  url: ""
-  date_of_source: "2011"
+tags:
+  [
+    topic/strategy,
+    topic/focus,
+    topic/decision-making,
+    topic/execution,
+    person/richard-rumelt,
+    source/good-strategy-bad-strategy
+  ]
+sources:
+  - id: "SRC-0038"
+    role: "primary"
+    locator: "Ch. 7"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed
+      and Aspirational OKRs - Separate Reliability from Stretch
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical
+      Path - Work Backward from a Traction Goal
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bad
+      Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategic
+      Leverage - Anticipation, Pivot Points, Concentration
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
+      Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action
 ---
 
 # Proximate Objectives - Setting the Next Achievable Target
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 The more uncertain and complex a situation is, the more a leader's job is to absorb that ambiguity and hand the organization a proximate objective — a target close enough at hand to actually be feasible — rather than a distant, ill-defined goal dressed up as ambition.
@@ -49,9 +74,14 @@ When setting or evaluating an objective, ask:
 - **Nestlé's acquisition of Rowntree**: proximate objectives cascaded in time as well as hierarchy — early, modest wins in moving Rowntree's UK-centered brands into new markets built the base of competence and information that let later, more ambitious objectives become proximate in turn.
 
 ## Relationships
-- **related:** [[The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
-- **related:** [[Strategic Leverage - Anticipation, Pivot Points, Concentration]]
-- **related:** [[Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed and Aspirational OKRs - Separate Reliability from Stretch|Committed and Aspirational OKRs - Separate Reliability from Stretch]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical Path - Work Backward from a Traction Goal|Critical Path - Work Backward from a Traction Goal]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy|Bad Strategy - Fluff, Avoidance, and Goals Mistaken for Strategy]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategic Leverage - Anticipation, Pivot Points, Concentration|Strategic Leverage - Anticipation, Pivot Points, Concentration]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
 ## Source reference
-Richard Rumelt, *Good Strategy/Bad Strategy: The Difference and Why It Matters* (2011), Ch. 7 ("Proximate Objectives"). Raw text archived in [[2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 7

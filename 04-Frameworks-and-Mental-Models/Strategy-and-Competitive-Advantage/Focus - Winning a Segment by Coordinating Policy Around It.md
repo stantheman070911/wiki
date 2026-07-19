@@ -3,20 +3,42 @@ title: "Focus - Winning a Segment by Coordinating Policy Around It"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/focus, topic/strategy, topic/niche, topic/positioning, person/richard-rumelt, source/good-strategy-bad-strategy]
-source:
-  type: "book"
-  name: "Good Strategy/Bad Strategy: The Difference and Why It Matters"
-  author: "Richard Rumelt"
-  url: ""
-  date_of_source: "2011"
+tags:
+  [
+    topic/focus,
+    topic/strategy,
+    topic/niche,
+    topic/positioning,
+    person/richard-rumelt,
+    source/good-strategy-bad-strategy
+  ]
+sources:
+  - id: "SRC-0038"
+    role: "primary"
+    locator: "Ch. 10"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Growth-and-Scaling/Growth Is Not a Strategy - When
+      Expansion Destroys Value
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Competitive
+      Advantage - Why Owning One Isn't Enough
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategic
+      Leverage - Anticipation, Pivot Points, Concentration
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
+      Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action
 ---
 
 # Focus - Winning a Segment by Coordinating Policy Around It
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 Focus means two things at once — coordinating your policies so they interact and reinforce each other, and aiming that coordinated power at a specific target — and a smaller player can out-earn a larger one by using focus to escape captive-buyer dynamics that trap the volume leaders.
@@ -50,9 +72,13 @@ Rumelt's extended Crown Cork & Seal case study shows that a company's real strat
 - **The captive can-supplier structure**: major can makers (Continental, National, American) accepted 4–5% ROA as the price of long production runs for major beverage brands; the structural trap (two dedicated suppliers per brand, essentially indistinguishable products) is a textbook case of *why* a focus-driven escape from captivity is valuable, not just differentiating.
 
 ## Relationships
-- **related:** [[The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
-- **related:** [[Strategic Leverage - Anticipation, Pivot Points, Concentration]]
-- **related:** [[Growth Is Not a Strategy - When Expansion Destroys Value]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/Growth Is Not a Strategy - When Expansion Destroys Value|Growth Is Not a Strategy - When Expansion Destroys Value]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Competitive Advantage - Why Owning One Isn't Enough|Competitive Advantage - Why Owning One Isn't Enough]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategic Leverage - Anticipation, Pivot Points, Concentration|Strategic Leverage - Anticipation, Pivot Points, Concentration]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
 ## Source reference
-Richard Rumelt, *Good Strategy/Bad Strategy: The Difference and Why It Matters* (2011), Ch. 10 ("Focus"). Raw text archived in [[2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 10

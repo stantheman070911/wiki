@@ -3,20 +3,47 @@ title: "Workplace Influence Mapping - Authority, Value, and Recognition"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/influence, topic/leadership, topic/management, topic/decision-making, topic/value-creation, person/bill-burnett, person/dave-evans, source/designing-your-new-work-life]
-source:
-  type: "book"
-  name: "Designing Your New Work Life"
-  author: "Bill Burnett and Dave Evans"
-  url: ""
-  date_of_source: "2021"
+tags:
+  [
+    topic/influence,
+    topic/leadership,
+    topic/management,
+    topic/decision-making,
+    topic/value-creation,
+    person/bill-burnett,
+    person/dave-evans,
+    source/designing-your-new-work-life
+  ]
+sources:
+  - id: "SRC-0026"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for
+      Consensus - Stakeholder Outcomes and Widespread Support
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign,
+      Redesign - Four Ways to Change Work in Place
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial
+      Output and Leverage
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Hybrid
+      Organizations and Dual Reporting
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The ARC of
+      Career Motivation - Autonomy, Relatedness, and Competence
 ---
 
 # Workplace Influence Mapping - Authority, Value, and Recognition
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 Organizational politics becomes navigable when authority is separated from influence and influence is built through recognized, strategically aligned value.
@@ -53,10 +80,14 @@ Then identify the issue's authority holders, the influencers they trust, and the
 Pete, a part-time clinic physician with software expertise, had no authority over a new medical-records system. He learned that nursing chief Esther was influential and concerned about patient-care workflows. By helping her translate those needs into usable software requirements, he joined the implementation team and improved the decision.
 
 ## Relationships
-- **related:** [[Hybrid Organizations and Dual Reporting]]
-- **related:** [[Don't Resign, Redesign - Four Ways to Change Work in Place]]
-- **related:** [[Managerial Output and Leverage]]
-- **related:** [[The ARC of Career Motivation - Autonomy, Relatedness, and Competence]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Tailoring for Consensus - Stakeholder Outcomes and Widespread Support|Tailoring for Consensus - Stakeholder Outcomes and Widespread Support]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign, Redesign - Four Ways to Change Work in Place|Don't Resign, Redesign - Four Ways to Change Work in Place]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial Output and Leverage|Managerial Output and Leverage]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Hybrid Organizations and Dual Reporting|Hybrid Organizations and Dual Reporting]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The ARC of Career Motivation - Autonomy, Relatedness, and Competence|The ARC of Career Motivation - Autonomy, Relatedness, and Competence]]
 ## Source reference
-Bill Burnett and Dave Evans, *Designing Your New Work Life* (2021; originally published as *Designing Your Work Life*, 2020). [[2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript|Designing Your New Work Life - Raw Transcript]]

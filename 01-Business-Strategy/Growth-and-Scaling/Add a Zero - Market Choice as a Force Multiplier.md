@@ -3,20 +3,51 @@ title: "Add a Zero - Market Choice as a Force Multiplier"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/scaling, topic/pricing, topic/local-services, topic/positioning, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/scaling,
+    topic/pricing,
+    topic/local-services,
+    topic/positioning,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
+  - id: "SRC-0042"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
+      Clever - Write Below Third Grade and Meet the Avatar
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
+      Through Segmented Churn
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
+      Return on Time, and Money Rules
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/The TAM Illusion
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
+      Discount - Make the Difference Obvious
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
+      Traffic Before the Core Offer
+  - type: related
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-5-商圈開發與市場行銷
 ---
 
 # Add a Zero - Market Choice as a Force Multiplier
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 The same skill earns wildly different amounts depending on the market you point it at, so choosing a stronger or less-sophisticated market can multiply income more than any tactic — sometimes literally by adding a zero to the price.
@@ -57,13 +88,18 @@ AMA 3 provides the threshold case: a custom-apparel company could sell roughly t
 - A stronger market often means colder, less-trusting traffic — expect to rebuild trust and the sales motion.
 
 ## Relationships
-- **related:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- **related:** [[ICP Qualification Through Segmented Churn]]
-- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly|Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/The TAM Illusion|The TAM Illusion - Saturated Markets, the Puddle-to-Ocean Path, and Five Directions to Move]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious|Decommoditize Before You Discount - Make the Difference Obvious]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold Traffic Before the Core Offer|The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **Related:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-5-商圈開發與市場行銷|連鎖經營學 · Module 5：商圈開發與市場行銷]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
 
-Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

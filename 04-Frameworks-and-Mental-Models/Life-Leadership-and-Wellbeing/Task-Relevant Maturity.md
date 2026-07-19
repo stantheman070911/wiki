@@ -3,20 +3,49 @@ title: "Task-Relevant Maturity"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/management, topic/leadership, topic/learning, topic/feedback, person/andrew-grove, source/high-output-management]
-source:
-  type: "book"
-  name: "High Output Management"
-  author: "Andrew S. Grove"
-  url: ""
-  date_of_source: "1983"
+tags:
+  [
+    topic/management,
+    topic/leadership,
+    topic/learning,
+    topic/feedback,
+    person/andrew-grove,
+    source/high-output-management
+  ]
+sources:
+  - id: "SRC-0022"
+    role: "primary"
+    locator: "chapter 12"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test,
+      Evaluate, and Sort People
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Performance Appraisal as a
+      Management System
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as
+      Managerial Production
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial
+      Output and Leverage
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Adaptive
+      Leadership - Consistent Standards, Individual Treatment
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The ARC of
+      Career Motivation - Autonomy, Relatedness, and Competence
 ---
 
 # Task-Relevant Maturity
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 The effective level of managerial direction depends on a person's maturity for the specific task—not their age, title, or general competence—and must change when the task or environment changes.
@@ -55,10 +84,15 @@ Reassess TRM for every material task change. The same person may occupy all thre
 Intel moved an outstanding field sales manager into factory leadership. His performance initially collapsed because his task-relevant maturity—not his overall maturity—was low in the new environment, then recovered as he learned. Grove also uses an army unit whose routine peacetime maturity becomes inadequate during an attack; the sergeant appropriately shifts from light monitoring to explicit commands until combat itself becomes familiar.
 
 ## Relationships
-- **related:** [[Meetings as Managerial Production]]
-- **related:** [[Performance Appraisal as a Management System]]
-- **related:** [[Managerial Output and Leverage]]
-- **related:** [[Adaptive Leadership - Consistent Standards, Individual Treatment]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People|Constantly Train, Test, Evaluate, and Sort People]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Performance Appraisal as a Management System|Performance Appraisal as a Management System]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as Managerial Production|Meetings as Managerial Production]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial Output and Leverage|Managerial Output and Leverage]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Adaptive Leadership - Consistent Standards, Individual Treatment|Adaptive Leadership - Consistent Standards, Individual Treatment]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The ARC of Career Motivation - Autonomy, Relatedness, and Competence|The ARC of Career Motivation - Autonomy, Relatedness, and Competence]]
 ## Source reference
-Andrew S. Grove, *High Output Management* (1983; revised 1995), chapter 12. [[2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript|High Output Management - Raw Transcript]] — locator: chapter 12

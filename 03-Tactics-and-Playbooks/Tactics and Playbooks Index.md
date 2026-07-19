@@ -1,11 +1,17 @@
 ---
 title: "Tactics and Playbooks"
+title_zh: "戰術與執行手冊"
 type: "domain-index"
 domain: "tactics-and-playbooks"
 lang: "en"
+updated: "2026-07-19"
+status: "evergreen"
+owner: "stanley-lu"
 ---
 
 # Tactics and Playbooks
+
+> **中文名稱：** 戰術與執行手冊
 
 Step-by-step, repeatable how-tos and checklists for recurring, concrete tasks.
 
@@ -30,6 +36,9 @@ Belongs here: repeatable execution steps, checklists, workflows, and operating p
 - **Key framework:** [[Creator Vision Framework - What x Who x Why]]
 - **Key playbook:** [[Building a Content Team - Hiring Funnel, Contractors, and Onboarding]]
 - **Subdomain map:** [[Sales and Lead Generation Map]]
+- **Content map:** [[Content Creation and Distribution Map]]
+- **Operations map:** [[Operations and Productivity Map]]
+- **Additional guided paths:** [[Permission and Remarkability - Own Attention and Design Word of Mouth|Permission and word of mouth]] · [[The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid|Podcast guest progression]] · [[家族企業與伴侶共創的邊界設計：分工、拍板與共同改善會議|Family-business and partner boundaries]]
 - **Major series:** none currently; ordered collections require a `series-hub` and explicit `series` metadata.
 - **Complete static inventory:** [[Portable Index|Portable Index — Tactics and Playbooks]]
 
@@ -39,12 +48,7 @@ Belongs here: repeatable execution steps, checklists, workflows, and operating p
 
 ### Content Creation & Distribution
 
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
-FROM "03-Tactics-and-Playbooks/Content-Creation-and-Distribution"
-WHERE type = "playbook"
-SORT date_added DESC
-```
+Inventory ownership: [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution Map]].
 
 ### Audience Growth
 
@@ -52,17 +56,13 @@ SORT date_added DESC
 TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
 FROM "03-Tactics-and-Playbooks/Audience-Growth"
 WHERE type = "playbook"
+AND contains(list("draft", "reviewed", "evergreen"), status)
 SORT date_added DESC
 ```
 
 ### Sales & Lead Generation
 
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
-FROM "03-Tactics-and-Playbooks/Sales-and-Lead-Generation"
-WHERE type = "playbook"
-SORT date_added DESC
-```
+Inventory ownership: [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation Map]].
 
 ### Hiring & Team
 
@@ -70,17 +70,13 @@ SORT date_added DESC
 TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
 FROM "03-Tactics-and-Playbooks/Hiring-and-Team"
 WHERE type = "playbook"
+AND contains(list("draft", "reviewed", "evergreen"), status)
 SORT date_added DESC
 ```
 
 ### Operations & Productivity
 
-```dataview
-TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
-FROM "03-Tactics-and-Playbooks/Operations-and-Productivity"
-WHERE type = "playbook"
-SORT date_added DESC
-```
+Inventory ownership: [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity Map]].
 
 ### Wealth & Skill Building
 
@@ -88,5 +84,6 @@ SORT date_added DESC
 TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
 FROM "03-Tactics-and-Playbooks/Wealth-and-Skill-Building"
 WHERE type = "playbook"
+AND contains(list("draft", "reviewed", "evergreen"), status)
 SORT date_added DESC
 ```

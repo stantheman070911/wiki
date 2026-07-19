@@ -3,20 +3,81 @@ title: "Positioning - Own a Word in the Prospect's Mind"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/positioning, topic/marketing, topic/brand, topic/differentiation, person/ries-trout]
-source:
-  type: "book"
-  name: "Positioning: The Battle for Your Mind"
-  author: "Al Ries & Jack Trout"
-  url: ""
-  date_of_source: "1981"
+tags:
+  [
+    topic/positioning,
+    topic/marketing,
+    topic/brand,
+    topic/differentiation,
+    person/ries-trout
+  ]
+sources:
+  - id: "SRC-0007"
+    role: "primary"
+    locator: "ch. 1–5"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the
+      Prospect Already Gives You - Research-Based Positioning
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as
+      Context - Make the Product Obviously Valuable
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension
+      Trap - Why One Name Can't Own Two Things
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
+      Actually Is - Association, Influence, Direction, Reach
+  - type: has-derivative
+    target: 07-Articles/Change the Comparison Before You Change the Price
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
+      Clever - Write Below Third Grade and Meet the Avatar
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Positioning Yourself
+      - Find a Horse to Ride
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points
+      - Anchor a New Position to What's Already Believed
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product
+      - The Best-Known Wins, Not the Best
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
+      Hole in the Mind (Cherchez le Creneau)
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning a Company -
+      Stand for a Specific Achievement, Not Diversification
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/The 22 Immutable Laws of
+      Marketing
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/The Aesop Playbook
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing
+      Scale - Sell the Outcome, Not Your Effort
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
+      Discount - Make the Difference Obvious
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架
+  - type: related
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-3-品牌四大共識與市場定位
+  - type: related
+    target: 02-Social-Media-Strategy/Brand Journey and the 3-Part Brand Story
+  - type: related
+    target: 02-Social-Media-Strategy/Personal-Brand Positioning and the
+      No-Competition Model
 ---
 
 # Positioning - Own a Word in the Prospect's Mind
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Positioning is not what you do to a product — it's what you do to the mind of the prospect: in an overcommunicated society you win by owning one simple, defensible word or idea, working with what's already in the mind rather than trying to change it.
@@ -52,17 +113,28 @@ Ries and Trout's founding thesis (coined 1972). Kotler frames it as the step tha
 - Rheingold's ethnic-appeal beer — the everybody-trap failure.
 
 ## Relationships
-- **related:** [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
-- **applies:** [[The Line-Extension Trap - Why One Name Can't Own Two Things]]
-- **related:** [[Positioning Yourself - Find a Horse to Ride]]
-- **related:** [[Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
-- **applies:** [[Own What the Prospect Already Gives You - Research-Based Positioning]]
-- **related:** [[Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
-- **applies:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- **related:** [[Personal-Brand Positioning and the No-Competition Model]]
 
-- **related:** [[The 22 Immutable Laws of Marketing]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the Prospect Already Gives You - Research-Based Positioning|Own What the Prospect Already Gives You - Research-Based Positioning]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as Context - Make the Product Obviously Valuable|Positioning as Context - Make the Product Obviously Valuable]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension Trap - Why One Name Can't Own Two Things|The Line-Extension Trap - Why One Name Can't Own Two Things]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **Has derivative:** [[07-Articles/Change the Comparison Before You Change the Price|Change the Comparison Before You Change the Price]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Positioning Yourself - Find a Horse to Ride|Positioning Yourself - Find a Horse to Ride]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points - Anchor a New Position to What's Already Believed|Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product - The Best-Known Wins, Not the Best|Distribution Beats Product - The Best-Known Wins, Not the Best]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)|Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Positioning a Company - Stand for a Specific Achievement, Not Diversification|Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/The 22 Immutable Laws of Marketing|The 22 Immutable Laws of Marketing]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/The Aesop Playbook|The Aesop Playbook - Ritual Economics, Diagnostic Selling, and Engineering the Second Sale]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort|The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious|Decommoditize Before You Discount - Make the Difference Obvious]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架|情緒價值與功能性價值：跳脫價格戰的定位框架]]
+- **Related:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-3-品牌四大共識與市場定位|連鎖經營學 · Module 3：品牌四大共識與市場定位]]
+- **Related:** [[02-Social-Media-Strategy/Brand Journey and the 3-Part Brand Story|Brand Journey and the 3-Part Brand Story]]
+- **Related:** [[02-Social-Media-Strategy/Personal-Brand Positioning and the No-Competition Model|Personal-Brand Positioning and the No-Competition Model]]
 ## Source reference
-Al Ries & Jack Trout, *Positioning: The Battle for Your Mind*, ch. 1–5. Extraction notes in [[2026-07-08_Book_RiesTrout_Positioning]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning|Positioning]] — locator: ch. 1–5

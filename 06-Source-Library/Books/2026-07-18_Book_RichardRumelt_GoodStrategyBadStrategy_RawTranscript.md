@@ -1,12 +1,17 @@
 ---
+source_id: "SRC-0038"
 title: "Good Strategy/Bad Strategy: The Difference and Why It Matters"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Richard Rumelt"
+    role: "author"
 source_type: "book"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Richard Rumelt"
+published_on: "2011"
 date_archived: "2026-07-18"
 status: "source"
 ---

@@ -3,20 +3,49 @@ title: "TikTok Shop與飽和市場的白地策略"
 type: "strategy"
 domain: "business-strategy"
 lang: "zh"
-tags: [topic/business-model, topic/positioning, topic/market-saturation, topic/tam, source/bloom-nutrition, person/greg-lavecchia]
-source:
-  type: "podcast"
-  name: "Greg LaVecchia（Bloom Nutrition 共同創辦人）訪談"
-  author: "Greg LaVecchia"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/business-model,
+    topic/positioning,
+    topic/market-saturation,
+    topic/tam,
+    source/bloom-nutrition,
+    person/greg-lavecchia
+  ]
+sources:
+  - id: "SRC-0052"
+    role: "primary"
 date_added: "2026-07-02"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: related
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-4-Prioritize
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
+      of a Perfect Business
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/The TAM Illusion
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
+      Hole in the Mind (Cherchez le Creneau)
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/業績公式與商業定位：從流量思維到變現路徑
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架
+  - type: related
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-5-商圈開發與市場行銷
+  - type: related
+    target: 02-Social-Media-Strategy/受眾定位與先小後大法則
 ---
 
 # TikTok Shop與飽和市場的白地策略
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## 一句話總結
 
@@ -56,9 +85,17 @@ status: "reviewed"
 
 ## 關係
 
-- **related:** [[業績公式與商業定位：從流量思維到變現路徑]]
-- **related:** [[受眾定位與先小後大法則]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **相關:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-4-Prioritize|$100M 擴張路線圖 · Stage 4：Prioritize 取捨]]
+- **相關:** [[01-Business-Strategy/Business-Models-and-Customers/The Five Advantages of a Perfect Business|The Five Advantages of a Perfect Business]]
+- **相關:** [[01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架|人群場景痛點解決方案：客戶洞察與需求驗證框架]]
+- **相關:** [[01-Business-Strategy/Growth-and-Scaling/The TAM Illusion|The TAM Illusion - Saturated Markets, the Puddle-to-Ocean Path, and Five Directions to Move]]
+- **相關:** [[01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)|Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **相關:** [[01-Business-Strategy/Positioning-and-Branding/業績公式與商業定位：從流量思維到變現路徑|業績公式與商業定位：從流量思維到變現路徑]]
+- **相關:** [[01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架|情緒價值與功能性價值：跳脫價格戰的定位框架]]
+- **相關:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-5-商圈開發與市場行銷|連鎖經營學 · Module 5：商圈開發與市場行銷]]
+- **相關:** [[02-Social-Media-Strategy/受眾定位與先小後大法則|受眾定位與先小後大法則]]
 ## 來源
 
-Greg LaVecchia(Bloom Nutrition 共同創辦人)訪談。完整筆記存於 [[2026-07-02_Podcast_GregLaVecchia_BloomNutrition]]。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Podcasts/2026-07-02_Podcast_GregLaVecchia_BloomNutrition|Bloom Nutrition]]

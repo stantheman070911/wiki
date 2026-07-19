@@ -3,20 +3,78 @@ title: "The Five Advantages of a Perfect Business"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/business-model, topic/retention, topic/unit-economics, topic/scaling, topic/moat, person/alex-hormozi]
-source:
-  type: "video"
-  name: "How to Build The Perfect Business (Step-by-Step) (playlist: How to Make Your First $100,000)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/business-model,
+    topic/retention,
+    topic/unit-economics,
+    topic/scaling,
+    topic/moat,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0054"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
+  and Customers Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
+      Automation - Manual Onboarding to Fix Churn
+  - type: related
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/Community Quality Is
+      the Offer - Qualification, Curation, and Network Effects
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
+      Through Segmented Churn
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
+      Shapes - E-commerce, Service, Education, Software
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept
+      - Three Circles and the Economic Denominator
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Seven Questions
+      Every Business Must Answer
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of
+      Service Businesses
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/從零到十萬美元聯盟套利劇本與商業基本面
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
+      Return on Time, and Money Rules
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
+      Manufacturing as the Moat
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/TikTok Shop與飽和市場的白地策略
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
+      Hole in the Mind (Cherchez le Creneau)
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
+      Unscalable Premium Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You
+      Can't Control Price
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
+      Discount - Make the Difference Obvious
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem
+      - Sell Consumable Inputs, Not the Black Box
 ---
 
 # The Five Advantages of a Perfect Business
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/Business-Models-and-Customers/Business Models and Customers Map|Business Models and Customers]]
 
 ## One-line summary
 Businesses are easier to grow and far more profitable when they score well on five continua — sticky, expensive, expansion, air, and unique — and if you can only optimize one, make it retention.
@@ -53,13 +111,26 @@ This is an S-tier ranking for opportunity vehicles: a way to diagnose whether a 
 - Coca-Cola as the near-complete five-advantage business (Buffett's long hold).
 
 ## Relationships
-- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
-- **related:** [[Activation Before Automation - Manual Onboarding to Fix Churn]]
-- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- **related:** [[$100M 擴張路線圖 · 總覽與方法論|$100M 擴張路線圖（十階段系列）]]
-- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- **related:** [[從零到十萬美元聯盟套利劇本與商業基本面]]
-- **related:** [[TikTok Shop與飽和市場的白地策略]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
+- **Related:** [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Community Quality Is the Offer - Qualification, Curation, and Network Effects|Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept - Three Circles and the Economic Denominator|The Hedgehog Concept - Three Circles and the Economic Denominator]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Seven Questions Every Business Must Answer|The Seven Questions Every Business Must Answer]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of Service Businesses|The Virtuous Cycle of Service Businesses]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/從零到十萬美元聯盟套利劇本與商業基本面|從零到十萬美元聯盟套利劇本與商業基本面]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/TikTok Shop與飽和市場的白地策略|TikTok Shop與飽和市場的白地策略]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)|Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You Can't Control Price|Compete on Efficiency When You Can't Control Price]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious|Decommoditize Before You Discount - Make the Difference Obvious]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box|The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
 ## Source reference
-Alex Hormozi, *How to Build The Perfect Business (Step-by-Step)* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Podcasts/2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000|How to Make Your First $100,000]]

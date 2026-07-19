@@ -3,20 +3,53 @@ title: "The Flywheel and the Doom Loop - Compound Momentum in One Direction"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/consistency, topic/execution, topic/systems, topic/scaling, topic/growth, person/jim-collins, source/good-to-great]
-source:
-  type: "book"
-  name: "Good to Great"
-  author: "Jim Collins"
-  url: ""
-  date_of_source: "2001"
+tags:
+  [
+    topic/consistency,
+    topic/execution,
+    topic/systems,
+    topic/scaling,
+    topic/growth,
+    person/jim-collins,
+    source/good-to-great
+  ]
+sources:
+  - id: "SRC-0010"
+    role: "primary"
+    locator: "chapter 8"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept
+      - Three Circles and the Economic Denominator
+  - type: is-applied-by
+    target: 01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly
+      Compounding and Market Size
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
+      Compounding - Too Good to Fail
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom
+      Loop and the One-Brand Bet
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
+      Discipline - Freedom, Responsibility, and Stop-Doing Lists
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Kaizen and
+      the Progress Principle
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
+      - The Zero-Follower Consistency Engine
 ---
 
 # The Flywheel and the Doom Loop - Compound Momentum in One Direction
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Breakthrough is usually the visible result of many coherent actions compounded over time, while repeated attempts to skip the buildup destroy momentum and create a doom loop.
@@ -55,14 +88,16 @@ Outsiders see the moment results become undeniable and invent an overnight-succe
 Circuit City spent roughly a decade refining its warehouse-showroom model before the press noticed its breakthrough. Nucor accumulated culture, mini-mills, customers, and learning for years before becoming the industry's profit leader. Warner-Lambert repeatedly changed direction with each CEO, never allowing a coherent strategy to compound.
 
 ## Relationships
-- **related:** [[Process as the Goal - The Zero-Follower Consistency Engine]]
-- **related:** [[Brand and Product Compounding - Too Good to Fail]]
-- **related:** [[Startup Equals Growth - Weekly Compounding and Market Size]]
-- **related:** [[The Direct-Response Doom Loop and the One-Brand Bet]]
-- **related:** [[A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
-- **related:** [[The Hedgehog Concept - Three Circles and the Economic Denominator]]
 
-- **related:** [[Kaizen and the Progress Principle - Small Wins, Course Corrections, and Motivation]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept - Three Circles and the Economic Denominator|The Hedgehog Concept - Three Circles and the Economic Denominator]]
+- **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly Compounding and Market Size|Startup Equals Growth - Weekly Compounding and Market Size]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail|Brand and Product Compounding - Too Good to Fail]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom Loop and the One-Brand Bet|The Direct-Response Doom Loop and the One-Brand Bet]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Kaizen and the Progress Principle|Kaizen and the Progress Principle - Small Wins, Course Corrections, and Motivation]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal - The Zero-Follower Consistency Engine|Process as the Goal - The Zero-Follower Consistency Engine]]
 ## Source reference
-Jim Collins, *Good to Great*, chapter 8, "The Flywheel and the Doom Loop" (2001). [[2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript|Good to Great - Raw Transcript]] — locator: chapter 8

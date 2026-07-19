@@ -3,20 +3,51 @@ title: "The Waterfall Distribution Method - One Pillar, a Week of Content"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/distribution, topic/repurposing, topic/content-strategy, person/caleb-ralston]
-source:
-  type: "pdf"
-  name: "How to Build Your Brand Workbook"
-  author: "Caleb Ralston"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/distribution,
+    topic/repurposing,
+    topic/content-strategy,
+    person/caleb-ralston
+  ]
+sources:
+  - id: "SRC-0008"
+    role: "primary"
+    locator: "ch. 3"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+  Creation and Distribution Map
+relationships:
+  - type: applies
+    target: 02-Social-Media-Strategy/Brand Journey and the 3-Part Brand Story
+  - type: applies
+    target: 02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model
+  - type: related
+    target: 03-Tactics-and-Playbooks/Audience-Growth/The Podcast Guest Ladder -
+      Hook, Product Ecosystem, and Podcast Pyramid
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+      Planner and the Analyze-Double-Down Loop
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down
+      and the 70-20-10 Rule - Templatizing Viral Outliers
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content
+      Repository - Four Topic Buckets and Tweet-First Capture
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The
+      StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Building a Content Team -
+      Hiring Funnel, Contractors, and Onboarding
 ---
 
 # The Waterfall Distribution Method - One Pillar, a Week of Content
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution]]
 
 ## One-line summary
 Create one high-value "pillar" piece, mine it for micro-content, reformat each piece to be native to its platform, and cascade it out on a schedule — turning a single shoot into a full week of distribution.
@@ -56,11 +87,17 @@ The most effective way to maximize content output without constantly creating fr
 - The workbook's model week: one pillar on Monday cascading into threads, carousels, shorts, and a newsletter through Friday.
 
 ## Relationships
-- **related:** [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
-- **related:** [[Content Planner and the Analyze-Double-Down Loop]]
-- **related:** [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
-- **applies:** [[Interest Media and the Zero-Follower Reach Model]]
-- **applies:** [[Brand Journey and the 3-Part Brand Story]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[02-Social-Media-Strategy/Brand Journey and the 3-Part Brand Story|Brand Journey and the 3-Part Brand Story]]
+- **Applies:** [[02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model|Interest Media and the Zero-Follower Reach Model]]
+- **Related:** [[03-Tactics-and-Playbooks/Audience-Growth/The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid|The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Planner and the Analyze-Double-Down Loop|Content Planner and the Analyze-Double-Down Loop]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers|Double-Down and the 70/20/10 Rule - Templatizing Viral Outliers]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content Repository - Four Topic Buckets and Tweet-First Capture|The Content Repository - Four Topic Buckets and Tweet-First Capture]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment|The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Building a Content Team - Hiring Funnel, Contractors, and Onboarding|Building a Content Team - Hiring Funnel, Contractors, and Onboarding]]
 ## Source reference
-Caleb Ralston, *How to Build Your Brand Workbook*, ch. 3. Extraction notes in [[2026-07-08_Workbook_CalebRalston_HowToBuildYourBrand]]; PDF archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Workbook_CalebRalston_HowToBuildYourBrand|How To Build Your Brand]] — locator: ch. 3

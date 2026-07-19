@@ -3,20 +3,47 @@ title: "The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/messaging, topic/marketing, topic/copywriting, topic/email-marketing, topic/referrals, person/donald-miller, source/building-a-storybrand]
-source:
-  type: "book"
-  name: "Building a StoryBrand 2.0"
-  author: "Donald Miller"
-  url: ""
-  date_of_source: "2025"
+tags:
+  [
+    topic/messaging,
+    topic/marketing,
+    topic/copywriting,
+    topic/email-marketing,
+    topic/referrals,
+    person/donald-miller,
+    source/building-a-storybrand
+  ]
+sources:
+  - id: "SRC-0029"
+    role: "primary"
+    locator: "chapters 12–15"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+  Creation and Distribution Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7
+      Framework - Customer as Hero, Brand as Guide
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
+      Create - Engineering Proof at Scale
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
+      Clever - Write Below Third Grade and Meet the Avatar
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall
+      Distribution Method - One Pillar, a Week of Content
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand
+      Conversion Path - Problem, Plan, and Calls to Action
 ---
 
 # The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution]]
 
 ## One-line summary
 Turn a clear brand message into a repeatable campaign that earns curiosity with a concise promise, builds trust through useful education, and requests commitment with an unmistakable offer.
@@ -55,11 +82,14 @@ Build the campaign in seven linked pieces:
 StoryBrand’s “5 Things Your Website Should Include” guide generated tens of thousands of qualified contacts and helped take the business past $2 million. A design firm won a presentation project despite a less attractive website because it clearly named the customer’s fear, offered a useful guide, nurtured the relationship by email, and repeatedly made scheduling easy.
 
 ## Relationships
-- **related:** [[The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide]]
-- **related:** [[The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
-- **related:** [[The Waterfall Distribution Method - One Pillar, a Week of Content]]
-- **related:** [[Capture Dont Create - Engineering Proof at Scale]]
-- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide|The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall Distribution Method - One Pillar, a Week of Content|The Waterfall Distribution Method - One Pillar, a Week of Content]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand Conversion Path - Problem, Plan, and Calls to Action|The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
 ## Source reference
-Donald Miller, *Building a StoryBrand 2.0* (2025), chapters 12–15. Raw transcript archived at [[2026-07-18_Book_DonaldMiller_BuildingAStoryBrand20_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_DonaldMiller_BuildingAStoryBrand20_RawTranscript|Building a StoryBrand 2.0]] — locator: chapters 12–15

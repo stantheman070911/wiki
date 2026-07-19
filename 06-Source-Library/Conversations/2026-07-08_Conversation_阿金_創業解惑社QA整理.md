@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0041"
 title: "創業解惑社QA整理"
 type: "source"
 domain: "source-library"
-lang: "zh"
+creators:
+  - name: "阿金"
+    role: "creator"
 source_type: "conversation"
 source_format: "source-note"
+source_lang: "zh"
+note_lang: "zh"
 processing_status: "processed"
-author: "阿金"
 date_archived: "2026-07-08"
 status: "source"
 ---

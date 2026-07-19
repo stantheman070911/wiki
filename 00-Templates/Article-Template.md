@@ -2,15 +2,13 @@
 title: ""
 type: "template"
 template_for: "article"
-domain: ""
+domain: "articles"
 lang: "en"
 tags: []
-source:
-  type: ""
-  name: ""
-  author: ""
-  url: ""
-  date_of_source: ""
+sources: []
+relationships:
+  - type: "related"
+    target: ""
 date_added: ""
 updated: ""
 reviewed_on: ""
@@ -19,10 +17,17 @@ status: "draft"
 
 # Title
 
-## Article
-
-<!-- Complete or remove guidance comments before review. -->
+<!-- Write the article as a coherent narrative directly below the H1. Do not add a generic "Article" wrapper heading. Complete or remove this guidance before review. -->
 
 ## Sources in THE WIKI
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- List the governed wiki pages synthesized into this article as wikilinks. -->
+- Add a governed knowledge-page wikilink here.
+
+## Relationships
+
+<!-- Generated from frontmatter `relationships`; do not edit this section manually. -->
+
+## Source reference
+
+<!-- Generated from frontmatter `sources`; do not edit this section manually. -->

@@ -3,14 +3,15 @@ title: ""
 type: "template"
 template_for: "series-hub"
 domain: ""
+series: ""
 lang: "en"
 tags: []
-source:
-  type: ""
-  name: ""
-  author: ""
-  url: ""
-  date_of_source: ""
+sources:
+  - id: ""
+    role: "primary"
+relationships:
+  - type: "related"
+    target: ""
 date_added: ""
 updated: ""
 reviewed_on: ""
@@ -21,24 +22,24 @@ status: "draft"
 
 ## Summary
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- State the series promise and organizing logic. -->
 
 ## Scope
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- Define what the series includes, excludes, and who it serves. -->
 
 ## Series index
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- List every series entry in authoritative order. -->
 
 ## Reading path
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- Provide a default path and any legitimate role- or need-based alternatives. -->
 
 ## Relationships
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- Generated from frontmatter `relationships`; do not edit this section manually. -->
 
 ## Source reference
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- Generated from frontmatter `sources`; do not edit this section manually. -->

@@ -3,20 +3,44 @@ title: "Drum-Buffer-Rope - Release Work at the Constraint's Pace"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/theory-of-constraints, topic/operations, topic/systems, topic/prioritization, topic/productivity, person/eliyahu-m-goldratt, person/jeff-cox, source/the-goal]
-source:
-  type: "book"
-  name: "The Goal"
-  author: "Eliyahu M. Goldratt and Jeff Cox"
-  url: ""
-  date_of_source: "1984"
+tags:
+  [
+    topic/theory-of-constraints,
+    topic/operations,
+    topic/systems,
+    topic/prioritization,
+    topic/productivity,
+    person/eliyahu-m-goldratt,
+    person/jeff-cox,
+    source/the-goal
+  ]
+sources:
+  - id: "SRC-0030"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
+      Supply
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Dependent
+      Events and Statistical Fluctuations - Why Balanced Capacity Fails
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of
+      Constraints - The Five Focusing Steps
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput
+      Accounting - Manage the System, Not Local Costs
 ---
 
 # Drum-Buffer-Rope - Release Work at the Constraint's Pace
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 Let the constraint set the production rhythm, protect it and final delivery with time buffers, and tie material release to that rhythm so work-in-process cannot outrun throughput.
@@ -50,10 +74,13 @@ When work is released whenever a non-constraint becomes idle, the system fills w
 Bearington used constraint data to predict when heat treatment and the NCX-10 would consume work, then released material so roughly three days of protection remained. The change cleared excess queues and made shipping dates predictable. Later, taking more orders without increasing protection reduced spare capacity and starved the constraints in waves, showing that buffers, lead-time promises, and protective capacity must be adjusted together.
 
 ## Relationships
-- **related:** [[Theory of Constraints - The Five Focusing Steps]]
-- **related:** [[Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails]]
-- **related:** [[Throughput Accounting - Manage the System, Not Local Costs]]
-- **related:** [[Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails|Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of Constraints - The Five Focusing Steps|Theory of Constraints - The Five Focusing Steps]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput Accounting - Manage the System, Not Local Costs|Throughput Accounting - Manage the System, Not Local Costs]]
 ## Source reference
-Eliyahu M. Goldratt and Jeff Cox, *The Goal: A Process of Ongoing Improvement* (1984). [[2026-07-18_Book_EliyahuMGoldrattJeffCox_TheGoal_RawTranscript]]
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_EliyahuMGoldrattJeffCox_TheGoal_RawTranscript|The Goal]]

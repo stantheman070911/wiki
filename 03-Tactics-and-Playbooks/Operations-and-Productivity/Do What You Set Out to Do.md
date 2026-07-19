@@ -3,20 +3,74 @@ title: "Do What You Set Out to Do"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/execution, topic/productivity, topic/prioritization, topic/operations, person/ray-dalio, person/john-doerr, source/bridgewater-associates, source/measure-what-matters]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/execution,
+    topic/productivity,
+    topic/prioritization,
+    topic/operations,
+    person/ray-dalio,
+    person/john-doerr,
+    source/bridgewater-associates,
+    source/measure-what-matters
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 14"
+  - id: "SRC-0032"
+    role: "supporting"
 date_added: "2026-07-13"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed
+      and Aspirational OKRs - Separate Reliability from Stretch
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Finish and
+      Release - Abundance Beats Perfectionism
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal
+      Urgency - Speed, Parallelism, and Aggressive Timelines
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs -
+      Define Objectives Through Sufficient Key Results
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning
+      Backward from the Gap
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Replace,
+      Don't Fight, a Habit
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
+      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Guarantee
+      Execution - How, the Rule of Three, and Hidden Players
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements
+      to Your Machine to Get Around Your Problems
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time -
+      Record, Eliminate, and Consolidate
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating
+      Cycle - Set, Check In, Score, and Reflect
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect
+      Repeatable Week - Designing a Predictable Business Rhythm
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and
+      Protocols to Shape How Work Is Done
 ---
 
 # Do What You Set Out to Do
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 Execution — the fifth and final step of Dalio's process — is where most real value actually gets created, through mundane, often unglamorous persistence rather than brilliant ideas alone, which is why it gets its own chapter instead of being treated as an afterthought to planning.
@@ -48,14 +102,23 @@ This chapter doesn't introduce a new framework so much as it closes the loop on 
 - At Lumeris, leaders spent review time "selling their reds" instead of narrating successes: the group identified the most important at-risk goals and colleagues volunteered to help recover them.
 
 ## Relationships
-- **applies:** [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
-- **related:** [[Design Improvements to Your Machine to Get Around Your Problems]]
-- **related:** [[Use Tools and Protocols to Shape How Work Is Done]]
-- **applies:** [[Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]]
-- **related:** [[The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
-- **related:** [[Committed and Aspirational OKRs - Separate Reliability from Stretch]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed and Aspirational OKRs - Separate Reliability from Stretch|Committed and Aspirational OKRs - Separate Reliability from Stretch]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Finish and Release - Abundance Beats Perfectionism|Finish and Release - Abundance Beats Perfectionism]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines|Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs - Define Objectives Through Sufficient Key Results|OKRs - Define Objectives Through Sufficient Key Results]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning Backward from the Gap|Planning Backward from the Gap]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Replace, Don't Fight, a Habit|Replace, Don't Fight, a Habit]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)|The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Guarantee Execution - How, the Rule of Three, and Hidden Players|Guarantee Execution - How, the Rule of Three, and Hidden Players]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements to Your Machine to Get Around Your Problems|Design Improvements to Your Machine to Get Around Your Problems]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time - Record, Eliminate, and Consolidate|Know Thy Time - Record, Eliminate, and Consolidate]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating Cycle - Set, Check In, Score, and Reflect|The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Perfect Repeatable Week - Designing a Predictable Business Rhythm|The Perfect Repeatable Week - Designing a Predictable Business Rhythm]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and Protocols to Shape How Work Is Done|Use Tools and Protocols to Shape How Work Is Done]]
 ## Source reference
-Ray Dalio, *Principles*, Part III, Ch. 14 ("Do What You Set Out to Do"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
 
-John Doerr, *Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs* (2018). Raw transcript in [[2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 14
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript|Measure What Matters]]

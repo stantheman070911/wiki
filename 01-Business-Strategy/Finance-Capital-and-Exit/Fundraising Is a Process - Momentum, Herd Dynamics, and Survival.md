@@ -3,20 +3,39 @@ title: "Fundraising Is a Process - Momentum, Herd Dynamics, and Survival"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/startups, topic/capital, topic/equity, topic/risk, topic/decision-making, person/paul-graham, source/paul-graham-essays]
-source:
-  type: "essay collection"
-  name: "Paul Graham - Collected Essays"
-  author: "Paul Graham"
-  url: "https://paulgraham.com/articles.html"
-  date_of_source: "2007-2013"
+tags:
+  [
+    topic/startups,
+    topic/capital,
+    topic/equity,
+    topic/risk,
+    topic/decision-making,
+    person/paul-graham,
+    source/paul-graham-essays
+  ]
+sources:
+  - id: "SRC-0046"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
+      and Asymmetric Bets
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations -
+      Co-founders, Ownership, Possession, Control, and Vesting
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default
+      Dead - Runway, Growth, and the Fatal Pinch
 ---
 
 # Fundraising Is a Process - Momentum, Herd Dynamics, and Survival
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Raise money as a concentrated, time-bounded process: demonstrate facts rather than sell enthusiasm, create parallel investor momentum, accept workable terms promptly, and never let fundraising consume the company.
@@ -47,9 +66,12 @@ Use a four-phase process: **prepare evidence and target list → open conversati
 Convertible notes enabled “high-resolution fundraising”: different investors could close at different times and prices, rewarding decisive participants while breaking the deadlock created by everyone asking who else was investing.
 
 ## Relationships
-- **related:** [[Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
-- **applies:** [[Fear, Regret, and Asymmetric Bets]]
-- **related:** [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting|Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch|Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
 ## Source reference
-Paul Graham, “How to Raise Money,” “A Fundraising Survival Guide,” “How to Convince Investors,” “Investor Herd Dynamics,” “High Resolution Fundraising,” and “How to Fund a Startup,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

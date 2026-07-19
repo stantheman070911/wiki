@@ -3,20 +3,36 @@ title: "Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/commitment, topic/mindset, topic/decision-making, person/t-harv-eker]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags:
+  [
+    topic/commitment,
+    topic/mindset,
+    topic/decision-making,
+    person/t-harv-eker
+  ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Act in Spite of
+      Fear vs. Let Fear Stop You
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs.
+      Playing Not to Lose
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint
+      - Reprogramming Thoughts, Feelings, and Actions Around Money
 ---
 
 # Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 Most people who say they want to be rich are sending the universe (and themselves) mixed messages, because a hidden file of "reasons wealth would be bad" is running alongside the stated desire — true wealth requires resolving that conflict into unconditional commitment.
@@ -36,9 +52,12 @@ Wealth File #3. Eker's seminar exercise — asking people to list the possible d
 - Notice your own reaction to committing: freedom or a tinge of fear both indicate you're on the right track; indifference or avoidance signals you're still in "wanting" mode.
 
 ## Relationships
-- **related:** [[Playing to Win vs. Playing Not to Lose]]
-- **related:** [[Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
-- **related:** [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Act in Spite of Fear vs. Let Fear Stop You|Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs. Playing Not to Lose|Playing to Win vs. Playing Not to Lose]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #3. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

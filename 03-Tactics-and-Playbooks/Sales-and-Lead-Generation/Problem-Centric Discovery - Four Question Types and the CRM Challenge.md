@@ -3,20 +3,49 @@ title: "Problem-Centric Discovery - Four Question Types and the CRM Challenge"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/qualification, topic/research, topic/feedback, person/keenan, source/gap-selling]
-source:
-  type: "book"
-  name: "Gap Selling"
-  author: "Keenan"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/sales,
+    topic/qualification,
+    topic/research,
+    topic/feedback,
+    person/keenan,
+    source/gap-selling
+  ]
+sources:
+  - id: "SRC-0034"
+    role: "primary"
+    locator: "chapters 7–8"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated
+      Questions - How and What Create the Illusion of Control
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State
+      Diagnosis - Facts, Problems, Impact, Cause, and Emotion
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery -
+      Situation, Problem, Implication, and Need-Payoff
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
+      Rhythm - Leads, Appointments, Presentations, and Sales
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes -
+      Decision Criteria, Buying Process, and Mutual Effort
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem
+      Identification Chart - Problems, Impacts, and Root Causes
 ---
 
 # Problem-Centric Discovery - Four Question Types and the CRM Challenge
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Run discovery as an evidence-seeking conversation that uses probing, process, provoking, and validating questions to diagnose and qualify the buyer before any prescription or demo.
@@ -55,10 +84,15 @@ Document current state, problems, impact, root cause, future state, desired outc
 When one sales director invited a peer into a proposal, Keenan assumed the two leaders shared the same situation. The second director's problems and desired future were different, the prepared solution did not resonate, and the lost credibility stalled the entire deal—showing why stakeholder-specific rediscovery matters.
 
 ## Relationships
-- **related:** [[Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion]]
-- **related:** [[The Problem Identification Chart - Problems, Impacts, and Root Causes]]
-- **related:** [[The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
-- **related:** [[The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated Questions - How and What Create the Illusion of Control|Calibrated Questions - How and What Create the Illusion of Control]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion|Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery - Situation, Problem, Implication, and Need-Payoff|SPIN Discovery - Situation, Problem, Implication, and Need-Payoff]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes - Decision Criteria, Buying Process, and Mutual Effort|The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem Identification Chart - Problems, Impacts, and Root Causes|The Problem Identification Chart - Problems, Impacts, and Root Causes]]
 ## Source reference
-Keenan, *Gap Selling* (2018), chapters 7–8. [[2026-07-18_Book_Keenan_GapSelling_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_Keenan_GapSelling_RawTranscript|Gap Selling]] — locator: chapters 7–8

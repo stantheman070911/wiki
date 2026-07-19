@@ -3,20 +3,58 @@ title: "Billing-Cycle vs Value-Cycle Alignment"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/pricing, topic/retention, topic/memberships, topic/cash-flow, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/pricing,
+    topic/retention,
+    topic/memberships,
+    topic/cash-flow,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/用數學做決策：損益表、PDCA與預測降低不確定性
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
+      Automation - Manual Onboarding to Fix Churn
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/Community Quality Is
+      the Offer - Qualification, Curation, and Network Effects
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
+      Through Segmented Churn
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/Survive vs Thrive
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
+      Unscalable Premium Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize
+      the Whole Revenue System
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem
+      - Sell Consumable Inputs, Not the Black Box
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing
+      Offers to Fund Growth
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow
+      With Customer Outcomes
+  - type: related
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-8-財務會計與獲利核心
 ---
 
 # Billing-Cycle vs Value-Cycle Alignment
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Bill on the cadence at which the customer actually receives value; when someone only needs the product a few times a year, monthly billing manufactures churn, so match the invoice to the value cycle with quarterly or annual terms.
@@ -53,11 +91,20 @@ A real-estate-focused SaaS at $60/month was losing ~100 of 150 weekly signups, l
 - Prepaid terms improve cash flow and stickiness, but over-long commitments can raise the barrier to the first sale.
 
 ## Relationships
-- **related:** [[Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value]]
-- **related:** [[ICP Qualification Through Segmented Churn]]
-- **related:** [[The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
-- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
-- **related:** [[Activation Before Automation - Manual Onboarding to Fix Churn]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/用數學做決策：損益表、PDCA與預測降低不確定性|用數學做決策：損益表、PDCA與預測降低不確定性]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Community Quality Is the Offer - Qualification, Curation, and Network Effects|Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Survive vs Thrive|Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Price, Churn, and EPC - Optimize the Whole Revenue System|Price, Churn, and EPC - Optimize the Whole Revenue System]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box|The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing Offers to Fund Growth|The Money Model - Sequencing Offers to Fund Growth]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow With Customer Outcomes|Value Metrics - Price and Grow With Customer Outcomes]]
+- **Related:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-8-財務會計與獲利核心|連鎖經營學 · Module 8：財務會計與獲利核心]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

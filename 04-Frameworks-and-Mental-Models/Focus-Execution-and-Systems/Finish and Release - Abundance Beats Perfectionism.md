@@ -3,20 +3,48 @@ title: "Finish and Release - Abundance Beats Perfectionism"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/creativity, topic/execution, topic/commitment, topic/mindset, person/rick-rubin, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "book"
-  name: "The Creative Act - A Way of Being"
-  author: "Rick Rubin with Neil Strauss"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/creativity,
+    topic/execution,
+    topic/commitment,
+    topic/mindset,
+    person/rick-rubin,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0016"
+    role: "primary"
+  - id: "SRC-0085"
+    role: "supporting"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a
+      Discovery Tool - Useful, Simple, and Rewritten
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
+      to Do
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Five
+      Energies of Execution - Vision, Strategy, People, Work, Refinement
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Success -
+      Judge the Work Before the Outcome
 ---
 
 # Finish and Release - Abundance Beats Perfectionism
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Treat each work as a time-stamped iteration rather than a final verdict on your ability; finishing restores the flow of ideas, builds confidence, and makes the next work possible.
@@ -54,12 +82,15 @@ A useful stopping test: if you love the work, the essence is clear, major altern
 Rubin contrasts musicians who delay an album because it might define them forever with the diary-entry model: an album captures one period, not an entire life. Protecting a single chapter from imperfection can leave the rest of the book unwritten.
 
 ## Relationships
-- **related:** [[The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
-- **related:** [[Do What You Set Out to Do]]
-- **related:** [[Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
-- **related:** [[Creative Success - Judge the Work Before the Outcome]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a Discovery Tool - Useful, Simple, and Rewritten|Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Five Energies of Execution - Vision, Strategy, People, Work, Refinement|Five Energies of Execution - Vision, Strategy, People, Work, Refinement]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion|The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Success - Judge the Work Before the Outcome|Creative Success - Judge the Work Before the Outcome]]
 ## Source reference
-Rick Rubin with Neil Strauss, *The Creative Act: A Way of Being* (2023). Raw transcript archived at [[2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript]].
 
-Additional source: Daniel Priestley, *25 Harsh Truths at 45*, [[2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript|The Creative Act - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript|25 Harsh Truths at 45 - Raw Transcript]]

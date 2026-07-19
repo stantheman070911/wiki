@@ -1,24 +1,74 @@
 ---
-title: "Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed"
+title: "Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring
+  Pulled Not Pushed"
 aliases:
-  - "Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed"
+  - "Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring
+    Pulled Not Pushed"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/recruiting, topic/hiring, topic/referrals, topic/funnel, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/recruiting,
+    topic/hiring,
+    topic/referrals,
+    topic/funnel,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
+  - id: "SRC-0074"
+    role: "supporting"
+  - id: "SRC-0042"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
+      Selling Through Trusted Referrers
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
+      Supply
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp -
+      The Messy Middle and the 40-for-2 Management Trade
+  - type: related
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-7-招商加盟與組織人才
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders -
+      Reverse-Engineer OTE, Profit Pools, and Phantom Equity
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules
+      - Codify, Transfer, and Train Behavior
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Hire Right, Because the
+      Penalties for Hiring Wrong Are Huge
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
+      Organizations
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/The Mechanics of Mafia -
+      Cult-Like Culture and the Recruiting Pitch
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/備忘錄文化與 A 級人才招募 playbook
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Outbound and Inbound
+      Are Separate Teams - The Sales Career Ladder
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
+      Intellectual Property - Process Above the Player
 ---
 
 # Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Every service business needs two funnels, not one — a demand-gen funnel for customers and a supply-gen funnel for talent — run with the same economics (cost to acquire talent, lifetime gross profit per employee) and the same standard: hire because you're pulled toward a person, not to make hiring pain go away.
@@ -66,13 +116,24 @@ AMA 3 sharpened the repeat-frequency rule: use an external recruiter when the ro
 - Character-based recruiting supplements but doesn't replace competitive comp once the business can afford it — it's a lever for the capital-constrained stage specifically.
 
 ## Relationships
-- **applies:** [[Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
-- **related:** [[Sales Systems as Intellectual Property - Process Above the Player]]
-- **related:** [[Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
-- **related:** [[Special-Forces Teams and Flat Organizations]]
-- **related:** [[備忘錄文化與 A 級人才招募 playbook]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger|Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint]]
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp - The Messy Middle and the 40-for-2 Management Trade|The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
+- **Related:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-7-招商加盟與組織人才|連鎖經營學 · Module 7：招商加盟與組織人才]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity|Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior|Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Hire Right, Because the Penalties for Hiring Wrong Are Huge|Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch|The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/備忘錄文化與 A 級人才招募 playbook|備忘錄文化與 A 級人才招募 playbook]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Outbound and Inbound Are Separate Teams - The Sales Career Ladder|Outbound and Inbound Are Separate Teams - The Sales Career Ladder]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
 
-Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]
+- **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

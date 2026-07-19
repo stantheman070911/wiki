@@ -3,20 +3,47 @@ title: "Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/personal-brand, topic/self-belief, person/alex-hormozi]
-source:
-  type: "video"
-  name: "If You're Scared of Looking Cringe, Please Watch This (playlist: How to Make Your First $100,000)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/mindset,
+    topic/personal-brand,
+    topic/self-belief,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0054"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
+      Create - Engineering Proof at Scale
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
+      Confidence
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin
+      Story - Heroes Use Pain
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/No One's Opinion
+      Pays Your Bills - Immunity to Critics
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
+      - The Zero-Follower Consistency Engine
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
+      Proficiency, Pain Tolerance, and Frustration Tolerance
 ---
 
 # Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 "Cringe" is a defensive status play by the observer — so being called cringe is a sign your status is rising and you're on the right path; the only real mistake is being too scared of looking cringe to start and to document the climb.
@@ -47,11 +74,16 @@ Everyone's first content, first ad, first product is embarrassing. Hormozi shows
 - 90 days after that first ad he lost everything a second time and made his first podcast — the documented comeback.
 
 ## Relationships
-- **related:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
-- **related:** [[Capture Dont Create - Engineering Proof at Scale]]
-- **related:** [[Build Evidence, Not Confidence]]
-- **related:** [[Hardship as Origin Story - Heroes Use Pain]]
-- **related:** [[Process as the Goal - The Zero-Follower Consistency Engine]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain|Hardship as Origin Story - Heroes Use Pain]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/No One's Opinion Pays Your Bills - Immunity to Critics|No One's Opinion Pays Your Bills - Immunity to Critics]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal - The Zero-Follower Consistency Engine|Process as the Goal - The Zero-Follower Consistency Engine]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox|The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## Source reference
-Alex Hormozi, *If You're Scared of Looking Cringe, Please Watch This* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Podcasts/2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000|How to Make Your First $100,000]]

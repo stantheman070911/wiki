@@ -3,20 +3,48 @@ title: "The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/business-model, topic/cash-flow, topic/supply-chain, topic/brand, topic/moat, person/alex-hormozi]
-source:
-  type: "video"
-  name: "How to Grow Any Business Fast (The Four Business Shapes)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/business-model,
+    topic/cash-flow,
+    topic/supply-chain,
+    topic/brand,
+    topic/moat,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0107"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
+  and Customers Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
+      Shapes - E-commerce, Service, Education, Software
+  - type: prerequisite
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
+      Shapes - E-commerce, Service, Education, Software
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
+      Manufacturing as the Moat
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
+      Compounding - Too Good to Fail
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product
+      - The Best-Known Wins, Not the Best
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing
+      Offers to Fund Growth
 ---
 
 # The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/Business-Models-and-Customers/Business Models and Customers Map|Business Models and Customers]]
 
 ## One-line summary
 E-commerce scales revenue faster than any other physical model because people readily pay for tangible stuff, but its growth is capped by free cash flow, supply chain, and distribution — so the business that wins is the one that treats brand, not media arbitrage, as the moat.
@@ -61,11 +89,15 @@ The retail sequence has reversed: it used to be build brick-and-mortar first, th
 - **Gymshark vs. Lululemon** illustrate the reversed retail sequence (online-first flagships vs. brick-and-mortar-first).
 
 ## Relationships
-- **prerequisite:** [[The Four Business Shapes - E-commerce, Service, Education, Software]]
-- **related:** [[The Factory Is the Product - Manufacturing as the Moat]]
-- **related:** [[Distribution Beats Product - The Best-Known Wins, Not the Best]]
-- **related:** [[Brand and Product Compounding - Too Good to Fail]]
-- **related:** [[The Money Model - Sequencing Offers to Fund Growth]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
+- **Prerequisite:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail|Brand and Product Compounding - Too Good to Fail]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product - The Best-Known Wins, Not the Best|Distribution Beats Product - The Best-Known Wins, Not the Best]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing Offers to Fund Growth|The Money Model - Sequencing Offers to Fund Growth]]
 ## Source reference
-Alex Hormozi, *How to Grow Any Business Fast (The Four Business Shapes)*. Raw transcript archived in [[2026-07-18_Video_AlexHormozi_HowToGrowAnyBusinessFast_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-18_Video_AlexHormozi_HowToGrowAnyBusinessFast_RawTranscript|How to Grow Any Business Fast (The Four Business Shapes)]]

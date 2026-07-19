@@ -1,12 +1,19 @@
 ---
+source_id: "SRC-0025"
 title: "Designing Your Life - Raw Transcript"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Bill Burnett"
+    role: "author"
+  - name: "Dave Evans"
+    role: "author"
 source_type: "book"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Bill Burnett and Dave Evans"
+published_on: "2016"
 date_archived: "2026-07-18"
 status: "source"
 ---

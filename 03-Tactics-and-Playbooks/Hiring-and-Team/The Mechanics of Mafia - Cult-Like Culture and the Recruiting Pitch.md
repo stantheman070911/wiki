@@ -3,20 +3,51 @@ title: "The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/culture, topic/hiring, topic/recruiting, topic/org-design, topic/startups, person/peter-thiel, person/steven-bartlett]
-source:
-  type: "book"
-  name: "Zero to One: Notes on Startups, or How to Build the Future"
-  author: "Peter Thiel with Blake Masters"
-  url: ""
-  date_of_source: "2014"
+tags:
+  [
+    topic/culture,
+    topic/hiring,
+    topic/recruiting,
+    topic/org-design,
+    topic/startups,
+    person/peter-thiel,
+    person/steven-bartlett
+  ]
+sources:
+  - id: "SRC-0014"
+    role: "primary"
+    locator: "ch. 10"
+  - id: "SRC-0017"
+    role: "supporting"
+    locator: "Law 29"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate
+      Meaningful Work and Meaningful Relationships
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules
+      - Codify, Transfer, and Train Behavior
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
+      Organizations
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations -
+      Co-founders, Ownership, Possession, Control, and Vesting
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is
+      Destiny - The Sales Channel Power Law
 ---
 
 # The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 "No company has a culture; every company is a culture" — a startup is a team on a mission, and the best startups sit close to the cult end of the cult-to-consultancy spectrum: fanatically right (not wrong) about something outsiders have missed, with employees hired for genuine long-term fit, not perks or résumé prestige.
@@ -54,13 +85,16 @@ Track the company through four phases—**cult, growth, enterprise, decline**—
 - James Doohan (Scotty from Star Trek) as PayPal's spokesman flopped; William Shatner (Kirk) worked for Priceline years later once Priceline was already a major, recognized player — illustrating that pure star-power stunts aren't a substitute for an actual audience-fit strategy, tying back to the "sell your company to the media" idea in [[Distribution Is Destiny - The Sales Channel Power Law]].
 
 ## Relationships
-- **related:** [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
-- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- **related:** [[Special-Forces Teams and Flat Organizations]]
-- **related:** [[Distribution Is Destiny - The Sales Channel Power Law]]
-- **related:** [[Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate Meaningful Work and Meaningful Relationships|Cultivate Meaningful Work and Meaningful Relationships]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior|Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing|Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting|Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law|Distribution Is Destiny - The Sales Channel Power Law]]
 ## Source reference
-Peter Thiel with Blake Masters, *Zero to One*, ch. 10 ("The Mechanics of Mafia"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.
 
-Additional source: Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 29. [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 10
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 29

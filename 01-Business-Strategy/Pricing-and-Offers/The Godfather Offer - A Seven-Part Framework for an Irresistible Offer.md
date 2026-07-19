@@ -3,20 +3,44 @@ title: "The Godfather Offer - A Seven-Part Framework for an Irresistible Offer"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/offers, topic/pricing, topic/persuasion, person/sabri-suby]
-source:
-  type: "video"
-  name: "Customer Acquisition, Offers, and Ads Playbook (compilation)"
-  author: "Sabri Suby"
-  url: ""
-  date_of_source: ""
+tags: [ topic/offers, topic/pricing, topic/persuasion, person/sabri-suby ]
+sources:
+  - id: "SRC-0078"
+    role: "primary"
+  - id: "SRC-0084"
+    role: "supporting"
 date_added: "2026-07-10"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Direct-Response
+      Copywriting
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
+      Period - The Three Numbers That Decide If You Win
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing
+      Scale - Sell the Outcome, Not Your Effort
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
+      Unscalable Premium Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get
+      Them What They Need - The Defined-End Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
+      Slam Offer
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid
+      and the Halo Strategy
 ---
 
 # The Godfather Offer - A Seven-Part Framework for an Irresistible Offer
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Build an offer so good nine out of ten prospects can't reasonably refuse it — by pricing the first sale to barely break even (or lose money) and engineering the relationship to profit on the second, third, and fourth sale instead.
@@ -59,13 +83,17 @@ Suby's construction method for what he calls a "Godfather Offer" — the offer n
 - Weight-loss / fitness offer example of a stacked guarantee: "follow the system, do the workouts, lose 9kg in 12 weeks — or your money back / we work with you for free until you do."
 
 ## Relationships
-- **related:** [[The Value Equation and the Grand Slam Offer]]
-- **related:** [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
-- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
-- **related:** [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
-- **related:** [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Direct-Response Copywriting|Direct-Response Copywriting - NEWIF, the Nine Questions, and Three Conversion-Killing Mistakes]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort|The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get Them What They Need - The Defined-End Offer|Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid and the Halo Strategy|The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
 ## Source reference
-Sabri Suby, customer-acquisition training video (part of a four-video compilation). Raw transcript and extraction notes archived at [[2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook]].
 
-The "keeps-you-up-at-night" test, the one-third-CAC claim, and the hero-mechanism / category-of-one point are corroborated in Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #5) — raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook|Customer Acquisition, Offers, And Ads Playbook]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]

@@ -3,20 +3,52 @@ title: "Distribution Beats Product - The Best-Known Wins, Not the Best"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/distribution, topic/sales, topic/marketing, topic/moat, person/sabri-suby]
-source:
-  type: "video"
-  name: "11 Brutal Truths To Grow Your Business Fast"
-  author: "Sabri Suby"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/distribution,
+    topic/sales,
+    topic/marketing,
+    topic/moat,
+    person/sabri-suby
+  ]
+sources:
+  - id: "SRC-0084"
+    role: "primary"
 date_added: "2026-07-12"
 updated: "2026-07-12"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority
+      Rule - How Intransigent Preferences Dominate Flexible Majorities
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape
+      - Scale Fast, Then Fight Cash, Supply, and Brand
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
+      Compounding - Too Good to Fail
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition -
+      Why All Happy Companies Are Different
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
+      in the Prospect's Mind
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the
+      Overkill Bias - Why the Best Get to Teach
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing
+      Scale - Sell the Outcome, Not Your Effort
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where
+      the Fewest Go
 ---
 
 # Distribution Beats Product - The Best-Known Wins, Not the Best
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 The money isn't in your goods and services, it's in the selling of them — distribution is a terminal monopoly on a market, and it's usually the best-*known* product that wins, not the best product.
@@ -40,10 +72,17 @@ A hard pill for product-obsessed founders: the market rarely rewards the finest 
 - Apple / Steve Jobs: arguably the best products in the world, driven by one of the greatest salespeople ever. Jobs framed the iPod as "a thousand songs in your pocket," reportedly spent ~80% of his time on recruiting, ~10–15% on sales and marketing, and only ~5% on actual product — the cash from selling let him hire Jony Ive to build the best products.
 
 ## Relationships
-- **related:** [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
-- **related:** [[Brand and Product Compounding - Too Good to Fail]]
-- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
-- **related:** [[The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities|The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand|The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail|Brand and Product Compounding - Too Good to Fail]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition - Why All Happy Companies Are Different|Monopoly vs. Competition - Why All Happy Companies Are Different]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Real-World Proof and the Overkill Bias - Why the Best Get to Teach|Real-World Proof and the Overkill Bias - Why the Best Get to Teach]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort|The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where the Fewest Go|The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
 ## Source reference
-Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #4). Raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]

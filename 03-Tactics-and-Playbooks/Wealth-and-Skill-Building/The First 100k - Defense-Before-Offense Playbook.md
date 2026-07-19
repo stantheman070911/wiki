@@ -3,20 +3,49 @@ title: "The First 100k - Defense-Before-Offense Playbook"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/cash-flow, topic/first-100k, topic/frugality, topic/business-model, person/alex-hormozi]
-source:
-  type: "video"
-  name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/cash-flow,
+    topic/first-100k,
+    topic/frugality,
+    topic/business-model,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0068"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default
+      Dead - Runway, Growth, and the Fatal Pinch
+  - type: applies
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
+      Return on Time, and Money Rules
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and
+      the Blame-Power Law
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money
+      Well - The Habit Matters More Than the Amount
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and
+      the Education-ROI Playbook
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money
+      Management System
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The
+      Complete Six-Step Roadmap
 ---
 
 # The First 100k - Defense-Before-Offense Playbook
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 When you're broke with no skills, play total defense — slash spending to build a runway — so you can move from survival mode into thrive mode and start making bets.
@@ -52,9 +81,16 @@ Then: **wait ~36 months** — patient with outputs, impatient with inputs.
 - Hormozi cleaned, billed, sold, taught, and fixed equipment himself at his first gym because he didn't know he could hire — using what he had.
 
 ## Relationships
-- **applies:** [[Accountability and the Blame-Power Law]]
-- **related:** [[Skill Stacking and the Education-ROI Playbook]]
-- **applies:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch|Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
+- **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and the Blame-Power Law|Accountability and the Blame-Power Law]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money Well - The Habit Matters More Than the Amount|Manage Your Money Well - The Habit Matters More Than the Amount]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and the Education-ROI Playbook|Skill Stacking and the Education-ROI Playbook]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money Management System|The 6 Jars Money Management System]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The Complete Six-Step Roadmap|The First $100k - The Complete Six-Step Roadmap]]
 ## Source reference
-Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]

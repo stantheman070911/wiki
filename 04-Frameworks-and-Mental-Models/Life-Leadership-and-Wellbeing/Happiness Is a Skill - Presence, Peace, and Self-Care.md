@@ -3,20 +3,38 @@ title: "Happiness Is a Skill - Presence, Peace, and Self-Care"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/happiness, topic/mindset, person/naval-ravikant]
-source:
-  type: "book"
-  name: "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness"
-  author: "Eric Jorgenson (Naval Ravikant)"
-  url: "https://navalmanack.com"
-  date_of_source: "2020"
+tags: [ topic/happiness, topic/mindset, person/naval-ravikant ]
+sources:
+  - id: "SRC-0003"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to
+      Love to Read - Foundations, Clear Thinking, and Mental Models
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is
+      Short - Ruthless Attention Allocation
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/孤獨、簡單勝過輕鬆與犧牲平庸
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/決策、幸福與心智管理
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
+      Gratification - Patience and Inputs vs Outputs
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group
+      and Re-engineering Your Circle
 ---
 
 # Happiness Is a Skill - Presence, Peace, and Self-Care
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 Happiness is a learnable skill, not a lucky trait — the absence of the feeling that something is missing — and it is built through present-moment attention, chosen habits, meditation, and caring for the body, in that ascending order of real importance.
@@ -53,11 +71,15 @@ The existing entry [[決策、幸福與心智管理]] covers Naval's happiness *
 - "Don't take yourself so seriously. You're just a monkey with a plan" — deflating the self as a path to peace.
 
 ## Relationships
-- **related:** [[決策、幸福與心智管理]]
-- **related:** [[Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
-- **related:** [[孤獨、簡單勝過輕鬆與犧牲平庸]]
-- **related:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
-- **related:** [[The Reference Group and Re-engineering Your Circle]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to Love to Read - Foundations, Clear Thinking, and Mental Models|Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is Short - Ruthless Attention Allocation|Life Is Short - Ruthless Attention Allocation]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/孤獨、簡單勝過輕鬆與犧牲平庸|孤獨、簡單勝過輕鬆與犧牲平庸]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/決策、幸福與心智管理|決策、幸福與心智管理]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed Gratification - Patience and Inputs vs Outputs|Delayed Gratification - Patience and Inputs vs Outputs]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle|The Reference Group and Re-engineering Your Circle]]
 ## Source reference
-Eric Jorgenson, *The Almanack of Naval Ravikant* (2020), "Learning Happiness" and "Saving Yourself." Extraction notes in [[2026-07-08_Book_EricJorgenson_TheAlmanackOfNavalRavikant]]; PDF archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_EricJorgenson_TheAlmanackOfNavalRavikant|The Almanack Of Naval Ravikant]]

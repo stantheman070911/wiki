@@ -3,20 +3,49 @@ title: "Learn to Love to Read - Foundations, Clear Thinking, and Mental Models"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/learning, topic/mental-models, person/naval-ravikant]
-source:
-  type: "book"
-  name: "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness"
-  author: "Eric Jorgenson (Naval Ravikant)"
-  url: "https://navalmanack.com"
-  date_of_source: "2020"
+tags: [ topic/learning, topic/mental-models, person/naval-ravikant ]
+sources:
+  - id: "SRC-0003"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/財富公式：專屬知識、槓桿與判斷力
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and
+      the Education-ROI Playbook
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The
+      Complete Six-Step Roadmap
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles
+      Thinking - Reason from Physics, Not Analogy
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Lindy
+      Effect - Time as a Filter for Robust Ideas and Practices
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/賽道選擇的兩個模型：Ikigai與市場五要素
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/How to Do
+      Great Work - Curiosity, Taste, Projects, and Endurance
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Happiness
+      Is a Skill - Presence, Peace, and Self-Care
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Wonder
+      Formula - Curiosity Plus Mystery
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/決策、幸福與心智管理
 ---
 
 # Learn to Love to Read - Foundations, Clear Thinking, and Mental Models
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 The genuine love of reading is a superpower — but the leverage comes from building a high-quality foundation in the basics (math, science, the originals) and rereading the few great books, not from finishing many.
@@ -51,11 +80,19 @@ Naval attributes most of his material success and intelligence to reading one to
 - Charlie Munger: "As long as I have a book in my hand, I don't feel like I'm wasting time."
 
 ## Relationships
-- **related:** [[Happiness Is a Skill - Presence, Peace, and Self-Care]]
-- **related:** [[財富公式：專屬知識、槓桿與判斷力]]
-- **related:** [[決策、幸福與心智管理]]
-- **related:** [[Skill Stacking and the Education-ROI Playbook]]
-- **related:** [[The First 100k - The Complete Six-Step Roadmap]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/財富公式：專屬知識、槓桿與判斷力|財富公式：專屬知識、槓桿與判斷力]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and the Education-ROI Playbook|Skill Stacking and the Education-ROI Playbook]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The Complete Six-Step Roadmap|The First $100k - The Complete Six-Step Roadmap]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles Thinking - Reason from Physics, Not Analogy|First-Principles Thinking - Reason from Physics, Not Analogy]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Lindy Effect - Time as a Filter for Robust Ideas and Practices|The Lindy Effect - Time as a Filter for Robust Ideas and Practices]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/賽道選擇的兩個模型：Ikigai與市場五要素|賽道選擇的兩個模型：Ikigai與市場五要素]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/How to Do Great Work - Curiosity, Taste, Projects, and Endurance|How to Do Great Work - Curiosity, Taste, Projects, and Endurance]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Happiness Is a Skill - Presence, Peace, and Self-Care|Happiness Is a Skill - Presence, Peace, and Self-Care]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Wonder Formula - Curiosity Plus Mystery|The Wonder Formula - Curiosity Plus Mystery]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/決策、幸福與心智管理|決策、幸福與心智管理]]
 ## Source reference
-Eric Jorgenson, *The Almanack of Naval Ravikant* (2020), "Building Judgment." Extraction notes in [[2026-07-08_Book_EricJorgenson_TheAlmanackOfNavalRavikant]]; PDF archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_EricJorgenson_TheAlmanackOfNavalRavikant|The Almanack Of Naval Ravikant]]

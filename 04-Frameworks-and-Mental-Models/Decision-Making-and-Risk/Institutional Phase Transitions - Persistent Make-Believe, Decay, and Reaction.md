@@ -1,22 +1,47 @@
 ---
-title: "Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction"
+title: "Institutional Phase Transitions - Persistent Make-Believe, Decay, and
+  Reaction"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mental-models, topic/decision-making, topic/systems, topic/feedback, topic/risk, person/james-dale-davidson, person/william-rees-mogg, source/the-sovereign-individual]
-source:
-  type: "book"
-  name: "The Sovereign Individual"
-  author: "James Dale Davidson and William Rees-Mogg"
-  url: ""
-  date_of_source: "1997"
+tags:
+  [
+    topic/mental-models,
+    topic/decision-making,
+    topic/systems,
+    topic/feedback,
+    topic/risk,
+    person/james-dale-davidson,
+    person/william-rees-mogg,
+    source/the-sovereign-individual
+  ]
+sources:
+  - id: "SRC-0009"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Preserve the Core,
+      Stimulate Progress - Build an Institution That Can Evolve
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Megapolitics -
+      How Technology Changes the Returns to Violence
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
+      Filter - Stay, Scale, or Burn It Down
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale
+      Paradox - Confront Reality Without Losing Faith
 ---
 
 # Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 An institution can preserve its names, offices, and rituals long after its operating logic has failed, so transition detection must track function rather than form.
@@ -53,10 +78,13 @@ Use the **form-function transition test**:
 After the last Western Roman emperor was removed, the Senate, offices, insignia, and nominal allegiance to the Eastern emperor continued—the book calls this “persistent make-believe.” It also compares the late-medieval Church, whose productive role had decayed while its rituals endured, with modern institutions whose costs have outgrown the conditions that once justified them.
 
 ## Relationships
-- **related:** [[The Stockdale Paradox - Confront Reality Without Losing Faith]]
-- **related:** [[Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
-- **related:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- **related:** [[Megapolitics - How Technology Changes the Returns to Violence]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve|Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Megapolitics - How Technology Changes the Returns to Violence|Megapolitics - How Technology Changes the Returns to Violence]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Stockdale Paradox - Confront Reality Without Losing Faith|The Stockdale Paradox - Confront Reality Without Losing Faith]]
 ## Source reference
-James Dale Davidson and William Rees-Mogg, *The Sovereign Individual* (1997), [[2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_JamesDaleDavidsonWilliamReesMogg_TheSovereignIndividual_RawTranscript|The Sovereign Individual - Raw Transcript]]

@@ -3,20 +3,48 @@ title: "Bullseye - Test All Channels, Then Focus on One"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/distribution, topic/channel-strategy, topic/marketing, topic/focus, person/gabriel-weinberg, person/justin-mares, source/traction]
-source:
-  type: "book"
-  name: "Traction"
-  author: "Gabriel Weinberg and Justin Mares"
-  url: ""
-  date_of_source: "2015"
+tags:
+  [
+    topic/distribution,
+    topic/channel-strategy,
+    topic/marketing,
+    topic/focus,
+    person/gabriel-weinberg,
+    person/justin-mares,
+    source/traction
+  ]
+sources:
+  - id: "SRC-0031"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: applies
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is
+      Destiny - The Sales Channel Power Law
+  - type: is-applied-by
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
+      - Ads Are an At-Bats Game
+  - type: is-applied-by
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where
+      the Fewest Go
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is
+      Destiny - The Sales Channel Power Law
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical
+      Path - Work Backward from a Traction Goal
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
+      50 Percent Rule - Build Product and Traction in Parallel
 ---
 
 # Bullseye - Test All Channels, Then Focus on One
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 Counter channel bias by considering every plausible route to customers, cheaply test the best few, then concentrate on the single channel that can move the current traction goal.
@@ -51,11 +79,15 @@ The Bullseye has three rings:
 Mint first listed the blogs its likely customers read, built relationships with those publishers, and used targeted placements and badges to secure a concentrated launch audience. Evernote repeatedly entered new platforms early, accepting several failed bets because a successful one—such as early Android support—could deliver hundreds of thousands of users before the platform became crowded.
 
 ## Relationships
-- **applies:** [[Distribution Is Destiny - The Sales Channel Power Law]]
-- **related:** [[The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
-- **related:** [[The Creative Volume Engine - Ads Are an At-Bats Game]]
-- **related:** [[The 50 Percent Rule - Build Product and Traction in Parallel]]
-- **related:** [[Critical Path - Work Backward from a Traction Goal]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law|Distribution Is Destiny - The Sales Channel Power Law]]
+- **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
+- **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where the Fewest Go|The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law|Distribution Is Destiny - The Sales Channel Power Law]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical Path - Work Backward from a Traction Goal|Critical Path - Work Backward from a Traction Goal]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The 50 Percent Rule - Build Product and Traction in Parallel|The 50 Percent Rule - Build Product and Traction in Parallel]]
 ## Source reference
-Gabriel Weinberg and Justin Mares, *Traction* (2015), “Bullseye,” “Traction Testing,” and “Appendix: Middle Ring Tests.” Raw transcript archived at [[2026-07-18_Book_GabrielWeinbergJustinMares_Traction_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_GabrielWeinbergJustinMares_Traction_RawTranscript|Traction]]

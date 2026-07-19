@@ -3,20 +3,41 @@ title: "Marketing as Service - Make Change for People You Seek to Serve"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/marketing, topic/value-creation, topic/trust, topic/brand, person/seth-godin, source/this-is-marketing]
-source:
-  type: "book"
-  name: "This Is Marketing"
-  author: "Seth Godin"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/marketing,
+    topic/value-creation,
+    topic/trust,
+    topic/brand,
+    person/seth-godin,
+    source/this-is-marketing
+  ]
+sources:
+  - id: "SRC-0039"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/Smallest Viable
+      Market - Specificity Before Scale
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/H2H Marketing -
+      Human-Centered Service, Trust, and Co-Creation
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand,
+      Communicate, and Deliver Customer Value
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before
+      Features - Sell the Identity Behind the Product
 ---
 
 # Marketing as Service - Make Change for People You Seek to Serve
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 Marketing is the patient work of creating a worthwhile change for a chosen group, then earning their trust by showing up with empathy and consistency.
@@ -53,10 +74,13 @@ Use a five-part service-marketing sequence:
 VisionSpring initially presented affordable eyeglasses as a shopping choice and struggled to convert villagers who had never bought glasses. When representatives let people try the glasses and made returning them the required action, loss aversion and direct experience changed the decision context; purchases roughly doubled without changing the product.
 
 ## Relationships
-- **related:** [[Smallest Viable Market - Specificity Before Scale]]
-- **related:** [[H2H Marketing - Human-Centered Service, Trust, and Co-Creation]]
-- **related:** [[UCD - Understand, Communicate, and Deliver Customer Value]]
-- **related:** [[Values Before Features - Sell the Identity Behind the Product]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/Smallest Viable Market - Specificity Before Scale|Smallest Viable Market - Specificity Before Scale]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/H2H Marketing - Human-Centered Service, Trust, and Co-Creation|H2H Marketing - Human-Centered Service, Trust, and Co-Creation]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand, Communicate, and Deliver Customer Value|UCD - Understand, Communicate, and Deliver Customer Value]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product|Values Before Features - Sell the Identity Behind the Product]]
 ## Source reference
-Seth Godin, *This Is Marketing: You Can't Be Seen Until You Learn to See* (2018), [[2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript|This Is Marketing]]

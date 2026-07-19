@@ -1,22 +1,47 @@
 ---
-title: "Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt"
+title: "Shapers and the Hero's Journey - The Founder Archetype Who Builds
+  Against Doubt"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/leadership, topic/mindset, topic/identity, topic/founder-brand, person/ray-dalio, source/bridgewater-associates]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/leadership,
+    topic/mindset,
+    topic/identity,
+    topic/founder-brand,
+    person/ray-dalio,
+    source/bridgewater-associates
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Part I"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
+      Open-Minded
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin
+      Story - Heroes Use Pain
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passionate
+      Visionary Scientist - A Three-Part Founder Mindset
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That
+      People Are Wired Very Differently
 ---
 
 # Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 "Shapers" — people who visualize unique, valuable things and build them out over the doubts of everyone around them — share a specific, recognizable set of traits (independent, stress-tested thinking; extreme resilience; the ability to hold both the big picture and granular detail at once), and mapping your own trajectory onto the classic Hero's Journey can clarify what your own final, unfinished task actually is.
@@ -44,10 +69,14 @@ Developed while Dalio was transitioning out of the CEO role at Bridgewater (2011
 - Dalio's own mapping: Call to Adventure (starting Bridgewater from his apartment, 1975), Road of Trials (the 1970s–80s build-up), Abyss (the 1982 depression-call collapse — see [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]), Ultimate Boon (Bridgewater's systematized success from the mid-1990s on), and Returning the Boon (writing *Principles* itself, and his philanthropic giving, explicitly framed as passing along what he'd learned before he dies).
 
 ## Relationships
-- **related:** [[The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]] (a different but complementary lens on unusual founders — Thiel's contradictory-traits framing vs. Dalio's trait-checklist framing)
-- **related:** [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
-- **related:** [[Hardship as Origin Story - Heroes Use Pain]]
-- **related:** [[Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain|Hardship as Origin Story - Heroes Use Pain]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox|The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passionate Visionary Scientist - A Three-Part Founder Mindset|The Passionate Visionary Scientist - A Three-Part Founder Mindset]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That People Are Wired Very Differently|Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
 ## Source reference
-Ray Dalio, *Principles*, Part I memoir, "Looking Back from a Higher Level" and surrounding chapters (c. 2011–2017). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Part I

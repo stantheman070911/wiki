@@ -3,20 +3,50 @@ title: "Community Quality Is the Offer - Qualification, Curation, and Network Ef
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/memberships, topic/retention, topic/continuity, topic/brand, topic/qualification, person/alex-hormozi]
-source:
-  type: "conversation"
-  name: "Alex Hormozi AMA 3"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/memberships,
+    topic/retention,
+    topic/continuity,
+    topic/brand,
+    topic/qualification,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0042"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
+  and Customers Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a
+      Culture Where Mistakes Are Okay But Not Learning From Them Isn't
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
+      Through Segmented Churn
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business
+      Redesign - Speed to Value and Experience Moats
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
+      of a Perfect Business
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
+      Alignment
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem
+      - Sell Consumable Inputs, Not the Black Box
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed
 ---
 
 # Community Quality Is the Offer - Qualification, Curation, and Network Effects
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/Business-Models-and-Customers/Business Models and Customers Map|Business Models and Customers]]
 
 ## One-line summary
 A durable community is defined as much by who is excluded as by what the host provides, because qualification turns membership itself into the product and eventually the acquisition engine.
@@ -53,11 +83,16 @@ The community quality cycle:
 Hormozi compares an unqualified community to a party where everyone is admitted: the gathering becomes strange because no boundary defines it. He notes that removing members paying $3,000 per month can still be rational when they damage the “garden” and reduce the value experienced by everyone else.
 
 ## Relationships
-- **related:** [[The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
-- **related:** [[ICP Qualification Through Segmented Churn]]
-- **related:** [[Billing-Cycle vs Value-Cycle Alignment]]
-- **applies:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
-- **related:** [[The Five Advantages of a Perfect Business]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business Redesign - Speed to Value and Experience Moats|The AI-Ready Business Redesign - Speed to Value and Experience Moats]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Five Advantages of a Perfect Business|The Five Advantages of a Perfect Business]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle Alignment|Billing-Cycle vs Value-Cycle Alignment]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box|The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed|Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven Demand]]
 ## Source reference
-Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

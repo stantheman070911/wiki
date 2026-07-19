@@ -3,20 +3,75 @@ title: "Special-Forces Teams and Flat Organizations"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/hiring, topic/org-design, topic/leadership, topic/culture, person/elon-musk]
-source:
-  type: "book"
-  name: "The Book of Elon: A Guide to Purpose and Success"
-  author: "Eric Jorgenson (Elon Musk)"
-  url: ""
-  date_of_source: "2026"
+tags:
+  [
+    topic/hiring,
+    topic/org-design,
+    topic/leadership,
+    topic/culture,
+    person/elon-musk
+  ]
+sources:
+  - id: "SRC-0004"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtual Firm -
+      Falling Transaction Costs and the Unbundling of Organizations
+  - type: applies
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
+      Discipline - Freedom, Responsibility, and Stop-Doing Lists
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Hybrid
+      Organizations and Dual Reporting
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/POWERS 與
+      HEARTED 尊重框架
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利
+  - type: has-example
+    target: 05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA,
+      and Risk as the Last Human Job
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Building a Content Team -
+      Hiring Funnel, Contractors, and Onboarding
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders -
+      Reverse-Engineer OTE, Profit Pools, and Phantom Equity
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules
+      - Codify, Transfer, and Train Behavior
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/The Mechanics of Mafia -
+      Cult-Like Culture and the Recruiting Pitch
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business
+      - The 50% Hire and Buying Back Time
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/備忘錄文化與 A 級人才招募 playbook
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone
+      Operating a Machine to Achieve a Goal
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Team Checklists -
+      Communication Before Coordination
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm -
+      Musk's Five-Step Process Method
 ---
 
 # Special-Forces Teams and Flat Organizations
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Build small teams of exceptional builders, retain only "special forces," give feedback over feelings, and strip away organizational boundaries so information and decisions move by the shortest path.
@@ -50,11 +105,26 @@ Musk's team and org philosophy is a sharper cut of "hire A-players": keep the gr
 - Musk's insistence on removing "chain of command" barriers to information flow.
 
 ## Relationships
-- **related:** [[備忘錄文化與 A 級人才招募 playbook]]
-- **applies:** [[招募、領導與地理紅利]]
-- **applies:** [[POWERS 與 HEARTED 尊重框架]]
-- **related:** [[Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
-- **related:** [[The Algorithm - Musk's Five-Step Process Method]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations|The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
+- **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger|Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Hybrid Organizations and Dual Reporting|Hybrid Organizations and Dual Reporting]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/POWERS 與 HEARTED 尊重框架|POWERS 與 HEARTED 尊重框架]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利|招募、領導與地理紅利]]
+- **Has example:** [[05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job|Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Building a Content Team - Hiring Funnel, Contractors, and Onboarding|Building a Content Team - Hiring Funnel, Contractors, and Onboarding]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity|Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior|Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing|Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch|The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time|You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/備忘錄文化與 A 級人才招募 playbook|備忘錄文化與 A 級人才招募 playbook]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone Operating a Machine to Achieve a Goal|Manage as Someone Operating a Machine to Achieve a Goal]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Team Checklists - Communication Before Coordination|Team Checklists - Communication Before Coordination]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm - Musk's Five-Step Process Method|The Algorithm - Musk's Five-Step Process Method]]
 ## Source reference
-Eric Jorgenson, *The Book of Elon* (2026), "Building Exceptional Teams" and "Designing the Organization." Extraction notes in [[2026-07-08_Book_EricJorgenson_TheBookOfElon]]; PDF archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_EricJorgenson_TheBookOfElon|The Book Of Elon]]

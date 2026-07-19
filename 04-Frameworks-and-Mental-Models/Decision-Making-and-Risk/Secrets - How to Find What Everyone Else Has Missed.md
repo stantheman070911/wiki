@@ -3,20 +3,57 @@ title: "Secrets - How to Find What Everyone Else Has Missed"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/secrets, topic/mental-models, topic/decision-making, topic/research, person/peter-thiel]
-source:
-  type: "book"
-  name: "Zero to One: Notes on Startups, or How to Build the Future"
-  author: "Peter Thiel with Blake Masters"
-  url: ""
-  date_of_source: "2014"
+tags:
+  [
+    topic/secrets,
+    topic/mental-models,
+    topic/decision-making,
+    topic/research,
+    person/peter-thiel
+  ]
+sources:
+  - id: "SRC-0014"
+    role: "primary"
+    locator: "ch. 8"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/Organic Startup Ideas
+      - Live in the Future and Notice What Is Missing
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Seven Questions
+      Every Business Must Answer
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition -
+      Why All Happy Companies Are Different
+  - type: is-applied-by
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where
+      the Fewest Go
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New
+      Ideas - Work at the Fractal Edge of Knowledge
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness
+      - Separate Truth from Identity and Conformism
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine
+      - Why Computers Complement Humans Instead of Replacing Them
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Contrarian
+      Question and Zero to One - Vertical vs. Horizontal Progress
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs.
+      Indefinite Optimism - Planning Your Way to the Future
 ---
 
 # Secrets - How to Find What Everyone Else Has Missed
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 Every valuable company is built on a secret — an important truth that's hard to find but not impossible — and most people have stopped looking, which is exactly why there's still room to find one.
@@ -50,10 +87,18 @@ there's a golden mean between telling nobody (you build nothing with anyone) and
 - Financial bubbles (1999 internet, 2005 housing — Greenspan's "no bubble in home prices nationwide") are what happens when a whole market stops believing prices could hold secrets, i.e., stops believing markets can be systematically wrong.
 
 ## Relationships
-- **related:** [[The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
-- **related:** [[Monopoly vs. Competition - Why All Happy Companies Are Different]]
-- **related:** [[The Seven Questions Every Business Must Answer]]
-- **related:** [[The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/Organic Startup Ideas - Live in the Future and Notice What Is Missing|Organic Startup Ideas - Live in the Future and Notice What Is Missing]]
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Seven Questions Every Business Must Answer|The Seven Questions Every Business Must Answer]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition - Why All Happy Companies Are Different|Monopoly vs. Competition - Why All Happy Companies Are Different]]
+- **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where the Fewest Go|The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New Ideas - Work at the Fractal Edge of Knowledge|Finding New Ideas - Work at the Fractal Edge of Knowledge]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness - Separate Truth from Identity and Conformism|Independent-Mindedness - Separate Truth from Identity and Conformism]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine - Why Computers Complement Humans Instead of Replacing Them|Man and Machine - Why Computers Complement Humans Instead of Replacing Them]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress|The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs. Indefinite Optimism - Planning Your Way to the Future|Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
 ## Source reference
-Peter Thiel with Blake Masters, *Zero to One*, ch. 8 ("Secrets"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 8

@@ -3,20 +3,40 @@ title: "Growth Is Not a Strategy - When Expansion Destroys Value"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/growth, topic/scaling, topic/m-and-a, topic/unit-economics, topic/strategy, person/richard-rumelt, source/good-strategy-bad-strategy]
-source:
-  type: "book"
-  name: "Good Strategy/Bad Strategy: The Difference and Why It Matters"
-  author: "Richard Rumelt"
-  url: ""
-  date_of_source: "2011"
+tags:
+  [
+    topic/growth,
+    topic/scaling,
+    topic/m-and-a,
+    topic/unit-economics,
+    topic/strategy,
+    person/richard-rumelt,
+    source/good-strategy-bad-strategy
+  ]
+sources:
+  - id: "SRC-0038"
+    role: "primary"
+    locator: "Ch. 11"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Competitive
+      Advantage - Why Owning One Isn't Enough
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Focus
+      - Winning a Segment by Coordinating Policy Around It
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
+      Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action
 ---
 
 # Growth Is Not a Strategy - When Expansion Destroys Value
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Growth is the *outcome* of a successful strategy, not a strategy in itself — chasing growth directly, especially through acquisition or entry into a "growing" commodity market, routinely destroys shareholder value even as revenue and market-share headlines improve.
@@ -50,9 +70,12 @@ Before treating any "growth strategy" as legitimate, test it against three quest
 - **Contrast — Crown under John Connelly (pre-1989)**: revenue grew only 3.1%/year over the prior decade, yet produced an 18.5%/year shareholder return (vs. 8.6% for the S&P 500) — proof that healthy, advantage-driven growth requires far less top-line expansion than engineered growth-by-acquisition to produce superior returns.
 
 ## Relationships
-- **related:** [[Focus - Winning a Segment by Coordinating Policy Around It]]
-- **related:** [[The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
-- **related:** [[Competitive Advantage - Why Owning One Isn't Enough]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Competitive Advantage - Why Owning One Isn't Enough|Competitive Advantage - Why Owning One Isn't Enough]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Focus - Winning a Segment by Coordinating Policy Around It|Focus - Winning a Segment by Coordinating Policy Around It]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
 ## Source reference
-Richard Rumelt, *Good Strategy/Bad Strategy: The Difference and Why It Matters* (2011), Ch. 11 ("Growth"). Raw text archived in [[2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 11

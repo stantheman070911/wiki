@@ -3,20 +3,59 @@ title: "Hacking Attention - Topic, Format, Hook and the Content Engine"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/content-strategy, topic/hooks, topic/short-form-video, topic/creative-volume, topic/research, person/tuan-le, person/steven-bartlett]
-source:
-  type: "video"
-  name: "How to Go Insanely Viral (Almost) Every Time by Hacking Attention"
-  author: "Tuan Le"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/content-strategy,
+    topic/hooks,
+    topic/short-form-video,
+    topic/creative-volume,
+    topic/research,
+    person/tuan-le,
+    person/steven-bartlett
+  ]
+sources:
+  - id: "SRC-0081"
+    role: "primary"
+  - id: "SRC-0017"
+    role: "supporting"
+    locator: "Laws 11, 12"
 date_added: "2026-07-10"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+  Creation and Distribution Map
+relationships:
+  - type: applies
+    target: 02-Social-Media-Strategy/對標方法論與靈感池系統
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a
+      Brand Signal
+  - type: has-derivative
+    target: 07-Articles/Steal the Format, Not the Idea
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down
+      and the 70-20-10 Rule - Templatizing Viral Outliers
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hyperdopamine
+      Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
+      Proof, Path - Engineering the Video Intro
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film
+      Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content
+      Repository - Four Topic Buckets and Tweet-First Capture
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Seven
+      Factors of a Short - Topic to Editing
 ---
 
 # Hacking Attention - Topic, Format, Hook and the Content Engine
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution]]
 
 ## One-line summary
 You don't win short-form by making "good content" — you win a millisecond resource-allocation battle for attention, and the reliable way to win it is to copy a proven format, wrap a curiosity hook around it, and run it as a repeatable engine rather than a weekly blank page.
@@ -60,15 +99,19 @@ remove introductions, logos, establishing shots, and pleasantries from the openi
 - The "Bold" content engine: no weekly blank page — a defined format-finding process, a scroll-stopping hook list, weekly reviews, and a reliable cadence produced ~900M views over 12 months.
 
 ## Relationships
-- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
-- **related:** [[The Seven Factors of a Short - Topic to Editing]]
-- **related:** [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
-- **applies:** [[對標方法論與靈感池系統]]
-- **related:** [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
-- **related:** [[Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing]]
-- **applies:** [[Absurdity as a Brand Signal]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[02-Social-Media-Strategy/對標方法論與靈感池系統|對標方法論與靈感池系統]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a Brand Signal|Absurdity as a Brand Signal]]
+- **Has derivative:** [[07-Articles/Steal the Format, Not the Idea|Steal the Format, Not the Idea]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers|Double-Down and the 70/20/10 Rule - Templatizing Viral Outliers]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hyperdopamine Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy|Hyperdopamine Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing|Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content Repository - Four Topic Buckets and Tweet-First Capture|The Content Repository - Four Topic Buckets and Tweet-First Capture]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Seven Factors of a Short - Topic to Editing|The Seven Factors of a Short - Topic to Editing]]
 ## Source reference
-Tuan Le, *How to Go Insanely Viral (Almost) Every Time by Hacking Attention* (video). Extraction notes and raw transcript archived at [[2026-07-10_Video_TuanLe_HowToGoViralByHackingAttention]].
 
-Additional source: Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Laws 11, 12, and 18. [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-10_Video_TuanLe_HowToGoViralByHackingAttention|How to Go Insanely Viral (Almost) Every Time by Hacking Attention]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Laws 11, 12

@@ -1,12 +1,17 @@
 ---
+source_id: "SRC-0015"
 title: "Principles"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Ray Dalio"
+    role: "author"
 source_type: "book"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Ray Dalio"
+published_on: "2017"
 date_archived: "2026-07-13"
 status: "source"
 ---

@@ -3,20 +3,57 @@ title: "Give Them What They Want to Get Them What They Need - The Defined-End Of
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/offers, topic/front-end-offer, topic/continuity, topic/sales, topic/upsell, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/offers,
+    topic/front-end-offer,
+    topic/continuity,
+    topic/sales,
+    topic/upsell,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
+  - id: "SRC-0074"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
+      Clever - Write Below Third Grade and Meet the Avatar
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
+      Sell the Goal, Scope the Journey, Secure Prepayment
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/Survive vs Thrive
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
+      Unscalable Premium Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem
+      - Sell Consumable Inputs, Not the Black Box
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A
+      Seven-Part Framework for an Irresistible Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
+      Traffic Before the Core Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
+      Slam Offer
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground -
+      Problem, Process, and Prize Experiences
 ---
 
 # Give Them What They Want to Get Them What They Need - The Defined-End Offer
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 People buy a defined, time-bound result — a challenge, a program, a fix — not an open-ended relationship, so lead with a concrete finish-line offer (the "ham"), then use the time you've bought to sell them the ongoing solution they actually need (the "garlic").
@@ -59,11 +96,19 @@ A cocktail-consulting business (Ben) had been trying to sell a single cold $30k 
 - Guarantees must be honest and bounded to a realistic outcome.
 
 ## Relationships
-- **related:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- **related:** [[The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
-- **related:** [[Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value]]
-- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
-- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Survive vs Thrive|Survive vs Thrive - Intent, Interruption, and Turning Emergencies Into Lifetime Value]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box|The Education Continuity Problem - Sell Consumable Inputs, Not the Black Box]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Godfather Offer - A Seven-Part Framework for an Irresistible Offer|The Godfather Offer - A Seven-Part Framework for an Irresistible Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold Traffic Before the Core Offer|The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground - Problem, Process, and Prize Experiences|The Marketing Playground - Problem, Process, and Prize Experiences]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside. Expanded 2026-07-09 with material from the Cash Cow Business Breakdowns compilation; see [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]

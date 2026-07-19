@@ -3,20 +3,51 @@ title: "Independent-Mindedness - Separate Truth from Identity and Conformism"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/decision-making, topic/identity, topic/courage, topic/research, topic/mental-models, person/paul-graham, source/paul-graham-essays]
-source:
-  type: "essay collection"
-  name: "Paul Graham - Collected Essays"
-  author: "Paul Graham"
-  url: "https://paulgraham.com/articles.html"
-  date_of_source: "2004-2022"
+tags:
+  [
+    topic/decision-making,
+    topic/identity,
+    topic/courage,
+    topic/research,
+    topic/mental-models,
+    person/paul-graham,
+    source/paul-graham-essays
+  ]
+sources:
+  - id: "SRC-0046"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Disagreement Needs a Finish Line
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
+      Open-Minded
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New
+      Ideas - Work at the Fractal Edge of Knowledge
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How
+      to Find What Everyone Else Has Missed
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Contrarian
+      Question and Zero to One - Vertical vs. Horizontal Progress
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative
+      Receptivity - Awareness, Attention, and the Artist's Filter
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Success -
+      Judge the Work Before the Outcome
 ---
 
 # Independent-Mindedness - Separate Truth from Identity and Conformism
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 Independent thought becomes easier when identities stay small, beliefs remain revisable, and social pressure is analyzed separately from evidence.
@@ -46,9 +77,16 @@ For a charged belief, write four columns: **claim, evidence, identity/group payo
 The disagreement hierarchy moves from name-calling and ad hominem attacks toward counterargument and direct refutation of the central point. Moving upward makes both truth-seeking and civil conversation more likely.
 
 ## Relationships
-- **related:** [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
-- **related:** [[The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
-- **related:** [[Secrets - How to Find What Everyone Else Has Missed]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Disagreement Needs a Finish Line|Disagreement Needs a Finish Line]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New Ideas - Work at the Fractal Edge of Knowledge|Finding New Ideas - Work at the Fractal Edge of Knowledge]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How to Find What Everyone Else Has Missed|Secrets - How to Find What Everyone Else Has Missed]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress|The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Receptivity - Awareness, Attention, and the Artist's Filter|Creative Receptivity - Awareness, Attention, and the Artist's Filter]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Success - Judge the Work Before the Outcome|Creative Success - Judge the Work Before the Outcome]]
 ## Source reference
-Paul Graham, “How to Think for Yourself,” “Keep Your Identity Small,” “The Four Quadrants of Conformism,” “What You Can't Say,” “Heresy,” and “How to Disagree,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

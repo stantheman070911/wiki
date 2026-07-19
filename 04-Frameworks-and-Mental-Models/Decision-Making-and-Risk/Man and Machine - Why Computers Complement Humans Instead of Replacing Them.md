@@ -3,20 +3,48 @@ title: "Man and Machine - Why Computers Complement Humans Instead of Replacing T
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/ai, topic/automation, topic/mental-models, topic/decision-making, person/peter-thiel]
-source:
-  type: "book"
-  name: "Zero to One: Notes on Startups, or How to Build the Future"
-  author: "Peter Thiel with Blake Masters"
-  url: ""
-  date_of_source: "2014"
+tags:
+  [
+    topic/ai,
+    topic/automation,
+    topic/mental-models,
+    topic/decision-making,
+    person/peter-thiel
+  ]
+sources:
+  - id: "SRC-0014"
+    role: "primary"
+    locator: "ch. 12"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: has-example
+    target: 05-Intelligence-and-Research/Technology Platforms - How New Protocols
+      and Tools Shift Power
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations -
+      Co-founders, Ownership, Possession, Control, and Vesting
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to
+      Make Decisions Effectively - Expected Value, Levels, and Algorithms
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How
+      to Find What Everyone Else Has Missed
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Technology as
+      an Accelerator, Not a Strategy
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law
+      of Venture Capital and Careers
 ---
 
 # Man and Machine - Why Computers Complement Humans Instead of Replacing Them
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 Both the Luddite fear and the futurist hope assume computers will substitute for human workers the way cheaper foreign labor does — but people compete with people for the same jobs and resources, while computers are categorically different from people, which makes them complements, not rivals, and the most valuable businesses are built on that complementarity, not on replacement.
@@ -51,10 +79,15 @@ Thiel treats "computers eclipse humans on every dimension" as a real but distant
 - Palantir's software has reportedly supported predicting insurgent IED placement in Afghanistan, prosecuting insider-trading cases, dismantling a major child-pornography ring, and CDC foodborne-illness outbreak response — all cases requiring the software-plus-analyst combination, not software alone.
 
 ## Relationships
-- **related:** [[Secrets - How to Find What Everyone Else Has Missed]]
-- **related:** [[The Power Law of Venture Capital and Careers]]
-- **related:** [[Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
-- **related:** [[Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms]] (Dalio's expert-systems-vs-mimicking-vs-data-mining framework is a useful companion angle on human+machine decision-making)
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has example:** [[05-Intelligence-and-Research/Technology Platforms - How New Protocols and Tools Shift Power|Technology Platforms - How New Protocols and Tools Shift Power]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting|Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms|Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How to Find What Everyone Else Has Missed|Secrets - How to Find What Everyone Else Has Missed]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Technology as an Accelerator, Not a Strategy|Technology as an Accelerator, Not a Strategy]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law of Venture Capital and Careers|The Power Law of Venture Capital and Careers]]
 ## Source reference
-Peter Thiel with Blake Masters, *Zero to One*, ch. 12 ("Man and Machine"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 12

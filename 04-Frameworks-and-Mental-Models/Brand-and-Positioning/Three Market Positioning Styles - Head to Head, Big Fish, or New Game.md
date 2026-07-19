@@ -3,20 +3,48 @@ title: "Three Market Positioning Styles - Head to Head, Big Fish, or New Game"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/positioning, topic/differentiation, topic/strategy, topic/marketing, person/april-dunford, source/obviously-awesome]
-source:
-  type: "book"
-  name: "Obviously Awesome"
-  author: "April Dunford"
-  url: ""
-  date_of_source: "2019"
+tags:
+  [
+    topic/positioning,
+    topic/differentiation,
+    topic/strategy,
+    topic/marketing,
+    person/april-dunford,
+    source/obviously-awesome
+  ]
+sources:
+  - id: "SRC-0023"
+    role: "primary"
+    locator: "Chapter 10"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/Smallest Viable
+      Market - Specificity Before Scale
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
+      Hole in the Mind (Cherchez le Creneau)
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition -
+      Why All Happy Companies Are Different
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning a Company -
+      Stand for a Specific Achievement, Not Diversification
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the
+      Prospect Already Gives You - Research-Based Positioning
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning
+      Sequence - Alternatives, Attributes, Value, Customers, and Market
 ---
 
 # Three Market Positioning Styles - Head to Head, Big Fish, or New Game
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 Choose a market strategy that matches reality: win an understood category, dominate an underserved subsegment, or create a new category only when existing frames cannot express the value.
@@ -53,10 +81,15 @@ The default for a small challenger is usually Big Fish, Small Pond; category cre
 Eloqua initially focused on the unusual “demand generation” practitioners who valued behavioral tracking and process automation. As those once-fringe behaviors became mainstream, the company broadened the frame to “marketing automation,” helped define the category, and grew to a public company later acquired by Oracle.
 
 ## Relationships
-- **related:** [[Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market]]
-- **related:** [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
-- **related:** [[Monopoly vs. Competition - Why All Happy Companies Are Different]]
-- **related:** [[Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/Smallest Viable Market - Specificity Before Scale|Smallest Viable Market - Specificity Before Scale]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)|Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition - Why All Happy Companies Are Different|Monopoly vs. Competition - Why All Happy Companies Are Different]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Positioning a Company - Stand for a Specific Achievement, Not Diversification|Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the Prospect Already Gives You - Research-Based Positioning|Own What the Prospect Already Gives You - Research-Based Positioning]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market|Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market]]
 ## Source reference
-April Dunford, *Obviously Awesome* (2019), Chapter 10. Raw transcript archived in [[2026-07-18_Book_AprilDunford_ObviouslyAwesome_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AprilDunford_ObviouslyAwesome_RawTranscript|Obviously Awesome]] — locator: Chapter 10

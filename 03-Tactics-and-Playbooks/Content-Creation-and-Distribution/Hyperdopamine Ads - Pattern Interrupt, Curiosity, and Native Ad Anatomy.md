@@ -3,20 +3,34 @@ title: "Hyperdopamine Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/paid-ads, topic/hooks, topic/content-formats, person/sabri-suby]
-source:
-  type: "video"
-  name: "Customer Acquisition, Offers, and Ads Playbook (compilation)"
-  author: "Sabri Suby"
-  url: ""
-  date_of_source: ""
+tags: [ topic/paid-ads, topic/hooks, topic/content-formats, person/sabri-suby ]
+sources:
+  - id: "SRC-0078"
+    role: "primary"
 date_added: "2026-07-10"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+  Creation and Distribution Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
+      - Ads Are an At-Bats Game
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Direct-Response
+      Copywriting
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking
+      Attention - Topic, Format, Hook and the Content Engine
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
+      Proof, Path - Engineering the Video Intro
 ---
 
 # Hyperdopamine Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution]]
 
 ## One-line summary
 An ad wins the newsfeed by looking like the content people already choose to consume — tabloid/breaking-news style — while combining a pattern-interrupt image, burning intrigue, and a targeted specific benefit into what Suby calls a "hyperdopamine ad."
@@ -69,10 +83,13 @@ sits at the intersection of two axes — pure clickbait (high intrigue, no real 
 - A billion-dollar teeth-whitening advertiser (HiSmile) running "She was skeptical. Wait until you see her results" — gossip-magazine phrasing from a large, sophisticated advertiser, offered as evidence the format isn't just a small-business hack.
 
 ## Relationships
-- **related:** [[Direct-Response Copywriting - NEWIF, the Nine Questions, and Three Conversion-Killing Mistakes]]
-- **related:** [[Hacking Attention - Topic, Format, Hook and the Content Engine]]
-- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
-- **applies:** [[The Creative Volume Engine - Ads Are an At-Bats Game]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Direct-Response Copywriting|Direct-Response Copywriting - NEWIF, the Nine Questions, and Three Conversion-Killing Mistakes]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking Attention - Topic, Format, Hook and the Content Engine|Hacking Attention - Topic, Format, Hook and the Content Engine]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]
 ## Source reference
-Sabri Suby, Facebook-ads training video (part of a four-video compilation). Raw transcript and extraction notes archived at [[2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook|Customer Acquisition, Offers, And Ads Playbook]]

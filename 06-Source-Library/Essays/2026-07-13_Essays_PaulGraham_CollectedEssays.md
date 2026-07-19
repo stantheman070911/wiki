@@ -1,14 +1,19 @@
 ---
+source_id: "SRC-0046"
 title: "Paul Graham - Collected Essays"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Paul Graham"
+    role: "author"
 source_type: "essays"
 source_format: "raw-collection"
-processing_status: "processed"
+source_lang: "en"
+note_lang: "en"
 large_source: true
 split_decision: "retained-single-file"
-author: "Paul Graham"
+processing_status: "processed"
+url: "https://paulgraham.com/articles.html"
 date_archived: "2026-07-13"
 status: "source"
 ---

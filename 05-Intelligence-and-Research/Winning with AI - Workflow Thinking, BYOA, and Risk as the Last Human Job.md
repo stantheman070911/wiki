@@ -3,20 +3,48 @@ title: "Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Jo
 type: "research"
 domain: "intelligence-and-research"
 lang: "en"
-tags: [topic/ai, topic/automation, topic/risk, topic/barbell-strategy, person/alex-hormozi]
-source:
-  type: "video"
-  name: "How to Win With AI in 2026 (playlist: How to Make Your First $100,000)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/ai,
+    topic/automation,
+    topic/risk,
+    topic/barbell-strategy,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0054"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 05-Intelligence-and-Research/Intelligence and Research Index
+relationships:
+  - type: example
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
+      Organizations
+  - type: example
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
+      Business - Train Like an Employee and the Department Playbook
+  - type: example
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
+      and Asymmetric Bets
+  - type: example
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the
+      Problem You Have, Not the One You're Afraid Of
+  - type: related
+    target: 05-Intelligence-and-Research/AI、資料與內容的賭注理論
+  - type: related
+    target: 05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era
+      Moat
+  - type: related
+    target: 05-Intelligence-and-Research/The Risk Continuum - Building an
+      AI-Resistant Personal Brand
 ---
 
 # Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job
+
+> **Up:** [[Home|Home]] → [[05-Intelligence-and-Research/Intelligence and Research Index|Intelligence and Research]]
 
 ## One-line summary
 AI is the worst it will ever be, so learning it is priorities one through ten — and the winners will stop thinking in roles and start thinking in workflows, deliver whole departments as trained agents, and understand that risk is the last thing a human gets paid for.
@@ -56,11 +84,16 @@ Hormozi frames AI as the biggest coming shift for Main Street, not just tech, an
 - Fed data cited in-video: near-zero net private-sector job creation — attributed partly to automation.
 
 ## Relationships
-- **example:** [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
-- **related:** [[The Attention Barbell - Brand as the AI-Era Moat]]
-- **related:** [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
-- **related:** [[AI、資料與內容的賭注理論]]
-- **example:** [[Fear, Regret, and Asymmetric Bets]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Example:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
+- **Example:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your Business - Train Like an Employee and the Department Playbook|Using AI in Your Business - Train Like an Employee and the Department Playbook]]
+- **Example:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
+- **Example:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the Problem You Have, Not the One You're Afraid Of|Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
+- **Related:** [[05-Intelligence-and-Research/AI、資料與內容的賭注理論|AI、資料與內容的賭注理論]]
+- **Related:** [[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat|The Attention Barbell - Brand as the AI-Era Moat]]
+- **Related:** [[05-Intelligence-and-Research/The Risk Continuum - Building an AI-Resistant Personal Brand|The Risk Continuum: Building an AI-Resistant Personal Brand]]
 ## Source reference
-Alex Hormozi, *How to Win With AI in 2026* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Podcasts/2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000|How to Make Your First $100,000]]

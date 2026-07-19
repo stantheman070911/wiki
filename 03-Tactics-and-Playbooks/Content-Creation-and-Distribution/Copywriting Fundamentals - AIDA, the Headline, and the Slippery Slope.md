@@ -3,20 +3,54 @@ title: "Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/copywriting, topic/hooks, topic/persuasion, topic/advertising, person/sam-parr]
-source:
-  type: "podcast"
-  name: "The $2 Billion Copywriting Secret Behind The Most Successful Ad Ever (Sweat Equity)"
-  author: "Sam Parr"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/copywriting,
+    topic/hooks,
+    topic/persuasion,
+    topic/advertising,
+    person/sam-parr
+  ]
+sources:
+  - id: "SRC-0058"
+    role: "primary"
 date_added: "2026-07-10"
 updated: "2026-07-10"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+  Creation and Distribution Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation
+      and Commitment - Persuasion's Two Deepest Levers
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of
+      Influence - Click-Whirr, Trigger Features, and the Contrast Principle
+  - type: has-derivative
+    target: 07-Articles/Steal the Format, Not the Idea
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
+      Clever - Write Below Third Grade and Meet the Avatar
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
+      Proof, Path - Engineering the Video Intro
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
+      - Heros Journey, the Trojan Horse, and Handling Objections
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a
+      Discovery Tool - Useful, Simple, and Rewritten
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音文案全公式：標題、開頭、結尾與腳本結構
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand
+      Conversion Path - Problem, Plan, and Calls to Action
 ---
 
 # Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution]]
 
 ## One-line summary
 Copywriting is getting what's in your head into someone else's and influencing their behavior — and it runs on a few durable mechanics: AIDA, a headline that does 80% of the work, a curiosity gap that can't be left unresolved, and a "slippery slope" where each sentence's only job is to get the next one read.
@@ -54,12 +88,18 @@ For anyone writing ads, hooks, scripts, or sales pages who wants the load-bearin
 - The Hustle's "My friends think I'm smart. I'm not." ad — ~$10M spent, singularly responsible for the exit.
 
 ## Relationships
-- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
-- **related:** [[Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections]]
-- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
-- **related:** [[短影音文案全公式：標題、開頭、結尾與腳本結構]]
-- **applies:** [[Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
-- **applies:** [[Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation and Commitment - Persuasion's Two Deepest Levers|Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle|Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
+- **Has derivative:** [[07-Articles/Steal the Format, Not the Idea|Steal the Format, Not the Idea]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections|Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a Discovery Tool - Useful, Simple, and Rewritten|Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音文案全公式：標題、開頭、結尾與腳本結構|短影音文案全公式：標題、開頭、結尾與腳本結構]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand Conversion Path - Problem, Plan, and Calls to Action|The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
 ## Source reference
-Sam Parr, *The $2 Billion Copywriting Secret Behind The Most Successful Ad Ever* (Sweat Equity podcast). Raw transcript archived at [[2026-07-10_Podcast_SamParr_The2BillionCopywritingSecret]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Podcasts/2026-07-10_Podcast_SamParr_The2BillionCopywritingSecret|The $2 Billion Copywriting Secret Behind The Most Successful Ad Ever — w/ Sam Parr (Sweat Equity)]]

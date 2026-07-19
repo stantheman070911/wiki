@@ -3,20 +3,44 @@ title: "Checklist Design - Pause Points, Killer Items, and Field Testing"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/operations, topic/systems, topic/execution, person/atul-gawande, source/checklist-manifesto]
-source:
-  type: "book"
-  name: "The Checklist Manifesto"
-  author: "Atul Gawande"
-  url: ""
-  date_of_source: "2009"
+tags:
+  [
+    topic/operations,
+    topic/systems,
+    topic/execution,
+    person/atul-gawande,
+    source/checklist-manifesto
+  ]
+sources:
+  - id: "SRC-0024"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity
+      Needs Standards and Distributed Judgment
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
+      - SOPs, Checklists, and Systematizing the Vital 20%
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Team Checklists -
+      Communication Before Coordination
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and
+      Protocols to Shape How Work Is Done
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Bowling Alley
+      Framework - Straight-Line Onboarding and Two Bumpers
 ---
 
 # Checklist Design - Pause Points, Killer Items, and Field Testing
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 A reliable checklist is a short, field-tested cognitive aid placed at a clear pause point, containing only the critical steps that capable people are most likely to miss under pressure.
@@ -57,10 +81,14 @@ Experts rarely fail because they know nothing; they fail when complexity, interr
 The Boeing Model 299 prototype was judged "too much airplane" after an experienced pilot crashed because the elevator and rudder controls remained locked. A short preflight checklist enabled ordinary crews to fly the aircraft safely for 1.8 million miles. In the WHO surgical checklist trials, early drafts were too long and vague; successive one-case tests cut non-killer items, clarified verbal checks, and fixed three pause points before anesthesia, before incision, and before leaving the operating room.
 
 ## Relationships
-- **related:** [[Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
-- **related:** [[Team Checklists - Communication Before Coordination]]
-- **related:** [[Complexity Needs Standards and Distributed Judgment]]
-- **related:** [[Use Tools and Protocols to Shape How Work Is Done]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity Needs Standards and Distributed Judgment|Complexity Needs Standards and Distributed Judgment]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%|Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Team Checklists - Communication Before Coordination|Team Checklists - Communication Before Coordination]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and Protocols to Shape How Work Is Done|Use Tools and Protocols to Shape How Work Is Done]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers|The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers]]
 ## Source reference
-Atul Gawande, *The Checklist Manifesto: How to Get Things Right* (2009). [[2026-07-18_Book_AtulGawande_TheChecklistManifesto_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AtulGawande_TheChecklistManifesto_RawTranscript|The Checklist Manifesto - Raw Transcript]]

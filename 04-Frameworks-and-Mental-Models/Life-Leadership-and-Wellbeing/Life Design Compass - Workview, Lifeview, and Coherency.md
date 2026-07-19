@@ -3,20 +3,61 @@ title: "Life Design Compass - Workview, Lifeview, and Coherency"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/career, topic/identity, topic/mission, topic/decision-making, person/bill-burnett, person/dave-evans, source/designing-your-life]
-source:
-  type: "book"
-  name: "Designing Your Life"
-  author: "Bill Burnett and Dave Evans"
-  url: ""
-  date_of_source: "2016"
+tags:
+  [
+    topic/career,
+    topic/identity,
+    topic/mission,
+    topic/decision-making,
+    person/bill-burnett,
+    person/dave-evans,
+    source/designing-your-life
+  ]
+sources:
+  - id: "SRC-0025"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You
+      Pivot - Life Design Interviews and Experiences
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well -
+      Narrow, Decide, Let Go, and Move On
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions
+      - Formation Beyond Problem Solving
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reframe Gravity
+      Problems into Actionable Problems
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey
+      Plans - Parallel Futures Before Commitment
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Formative
+      Communities - Become Better Together
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Meaning in
+      Life Is Designed in Particular Moments
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Maker
+      Mix - Money, Impact, and Expression
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Wayfinding
+      with Energy and Engagement
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
+      Proficiency, Pain Tolerance, and Frustration Tolerance
 ---
 
 # Life Design Compass - Workview, Lifeview, and Coherency
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 A useful life compass comes from making explicit what work means, what life means, and whether your actions align those beliefs with who you are.
@@ -51,10 +92,19 @@ Treat the result as True North: a direction used to interpret choices, not a rig
 Janine's legal career looked successful from the outside but conflicted with the voice she recovered through journaling and poetry. Reconnecting her daily work with her Lifeview led her toward an MFA and a more coherent, if less conventional, path.
 
 ## Relationships
-- **related:** [[Wayfinding with Energy and Engagement]]
-- **related:** [[Three Odyssey Plans - Parallel Futures Before Commitment]]
-- **related:** [[Prototype Before You Pivot - Life Design Interviews and Experiences]]
-- **related:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You Pivot - Life Design Interviews and Experiences|Prototype Before You Pivot - Life Design Interviews and Experiences]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well - Narrow, Decide, Let Go, and Move On|Choosing Well - Narrow, Decide, Let Go, and Move On]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions - Formation Beyond Problem Solving|Focus Questions - Formation Beyond Problem Solving]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reframe Gravity Problems into Actionable Problems|Reframe Gravity Problems into Actionable Problems]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey Plans - Parallel Futures Before Commitment|Three Odyssey Plans - Parallel Futures Before Commitment]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Formative Communities - Become Better Together|Formative Communities - Become Better Together]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Meaning in Life Is Designed in Particular Moments|Meaning in Life Is Designed in Particular Moments]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Maker Mix - Money, Impact, and Expression|The Maker Mix - Money, Impact, and Expression]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Wayfinding with Energy and Engagement|Wayfinding with Energy and Engagement]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## Source reference
-Bill Burnett and Dave Evans, *Designing Your Life: How to Build a Well-Lived, Joyful Life* (2016). [[2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript|Designing Your Life - Raw Transcript]]

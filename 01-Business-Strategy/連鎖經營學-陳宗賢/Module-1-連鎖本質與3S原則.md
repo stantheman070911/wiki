@@ -6,20 +6,40 @@ type: "series-entry"
 domain: "business-strategy"
 series: "連鎖經營學"
 lang: "zh"
-tags: [topic/chain-store, topic/franchise, topic/operations, topic/simplification, topic/positioning, person/chen-tsung-hsien]
-source:
-  type: "presentation"
-  name: "陳宗賢的連鎖經營學（1-1〜1-4）"
-  author: "陳宗賢"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/chain-store,
+    topic/franchise,
+    topic/operations,
+    topic/simplification,
+    topic/positioning,
+    person/chen-tsung-hsien
+  ]
+sources:
+  - id: "SRC-0044"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
+relationships:
+  - type: derives-from
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽
+  - type: has-derivative
+    target: 07-Articles/Two Ways a Founder Can Disappear
+  - type: is-prerequisite-for
+    target: 01-Business-Strategy/連鎖經營學-陳宗賢/Module-2-連鎖類型與內創委任經營
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/零售策略與通路飛輪
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills
+      診斷、1-1-1 與萬能前門
 ---
 
 # 連鎖經營學 · Module 1：連鎖本質與 3S 原則
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
 
 > 系列導覽：[[連鎖經營學總覽|總覽與方法論]]　｜　下一模組：[[Module-2-連鎖類型與內創委任經營|Module 2：連鎖類型與內創委任經營]]
 
@@ -73,11 +93,13 @@ status: "reviewed"
 
 ## 關係
 
-- **related:** [[連鎖經營學總覽|總覽與方法論]]
-- **related:** [[Module-2-連鎖類型與內創委任經營|Module 2：連鎖類型與內創委任經營]]
-- **related:** [[零售策略與通路飛輪]]
-- **related:** [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **衍生自:** [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
+- **具有衍生成果:** [[07-Articles/Two Ways a Founder Can Disappear|Two Ways a Founder Can Disappear]]
+- **是其前置概念:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-2-連鎖類型與內創委任經營|連鎖經營學 · Module 2：連鎖類型與內部創業／委任經營]]
+- **相關:** [[01-Business-Strategy/Business-Models-and-Customers/零售策略與通路飛輪|零售策略與通路飛輪]]
+- **相關:** [[01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門|少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
 ## 來源
 
-陳宗賢，《連鎖經營學》課程。39 份投影片文字擷取與 10 份 Excel 管理表單詳見 [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|連鎖經營學來源清單]]

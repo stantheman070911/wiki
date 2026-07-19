@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0045"
 title: "IP變現系統流程圖整理"
 type: "source"
 domain: "source-library"
-lang: "zh"
+creators:
+  - name: "Unknown"
+    role: "unknown"
 source_type: "diagram"
 source_format: "source-note"
+source_lang: "zh"
+note_lang: "zh"
 processing_status: "processed"
-author: ""
 date_archived: "2026-07-02"
 status: "source"
 ---

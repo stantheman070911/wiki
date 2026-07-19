@@ -1,22 +1,47 @@
 ---
-title: "The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion"
+title: "The Four-Phase Creative Process - Seeds, Experimentation, Crafting,
+  Completion"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/creativity, topic/execution, topic/systems, topic/innovation, person/rick-rubin]
-source:
-  type: "book"
-  name: "The Creative Act - A Way of Being"
-  author: "Rick Rubin with Neil Strauss"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/creativity,
+    topic/execution,
+    topic/systems,
+    topic/innovation,
+    person/rick-rubin
+  ]
+sources:
+  - id: "SRC-0016"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative
+      Experiments - Opposites, Constraints, A-B Tests, and Context
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a
+      Discovery Tool - Useful, Simple, and Rewritten
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Finish and
+      Release - Abundance Beats Perfectionism
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for
+      Makers - Constraints for Designing Good Things
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative
+      Receptivity - Awareness, Attention, and the Artist's Filter
 ---
 
 # The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Strong creative work moves through four different operating modes—collect without judging, explore without pruning, build with discipline, then refine and release—and each mode fails when governed by the rules of another.
@@ -52,10 +77,14 @@ At every transition, explicitly name the current phase. Then use its matching cr
 Chinese alchemists seeking immortality produced gunpowder; penicillin and Post-it notes likewise emerged as unplanned results. The reusable lesson is not that accidents guarantee breakthroughs, but that an experiment must be observed for what it produced rather than judged only against its original intention.
 
 ## Relationships
-- **related:** [[Creative Receptivity - Awareness, Attention, and the Artist's Filter]]
-- **related:** [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
-- **related:** [[Finish and Release - Abundance Beats Perfectionism]]
-- **related:** [[Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a Discovery Tool - Useful, Simple, and Rewritten|Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Finish and Release - Abundance Beats Perfectionism|Finish and Release - Abundance Beats Perfectionism]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for Makers - Constraints for Designing Good Things|Taste for Makers - Constraints for Designing Good Things]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Receptivity - Awareness, Attention, and the Artist's Filter|Creative Receptivity - Awareness, Attention, and the Artist's Filter]]
 ## Source reference
-Rick Rubin with Neil Strauss, *The Creative Act: A Way of Being* (2023). Raw transcript archived at [[2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript|The Creative Act - Raw Transcript]]

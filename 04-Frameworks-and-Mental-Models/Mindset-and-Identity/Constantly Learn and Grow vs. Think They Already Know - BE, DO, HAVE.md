@@ -3,20 +3,30 @@ title: "Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/learning, topic/mindset, topic/identity, person/t-harv-eker]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags: [ topic/learning, topic/mindset, topic/identity, person/t-harv-eker ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and
+      the Education-ROI Playbook
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich
+      People Model Winners, Poor People Hang Around Losers
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint
+      - Reprogramming Thoughts, Feelings, and Actions Around Money
 ---
 
 # Constantly Learn and Grow vs. Think They Already Know - BE, DO, HAVE
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 Poor and middle-class people implicitly run success as HAVE→DO→BE ("once I have money, I could do what I want and be a success"); rich people run it as BE→DO→HAVE — become the kind of person who succeeds, and the doing and having follow — which is why wealth-building is ultimately about who you become, not what you accumulate.
@@ -38,9 +48,12 @@ Wealth File #17, closing the seventeen-file sequence. Eker calls "I know that" o
 - When you catch yourself thinking "I already know that" about a domain where your results don't match your stated knowledge, treat the phrase itself as a diagnostic flag.
 
 ## Relationships
-- **related:** [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
-- **related:** [[Association - Rich People Model Winners, Poor People Hang Around Losers]]
-- **related:** [[Skill Stacking and the Education-ROI Playbook]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and the Education-ROI Playbook|Skill Stacking and the Education-ROI Playbook]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich People Model Winners, Poor People Hang Around Losers|Association - Rich People Model Winners, Poor People Hang Around Losers]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #17. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

@@ -3,20 +3,55 @@ title: "Preserve the Core, Stimulate Progress - Build an Institution That Can Ev
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/mission, topic/brand, topic/innovation, topic/consistency, topic/leadership, person/jim-collins, source/good-to-great]
-source:
-  type: "book"
-  name: "Good to Great"
-  author: "Jim Collins"
-  url: ""
-  date_of_source: "2001"
+tags:
+  [
+    topic/mission,
+    topic/brand,
+    topic/innovation,
+    topic/consistency,
+    topic/leadership,
+    person/jim-collins,
+    source/good-to-great
+  ]
+sources:
+  - id: "SRC-0010"
+    role: "primary"
+    locator: "chapter 9"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Institutional
+      Phase Transitions - Persistent Make-Believe, Decay, and Reaction
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Lindy
+      Effect - Time as a Filter for Robust Ideas and Practices
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate
+      Meaningful Work and Meaningful Relationships
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5
+      Leadership - Humility and Professional Will
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary
+      Aim and Strategic Objective - Make the Business Serve the Life
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/Companies as
+      Philanthropy - Purpose and Building for Humanity
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept
+      - Three Circles and the Economic Denominator
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
+      Compounding - Too Good to Fail
 ---
 
 # Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Enduring organizations hold their core values and purpose fixed while continually changing strategies, practices, products, and ambitious goals.
@@ -57,12 +92,17 @@ The governing question is: *Is this element core ideology, or merely a current e
 Hewlett-Packard preserved technical contribution, respect, and purpose while moving through generations of products. Disney kept creative imagination, attention to detail, and the aim of bringing happiness while expanding from cartoons into films, television, parks, and other formats. Boeing's commercial-jet BHAG worked because large-aircraft capability, attractive economics, and genuine passion had converged.
 
 ## Relationships
-- **related:** [[Companies as Philanthropy - Purpose and Building for Humanity]]
-- **applies:** [[Primary Aim and Strategic Objective - Make the Business Serve the Life]]
-- **applies:** [[Cultivate Meaningful Work and Meaningful Relationships]]
-- **related:** [[The Hedgehog Concept - Three Circles and the Economic Denominator]]
-- **applies:** [[Level 5 Leadership - Humility and Professional Will]]
-- **related:** [[Brand and Product Compounding - Too Good to Fail]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction|Institutional Phase Transitions - Persistent Make-Believe, Decay, and Reaction]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Lindy Effect - Time as a Filter for Robust Ideas and Practices|The Lindy Effect - Time as a Filter for Robust Ideas and Practices]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate Meaningful Work and Meaningful Relationships|Cultivate Meaningful Work and Meaningful Relationships]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5 Leadership - Humility and Professional Will|Level 5 Leadership - Humility and Professional Will]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary Aim and Strategic Objective - Make the Business Serve the Life|Primary Aim and Strategic Objective - Make the Business Serve the Life]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Companies as Philanthropy - Purpose and Building for Humanity|Companies as Philanthropy - Purpose and Building for Humanity]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept - Three Circles and the Economic Denominator|The Hedgehog Concept - Three Circles and the Economic Denominator]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail|Brand and Product Compounding - Too Good to Fail]]
 ## Source reference
-Jim Collins, *Good to Great*, chapter 9, "From Good to Great to Built to Last" (2001). [[2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript|Good to Great - Raw Transcript]] — locator: chapter 9

@@ -3,20 +3,50 @@ title: "Level 5 Leadership - Humility and Professional Will"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/leadership, topic/identity, topic/org-design, topic/management, person/jim-collins, source/good-to-great]
-source:
-  type: "book"
-  name: "Good to Great"
-  author: "Jim Collins"
-  url: ""
-  date_of_source: "2001"
+tags:
+  [
+    topic/leadership,
+    topic/identity,
+    topic/org-design,
+    topic/management,
+    person/jim-collins,
+    source/good-to-great
+  ]
+sources:
+  - id: "SRC-0010"
+    role: "primary"
+    locator: "chapter 2"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Two Ways a Founder Can Disappear
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Preserve the Core,
+      Stimulate Progress - Build an Institution That Can Evolve
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More
+      Important Than the WHAT
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design
+      Jobs Around Exceptional Contribution
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Adaptive
+      Leadership - Consistent Standards, Individual Treatment
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid
+      - Who-Not-How and Planning Backward From the Goal
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox
 ---
 
 # Level 5 Leadership - Humility and Professional Will
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 The leaders most likely to build enduring greatness combine personal humility with fierce professional will, directing ambition toward the institution rather than their own celebrity.
@@ -55,11 +85,16 @@ Level 5 contains the capabilities below it; humility does not substitute for com
 Darwin Smith redirected Kimberly-Clark from coated-paper mills into consumer products despite ridicule, then quietly credited the people around him. Colman Mockler resisted a lucrative Gillette takeover because its price ignored the long-term value of Sensor and Mach3. By contrast, Rubbermaid's rise under Stanley Gault did not survive the shallow management bench he left behind.
 
 ## Relationships
-- **related:** [[Remember That the WHO Is More Important Than the WHAT]]
-- **related:** [[Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
-- **related:** [[Staff for Strength - Design Jobs Around Exceptional Contribution]]
-- **related:** [[The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]]
-- **related:** [[Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Two Ways a Founder Can Disappear|Two Ways a Founder Can Disappear]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve|Preserve the Core, Stimulate Progress - Build an Institution That Can Evolve]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More Important Than the WHAT|Remember That the WHO Is More Important Than the WHAT]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design Jobs Around Exceptional Contribution|Staff for Strength - Design Jobs Around Exceptional Contribution]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Adaptive Leadership - Consistent Standards, Individual Treatment|Adaptive Leadership - Consistent Standards, Individual Treatment]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox|The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]]
 ## Source reference
-Jim Collins, *Good to Great*, chapter 2, "Level 5 Leadership" (2001). [[2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript|Good to Great - Raw Transcript]] — locator: chapter 2

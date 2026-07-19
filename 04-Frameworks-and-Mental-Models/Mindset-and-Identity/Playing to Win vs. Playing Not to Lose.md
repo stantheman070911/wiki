@@ -3,20 +3,47 @@ title: "Playing to Win vs. Playing Not to Lose"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/risk, topic/decision-making, topic/commitment, person/t-harv-eker, person/steven-bartlett]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags:
+  [
+    topic/mindset,
+    topic/risk,
+    topic/decision-making,
+    topic/commitment,
+    person/t-harv-eker,
+    person/steven-bartlett
+  ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
+  - id: "SRC-0017"
+    role: "supporting"
+    locator: "Law 22"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Committed to Rich
+      vs. Wanting to Be Rich - The Three Levels of Wanting
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Success -
+      Judge the Work Before the Outcome
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite
+      Games - Winning by Emptying the Tank
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint
+      - Reprogramming Thoughts, Feelings, and Actions Around Money
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think
+      Small - The Law of Income
 ---
 
 # Playing to Win vs. Playing Not to Lose
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 Rich people set "massive wealth" as the goal and play offense; poor and middle-class people set "enough to pay the bills" or "comfortable" as the goal and play defense — and by the law of intention, each group gets exactly what it aimed for, no more.
@@ -40,12 +67,15 @@ Wealth File #2. Eker argues the size of the goal itself, not effort or ability, 
 - For one important effort-dependent goal, define a committed review period during which you will improve the plan rather than replace the objective; set explicit safety and stop conditions in advance.
 
 ## Relationships
-- **related:** [[Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting]]
-- **related:** [[Think Big vs. Think Small - The Law of Income]]
-- **related:** [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
-- **related:** [[Finite vs Infinite Games - Winning by Emptying the Tank]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting|Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Success - Judge the Work Before the Outcome|Creative Success - Judge the Work Before the Outcome]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite Games - Winning by Emptying the Tank|Finite vs Infinite Games - Winning by Emptying the Tank]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think Small - The Law of Income|Think Big vs. Think Small - The Law of Income]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #2. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
 
-Additional source: Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 22. [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 22

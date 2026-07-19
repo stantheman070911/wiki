@@ -3,20 +3,59 @@ title: "Own What the Prospect Already Gives You - Research-Based Positioning"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/positioning, topic/research, topic/differentiation, person/ries-trout, person/april-dunford, source/obviously-awesome]
-source:
-  type: "book"
-  name: "Positioning: The Battle for Your Mind"
-  author: "Al Ries & Jack Trout"
-  url: ""
-  date_of_source: "1981"
+tags:
+  [
+    topic/positioning,
+    topic/research,
+    topic/differentiation,
+    person/ries-trout,
+    person/april-dunford,
+    source/obviously-awesome
+  ]
+sources:
+  - id: "SRC-0006"
+    role: "primary"
+    locator: "ch. 19–20"
+  - id: "SRC-0007"
+    role: "supporting"
+  - id: "SRC-0023"
+    role: "supporting"
+    locator: "Chapters 2–10 and 13"
 date_added: "2026-07-13"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
+      Hole in the Mind (Cherchez le Creneau)
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
+      in the Prospect's Mind
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning a Company -
+      Stand for a Specific Achievement, Not Diversification
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing
+      Scale - Sell the Outcome, Not Your Effort
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching -
+      Insight That Leads to Unique Strengths
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as
+      Context - Make the Product Obviously Valuable
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning
+      Sequence - Alternatives, Attributes, Value, Customers, and Market
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market
+      Positioning Styles - Head to Head, Big Fish, or New Game
 ---
 
 # Own What the Prospect Already Gives You - Research-Based Positioning
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 Don't build your position on what you wish were true or on fixing your weaknesses — map what the market already concedes to you (even an unglamorous attribute) with structured research, then build both message and operations around that.
@@ -56,15 +95,19 @@ Ries and Trout's Long Island Trust and United Jersey bank case studies show a di
 - United Jersey Bank: "the fast-moving bank" vs. "Lethargic National Bank," backed by seven operational commitments (decentralized lending, cross-training, statewide ATMs, six-times-daily lock-box pickup, central Princeton HQ); unaided awareness nearly tripled and earnings rose 26% in a year.
 
 ## Relationships
-- **related:** [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
-- **related:** [[Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
-- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
-- **related:** [[The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
-- **related:** [[Positioning as Context - Make the Product Obviously Valuable]]
-- **related:** [[Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market]]
-- **related:** [[Three Market Positioning Styles - Head to Head, Big Fish, or New Game]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)|Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Positioning a Company - Stand for a Specific Achievement, Not Diversification|Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort|The Market Is a Weighing Scale - Sell the Outcome, Not Your Effort]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching - Insight That Leads to Unique Strengths|Commercial Teaching - Insight That Leads to Unique Strengths]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as Context - Make the Product Obviously Valuable|Positioning as Context - Make the Product Obviously Valuable]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market|Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market Positioning Styles - Head to Head, Big Fish, or New Game|Three Market Positioning Styles - Head to Head, Big Fish, or New Game]]
 ## Source reference
-Al Ries & Jack Trout, *Positioning: The Battle for Your Mind*, ch. 19–20 ("Positioning a Long Island Bank," "Positioning a New Jersey Bank"). Full text in [[2026-07-08_Book_RiesTrout_Positioning_FullText]]; extraction notes in [[2026-07-08_Book_RiesTrout_Positioning]].
 
-April Dunford, *Obviously Awesome* (2019), Chapters 2–10 and 13. Raw transcript archived in [[2026-07-18_Book_AprilDunford_ObviouslyAwesome_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning_FullText|Positioning - Full Text]] — locator: ch. 19–20
+- **supporting:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning|Positioning]]
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_AprilDunford_ObviouslyAwesome_RawTranscript|Obviously Awesome]] — locator: Chapters 2–10 and 13

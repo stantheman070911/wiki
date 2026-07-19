@@ -3,20 +3,90 @@ title: "Focus as Elimination - The Deep-Work Playbook"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/focus, topic/productivity, topic/mindset, topic/startups, person/alex-hormozi, person/peter-drucker, person/paul-graham, source/paul-graham-essays]
-source:
-  type: "video"
-  name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/focus,
+    topic/productivity,
+    topic/mindset,
+    topic/startups,
+    person/alex-hormozi,
+    person/peter-drucker,
+    person/paul-graham,
+    source/paul-graham-essays
+  ]
+sources:
+  - id: "SRC-0068"
+    role: "primary"
+  - id: "SRC-0013"
+    role: "supporting"
+    locator: "ch. 5"
+  - id: "SRC-0046"
+    role: "supporting"
+  - id: "SRC-0042"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-13"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept
+      - Three Circles and the Economic Denominator
+  - type: applies
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural -
+      Defending Margin Against Organizational Creep
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
+      Filter - Stay, Scale, or Burn It Down
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
+      Discipline - Freedom, Responsibility, and Stop-Doing Lists
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
+      Supply
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning
+      Backward from the Gap
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Effective Executive - Five Learnable Practices
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp -
+      The Messy Middle and the 40-for-2 Management Trade
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is
+      Short - Ruthless Attention Allocation
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
+      Gratification - Patience and Inputs vs Outputs
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and
+      Systems - The Two Psychological Shifts Behind Consistent Revenue
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group
+      and Re-engineering Your Circle
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time -
+      Record, Eliminate, and Consolidate
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
+      - SOPs, Checklists, and Systematizing the Vital 20%
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm -
+      Musk's Five-Step Process Method
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback -
+      Sales as the Training Ground
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The
+      Complete Six-Step Roadmap
 ---
 
 # Focus as Elimination - The Deep-Work Playbook
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 Focus isn't zooming in — it's removing everything that isn't the work; commitment is the elimination of alternatives, and focus is measured by what you say no to.
@@ -68,18 +138,29 @@ work 12 hours/day for 30 days straight (no weekends). Lessons: you're not made o
 - Leila handling a delegated task in ~60 seconds while Hormozi is still talking — decision-to-action speed as a cultural norm.
 
 ## Relationships
-- **applies:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
-- **applies:** [[The Reference Group and Re-engineering Your Circle]]
-- **related:** [[Volume and Feedback - Sales as the Training Ground]]
-- **applies:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- **related:** [[Know Thy Time - Record, Eliminate, and Consolidate]]
-- **applies:** [[The Effective Executive - Five Learnable Practices]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept - Three Circles and the Economic Denominator|The Hedgehog Concept - Three Circles and the Economic Denominator]]
+- **Applies:** [[01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural - Defending Margin Against Organizational Creep|Profit Is Unnatural - Defending Margin Against Organizational Creep]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning Backward from the Gap|Planning Backward from the Gap]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Effective Executive - Five Learnable Practices|The Effective Executive - Five Learnable Practices]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp - The Messy Middle and the 40-for-2 Management Trade|The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is Short - Ruthless Attention Allocation|Life Is Short - Ruthless Attention Allocation]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed Gratification - Patience and Inputs vs Outputs|Delayed Gratification - Patience and Inputs vs Outputs]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue|Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle|The Reference Group and Re-engineering Your Circle]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time - Record, Eliminate, and Consolidate|Know Thy Time - Record, Eliminate, and Consolidate]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%|Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm - Musk's Five-Step Process Method|The Algorithm - Musk's Five-Step Process Method]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The Complete Six-Step Roadmap|The First $100k - The Complete Six-Step Roadmap]]
 ## Source reference
-Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
 
-Peter F. Drucker, *The Effective Executive*, ch. 5, “First Things First” (1967; 2006 edition). Raw archived text in [[2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript]].
-
-Paul Graham, “Maker's Schedule, Manager's Schedule,” “The Top Idea in Your Mind,” and “Disconnecting Distraction,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
-
-Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript|The Effective Executive - Raw Transcript]] — locator: ch. 5
+- **supporting:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
+- **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

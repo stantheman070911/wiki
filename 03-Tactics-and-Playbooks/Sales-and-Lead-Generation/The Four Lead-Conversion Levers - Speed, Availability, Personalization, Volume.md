@@ -1,22 +1,58 @@
 ---
-title: "The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume"
+title: "The Four Lead-Conversion Levers - Speed, Availability, Personalization,
+  Volume"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/volume, topic/automation, topic/ai, topic/funnel, person/alex-hormozi, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "conversation"
-  name: "Alex Hormozi AMA 3"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/sales,
+    topic/volume,
+    topic/automation,
+    topic/ai,
+    topic/funnel,
+    person/alex-hormozi,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0042"
+    role: "primary"
+  - id: "SRC-0088"
+    role: "supporting"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence -
+      Selling Through Trusted Referrers
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
+      Business - Train Like an Employee and the Department Playbook
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead
+      Generation - Fifteen Questions and Dynamic Routing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Outbound and Inbound
+      Are Separate Teams - The Sales Career Ladder
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
+      Rule of 100 - Lead Generation Fundamentals
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
+      Rhythm - Leads, Appointments, Presentations, and Sales
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback -
+      Sales as the Training Ground
 ---
 
 # The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Lead conversion improves when more qualified people receive a relevant message and can continue the conversation immediately, through four controllable levers: speed, availability, personalization, and volume.
@@ -54,13 +90,17 @@ The first two maximize conversion after interest appears; the latter two maximiz
 Hormozi cites appointment data from thousands of daily bookings: businesses limiting calls to four afternoons a week could leave multiples of sales on the table. At the opposite extreme, zero availability guarantees zero appointments, making calendar access a more fundamental lever than many copy optimizations.
 
 ## Relationships
-- **related:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
-- **related:** [[Volume and Feedback - Sales as the Training Ground]]
-- **related:** [[Outbound and Inbound Are Separate Teams - The Sales Career Ladder]]
-- **related:** [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
-- **applies:** [[Centers of Influence - Selling Through Trusted Referrers]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your Business - Train Like an Employee and the Department Playbook|Using AI in Your Business - Train Like an Employee and the Department Playbook]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing|Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Outbound and Inbound Are Separate Teams - The Sales Career Ladder|Outbound and Inbound Are Separate Teams - The Sales Career Ladder]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]
 ## Source reference
-Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
 
-Additional source: Daniel Priestley, *Complete Sales Process - LAPS*, [[2026-07-13_Video_DanielPriestley_CompleteSalesProcessLAPS_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_CompleteSalesProcessLAPS_RawTranscript|Complete Sales Process - LAPS - Raw Transcript]]

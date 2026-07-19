@@ -3,20 +3,50 @@ title: "The Seven Questions Every Business Must Answer"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/monopoly, topic/business-model, topic/secrets, topic/product, person/peter-thiel]
-source:
-  type: "book"
-  name: "Zero to One: Notes on Startups, or How to Build the Future"
-  author: "Peter Thiel with Blake Masters"
-  url: ""
-  date_of_source: "2014"
+tags:
+  [
+    topic/monopoly,
+    topic/business-model,
+    topic/secrets,
+    topic/product,
+    person/peter-thiel
+  ]
+sources:
+  - id: "SRC-0014"
+    role: "primary"
+    locator: "ch. 13"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: "2026-07-13"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
+  and Customers Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How
+      to Find What Everyone Else Has Missed
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Pre-Mortem
+      - Imagine Failure Before It Happens
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is
+      Destiny - The Sales Channel Power Law
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
+      of a Perfect Business
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept
+      - Three Circles and the Economic Denominator
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition -
+      Why All Happy Companies Are Different
 ---
 
 # The Seven Questions Every Business Must Answer
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/Business-Models-and-Customers/Business Models and Customers Map|Business Models and Customers]]
 
 ## One-line summary
 Missing any one of seven questions is enough to doom a business, no matter how important the underlying need — the 2000s cleantech bubble (thousands of companies, $50B+ invested, most bankrupt) shows what happens when founders answer zero of them well, while Tesla shows what happens when a company answers all seven.
@@ -45,11 +75,16 @@ Thiel uses the cleantech bubble as a diagnostic case study precisely because the
 - MiaSolé's CEO told Congress his company was one of several "very strong" competitors in thin-film solar, then minutes later predicted it would become the world's largest thin-film producer within a year — a live example of the monopoly-question self-contradiction; the company was later acquired for hundreds of millions less than investors had put in.
 
 ## Relationships
-- **related:** [[Monopoly vs. Competition - Why All Happy Companies Are Different]]
-- **related:** [[Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
-- **applies:** [[Secrets - How to Find What Everyone Else Has Missed]]
-- **related:** [[Distribution Is Destiny - The Sales Channel Power Law]]
-- **related:** [[The Five Advantages of a Perfect Business]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How to Find What Everyone Else Has Missed|Secrets - How to Find What Everyone Else Has Missed]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Pre-Mortem - Imagine Failure Before It Happens|The Pre-Mortem - Imagine Failure Before It Happens]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law|Distribution Is Destiny - The Sales Channel Power Law]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Five Advantages of a Perfect Business|The Five Advantages of a Perfect Business]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept - Three Circles and the Economic Denominator|The Hedgehog Concept - Three Circles and the Economic Denominator]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/Building a Durable Monopoly|Building a Durable Monopoly - Proprietary Tech, Network Effects, Scale, and Branding]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Monopoly vs. Competition - Why All Happy Companies Are Different|Monopoly vs. Competition - Why All Happy Companies Are Different]]
 ## Source reference
-Peter Thiel with Blake Masters, *Zero to One*, ch. 13 ("Seeing Green"). Extraction notes in [[2026-07-13_Book_PeterThiel_ZeroToOne]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 13

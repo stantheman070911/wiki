@@ -3,20 +3,53 @@ title: "Creative Experiments - Opposites, Constraints, A-B Tests, and Context"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/creativity, topic/innovation, topic/decision-making, topic/feedback, person/rick-rubin]
-source:
-  type: "book"
-  name: "The Creative Act - A Way of Being"
-  author: "Rick Rubin with Neil Strauss"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/creativity,
+    topic/innovation,
+    topic/decision-making,
+    topic/feedback,
+    person/rick-rubin
+  ]
+sources:
+  - id: "SRC-0016"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+  Creation and Distribution Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
+      Product-Discovery Loop - Launch, Learn, Evolve, Delight
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
+      Open-Minded
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation,
+      Quantification, and Orchestration - The Business Development Loop
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Out-Fail the
+      Competition - Building an Experimentation System
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for
+      Makers - Constraints for Designing Good Things
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative
+      Cooperation - Feedback, Friction, and Choice C
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative
+      Receptivity - Awareness, Attention, and the Artist's Filter
 ---
 
 # Creative Experiments - Opposites, Constraints, A-B Tests, and Context
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution]]
 
 ## One-line summary
 When judgment is trapped inside assumptions, make alternatives observable: reverse the rule, impose a temporary constraint, change the context, and compare two real versions rather than arguing from imagination.
@@ -55,10 +88,17 @@ If neither A nor B works, treat both as information and create C; the purpose is
 Georges Perec wrote a novel without the letter “e,” Yves Klein limited his palette to a signature blue, and Dogme 95 constrained filmmakers to location shooting, available sound, handheld cameras, and other restrictions. Each constraint narrowed the means while opening a distinctive solution space.
 
 ## Relationships
-- **applies:** [[The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
-- **applies:** [[Taste for Makers - Constraints for Designing Good Things]]
-- **applies:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
-- **applies:** [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation, Quantification, and Orchestration - The Business Development Loop|Innovation, Quantification, and Orchestration - The Business Development Loop]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Out-Fail the Competition - Building an Experimentation System|Out-Fail the Competition - Building an Experimentation System]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for Makers - Constraints for Designing Good Things|Taste for Makers - Constraints for Designing Good Things]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion|The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative Cooperation - Feedback, Friction, and Choice C|Creative Cooperation - Feedback, Friction, and Choice C]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Receptivity - Awareness, Attention, and the Artist's Filter|Creative Receptivity - Awareness, Attention, and the Artist's Filter]]
 ## Source reference
-Rick Rubin with Neil Strauss, *The Creative Act: A Way of Being* (2023). Raw transcript archived at [[2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript|The Creative Act - Raw Transcript]]

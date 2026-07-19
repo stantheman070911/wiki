@@ -3,20 +3,42 @@ title: "The Virtuous Cycle of Price - Why Premium Pricing Serves Customers Bette
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/pricing, topic/offers, topic/margins, topic/positioning, person/alex-hormozi]
-source:
-  type: "book"
-  name: "$100M Offers"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: "2021"
+tags:
+  [
+    topic/pricing,
+    topic/offers,
+    topic/margins,
+    topic/positioning,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0021"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of
+      Service Businesses
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
+      Unscalable Premium Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
+      Discount - Make the Difference Obvious
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
+      Slam Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架
 ---
 
 # The Virtuous Cycle of Price - Why Premium Pricing Serves Customers Better
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Charging a premium is not just a profit decision but a delivery decision — a high price funds the margin, attracts the committed clients, and creates the investment that together produce better customer results, while cutting price sets off the opposite death spiral.
@@ -54,11 +76,14 @@ The loop is self-reinforcing in both directions: margin funds a better product, 
 - The blind wine tasting (identical wine, three price labels) rated in strict order of price — evidence that price directly moves perceived value.
 
 ## Relationships
-- **related:** [[The Value Equation and the Grand Slam Offer]]
-- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
-- **related:** [[Decommoditize Before You Discount - Make the Difference Obvious]]
-- **related:** [[The Virtuous Cycle of Service Businesses]]
-- **related:** [[情緒價值與功能性價值：跳脫價格戰的定位框架]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of Service Businesses|The Virtuous Cycle of Service Businesses]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious|Decommoditize Before You Discount - Make the Difference Obvious]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架|情緒價值與功能性價值：跳脫價格戰的定位框架]]
 ## Source reference
-Alex Hormozi, *$100M Offers* (2021), pricing section ("Charge What It's Worth"). Raw transcript archived at [[2026-07-18_Book_AlexHormozi_100MOffers_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MOffers_RawTranscript|$100M Offers]]

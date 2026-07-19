@@ -3,20 +3,58 @@ title: "Prototype Before You Pivot - Life Design Interviews and Experiences"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/career, topic/learning, topic/risk, topic/decision-making, topic/skills, person/bill-burnett, person/dave-evans, source/designing-your-life]
-source:
-  type: "book"
-  name: "Designing Your Life"
-  author: "Bill Burnett and Dave Evans"
-  url: ""
-  date_of_source: "2016"
+tags:
+  [
+    topic/career,
+    topic/learning,
+    topic/risk,
+    topic/decision-making,
+    topic/skills,
+    person/bill-burnett,
+    person/dave-evans,
+    source/designing-your-life
+  ]
+sources:
+  - id: "SRC-0025"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well -
+      Narrow, Decide, Let Go, and Move On
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reframe Gravity
+      Problems into Actionable Problems
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey
+      Plans - Parallel Futures Before Commitment
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+      Design Compass - Workview, Lifeview, and Coherency
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Maker
+      Mix - Money, Impact, and Expression
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Wayfinding
+      with Energy and Engagement
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Failure Reframing
+      and Immunity
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
+      Proficiency, Pain Tolerance, and Frustration Tolerance
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Quitting Well and
+      Moving On
 ---
 
 # Prototype Before You Pivot - Life Design Interviews and Experiences
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Before committing to a new life direction, build a low-cost experience that answers one important question with direct evidence.
@@ -54,10 +92,18 @@ A conversation prototype gathers a person's story; an experience prototype may i
 Elise opened a deli because she loved imagining and designing one, then discovered she disliked operating it. A few shifts in someone else's deli could have separated enthusiasm for creation from the daily reality of the business. Clara's sequence of a mediation class, part-time justice work, and mission-driven roles shows the opposite: each prototype narrowed the next question without demanding an all-at-once leap.
 
 ## Relationships
-- **related:** [[Three Odyssey Plans - Parallel Futures Before Commitment]]
-- **related:** [[Wayfinding with Energy and Engagement]]
-- **related:** [[Choosing Well - Narrow, Decide, Let Go, and Move On]]
-- **related:** [[Failure Reframing and Immunity]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well - Narrow, Decide, Let Go, and Move On|Choosing Well - Narrow, Decide, Let Go, and Move On]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reframe Gravity Problems into Actionable Problems|Reframe Gravity Problems into Actionable Problems]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey Plans - Parallel Futures Before Commitment|Three Odyssey Plans - Parallel Futures Before Commitment]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Design Compass - Workview, Lifeview, and Coherency|Life Design Compass - Workview, Lifeview, and Coherency]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Maker Mix - Money, Impact, and Expression|The Maker Mix - Money, Impact, and Expression]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Wayfinding with Energy and Engagement|Wayfinding with Energy and Engagement]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Failure Reframing and Immunity|Failure Reframing and Immunity]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Quitting Well and Moving On|Quitting Well and Moving On]]
 ## Source reference
-Bill Burnett and Dave Evans, *Designing Your Life: How to Build a Well-Lived, Joyful Life* (2016). [[2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript|Designing Your Life - Raw Transcript]]

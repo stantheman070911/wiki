@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0082"
 title: "Psychology of Building a Successful Service Business - Raw Transcript"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Will Barron"
+    role: "creator"
 source_type: "video"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Will Barron"
 date_archived: "2026-07-10"
 status: "source"
 ---

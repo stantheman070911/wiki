@@ -3,20 +3,37 @@ title: "The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/decision-making, topic/moat, topic/mindset, person/sabri-suby]
-source:
-  type: "video"
-  name: "11 Brutal Truths To Grow Your Business Fast"
-  author: "Sabri Suby"
-  url: ""
-  date_of_source: ""
+tags: [ topic/decision-making, topic/moat, topic/mindset, person/sabri-suby ]
+sources:
+  - id: "SRC-0084"
+    role: "primary"
 date_added: "2026-07-12"
 updated: "2026-07-12"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where
+      the Fewest Go
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
+      and Asymmetric Bets
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
+      Filter - Stay, Scale, or Burn It Down
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80%
+      Mindset - Risk Tolerance and Refusing to Quit
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
+      Gratification - Patience and Inputs vs Outputs
 ---
 
 # The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 At every fork, the easy path and the hard path — choose the hard one, because its short-term pain buys the second-order payoff, and the very things that are hard to do are the ones competitors can't copy, so they become your moat.
@@ -44,10 +61,14 @@ Owners make hundreds of decisions a month, and most default to the easy option b
 - Culture, team, and office build-out framed as moats — hard, slow, un-copyable investments that produce durable rather than fleeting advantage.
 
 ## Relationships
-- **related:** [[Fear, Regret, and Asymmetric Bets]]
-- **related:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- **related:** [[Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]]
-- **related:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where the Fewest Go|The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80% Mindset - Risk Tolerance and Refusing to Quit|Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed Gratification - Patience and Inputs vs Outputs|Delayed Gratification - Patience and Inputs vs Outputs]]
 ## Source reference
-Sabri Suby, *11 Brutal Truths To Grow Your Business Fast* (brutal truth #11). Raw transcript archived at [[2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]

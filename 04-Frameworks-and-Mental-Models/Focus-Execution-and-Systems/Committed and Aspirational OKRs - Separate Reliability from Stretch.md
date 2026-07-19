@@ -3,20 +3,48 @@ title: "Committed and Aspirational OKRs - Separate Reliability from Stretch"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/commitment, topic/risk, topic/learning, topic/execution, person/john-doerr, source/measure-what-matters]
-source:
-  type: "book"
-  name: "Measure What Matters"
-  author: "John Doerr"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/commitment,
+    topic/risk,
+    topic/learning,
+    topic/execution,
+    person/john-doerr,
+    source/measure-what-matters
+  ]
+sources:
+  - id: "SRC-0032"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
+      to Do
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating
+      Cycle - Set, Check In, Score, and Reflect
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and
+      Align - Make Priorities and Dependencies Public
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs -
+      Define Objectives Through Sufficient Key Results
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Out-Fail the
+      Competition - Building an Experimentation System
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Proximate
+      Objectives - Setting the Next Achievable Target
 ---
 
 # Committed and Aspirational OKRs - Separate Reliability from Stretch
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Label must-deliver commitments separately from possibility-expanding aspirations so teams can protect reliability without lowering ambition or punishing intelligent failure.
@@ -54,11 +82,15 @@ Fund and sequence the commitment basket first. Use remaining capacity to pursue 
 - Bono's ONE Campaign needed both discipline and "more red": structure stopped the organization from spreading itself across too many causes, while accepted misses preserved its appetite for transformative goals.
 
 ## Relationships
-- **related:** [[OKRs - Define Objectives Through Sufficient Key Results]]
-- **related:** [[The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
-- **related:** [[Focus and Align - Make Priorities and Dependencies Public]]
-- **related:** [[Proximate Objectives - Setting the Next Achievable Target]]
-- **related:** [[Out-Fail the Competition - Building an Experimentation System]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating Cycle - Set, Check In, Score, and Reflect|The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and Align - Make Priorities and Dependencies Public|Focus and Align - Make Priorities and Dependencies Public]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs - Define Objectives Through Sufficient Key Results|OKRs - Define Objectives Through Sufficient Key Results]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Out-Fail the Competition - Building an Experimentation System|Out-Fail the Competition - Building an Experimentation System]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Proximate Objectives - Setting the Next Achievable Target|Proximate Objectives - Setting the Next Achievable Target]]
 ## Source reference
-John Doerr, *Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs* (2018). Raw transcript in [[2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript|Measure What Matters]]

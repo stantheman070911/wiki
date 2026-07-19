@@ -3,20 +3,49 @@ title: "SPIN Discovery - Situation, Problem, Implication, and Need-Payoff"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/qualification, topic/research, topic/persuasion, person/neil-rackham, source/the-spin-selling-fieldbook]
-source:
-  type: "book"
-  name: "The SPIN Selling Fieldbook"
-  author: "Neil Rackham"
-  url: ""
-  date_of_source: "1996"
+tags:
+  [
+    topic/sales,
+    topic/qualification,
+    topic/research,
+    topic/persuasion,
+    person/neil-rackham,
+    source/the-spin-selling-fieldbook
+  ]
+sources:
+  - id: "SRC-0036"
+    role: "primary"
+    locator: "chapters 2 and 6–10"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Advances, Not
+      Continuations - Plan Every Sales Call
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Buyer Needs and
+      Benefits - From Implied Problems to Explicit Value
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching -
+      Insight That Leads to Unique Strengths
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State
+      Diagnosis - Facts, Problems, Impact, Cause, and Emotion
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Problem-Centric
+      Discovery - Four Question Types and the CRM Challenge
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
+      Rhythm - Leads, Appointments, Presentations, and Sales
 ---
 
 # SPIN Discovery - Situation, Problem, Implication, and Need-Payoff
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 In complex sales, use a flexible sequence of Situation, Problem, Implication, and Need-payoff questions to help the buyer understand the problem, enlarge its significance, and articulate the value of solving it.
@@ -55,10 +84,15 @@ Ask Implication questions after a problem is understood but before introducing a
 Xerox reframed expensive early fax machines from product specifications into a solution for organizations that had to transmit images. Oil companies could send seismographic charts from offshore rigs instead of flying helicopters to collect them, turning an abstract technology into a concrete, high-value problem solution.
 
 ## Relationships
-- **related:** [[Problem-Centric Discovery - Four Question Types and the CRM Challenge]]
-- **related:** [[Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion]]
-- **related:** [[Buyer Needs and Benefits - From Implied Problems to Explicit Value]]
-- **related:** [[Commercial Teaching - Insight That Leads to Unique Strengths]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Advances, Not Continuations - Plan Every Sales Call|Advances, Not Continuations - Plan Every Sales Call]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Buyer Needs and Benefits - From Implied Problems to Explicit Value|Buyer Needs and Benefits - From Implied Problems to Explicit Value]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Commercial Teaching - Insight That Leads to Unique Strengths|Commercial Teaching - Insight That Leads to Unique Strengths]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion|Current-State Diagnosis - Facts, Problems, Impact, Cause, and Emotion]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Problem-Centric Discovery - Four Question Types and the CRM Challenge|Problem-Centric Discovery - Four Question Types and the CRM Challenge]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
 ## Source reference
-Neil Rackham, *The SPIN Selling Fieldbook* (1996), chapters 2 and 6–10. [[2026-07-18_Book_NeilRackham_TheSPINSellingFieldbook_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_NeilRackham_TheSPINSellingFieldbook_RawTranscript|The SPIN Selling Fieldbook]] — locator: chapters 2 and 6–10

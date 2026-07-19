@@ -3,20 +3,43 @@ title: "Failure Reframing and Immunity"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/learning, topic/identity, topic/courage, topic/self-belief, person/bill-burnett, person/dave-evans, source/designing-your-life]
-source:
-  type: "book"
-  name: "Designing Your Life"
-  author: "Bill Burnett and Dave Evans"
-  url: ""
-  date_of_source: "2016"
+tags:
+  [
+    topic/mindset,
+    topic/learning,
+    topic/identity,
+    topic/courage,
+    topic/self-belief,
+    person/bill-burnett,
+    person/dave-evans,
+    source/designing-your-life
+  ]
+sources:
+  - id: "SRC-0025"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You
+      Pivot - Life Design Interviews and Experiences
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well -
+      Narrow, Decide, Let Go, and Move On
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reframe Gravity
+      Problems into Actionable Problems
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
+      Proficiency, Pain Tolerance, and Frustration Tolerance
 ---
 
 # Failure Reframing and Immunity
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 Failure immunity comes from treating life as an ongoing learning process and directing analysis only toward failures that contain a usable growth opportunity.
@@ -53,10 +76,13 @@ For a screwup, acknowledge and repair it. For a persistent weakness, avoid or de
 After an angry client call, Dave Evans recognized that he had skipped the brief news-and-agenda check he routinely used in person. Unlike a rare screwup or a familiar weakness, this failure exposed a repeatable fix: begin phone calls by checking for changed context before launching the planned agenda.
 
 ## Relationships
-- **related:** [[Prototype Before You Pivot - Life Design Interviews and Experiences]]
-- **related:** [[Reframe Gravity Problems into Actionable Problems]]
-- **related:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
-- **related:** [[Choosing Well - Narrow, Decide, Let Go, and Move On]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You Pivot - Life Design Interviews and Experiences|Prototype Before You Pivot - Life Design Interviews and Experiences]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well - Narrow, Decide, Let Go, and Move On|Choosing Well - Narrow, Decide, Let Go, and Move On]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reframe Gravity Problems into Actionable Problems|Reframe Gravity Problems into Actionable Problems]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## Source reference
-Bill Burnett and Dave Evans, *Designing Your Life: How to Build a Well-Lived, Joyful Life* (2016). [[2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript|Designing Your Life - Raw Transcript]]

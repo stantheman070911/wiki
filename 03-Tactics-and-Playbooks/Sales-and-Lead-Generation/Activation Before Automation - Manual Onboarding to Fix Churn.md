@@ -3,20 +3,72 @@ title: "Activation Before Automation - Manual Onboarding to Fix Churn"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/onboarding, topic/retention, topic/churn, topic/business-model, topic/do-things-that-dont-scale, person/alex-hormozi, person/wes-bush, source/product-led-growth]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/onboarding,
+    topic/retention,
+    topic/churn,
+    topic/business-model,
+    topic/do-things-that-dont-scale,
+    person/alex-hormozi,
+    person/wes-bush,
+    source/product-led-growth
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
+  - id: "SRC-0040"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
+      Through Segmented Churn
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
+      of a Perfect Business
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Software Shape -
+      Survive to Product-Market Fit, Then Retain Forever
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
+      Product-Discovery Loop - Launch, Learn, Evolve, Delight
+  - type: applies
+    target: 01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills
+      診斷、1-1-1 與萬能前門
+  - type: applies
+    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
+      Compounding - Too Good to Fail
+  - type: applies
+    target: 01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle
+      Alignment
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand,
+      Communicate, and Deliver Customer Value
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Framework for Making Frameworks - Distill by Commonality
+  - type: has-derivative
+    target: 07-Articles/Do It by Hand Until You Know What It Is
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
+      Business - Train Like an Employee and the Department Playbook
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Do Things That Don't
+      Scale - Recruit, Delight, and Learn by Hand
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Bowling Alley
+      Framework - Straight-Line Onboarding and Two Bumpers
 ---
 
 # Activation Before Automation - Manual Onboarding to Fix Churn
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 When churn is high, stop hiding behind automated onboarding: manually watch new customers activate, identify the behaviors that predict retention, and rebuild the automated path from real friction.
@@ -63,15 +115,23 @@ Bush proposes a 24-hour version for a sales-led company testing a free trial: ch
 - A manual process can mask product weakness if the human does all the work. The goal is to learn what the product must make easier.
 
 ## Relationships
-- **applies:** [[The Five Advantages of a Perfect Business]]
-- **applies:** [[Brand and Product Compounding - Too Good to Fail]]
-- **applies:** [[The Framework for Making Frameworks - Distill by Commonality]]
-- **related:** [[Using AI in Your Business - Train Like an Employee and the Department Playbook]]
-- **applies:** [[少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
-- **related:** [[The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers]]
-- **related:** [[UCD - Understand, Communicate, and Deliver Customer Value]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Five Advantages of a Perfect Business|The Five Advantages of a Perfect Business]]
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Software Shape - Survive to Product-Market Fit, Then Retain Forever|The Software Shape - Survive to Product-Market Fit, Then Retain Forever]]
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- **Applies:** [[01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門|少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
+- **Applies:** [[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail|Brand and Product Compounding - Too Good to Fail]]
+- **Applies:** [[01-Business-Strategy/Pricing-and-Offers/Billing-Cycle vs Value-Cycle Alignment|Billing-Cycle vs Value-Cycle Alignment]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand, Communicate, and Deliver Customer Value|UCD - Understand, Communicate, and Deliver Customer Value]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Framework for Making Frameworks - Distill by Commonality|The Framework for Making Frameworks - Distill by Commonality]]
+- **Has derivative:** [[07-Articles/Do It by Hand Until You Know What It Is|Do It by Hand Until You Know What It Is]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your Business - Train Like an Employee and the Department Playbook|Using AI in Your Business - Train Like an Employee and the Department Playbook]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Do Things That Don't Scale - Recruit, Delight, and Learn by Hand|Do Things That Don't Scale - Recruit, Delight, and Learn by Hand]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers|The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
 
-Wes Bush, *Product-Led Growth: How to Build a Product That Sells Itself* (2019). Raw transcript in [[2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript|Product-Led Growth]]

@@ -3,20 +3,63 @@ title: "Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/positioning, topic/competition, topic/market-leader, topic/niche, person/ries-trout]
-source:
-  type: "book"
-  name: "Positioning: The Battle for Your Mind"
-  author: "Al Ries & Jack Trout"
-  url: ""
-  date_of_source: "1981"
+tags:
+  [
+    topic/positioning,
+    topic/competition,
+    topic/market-leader,
+    topic/niche,
+    person/ries-trout
+  ]
+sources:
+  - id: "SRC-0007"
+    role: "primary"
+    locator: "ch. 6–8"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the
+      Prospect Already Gives You - Research-Based Positioning
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension
+      Trap - Why One Name Can't Own Two Things
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market
+      Positioning Styles - Head to Head, Big Fish, or New Game
+  - type: has-derivative
+    target: 07-Articles/Change the Comparison Before You Change the Price
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Positioning Yourself
+      - Find a Horse to Ride
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Five Advantages
+      of a Perfect Business
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/TikTok Shop與飽和市場的白地策略
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points
+      - Anchor a New Position to What's Already Believed
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors
+      Down - The $50M Price-Cut Lesson
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
+      in the Prospect's Mind
+  - type: related
+    target: 01-Business-Strategy/Positioning-and-Branding/The 22 Immutable Laws of
+      Marketing
+  - type: related
+    target: 02-Social-Media-Strategy/Personal-Brand Positioning and the
+      No-Competition Model
 ---
 
 # Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 What works for a leader doesn't work for a follower: leaders get in first and then defend, while followers must find an open hole in the mind (or create one by repositioning the competition) rather than attacking a position head-on.
@@ -56,13 +99,21 @@ Position strategy depends entirely on where you already stand on the mental ladd
 - Nuprin and Advil failing by not repositioning Tylenol.
 
 ## Relationships
-- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
-- **applies:** [[The Line-Extension Trap - Why One Name Can't Own Two Things]]
-- **applies:** [[Own What the Prospect Already Gives You - Research-Based Positioning]]
-- **related:** [[Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
-- **related:** [[TikTok Shop與飽和市場的白地策略]]
-- **related:** [[Personal-Brand Positioning and the No-Competition Model]]
-- **related:** [[The Five Advantages of a Perfect Business]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the Prospect Already Gives You - Research-Based Positioning|Own What the Prospect Already Gives You - Research-Based Positioning]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension Trap - Why One Name Can't Own Two Things|The Line-Extension Trap - Why One Name Can't Own Two Things]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market Positioning Styles - Head to Head, Big Fish, or New Game|Three Market Positioning Styles - Head to Head, Big Fish, or New Game]]
+- **Has derivative:** [[07-Articles/Change the Comparison Before You Change the Price|Change the Comparison Before You Change the Price]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Positioning Yourself - Find a Horse to Ride|Positioning Yourself - Find a Horse to Ride]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Five Advantages of a Perfect Business|The Five Advantages of a Perfect Business]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/TikTok Shop與飽和市場的白地策略|TikTok Shop與飽和市場的白地策略]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points - Anchor a New Position to What's Already Believed|Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Don't Follow Competitors Down - The $50M Price-Cut Lesson|Don't Follow Competitors Down - The $50M Price-Cut Lesson]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
+- **Related:** [[01-Business-Strategy/Positioning-and-Branding/The 22 Immutable Laws of Marketing|The 22 Immutable Laws of Marketing]]
+- **Related:** [[02-Social-Media-Strategy/Personal-Brand Positioning and the No-Competition Model|Personal-Brand Positioning and the No-Competition Model]]
 ## Source reference
-Al Ries & Jack Trout, *Positioning: The Battle for Your Mind*, ch. 6–8. Extraction notes in [[2026-07-08_Book_RiesTrout_Positioning]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning|Positioning]] — locator: ch. 6–8

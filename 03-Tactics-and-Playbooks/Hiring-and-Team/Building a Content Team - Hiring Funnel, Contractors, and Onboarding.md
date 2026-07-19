@@ -3,20 +3,35 @@ title: "Building a Content Team - Hiring Funnel, Contractors, and Onboarding"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/hiring, topic/onboarding, person/caleb-ralston]
-source:
-  type: "pdf"
-  name: "How to Build Your Brand Workbook"
-  author: "Caleb Ralston"
-  url: ""
-  date_of_source: ""
+tags: [ topic/hiring, topic/onboarding, person/caleb-ralston ]
+sources:
+  - id: "SRC-0008"
+    role: "primary"
+    locator: "ch. 6–11"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and
+      Monetization - The Give-Content, Ask-Ads Model
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall
+      Distribution Method - One Pillar, a Week of Content
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
+      Organizations
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/備忘錄文化與 A 級人才招募 playbook
 ---
 
 # Building a Content Team - Hiring Funnel, Contractors, and Onboarding
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Build a content team by hiring where you're the bottleneck, running every candidate through a real-work hiring funnel, choosing contractors vs full-timers deliberately, and onboarding on a 30/60/90 plan with consistent 1:1s.
@@ -52,11 +67,14 @@ The operational half of Caleb Ralston's brand workbook: the practical playbooks 
 - The workbook's rule of thumb: content slows after filming → hire an editor first; growth is the goal → hire a strategist before more creatives.
 
 ## Relationships
-- **related:** [[備忘錄文化與 A 級人才招募 playbook]]
-- **related:** [[Special-Forces Teams and Flat Organizations]]
-- **applies:** [[招募、領導與地理紅利]]
-- **applies:** [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
-- **related:** [[The Waterfall Distribution Method - One Pillar, a Week of Content]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model|Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利|招募、領導與地理紅利]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall Distribution Method - One Pillar, a Week of Content|The Waterfall Distribution Method - One Pillar, a Week of Content]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/備忘錄文化與 A 級人才招募 playbook|備忘錄文化與 A 級人才招募 playbook]]
 ## Source reference
-Caleb Ralston, *How to Build Your Brand Workbook*, ch. 6–11. Extraction notes in [[2026-07-08_Workbook_CalebRalston_HowToBuildYourBrand]]; PDF archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Workbook_CalebRalston_HowToBuildYourBrand|How To Build Your Brand]] — locator: ch. 6–11

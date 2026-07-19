@@ -6,20 +6,40 @@ type: "series-entry"
 domain: "business-strategy"
 series: "$100M Scaling Roadmap"
 lang: "zh"
-tags: [topic/scaling, source/acquisition-100m-roadmap, topic/m-and-a, topic/decision-making, topic/capital, person/alex-hormozi]
-source:
-  type: "pdf"
-  name: "$100M Scaling Roadmap（Personalized Guide）"
-  author: "Alex Hormozi / Acquisition.com"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/scaling,
+    source/acquisition-100m-roadmap,
+    topic/m-and-a,
+    topic/decision-making,
+    topic/capital,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0059"
+    role: "primary"
+    locator: "Stage 9"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
+relationships:
+  - type: derives-from
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
+  - type: prerequisite
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-8-Specialize
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/零售策略與通路飛輪
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/內容產製系統與募資紀律
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/財富公式：專屬知識、槓桿與判斷力
 ---
 
 # $100M 擴張路線圖 · Stage 9：Capitalize 下注
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
 
 > 系列導覽：[[$100M Scaling Roadmap Overview|總覽與方法論]]　｜　上一關：[[Stage-8-Specialize|Stage 8：Specialize 專精]]　｜　下一關：—（路線圖終點）
 
@@ -70,12 +90,13 @@ status: "reviewed"
 
 ## 關係
 
-- **related:** [[$100M Scaling Roadmap Overview|總覽與方法論]]
-- **prerequisite:** [[Stage-8-Specialize|Stage 8：Specialize 專精]]
-- **related:** [[零售策略與通路飛輪]]（願意犧牲已打贏的渠道去攻更大的——同源的「大賭注」邏輯）
-- **related:** [[內容產製系統與募資紀律]]（募資是數字遊戲、要有跑道與耐心）
-- **related:** [[財富公式：專屬知識、槓桿與判斷力]]（凱利公式：下注但避免破產）
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **衍生自:** [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
+- **前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-8-Specialize|$100M 擴張路線圖 · Stage 8：Specialize 專精]]
+- **相關:** [[01-Business-Strategy/Business-Models-and-Customers/零售策略與通路飛輪|零售策略與通路飛輪]]
+- **相關:** [[01-Business-Strategy/Finance-Capital-and-Exit/內容產製系統與募資紀律|內容產製系統與募資紀律]]
+- **相關:** [[01-Business-Strategy/Finance-Capital-and-Exit/財富公式：專屬知識、槓桿與判斷力|財富公式：專屬知識、槓桿與判斷力]]
 ## 來源
 
-$100M Scaling Roadmap（Personalized Guide），Stage 9，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap|$100M Scaling Roadmap（Personalized Guide）]] — locator: Stage 9

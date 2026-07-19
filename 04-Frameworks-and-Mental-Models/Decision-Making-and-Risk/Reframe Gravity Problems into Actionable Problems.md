@@ -3,20 +3,49 @@ title: "Reframe Gravity Problems into Actionable Problems"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/decision-making, topic/root-cause, topic/risk, topic/mindset, person/bill-burnett, person/dave-evans, source/designing-your-life]
-source:
-  type: "book"
-  name: "Designing Your Life"
-  author: "Bill Burnett and Dave Evans"
-  url: ""
-  date_of_source: "2016"
+tags:
+  [
+    topic/decision-making,
+    topic/root-cause,
+    topic/risk,
+    topic/mindset,
+    person/bill-burnett,
+    person/dave-evans,
+    source/designing-your-life
+  ]
+sources:
+  - id: "SRC-0025"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You
+      Pivot - Life Design Interviews and Experiences
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well -
+      Narrow, Decide, Let Go, and Move On
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions
+      - Formation Beyond Problem Solving
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey
+      Plans - Parallel Futures Before Commitment
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+      Design Compass - Workview, Lifeview, and Coherency
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Failure Reframing
+      and Immunity
 ---
 
 # Reframe Gravity Problems into Actionable Problems
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 A problem becomes designable only when it is both real and actionable; fixed realities must be accepted, while attachment to one failed solution must be reframed.
@@ -51,10 +80,15 @@ The output should be a question that begins with “How might I…” and permit
 A person who cannot become taller has a gravity problem if the goal is literally height. If the actual goal is confidence or athletic participation, height becomes a constraint inside a new, actionable design question. By contrast, insisting that a specific unavailable job is the only route to meaningful work is an anchor problem: the purpose is still attainable, but the assumed route must be released.
 
 ## Relationships
-- **related:** [[Three Odyssey Plans - Parallel Futures Before Commitment]]
-- **related:** [[Prototype Before You Pivot - Life Design Interviews and Experiences]]
-- **related:** [[Failure Reframing and Immunity]]
-- **related:** [[Life Design Compass - Workview, Lifeview, and Coherency]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You Pivot - Life Design Interviews and Experiences|Prototype Before You Pivot - Life Design Interviews and Experiences]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well - Narrow, Decide, Let Go, and Move On|Choosing Well - Narrow, Decide, Let Go, and Move On]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions - Formation Beyond Problem Solving|Focus Questions - Formation Beyond Problem Solving]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey Plans - Parallel Futures Before Commitment|Three Odyssey Plans - Parallel Futures Before Commitment]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Design Compass - Workview, Lifeview, and Coherency|Life Design Compass - Workview, Lifeview, and Coherency]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Failure Reframing and Immunity|Failure Reframing and Immunity]]
 ## Source reference
-Bill Burnett and Dave Evans, *Designing Your Life: How to Build a Well-Lived, Joyful Life* (2016). [[2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript|Designing Your Life - Raw Transcript]]

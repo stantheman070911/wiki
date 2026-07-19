@@ -3,20 +3,47 @@ title: "Complexity Needs Standards and Distributed Judgment"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/systems, topic/management, topic/decision-making, person/atul-gawande, source/checklist-manifesto]
-source:
-  type: "book"
-  name: "The Checklist Manifesto"
-  author: "Atul Gawande"
-  url: ""
-  date_of_source: "2009"
+tags:
+  [
+    topic/systems,
+    topic/management,
+    topic/decision-making,
+    person/atul-gawande,
+    source/checklist-manifesto
+  ]
+sources:
+  - id: "SRC-0024"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Checklist Design -
+      Pause Points, Killer Items, and Field Testing
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Team Checklists -
+      Communication Before Coordination
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and
+      Protocols to Shape How Work Is Done
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
+      Discipline - Freedom, Responsibility, and Stop-Doing Lists
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Breakfast Factory - Limiting Steps, WIP, and Capacity
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Hybrid
+      Organizations and Dual Reporting
 ---
 
 # Complexity Needs Standards and Distributed Judgment
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Complex systems become reliable when a few critical standards and communication routines constrain failure while local experts retain authority to adapt to conditions no central plan can predict.
@@ -54,10 +81,15 @@ A complicated problem can be decomposed and repeated from a known design; a comp
 Modern construction abandoned the all-knowing Master Builder. A project runs through specialized schedules plus mandatory consultations when the unexpected appears. During Hurricane Katrina, centralized command structures seized up, while Walmart set common priorities and measurements and authorized local managers to improvise relief. Both cases paired shared constraints with distributed judgment rather than choosing one at the expense of the other.
 
 ## Relationships
-- **related:** [[Checklist Design - Pause Points, Killer Items, and Field Testing]]
-- **related:** [[Team Checklists - Communication Before Coordination]]
-- **related:** [[A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
-- **related:** [[Use Tools and Protocols to Shape How Work Is Done]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Checklist Design - Pause Points, Killer Items, and Field Testing|Checklist Design - Pause Points, Killer Items, and Field Testing]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Team Checklists - Communication Before Coordination|Team Checklists - Communication Before Coordination]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and Protocols to Shape How Work Is Done|Use Tools and Protocols to Shape How Work Is Done]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Breakfast Factory - Limiting Steps, WIP, and Capacity|The Breakfast Factory - Limiting Steps, WIP, and Capacity]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Hybrid Organizations and Dual Reporting|Hybrid Organizations and Dual Reporting]]
 ## Source reference
-Atul Gawande, *The Checklist Manifesto: How to Get Things Right* (2009). [[2026-07-18_Book_AtulGawande_TheChecklistManifesto_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AtulGawande_TheChecklistManifesto_RawTranscript|The Checklist Manifesto - Raw Transcript]]

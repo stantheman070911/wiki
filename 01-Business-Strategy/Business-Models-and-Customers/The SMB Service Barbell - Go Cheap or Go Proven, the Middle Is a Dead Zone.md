@@ -3,20 +3,47 @@ title: "The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zo
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/business-model, topic/agency-model, topic/churn, topic/pricing, topic/cac, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi — Cash Cow Business Breakdowns & Service/E-commerce/HVAC Scaling AMAs (compilation)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/business-model,
+    topic/agency-model,
+    topic/churn,
+    topic/pricing,
+    topic/cac,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0073"
+    role: "primary"
+  - id: "SRC-0074"
+    role: "supporting"
 date_added: "2026-07-09"
 updated: "2026-07-09"
 reviewed_on: "2026-07-09"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
+  and Customers Map
+relationships:
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/ICP Qualification
+      Through Segmented Churn
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Four Business
+      Shapes - E-commerce, Service, Education, Software
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of
+      Service Businesses
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the
+      Unscalable Premium Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You
+      Can't Control Price
 ---
 
 # The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/Business-Models-and-Customers/Business Models and Customers Map|Business Models and Customers]]
 
 ## One-line summary
 If your customers are small businesses, the mid-price band ($1.5k–$3k/month) is a dead zone where rising CAC and structural SMB churn eat the margin — the only two models that work are dirt-cheap and nearly automated, or expensive and reserved for already-proven operators.
@@ -54,10 +81,15 @@ A digital-marketing agency serving Australian SMBs (cleaning companies, yard-wor
 - Some founders can profitably serve the middle if they've solved distribution so cheaply that CAC stays structurally low — the dead zone is a default, not a law of physics.
 
 ## Relationships
-- **related:** [[Barbell Pricing and the Unscalable Premium Offer]]
-- **related:** [[ICP Qualification Through Segmented Churn]]
-- **related:** [[Compete on Efficiency When You Can't Control Price]]
-- **related:** [[The Virtuous Cycle of Service Businesses]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/ICP Qualification Through Segmented Churn|ICP Qualification Through Segmented Churn]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of Service Businesses|The Virtuous Cycle of Service Businesses]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You Can't Control Price|Compete on Efficiency When You Can't Control Price]]
 ## Source reference
-Alex Hormozi, business-breakdown/AMA compilation (service business scaling segment). Raw transcript archived in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript]]; extraction notes in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript|Cash Cow Breakdowns - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]

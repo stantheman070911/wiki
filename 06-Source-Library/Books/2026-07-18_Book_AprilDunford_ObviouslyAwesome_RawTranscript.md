@@ -1,12 +1,17 @@
 ---
+source_id: "SRC-0023"
 title: "Obviously Awesome"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "April Dunford"
+    role: "author"
 source_type: "book"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "April Dunford"
+published_on: "2019"
 date_archived: "2026-07-18"
 status: "source"
 ---

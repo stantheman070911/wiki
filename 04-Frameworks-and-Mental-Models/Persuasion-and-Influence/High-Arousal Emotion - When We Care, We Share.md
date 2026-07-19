@@ -3,20 +3,46 @@ title: "High-Arousal Emotion - When We Care, We Share"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/word-of-mouth, topic/persuasion, topic/content-strategy, topic/storytelling, person/jonah-berger, source/contagious]
-source:
-  type: "book"
-  name: "Contagious: Why Things Catch On"
-  author: "Jonah Berger"
-  url: ""
-  date_of_source: "2013"
+tags:
+  [
+    topic/word-of-mouth,
+    topic/persuasion,
+    topic/content-strategy,
+    topic/storytelling,
+    person/jonah-berger,
+    source/contagious
+  ]
+sources:
+  - id: "SRC-0033"
+    role: "primary"
+    locator: "ch. 3"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: "2026-07-18"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
+      Framework - Six Drivers of Word of Mouth
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
+      - Heros Journey, the Trojan Horse, and Handling Objections
+  - type: is-applied-by
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
+      Framework - Six Drivers of Word of Mouth
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top
+      of Mind, Tip of Tongue
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable
+      Virality - Build a Trojan Horse People Can't Retell Without You
 ---
 
 # High-Arousal Emotion - When We Care, We Share
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 Sharing is driven by physiological *arousal*, not by whether an emotion is positive or negative — so evoke high-arousal feelings (awe, excitement, amusement, anger, anxiety) and avoid low-arousal ones (sadness, contentment) that make people power down.
@@ -49,10 +75,14 @@ The third STEPPS driver (see [[The STEPPS Framework - Six Drivers of Word of Mou
 - Place your message where the audience is already activated, and watch high-arousal *negative* chatter about you so you can address it fast.
 
 ## Relationships
-- **applies:** [[The STEPPS Framework - Six Drivers of Word of Mouth]]
-- **related:** [[Valuable Virality - Build a Trojan Horse People Can't Retell Without You]]
-- **related:** [[Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections]]
-- **related:** [[Triggers - Top of Mind, Tip of Tongue]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections|Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue|Triggers - Top of Mind, Tip of Tongue]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable Virality - Build a Trojan Horse People Can't Retell Without You|Valuable Virality - Build a Trojan Horse People Can't Retell Without You]]
 ## Source reference
-Jonah Berger, *Contagious: Why Things Catch On* (Simon & Schuster, 2013), ch. 3. Extraction notes in [[2026-07-18_Book_JonahBerger_Contagious]]; full text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_JonahBerger_Contagious|Contagious: Why Things Catch On]] — locator: ch. 3

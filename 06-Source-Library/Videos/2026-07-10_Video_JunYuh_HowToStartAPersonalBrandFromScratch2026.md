@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0076"
 title: "4 Steps On How To Start Your Personal Brand From Scratch In 2026"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Jun Yuh"
+    role: "creator"
 source_type: "video"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Jun Yuh"
 date_archived: "2026-07-10"
 status: "source"
 ---

@@ -3,20 +3,30 @@ title: "Reframing Trauma and Labels - Logic, Evidence, Utility"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/identity, topic/decision-making, person/alex-hormozi]
-source:
-  type: "video"
-  name: "How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags: [ topic/mindset, topic/identity, topic/decision-making, person/alex-hormozi ]
+sources:
+  - id: "SRC-0068"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and
+      the Blame-Power Law
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite
+      Games - Winning by Emptying the Tank
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin
+      Story - Heroes Use Pain
 ---
 
 # Reframing Trauma and Labels - Logic, Evidence, Utility
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 "Demons," "trauma," and "I'm-the-type-of-person-who" labels are just behaviors under conditions; define them concretely, test them, and you regain the ability to change.
@@ -46,9 +56,12 @@ Hormozi argues that mystical self-talk ("I have demons," "it's stored in my body
 - Hormozi has to actively defend against hometown labels ("hothead," "short temper") — a case for changing your *environment* so it stops reinforcing labels you then perpetuate.
 
 ## Relationships
-- **related:** [[Accountability and the Blame-Power Law]]
-- **related:** [[Hardship as Origin Story - Heroes Use Pain]]
-- **related:** [[Finite vs Infinite Games - Winning by Emptying the Tank]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and the Blame-Power Law|Accountability and the Blame-Power Law]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite Games - Winning by Emptying the Tank|Finite vs Infinite Games - Winning by Emptying the Tank]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain|Hardship as Origin Story - Heroes Use Pain]]
 ## Source reference
-Alex Hormozi, *How To Actually Get Rich In Your 20s (7-Hour Ultimate Guide)*. Extraction notes and raw transcript in [[2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]

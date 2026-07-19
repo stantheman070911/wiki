@@ -3,20 +3,49 @@ title: "Don't Resign, Redesign - Four Ways to Change Work in Place"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/career, topic/strategy, topic/skills, topic/decision-making, topic/innovation, person/bill-burnett, person/dave-evans, source/designing-your-new-work-life]
-source:
-  type: "book"
-  name: "Designing Your New Work Life"
-  author: "Bill Burnett and Dave Evans"
-  url: ""
-  date_of_source: "2021"
+tags:
+  [
+    topic/career,
+    topic/strategy,
+    topic/skills,
+    topic/decision-making,
+    topic/innovation,
+    person/bill-burnett,
+    person/dave-evans,
+    source/designing-your-new-work-life
+  ]
+sources:
+  - id: "SRC-0026"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
+      Filter - Stay, Scale, or Burn It Down
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Overwhelm Is
+      a System Signal - Diagnose Before Burnout
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good
+      Enough for Now - Acceptance Without Settling
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The ARC of
+      Career Motivation - Autonomy, Relatedness, and Competence
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace
+      Influence Mapping - Authority, Value, and Recognition
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Quitting Well and
+      Moving On
 ---
 
 # Don't Resign, Redesign - Four Ways to Change Work in Place
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Before absorbing the risk of a new employer, test whether the existing job can be reframed, remodeled, relocated, or reinvented around a better fit.
@@ -53,10 +82,15 @@ Choose the lightest viable redesign:
 Sarah loved technical leadership but was drained by budgets and schedules. She partnered with Production Engineering, framed the shift around faster, better code and fewer handoff problems, and won a three-month trial that permanently reassigned administrative work while preserving her senior role.
 
 ## Relationships
-- **related:** [[The ARC of Career Motivation - Autonomy, Relatedness, and Competence]]
-- **related:** [[Workplace Influence Mapping - Authority, Value, and Recognition]]
-- **related:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- **related:** [[Quitting Well and Moving On]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Overwhelm Is a System Signal - Diagnose Before Burnout|Overwhelm Is a System Signal - Diagnose Before Burnout]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good Enough for Now - Acceptance Without Settling|Good Enough for Now - Acceptance Without Settling]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The ARC of Career Motivation - Autonomy, Relatedness, and Competence|The ARC of Career Motivation - Autonomy, Relatedness, and Competence]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Workplace Influence Mapping - Authority, Value, and Recognition|Workplace Influence Mapping - Authority, Value, and Recognition]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Quitting Well and Moving On|Quitting Well and Moving On]]
 ## Source reference
-Bill Burnett and Dave Evans, *Designing Your New Work Life* (2021; originally published as *Designing Your Work Life*, 2020). [[2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript|Designing Your New Work Life - Raw Transcript]]

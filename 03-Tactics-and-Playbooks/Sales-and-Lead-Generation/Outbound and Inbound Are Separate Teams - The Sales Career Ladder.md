@@ -3,20 +3,45 @@ title: "Outbound and Inbound Are Separate Teams - The Sales Career Ladder"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/hiring, topic/sales, topic/compensation, topic/org-design, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi — Cash Cow Business Breakdowns & Service/E-commerce/HVAC Scaling AMAs (compilation)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/hiring,
+    topic/sales,
+    topic/compensation,
+    topic/org-design,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0073"
+    role: "primary"
+  - id: "SRC-0074"
+    role: "supporting"
 date_added: "2026-07-09"
 updated: "2026-07-09"
 reviewed_on: "2026-07-09"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders -
+      Reverse-Engineer OTE, Profit Pools, and Phantom Equity
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
+      Intellectual Property - Process Above the Player
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four
+      Lead-Conversion Levers - Speed, Availability, Personalization, Volume
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback -
+      Sales as the Training Ground
 ---
 
 # Outbound and Inbound Are Separate Teams - The Sales Career Ladder
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Giving the same reps both outbound (self-generated, cold) and inbound (company-provided, warm) leads at once kills hustle on the harder, more valuable skill — outbound and inbound should be separate roles, with inbound treated as an earned promotion with its own comp structure.
@@ -53,10 +78,15 @@ A door-to-door roofing sales organization saw its outbound door-knocking hustle 
 - Some organizations deliberately keep top performers on a blend once they're proven, treating the blended role itself as the top rung of the ladder — the key is that it's earned, not default.
 
 ## Relationships
-- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- **related:** [[Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
-- **related:** [[Sales Systems as Intellectual Property - Process Above the Player]]
-- **related:** [[Volume and Feedback - Sales as the Training Ground]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity|Compensating Leaders - Reverse-Engineer OTE, Profit Pools, and Phantom Equity]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing|Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume|The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]
 ## Source reference
-Alex Hormozi, business-breakdown/AMA compilation (service business scaling segment, roofing example). Raw transcript archived in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript]]; extraction notes in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript|Cash Cow Breakdowns - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]

@@ -3,20 +3,39 @@ title: "Inertia and Entropy - Three Kinds of Organizational Stuckness"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/strategy, topic/culture, topic/systems, topic/org-design, person/richard-rumelt, source/good-strategy-bad-strategy]
-source:
-  type: "book"
-  name: "Good Strategy/Bad Strategy: The Difference and Why It Matters"
-  author: "Richard Rumelt"
-  url: ""
-  date_of_source: "2011"
+tags:
+  [
+    topic/strategy,
+    topic/culture,
+    topic/systems,
+    topic/org-design,
+    person/richard-rumelt,
+    source/good-strategy-bad-strategy
+  ]
+sources:
+  - id: "SRC-0038"
+    role: "primary"
+    locator: "Ch. 14"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Chain-Link
+      Systems - Getting Stuck and Getting Unstuck
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Riding
+      Waves of Change - Five Guideposts for Industry Transitions
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy
+      as Design - Coordinating Actions Under Constraint
 ---
 
 # Inertia and Entropy - Three Kinds of Organizational Stuckness
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 An organization's biggest strategic threat is often not competitors but its own decay — inertia (resistance to changing course) comes in three distinct forms with different fixes, while entropy (the steady loss of order and focus even absent any external change) means that without constant active maintenance, even a brilliantly designed strategy blurs and collapses on its own.
@@ -53,9 +72,12 @@ Names the internal-decay half of what [[Riding Waves of Change - Five Guideposts
 - **Denton's garden-supply chain (1997)**: a properly built hump chart revealed that the top-ranked outlet's gain-to-operating ($1.05M) exceeded the entire 28-outlet chain's total ($0.32M) — pure entropy, with no external competitive shock, fixed within two years by closing the worst outlets and transferring best practices, raising total profit from $100K to over $5M.
 
 ## Relationships
-- **related:** [[Riding Waves of Change - Five Guideposts for Industry Transitions]]
-- **related:** [[Chain-Link Systems - Getting Stuck and Getting Unstuck]]
-- **related:** [[Strategy as Design - Coordinating Actions Under Constraint]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Chain-Link Systems - Getting Stuck and Getting Unstuck|Chain-Link Systems - Getting Stuck and Getting Unstuck]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Riding Waves of Change - Five Guideposts for Industry Transitions|Riding Waves of Change - Five Guideposts for Industry Transitions]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy as Design - Coordinating Actions Under Constraint|Strategy as Design - Coordinating Actions Under Constraint]]
 ## Source reference
-Richard Rumelt, *Good Strategy/Bad Strategy: The Difference and Why It Matters* (2011), Ch. 14 ("Inertia and Entropy"). Raw text archived in [[2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 14

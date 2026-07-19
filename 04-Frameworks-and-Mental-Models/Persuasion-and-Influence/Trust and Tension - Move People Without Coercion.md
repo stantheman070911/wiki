@@ -3,20 +3,42 @@ title: "Trust and Tension - Move People Without Coercion"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/trust, topic/persuasion, topic/influence, topic/marketing, person/seth-godin, source/this-is-marketing]
-source:
-  type: "book"
-  name: "This Is Marketing"
-  author: "Seth Godin"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/trust,
+    topic/persuasion,
+    topic/influence,
+    topic/marketing,
+    person/seth-godin,
+    source/this-is-marketing
+  ]
+sources:
+  - id: "SRC-0039"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control -
+      Constructive Tension Across the Sale
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as
+      Infrastructure
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/People Like Us
+      Do Things Like This - Culture and Status as Behavior
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical
+      Empathy - Labels, Silence, and the Accusation Audit
 ---
 
 # Trust and Tension - Move People Without Coercion
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 Ethical change happens when earned trust makes it safe to act and productive tension makes remaining unchanged less comfortable than moving forward.
@@ -54,10 +76,13 @@ Design an ethical movement from stasis to action:
 Slack created useful tension inside teams: the service became more valuable as coworkers joined, while nonparticipants risked missing the shared workflow. Its adoption spread because the network benefit gave users a truthful reason to invite peers, not merely because Slack requested referrals.
 
 ## Relationships
-- **related:** [[People Like Us Do Things Like This - Culture and Status as Behavior]]
-- **related:** [[Trust as Infrastructure]]
-- **related:** [[Taking Control - Constructive Tension Across the Sale]]
-- **related:** [[Tactical Empathy - Labels, Silence, and the Accusation Audit]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Taking Control - Constructive Tension Across the Sale|Taking Control - Constructive Tension Across the Sale]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Trust as Infrastructure|Trust as Infrastructure - Reputation, Verification, and Exclusion in Decentralized Markets]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/People Like Us Do Things Like This - Culture and Status as Behavior|People Like Us Do Things Like This - Culture and Status as Behavior]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical Empathy - Labels, Silence, and the Accusation Audit|Tactical Empathy - Labels, Silence, and the Accusation Audit]]
 ## Source reference
-Seth Godin, *This Is Marketing: You Can't Be Seen Until You Learn to See* (2018), [[2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript|This Is Marketing]]

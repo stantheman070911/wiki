@@ -3,20 +3,61 @@ title: "Use Tools and Protocols to Shape How Work Is Done"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/systems, topic/management, topic/idea-meritocracy, topic/radical-transparency, person/ray-dalio, source/bridgewater-associates]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/systems,
+    topic/management,
+    topic/idea-meritocracy,
+    topic/radical-transparency,
+    person/ray-dalio,
+    source/bridgewater-associates
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 15"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
+      Your Decision Making
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
+      Discipline - Freedom, Responsibility, and Stop-Doing Lists
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity
+      Needs Standards and Distributed Judgment
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Soft Skills
+      Are Observable Behavior Chains
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a
+      Culture Where Mistakes Are Okay But Not Learning From Them Isn't
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules
+      - Codify, Transfer, and Train Behavior
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Checklist Design -
+      Pause Points, Killer Items, and Field Testing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements
+      to Your Machine to Get Around Your Problems
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
+      to Do
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone
+      Operating a Machine to Achieve a Goal
 ---
 
 # Use Tools and Protocols to Shape How Work Is Done
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 Words and good intentions alone don't durably change behavior — real behavior change requires embedding principles into habitual tools and protocols, which is why Dalio explicitly warns that this book alone, read without any accompanying practice tools, is unlikely to change how a reader actually acts.
@@ -49,10 +90,19 @@ Fifteenth chapter of Work Principles, and the direct argument for why Bridgewate
 - Dalio's own framing of the risk this chapter addresses: readers who finish *Principles* and feel like they understand it, but never build or adopt any tool to practice it, are the expected failure mode — understanding a principle intellectually and having it actually shape behavior under pressure are treated as two different, separately-earned things.
 
 ## Relationships
-- **applies:** [[Believability-Weight Your Decision Making]]
-- **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
-- **related:** [[Design Improvements to Your Machine to Get Around Your Problems]]
-- **applies:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity Needs Standards and Distributed Judgment|Complexity Needs Standards and Distributed Judgment]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Soft Skills Are Observable Behavior Chains|Soft Skills Are Observable Behavior Chains]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior|Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Checklist Design - Pause Points, Killer Items, and Field Testing|Checklist Design - Pause Points, Killer Items, and Field Testing]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements to Your Machine to Get Around Your Problems|Design Improvements to Your Machine to Get Around Your Problems]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone Operating a Machine to Achieve a Goal|Manage as Someone Operating a Machine to Achieve a Goal]]
 ## Source reference
-Ray Dalio, *Principles*, Part III, Ch. 15 ("Use Tools and Protocols to Shape How Work Is Done"), plus the "Tools and Protocols for Bridgewater's Idea Meritocracy" appendix. Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 15

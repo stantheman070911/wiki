@@ -3,20 +3,40 @@ title: "Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/execution, person/elon-musk]
-source:
-  type: "book"
-  name: "The Book of Elon: A Guide to Purpose and Success"
-  author: "Eric Jorgenson (Elon Musk)"
-  url: ""
-  date_of_source: "2026"
+tags: [ topic/execution, person/elon-musk ]
+sources:
+  - id: "SRC-0004"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
+      Return on Time, and Money Rules
+  - type: is-applied-by
+    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
+      Manufacturing as the Moat
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
+      to Do
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm -
+      Musk's Five-Step Process Method
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles
+      Thinking - Reason from Physics, Not Analogy
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite
+      Games - Winning by Emptying the Tank
 ---
 
 # Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Speed is both offense and defense: move with maniacal urgency, run tasks in parallel instead of in series, break the "impossible" into doable pieces, and set aggressive timelines that pull the whole schedule forward even when you miss them.
@@ -50,11 +70,15 @@ Across SpaceX and Tesla, Musk treats time as the scarce resource and pace as a c
 - Musk living on production lines and leading from the frontline during crises.
 
 ## Relationships
-- **related:** [[The Algorithm - Musk's Five-Step Process Method]]
-- **related:** [[The Factory Is the Product - Manufacturing as the Moat]]
-- **related:** [[First-Principles Thinking - Reason from Physics, Not Analogy]]
-- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- **related:** [[Finite vs Infinite Games - Winning by Emptying the Tank]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
+- **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm - Musk's Five-Step Process Method|The Algorithm - Musk's Five-Step Process Method]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles Thinking - Reason from Physics, Not Analogy|First-Principles Thinking - Reason from Physics, Not Analogy]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite Games - Winning by Emptying the Tank|Finite vs Infinite Games - Winning by Emptying the Tank]]
 ## Source reference
-Eric Jorgenson, *The Book of Elon* (2026), "Maniacal Urgency." Extraction notes in [[2026-07-08_Book_EricJorgenson_TheBookOfElon]]; PDF archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_EricJorgenson_TheBookOfElon|The Book Of Elon]]

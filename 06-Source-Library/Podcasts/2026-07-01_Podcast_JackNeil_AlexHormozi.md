@@ -1,17 +1,23 @@
 ---
-title: "Alex Hormozi"
+source_id: "SRC-0047"
+title: "Alex Hormozi on the Jack Neil Podcast"
+aliases:
+  - "Alex Hormozi — Jack Neil Podcast"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Jack Neil"
+    role: "creator"
 source_type: "podcast"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "zh"
 processing_status: "processed"
-author: "Jack Neil"
 date_archived: "2026-07-01"
 status: "source"
 ---
 
-# Alex Hormozi — Jack Neil Podcast：重點筆記與心得
+# Alex Hormozi on the Jack Neil Podcast
 
 本文件為訪談中關鍵觀念、框架與金句的整理。以主題分類，而非依時間順序排列。
 

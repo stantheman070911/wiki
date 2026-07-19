@@ -3,20 +3,51 @@ title: "The Designer's Way - Acceptance, Availability, and Engaged Detachment"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/decision-making, topic/courage, person/bill-burnett, person/dave-evans, source/how-to-live-a-meaningful-life]
-source:
-  type: "book"
-  name: "How to Live a Meaningful Life"
-  author: "Bill Burnett and Dave Evans"
-  url: ""
-  date_of_source: "2026"
+tags:
+  [
+    topic/mindset,
+    topic/decision-making,
+    topic/courage,
+    person/bill-burnett,
+    person/dave-evans,
+    source/how-to-live-a-meaningful-life
+  ]
+sources:
+  - id: "SRC-0027"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well -
+      Narrow, Decide, Let Go, and Move On
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good
+      Enough for Now - Acceptance Without Settling
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Meaning in
+      Life Is Designed in Particular Moments
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Moment-Making
+      - Crafted, Discovered, and Savored Experiences
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Simple
+      Flow - Presence Beyond Peak Performance
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Wonder
+      Formula - Curiosity Plus Mystery
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Transactional
+      and Flow Worlds - Intent Versus What Is
 ---
 
 # The Designer's Way - Acceptance, Availability, and Engaged Detachment
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 Accept reality, remain ready for what it offers, engage fully in controllable action, and release attachment to outcomes you cannot control.
@@ -51,11 +82,16 @@ Use the **A-A-E-D loop**:
 When a flight is delayed, the actionable problem is not how to change the weather but how to use the extra time. On a far larger scale, accepting a terminal diagnosis allowed Claudia and her family to direct their remaining time toward living rather than denial; acceptance changed the available response without approving the loss.
 
 ## Relationships
-- **related:** [[Moment-Making - Crafted, Discovered, and Savored Experiences]]
-- **related:** [[Transactional and Flow Worlds - Intent Versus What Is]]
-- **related:** [[Simple Flow - Presence Beyond Peak Performance]]
-- **related:** [[Good Enough for Now - Acceptance Without Settling]]
-- **related:** [[Choosing Well - Narrow, Decide, Let Go, and Move On]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well - Narrow, Decide, Let Go, and Move On|Choosing Well - Narrow, Decide, Let Go, and Move On]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good Enough for Now - Acceptance Without Settling|Good Enough for Now - Acceptance Without Settling]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Meaning in Life Is Designed in Particular Moments|Meaning in Life Is Designed in Particular Moments]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Moment-Making - Crafted, Discovered, and Savored Experiences|Moment-Making - Crafted, Discovered, and Savored Experiences]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Simple Flow - Presence Beyond Peak Performance|Simple Flow - Presence Beyond Peak Performance]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Wonder Formula - Curiosity Plus Mystery|The Wonder Formula - Curiosity Plus Mystery]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Transactional and Flow Worlds - Intent Versus What Is|Transactional and Flow Worlds - Intent Versus What Is]]
 ## Source reference
-Bill Burnett and Dave Evans, *How to Live a Meaningful Life: Using Design Thinking to Unlock Purpose, Joy, and Flow Every Day* (2026). [[2026-07-18_Book_BillBurnettDaveEvans_HowToLiveAMeaningfulLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_HowToLiveAMeaningfulLife_RawTranscript|How to Live a Meaningful Life]]

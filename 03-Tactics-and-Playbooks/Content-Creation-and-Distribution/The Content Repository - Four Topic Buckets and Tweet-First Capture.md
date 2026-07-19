@@ -3,20 +3,49 @@ title: "The Content Repository - Four Topic Buckets and Tweet-First Capture"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/content-strategy, topic/repurposing, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Building a brand, but it's on easy mode instead"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags: [ topic/content-strategy, topic/repurposing, person/alex-hormozi ]
+sources:
+  - id: "SRC-0066"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+  Creation and Distribution Map
+relationships:
+  - type: applies
+    target: 02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why
+  - type: applies
+    target: 02-Social-Media-Strategy/The AI-Era Content Barbell
+  - type: applies
+    target: 02-Social-Media-Strategy/對標方法論與靈感池系統
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Framework for Making Frameworks - Distill by Commonality
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
+      Create - Engineering Proof at Scale
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+      Planner and the Analyze-Double-Down Loop
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking
+      Attention - Topic, Format, Hook and the Content Engine
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
+      Proof, Path - Engineering the Video Intro
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall
+      Distribution Method - One Pillar, a Week of Content
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
+      Business - Train Like an Employee and the Department Playbook
 ---
 
 # The Content Repository - Four Topic Buckets and Tweet-First Capture
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution]]
 
 ## One-line summary
 Never run out of content by capturing ideas in real time into a single repository (Hormozi uses tweets as the source of everything) and drawing topics from four buckets — far past, recent past, real-time, and manufactured.
@@ -52,11 +81,19 @@ Never run out of content by capturing ideas in real time into a single repositor
 - The "lessons to my younger self" videos drew the whole workshop room despite ~1/3 the views of his case studies — top-of-funnel that feeds the niche.
 
 ## Relationships
-- **related:** [[Content Planner and the Analyze-Double-Down Loop]]
-- **related:** [[Capture Dont Create - Engineering Proof at Scale]]
-- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
-- **applies:** [[Creator Vision Framework - What x Who x Why]]
-- **applies:** [[對標方法論與靈感池系統]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[02-Social-Media-Strategy/Creator Vision Framework - What x Who x Why|Creator Vision Framework: What x Who x Why]]
+- **Applies:** [[02-Social-Media-Strategy/The AI-Era Content Barbell|The AI-Era Content Barbell - Raw Shorts, Produced Long Form, and Live Interaction]]
+- **Applies:** [[02-Social-Media-Strategy/對標方法論與靈感池系統|對標方法論與靈感池系統]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Framework for Making Frameworks - Distill by Commonality|The Framework for Making Frameworks - Distill by Commonality]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Planner and the Analyze-Double-Down Loop|Content Planner and the Analyze-Double-Down Loop]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking Attention - Topic, Format, Hook and the Content Engine|Hacking Attention - Topic, Format, Hook and the Content Engine]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Waterfall Distribution Method - One Pillar, a Week of Content|The Waterfall Distribution Method - One Pillar, a Week of Content]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your Business - Train Like an Employee and the Department Playbook|Using AI in Your Business - Train Like an Employee and the Department Playbook]]
 ## Source reference
-Alex Hormozi, *Building a brand, but it's on easy mode instead*. Extraction notes in [[2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode|Building a Brand - Easy Mode]]

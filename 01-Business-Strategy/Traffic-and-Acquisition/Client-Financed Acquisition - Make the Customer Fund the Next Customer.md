@@ -3,20 +3,48 @@ title: "Client-Financed Acquisition - Make the Customer Fund the Next Customer"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/cac, topic/cash-flow, topic/unit-economics, topic/ltv, topic/paid-ads, person/alex-hormozi]
-source:
-  type: "book"
-  name: "$100M Leads"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/cac,
+    topic/cash-flow,
+    topic/unit-economics,
+    topic/ltv,
+    topic/paid-ads,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0019"
+    role: "primary"
+    locator: "Part 2"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Cold Outreach -
+      Personalize, Big Fast Value, Volume
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
+      Rule of 100 - Lead Generation Fundamentals
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing
+      Offers to Fund Growth
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
+      Traffic Before the Core Offer
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS
+      - The Percentage Lies
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
+      - Ads Are an At-Bats Game
 ---
 
 # Client-Financed Acquisition - Make the Customer Fund the Next Customer
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 If a customer pays you more than it cost to acquire *and* fulfill them within the first 30 days, a credit card's interest-free window funds the next customer — removing cash as the ceiling on growth, and turning "scale" from a funding problem into a pure efficiency problem.
@@ -56,10 +84,15 @@ When the first purchase alone doesn't clear it (e.g., a $115/mo membership at ~$
 - A portfolio company spent 12 weeks and ~$150K on paid ads with the *right* leads on the phone who wouldn't buy — an advertising *diagnosis* that was actually a *sales* problem; giving up mid-fix cost an estimated ~$1M in enterprise value.
 
 ## Relationships
-- **related:** [[The Money Model - Sequencing Offers to Fund Growth]]
-- **related:** [[Maximize Net Cash, Not ROAS - The Percentage Lies]]
-- **related:** [[The Creative Volume Engine - Ads Are an At-Bats Game]]
-- **related:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Cold Outreach - Personalize, Big Fast Value, Volume|Cold Outreach - Personalize, Big Fast Value, Volume]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing Offers to Fund Growth|The Money Model - Sequencing Offers to Fund Growth]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold Traffic Before the Core Offer|The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS - The Percentage Lies|Maximize Net Cash, Not ROAS - The Percentage Lies]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
 ## Source reference
-Alex Hormozi, *$100M Leads* (2023), "Run Paid Ads Part 2: Money Stuff." Raw transcript archived at [[2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript|$100M Leads]] — locator: Part 2

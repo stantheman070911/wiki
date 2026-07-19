@@ -3,20 +3,43 @@ title: "Advances, Not Continuations - Plan Every Sales Call"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/systems, topic/qualification, topic/feedback, person/neil-rackham, source/the-spin-selling-fieldbook]
-source:
-  type: "book"
-  name: "The SPIN Selling Fieldbook"
-  author: "Neil Rackham"
-  url: ""
-  date_of_source: "1996"
+tags:
+  [
+    topic/sales,
+    topic/systems,
+    topic/qualification,
+    topic/feedback,
+    person/neil-rackham,
+    source/the-spin-selling-fieldbook
+  ]
+sources:
+  - id: "SRC-0036"
+    role: "primary"
+    locator: "chapters 4–5 and 12–13"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
+      Intellectual Property - Process Above the Player
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery -
+      Situation, Problem, Implication, and Need-Payoff
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
+      Rhythm - Leads, Appointments, Presentations, and Sales
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes -
+      Decision Criteria, Buying Process, and Mutual Effort
 ---
 
 # Advances, Not Continuations - Plan Every Sales Call
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Define success for each complex-sales call as a realistic buyer-backed action that advances the decision, then plan the questions, fallback outcome, and review needed to earn it.
@@ -56,10 +79,13 @@ Afterward, review whether the Advance occurred, what worked, what was missed, an
 Rackham describes discovering his own regression after months on the speaking circuit: a filmed sales call contained only seven questions, six of them low-value Situation Questions. Reviewing the recording exposed a telling habit his self-image had concealed.
 
 ## Relationships
-- **related:** [[The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
-- **related:** [[The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
-- **related:** [[SPIN Discovery - Situation, Problem, Implication, and Need-Payoff]]
-- **related:** [[Sales Systems as Intellectual Property - Process Above the Player]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/SPIN Discovery - Situation, Problem, Implication, and Need-Payoff|SPIN Discovery - Situation, Problem, Implication, and Need-Payoff]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes - Decision Criteria, Buying Process, and Mutual Effort|The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
 ## Source reference
-Neil Rackham, *The SPIN Selling Fieldbook* (1996), chapters 4–5 and 12–13. [[2026-07-18_Book_NeilRackham_TheSPINSellingFieldbook_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_NeilRackham_TheSPINSellingFieldbook_RawTranscript|The SPIN Selling Fieldbook]] — locator: chapters 4–5 and 12–13

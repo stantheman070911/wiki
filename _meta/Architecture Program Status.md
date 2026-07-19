@@ -1,15 +1,21 @@
 ---
-title: "Architecture Program Status"
+title: "Architecture Program Status - 2026-07-13 Historical Snapshot"
+aliases:
+  - "Architecture Program Status"
 type: "governance"
 domain: "meta"
 lang: "en"
-updated: "2026-07-13"
-status: "evergreen"
+snapshot_on: "2026-07-13"
+updated: "2026-07-19"
+status: "historical"
 ---
 
-# Architecture Program Status
+# Architecture Program Status — 2026-07-13 Historical Snapshot
 
-This ledger maps the 64-item architecture program to durable evidence. “Complete” means the requested structure or governing system exists and passes validation; it does not mean every draft has been promoted or every weak link has received human editorial judgment.
+> [!warning] Frozen historical record
+> This page preserves the architecture-program handoff as recorded on 13 July 2026. It is not a live status page and must not be used for current counts or release decisions. Use [[Architecture Report]], [[Maintenance Review]], and [[Editorial Dashboard]] for generated current state.
+
+The numbered ledger below records the completion judgments made at the snapshot date. “Complete” meant that the requested structure or governing system existed and passed the then-current validation; it did not mean every draft had been promoted or every weak link had received human editorial judgment.
 
 ## Priority 0
 
@@ -20,15 +26,15 @@ This ledger maps the 64-item architecture program to durable evidence. “Comple
 | 3 | Complete | `tools/audit-vault.mjs` resolves the destination before validating fragments. |
 | 4 | Complete | Hubs and semantic indexes have explicit types, rules, counts, and validation. |
 | 5 | Complete | [[Architecture Schema#Page types]] defines the explicit page-type model; all pages are typed. |
-| 6 | Complete | [[Topic-Index]] is generated with 153 active, 82 bilingual, 71 monolingual, and deprecated views. |
+| 6 | Complete | [[Topic-Index]] was generated with active, bilingual, monolingual, and deprecated views. |
 | 7 | Complete | [[Home]] distinguishes the complete taxonomy from the bilingual bridge. |
 | 8 | Complete | Every standard entry has a navigable source, URL, attachment, or explicit unavailable marker. |
 | 9 | Complete | No retired `_Inbox` reference remains; the audit blocks regression. |
 | 10 | Complete | [[連鎖經營學來源清單]] maps all collection files, attachments, modules, derivatives, and status. |
 | 11 | Complete | Series modules use navigable template and spreadsheet links. |
 | 12 | Complete | Video sources live under `Videos/`; source-folder conformity is enforced. |
-| 13 | Complete | All 57 retained attachments have inbound coverage. |
-| 14 | Complete | All 81 Markdown sources are covered or explicitly lifecycle-classified. |
+| 13 | Complete | The retained-attachment set was recorded as having inbound coverage. |
+| 14 | Complete | Markdown sources were recorded as covered or explicitly lifecycle-classified. |
 
 ## Priority 1
 
@@ -41,26 +47,26 @@ This ledger maps the 64-item architecture program to durable evidence. “Comple
 | 19 | Complete | [[Architecture Schema#Folder axes and placement]] separates folder, type, tag, and series axes. |
 | 20 | Complete | Overlapping folder scopes and examples are documented and validated by domain/folder rules. |
 | 21 | Complete | Page-type definitions replace subjective primary-job placement. |
-| 22 | Complete | Three oversized areas have MOCs and explicit capacity decisions; unstable subfolders were intentionally avoided. |
+| 22 | Complete | Oversized areas had MOCs and explicit capacity decisions; unstable subfolders were intentionally avoided. |
 | 23 | Complete | All five major domain maps contain Start Here, curated paths, cornerstones, frameworks/playbooks, series, and inventory. |
 | 24 | Complete | MOCs exist for Mindset and Identity, Decision Making and Risk, and Focus, Execution, and Systems. |
 | 25 | Complete | Type-specific templates exist for frameworks, playbooks, diagnostics, research, series entries/hubs, articles, and manifests. |
 | 26 | Complete | Templates and audit enforce the shared content spine. |
 | 27 | Complete | English and Chinese variants share concepts rather than claiming identical headings. |
-| 28 | Complete | Chinese standard entries were reduced from 54 H2 signatures to five canonical page-type architectures; exact sequences now fail validation if they drift. |
-| 29 | Complete | The 17 English signatures were reviewed as a bounded mix of canonical, diagnostic, and source-specific layouts; every variant implements the shared spine. |
+| 28 | Complete | Chinese standard entries were consolidated into canonical page-type architectures; exact sequences were covered by validation. |
+| 29 | Complete | English section-layout variants were reviewed as a bounded mix of canonical, diagnostic, and source-specific layouts implementing the shared spine. |
 | 30 | Complete | H3 and visual-use rules are defined in [[Architecture Schema#Shared content spine]]. |
 | 31 | Complete | Long entries were migrated where independently linkable blocks existed; already well-segmented H2-only pages remain unchanged. |
 | 32 | Complete | [[Architecture Schema#Visual grammar]] governs tables, callouts, diagrams, procedures, and images. |
 | 33 | Complete | Structured tables now appear beyond the audited baseline; diagrams remain need-driven rather than decorative. |
-| 34 | Complete | Relationship lists use the six-label model; the first conservative semantic pass assigned 222 `applies`, 27 `example`, and 18 `prerequisite` lines while leaving ambiguous links `related`. |
+| 34 | Complete | Relationship lists used the typed-label model; the conservative semantic pass applied stronger labels while leaving ambiguous links `related`. |
 | 35 | Complete | Alias and rename policy is defined in [[Architecture Schema#Naming and aliases]]. |
 | 36 | Complete | All intentional filename/title mismatches have aliases; collisions are checked. |
 | 37 | Complete | Knowledge filenames are within 80 characters; full titles remain searchable through aliases. |
 | 38 | Complete | The identified complex multi-file collection has a manifest and reusable manifest template. |
 | 39 | Complete | [[Raw Source Policy]] defines search separation, verification access, and archive thresholds. |
-| 40 | Complete | All 39 raw transcripts declare `source_format: raw-transcript` and are excluded from knowledge counts. |
-| 41 | Complete | Both files over 1 MB have documented split decisions; [[Search Performance]] provides a repeatable comparison. |
+| 40 | Complete | Raw transcripts declared `source_format: raw-transcript` and were excluded from knowledge-page scope. |
+| 41 | Complete | Large Markdown sources had documented split decisions; [[Search Performance]] provided a repeatable comparison. |
 
 ## Priority 2
 
@@ -98,12 +104,13 @@ This ledger maps the 64-item architecture program to durable evidence. “Comple
 | 61 | Operational | Source size, coverage, performance, and archive-vault thresholds are scheduled. |
 | 62 | Operational | Draft age, ownership, promotion, retention, and deletion are scheduled and visible. |
 | 63 | Operational | Typed-link quality and zero-inbound pages have a recurring review queue. |
-| 64 | Complete | [[Maintenance Schedule#Architecture-program acceptance criteria]] defines measurable completion and the audit currently passes. |
+| 64 | Complete | [[Maintenance Schedule#Architecture-program acceptance criteria]] defined measurable completion and the release-gate commands. |
 
-## Current editorial queues, not structural failures
+## Live status moved to generated governance
 
-- **164 drafts** require editorial promotion, retention, or retirement decisions.
-- **96 knowledge pages with zero organic inbound links** require link-quality review; generated inventory links are deliberately excluded from this signal.
-- **5 evergreen pages** remain a deliberately small, manually accountable class rather than an automatic popularity label.
+Current counts, queues, and audit results are intentionally absent from this historical page. Consult:
 
-Current machine-verifiable state: [[Architecture Report|PASS with zero structural errors and zero shared-spine warnings]].
+- [[Architecture Report]] for the generated structural scorecard and release result;
+- [[Maintenance Review]] for generated recurring-maintenance evidence;
+- [[Editorial Dashboard]] for current editorial queues;
+- [[Maintenance Schedule]] for the active review cadence and acceptance criteria.

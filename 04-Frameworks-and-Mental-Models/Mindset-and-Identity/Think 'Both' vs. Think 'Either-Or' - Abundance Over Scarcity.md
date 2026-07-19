@@ -5,20 +5,30 @@ aliases:
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/decision-making, topic/wealth, person/t-harv-eker]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags: [ topic/mindset, topic/decision-making, topic/wealth, person/t-harv-eker ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on
+      Opportunities vs. Focus on Obstacles - Ready, Fire, Aim
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money
+      Well - The Habit Matters More Than the Amount
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint
+      - Reprogramming Thoughts, Feelings, and Actions Around Money
 ---
 
 # Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 When faced with an apparent trade-off — money or meaning, business or family, keep the agreement or keep the supplier happy — poor and middle-class thinking picks one side; rich thinking asks "how can I have both?" and treats that question as the actual creative work.
@@ -38,9 +48,12 @@ Wealth File #12. Eker frames this as a scarcity-vs-abundance split: poor and mid
 - Use yourself as a visible counterexample to the "money corrupts" belief: be deliberately generous and kind in ways that are visible to people who hold the scarcity belief.
 
 ## Relationships
-- **related:** [[Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim]]
-- **related:** [[Manage Your Money Well - The Habit Matters More Than the Amount]]
-- **related:** [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim|Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money Well - The Habit Matters More Than the Amount|Manage Your Money Well - The Habit Matters More Than the Amount]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #12. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

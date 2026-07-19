@@ -1,12 +1,17 @@
 ---
+source_id: "SRC-0039"
 title: "This Is Marketing"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Seth Godin"
+    role: "author"
 source_type: "book"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Seth Godin"
+published_on: "2018"
 date_archived: "2026-07-18"
 status: "source"
 ---

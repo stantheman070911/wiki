@@ -3,20 +3,59 @@ title: "Choosing Well - Narrow, Decide, Let Go, and Move On"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/decision-making, topic/prioritization, topic/commitment, topic/happiness, topic/opportunity-cost, person/bill-burnett, person/dave-evans, source/designing-your-life]
-source:
-  type: "book"
-  name: "Designing Your Life"
-  author: "Bill Burnett and Dave Evans"
-  url: ""
-  date_of_source: "2016"
+tags:
+  [
+    topic/decision-making,
+    topic/prioritization,
+    topic/commitment,
+    topic/happiness,
+    topic/opportunity-cost,
+    person/bill-burnett,
+    person/dave-evans,
+    source/designing-your-life
+  ]
+sources:
+  - id: "SRC-0025"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You
+      Pivot - Life Design Interviews and Experiences
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Quitting Well and
+      Moving On
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions
+      - Formation Beyond Problem Solving
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reframe Gravity
+      Problems into Actionable Problems
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey
+      Plans - Parallel Futures Before Commitment
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good
+      Enough for Now - Acceptance Without Settling
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+      Design Compass - Workview, Lifeview, and Coherency
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The
+      Designer's Way - Acceptance, Availability, and Engaged Detachment
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Failure Reframing
+      and Immunity
 ---
 
 # Choosing Well - Narrow, Decide, Let Go, and Move On
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 Good choosing requires enough options to find quality, few enough to decide, more than one way of knowing, and a deliberate transfer of attention from rejected paths to the chosen one.
@@ -53,10 +92,18 @@ To “grok” a difficult choice, live mentally as if Alternative A were decided
 Andy compared two routes into health policy by inhabiting each choice rather than endlessly analyzing it. Becoming “Med School Andy” felt more coherent, so he chose medical training. He then moved on by designing ways to make that decade itself relevant to policy instead of continuing to mourn the faster route.
 
 ## Relationships
-- **related:** [[Three Odyssey Plans - Parallel Futures Before Commitment]]
-- **related:** [[Prototype Before You Pivot - Life Design Interviews and Experiences]]
-- **related:** [[Life Design Compass - Workview, Lifeview, and Coherency]]
-- **related:** [[Reframe Gravity Problems into Actionable Problems]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You Pivot - Life Design Interviews and Experiences|Prototype Before You Pivot - Life Design Interviews and Experiences]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Quitting Well and Moving On|Quitting Well and Moving On]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions - Formation Beyond Problem Solving|Focus Questions - Formation Beyond Problem Solving]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reframe Gravity Problems into Actionable Problems|Reframe Gravity Problems into Actionable Problems]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey Plans - Parallel Futures Before Commitment|Three Odyssey Plans - Parallel Futures Before Commitment]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good Enough for Now - Acceptance Without Settling|Good Enough for Now - Acceptance Without Settling]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Design Compass - Workview, Lifeview, and Coherency|Life Design Compass - Workview, Lifeview, and Coherency]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Designer's Way - Acceptance, Availability, and Engaged Detachment|The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Failure Reframing and Immunity|Failure Reframing and Immunity]]
 ## Source reference
-Bill Burnett and Dave Evans, *Designing Your Life: How to Build a Well-Lived, Joyful Life* (2016). [[2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript|Designing Your Life - Raw Transcript]]

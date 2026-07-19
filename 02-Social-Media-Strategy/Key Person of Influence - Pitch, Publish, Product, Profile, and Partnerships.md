@@ -3,20 +3,42 @@ title: "Key Person of Influence - Pitch, Publish, Product, Profile, and Partners
 type: "strategy"
 domain: "social-media-strategy"
 lang: "en"
-tags: [topic/personal-brand, topic/positioning, topic/content-strategy, topic/product, topic/partnerships, topic/influence, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "Five Ps of a Key Person of Influence"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/personal-brand,
+    topic/positioning,
+    topic/content-strategy,
+    topic/product,
+    topic/partnerships,
+    topic/influence,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0090"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 02-Social-Media-Strategy/Social Media Strategy Index
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Audience-Growth/The Podcast Guest Ladder -
+      Hook, Product Ecosystem, and Podcast Pyramid
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/From Proof Story to
+      Scalable IP - Productize, Attract, Convert, and Amplify
+  - type: related
+    target: 02-Social-Media-Strategy/Levels of a Personal Brand and the Five Archetypes
+  - type: related
+    target: 02-Social-Media-Strategy/The Personal-Brand House - Foundation,
+      Interior, Exterior
 ---
 
 # Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships
+
+> **Up:** [[Home|Home]] → [[02-Social-Media-Strategy/Social Media Strategy Index|Social Media Strategy]]
 
 ## One-line summary
 Moving from skilled worker to industry authority requires five leverage skills beyond technical competence: pitching ideas, publishing thinking, productizing value, building a visible profile, and forming multiplier partnerships.
@@ -53,10 +75,13 @@ Audit the **Five Ps**:
 Priestley contrasts a worker who repeatedly changes industries to chase visible winners with one who stays in a valued field and develops the five leverage skills. The first repeatedly returns to beginner status; the second moves toward the power-law edge of the same field.
 
 ## Relationships
-- **related:** [[Levels of a Personal Brand and the Five Archetypes]]
-- **related:** [[The Personal-Brand House - Foundation, Interior, Exterior]]
-- **related:** [[From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify]]
-- **related:** [[The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Audience-Growth/The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid|The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify|From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify]]
+- **Related:** [[02-Social-Media-Strategy/Levels of a Personal Brand and the Five Archetypes|Levels of a Personal Brand and the Five Archetypes]]
+- **Related:** [[02-Social-Media-Strategy/The Personal-Brand House - Foundation, Interior, Exterior|The Personal-Brand House - Foundation, Interior, Exterior]]
 ## Source reference
-Daniel Priestley, *Five Ps of a Key Person of Influence*. Raw transcript in [[2026-07-13_Video_DanielPriestley_FivePsOfKeyPersonOfInfluence_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_FivePsOfKeyPersonOfInfluence_RawTranscript|Five Ps of a Key Person of Influence - Raw Transcript]]

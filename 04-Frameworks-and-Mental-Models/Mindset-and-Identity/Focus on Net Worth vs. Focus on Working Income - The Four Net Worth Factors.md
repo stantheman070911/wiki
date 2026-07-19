@@ -3,20 +3,36 @@ title: "Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Fact
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/wealth, topic/money, topic/decision-making, person/t-harv-eker]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags: [ topic/wealth, topic/money, topic/decision-making, person/t-harv-eker ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money
+      Management System
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Have Money Work
+      Hard for You vs. Working Hard for Your Money
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money
+      Well - The Habit Matters More Than the Amount
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs.
+      Paid on Time
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think
+      Small - The Law of Income
 ---
 
 # Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 "How much do you make" is the wrong question — the true measure of wealth is net worth (everything you own minus everything you owe), and net worth is a four-factor equation (income, savings, investments, simplification), not just a bigger paycheck.
@@ -37,9 +53,14 @@ Wealth File #13. Eker points out that income alone reliably fails to create weal
 - When evaluating a raise, sale, or windfall, ask which of the four factors it actually improves — a bigger paycheck that increases spending proportionally hasn't moved net worth at all.
 
 ## Relationships
-- **related:** [[Paid on Results vs. Paid on Time]]
-- **related:** [[Manage Your Money Well - The Habit Matters More Than the Amount]]
-- **related:** [[Have Money Work Hard for You vs. Working Hard for Your Money]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money Management System|The 6 Jars Money Management System]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Have Money Work Hard for You vs. Working Hard for Your Money|Have Money Work Hard for You vs. Working Hard for Your Money]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money Well - The Habit Matters More Than the Amount|Manage Your Money Well - The Habit Matters More Than the Amount]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs. Paid on Time|Paid on Results vs. Paid on Time]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think Small - The Law of Income|Think Big vs. Think Small - The Law of Income]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #13. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

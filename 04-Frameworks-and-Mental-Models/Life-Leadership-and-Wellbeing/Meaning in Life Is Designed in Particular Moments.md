@@ -3,20 +3,45 @@ title: "Meaning in Life Is Designed in Particular Moments"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/happiness, topic/mindset, topic/mission, person/bill-burnett, person/dave-evans, source/how-to-live-a-meaningful-life]
-source:
-  type: "book"
-  name: "How to Live a Meaningful Life"
-  author: "Bill Burnett and Dave Evans"
-  url: ""
-  date_of_source: "2026"
+tags:
+  [
+    topic/happiness,
+    topic/mindset,
+    topic/mission,
+    person/bill-burnett,
+    person/dave-evans,
+    source/how-to-live-a-meaningful-life
+  ]
+sources:
+  - id: "SRC-0027"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+  Leadership and Wellbeing Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+      Design Compass - Workview, Lifeview, and Coherency
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Moment-Making
+      - Crafted, Discovered, and Savored Experiences
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The
+      Designer's Way - Acceptance, Availability, and Engaged Detachment
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Transactional
+      and Flow Worlds - Intent Versus What Is
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
+      Proficiency, Pain Tolerance, and Frustration Tolerance
 ---
 
 # Meaning in Life Is Designed in Particular Moments
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 Stop treating meaning as a final answer or achievement; design it through attentive participation in the particular moments already composing your life.
@@ -50,10 +75,14 @@ Use the **particularity reframe**:
 A birthday cake cannot embody all beauty, love, or celebration, yet those universals become real through that one finite cake shared with particular people. Its limitation is not a defect; it is the only way an abstract good can enter lived experience.
 
 ## Relationships
-- **related:** [[Moment-Making - Crafted, Discovered, and Savored Experiences]]
-- **related:** [[The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
-- **related:** [[Life Design Compass - Workview, Lifeview, and Coherency]]
-- **related:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Design Compass - Workview, Lifeview, and Coherency|Life Design Compass - Workview, Lifeview, and Coherency]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Moment-Making - Crafted, Discovered, and Savored Experiences|Moment-Making - Crafted, Discovered, and Savored Experiences]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Designer's Way - Acceptance, Availability, and Engaged Detachment|The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Transactional and Flow Worlds - Intent Versus What Is|Transactional and Flow Worlds - Intent Versus What Is]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## Source reference
-Bill Burnett and Dave Evans, *How to Live a Meaningful Life: Using Design Thinking to Unlock Purpose, Joy, and Flow Every Day* (2026). [[2026-07-18_Book_BillBurnettDaveEvans_HowToLiveAMeaningfulLife_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_HowToLiveAMeaningfulLife_RawTranscript|How to Live a Meaningful Life]]

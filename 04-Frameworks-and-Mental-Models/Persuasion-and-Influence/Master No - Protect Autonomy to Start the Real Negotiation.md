@@ -3,20 +3,47 @@ title: "Master No - Protect Autonomy to Start the Real Negotiation"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/persuasion, topic/influence, topic/trust, topic/sales, person/chris-voss, person/tahl-raz, source/never-split-the-difference]
-source:
-  type: "book"
-  name: "Never Split the Difference"
-  author: "Chris Voss with Tahl Raz"
-  url: ""
-  date_of_source: "2016"
+tags:
+  [
+    topic/persuasion,
+    topic/influence,
+    topic/trust,
+    topic/sales,
+    person/chris-voss,
+    person/tahl-raz,
+    source/never-split-the-difference
+  ]
+sources:
+  - id: "SRC-0028"
+    role: "primary"
+    locator: "Chapter 4"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Ackerman
+      Bargaining System - Calibrated Concessions and Exact Numbers
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes -
+      Decision Criteria, Buying Process, and Mutual Effort
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated
+      Questions - How and What Create the Illusion of Control
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With
+      Agreement - Keep the Other Mind Open
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical
+      Empathy - Labels, Silence, and the Accusation Audit
 ---
 
 # Master No - Protect Autonomy to Start the Real Negotiation
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 Invite a safe “No” to restore autonomy, lower defensiveness, and open a more honest conversation than pressure for “Yes” can produce.
@@ -51,10 +78,14 @@ Treat **No as the start of diagnosis**:
 A nonprofit fundraiser improved an unproductive call by asking a donor whether he wanted the organization to stop taking a political position he valued. The donor's “No” restored control and made the subsequent commitment his choice rather than the caller's trap.
 
 ## Relationships
-- **related:** [[Tactical Empathy - Labels, Silence, and the Accusation Audit]]
-- **related:** [[Calibrated Questions - How and What Create the Illusion of Control]]
-- **related:** [[The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
-- **related:** [[Start With Agreement - Keep the Other Mind Open]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers|The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes - Decision Criteria, Buying Process, and Mutual Effort|The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated Questions - How and What Create the Illusion of Control|Calibrated Questions - How and What Create the Illusion of Control]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open|Start With Agreement - Keep the Other Mind Open]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical Empathy - Labels, Silence, and the Accusation Audit|Tactical Empathy - Labels, Silence, and the Accusation Audit]]
 ## Source reference
-Chris Voss with Tahl Raz, *Never Split the Difference* (2016), Chapter 4. Raw transcript archived in [[2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapter 4

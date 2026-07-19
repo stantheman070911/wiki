@@ -3,20 +3,45 @@ title: "Wealth Creation - Measurement, Leverage, and Compressed Work"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/wealth, topic/value-creation, topic/leverage, topic/equity, topic/startups, person/paul-graham, source/paul-graham-essays]
-source:
-  type: "essay collection"
-  name: "Paul Graham - Collected Essays"
-  author: "Paul Graham"
-  url: "https://paulgraham.com/articles.html"
-  date_of_source: "2004-2021"
+tags:
+  [
+    topic/wealth,
+    topic/value-creation,
+    topic/leverage,
+    topic/equity,
+    topic/startups,
+    person/paul-graham,
+    source/paul-graham-essays
+  ]
+sources:
+  - id: "SRC-0046"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law
+      of Venture Capital and Careers
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/Companies as
+      Philanthropy - Purpose and Building for Humanity
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Alternative Currencies -
+      Reputation, Distribution, and Equity
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value,
+      Return on Time, and Money Rules
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural -
+      Defending Margin Against Organizational Creep
 ---
 
 # Wealth Creation - Measurement, Leverage, and Compressed Work
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Wealth is created by making things people want; startups let small groups measure their contribution more directly, use technology as leverage, and compress decades of ordinary output into a few intense years.
@@ -46,9 +71,14 @@ Analyze an opportunity through **value per user × number of users × degree of 
 Viaweb's small team built software that served many merchants, combining direct measurement of a few people's work with software replication. The same structure explains why technology founders can create and capture more value than equally hardworking people in low-leverage settings.
 
 ## Relationships
-- **related:** [[How Money Is Made - Value, Return on Time, and Money Rules]]
-- **related:** [[Companies as Philanthropy - Purpose and Building for Humanity]]
-- **applies:** [[The Power Law of Venture Capital and Careers]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law of Venture Capital and Careers|The Power Law of Venture Capital and Careers]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Companies as Philanthropy - Purpose and Building for Humanity|Companies as Philanthropy - Purpose and Building for Humanity]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Alternative Currencies - Reputation, Distribution, and Equity|Alternative Currencies - Reputation, Distribution, and Equity]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural - Defending Margin Against Organizational Creep|Profit Is Unnatural - Defending Margin Against Organizational Creep]]
 ## Source reference
-Paul Graham, “How to Make Wealth,” “How People Get Rich Now,” “Billionaires Build,” “The Equity Equation,” and “Inequality and Risk,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

@@ -3,20 +3,64 @@ title: "Start With Agreement - Keep the Other Mind Open"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/persuasion, topic/influence, topic/trust, topic/feedback, topic/decision-making, person/steven-bartlett, person/chris-voss, person/tahl-raz, source/never-split-the-difference]
-source:
-  type: "book"
-  name: "The Diary of a CEO - The 33 Laws of Business and Life"
-  author: "Steven Bartlett"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/persuasion,
+    topic/influence,
+    topic/trust,
+    topic/feedback,
+    topic/decision-making,
+    person/steven-bartlett,
+    person/chris-voss,
+    person/tahl-raz,
+    source/never-split-the-difference
+  ]
+sources:
+  - id: "SRC-0017"
+    role: "primary"
+    locator: "Law 3"
+  - id: "SRC-0028"
+    role: "supporting"
+    locator: "Chapters 4–5 and 8"
 date_added: "2026-07-13"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/H2H Marketing -
+      Human-Centered Service, Trust, and Co-Creation
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
+      Your Decision Making
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How
+      to Get Beyond Disagreements
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative
+      Cooperation - Feedback, Friction, and Choice C
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and
+      Stay in Sync
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Guarantee
+      Execution - How, the Rule of Three, and Hidden Players
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No -
+      Protect Autonomy to Start the Real Negotiation
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Mirroring and
+      Voice - Slow the Negotiation and Keep Them Talking
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical
+      Empathy - Labels, Silence, and the Accusation Audit
 ---
 
 # Start With Agreement - Keep the Other Mind Open
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 When changing a mind, begin with genuine common ground and demonstrate understanding before presenting disagreement; receptivity is a prerequisite for evidence to work.
@@ -57,15 +101,19 @@ Bartlett uses polarized political arguments to illustrate the failure mode: pres
 In a kidnapping negotiation described by Voss, the negotiator repeatedly summarized the captor's grievances and objectives until the captor replied “That's right.” The phrase did not end the conversation; it marked the point at which the captor felt accurately understood and became open to movement.
 
 ## Relationships
-- **related:** [[Recognize How to Get Beyond Disagreements]]
-- **related:** [[Get and Stay in Sync]]
-- **related:** [[Creative Cooperation - Feedback, Friction, and Choice C]]
-- **related:** [[Believability-Weight Your Decision Making]]
-- **related:** [[Tactical Empathy - Labels, Silence, and the Accusation Audit]]
-- **related:** [[Master No - Protect Autonomy to Start the Real Negotiation]]
-- **related:** [[Guarantee Execution - How, the Rule of Three, and Hidden Players]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/H2H Marketing - Human-Centered Service, Trust, and Co-Creation|H2H Marketing - Human-Centered Service, Trust, and Co-Creation]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How to Get Beyond Disagreements|Recognize How to Get Beyond Disagreements]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative Cooperation - Feedback, Friction, and Choice C|Creative Cooperation - Feedback, Friction, and Choice C]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and Stay in Sync|Get and Stay in Sync]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Guarantee Execution - How, the Rule of Three, and Hidden Players|Guarantee Execution - How, the Rule of Three, and Hidden Players]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No - Protect Autonomy to Start the Real Negotiation|Master No - Protect Autonomy to Start the Real Negotiation]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Mirroring and Voice - Slow the Negotiation and Keep Them Talking|Mirroring and Voice - Slow the Negotiation and Keep Them Talking]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical Empathy - Labels, Silence, and the Accusation Audit|Tactical Empathy - Labels, Silence, and the Accusation Audit]]
 ## Source reference
-Steven Bartlett, *The Diary of a CEO: The 33 Laws of Business and Life* (2023), Law 3. Raw transcript archived in [[2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript]].
 
-Chris Voss with Tahl Raz, *Never Split the Difference* (2016), Chapters 4–5 and 8. Raw transcript archived in [[2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 3
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapters 4–5 and 8

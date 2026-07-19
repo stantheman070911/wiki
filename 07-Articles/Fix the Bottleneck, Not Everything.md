@@ -3,14 +3,81 @@ title: "Fix the Bottleneck, Not Everything"
 type: "article"
 domain: "articles"
 lang: "en"
-tags: [topic/theory-of-constraints, topic/focus, topic/prioritization, topic/decision-making, topic/scaling, topic/simplification]
+tags:
+  [
+    topic/theory-of-constraints,
+    topic/focus,
+    topic/prioritization,
+    topic/decision-making,
+    topic/scaling,
+    topic/simplification
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
+  - id: "SRC-0042"
+    role: "supporting"
+  - id: "SRC-0030"
+    role: "supporting"
+  - id: "SRC-0073"
+    role: "supporting"
+  - id: "SRC-0074"
+    role: "supporting"
+  - id: "SRC-0084"
+    role: "supporting"
+  - id: "SRC-0026"
+    role: "supporting"
+  - id: "SRC-0055"
+    role: "supporting"
+  - id: "SRC-0004"
+    role: "supporting"
+  - id: "SRC-0059"
+    role: "supporting"
 date_added: "2026-07-10"
 updated: "2026-07-10"
 reviewed_on: ""
 status: "draft"
+parent_map: 07-Articles/Articles Index
+relationships:
+  - type: derives-from
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
+  - type: derives-from
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-6-Optimize
+  - type: derives-from
+    target: 01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product -
+      Manufacturing as the Moat
+  - type: derives-from
+    target: 01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills
+      診斷、1-1-1 與萬能前門
+  - type: derives-from
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm -
+      Musk's Five-Step Process Method
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the
+      Problem You Have, Not the One You're Afraid Of
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
+      Filter - Stay, Scale, or Burn It Down
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
+      Supply
+  - type: derives-from
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Greener-Pasture Fallacy
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Dependent
+      Events and Statistical Fluctuations - Why Balanced Capacity Fails
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of
+      Constraints - The Five Focusing Steps
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput
+      Accounting - Manage the System, Not Local Costs
 ---
 
 # Fix the Bottleneck, Not Everything
+
+> **Up:** [[Home|Home]] → [[07-Articles/Articles Index|Articles]]
 
 **Article of the day · ~2 min read**
 
@@ -26,6 +93,21 @@ So try this today. Write down the outcome you want, the number that is not movin
 
 Progress is not how many things are moving. It is whether the bottleneck moved.
 
+## Relationships
+
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Derives from:** [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
+- **Derives from:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-6-Optimize|$100M 擴張路線圖 · Stage 6：Optimize 優化]]
+- **Derives from:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]
+- **Derives from:** [[01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門|少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
+- **Derives from:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm - Musk's Five-Step Process Method|The Algorithm - Musk's Five-Step Process Method]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the Problem You Have, Not the One You're Afraid Of|Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
+- **Derives from:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Greener-Pasture Fallacy|The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails|Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of Constraints - The Five Focusing Steps|Theory of Constraints - The Five Focusing Steps]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput Accounting - Manage the System, Not Local Costs|Throughput Accounting - Manage the System, Not Local Costs]]
 ## Sources in THE WIKI
 - [[Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
 - [[The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]
@@ -36,3 +118,17 @@ Progress is not how many things are moving. It is whether the bottleneck moved.
 - [[The Factory Is the Product - Manufacturing as the Moat]]
 - [[$100M 擴張路線圖 · 總覽與方法論|$100M 擴張路線圖（十階段系列）]]
 - [[Stage-6-Optimize|$100M 擴張路線圖 · Stage 6：Optimize 優化]]
+
+## Source reference
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_EliyahuMGoldrattJeffCox_TheGoal_RawTranscript|The Goal]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript|Cash Cow Breakdowns - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript|Designing Your New Work Life - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Podcasts/2026-07-08_Podcast_AnatomyOfADream_SharranSrivatsaa_10xByDoingLess|Sharran Srivatsaa - 10x by Doing Less]]
+- **supporting:** [[06-Source-Library/Books/2026-07-08_Book_EricJorgenson_TheBookOfElon|The Book Of Elon]]
+- **supporting:** [[06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap|$100M Scaling Roadmap（Personalized Guide）]]

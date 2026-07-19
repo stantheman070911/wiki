@@ -1,24 +1,52 @@
 ---
-title: "Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint"
+title: "Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the
+  Constraint"
 aliases:
-  - "Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint"
+  - "Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the
+    Constraint"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/m-and-a, topic/capital, topic/leadership, topic/hiring, topic/marketing, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi Answers Your Questions (Ask Me Anything)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/m-and-a,
+    topic/capital,
+    topic/leadership,
+    topic/hiring,
+    topic/marketing,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0065"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
+      Filter - Stay, Scale, or Burn It Down
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp -
+      The Messy Middle and the 40-for-2 Management Trade
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
+      Organizations
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle -
+      Recover Time, Capital, and Better Judgment
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/選擇權與退出心態：Soft-Shop、三種成長路徑與
+      Phantom Equity
 ---
 
 # Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Small businesses look cheap to buy and easy to grow, but they cap out because the founder who could only reach a few million is usually the constraint — so acquirers who want scale learn to buy bigger businesses with better talent, and to spend their own time generating demand.
@@ -57,11 +85,15 @@ A buy-and-hold software group ($12M across four companies) asked how to balance 
 - Founders who've already made their money may still be great operators if the mission re-engages them — assess motivation directly.
 
 ## Relationships
-- **applies:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- **applies:** [[The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
-- **related:** [[Special-Forces Teams and Flat Organizations]]
-- **related:** [[選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp - The Messy Middle and the 40-for-2 Management Trade|The Swamp - The Messy Middle and the 40-for-2 Management Trade]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing|Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment|Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity|選擇權與退出心態：Soft-Shop、三種成長路徑與 Phantom Equity]]
 ## Source reference
-Alex Hormozi, *Alex Hormozi Answers Your Questions (Ask Me Anything)*. Extraction notes in [[2026-07-08_Video_AlexHormozi_AskMeAnything]]; raw transcript archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

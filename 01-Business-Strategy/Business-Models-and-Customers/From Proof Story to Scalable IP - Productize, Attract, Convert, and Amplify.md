@@ -3,20 +3,44 @@ title: "From Proof Story to Scalable IP - Productize, Attract, Convert, and Ampl
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/ip, topic/product, topic/business-model, topic/marketing, topic/sales, topic/scaling, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "Five Steps to Monetize Intellectual Property"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/ip,
+    topic/product,
+    topic/business-model,
+    topic/marketing,
+    topic/sales,
+    topic/scaling,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0091"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
+  and Customers Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue
+      Rhythm - Leads, Appointments, Presentations, and Sales
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
+      Product-Discovery Loop - Launch, Learn, Evolve, Delight
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing
+      Offers to Fund Growth
+  - type: related
+    target: 02-Social-Media-Strategy/Key Person of Influence - Pitch, Publish,
+      Product, Profile, and Partnerships
 ---
 
 # From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/Business-Models-and-Customers/Business Models and Customers Map|Business Models and Customers]]
 
 ## One-line summary
 Start with a result you can prove, extract the repeatable method as intellectual property, package a low-risk learning product and a core offer, then scale only after the attention-to-sale economics are visible.
@@ -53,10 +77,13 @@ Use the five-step chain:
 Priestley traces his “Key Person of Influence” business to a proof story: helping credible experts become known through a repeatable five-part method, then turning that result into a book and accelerator.
 
 ## Relationships
-- **related:** [[Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships]]
-- **related:** [[The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
-- **related:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
-- **related:** [[The Money Model - Sequencing Offers to Fund Growth]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Money Model - Sequencing Offers to Fund Growth|The Money Model - Sequencing Offers to Fund Growth]]
+- **Related:** [[02-Social-Media-Strategy/Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships|Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships]]
 ## Source reference
-Daniel Priestley, *Five Steps to Monetize Intellectual Property*. Raw transcript in [[2026-07-13_Video_DanielPriestley_FiveStepsToMonetizeIntellectualProperty_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_FiveStepsToMonetizeIntellectualProperty_RawTranscript|Five Steps to Monetize Intellectual Property - Raw Transcript]]

@@ -3,20 +3,48 @@ title: "The OKR Operating Cycle - Set, Check In, Score, and Reflect"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/execution, topic/operations, topic/learning, topic/management, person/john-doerr, source/measure-what-matters]
-source:
-  type: "book"
-  name: "Measure What Matters"
-  author: "John Doerr"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/execution,
+    topic/operations,
+    topic/learning,
+    topic/management,
+    person/john-doerr,
+    source/measure-what-matters
+  ]
+sources:
+  - id: "SRC-0032"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed
+      and Aspirational OKRs - Separate Reliability from Stretch
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and
+      Align - Make Priorities and Dependencies Public
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs -
+      Define Objectives Through Sufficient Key Results
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous
+      Conversations, Feedback, and Recognition
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
+      to Do
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth
+      Sprints - Analyze, Ask, and Act
 ---
 
 # The OKR Operating Cycle - Set, Check In, Score, and Reflect
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 An OKR creates value only as a live operating loop: set it before the cycle, inspect confidence and evidence throughout, then score, explain, and reflect before choosing the next commitment.
@@ -56,11 +84,15 @@ Annual strategic direction and shorter operational cycles can run in parallel wh
 - Google combines objective scoring with self-assessment because identical scores can represent very different ambition, effort, and learning.
 
 ## Relationships
-- **related:** [[OKRs - Define Objectives Through Sufficient Key Results]]
-- **related:** [[Focus and Align - Make Priorities and Dependencies Public]]
-- **related:** [[Committed and Aspirational OKRs - Separate Reliability from Stretch]]
-- **related:** [[CFRs - Continuous Conversations, Feedback, and Recognition]]
-- **related:** [[Do What You Set Out to Do]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed and Aspirational OKRs - Separate Reliability from Stretch|Committed and Aspirational OKRs - Separate Reliability from Stretch]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and Align - Make Priorities and Dependencies Public|Focus and Align - Make Priorities and Dependencies Public]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs - Define Objectives Through Sufficient Key Results|OKRs - Define Objectives Through Sufficient Key Results]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous Conversations, Feedback, and Recognition|CFRs - Continuous Conversations, Feedback, and Recognition]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth Sprints - Analyze, Ask, and Act|Triple-A Growth Sprints - Analyze, Ask, and Act]]
 ## Source reference
-John Doerr, *Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs* (2018). Raw transcript in [[2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript|Measure What Matters]]

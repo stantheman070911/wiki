@@ -3,20 +3,64 @@ title: "The Framework for Making Frameworks - Distill by Commonality"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mental-models, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Building a brand, but it's on easy mode instead"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags: [ topic/mental-models, person/alex-hormozi ]
+sources:
+  - id: "SRC-0066"
+    role: "primary"
+  - id: "SRC-0042"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Steal the Format, Not the Idea
+  - type: is-applied-by
+    target: 02-Social-Media-Strategy/對標方法論與靈感池系統
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+      Planner and the Analyze-Double-Down Loop
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
+      Proof, Path - Engineering the Video Intro
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content
+      Repository - Four Topic Buckets and Tweet-First Capture
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a
+      Discovery Tool - Useful, Simple, and Rewritten
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Customer-Base
+      Test Kitchen - Distributed R&D Before Rollout
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your
+      Business - Train Like an Employee and the Department Playbook
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
+      Automation - Manual Onboarding to Fix Churn
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Engineering a Grand
+      Slam Offer - Problems, Solutions, Trim and Stack
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
+      Intellectual Property - Process Above the Player
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles
+      Thinking - Reason from Physics, Not Analogy
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Soft Skills
+      Are Observable Behavior Chains
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
+      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
 ---
 
 # The Framework for Making Frameworks - Distill by Commonality
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 To turn any repeated task into a reusable framework: ingest a mass of real examples, list everything each one did, keep only the few factors they all share, delete the rest, and name the result to make it memorable.
@@ -52,12 +96,24 @@ Hormozi is known for framework-ing everything; asked for his method, he gives a 
 - **Discipline as a falsification test** — defining discipline as merely “action” fails because many pleasurable actions require no discipline. A useful definition must distinguish doing what is immediately reinforcing from persisting through unrewarded or aversive action.
 
 ## Relationships
-- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
-- **related:** [[Content Planner and the Analyze-Double-Down Loop]]
-- **related:** [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
-- **related:** [[對標方法論與靈感池系統]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Steal the Format, Not the Idea|Steal the Format, Not the Idea]]
+- **Is applied by:** [[02-Social-Media-Strategy/對標方法論與靈感池系統|對標方法論與靈感池系統]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Planner and the Analyze-Double-Down Loop|Content Planner and the Analyze-Double-Down Loop]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content Repository - Four Topic Buckets and Tweet-First Capture|The Content Repository - Four Topic Buckets and Tweet-First Capture]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a Discovery Tool - Useful, Simple, and Rewritten|Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Customer-Base Test Kitchen - Distributed R&D Before Rollout|The Customer-Base Test Kitchen - Distributed R&D Before Rollout]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your Business - Train Like an Employee and the Department Playbook|Using AI in Your Business - Train Like an Employee and the Department Playbook]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack|Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/First-Principles Thinking - Reason from Physics, Not Analogy|First-Principles Thinking - Reason from Physics, Not Analogy]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Soft Skills Are Observable Behavior Chains|Soft Skills Are Observable Behavior Chains]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)|The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
 ## Source reference
-Alex Hormozi, *Building a brand, but it's on easy mode instead*. Extraction notes in [[2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode]].
 
-Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode|Building a Brand - Easy Mode]]
+- **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

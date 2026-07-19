@@ -3,20 +3,44 @@ title: "Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/m-and-a, topic/capital, topic/wealth, topic/decision-making, topic/optionality, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "What Billionaires Do Differently"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/m-and-a,
+    topic/capital,
+    topic/wealth,
+    topic/decision-making,
+    topic/optionality,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0103"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary
+      Aim and Strategic Objective - Make the Business Serve the Life
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Alternative Currencies -
+      Reputation, Distribution, and Equity
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default
+      Dead - Runway, Growth, and the Fatal Pinch
+  - type: related
+    target: 01-Business-Strategy/Growth-and-Scaling/The Seven Levels of Business
+      Growth - From Side Hustle to Exit
 ---
 
 # Exit as a Learning Cycle - Recover Time, Capital, and Better Judgment
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 An exit can return three assets at once—capital, time, and a completed-cycle perspective—allowing an owner to redeploy better judgment into a larger next venture instead of remaining indefinitely inside an old design.
@@ -53,10 +77,14 @@ Compare these with the value, enjoyment, optionality, and compounding lost by se
 Priestley argues that repeated exits let founders consolidate finances and learning between ventures. The claim is not that every company should be sold, but that indefinite attachment can prevent the next learning round.
 
 ## Relationships
-- **related:** [[The Seven Levels of Business Growth - From Side Hustle to Exit]]
-- **related:** [[Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint]]
-- **related:** [[Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
-- **related:** [[Alternative Currencies - Reputation, Distribution, and Equity]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary Aim and Strategic Objective - Make the Business Serve the Life|Primary Aim and Strategic Objective - Make the Business Serve the Life]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Alternative Currencies - Reputation, Distribution, and Equity|Alternative Currencies - Reputation, Distribution, and Equity]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger|Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch|Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
+- **Related:** [[01-Business-Strategy/Growth-and-Scaling/The Seven Levels of Business Growth - From Side Hustle to Exit|The Seven Levels of Business Growth - From Side Hustle to Exit]]
 ## Source reference
-Daniel Priestley, *What Billionaires Do Differently*. Raw transcript in [[2026-07-13_Video_DanielPriestley_WhatBillionairesDoDifferently_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_WhatBillionairesDoDifferently_RawTranscript|What Billionaires Do Differently - Raw Transcript]]

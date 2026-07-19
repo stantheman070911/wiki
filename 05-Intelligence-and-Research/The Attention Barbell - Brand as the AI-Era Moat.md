@@ -3,20 +3,69 @@ title: "The Attention Barbell - Brand as the AI-Era Moat"
 type: "research"
 domain: "intelligence-and-research"
 lang: "en"
-tags: [topic/ai, topic/brand, topic/barbell-strategy, topic/content-strategy, topic/do-things-that-dont-scale, topic/email-marketing, person/gary-vaynerchuk, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "The New Rules of Social Media (2026)"
-  author: "Gary Vaynerchuk"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/ai,
+    topic/brand,
+    topic/barbell-strategy,
+    topic/content-strategy,
+    topic/do-things-that-dont-scale,
+    topic/email-marketing,
+    person/gary-vaynerchuk,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0056"
+    role: "primary"
+  - id: "SRC-0104"
+    role: "supporting"
+  - id: "SRC-0087"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 05-Intelligence-and-Research/Intelligence and Research Index
+relationships:
+  - type: example
+    target: 01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business
+      Redesign - Speed to Value and Experience Moats
+  - type: example
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and
+      Monetization - The Give-Content, Ask-Ads Model
+  - type: example
+    target: 02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model
+  - type: example
+    target: 02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架
+  - type: example
+    target: 02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產
+  - type: example
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
+      Actually Is - Association, Influence, Direction, Reach
+  - type: example
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
+      Confidence
+  - type: example
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation
+      and Commitment - Persuasion's Two Deepest Levers
+  - type: related
+    target: 05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and
+      Human Escalation
+  - type: related
+    target: 05-Intelligence-and-Research/The Digital-Economy Income Shift - IP,
+      Media, Data, and Code
+  - type: related
+    target: 05-Intelligence-and-Research/The Risk Continuum - Building an
+      AI-Resistant Personal Brand
+  - type: related
+    target: 05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA,
+      and Risk as the Last Human Job
 ---
 
 # The Attention Barbell - Brand as the AI-Era Moat
+
+> **Up:** [[Home|Home]] → [[05-Intelligence-and-Research/Intelligence and Research Index|Intelligence and Research]]
 
 ## One-line summary
 As AI commoditizes information and intermediates buying decisions, brand becomes the only defensible asset — and it is best built with a barbell of extreme technology on one end and 1950s human touch on the other, never the middle.
@@ -52,15 +101,23 @@ When every buyer asks an AI agent "who should I hire / go with?", discovery stop
 - The "chiropractor" scenario: when a prospect asks an AI "I need a chiropractor now, who should I go with?", only brand decides the answer.
 
 ## Relationships
-- **related:** [[The Risk Continuum - Building an AI-Resistant Personal Brand]]
-- **example:** [[Interest Media and the Zero-Follower Reach Model]]
-- **example:** [[品牌即媒體公司：注意力到信任框架]]
-- **example:** [[電子郵件名單：最被低估的自有高意圖資產]]
-- **example:** [[Build Evidence, Not Confidence]]
 
-- **related:** [[ChatGPT Advertising - Intent, Memory, and Human Escalation]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Example:** [[01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business Redesign - Speed to Value and Experience Moats|The AI-Ready Business Redesign - Speed to Value and Experience Moats]]
+- **Example:** [[01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model|Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
+- **Example:** [[02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model|Interest Media and the Zero-Follower Reach Model]]
+- **Example:** [[02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架|品牌即媒體公司：注意力到信任框架]]
+- **Example:** [[02-Social-Media-Strategy/電子郵件名單：最被低估的自有高意圖資產|電子郵件名單：最被低估的自有高意圖資產]]
+- **Example:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **Example:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
+- **Example:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation and Commitment - Persuasion's Two Deepest Levers|Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
+- **Related:** [[05-Intelligence-and-Research/ChatGPT Advertising - Intent, Memory, and Human Escalation|ChatGPT Advertising - Intent, Memory, and Human Escalation]]
+- **Related:** [[05-Intelligence-and-Research/The Digital-Economy Income Shift - IP, Media, Data, and Code|The Digital-Economy Income Shift - IP, Media, Data, and Code]]
+- **Related:** [[05-Intelligence-and-Research/The Risk Continuum - Building an AI-Resistant Personal Brand|The Risk Continuum: Building an AI-Resistant Personal Brand]]
+- **Related:** [[05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job|Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
 ## Source reference
-Gary Vaynerchuk, *The New Rules of Social Media (2026)*. Extraction notes in [[2026-07-08_Talk_GaryVaynerchuk_NewRulesOfSocialMedia2026]].
 
-Additional sources: Daniel Priestley, *Your Business Is Dead - AI Reinvention*, [[2026-07-13_Video_DanielPriestley_YourBusinessIsDeadAIReinvention_RawTranscript]], and *ChatGPT Ads Opportunity*, [[2026-07-13_Video_DanielPriestley_ChatGPTAdsOpportunity_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Podcasts/2026-07-08_Talk_GaryVaynerchuk_NewRulesOfSocialMedia2026|New Rules of Social Media 2026]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_YourBusinessIsDeadAIReinvention_RawTranscript|Your Business Is Dead - AI Reinvention - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_ChatGPTAdsOpportunity_RawTranscript|ChatGPT Ads Opportunity - Raw Transcript]]

@@ -3,20 +3,45 @@ title: "Triple-A Growth Sprints - Analyze, Ask, and Act"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/growth, topic/operations, topic/prioritization, topic/decision-making, person/wes-bush, source/product-led-growth]
-source:
-  type: "book"
-  name: "Product-Led Growth"
-  author: "Wes Bush"
-  url: ""
-  date_of_source: "2019"
+tags:
+  [
+    topic/growth,
+    topic/operations,
+    topic/prioritization,
+    topic/decision-making,
+    person/wes-bush,
+    source/product-led-growth
+  ]
+sources:
+  - id: "SRC-0040"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow
+      With Customer Outcomes
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand,
+      Communicate, and Deliver Customer Value
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of
+      Constraints - The Five Focusing Steps
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating
+      Cycle - Set, Check In, Score, and Reflect
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Bowling Alley
+      Framework - Straight-Line Onboarding and Two Bumpers
 ---
 
 # Triple-A Growth Sprints - Analyze, Ask, and Act
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 A Triple-A sprint creates a monthly growth rhythm by diagnosing macro outputs, choosing the highest-leverage input, and shipping one or two prioritized changes instead of accumulating disconnected optimization ideas.
@@ -55,11 +80,14 @@ Use the value foundation as a diagnostic shortcut: weak signups may signal poor 
 - A company can more than double lifetime value through combined improvements to churn, average revenue per user, and customer count even when no single lever grows dramatically.
 
 ## Relationships
-- **related:** [[UCD - Understand, Communicate, and Deliver Customer Value]]
-- **related:** [[The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers]]
-- **related:** [[Value Metrics - Price and Grow With Customer Outcomes]]
-- **related:** [[The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
-- **related:** [[Theory of Constraints - The Five Focusing Steps]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Pricing-and-Offers/Value Metrics - Price and Grow With Customer Outcomes|Value Metrics - Price and Grow With Customer Outcomes]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand, Communicate, and Deliver Customer Value|UCD - Understand, Communicate, and Deliver Customer Value]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of Constraints - The Five Focusing Steps|Theory of Constraints - The Five Focusing Steps]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating Cycle - Set, Check In, Score, and Reflect|The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers|The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers]]
 ## Source reference
-Wes Bush, *Product-Led Growth: How to Build a Product That Sells Itself* (2019). Raw transcript in [[2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_WesBush_ProductLedGrowth_RawTranscript|Product-Led Growth]]

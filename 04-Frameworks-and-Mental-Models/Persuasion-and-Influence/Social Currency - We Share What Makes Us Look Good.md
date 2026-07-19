@@ -3,20 +3,55 @@ title: "Social Currency - We Share What Makes Us Look Good"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/word-of-mouth, topic/persuasion, topic/brand, topic/incentives, person/jonah-berger, source/contagious]
-source:
-  type: "book"
-  name: "Contagious: Why Things Catch On"
-  author: "Jonah Berger"
-  url: ""
-  date_of_source: "2013"
+tags:
+  [
+    topic/word-of-mouth,
+    topic/persuasion,
+    topic/brand,
+    topic/incentives,
+    person/jonah-berger,
+    source/contagious
+  ]
+sources:
+  - id: "SRC-0033"
+    role: "primary"
+    locator: "ch. 1"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: "2026-07-18"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
+      Framework - Six Drivers of Word of Mouth
+  - type: contrast
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top
+      of Mind, Tip of Tongue
+  - type: is-applied-by
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS
+      Framework - Six Drivers of Word of Mouth
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a
+      Brand Signal
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/People Like Us
+      Do Things Like This - Culture and Status as Behavior
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public -
+      Observability and Behavioral Residue
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
+      Liking, Authority, and Scarcity - The Four Social Shortcuts
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable
+      Virality - Build a Trojan Horse People Can't Retell Without You
 ---
 
 # Social Currency - We Share What Makes Us Look Good
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 People share things that improve how others see them, so to get talked about you must mint social currency — make the sharer look remarkable, high-achieving, or like an insider.
@@ -53,11 +88,17 @@ Scarcity (limited supply/time) and exclusivity (access gated by criteria or *kno
 - Don't default to cash rewards for referrals; harness the desire to look good instead.
 
 ## Relationships
-- **applies:** [[The STEPPS Framework - Six Drivers of Word of Mouth]]
-- **related:** [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
-- **related:** [[Public - Observability and Behavioral Residue]]
-- **contrast:** [[Triggers - Top of Mind, Tip of Tongue]]
-- **related:** [[Absurdity as a Brand Signal]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
+- **Contrast:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue|Triggers - Top of Mind, Tip of Tongue]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a Brand Signal|Absurdity as a Brand Signal]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/People Like Us Do Things Like This - Culture and Status as Behavior|People Like Us Do Things Like This - Culture and Status as Behavior]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue|Public - Observability and Behavioral Residue]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable Virality - Build a Trojan Horse People Can't Retell Without You|Valuable Virality - Build a Trojan Horse People Can't Retell Without You]]
 ## Source reference
-Jonah Berger, *Contagious: Why Things Catch On* (Simon & Schuster, 2013), ch. 1. Extraction notes in [[2026-07-18_Book_JonahBerger_Contagious]]; full text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_JonahBerger_Contagious|Contagious: Why Things Catch On]] — locator: ch. 1

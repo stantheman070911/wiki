@@ -1,11 +1,17 @@
 ---
 title: "Social Media Strategy"
+title_zh: "社群媒體策略"
 type: "domain-index"
 domain: "social-media-strategy"
 lang: "en"
+updated: "2026-07-19"
+status: "evergreen"
+owner: "stanley-lu"
 ---
 
 # Social Media Strategy
+
+> **中文名稱：** 社群媒體策略
 
 Platform-specific strategy, content strategy, audience growth, algorithms, distribution, and community building.
 
@@ -29,8 +35,9 @@ Belongs here: platforms, audience growth, distribution, creator positioning, and
 - **Cornerstones:** [[Creator Vision Framework - What x Who x Why]] · [[The Personal-Brand House - Foundation, Interior, Exterior]] · [[品牌即媒體公司：注意力到信任框架]]
 - **Key framework:** [[The Personal-Brand House - Foundation, Interior, Exterior]]
 - **Related playbook:** [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
+- **Creator authority path:** [[Key Person of Influence - Pitch, Publish, Product, Profile, and Partnerships]]
 - **Major series:** none currently; series membership should be explicit rather than inferred from topic similarity.
-- **Complete static inventory:** [[Portable Index#Social Media Strategy (17)|Portable Index — Social Media Strategy]]
+- **Complete static inventory:** [[Portable Index|Portable Index — Social Media Strategy]]
 
 ## Index
 
@@ -40,5 +47,6 @@ Belongs here: platforms, audience growth, distribution, creator positioning, and
 TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
 FROM "02-Social-Media-Strategy"
 WHERE type = "strategy"
+AND contains(list("draft", "reviewed", "evergreen"), status)
 SORT date_added DESC
 ```

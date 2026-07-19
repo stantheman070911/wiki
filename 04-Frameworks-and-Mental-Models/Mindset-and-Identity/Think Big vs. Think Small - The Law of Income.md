@@ -3,20 +3,36 @@ title: "Think Big vs. Think Small - The Law of Income"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/value-creation, topic/growth, person/t-harv-eker]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags: [ topic/mindset, topic/value-creation, topic/growth, person/t-harv-eker ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth
+      vs. Focus on Working Income - The Four Net Worth Factors
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on
+      Opportunities vs. Focus on Obstacles - Ready, Fire, Aim
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs.
+      Paid on Time
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs.
+      Playing Not to Lose
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Willing to
+      Self-Promote vs. Averse to Selling
 ---
 
 # Think Big vs. Think Small - The Law of Income
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 You are paid in direct proportion to the value you deliver to the marketplace, and the factor most people underuse is quantity — how many people you actually reach — so thinking big is really a decision about how many people's problems you're willing to solve.
@@ -36,9 +52,14 @@ Wealth File #4. Eker defines an entrepreneur simply as "a person who solves prob
 - When evaluating a new venture or role, explicitly set the intended scale (how many people/customers) at the outset rather than letting it emerge passively — the intention set at the start shapes the ceiling.
 
 ## Relationships
-- **related:** [[Playing to Win vs. Playing Not to Lose]]
-- **related:** [[Willing to Self-Promote vs. Averse to Selling]]
-- **related:** [[Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors|Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim|Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs. Paid on Time|Paid on Results vs. Paid on Time]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs. Playing Not to Lose|Playing to Win vs. Playing Not to Lose]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Willing to Self-Promote vs. Averse to Selling|Willing to Self-Promote vs. Averse to Selling]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #4. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

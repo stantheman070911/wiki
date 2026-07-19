@@ -2,15 +2,15 @@
 title: ""
 type: "template"
 template_for: "framework"
-domain: ""
+domain: "frameworks-and-mental-models"
 lang: "en"
 tags: []
-source:
-  type: ""
-  name: ""
-  author: ""
-  url: ""
-  date_of_source: ""
+sources:
+  - id: ""
+    role: "primary"
+relationships:
+  - type: "related"
+    target: ""
 date_added: ""
 updated: ""
 reviewed_on: ""
@@ -21,32 +21,36 @@ status: "draft"
 
 ## One-line summary
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- State the diagnosis and its practical consequence in one sentence. -->
 
-## Scenario
+## Context
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- Define the situation in which this diagnostic applies. -->
 
-## Diagnostic signals
+## Framework / model
 
-<!-- Complete or remove guidance comments before review. -->
+### Diagnostic signals
 
-## Why it happens
+<!-- List observable signals, not inferred motives. -->
 
-<!-- Complete or remove guidance comments before review. -->
+### Why it happens
 
-## Recommended action
+<!-- Explain the mechanism connecting the signals to the underlying problem. -->
 
-<!-- Complete or remove guidance comments before review. -->
+### Exceptions
 
-## Exceptions
+<!-- Record boundary conditions, false positives, or cases requiring a different model. -->
 
-<!-- Complete or remove guidance comments before review. -->
+## Application
+
+### Recommended action
+
+<!-- Give an ordered response that follows from the diagnosis. -->
 
 ## Relationships
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- Generated from frontmatter `relationships`; do not edit this section manually. -->
 
 ## Source reference
 
-<!-- Complete or remove guidance comments before review. -->
+<!-- Generated from frontmatter `sources`; do not edit this section manually. -->

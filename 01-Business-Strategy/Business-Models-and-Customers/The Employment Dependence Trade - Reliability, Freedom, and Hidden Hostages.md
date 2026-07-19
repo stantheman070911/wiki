@@ -3,20 +3,44 @@ title: "The Employment Dependence Trade - Reliability, Freedom, and Hidden Hosta
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/business-model, topic/org-design, topic/career, topic/incentives, topic/risk, topic/hiring, person/nassim-nicholas-taleb, source/skin-in-the-game]
-source:
-  type: "book"
-  name: "Skin in the Game"
-  author: "Nassim Nicholas Taleb"
-  url: ""
-  date_of_source: "2018"
+tags:
+  [
+    topic/business-model,
+    topic/org-design,
+    topic/career,
+    topic/incentives,
+    topic/risk,
+    topic/hiring,
+    person/nassim-nicholas-taleb,
+    source/skin-in-the-game
+  ]
+sources:
+  - id: "SRC-0012"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business-Models-and-Customers/Business Models
+  and Customers Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a
+      Partnership Makes Sense - The Five Things a Partner Must Bring
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design
+      Jobs Around Exceptional Contribution
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business
+      - The 50% Hire and Buying Back Time
+  - type: related
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Virtual Firm -
+      Falling Transaction Costs and the Unbundling of Organizations
 ---
 
 # The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/Business-Models-and-Customers/Business Models and Customers Map|Business Models and Customers]]
 
 ## One-line summary
 Employment exchanges autonomy for mutual dependability: the organization buys priority and compliance while the worker buys income stability and protection from market volatility.
@@ -54,10 +78,13 @@ High priority, specificity, and continuity favor employment; modular output and 
 Taleb's airline thought experiment shows a contractor accepting a better offer despite a penalty, leaving the airline unable to operate; employment would have purchased dependable availability. Conversely, the employee who cannot risk a mortgage or reputation may remain silent about a dangerous decision, placing someone else's skin in the organization's game.
 
 ## Relationships
-- **related:** [[The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
-- **related:** [[You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
-- **related:** [[Staff for Strength - Design Jobs Around Exceptional Contribution]]
-- **applies:** [[When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/When a Partnership Makes Sense - The Five Things a Partner Must Bring|When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design Jobs Around Exceptional Contribution|Staff for Strength - Design Jobs Around Exceptional Contribution]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time|You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
+- **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations|The Virtual Firm - Falling Transaction Costs and the Unbundling of Organizations]]
 ## Source reference
-Nassim Nicholas Taleb, *Skin in the Game: Hidden Asymmetries in Daily Life* (2018), [[2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript|Skin in the Game - Raw Transcript]]

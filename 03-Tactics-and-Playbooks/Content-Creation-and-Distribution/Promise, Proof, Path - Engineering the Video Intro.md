@@ -3,20 +3,75 @@ title: "Promise, Proof, Path - Engineering the Video Intro"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/short-form-video, topic/hooks, topic/retention, topic/content-strategy, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Building a brand, but it's on easy mode instead"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/short-form-video,
+    topic/hooks,
+    topic/retention,
+    topic/content-strategy,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0066"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+  Creation and Distribution Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You
+      Discount - Make the Difference Obvious
+  - type: applies
+    target: 02-Social-Media-Strategy/The AI-Era Content Barbell
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Framework for Making Frameworks - Distill by Commonality
+  - type: related
+    target: 03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder -
+      Fixing Views, Formats, and Timing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
+      Clever - Write Below Third Grade and Meet the Avatar
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting
+      Fundamentals - AIDA, the Headline, and the Slippery Slope
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Declarative
+      to Sell, Procedural to Deliver
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Direct-Response
+      Copywriting
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking
+      Attention - Topic, Format, Hook and the Content Engine
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hyperdopamine
+      Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film
+      Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling
+      - Heros Journey, the Trojan Horse, and Handling Objections
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content
+      Repository - Four Topic Buckets and Tweet-First Capture
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Seven
+      Factors of a Short - Topic to Editing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音文案全公式：標題、開頭、結尾與腳本結構
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand
+      Conversion Path - Problem, Plan, and Calls to Action
 ---
 
 # Promise, Proof, Path - Engineering the Video Intro
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution]]
 
 ## One-line summary
 For educational content, the intro must land three things — a promise (what you'll help me do), proof (why I should believe you), and a path (how it will go) — because for educators the "why should I listen to you" is the hook, not a literal match to the thumbnail.
@@ -51,10 +106,25 @@ Example intro that hits all three: "I sold my company for $46.2 million — a bi
 - MrBeast's rule of thumb: a video made ~20% better on the key metrics returns disproportionately (≈100×), not linearly.
 
 ## Relationships
-- **related:** [[短影音文案全公式：標題、開頭、結尾與腳本結構]]
-- **related:** [[Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
-- **applies:** [[The Framework for Making Frameworks - Distill by Commonality]]
-- **related:** [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Pricing-and-Offers/Decommoditize Before You Discount - Make the Difference Obvious|Decommoditize Before You Discount - Make the Difference Obvious]]
+- **Applies:** [[02-Social-Media-Strategy/The AI-Era Content Barbell|The AI-Era Content Barbell - Raw Shorts, Produced Long Form, and Live Interaction]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Framework for Making Frameworks - Distill by Commonality|The Framework for Making Frameworks - Distill by Commonality]]
+- **Related:** [[03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing|Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope|Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Declarative to Sell, Procedural to Deliver|Declarative to Sell, Procedural to Deliver]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Direct-Response Copywriting|Direct-Response Copywriting - NEWIF, the Nine Questions, and Three Conversion-Killing Mistakes]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hacking Attention - Topic, Format, Hook and the Content Engine|Hacking Attention - Topic, Format, Hook and the Content Engine]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hyperdopamine Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy|Hyperdopamine Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing|Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections|Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content Repository - Four Topic Buckets and Tweet-First Capture|The Content Repository - Four Topic Buckets and Tweet-First Capture]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Seven Factors of a Short - Topic to Editing|The Seven Factors of a Short - Topic to Editing]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/短影音文案全公式：標題、開頭、結尾與腳本結構|短影音文案全公式：標題、開頭、結尾與腳本結構]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand Conversion Path - Problem, Plan, and Calls to Action|The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
 ## Source reference
-Alex Hormozi, *Building a brand, but it's on easy mode instead*. Extraction notes in [[2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_BuildingABrandEasyMode|Building a Brand - Easy Mode]]

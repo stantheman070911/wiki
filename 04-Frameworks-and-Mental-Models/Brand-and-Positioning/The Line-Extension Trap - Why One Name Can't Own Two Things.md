@@ -3,20 +3,48 @@ title: "The Line-Extension Trap - Why One Name Can't Own Two Things"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/positioning, topic/brand, person/ries-trout]
-source:
-  type: "book"
-  name: "Positioning: The Battle for Your Mind"
-  author: "Al Ries & Jack Trout"
-  url: ""
-  date_of_source: "1981"
+tags: [ topic/positioning, topic/brand, person/ries-trout ]
+sources:
+  - id: "SRC-0007"
+    role: "primary"
+    locator: "ch. 11–13"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Growth-and-Scaling/多角化與規模化的判斷準則：一尺寬不如一萬尺深
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Brand and Product
+      Compounding - Too Good to Fail
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the
+      Hole in the Mind (Cherchez le Creneau)
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
+      in the Prospect's Mind
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning a Company -
+      Stand for a Specific Achievement, Not Diversification
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/The 22 Immutable Laws of
+      Marketing
+  - type: is-applied-by
+    target: 02-Social-Media-Strategy/The Personal-Brand House - Foundation,
+      Interior, Exterior
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as
+      Context - Make the Product Obviously Valuable
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
+      Actually Is - Association, Influence, Direction, Reach
 ---
 
 # The Line-Extension Trap - Why One Name Can't Own Two Things
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 Hanging a successful name on new products feels logical from the inside but weakens the position in the mind — because a name can only stand for one thing, and share of mind, not share of market, is what you actually own.
@@ -51,12 +79,18 @@ The rule of thumb: use a **new name** for a genuinely new position; use the **ho
 - Johnson's Baby Shampoo — successful *reverse* extension (broadening the base to adults).
 
 ## Relationships
-- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
-- **related:** [[Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
-- **related:** [[Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
-- **related:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- **related:** [[Brand and Product Compounding - Too Good to Fail]]
-- **related:** [[The Personal-Brand House - Foundation, Interior, Exterior]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/多角化與規模化的判斷準則：一尺寬不如一萬尺深|多角化與規模化的判斷準則：一尺寬不如一萬尺深]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail|Brand and Product Compounding - Too Good to Fail]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)|Leader, Follower, and the Hole in the Mind (Cherchez le Creneau)]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Positioning a Company - Stand for a Specific Achievement, Not Diversification|Positioning a Company - Stand for a Specific Achievement, Not Diversification]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/The 22 Immutable Laws of Marketing|The 22 Immutable Laws of Marketing]]
+- **Is applied by:** [[02-Social-Media-Strategy/The Personal-Brand House - Foundation, Interior, Exterior|The Personal-Brand House - Foundation, Interior, Exterior]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as Context - Make the Product Obviously Valuable|Positioning as Context - Make the Product Obviously Valuable]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
 ## Source reference
-Al Ries & Jack Trout, *Positioning: The Battle for Your Mind*, ch. 11–13. Extraction notes in [[2026-07-08_Book_RiesTrout_Positioning]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning|Positioning]] — locator: ch. 11–13

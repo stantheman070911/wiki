@@ -1,12 +1,17 @@
 ---
+source_id: "SRC-0014"
 title: "Zero to One"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Peter Thiel"
+    role: "author"
 source_type: "book"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Peter Thiel"
+published_on: "2014"
 date_archived: "2026-07-13"
 status: "source"
 ---

@@ -3,20 +3,45 @@ title: "Positioning as Context - Make the Product Obviously Valuable"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/positioning, topic/brand, topic/differentiation, topic/marketing, person/april-dunford, source/obviously-awesome]
-source:
-  type: "book"
-  name: "Obviously Awesome"
-  author: "April Dunford"
-  url: ""
-  date_of_source: "2019"
+tags:
+  [
+    topic/positioning,
+    topic/brand,
+    topic/differentiation,
+    topic/marketing,
+    person/april-dunford,
+    source/obviously-awesome
+  ]
+sources:
+  - id: "SRC-0023"
+    role: "primary"
+    locator: "Chapters 1–2"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points
+      - Anchor a New Position to What's Already Believed
+  - type: is-applied-by
+    target: 01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word
+      in the Prospect's Mind
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the
+      Prospect Already Gives You - Research-Based Positioning
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning
+      Sequence - Alternatives, Attributes, Value, Customers, and Market
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension
+      Trap - Why One Name Can't Own Two Things
 ---
 
 # Positioning as Context - Make the Product Obviously Valuable
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]]
 
 ## One-line summary
 Positioning deliberately selects the market context that makes a product's distinctive strengths easy for best-fit customers to understand and value.
@@ -54,10 +79,14 @@ If any link fails, test a different context rather than merely rewriting the cla
 Joshua Bell earned only $32.17 while playing world-class violin music beside a Washington subway station: the product was unchanged, but the context signaled “street performer,” not “concert virtuoso.” Dunford also describes a fast analytical database that struggled against general databases until it was reframed as a data warehouse, where its speed became the central reason to buy.
 
 ## Relationships
-- **related:** [[Positioning - Own a Word in the Prospect's Mind]]
-- **related:** [[Own What the Prospect Already Gives You - Research-Based Positioning]]
-- **related:** [[Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
-- **related:** [[The Line-Extension Trap - Why One Name Can't Own Two Things]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points - Anchor a New Position to What's Already Believed|Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]
+- **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Positioning - Own a Word in the Prospect's Mind|Positioning - Own a Word in the Prospect's Mind]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the Prospect Already Gives You - Research-Based Positioning|Own What the Prospect Already Gives You - Research-Based Positioning]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market|Positioning Sequence - Alternatives, Attributes, Value, Customers, and Market]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension Trap - Why One Name Can't Own Two Things|The Line-Extension Trap - Why One Name Can't Own Two Things]]
 ## Source reference
-April Dunford, *Obviously Awesome* (2019), Introduction and Chapters 1–2. Raw transcript archived in [[2026-07-18_Book_AprilDunford_ObviouslyAwesome_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AprilDunford_ObviouslyAwesome_RawTranscript|Obviously Awesome]] — locator: Chapters 1–2

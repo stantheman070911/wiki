@@ -3,20 +3,30 @@ title: "Admire vs. Resent the Rich - Bless That Which You Want"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/wealth, topic/identity, person/t-harv-eker]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags: [ topic/mindset, topic/wealth, topic/identity, person/t-harv-eker ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich
+      People Model Winners, Poor People Hang Around Losers
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/I Create My Life
+      vs. Life Happens to Me - Escaping the Victim Triangle
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint
+      - Reprogramming Thoughts, Feelings, and Actions Around Money
 ---
 
 # Admire vs. Resent the Rich - Bless That Which You Want
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 You can't become something you despise, so resenting rich people while wanting to be one is a contradiction the subconscious will resolve by keeping you poor — the fix is to practice admiring, blessing, and loving wealth wherever you see it.
@@ -36,9 +46,12 @@ Wealth File #6. Eker notes people who view the rich as "bad" but still want to b
 - Send a short note of genuine admiration to someone highly successful (not necessarily someone you know personally) — the act of articulating admiration, not just feeling it, does the reprogramming.
 
 ## Relationships
-- **related:** [[I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle]]
-- **related:** [[Association - Rich People Model Winners, Poor People Hang Around Losers]]
-- **related:** [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Association - Rich People Model Winners, Poor People Hang Around Losers|Association - Rich People Model Winners, Poor People Hang Around Losers]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle|I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #6. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

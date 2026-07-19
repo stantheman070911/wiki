@@ -3,20 +3,46 @@ title: "Planning Backward from the Gap"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/strategy, topic/execution, topic/decision-making, topic/focus, person/andrew-grove, source/high-output-management]
-source:
-  type: "book"
-  name: "High Output Management"
-  author: "Andrew S. Grove"
-  url: ""
-  date_of_source: "1983"
+tags:
+  [
+    topic/strategy,
+    topic/execution,
+    topic/decision-making,
+    topic/focus,
+    person/andrew-grove,
+    source/high-output-management
+  ]
+sources:
+  - id: "SRC-0022"
+    role: "primary"
+    locator: "chapter 6"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
+      to Do
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as
+      Elimination - The Deep-Work Playbook
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical
+      Path - Work Backward from a Traction Goal
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial
+      Output and Leverage
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Breakfast Factory - Limiting Steps, WIP, and Capacity
 ---
 
 # Planning Backward from the Gap
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Planning converts the future gap between environmental demand and current momentum into a small set of actions that must begin now, then uses measurable milestones for early correction.
@@ -57,10 +83,14 @@ Today's shortfall usually reflects a planning failure in the past. A plan create
 Grove distinguishes today's gap from today's decision: a car that has run out of fuel needed a decision earlier, not a more urgent reaction now. At Intel, planning for a Philippine expansion translated a future capacity need into dated studies, a location decision, ratification, and construction actions. Columbus's voyage illustrates that key results can be completed while the stated objective is missed, so milestones guide judgment rather than replace it.
 
 ## Relationships
-- **related:** [[The Breakfast Factory - Limiting Steps, WIP, and Capacity]]
-- **related:** [[Managerial Output and Leverage]]
-- **related:** [[Focus as Elimination - The Deep-Work Playbook]]
-- **related:** [[Do What You Set Out to Do]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical Path - Work Backward from a Traction Goal|Critical Path - Work Backward from a Traction Goal]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial Output and Leverage|Managerial Output and Leverage]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Breakfast Factory - Limiting Steps, WIP, and Capacity|The Breakfast Factory - Limiting Steps, WIP, and Capacity]]
 ## Source reference
-Andrew S. Grove, *High Output Management* (1983; revised 1995), chapter 6. [[2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript|High Output Management - Raw Transcript]] — locator: chapter 6

@@ -17,3 +17,6 @@ Icon?
 
 # Obsidian community plugin binaries (installed locally)
 .obsidian/plugins/
+
+# Local JavaScript dependencies
+node_modules/

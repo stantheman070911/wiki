@@ -3,20 +3,43 @@ title: "The Breakfast Factory - Limiting Steps, WIP, and Capacity"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/operations, topic/systems, topic/inputs-vs-outputs, topic/leverage, person/andrew-grove, source/high-output-management]
-source:
-  type: "book"
-  name: "High Output Management"
-  author: "Andrew S. Grove"
-  url: ""
-  date_of_source: "1983"
+tags:
+  [
+    topic/operations,
+    topic/systems,
+    topic/inputs-vs-outputs,
+    topic/leverage,
+    person/andrew-grove,
+    source/high-output-management
+  ]
+sources:
+  - id: "SRC-0022"
+    role: "primary"
+    locator: "chapters 1–2"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm -
+      Musk's Five-Step Process Method
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity
+      Needs Standards and Distributed Judgment
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial
+      Output and Leverage
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning
+      Backward from the Gap
 ---
 
 # The Breakfast Factory - Limiting Steps, WIP, and Capacity
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Manage any repeatable workflow as a production system: schedule backward from delivery, build around the limiting step, control work in process, inspect before value accumulates, and trade capacity, inventory, and lead time consciously.
@@ -58,10 +81,13 @@ Production logic applies beyond factories to hiring, software, sales training, a
 In Grove's breakfast, the three-minute egg initially determines the schedule, so toast and coffee are started at offsets that make all three arrive hot. When toaster access becomes constrained, the queue—not the egg—becomes the limiting step and the whole flow must be redesigned. Intel similarly used inexpensive phone screens before costly on-site recruiting visits, rejecting mismatches before travel and interviewer time accumulated.
 
 ## Relationships
-- **related:** [[Planning Backward from the Gap]]
-- **related:** [[Managerial Output and Leverage]]
-- **related:** [[Complexity Needs Standards and Distributed Judgment]]
-- **related:** [[The Algorithm - Musk's Five-Step Process Method]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm - Musk's Five-Step Process Method|The Algorithm - Musk's Five-Step Process Method]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity Needs Standards and Distributed Judgment|Complexity Needs Standards and Distributed Judgment]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial Output and Leverage|Managerial Output and Leverage]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning Backward from the Gap|Planning Backward from the Gap]]
 ## Source reference
-Andrew S. Grove, *High Output Management* (1983; revised 1995), chapters 1–2. [[2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript|High Output Management - Raw Transcript]] — locator: chapters 1–2

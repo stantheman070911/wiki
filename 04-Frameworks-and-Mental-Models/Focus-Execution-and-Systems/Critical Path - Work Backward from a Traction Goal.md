@@ -3,20 +3,49 @@ title: "Critical Path - Work Backward from a Traction Goal"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/focus, topic/execution, topic/growth, topic/strategy, person/gabriel-weinberg, person/justin-mares, source/traction]
-source:
-  type: "book"
-  name: "Traction"
-  author: "Gabriel Weinberg and Justin Mares"
-  url: ""
-  date_of_source: "2015"
+tags:
+  [
+    topic/focus,
+    topic/execution,
+    topic/growth,
+    topic/strategy,
+    person/gabriel-weinberg,
+    person/justin-mares,
+    source/traction
+  ]
+sources:
+  - id: "SRC-0031"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and
+      Align - Make Priorities and Dependencies Public
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning
+      Backward from the Gap
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bullseye
+      - Test All Channels, Then Focus on One
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Proximate
+      Objectives - Setting the Next Achievable Target
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
+      50 Percent Rule - Build Product and Traction in Parallel
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The
+      Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action
 ---
 
 # Critical Path - Work Backward from a Traction Goal
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Define the traction result that would materially change the company, work backward to the few necessary milestones, and reject work that does not advance the next constraint.
@@ -49,11 +78,15 @@ Startups face more plausible projects than they can execute, and “important”
 DuckDuckGo set a daily-search target that would make the company meaningfully fundable, then worked backward through the product and distribution milestones needed to reach it. Half.com used the same logic before launch: the site had to function, sufficient inventory had to exist, and distribution partnerships had to be in place; unrelated deals were distractions even when prestigious.
 
 ## Relationships
-- **related:** [[Proximate Objectives - Setting the Next Achievable Target]]
-- **related:** [[Planning Backward from the Gap]]
-- **related:** [[The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
-- **related:** [[Bullseye - Test All Channels, Then Focus on One]]
-- **related:** [[The 50 Percent Rule - Build Product and Traction in Parallel]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and Align - Make Priorities and Dependencies Public|Focus and Align - Make Priorities and Dependencies Public]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning Backward from the Gap|Planning Backward from the Gap]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Bullseye - Test All Channels, Then Focus on One|Bullseye - Test All Channels, Then Focus on One]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Proximate Objectives - Setting the Next Achievable Target|Proximate Objectives - Setting the Next Achievable Target]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The 50 Percent Rule - Build Product and Traction in Parallel|The 50 Percent Rule - Build Product and Traction in Parallel]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
 ## Source reference
-Gabriel Weinberg and Justin Mares, *Traction* (2015), “Critical Path” and “Traction Thinking.” Raw transcript archived at [[2026-07-18_Book_GabrielWeinbergJustinMares_Traction_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_GabrielWeinbergJustinMares_Traction_RawTranscript|Traction]]

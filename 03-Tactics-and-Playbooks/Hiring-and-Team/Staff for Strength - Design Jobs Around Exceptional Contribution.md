@@ -3,20 +3,50 @@ title: "Staff for Strength - Design Jobs Around Exceptional Contribution"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/hiring, topic/management, topic/org-design, topic/leadership, person/peter-drucker]
-source:
-  type: "book"
-  name: "The Effective Executive"
-  author: "Peter F. Drucker"
-  url: ""
-  date_of_source: "1967"
+tags:
+  [
+    topic/hiring,
+    topic/management,
+    topic/org-design,
+    topic/leadership,
+    person/peter-drucker
+  ]
+sources:
+  - id: "SRC-0013"
+    role: "primary"
+    locator: "ch. 4"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Employment
+      Dependence Trade - Reliability, Freedom, and Hidden Hostages
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Effective Executive - Five Learnable Practices
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5
+      Leadership - Humility and Professional Will
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That
+      People Are Wired Very Differently
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test,
+      Evaluate, and Sort People
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Hire Right, Because the
+      Penalties for Hiring Wrong Are Huge
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More
+      Important Than the WHAT
 ---
 
 # Staff for Strength - Design Jobs Around Exceptional Contribution
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Build roles and teams to turn one relevant strength into exceptional performance; do not select for the absence of weaknesses or demand contradictory temperaments from a supposedly well-rounded person.
@@ -58,11 +88,16 @@ Organizations exist to combine specific strengths while making weaknesses irrele
 - Drucker’s rule for impossible jobs is deliberately structural: after two or three proven performers fail, redesign the job rather than blame the next person.
 
 ## Relationships
-- **related:** [[Constantly Train, Test, Evaluate, and Sort People]]
-- **related:** [[Remember That the WHO Is More Important Than the WHAT]]
-- **related:** [[Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
-- **applies:** [[Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
-- **applies:** [[The Effective Executive - Five Learnable Practices]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages|The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Effective Executive - Five Learnable Practices|The Effective Executive - Five Learnable Practices]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5 Leadership - Humility and Professional Will|Level 5 Leadership - Humility and Professional Will]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That People Are Wired Very Differently|Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People|Constantly Train, Test, Evaluate, and Sort People]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Hire Right, Because the Penalties for Hiring Wrong Are Huge|Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More Important Than the WHAT|Remember That the WHO Is More Important Than the WHAT]]
 ## Source reference
-Peter F. Drucker, *The Effective Executive*, ch. 4, “Making Strength Productive” (1967; 2006 edition). Raw archived text in [[2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript|The Effective Executive - Raw Transcript]] — locator: ch. 4

@@ -3,20 +3,61 @@ title: "Recognize How to Get Beyond Disagreements"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/decision-making, topic/idea-meritocracy, topic/believability, topic/culture, person/ray-dalio, person/peter-drucker, source/bridgewater-associates]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/decision-making,
+    topic/idea-meritocracy,
+    topic/believability,
+    topic/culture,
+    person/ray-dalio,
+    person/peter-drucker,
+    source/bridgewater-associates
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 6"
+  - id: "SRC-0013"
+    role: "supporting"
+    locator: "ch. 7"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Disagreement Needs a Finish Line
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Don't Overlook
+      Governance
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
+      Your Decision Making
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective
+      Decision Process
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative
+      Cooperation - Feedback, Friction, and Choice C
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and
+      Stay in Sync
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in
+      Radical Truth and Radical Transparency
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Mirroring and
+      Voice - Slow the Negotiation and Keep Them Talking
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With
+      Agreement - Keep the Other Mind Open
 ---
 
 # Recognize How to Get Beyond Disagreements
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 An idea meritocracy needs court-like, fair, and consistently enforced procedures for resolving disagreements that don't resolve on their own — without them, encouraging independent thinking just devolves into chaos, because open debate has to have a defined endpoint or it never actually produces a decision.
@@ -49,13 +90,19 @@ Sixth chapter of Work Principles, immediately following believability-weighting:
 - **Alfred Sloan reportedly postponed a unanimous GM committee decision** so the group could develop disagreement before reconvening—using dissent to discover what the decision was actually about, not to prolong conflict for its own sake.
 
 ## Relationships
-- **related:** [[Believability-Weight Your Decision Making]]
-- **related:** [[Get and Stay in Sync]]
-- **related:** [[Don't Overlook Governance]]
-- **related:** [[Trust in Radical Truth and Radical Transparency]]
-- **related:** [[The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Disagreement Needs a Finish Line|Disagreement Needs a Finish Line]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Don't Overlook Governance|Don't Overlook Governance]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective Decision Process|The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Creative Cooperation - Feedback, Friction, and Choice C|Creative Cooperation - Feedback, Friction, and Choice C]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Get and Stay in Sync|Get and Stay in Sync]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in Radical Truth and Radical Transparency|Trust in Radical Truth and Radical Transparency]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Mirroring and Voice - Slow the Negotiation and Keep Them Talking|Mirroring and Voice - Slow the Negotiation and Keep Them Talking]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open|Start With Agreement - Keep the Other Mind Open]]
 ## Source reference
-Ray Dalio, *Principles*, Part III, Ch. 6 ("Recognize How to Get Beyond Disagreements"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
 
-Peter F. Drucker, *The Effective Executive*, ch. 7, “Effective Decisions” (1967; 2006 edition). Raw archived text in [[2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 6
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_PeterDrucker_TheEffectiveExecutive_RawTranscript|The Effective Executive - Raw Transcript]] — locator: ch. 7

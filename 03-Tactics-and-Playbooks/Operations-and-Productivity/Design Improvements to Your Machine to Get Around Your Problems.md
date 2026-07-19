@@ -3,20 +3,69 @@ title: "Design Improvements to Your Machine to Get Around Your Problems"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/systems, topic/management, topic/org-design, topic/operations, person/ray-dalio, source/bridgewater-associates, person/michael-gerber, source/e-myth-revisited]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/systems,
+    topic/management,
+    topic/org-design,
+    topic/operations,
+    person/ray-dalio,
+    source/bridgewater-associates,
+    person/michael-gerber,
+    source/e-myth-revisited
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 13"
+  - id: "SRC-0011"
+    role: "supporting"
+    locator: "chapter 14"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build
+      the Business as the Product
+  - type: applies
+    target: 01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle -
+      Infancy, Adolescence, and Maturity
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation,
+      Quantification, and Orchestration - The Business Development Loop
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Kaizen and
+      the Progress Principle
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
+      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems
+      to Get at Their Root Causes
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out
+      to Do
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
+      - SOPs, Checklists, and Systematizing the Vital 20%
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone
+      Operating a Machine to Achieve a Goal
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Customer-Base
+      Test Kitchen - Distributed R&D Before Rollout
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and
+      Protocols to Shape How Work Is Done
 ---
 
 # Design Improvements to Your Machine to Get Around Your Problems
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 Design follows diagnosis, not the other way around — a good organizational design resembles a movie script, visualizing specifically who does what through time, and it has to be systemized so principles get applied consistently across the organization rather than reinvented case by case.
@@ -58,14 +107,21 @@ Rather than a static org chart or a bullet-point plan, visualize the specific se
 - The Client Service Department redesign (David McCormick's reforms, following the diagnosis in the previous chapter) and the resulting biannual "Quality Day" peer-review meetings are the concrete design output of this running case study.
 
 ## Relationships
-- **related:** [[Diagnose Problems to Get at Their Root Causes]]
-- **related:** [[Manage as Someone Operating a Machine to Achieve a Goal]]
-- **related:** [[Use Tools and Protocols to Shape How Work Is Done]]
-- **related:** [[Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
-- **applies:** [[The Franchise Prototype - Build the Business as the Product]]
-- **applies:** [[The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build the Business as the Product|The Franchise Prototype - Build the Business as the Product]]
+- **Applies:** [[01-Business-Strategy/Growth-and-Scaling/The Small-Business Lifecycle - Infancy, Adolescence, and Maturity|The Small-Business Lifecycle - Infancy, Adolescence, and Maturity]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation, Quantification, and Orchestration - The Business Development Loop|Innovation, Quantification, and Orchestration - The Business Development Loop]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Kaizen and the Progress Principle|Kaizen and the Progress Principle - Small Wins, Course Corrections, and Motivation]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)|The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems to Get at Their Root Causes|Diagnose Problems to Get at Their Root Causes]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%|Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone Operating a Machine to Achieve a Goal|Manage as Someone Operating a Machine to Achieve a Goal]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Customer-Base Test Kitchen - Distributed R&D Before Rollout|The Customer-Base Test Kitchen - Distributed R&D Before Rollout]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and Protocols to Shape How Work Is Done|Use Tools and Protocols to Shape How Work Is Done]]
 ## Source reference
-Ray Dalio, *Principles*, Part III, Ch. 13 ("Design Improvements to Your Machine to Get Around Your Problems"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
 
-Additional source: Michael E. Gerber, *The E-Myth Revisited*, chapter 14, [[2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 13
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript|The E-Myth Revisited - Raw Transcript]] — locator: chapter 14

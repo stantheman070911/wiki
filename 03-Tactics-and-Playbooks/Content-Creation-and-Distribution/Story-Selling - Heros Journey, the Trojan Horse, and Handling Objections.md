@@ -5,20 +5,67 @@ aliases:
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/storytelling, topic/copywriting, topic/advertising, topic/persuasion, topic/narrative, person/sam-parr, person/donald-miller, source/building-a-storybrand]
-source:
-  type: "podcast"
-  name: "The $2 Billion Copywriting Secret Behind The Most Successful Ad Ever (Sweat Equity)"
-  author: "Sam Parr"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/storytelling,
+    topic/copywriting,
+    topic/advertising,
+    topic/persuasion,
+    topic/narrative,
+    person/sam-parr,
+    person/donald-miller,
+    source/building-a-storybrand
+  ]
+sources:
+  - id: "SRC-0058"
+    role: "primary"
+  - id: "SRC-0029"
+    role: "supporting"
 date_added: "2026-07-10"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content
+  Creation and Distribution Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7
+      Framework - Customer as Hero, Brand as Guide
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
+      Actually Is - Association, Influence, Direction, Reach
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal
+      Emotion - When We Care, We Share
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation
+      and Commitment - Persuasion's Two Deepest Levers
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable
+      Virality - Build a Trojan Horse People Can't Retell Without You
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
+      Create - Engineering Proof at Scale
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over
+      Clever - Write Below Third Grade and Meet the Avatar
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting
+      Fundamentals - AIDA, the Headline, and the Slippery Slope
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise,
+      Proof, Path - Engineering the Video Intro
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Commercial
+      Teaching Conversation - From Warmer to Your Solution
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand
+      Conversion Path - Problem, Plan, and Calls to Action
 ---
 
 # Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Creation and Distribution Map|Content Creation and Distribution]]
 
 ## One-line summary
 The most durable ads sell through story, not benefit-dumping: cast the customer as the hero and the brand as the guide, bury the product deep inside the narrative (the Trojan horse), make the pain concrete and visual, and disarm objections by voicing them yourself.
@@ -60,14 +107,21 @@ The product is revealed *late* (Trojan horse), after desire and belief are built
 - The Lenovo-headphones script — handles the "$40, must be cheap" objection with anecdote ("I wore them in the shower," "haven't charged in 3 weeks") instead of spec claims.
 
 ## Relationships
-- **related:** [[Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]
-- **related:** [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
-- **applies:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
-- **applies:** [[Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
-- **related:** [[Capture Dont Create - Engineering Proof at Scale]]
-- **related:** [[Promise, Proof, Path - Engineering the Video Intro]]
-- **related:** [[The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide]]
-- **related:** [[The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide|The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/High-Arousal Emotion - When We Care, We Share|High-Arousal Emotion - When We Care, We Share]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Reciprocation and Commitment - Persuasion's Two Deepest Levers|Reciprocation and Commitment - Persuasion's Two Deepest Levers]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Valuable Virality - Build a Trojan Horse People Can't Retell Without You|Valuable Virality - Build a Trojan Horse People Can't Retell Without You]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope|Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Commercial Teaching Conversation - From Warmer to Your Solution|The Commercial Teaching Conversation - From Warmer to Your Solution]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand Conversion Path - Problem, Plan, and Calls to Action|The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
 ## Source reference
-Sam Parr, *The $2 Billion Copywriting Secret Behind The Most Successful Ad Ever* (Sweat Equity podcast). Raw transcript archived at [[2026-07-10_Podcast_SamParr_The2BillionCopywritingSecret]]. Additional customer-as-hero and guide-role framework from Donald Miller, *Building a StoryBrand 2.0* (2025), archived at [[2026-07-18_Book_DonaldMiller_BuildingAStoryBrand20_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Podcasts/2026-07-10_Podcast_SamParr_The2BillionCopywritingSecret|The $2 Billion Copywriting Secret Behind The Most Successful Ad Ever — w/ Sam Parr (Sweat Equity)]]
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_DonaldMiller_BuildingAStoryBrand20_RawTranscript|Building a StoryBrand 2.0]]

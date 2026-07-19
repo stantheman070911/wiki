@@ -1,0 +1,12 @@
+{
+  "name": "the-wiki-vault-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node tools/check-vault.mjs && node --test tools/tests/*.test.mjs",
+    "test": "node --test tools/tests/*.test.mjs"
+  },
+  "dependencies": {
+    "yaml": "^2.8.1"
+  }
+}

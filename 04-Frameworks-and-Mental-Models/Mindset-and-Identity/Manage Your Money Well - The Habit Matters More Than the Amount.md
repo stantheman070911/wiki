@@ -3,20 +3,42 @@ title: "Manage Your Money Well - The Habit Matters More Than the Amount"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/money-management, topic/mindset, topic/money, person/t-harv-eker]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags: [ topic/money-management, topic/mindset, topic/money, person/t-harv-eker ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money
+      Management System
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k -
+      Defense-Before-Offense Playbook
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Excellent Receivers
+      vs. Poor Receivers - Worthiness Is a Story You Tell Yourself
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth
+      vs. Focus on Working Income - The Four Net Worth Factors
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Have Money Work
+      Hard for You vs. Working Hard for Your Money
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint
+      - Reprogramming Thoughts, Feelings, and Actions Around Money
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think 'Both' vs.
+      Think 'Either-Or' - Abundance Over Scarcity
 ---
 
 # Manage Your Money Well - The Habit Matters More Than the Amount
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 "I'll manage my money once I have enough to manage" is backwards — the universe (and your own habits) treats management as the precondition for more money, not the reward for it, so the habit has to start with whatever amount you currently have, even if that's a single dollar.
@@ -36,10 +58,16 @@ Wealth File #14. This is the mindset half of the file; the concrete money-manage
 - Track the felt difference between "managing money" and "avoiding money" over a few months — Eker's seminar participants consistently report the habit becomes enjoyable once established, not just tolerable.
 
 ## Relationships
-- **related:** [[The 6 Jars Money Management System]]
-- **related:** [[Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself]]
-- **related:** [[Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
-- **related:** [[The First 100k - Defense-Before-Offense Playbook]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money Management System|The 6 Jars Money Management System]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - Defense-Before-Offense Playbook|The First 100k - Defense-Before-Offense Playbook]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself|Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors|Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Have Money Work Hard for You vs. Working Hard for Your Money|Have Money Work Hard for You vs. Working Hard for Your Money]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think 'Both' vs. Think 'Either-Or' - Abundance Over Scarcity|Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #14. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

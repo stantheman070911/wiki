@@ -3,20 +3,55 @@ title: "Diagnose Problems to Get at Their Root Causes"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/root-cause, topic/management, topic/decision-making, topic/operations, person/ray-dalio, source/bridgewater-associates]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/root-cause,
+    topic/management,
+    topic/decision-making,
+    topic/operations,
+    person/ray-dalio,
+    source/bridgewater-associates
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 12"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the
+      Problem You Have, Not the One You're Afraid Of
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective
+      Decision Process
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
+      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a
+      Culture Where Mistakes Are Okay But Not Learning From Them Isn't
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements
+      to Your Machine to Get Around Your Problems
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone
+      Operating a Machine to Achieve a Goal
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Perceive and Don't
+      Tolerate Problems
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Customer-Base
+      Test Kitchen - Distributed R&D Before Rollout
 ---
 
 # Diagnose Problems to Get at Their Root Causes
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 Diagnosis means connecting a bad outcome to the specific person or design responsible and determining whether it's a one-off or a recurring pattern — skipping straight from noticing a problem to proposing a solution, without this step, is the most common failure in management.
@@ -46,10 +81,17 @@ Twelfth chapter of Work Principles, continuing the Client Service Department cas
 - **"The Ray gap."** When Dalio stepped back as CEO in 2011 and his successors struggled, Bridgewater diagnosed the shortfall the same way it would diagnose any machine problem — cataloguing the specific attributes ("shaping" ability, in this case) that Dalio brought which his successors didn't, rather than settling for a vague sense that "something feels off." The lesson: when a team underperforms after a personnel change, map the gap in specific attributes, not general dissatisfaction.
 
 ## Relationships
-- **related:** [[Perceive and Don't Tolerate Problems]]
-- **related:** [[Design Improvements to Your Machine to Get Around Your Problems]]
-- **applies:** [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
-- **applies:** [[Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the Problem You Have, Not the One You're Afraid Of|Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective Decision Process|The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)|The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements to Your Machine to Get Around Your Problems|Design Improvements to Your Machine to Get Around Your Problems]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone Operating a Machine to Achieve a Goal|Manage as Someone Operating a Machine to Achieve a Goal]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Perceive and Don't Tolerate Problems|Perceive and Don't Tolerate Problems]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Customer-Base Test Kitchen - Distributed R&D Before Rollout|The Customer-Base Test Kitchen - Distributed R&D Before Rollout]]
 ## Source reference
-Ray Dalio, *Principles*, Part III, Ch. 12 ("Diagnose Problems to Get at Their Root Causes"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 12

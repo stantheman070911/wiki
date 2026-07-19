@@ -1,22 +1,71 @@
 ---
-title: "Using AI in Your Business - Train Like an Employee and the Department Playbook"
+title: "Using AI in Your Business - Train Like an Employee and the Department
+  Playbook"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/ai, topic/automation, topic/hiring, topic/operations, person/alex-hormozi, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "How to Use AI in Your Business in 2026 (playlist: How to Make Your First $100,000)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/ai,
+    topic/automation,
+    topic/hiring,
+    topic/operations,
+    person/alex-hormozi,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0054"
+    role: "primary"
+  - id: "SRC-0104"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-13"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and
+  Productivity Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business
+      Redesign - Speed to Value and Experience Moats
+  - type: applies
+    target: 01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You
+      Can't Control Price
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the
+      Problem You Have, Not the One You're Afraid Of
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Technology as
+      an Accelerator, Not a Strategy
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or
+      Supply
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Framework for Making Frameworks - Distill by Commonality
+  - type: has-example
+    target: 05-Intelligence-and-Research/AI、資料與內容的賭注理論
+  - type: has-example
+    target: 05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA,
+      and Risk as the Last Human Job
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont
+      Create - Engineering Proof at Scale
+  - type: related
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content
+      Repository - Four Topic Buckets and Tweet-First Capture
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before
+      Automation - Manual Onboarding to Fix Churn
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four
+      Lead-Conversion Levers - Speed, Availability, Personalization, Volume
 ---
 
 # Using AI in Your Business - Train Like an Employee and the Department Playbook
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Operations-and-Productivity/Operations and Productivity Map|Operations and Productivity]]
 
 ## One-line summary
 You don't have to become an AI business — you have to use AI in your business — by training agents the way you'd train a new hire, overlaying your business acumen on the tech, and automating one task at a time across every department.
@@ -70,13 +119,22 @@ Later Q&A sharpened three points for operators:
 Source for this section: *Alex Hormozi Answers Your Questions (Ask Me Anything)* — see [[2026-07-08_Video_AlexHormozi_AskMeAnything]].
 
 ## Relationships
-- **related:** [[Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
-- **applies:** [[The Framework for Making Frameworks - Distill by Commonality]]
-- **related:** [[Capture Dont Create - Engineering Proof at Scale]]
-- **related:** [[The Content Repository - Four Topic Buckets and Tweet-First Capture]]
-- **related:** [[AI、資料與內容的賭注理論]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The AI-Ready Business Redesign - Speed to Value and Experience Moats|The AI-Ready Business Redesign - Speed to Value and Experience Moats]]
+- **Applies:** [[01-Business-Strategy/Pricing-and-Offers/Compete on Efficiency When You Can't Control Price|Compete on Efficiency When You Can't Control Price]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the Problem You Have, Not the One You're Afraid Of|Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Technology as an Accelerator, Not a Strategy|Technology as an Accelerator, Not a Strategy]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Framework for Making Frameworks - Distill by Commonality|The Framework for Making Frameworks - Distill by Commonality]]
+- **Has example:** [[05-Intelligence-and-Research/AI、資料與內容的賭注理論|AI、資料與內容的賭注理論]]
+- **Has example:** [[05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job|Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content Repository - Four Topic Buckets and Tweet-First Capture|The Content Repository - Four Topic Buckets and Tweet-First Capture]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume|The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
 ## Source reference
-Alex Hormozi, *How to Use AI in Your Business in 2026* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].
 
-Additional source: Daniel Priestley, *Your Business Is Dead - AI Reinvention*, [[2026-07-13_Video_DanielPriestley_YourBusinessIsDeadAIReinvention_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Podcasts/2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000|How to Make Your First $100,000]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_YourBusinessIsDeadAIReinvention_RawTranscript|Your Business Is Dead - AI Reinvention - Raw Transcript]]

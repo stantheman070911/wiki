@@ -6,20 +6,40 @@ type: "series-entry"
 domain: "business-strategy"
 series: "$100M Scaling Roadmap"
 lang: "zh"
-tags: [topic/scaling, source/acquisition-100m-roadmap, topic/efficiency, topic/focus, topic/systems, person/alex-hormozi]
-source:
-  type: "pdf"
-  name: "$100M Scaling Roadmap（Personalized Guide）"
-  author: "Alex Hormozi / Acquisition.com"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/scaling,
+    source/acquisition-100m-roadmap,
+    topic/efficiency,
+    topic/focus,
+    topic/systems,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0059"
+    role: "primary"
+    locator: "Stage 6"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/孤獨、簡單勝過輕鬆與犧牲平庸
+  - type: derives-from
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview
+  - type: has-derivative
+    target: 07-Articles/Fix the Bottleneck, Not Everything
+  - type: is-prerequisite-for
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-7-Categorize
+  - type: prerequisite
+    target: 01-Business-Strategy/100M-Scaling-Roadmap/Stage-5-Productize
 ---
 
 # $100M 擴張路線圖 · Stage 6：Optimize 優化
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
 
 > 系列導覽：[[$100M Scaling Roadmap Overview|總覽與方法論]]　｜　上一關：[[Stage-5-Productize|Stage 5：Productize 產品化]]　｜　下一關：[[Stage-7-Categorize|Stage 7：Categorize 分工]]
 
@@ -83,11 +103,13 @@ status: "reviewed"
 
 ## 關係
 
-- **related:** [[$100M Scaling Roadmap Overview|總覽與方法論]]
-- **prerequisite:** [[Stage-5-Productize|Stage 5：Productize 產品化]]
-- **related:** [[Stage-7-Categorize|Stage 7：Categorize 分工]]
-- **applies:** [[孤獨、簡單勝過輕鬆與犧牲平庸]]（「專注是相乘不是相加」與 better-not-more 同源）
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **應用於:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/孤獨、簡單勝過輕鬆與犧牲平庸|孤獨、簡單勝過輕鬆與犧牲平庸]]
+- **衍生自:** [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
+- **具有衍生成果:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
+- **是其前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-7-Categorize|$100M 擴張路線圖 · Stage 7：Categorize 分工]]
+- **前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-5-Productize|$100M 擴張路線圖 · Stage 5：Productize 產品化]]
 ## 來源
 
-$100M Scaling Roadmap（Personalized Guide），Stage 6，Alex Hormozi / Acquisition.com。原始 PDF 存於 [2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt](<../../06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap.txt>)。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap|$100M Scaling Roadmap（Personalized Guide）]] — locator: Stage 6

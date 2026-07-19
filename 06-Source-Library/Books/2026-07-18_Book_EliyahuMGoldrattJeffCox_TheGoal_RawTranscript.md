@@ -1,12 +1,19 @@
 ---
+source_id: "SRC-0030"
 title: "The Goal"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Eliyahu M. Goldratt"
+    role: "author"
+  - name: "Jeff Cox"
+    role: "author"
 source_type: "book"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Eliyahu M. Goldratt and Jeff Cox"
+published_on: "1984"
 date_archived: "2026-07-18"
 status: "source"
 ---

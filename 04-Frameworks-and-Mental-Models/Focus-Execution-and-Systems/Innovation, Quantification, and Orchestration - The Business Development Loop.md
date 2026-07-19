@@ -3,20 +3,58 @@ title: "Innovation, Quantification, and Orchestration - The Business Development
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/innovation, topic/systems, topic/operations, topic/feedback, topic/decision-making, topic/consistency, person/michael-gerber, source/e-myth-revisited]
-source:
-  type: "book"
-  name: "The E-Myth Revisited"
-  author: "Michael E. Gerber"
-  url: ""
-  date_of_source: "1995"
+tags:
+  [
+    topic/innovation,
+    topic/systems,
+    topic/operations,
+    topic/feedback,
+    topic/decision-making,
+    topic/consistency,
+    person/michael-gerber,
+    source/e-myth-revisited
+  ]
+sources:
+  - id: "SRC-0011"
+    role: "primary"
+    locator: "chapter 10"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus
+  Execution and Systems Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Do It by Hand Until You Know What It Is
+  - type: has-derivative
+    target: 07-Articles/Two Ways a Founder Can Disappear
+  - type: is-applied-by
+    target: 01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build
+      the Business as the Product
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative
+      Experiments - Opposites, Constraints, A-B Tests, and Context
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements
+      to Your Machine to Get Around Your Problems
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof
+      - SOPs, Checklists, and Systematizing the Vital 20%
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm -
+      Musk's Five-Step Process Method
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Out-Fail the
+      Competition - Building an Experimentation System
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step
+      Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)
 ---
 
 # Innovation, Quantification, and Orchestration - The Business Development Loop
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus Execution and Systems Map|Focus, Execution, and Systems]]
 
 ## One-line summary
 Improve a business by testing a better method, measuring whether it works, and standardizing the winner—then repeat before the standard becomes obsolete.
@@ -53,11 +91,18 @@ The unit of improvement can be small—a greeting, checklist, handoff, layout, o
 The book illustrates the loop with small retail changes: alter a greeting, measure visits and purchases before and after, and standardize the version that converts better. The durable insight is the experimental discipline, not the dated claim that any particular phrase or color will work universally.
 
 ## Relationships
-- **related:** [[The Franchise Prototype - Build the Business as the Product]]
-- **related:** [[The Algorithm - Musk's Five-Step Process Method]]
-- **related:** [[The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
-- **related:** [[Design Improvements to Your Machine to Get Around Your Problems]]
-- **related:** [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Has derivative:** [[07-Articles/Do It by Hand Until You Know What It Is|Do It by Hand Until You Know What It Is]]
+- **Has derivative:** [[07-Articles/Two Ways a Founder Can Disappear|Two Ways a Founder Can Disappear]]
+- **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build the Business as the Product|The Franchise Prototype - Build the Business as the Product]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Design Improvements to Your Machine to Get Around Your Problems|Design Improvements to Your Machine to Get Around Your Problems]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%|Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm - Musk's Five-Step Process Method|The Algorithm - Musk's Five-Step Process Method]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Out-Fail the Competition - Building an Experimentation System|Out-Fail the Competition - Building an Experimentation System]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)|The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
 ## Source reference
-Michael E. Gerber, *The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It*, chapter 10. Archived transcript: [[2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript|The E-Myth Revisited - Raw Transcript]] — locator: chapter 10

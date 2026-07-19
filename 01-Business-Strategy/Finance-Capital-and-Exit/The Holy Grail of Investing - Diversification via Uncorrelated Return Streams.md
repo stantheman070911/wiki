@@ -3,20 +3,48 @@ title: "The Holy Grail of Investing - Diversification via Uncorrelated Return St
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/capital, topic/risk, topic/diversification, topic/decision-making, person/ray-dalio, source/bridgewater-associates]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/capital,
+    topic/risk,
+    topic/diversification,
+    topic/decision-making,
+    person/ray-dalio,
+    source/bridgewater-associates
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Part I"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
+      and Asymmetric Bets
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Increase the
+      Surface Area of Luck
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to
+      Make Decisions Effectively - Expected Value, Levels, and Algorithms
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin -
+      Time Probability, Repeated Exposure, and Survival First
+  - type: has-example
+    target: 05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions
+      Competing as Service Providers
+  - type: related
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback
+      Period - The Three Numbers That Decide If You Win
 ---
 
 # The Holy Grail of Investing - Diversification via Uncorrelated Return Streams
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Charting how portfolio volatility falls and risk-adjusted quality rises as you add genuinely uncorrelated return streams shows that roughly 15–20 good, uncorrelated, well-balanced bets can dramatically cut risk without cutting expected return — a mathematical result Dalio calls the "Holy Grail of Investing," and a principle that generalizes far beyond markets.
@@ -42,9 +70,15 @@ Discovered around 1990 by Dalio with Bob Prince and Dan Bernstein while research
 - **Pure Alpha** (originally "Top 5%") and **All Weather** are Bridgewater's two flagship products built directly on this insight — All Weather specifically was built for Dalio's own family trust using the growth/inflation 2x2 to balance exposure across all four macro-environment quadrants.
 
 ## Relationships
-- **applies:** [[Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms]]
-- **applies:** [[Fear, Regret, and Asymmetric Bets]]
-- **related:** [[CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Increase the Surface Area of Luck|Increase the Surface Area of Luck]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms|Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin - Time Probability, Repeated Exposure, and Survival First|Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
+- **Has example:** [[05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions Competing as Service Providers|Commercialized Sovereignty - Jurisdictions Competing as Service Providers]]
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
 ## Source reference
-Ray Dalio, *Principles*, Part I memoir (c. 1990 discovery, and the 1996–2003 development of All Weather). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Part I

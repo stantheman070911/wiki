@@ -3,20 +3,36 @@ title: "完美主義是恐懼的偽裝：用行動與deadline打破癱瘓"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "zh"
-tags: [topic/mindset, topic/execution, source/kim-startup-qa, person/kim]
-source:
-  type: "conversation"
-  name: "創業解惑社 Q&A 整理（共用表單副本，344 則問答）"
-  author: "阿金（Kim）"
-  url: ""
-  date_of_source: ""
+tags: [ topic/mindset, topic/execution, source/kim-startup-qa, person/kim ]
+sources:
+  - id: "SRC-0041"
+    role: "primary"
 date_added: "2026-07-08"
 updated: "2026-07-08"
 reviewed_on: "2026-07-08"
 status: "reviewed"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: has-derivative
+    target: 07-Articles/Confidence Is a Receipt, Not a Requirement
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/賽道選擇的兩個模型：Ikigai與市場五要素
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/商業是連結與解決問題的方式：賺錢是驗證訊號而非目的
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not
+      Confidence
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
+      Gratification - Patience and Inputs vs Outputs
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth -
+      Proficiency, Pain Tolerance, and Frustration Tolerance
 ---
 
 # 完美主義是恐懼的偽裝：用行動與deadline打破癱瘓
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## 一句話總結
 
@@ -62,13 +78,14 @@ status: "reviewed"
 
 ## 關係
 
-- **related:** [[賽道選擇的兩個模型：Ikigai與市場五要素]]
-- **related:** [[Build Evidence, Not Confidence]]
-- **related:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
-- **related:** [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
-
-- **related:** [[商業是連結與解決問題的方式：賺錢是驗證訊號而非目的]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **具有衍生成果:** [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
+- **相關:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/賽道選擇的兩個模型：Ikigai與市場五要素|賽道選擇的兩個模型：Ikigai與市場五要素]]
+- **相關:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/商業是連結與解決問題的方式：賺錢是驗證訊號而非目的|商業是連結與解決問題的方式：賺錢是驗證訊號而非目的]]
+- **相關:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
+- **相關:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed Gratification - Patience and Inputs vs Outputs|Delayed Gratification - Patience and Inputs vs Outputs]]
+- **相關:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 ## 來源
 
-創業解惑社 Q&A 整理（共用表單副本，344 則問答），阿金（Kim）。封存來源：[[2026-07-08_Conversation_阿金_創業解惑社QA整理]]。本條目綜合 Q11、Q77、Q79、Q69 等多則問答的重複性核心洞察。
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Conversations/2026-07-08_Conversation_阿金_創業解惑社QA整理|創業解惑社QA整理]]

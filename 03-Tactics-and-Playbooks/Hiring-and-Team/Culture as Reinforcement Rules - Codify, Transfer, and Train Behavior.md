@@ -3,20 +3,60 @@ title: "Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/culture, topic/management, topic/leadership, topic/systems, topic/hiring, person/alex-hormozi, person/michael-gerber, source/e-myth-revisited]
-source:
-  type: "conversation"
-  name: "Alex Hormozi AMA 3"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/culture,
+    topic/management,
+    topic/leadership,
+    topic/systems,
+    topic/hiring,
+    person/alex-hormozi,
+    person/michael-gerber,
+    source/e-myth-revisited
+  ]
+sources:
+  - id: "SRC-0042"
+    role: "primary"
+  - id: "SRC-0011"
+    role: "supporting"
+    locator: "chapters 15–16"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build
+      the Business as the Product
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of
+      Discipline - Freedom, Responsibility, and Stop-Doing Lists
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a
+      Culture Where Mistakes Are Okay But Not Learning From Them Isn't
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary
+      Aim and Strategic Objective - Make the Business Serve the Life
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat
+      Organizations
+  - type: related
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/The Mechanics of Mafia -
+      Cult-Like Culture and the Recruiting Pitch
+  - type: related
+    target: 03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and
+      Protocols to Shape How Work Is Done
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as
+      Intellectual Property - Process Above the Player
 ---
 
 # Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Culture is the set of spoken and unspoken “if this, then that” rules governing which behaviors an organization rewards, ignores, or punishes.
@@ -59,15 +99,19 @@ Founders often try to replicate culture through slogans or proximity. That fails
 In the AMA, a real-estate brokerage opening a second market is advised to codify meeting and interaction rules, install its new leader under “training wheels” at the original office, and role-play leadership conversations before moving that leader to the new location.
 
 ## Relationships
-- **applies:** [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
-- **related:** [[Sales Systems as Intellectual Property - Process Above the Player]]
-- **related:** [[Special-Forces Teams and Flat Organizations]]
-- **related:** [[Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
-- **related:** [[Use Tools and Protocols to Shape How Work Is Done]]
-- **applies:** [[Primary Aim and Strategic Objective - Make the Business Serve the Life]]
-- **applies:** [[The Franchise Prototype - Build the Business as the Product]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Growth-and-Scaling/The Franchise Prototype - Build the Business as the Product|The Franchise Prototype - Build the Business as the Product]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary Aim and Strategic Objective - Make the Business Serve the Life|Primary Aim and Strategic Objective - Make the Business Serve the Life]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Recruiting Is Marketing|Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Special-Forces Teams and Flat Organizations|Special-Forces Teams and Flat Organizations]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch|The Mechanics of Mafia - Cult-Like Culture and the Recruiting Pitch]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Use Tools and Protocols to Shape How Work Is Done|Use Tools and Protocols to Shape How Work Is Done]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
 ## Source reference
-Alex Hormozi, *AMA 3*. Raw transcript: [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
 
-Additional source: Michael E. Gerber, *The E-Myth Revisited*, chapters 15–16, [[2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Books/2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript|The E-Myth Revisited - Raw Transcript]] — locator: chapters 15–16

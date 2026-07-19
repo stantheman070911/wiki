@@ -3,20 +3,43 @@ title: "The Direct-Response Doom Loop and the One-Brand Bet"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/business-model, topic/marketing, topic/brand, person/alex-hormozi]
-source:
-  type: "video"
-  name: "Alex Hormozi — Cash Cow Business Breakdowns & Service/E-commerce/HVAC Scaling AMAs (compilation)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags: [ topic/business-model, topic/marketing, topic/brand, person/alex-hormozi ]
+sources:
+  - id: "SRC-0073"
+    role: "primary"
+  - id: "SRC-0074"
+    role: "supporting"
+  - id: "SRC-0042"
+    role: "supporting"
 date_added: "2026-07-09"
 updated: "2026-07-09"
 reviewed_on: "2026-07-09"
 status: "reviewed"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand
+      Actually Is - Association, Influence, Direction, Reach
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost
+      Filter - Stay, Scale, or Burn It Down
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Flywheel
+      and the Doom Loop - Compound Momentum in One Direction
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The
+      Greener-Pasture Fallacy
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing -
+      Measure Action, Build Culture Patiently
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and
+      Monetization - The Give-Content, Ask-Ads Model
 ---
 
 # The Direct-Response Doom Loop and the One-Brand Bet
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 A portfolio of direct-response e-commerce brands running on paid-media arbitrage tends to cap out around $10–12M each because the model is a rented media edge, not a compounding asset — the way past the cap is to stop spreading attention across brands and go all-in on the one with brand potential.
@@ -57,12 +80,17 @@ AMA 3 contrasts two superficially similar e-commerce outcomes: checkout optimiza
 - This is distinct from simply having too many businesses at once for operational reasons (see [[The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]) — here, each business is individually sound but the ceiling is structural to the model, not a distraction problem.
 
 ## Relationships
-- **applies:** [[The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]
-- **related:** [[Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
-- **applies:** [[The Change Cost Filter - Stay, Scale, or Burn It Down]]
-- **applies:** [[What a Brand Actually Is - Association, Influence, Direction, Reach]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Flywheel and the Doom Loop - Compound Momentum in One Direction|The Flywheel and the Doom Loop - Compound Momentum in One Direction]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Greener-Pasture Fallacy|The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Direct vs Brand Marketing - Measure Action, Build Culture Patiently|Direct vs Brand Marketing - Measure Action, Build Culture Patiently]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model|Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
 ## Source reference
-Alex Hormozi, business-breakdown/AMA compilation (e-commerce scaling segment). Raw transcript archived in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript]]; extraction notes in [[2026-07-09_Video_AlexHormozi_CashCowBreakdowns]].
 
-Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript|Cash Cow Breakdowns - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]
+- **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

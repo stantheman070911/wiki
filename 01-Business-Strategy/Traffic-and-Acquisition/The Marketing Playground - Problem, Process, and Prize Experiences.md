@@ -3,20 +3,45 @@ title: "The Marketing Playground - Problem, Process, and Prize Experiences"
 type: "strategy"
 domain: "business-strategy"
 lang: "en"
-tags: [topic/marketing, topic/funnel, topic/content-strategy, topic/persuasion, topic/product, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "Marketing Playground"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/marketing,
+    topic/funnel,
+    topic/content-strategy,
+    topic/persuasion,
+    topic/product,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0097"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 01-Business-Strategy/Business Strategy Index
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Brand-and-Positioning/Psychological
+      Moonshots - Improve Perception Before Reality
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead
+      Generation - Fifteen Questions and Dynamic Routing
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get
+      Them What They Need - The Defined-End Offer
+  - type: related
+    target: 01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold
+      Traffic Before the Core Offer
+  - type: related
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid
+      and the Halo Strategy
 ---
 
 # The Marketing Playground - Problem, Process, and Prize Experiences
+
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]]
 
 ## One-line summary
 Replace a pressure funnel with a set of useful experiences that help buyers understand their problem, learn a credible process, and verify the prize before choosing to buy.
@@ -52,12 +77,14 @@ Every experience should be valuable on its own and offer a clear but optional ne
 A lead-generation software company can use a course to explain why demand is failing, a blueprint to teach its methodology, and a free trial to let the buyer experience the solution. No single asset has to perform the entire sale.
 
 ## Relationships
-- **related:** [[The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
-- **related:** [[The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
-- **related:** [[Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
-- **related:** [[Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
 
-- **related:** [[Psychological Moonshots - Improve Perception Before Reality]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Psychological Moonshots - Improve Perception Before Reality|Psychological Moonshots - Improve Perception Before Reality]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing|Assessment-Led Lead Generation - Fifteen Questions and Dynamic Routing]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get Them What They Need - The Defined-End Offer|Give Them What They Want to Get Them What They Need - The Defined-End Offer]]
+- **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold Traffic Before the Core Offer|The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid and the Halo Strategy|The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
 ## Source reference
-Daniel Priestley, *Marketing Playground*. Raw transcript in [[2026-07-13_Video_DanielPriestley_MarketingPlayground_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_MarketingPlayground_RawTranscript|Marketing Playground - Raw Transcript]]

@@ -3,20 +3,30 @@ title: "Have Money Work Hard for You vs. Working Hard for Your Money"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/passive-income, topic/wealth, topic/mindset, person/t-harv-eker]
-source:
-  type: "book"
-  name: "Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth"
-  author: "T. Harv Eker"
-  url: ""
-  date_of_source: "2005"
+tags: [ topic/passive-income, topic/wealth, topic/mindset, person/t-harv-eker ]
+sources:
+  - id: "SRC-0018"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money
+      Management System
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth
+      vs. Focus on Working Income - The Four Net Worth Factors
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money
+      Well - The Habit Matters More Than the Amount
 ---
 
 # Have Money Work Hard for You vs. Working Hard for Your Money
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 Working hard is necessary but not sufficient for wealth — most hard workers are not rich — because the actual lever is whether hard work is temporary (until money and systems take over) or permanent; financial freedom is defined as passive income exceeding expenses.
@@ -41,9 +51,12 @@ Wealth File #15. Eker's blunt observation: billions of people work extremely har
 - Eker's in-laws saved modestly from a low-margin variety store for 25 years and retired comfortably on the accumulated capital; his own parents bought $60,000 of land that a developer later purchased for $600,000 — in both cases, the passive/appreciating asset outperformed decades of the family's working income.
 
 ## Relationships
-- **related:** [[Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
-- **related:** [[The 6 Jars Money Management System]]
-- **related:** [[Manage Your Money Well - The Habit Matters More Than the Amount]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money Management System|The 6 Jars Money Management System]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors|Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money Well - The Habit Matters More Than the Amount|Manage Your Money Well - The Habit Matters More Than the Amount]]
 ## Source reference
-T. Harv Eker, *Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth* (2005), Wealth File #15. Raw source archived in [[2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

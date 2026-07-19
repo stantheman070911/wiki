@@ -3,20 +3,46 @@ title: "Affiliate Armies - Recruiting Businesses to Sell for You"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/partnerships, topic/distribution, topic/channel-strategy, topic/sales, person/alex-hormozi]
-source:
-  type: "book"
-  name: "$100M Leads"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: "2023"
+tags:
+  [
+    topic/partnerships,
+    topic/distribution,
+    topic/channel-strategy,
+    topic/sales,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0019"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Traffic-and-Acquisition/網紅行銷引擎：以CPM反推的分散式機器
+  - type: applies
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the
+      Rule of 100 - Lead Generation Fundamentals
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The
+      Whisper-Tease-Shout Launch
+  - type: prerequisite
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The
+      Whisper-Tease-Shout Launch
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Cold Outreach -
+      Personalize, Big Fast Value, Volume
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals -
+      Engineering Word of Mouth Through Goodwill
 ---
 
 # Affiliate Armies - Recruiting Businesses to Sell for You
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 An affiliate is an independent business that sells your stuff to *its* warm audience for a commission — so instead of selling customers one at a time, you sell affiliates once and each becomes a recurring, compounding stream of leads.
@@ -52,10 +78,15 @@ Affiliates are the highest-leverage of the four lead-getters (customers, employe
 - **Employers as affiliates:** giving every new hire at a company a free service (e.g., a massage in the onboarding packet) turns non-competing businesses into easy lead sources.
 
 ## Relationships
-- **applies:** [[The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
-- **prerequisite:** [[The Whisper-Tease-Shout Launch]]
-- **related:** [[Referrals - Engineering Word of Mouth Through Goodwill]]
-- **related:** [[網紅行銷引擎：以CPM反推的分散式機器]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Traffic-and-Acquisition/網紅行銷引擎：以CPM反推的分散式機器|網紅行銷引擎：以CPM反推的分散式機器]]
+- **Applies:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Core Four and the Rule of 100 - Lead Generation Fundamentals|The Core Four and the Rule of 100 - Lead Generation Fundamentals]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Whisper-Tease-Shout Launch|The Whisper-Tease-Shout Launch]]
+- **Prerequisite:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Whisper-Tease-Shout Launch|The Whisper-Tease-Shout Launch]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Cold Outreach - Personalize, Big Fast Value, Volume|Cold Outreach - Personalize, Big Fast Value, Volume]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals - Engineering Word of Mouth Through Goodwill|Referrals - Engineering Word of Mouth Through Goodwill]]
 ## Source reference
-Alex Hormozi, *$100M Leads* (2023), "Affiliates and Partners." Raw transcript archived at [[2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MLeads_RawTranscript|$100M Leads]]

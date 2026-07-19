@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0092"
 title: "How to Become Oversubscribed - Raw Transcript"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Daniel Priestley"
+    role: "creator"
 source_type: "video"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Daniel Priestley"
 date_archived: "2026-07-13"
 status: "source"
 ---

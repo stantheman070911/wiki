@@ -3,20 +3,42 @@ title: "The Passionate Visionary Scientist - A Three-Part Founder Mindset"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/identity, topic/startups, topic/execution, topic/decision-making, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "Passionate Visionary Scientist Mindset"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/mindset,
+    topic/identity,
+    topic/startups,
+    topic/execution,
+    topic/decision-making,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0099"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
+      Product-Discovery Loop - Launch, Learn, Evolve, Delight
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs.
+      Indefinite Optimism - Planning Your Way to the Future
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Relentlessly
+      Resourceful - The Founder Trait Stack
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the
+      Hero's Journey - The Founder Archetype Who Builds Against Doubt
 ---
 
 # The Passionate Visionary Scientist - A Three-Part Founder Mindset
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 A durable founder combines passion rooted in a coherent life story, a visionary ability to design backward from the future, and a scientist's willingness to test assumptions without tying identity to the result.
@@ -53,10 +75,13 @@ A venture is ready for stronger commitment only when the story creates energy, t
 Priestley uses Batman as a deliberately simple narrative model: an origin in personal loss, a mission expressed through present action, and a vision of a safer Gotham. The coherence makes the character's willingness to struggle intelligible.
 
 ## Relationships
-- **related:** [[Relentlessly Resourceful - The Founder Trait Stack]]
-- **related:** [[Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt]]
-- **related:** [[Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
-- **related:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs. Indefinite Optimism - Planning Your Way to the Future|Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Relentlessly Resourceful - The Founder Trait Stack|Relentlessly Resourceful - The Founder Trait Stack]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt|Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt]]
 ## Source reference
-Daniel Priestley, *Passionate Visionary Scientist Mindset*. Raw transcript in [[2026-07-13_Video_DanielPriestley_PassionateVisionaryScientistMindset_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_PassionateVisionaryScientistMindset_RawTranscript|Passionate Visionary Scientist Mindset - Raw Transcript]]

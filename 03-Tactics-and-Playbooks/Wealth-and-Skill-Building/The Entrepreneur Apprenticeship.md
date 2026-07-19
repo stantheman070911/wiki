@@ -1,24 +1,48 @@
 ---
-title: "The Entrepreneur Apprenticeship - Commercial Awareness and 90-Day Side-Hustle Tests"
+title: "The Entrepreneur Apprenticeship - Commercial Awareness and 90-Day
+  Side-Hustle Tests"
 aliases:
-  - "The Entrepreneur Apprenticeship - Commercial Awareness and 90-Day Side-Hustle Tests"
+  - "The Entrepreneur Apprenticeship - Commercial Awareness and 90-Day
+    Side-Hustle Tests"
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/skills, topic/learning, topic/startups, topic/execution, topic/risk, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "Zero to Seven Figures in Five Steps"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/skills,
+    topic/learning,
+    topic/startups,
+    topic/execution,
+    topic/risk,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0105"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Tactics and Playbooks Index
+relationships:
+  - type: applies
+    target: 01-Business-Strategy/Business-Models-and-Customers/The Startup
+      Product-Discovery Loop - Launch, Learn, Evolve, Delight
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
+      and Asymmetric Bets
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Do Things That Don't
+      Scale - Recruit, Delight, and Learn by Hand
+  - type: related
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and
+      the Education-ROI Playbook
 ---
 
 # The Entrepreneur Apprenticeship - Commercial Awareness and 90-Day Side-Hustle Tests
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]]
 
 ## One-line summary
 Before betting everything on a startup, learn beside an experienced entrepreneur and run bounded ninety-day side hustles that build commercial judgment, self-knowledge, resource access, and evidence of execution.
@@ -51,10 +75,13 @@ Use a two-stage preparation cycle:
 Priestley describes early event promotions and short sales-training projects as preparation rather than forever businesses. The projects created commercial repetitions and ended before they could become comfortable traps.
 
 ## Relationships
-- **applies:** [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
-- **related:** [[Do Things That Don't Scale - Recruit, Delight, and Learn by Hand]]
-- **related:** [[Skill Stacking and the Education-ROI Playbook]]
-- **applies:** [[Fear, Regret, and Asymmetric Bets]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Do Things That Don't Scale - Recruit, Delight, and Learn by Hand|Do Things That Don't Scale - Recruit, Delight, and Learn by Hand]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and the Education-ROI Playbook|Skill Stacking and the Education-ROI Playbook]]
 ## Source reference
-Daniel Priestley, *Zero to Seven Figures in Five Steps*. Raw transcript in [[2026-07-13_Video_DanielPriestley_ZeroToSevenFiguresInFiveSteps_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_ZeroToSevenFiguresInFiveSteps_RawTranscript|Zero to Seven Figures in Five Steps - Raw Transcript]]

@@ -3,20 +3,48 @@ title: "Scarcity and Urgency - Engineering Demand with Supply and Deadlines"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/persuasion, topic/offers, topic/supply-and-demand, person/alex-hormozi]
-source:
-  type: "book"
-  name: "$100M Offers"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: "2021"
+tags:
+  [
+    topic/persuasion,
+    topic/offers,
+    topic/supply-and-demand,
+    person/alex-hormozi
+  ]
+sources:
+  - id: "SRC-0021"
+    role: "primary"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand
+      Slam Offer
+  - type: is-applied-by
+    target: 01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The
+      Whisper-Tease-Shout Launch
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Engineering a Grand
+      Slam Offer - Problems, Solutions, Trim and Stack
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Bend Their
+      Reality - Loss, Fairness, Deadlines, and Anchors
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal -
+      The Guarantee Toolkit
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof,
+      Liking, Authority, and Scarcity - The Four Social Shortcuts
 ---
 
 # Scarcity and Urgency - Engineering Demand with Supply and Deadlines
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 Scarcity (limiting *quantity*) and urgency (limiting *time*) shift the demand curve in your favor without changing the offer itself — and the most durable way to run both is honestly, by advertising the real capacity and real deadlines your business already has.
@@ -58,10 +86,16 @@ These are the two demand-side levers of the offer-enhancer stack (the others bei
 - Two buyers offered Hormozi $50,000 for a day of his time; he declined because he made more than that daily — the indifference that makes premium scarcity real.
 
 ## Relationships
-- **related:** [[Risk Reversal - The Guarantee Toolkit]]
-- **related:** [[The Value Equation and the Grand Slam Offer]]
-- **related:** [[Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
-- **related:** [[Oversubscribed]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
+- **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed|Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven Demand]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Whisper-Tease-Shout Launch|The Whisper-Tease-Shout Launch]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack|Engineering a Grand Slam Offer - Problems, Solutions, Trim and Stack]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Bend Their Reality - Loss, Fairness, Deadlines, and Anchors|Bend Their Reality - Loss, Fairness, Deadlines, and Anchors]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Risk Reversal - The Guarantee Toolkit|Risk Reversal - The Guarantee Toolkit]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
 ## Source reference
-Alex Hormozi, *$100M Offers* (2021), "Enhancing the Offer: Scarcity" and "Urgency." Raw transcript archived at [[2026-07-18_Book_AlexHormozi_100MOffers_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MOffers_RawTranscript|$100M Offers]]

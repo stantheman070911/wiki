@@ -3,20 +3,43 @@ title: "Increase the Surface Area of Luck"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/risk, topic/optionality, topic/decision-making, topic/volume, topic/reps, person/daniel-priestley, source/daniel-priestley-youtube]
-source:
-  type: "video"
-  name: "What Billionaires Do Differently"
-  author: "Daniel Priestley"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/risk,
+    topic/optionality,
+    topic/decision-making,
+    topic/volume,
+    topic/reps,
+    person/daniel-priestley,
+    source/daniel-priestley-youtube
+  ]
+sources:
+  - id: "SRC-0103"
+    role: "primary"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of
+      Investing - Diversification via Uncorrelated Return Streams
+  - type: is-applied-by
+    target: 01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine
+      - Ads Are an At-Bats Game
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret,
+      and Asymmetric Bets
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law
+      of Venture Capital and Careers
 ---
 
 # Increase the Surface Area of Luck
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 You cannot schedule a lucky break, but you can increase its probability by creating more quality encounters among your ideas, work, people, and emerging opportunities.
@@ -51,10 +74,13 @@ If any factor approaches zero, opportunity has fewer ways to find you. Improving
 Priestley cites Richard Branson's repeated emphasis on luck while noting the large number of companies and artists behind the famous successes. The lucky outcomes were real, but so was the deliberate expansion of attempts.
 
 ## Relationships
-- **related:** [[Fear, Regret, and Asymmetric Bets]]
-- **related:** [[The Creative Volume Engine - Ads Are an At-Bats Game]]
-- **related:** [[The Power Law of Venture Capital and Careers]]
-- **related:** [[The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of Investing - Diversification via Uncorrelated Return Streams|The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
+- **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law of Venture Capital and Careers|The Power Law of Venture Capital and Careers]]
 ## Source reference
-Daniel Priestley, *What Billionaires Do Differently*. Raw transcript in [[2026-07-13_Video_DanielPriestley_WhatBillionairesDoDifferently_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_WhatBillionairesDoDifferently_RawTranscript|What Billionaires Do Differently - Raw Transcript]]

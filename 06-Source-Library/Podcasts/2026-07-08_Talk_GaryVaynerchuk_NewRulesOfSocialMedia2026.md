@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0056"
 title: "New Rules of Social Media 2026"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Gary Vaynerchuk"
+    role: "creator"
 source_type: "talk"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Gary Vaynerchuk"
 date_archived: "2026-07-08"
 status: "source"
 ---

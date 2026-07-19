@@ -1,22 +1,52 @@
 ---
-title: "Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms"
+title: "Learn How to Make Decisions Effectively - Expected Value, Levels, and
+  Algorithms"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/decision-making, topic/mental-models, topic/ai, topic/automation, topic/believability, person/ray-dalio, source/bridgewater-associates]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/decision-making,
+    topic/mental-models,
+    topic/ai,
+    topic/automation,
+    topic/believability,
+    person/ray-dalio,
+    source/bridgewater-associates
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 5"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision
+  Making and Risk Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of
+      Investing - Diversification via Uncorrelated Return Streams
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
+      Open-Minded
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight
+      Your Decision Making
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine
+      - Why Computers Complement Humans Instead of Replacing Them
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective
+      Decision Process
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/用數學做決策：損益表、PDCA與預測降低不確定性
 ---
 
 # Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
 
 ## One-line summary
 Good decision-making is a strict two-step process — learn (synthesize reality accurately, both in the moment and through time) then decide (run the expected-value math, unclouded by emotion) — and most of the value in getting good at it comes from recognizing recurring situation-types ("another one of those") and converting your criteria into reusable principles, or even algorithms, instead of re-deciding everything from scratch.
@@ -49,11 +79,15 @@ Closes out Dalio's Life Principles by turning the preceding chapters (reality, t
 - The 1971 Nixon gold shock (a currency default Dalio didn't see coming) and his 1982 depression miscall were both, in hindsight, "another one of those" — recurring historical patterns (excess-debt-driven currency devaluations) he could have anticipated had he studied history more broadly rather than trusting only his own lived experience.
 
 ## Relationships
-- **related:** [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
-- **related:** [[Believability-Weight Your Decision Making]]
-- **related:** [[Man and Machine - Why Computers Complement Humans Instead of Replacing Them]] (Thiel's substitution-vs-complementarity lens is a useful companion to Dalio's expert-systems-vs-mimicking-vs-data-mining framework — both argue for human+machine over either alone, from different angles)
-- **related:** [[The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
-- **related:** [[用數學做決策：損益表、PDCA與預測降低不確定性]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of Investing - Diversification via Uncorrelated Return Streams|The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine - Why Computers Complement Humans Instead of Replacing Them|Man and Machine - Why Computers Complement Humans Instead of Replacing Them]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective Decision Process|The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/用數學做決策：損益表、PDCA與預測降低不確定性|用數學做決策：損益表、PDCA與預測降低不確定性]]
 ## Source reference
-Ray Dalio, *Principles*, Part II, Ch. 5 ("Learn How to Make Decisions Effectively"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 5

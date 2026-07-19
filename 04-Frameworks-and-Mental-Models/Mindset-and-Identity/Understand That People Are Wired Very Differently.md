@@ -1,24 +1,56 @@
 ---
-title: "Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile"
+title: "Understand That People Are Wired Very Differently - Baseball Cards and
+  the Team Dimensions Profile"
 aliases:
-  - "Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile"
+  - "Understand That People Are Wired Very Differently - Baseball Cards and the
+    Team Dimensions Profile"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/identity, topic/mindset, topic/org-design, topic/hiring, person/ray-dalio, source/bridgewater-associates]
-source:
-  type: "book"
-  name: "Principles"
-  author: "Ray Dalio"
-  url: ""
-  date_of_source: "2017"
+tags:
+  [
+    topic/identity,
+    topic/mindset,
+    topic/org-design,
+    topic/hiring,
+    person/ray-dalio,
+    source/bridgewater-associates
+  ]
+sources:
+  - id: "SRC-0015"
+    role: "primary"
+    locator: "Ch. 4"
 date_added: "2026-07-13"
 updated: "2026-07-13"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test,
+      Evaluate, and Sort People
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Hire Right, Because the
+      Penalties for Hiring Wrong Are Huge
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design
+      Jobs Around Exceptional Contribution
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically
+      Open-Minded
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Adaptive
+      Leadership - Consistent Standards, Individual Treatment
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the
+      Hero's Journey - The Founder Archetype Who Builds Against Doubt
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox
 ---
 
 # Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 Because everyone's brain is physiologically different, everyone genuinely experiences reality differently and no single person's perspective is complete — so success at anything involving other people requires knowing your own wiring, learning others' wiring explicitly (not by gut feel), and matching people to roles accordingly.
@@ -47,10 +79,16 @@ Grew out of a stuck bond-systemization project at Bridgewater, where "big pictur
 - Dalio's son Paul's three-year experience with bipolar disorder taught him that thought itself is physiological: Paul's manic reasoning always felt completely airtight to him in the moment, which showed Dalio, in an extreme form, how universal this kind of self-deception is in everyone's ordinary thinking.
 
 ## Relationships
-- **related:** [[Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
-- **related:** [[Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
-- **related:** [[Constantly Train, Test, Evaluate, and Sort People]]
-- **related:** [[The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People|Constantly Train, Test, Evaluate, and Sort People]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Hire Right, Because the Penalties for Hiring Wrong Are Huge|Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design Jobs Around Exceptional Contribution|Staff for Strength - Design Jobs Around Exceptional Contribution]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Adaptive Leadership - Consistent Standards, Individual Treatment|Adaptive Leadership - Consistent Standards, Individual Treatment]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt|Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox|The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]]
 ## Source reference
-Ray Dalio, *Principles*, Part II, Ch. 4 ("Understand That People Are Wired Very Differently"). Extraction notes in [[2026-07-13_Book_RayDalio_Principles]]; raw text archived alongside.
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 4

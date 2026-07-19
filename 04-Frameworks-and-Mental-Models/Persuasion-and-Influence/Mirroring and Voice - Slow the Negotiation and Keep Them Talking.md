@@ -3,20 +3,43 @@ title: "Mirroring and Voice - Slow the Negotiation and Keep Them Talking"
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/persuasion, topic/influence, topic/trust, person/chris-voss, person/tahl-raz, source/never-split-the-difference]
-source:
-  type: "book"
-  name: "Never Split the Difference"
-  author: "Chris Voss with Tahl Raz"
-  url: ""
-  date_of_source: "2016"
+tags:
+  [
+    topic/persuasion,
+    topic/influence,
+    topic/trust,
+    person/chris-voss,
+    person/tahl-raz,
+    source/never-split-the-difference
+  ]
+sources:
+  - id: "SRC-0028"
+    role: "primary"
+    locator: "Chapters 1–2"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion
+  and Influence Map
+relationships:
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How
+      to Get Beyond Disagreements
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated
+      Questions - How and What Create the Illusion of Control
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With
+      Agreement - Keep the Other Mind Open
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical
+      Empathy - Labels, Silence, and the Accusation Audit
 ---
 
 # Mirroring and Voice - Slow the Negotiation and Keep Them Talking
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Persuasion and Influence Map|Persuasion and Influence]]
 
 ## One-line summary
 Use a calm voice, repeat a counterpart's last one to three important words, and leave silence so they elaborate without feeling interrogated.
@@ -50,10 +73,13 @@ Use **Hear–Mirror–Pause–Harvest**:
 In a bank-hostage negotiation, Voss's team used a calm voice, mirrors, and long pauses to keep the lead robber talking. The seemingly small repetitions encouraged him to disclose that the supposed group of robbers did not exist, changing the team's understanding of the situation.
 
 ## Relationships
-- **related:** [[Tactical Empathy - Labels, Silence, and the Accusation Audit]]
-- **related:** [[Calibrated Questions - How and What Create the Illusion of Control]]
-- **related:** [[Start With Agreement - Keep the Other Mind Open]]
-- **related:** [[Recognize How to Get Beyond Disagreements]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Recognize How to Get Beyond Disagreements|Recognize How to Get Beyond Disagreements]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated Questions - How and What Create the Illusion of Control|Calibrated Questions - How and What Create the Illusion of Control]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open|Start With Agreement - Keep the Other Mind Open]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical Empathy - Labels, Silence, and the Accusation Audit|Tactical Empathy - Labels, Silence, and the Accusation Audit]]
 ## Source reference
-Chris Voss with Tahl Raz, *Never Split the Difference* (2016), Chapters 1–2. Raw transcript archived in [[2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapters 1–2

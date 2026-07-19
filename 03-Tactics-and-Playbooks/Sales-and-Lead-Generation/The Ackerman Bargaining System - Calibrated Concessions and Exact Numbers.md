@@ -3,20 +3,44 @@ title: "The Ackerman Bargaining System - Calibrated Concessions and Exact Number
 type: "playbook"
 domain: "tactics-and-playbooks"
 lang: "en"
-tags: [topic/sales, topic/pricing, topic/persuasion, topic/decision-making, person/chris-voss, person/tahl-raz, source/never-split-the-difference]
-source:
-  type: "book"
-  name: "Never Split the Difference"
-  author: "Chris Voss with Tahl Raz"
-  url: ""
-  date_of_source: "2016"
+tags:
+  [
+    topic/sales,
+    topic/pricing,
+    topic/persuasion,
+    topic/decision-making,
+    person/chris-voss,
+    person/tahl-raz,
+    source/never-split-the-difference
+  ]
+sources:
+  - id: "SRC-0028"
+    role: "primary"
+    locator: "Chapter 9"
 date_added: "2026-07-18"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead
+  Generation Map
+relationships:
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Bend Their
+      Reality - Loss, Fairness, Deadlines, and Anchors
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No -
+      Protect Autonomy to Start the Real Negotiation
+  - type: applies
+    target: 04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value
+      - The Psychology of Deals and the Rule of 100
+  - type: related
+    target: 03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing -
+      Sell the Goal, Scope the Journey, Secure Prepayment
 ---
 
 # The Ackerman Bargaining System - Calibrated Concessions and Exact Numbers
+
+> **Up:** [[Home|Home]] → [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|Tactics and Playbooks]] → [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales and Lead Generation Map|Sales and Lead Generation]]
 
 ## One-line summary
 Set a target, anchor at 65 percent, and move through shrinking 85–95–100 percent concessions while using empathy, calibrated refusals, and an exact final number.
@@ -55,10 +79,13 @@ For a seller, apply the same diminishing-concession logic in the opposite direct
 A student facing a rent increase researched comparable apartments, used an extreme opening anchor, moved through smaller concessions, and ended at the precise figure of $1,829 per month. The landlord accepted even though the original renewal proposal had been $2,000–$2,100.
 
 ## Relationships
-- **related:** [[Bend Their Reality - Loss, Fairness, Deadlines, and Anchors]]
-- **related:** [[Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
-- **related:** [[Master No - Protect Autonomy to Start the Real Negotiation]]
-- **related:** [[Practical Value - The Psychology of Deals and the Rule of 100]]
 
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Bend Their Reality - Loss, Fairness, Deadlines, and Anchors|Bend Their Reality - Loss, Fairness, Deadlines, and Anchors]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No - Protect Autonomy to Start the Real Negotiation|Master No - Protect Autonomy to Start the Real Negotiation]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100|Practical Value - The Psychology of Deals and the Rule of 100]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment|Diagnostic Pricing - Sell the Goal, Scope the Journey, Secure Prepayment]]
 ## Source reference
-Chris Voss with Tahl Raz, *Never Split the Difference* (2016), Chapter 9. Raw transcript archived in [[2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript]].
+
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapter 9

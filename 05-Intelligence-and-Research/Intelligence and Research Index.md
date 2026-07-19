@@ -1,11 +1,17 @@
 ---
 title: "Intelligence and Research"
+title_zh: "情報與研究"
 type: "domain-index"
 domain: "intelligence-and-research"
 lang: "en"
+updated: "2026-07-19"
+status: "evergreen"
+owner: "stanley-lu"
 ---
 
 # Intelligence and Research
+
+> **中文名稱：** 情報與研究
 
 Market intelligence, competitor analysis, research findings, and notable real-world examples worth remembering.
 
@@ -30,7 +36,7 @@ Belongs here: observations, research, forecasts, examples, and cases not yet gen
 - **Related framework:** [[The Factory Is the Product - Manufacturing as the Moat]]
 - **Related playbook:** use the relevant domain map after a research observation has been generalized into action.
 - **Major series:** none currently; observations remain independent until order or shared-source navigation becomes essential.
-- **Complete static inventory:** [[Portable Index#Intelligence and Research (11)|Portable Index — Intelligence and Research]]
+- **Complete static inventory:** [[Portable Index|Portable Index — Intelligence and Research]]
 
 ## Index
 
@@ -40,5 +46,6 @@ Belongs here: observations, research, forecasts, examples, and cases not yet gen
 TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", tags AS "Tags", date_added AS "Added"
 FROM "05-Intelligence-and-Research"
 WHERE type = "research"
+AND contains(list("draft", "reviewed", "evergreen"), status)
 SORT date_added DESC
 ```

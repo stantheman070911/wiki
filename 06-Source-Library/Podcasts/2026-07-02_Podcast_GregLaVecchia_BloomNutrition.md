@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0052"
 title: "Bloom Nutrition"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Greg La Vecchia"
+    role: "creator"
 source_type: "podcast"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "zh"
 processing_status: "processed"
-author: "Greg La Vecchia"
 date_archived: "2026-07-02"
 status: "source"
 ---

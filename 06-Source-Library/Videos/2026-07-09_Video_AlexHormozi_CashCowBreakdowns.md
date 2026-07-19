@@ -1,12 +1,16 @@
 ---
+source_id: "SRC-0074"
 title: "Cash Cow Breakdowns"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Alex Hormozi"
+    role: "creator"
 source_type: "video"
 source_format: "source-note"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Alex Hormozi"
 date_archived: "2026-07-09"
 status: "source"
 ---

@@ -3,20 +3,97 @@ title: "The Passion Myth - Proficiency, Pain Tolerance, and Frustration Toleranc
 type: "framework"
 domain: "frameworks-and-mental-models"
 lang: "en"
-tags: [topic/mindset, topic/consistency, topic/career, topic/skills, person/alex-hormozi, person/paul-graham, person/steve-jobs, person/bill-burnett, person/dave-evans, source/paul-graham-essays, source/designing-your-life]
-source:
-  type: "video"
-  name: "If You're Ambitious but Inconsistent, Please Watch This (playlist: How to Make Your First $100,000)"
-  author: "Alex Hormozi"
-  url: ""
-  date_of_source: ""
+tags:
+  [
+    topic/mindset,
+    topic/consistency,
+    topic/career,
+    topic/skills,
+    person/alex-hormozi,
+    person/paul-graham,
+    person/steve-jobs,
+    person/bill-burnett,
+    person/dave-evans,
+    source/paul-graham-essays,
+    source/designing-your-life
+  ]
+sources:
+  - id: "SRC-0054"
+    role: "primary"
+  - id: "SRC-0046"
+    role: "supporting"
+  - id: "SRC-0042"
+    role: "supporting"
+  - id: "SRC-0060"
+    role: "supporting"
+  - id: "SRC-0025"
+    role: "supporting"
 date_added: "2026-07-08"
 updated: "2026-07-18"
 reviewed_on: ""
 status: "draft"
+parent_map: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map
+relationships:
+  - type: is-applied-by
+    target: 01-Business-Strategy/Business-Models-and-Customers/Companies as
+      Philanthropy - Purpose and Building for Humanity
+  - type: is-applied-by
+    target: 03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You
+      Pivot - Life Design Interviews and Experiences
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey
+      Plans - Parallel Futures Before Commitment
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/賽道選擇的兩個模型：Ikigai與市場五要素
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/How to Do
+      Great Work - Curiosity, Taste, Projects, and Endurance
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life
+      Design Compass - Workview, Lifeview, and Coherency
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Meaning in
+      Life Is Designed in Particular Moments
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The ARC of
+      Career Motivation - Autonomy, Relatedness, and Competence
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Maker
+      Mix - Money, Impact, and Expression
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Wayfinding
+      with Energy and Engagement
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status
+      Signal - Shame, Guilt, and Documenting the Struggle
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed
+      Gratification - Patience and Inputs vs Outputs
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Failure Reframing
+      and Immunity
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin
+      Story - Heroes Use Pain
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and
+      Systems - The Two Psychological Shifts Behind Consistent Revenue
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal
+      - The Zero-Follower Consistency Engine
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/Relentlessly
+      Resourceful - The Founder Trait Stack
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group
+      and Re-engineering Your Circle
+  - type: related
+    target: 04-Frameworks-and-Mental-Models/Mindset-and-Identity/完美主義是恐懼的偽裝：用行動與deadline打破癱瘓
 ---
 
 # The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance
+
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
 
 ## One-line summary
 "Follow your passion" is true only in the vague and never in the specific — every worthwhile path is mostly work you won't enjoy, so proficiency and frustration tolerance, not passion, are what carry you through.
@@ -68,24 +145,32 @@ Don't trust rose-tinted "I loved the struggle" recollections; at the time it was
 - Being fired from Apple removed Steve Jobs's position but not his desire to build. Starting NeXT and Pixar returned him to beginner mode and distinguished love of the work from attachment to the company title.
 
 ## Relationships
-- **related:** [[Hardship as Origin Story - Heroes Use Pain]]
-- **related:** [[Process as the Goal - The Zero-Follower Consistency Engine]]
-- **related:** [[Delayed Gratification - Patience and Inputs vs Outputs]]
-- **related:** [[Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]]
-- **related:** [[The Reference Group and Re-engineering Your Circle]]
-- **related:** [[Wayfinding with Energy and Engagement]]
-- **related:** [[Three Odyssey Plans - Parallel Futures Before Commitment]]
-- **related:** [[Prototype Before You Pivot - Life Design Interviews and Experiences]]
 
-- **related:** [[How to Do Great Work - Curiosity, Taste, Projects, and Endurance]]
-
+<!-- generated from frontmatter relationships; do not edit by hand -->
+- **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/Companies as Philanthropy - Purpose and Building for Humanity|Companies as Philanthropy - Purpose and Building for Humanity]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You Pivot - Life Design Interviews and Experiences|Prototype Before You Pivot - Life Design Interviews and Experiences]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Three Odyssey Plans - Parallel Futures Before Commitment|Three Odyssey Plans - Parallel Futures Before Commitment]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/賽道選擇的兩個模型：Ikigai與市場五要素|賽道選擇的兩個模型：Ikigai與市場五要素]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/How to Do Great Work - Curiosity, Taste, Projects, and Endurance|How to Do Great Work - Curiosity, Taste, Projects, and Endurance]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Design Compass - Workview, Lifeview, and Coherency|Life Design Compass - Workview, Lifeview, and Coherency]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Meaning in Life Is Designed in Particular Moments|Meaning in Life Is Designed in Particular Moments]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The ARC of Career Motivation - Autonomy, Relatedness, and Competence|The ARC of Career Motivation - Autonomy, Relatedness, and Competence]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Maker Mix - Money, Impact, and Expression|The Maker Mix - Money, Impact, and Expression]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Wayfinding with Energy and Engagement|Wayfinding with Energy and Engagement]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle|Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed Gratification - Patience and Inputs vs Outputs|Delayed Gratification - Patience and Inputs vs Outputs]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Failure Reframing and Immunity|Failure Reframing and Immunity]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain|Hardship as Origin Story - Heroes Use Pain]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue|Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal - The Zero-Follower Consistency Engine|Process as the Goal - The Zero-Follower Consistency Engine]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Relentlessly Resourceful - The Founder Trait Stack|Relentlessly Resourceful - The Founder Trait Stack]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle|The Reference Group and Re-engineering Your Circle]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/完美主義是恐懼的偽裝：用行動與deadline打破癱瘓|完美主義是恐懼的偽裝：用行動與deadline打破癱瘓]]
 ## Source reference
-Alex Hormozi, *If You're Ambitious but Inconsistent, Please Watch This* (playlist: *How to Make Your First $100,000*). Extraction notes in [[2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000]].
 
-Paul Graham, “How to Do What You Love,” “When To Do What You Love,” and “What Doesn't Seem Like Work?,” in [[2026-07-13_Essays_PaulGraham_CollectedEssays]].
-
-Additional source: Alex Hormozi, *AMA 3*, [[2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript]].
-
-Additional source: Steve Jobs, *Stanford Commencement Address* (2005), [[2026-07-13_Presentation_SteveJobs_StanfordCommencementAddress_RawTranscript]].
-
-Additional source: Bill Burnett and Dave Evans, *Designing Your Life: How to Build a Well-Lived, Joyful Life* (2016), [[2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript]].
+<!-- generated from frontmatter sources; do not edit by hand -->
+- **primary:** [[06-Source-Library/Podcasts/2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000|How to Make Your First $100,000]]
+- **supporting:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]
+- **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Presentations/2026-07-13_Presentation_SteveJobs_StanfordCommencementAddress_RawTranscript|Steve Jobs' 2005 Stanford Commencement Address - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript|Designing Your Life - Raw Transcript]]

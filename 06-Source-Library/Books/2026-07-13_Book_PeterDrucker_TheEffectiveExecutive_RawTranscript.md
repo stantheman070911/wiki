@@ -1,12 +1,17 @@
 ---
+source_id: "SRC-0013"
 title: "The Effective Executive - Raw Transcript"
 type: "source"
 domain: "source-library"
-lang: "en"
+creators:
+  - name: "Peter F. Drucker"
+    role: "author"
 source_type: "book"
 source_format: "raw-transcript"
+source_lang: "en"
+note_lang: "en"
 processing_status: "processed"
-author: "Peter F. Drucker"
+published_on: "1967"
 date_archived: "2026-07-13"
 status: "source"
 ---
