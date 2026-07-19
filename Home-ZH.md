@@ -1,12 +1,9 @@
 ---
-title: "THE WIKI 中文入口"
-type: "vault-home"
-domain: "meta"
-lang: "zh"
-aliases: ["中文首頁", "THE WIKI Chinese Home"]
-updated: "2026-07-19"
-status: "evergreen"
-owner: "stanley-lu"
+title: THE WIKI 中文入口
+aliases:
+  - 中文首頁
+  - THE WIKI Chinese Home
+lang: zh
 ---
 
 # THE WIKI 中文入口
@@ -15,10 +12,9 @@ owner: "stanley-lu"
 
 ## 從這裡開始
 
-1. 先依照讀者要完成的工作選擇領域：策略、執行、思考框架、研究或綜合文章。
-2. 進入下方領域導覽；先使用策展路徑，再使用完整索引。
-3. 每一頁可透過 `Up` 導覽返回父層，並透過結構化關係前往前置概念、應用、例子、對照與翻譯。
-4. 需要查核來源時，前往頁面引用的來源紀錄或集合清單。
+1. 依照要完成的工作選擇領域：策略、執行、思考框架、研究或綜合文章。
+2. 進入下方領域導覽，或用快速切換（`Cmd+O`）與全域搜尋（`Cmd+Shift+F`）。
+3. 每一頁的「關係」連到相關條目，「來源」連到封存的來源紀錄。
 
 ## 主要領域
 
@@ -27,30 +23,22 @@ owner: "stanley-lu"
 - [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|戰術與執行手冊]] — 可重複執行的流程、清單與操作方法
 - [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|框架與心智模型]] — 可跨情境重複使用的思考與決策模型
 - [[05-Intelligence-and-Research/Intelligence and Research Index|情報與研究]] — 觀察、案例、預測與尚未一般化的研究
-- [[07-Articles/Articles Index|文章]] — 由多個知識頁綜合而成的對外文章
-- [[Reports/Reports Index|報告]] — 由知識庫產生、具有版本與生命週期的下游分析成果
-
-## 策展報告
-
-以下靜態連結不依賴產生式報告索引：
-
-- [[Reports/Creator and Personal Brand Businesses - Industry Handbook|創作者與個人品牌企業產業手冊]]
-- [[Reports/How In-Person Training Businesses Really Work|實體培訓企業的實際運作方式]]
-
-## 中文導覽
-
-- [[Topic-Index|主題索引]] — 依中英文標籤與父子分類瀏覽
-- [[Portable Index|中文頁面索引]] — 不依賴 Dataview 的靜態清單
-- [[Editorial Dashboard|待建立翻譯配對]] — 編輯佇列，不以主題相似度冒充真正翻譯
-- [[Source and Author Index|來源與作者索引]] — 追溯來源與衍生頁面
+- [[07-Articles/Articles Index|文章]] — 由多個條目綜合而成的對外文章
+- [[Reports/Reports Index|報告]] — 由知識庫產生的日期化綜合分析
 
 ## 主要系列
 
 - [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學]] — 八個依序閱讀的模組與完整來源清單
 - [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M Scaling Roadmap]] — 十階段成長路線
 
+## 中文導覽
+
+- 標籤詞彙表：[[tags|_meta/tags.md]]（`topic/` `person/` `source/`）
+- 規則手冊：[[Vault Conventions]]
+- 新增中文條目：複製 [[00-Templates/Entry-Template-ZH|Entry-Template-ZH]] 到正確的子主題資料夾
+
 ## 編輯原則
 
-- 每一頁只使用一種主要語言；來源語言與筆記語言分開記錄。
-- 只有真正內容等價的頁面才使用 `translation` 關係，而且必須雙向儲存。
-- 中文頁面與英文頁面使用相同的頁面類型、生命週期、來源與父層導覽規則。
+- 每一頁只使用一種語言（`lang: en` 或 `lang: zh`）。
+- 濃縮而非摘要——每個條目不需回頭讀來源就能使用。
+- 真正的中英對應頁面，在雙方的「關係」段落互相連結。

@@ -1,37 +1,28 @@
 ---
-title: ""
-type: "template"
-template_for: "report"
-domain: "reports"
-lang: "en"
-status: "draft"
-generated_on: ""
-derived_from: []
-supersedes: []
-owner: ""
+lang: en
+tags: []          # from _meta/tags.md
+status: draft
+updated: ""       # YYYY-MM-DD — the synthesis date
 ---
 
 # Title
 
-> [!info] Governed report snapshot
-> Generated on YYYY-MM-DD. See [[Reports Index]] for provenance rules, lifecycle, and other reports.
+*A dated synthesis generated from the wiki. State the synthesis date up front;
+when a newer report replaces this one, add "Superseded by" with a wikilink at
+the top.*
 
 ## Executive summary
 
-<!-- State the report's purpose, scope, principal findings, and decision relevance. -->
-
-## Scope and method
-
-<!-- Define the included collections, exclusions, synthesis date, and method. -->
+Purpose, scope, principal findings, and decision relevance.
 
 ## Findings
 
-<!-- Organize durable findings under descriptive H3 sections. -->
+Durable findings under descriptive H3 sections.
 
 ## Implications
 
-<!-- Explain what the findings change for decisions, priorities, or further work. -->
+What the findings change for decisions, priorities, or further work.
 
-## Derivation map
+## Sources in THE WIKI
 
-<!-- Link the specific governed entries and source records most material to the synthesis. Keep derived_from in frontmatter at collection or page level too. -->
+Wikilinks to the entries and source records most material to the synthesis.

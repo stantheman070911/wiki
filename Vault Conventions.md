@@ -1,137 +1,134 @@
 ---
-title: "Vault Conventions"
-aliases: ["THE WIKI Conventions"]
-type: "conventions"
-domain: "meta"
-lang: "en"
-updated: "2026-07-19"
-status: "evergreen"
-owner: "stanley-lu"
+title: Vault Conventions
+aliases:
+  - THE WIKI Conventions
+lang: en
 ---
 
 # Vault Conventions
 
-A centralized knowledge vault for intelligence, wisdom, business strategy, social media strategy, and practical tactics. THE WIKI exists to turn every useful answer, lesson, framework, and decision into lasting, searchable institutional knowledge — so problems get solved once, not repeatedly.
+THE WIKI turns every useful answer, lesson, framework, and decision into lasting, searchable knowledge — so problems get solved once, not repeatedly. Source material (podcasts, articles, books, videos, courses, conversations) is filtered for signal, distilled into concise entries, and organized to be found and applied later.
 
-## Purpose
-
-Every entry should make THE WIKI more comprehensive, practical, and reusable. Source material (podcasts, articles, books, PDFs, papers, videos, images, presentations, interviews, conversations) is filtered for signal, distilled into concise notes, and organized so it can be found and applied later.
+This is the single rulebook. If a rule isn't here or in [[tags]], it isn't a rule.
 
 ## Structure
 
-### Architectural invariants
-
-THE WIKI preserves one directional information flow: archived material in `06-Source-Library/` feeds reusable reader-facing knowledge in `01`–`05`; knowledge is then composed into articles in `07` and governed reports in `Reports/`. Sources are evidence, knowledge pages are reusable units, and articles/reports are downstream syntheses. A downstream synthesis may cite its inputs but must never be treated as a source record.
-
-Top-level folders are primarily **page-role boundaries** and are enforced by `type`. Their names also provide broad reader-facing subject orientation, but subject overlap never overrides the role boundary. Subfolders and `domain` describe durable subject/stewardship areas; tags and relationships carry cross-domain relevance. This combination is intentional and must not be implemented as a hybrid exception system.
-
 ```
 THE WIKI/
-├── Vault Conventions.md               Canonical conventions
-├── Home.md                            Landing page / dashboard
-├── 00-Templates/                      Entry templates (EN + ZH)
-├── 01-Business-Strategy/              Grouped into sub-topic folders
-│   ├── Pricing-and-Offers/            Positioning-and-Branding/  Growth-and-Scaling/
-│   ├── Traffic-and-Acquisition/       Business-Models-and-Customers/  Finance-Capital-and-Exit/
-│   ├── 100M-Scaling-Roadmap/          series hub (overview + stages)
-│   └── 連鎖經營學-陳宗賢/               series hub (overview + modules)
+├── Home.md / Home-ZH.md               Landing pages (EN / 中文)
+├── 00-Templates/                      Entry templates
+├── 01-Business-Strategy/              Sub-topic folders + two series
 ├── 02-Social-Media-Strategy/          Flat (small domain)
-├── 03-Tactics-and-Playbooks/          Grouped into sub-topic folders
-├── 04-Frameworks-and-Mental-Models/   Grouped into sub-topic folders
+├── 03-Tactics-and-Playbooks/          Sub-topic folders
+├── 04-Frameworks-and-Mental-Models/   Sub-topic folders
 ├── 05-Intelligence-and-Research/      Flat (small domain)
-├── 06-Source-Library/                 Raw/extraction notes, by source type
-├── 07-Articles/                       Composed, outward-facing pieces
-├── Reports/                           Governed dated downstream syntheses
+├── 06-Source-Library/                 Archived sources, by source type
+├── 07-Articles/                       Composed, outward-facing essays
+├── Reports/                           Dated syntheses generated from the wiki
 ├── _Inbox/                            Unprocessed material awaiting triage
-└── _meta/
-    ├── Architecture Schema.md          Machine-checkable structural contract
-    ├── Editorial Dashboard.md          Generated maintenance queues
-    ├── Portable Index.md               Static all-knowledge fallback
-    ├── Source and Author Index.md       Generated provenance facets
-    ├── Tags.md                        Governed, faceted tag vocabulary
-    └── Topic-Index.md                 Generated complete topic navigation
+├── _meta/tags.md                      The tag vocabulary
+└── tools/check-vault.mjs              The lint gate (`npm run check`)
 ```
 
-Each domain has a semantically named index page. Live index inventories use the optional **Dataview** community plugin
-(Settings → Community plugins → Browse → *Dataview* → Install → Enable); [[Portable Index]] provides a generated
-Markdown fallback when it is unavailable. When a domain grows past ~25 entries, split it into sub-topic
-folders (as `01`, `03`, `04` already are); keep small domains flat.
+Information flows one way: archived sources in `06` feed knowledge entries in `01`–`05`, which are composed into articles (`07`) and reports (`Reports/`). Articles and reports cite entries; they are never treated as sources.
 
-## Placement rules (canonical)
+## Placement
 
-Use the folder that describes the entry's primary job and declare the same role explicitly with `type`.
-Type-to-folder placement is enforced: `domain`, tags, and cross-links may express subject relevance, but
-they never authorize a page to live outside the location allowed for its type. Domain index pages restate
-the short version; [[Architecture Schema]] defines page types, ambiguous placement boundaries, and the
-independent roles of folders, metadata, tags, and series.
+Put each entry in the folder matching its job:
 
 - `01-Business-Strategy/` — markets, business models, positioning, pricing, growth, org strategy, unit economics.
 - `02-Social-Media-Strategy/` — platforms, audience growth, distribution, creator positioning, content strategy.
 - `03-Tactics-and-Playbooks/` — repeatable execution steps, checklists, workflows, operating procedures.
 - `04-Frameworks-and-Mental-Models/` — reusable decision tools and cross-domain thinking models.
-- `05-Intelligence-and-Research/` — observations, research, forecasts, examples, cases not yet generalized.
-- `06-Source-Library/` — raw or semi-processed source material kept for traceability.
-- `07-Articles/` — outward-facing synthesized essays built from multiple entries.
-- `Reports/` — governed dated syntheses with structured `derived_from` roots; reports participate in navigation and lifecycle but never become source records.
+- `05-Intelligence-and-Research/` — observations, research, forecasts, and examples not yet generalized.
 
-Within a domain, drop the entry in the sub-topic folder that fits. Do not create a new top-level folder unless the existing taxonomy genuinely cannot hold the topic.
+Rules of thumb: strategy is a *choice*, a playbook is a *procedure*, a framework is a *model*, research is an *observation*. Classify by the action a reader takes after reading. In `01`, `03`, and `04`, entries go in a sub-topic folder — never loose in the domain root. When any folder grows past ~25 entries, split it; keep small domains flat. Don't create a new top-level folder unless the existing ones genuinely cannot hold the topic.
 
-## How an entry gets created
+## Frontmatter
 
-1. **Drop it in `_Inbox/`** — a raw transcript, article, note, or link, if it needs processing later.
-2. **Extract signal from noise** — key ideas, principles, frameworks, tactics, notable examples. Discard filler.
-3. **Write the entry** from the matching page-type and language template in `00-Templates/`, placed in the right sub-topic folder.
-4. **Structure provenance and relationships** — reference stable source IDs in `sources[]`, store typed canonical paths in `relationships[]`, and render both reader-facing sections from metadata. Refresh generated inventories through the maintenance workflow; never hand-edit their tables or counts.
-5. **Archive the source** — file the original under `06-Source-Library/`; its source record owns the authoritative bibliography.
+Knowledge entries (domains `01`–`05`, `07`, `Reports/`):
 
-## Conventions
+```yaml
+---
+lang: en                    # en | zh — one language per entry
+tags:                       # every tag must exist in _meta/tags.md
+  - topic/pricing
+  - person/alex-hormozi
+status: draft               # draft | reviewed
+updated: 2026-07-19         # optional — date of last substantial edit
+---
+```
 
-### Language (bilingual policy)
-One language per entry, set with `lang: en` or `lang: zh` in front matter. English and Chinese page-type
-templates share the content spine defined in [[Architecture Schema#Shared content spine]], while allowing
-documented language-appropriate headings. [[Topic-Index]] is the generated complete topic map; its
-bilingual view identifies topics represented in both languages. When an entry is a true translation of
-another, also link the pair directly with a `translation` relationship.
+`title`, `aliases`, and `series` are optional; add them only when they help retrieval (a subtitle that won't fit the filename, a common abbreviation, a former name after a rename). Everything else is derived: the folder gives the domain and page role, git gives the history.
 
-### Tags — faceted and controlled
-Every tag carries a facet prefix and must be an explicitly approved, active term in the canonical `_meta/taxonomy-registry.json`. [[Tags]] is its generated human-readable view:
+Source records (`06-Source-Library/`):
 
-- `topic/…` — what it is about (`topic/pricing`, `topic/positioning`).
+```yaml
+---
+title: What Billionaires Do Differently - Raw Transcript
+author: Daniel Priestley    # string or list
+archived: 2026-07-13
+url: https://…              # optional
+published: 2026-05-01       # optional
+lang: en                    # optional — language of the original
+---
+```
+
+## Entry shape
+
+Every entry follows the same spine, as a convention (the check does not police headings, except that a Source section must exist):
+
+| Concept | English heading | 中文標題 |
+| --- | --- | --- |
+| Summary | `One-line summary` | `一句話總結` |
+| Context | `Context` | `背景` |
+| Core material | free — insights, model, steps, examples | 自由 — `核心策略`、`執行方法`、`核心模型`… |
+| Application | `Application` / `Tactics / how to apply` | `應用` |
+| Related | `Related` / `Relationships` | `關係` |
+| Source | `Source reference` | `來源` |
+
+Writing principles:
+
+- **Condense, don't summarize.** Every entry must be usable without opening the source.
+- **Prefer frameworks over one-off facts** — they generalize.
+- **One idea-cluster per entry.** Split a dense source into several entries; update an existing entry instead of creating a near-duplicate.
+- Use numbered lists for procedures, tables for exact comparisons, and diagrams only when materially clearer.
+
+## Linking
+
+- Link related entries with plain `[[wikilinks]]` in the **Related** section (and inline where natural). Annotate in prose when the relationship matters: `- **Prerequisite:** [[Target]]`.
+- Every entry's **Source** section links the archived source record in `06-Source-Library/` (or states "no source" for original thinking).
+- Bibliographic detail (author, URL, publication date) lives on the source record, not on entries.
+- A true cross-language pair links both directions from the Related sections.
+
+## Tags
+
+Tags carry a facet prefix and must exist in [[tags|_meta/tags.md]]:
+
+- `topic/…` — what it's about (`topic/pricing`).
 - `person/…` — the source author (`person/alex-hormozi`).
-- `source/…` — a program, podcast, or brand used as provenance (`source/bloom-nutrition`).
+- `source/…` — a program, podcast, or brand used as provenance.
 
-Reuse an existing term before proposing a new one. Add a genuinely new term to `_meta/taxonomy-registry.json` as `proposed` with `approved: false`; use it on knowledge pages only after overlap, aliases, spelling, parent, and definition are reviewed and it becomes `active` with `approved: true`.
+Reuse an existing term before coining a new one; avoid near-synonyms. A genuinely new tag is added to `_meta/tags.md` in the same edit that first uses it. See the Boundaries section there for overlapping terms.
 
-### Linking
-Semantic links live in the structured `relationships` array as canonical paths. Use the strongest supported predicate and store the reciprocal inverse where the schema requires one; reserve generic `related` for genuinely ambiguous associations. The generated `Relationships`/`關係` section is a reader view, not a second source of truth.
+## Naming
 
-Knowledge provenance lives in `sources[]` as `{id, role, locator?}` references. Authoritative title, creators, language, format, publication data, and URL live only on the source record identified by that stable ID. The generated `Source reference`/`來源` section renders a genuine link to that record; retained attachments remain linked from the source record itself.
+- Entries use readable titles, not slugs. English: Title Case, with `" - "` between title and subtitle; keep filenames under ~80 characters and put longer subtitles in `title`. Chinese: natural titles; full-width punctuation (`：，`) is fine.
+- Sources: `YYYY-MM-DD_Type_Author_TitleInPascalCase[_RawTranscript].md` — sortable and greppable.
+- Avoid characters that are illegal in file paths (`/ \ : * ? " < > |`); full-width `：` is allowed.
 
-### Naming
-- Entry files use readable titles, not slugs. English: Title Case, with a `" - "` (spaced hyphen)
-  separating title and subtitle. Chinese: natural title; full-width punctuation (`：，`) is fine.
-- Source files: `YYYY-MM-DD_Type_Author_TitleInPascalCase` (sortable, greppable).
-- Avoid characters illegal in file paths (`/ \ : * ? " < > |`, ASCII colon). Full-width `：` is allowed.
+## Status
 
-### Status lifecycle
-Active knowledge moves from `draft` to `reviewed`, with `evergreen` reserved for intentionally maintained cornerstones. Retirement uses `deprecated`, `superseded`, `replaced`, and `archived`; forwarding states require `replaced_by`. Reports are dated snapshots and use the report lifecycle in [[Reports Index]]. Transitions, capacity-aware review dates, stewardship, and queue ownership are defined in [[Editorial Governance]] and [[Architecture Schema#Lifecycle]].
+`draft` → structurally complete, awaiting an editorial read. `reviewed` → checked for placement, clarity, links, and source. Review a draft whenever you touch it; there is no schedule. To retire a page, either delete it (git keeps history) or replace its body with a one-line `Superseded by [[Target]]` notice.
 
-Curated supporting surfaces, generated outputs, and historical governance snapshots use a separate supporting lifecycle; see [[Editorial Governance#Supporting-surface lifecycle]]. Generated pages are rebuilt from source data, not promoted through the knowledge lifecycle.
+## Processing the inbox
 
-## Maintenance
+1. **Archive the source** under `06-Source-Library/<Type>/` with source frontmatter.
+2. **Distill and write entries** from the matching template in `00-Templates/`, placed per the rules above, linking the source and related entries.
+3. **Delete the inbox copy** and run `npm run check`; fix anything it flags.
 
-[[Maintenance Schedule]] is the canonical operator sequence for conditional regeneration and recurring review. Close every structural change with `npm run check`, the single release gate backed by `_meta/vault-schema.yaml`. Generated pages such as [[Tags]], [[Topic-Index]], [[Portable Index]], [[Editorial Dashboard]], and [[Maintenance Review]] are outputs of that workflow, not places to copy or maintain source rules, counts, or queues.
+The `process-inbox` skill walks through this. Keep raw sources; a Markdown source beyond ~1 MB is worth a moment's thought about splitting, but a stable source identity usually wins.
 
-## Obsidian setup
+## The check
 
-- `Home.md` is the intended landing page. Open or pin it from Quick Switcher; Obsidian's workspace file records the user's live last-open tab and is not an architectural invariant.
-- The Templates core plugin is enabled and `.obsidian/templates.json` points to `00-Templates/`. Choose the template matching both page type and language; the generic entry templates are compatibility fallbacks only.
-- Dataview is optional enhancement software. Curated maps and [[Portable Index]] remain the required navigation layer.
-- The committed global graph is knowledge-only. [[Graph Views]] documents the source-traceability filter and recreation steps.
-
-## Principles
-
-- Condense, don't summarize. Every entry should be usable without reading the source.
-- Prefer frameworks and mental models over one-off facts — they generalize.
-- Reference stable source IDs on every entry; keep authoritative bibliography on canonical source records.
-- Update existing entries when better information arrives, rather than creating duplicates.
+`npm run check` (also CI on every push) verifies exactly five things: wikilinks resolve, tags are registered, knowledge frontmatter is valid, every entry has a sourced Source section, and names/placement are sane. Fix violations before closing a change. Everything else — graph shape, heading wording, review cadence — is editorial judgment, not machinery.

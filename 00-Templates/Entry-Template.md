@@ -1,20 +1,8 @@
 ---
-title: ""
-type: "template"
-template_for: "generic-knowledge"
-domain: ""
-lang: "en"                # en | zh (one language per entry; pair true translations with a translation relationship)
-tags: []                  # faceted + controlled: topic/… person/… source/…  — reuse from [[Tags]] first
-sources:
-  - id: ""                # immutable source_id from the canonical source record
-    role: "primary"       # primary | supporting | contrasting | example | background
-relationships:
-  - type: "related"       # prerequisite | applies | example | contrast | translation | related
-    target: ""             # exact title of the target governed knowledge page
-date_added: ""            # YYYY-MM-DD
-updated: ""               # YYYY-MM-DD
-reviewed_on: ""           # blank for drafts; date for reviewed / evergreen
-status: "draft"           # draft | reviewed | evergreen
+lang: en
+tags: []          # from _meta/tags.md: topic/… person/… source/…
+status: draft     # draft | reviewed
+updated: ""       # YYYY-MM-DD
 ---
 
 # Title
@@ -23,32 +11,23 @@ status: "draft"           # draft | reviewed | evergreen
 The single most important takeaway, in one sentence.
 
 ## Context
-Why this matters / what problem or situation it addresses. 1-3 sentences.
+Why this matters — the problem or situation it addresses. 1–3 sentences.
 
-## Core material
-
-### Key insights
-
+## Key insights
 - Insight one, stated as a clear, applicable principle.
 - Insight two.
-- Insight three.
 
-### Framework / model (if applicable)
-
-Name and describe any named framework, mental model, or step-by-step process. Use a numbered list or short diagram in prose.
-
-### Notable examples
-
-Real examples, case studies, or quotes that illustrate the idea.
+*(Rename or extend this section to fit the entry: a named framework, numbered
+playbook steps, evidence and observations, notable examples…)*
 
 ## Application
+Concrete, actionable steps for using this knowledge — specific enough to
+execute without re-reading the source.
 
-Concrete, actionable steps for using this knowledge. Be specific enough to execute without re-reading the source.
-
-## Relationships
-
-<!-- Generated from frontmatter `relationships`; do not edit this section manually. -->
+## Related
+Wikilinks to related entries. Annotate when the relationship matters, e.g.
+"Prerequisite:", "Applied by:", "Contrast:".
 
 ## Source reference
-
-<!-- Generated from frontmatter `sources`; do not edit this section manually. -->
+Wikilink to the archived source record in 06-Source-Library, or "no source"
+for original thinking.
