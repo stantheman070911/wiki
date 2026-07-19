@@ -119,7 +119,7 @@ Reuse an existing term before coining a new one; avoid near-synonyms. A genuinel
 
 ## Status
 
-`draft` → structurally complete, awaiting an editorial read. `reviewed` → checked for placement, clarity, links, and source. Review a draft whenever you touch it; there is no schedule. To retire a page, either delete it (git keeps history) or replace its body with a one-line `Superseded by [[Target]]` notice.
+`draft` → structurally complete, awaiting an editorial read. `reviewed` → checked for placement, clarity, links, and source. Review a draft whenever you touch it; there is no schedule. When reviewing, prune the Related section: keep a link only if you can say why it's related in a few words — then write that why as its annotation — and cut the rest. To retire a page, either delete it (git keeps history) or replace its body with a one-line `Superseded by [[Target]]` notice.
 
 ## Processing the inbox
 
