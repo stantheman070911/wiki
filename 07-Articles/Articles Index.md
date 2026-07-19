@@ -9,6 +9,7 @@ Outward-facing essays synthesized from multiple entries. Belongs here: finished 
 
 Add a line here when publishing a new article (newest first).
 
+- [[07-Articles/Good Ideas Aren't Hidden, They're Avoided|Good Ideas Aren't Hidden, They're Avoided]]
 - [[07-Articles/Design for the Second Audience|Design for the Second Audience]]
 - [[07-Articles/Do It by Hand Until You Know What It Is|Do It by Hand Until You Know What It Is]]
 - [[07-Articles/Every Possession Comes With a Job|Every Possession Comes With a Job]]
