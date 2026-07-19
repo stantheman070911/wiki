@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"01-Business-Strategy\" OR path:\"02-Social-Media-Strategy\" OR path:\"03-Tactics-and-Playbooks\" OR path:\"04-Frameworks-and-Mental-Models\" OR path:\"05-Intelligence-and-Research\" OR path:\"07-Articles\" OR path:\"Reports\" OR file:\"Home\" OR file:\"Home-ZH\"",
+  "search": "-path:\"06-Source-Library\" -path:\"00-Templates\" -path:\"_meta\" -path:\"_Inbox\"",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.266641759702168,
+  "scale": 0.35445246572220823,
   "close": true
 }
