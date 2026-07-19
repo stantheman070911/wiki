@@ -26,26 +26,6 @@ Chinese entry point: [[Home-ZH|THE WIKI 中文入口]] · Rules: [[Vault Convent
 - [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M Scaling Roadmap]] — ten ordered scaling stages
 - [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學]] — eight modules with a complete [[06-Source-Library/Courses/陳宗賢的連鎖經營學/連鎖經營學來源清單|source manifest]]
 
-## Reports
-
-- [[Reports/Creator and Personal Brand Businesses - Industry Handbook|Creator and Personal Brand Businesses — Industry Handbook]]
-- [[Reports/How In-Person Training Businesses Really Work|How In-Person Training Businesses Really Work]]
-
-## Articles
-
-Full list: [[07-Articles/Articles Index|Articles Index]].
-
-- [[07-Articles/Change the Comparison Before You Change the Price|Change the Comparison Before You Change the Price]]
-- [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
-- [[07-Articles/Design for the Second Audience|Design for the Second Audience]]
-- [[07-Articles/Disagreement Needs a Finish Line|Disagreement Needs a Finish Line]]
-- [[07-Articles/Do It by Hand Until You Know What It Is|Do It by Hand Until You Know What It Is]]
-- [[07-Articles/Every Possession Comes With a Job|Every Possession Comes With a Job]]
-- [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
-- [[07-Articles/Steal the Format, Not the Idea|Steal the Format, Not the Idea]]
-- [[07-Articles/Trust Should Have a Credit Limit|Trust Should Have a Credit Limit]]
-- [[07-Articles/Two Ways a Founder Can Disappear|Two Ways a Founder Can Disappear]]
-
 ## Recently updated
 
 ```dataview
