@@ -3806,7 +3806,7 @@ national fear.
     The result of the campaign for Allstate? Mayhemsale.com received six
 to ten thousand hits per second immediately following each commercial.
 The site received more than eighteen million hits during the game. Also,
-#Mayhemsale trended in the top ten hashtags during the game, and
+Mayhemsale trended in the top ten hashtags during the game, and
 immediately after the commercials aired, it surged to number one
 worldwide. Mayhem’s X followers (then Twitter) increased by twenty-four
 thousand during the game, and the first commercial of the campaign
