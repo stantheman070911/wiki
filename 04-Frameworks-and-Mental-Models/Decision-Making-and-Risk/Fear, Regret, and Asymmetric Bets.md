@@ -43,6 +43,7 @@ Hormozi took six months to quit his consulting job. This entry captures how he d
 ## Notable examples
 - Hormozi nearly didn't sell Gym Launch for $46M because one colleague might think the number unimpressive — realizing he was handing that person control over his life broke the paralysis.
 - Six months of nightly "I'm going to quit" before actually quitting — the cost of a large decision-to-action gap.
+- "Someone's version of you has to die" — either your desired version or someone else's version of you; you're stuck with yourself far longer than with them. In a later retelling he had to drive halfway across the country before he could call his father to say he'd quit, because he knew that in person his father — who had already talked him out of it repeatedly — would do so again; naming the specific voice ("it's just James and Betty," not "people") is what strips its power.
 
 ## AMA refinements (Ask Me Anything)
 A later Q&A added three nuances to the same framework:
@@ -76,3 +77,4 @@ Source for this section: *Alex Hormozi Answers Your Questions (Ask Me Anything)*
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript|25 Harsh Truths at 45 - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript|Skin in the Game - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Podcasts/2026-07-20_Podcast_DiaryOfACEO_AlexHormozi_RawTranscript|The Man Who Made $100 Million Before 32 - Raw Transcript]]

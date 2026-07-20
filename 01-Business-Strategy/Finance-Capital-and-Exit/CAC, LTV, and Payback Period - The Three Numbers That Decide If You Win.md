@@ -60,6 +60,7 @@ Rule of thumb: be willing to spend up to ~33% of LTV to acquire a customer.
 - "Money soldier" analogy: every ad dollar is a soldier sent to war whose only job is to come back with more soldiers — the payback period is how long the trip takes.
 - SaaS businesses with 5-year payback periods still raising venture capital because the LTV:CAC ratio is healthy even though the cash-recoupment window is long — illustrating why payback period and LTV:CAC are tracked as separate numbers.
 - Businesses that raise ad spend from $10K/month to $50K/month and see 30-day ROAS drop, but need to be evaluated on lifetime ROAS instead of first-purchase ROAS before concluding the spend increase failed.
+- Hormozi's refinement (13 Years of Marketing Advice): the truly outsized wealth comes from *very* high starting ratios — 30:1 up to 100:1–200:1 — which show up in short, punctuated windows and signal room to scale profitably (a high ratio at $1k/day predicts you can push to $100k/day and still clear ~5:1). Dump spend into the machine while the window is open, expecting the ratio to compress as you scale, because absolute return, not the ratio, is the goal; most of the time you live in the 5:1–10:1 maintenance band.
 
 ## Relationships
 
@@ -76,3 +77,4 @@ Rule of thumb: be willing to spend up to ~33% of LTV to acquire a customer.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook|Customer Acquisition, Offers, And Ads Playbook]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-20_Video_AlexHormozi_13YearsOfMarketingAdvice_RawTranscript|13 Years of Marketing Advice in 85 Minutes - Raw Transcript]]

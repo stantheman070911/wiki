@@ -67,6 +67,7 @@ Steve Jobs introduced the iPhone as three familiar things in one: a widescreen i
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide|The StoryBrand SB7 Framework - Customer as Hero, Brand as Guide]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Values Before Features - Sell the Identity Behind the Product|Values Before Features - Sell the Identity Behind the Product]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy|Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Curse of Knowledge - Why Experts Write Badly|The Curse of Knowledge - Why Experts Write Badly]] — the cognitive-science account of *why* experts fail to write plainly.
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope|Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Declarative to Sell, Procedural to Deliver|Declarative to Sell, Procedural to Deliver]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]

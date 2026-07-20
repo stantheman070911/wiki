@@ -10,6 +10,7 @@ tags:
   - topic/avatar
   - person/sabri-suby
   - person/daniel-priestley
+  - person/alex-hormozi
   - source/daniel-priestley-youtube
 status: draft
 updated: 2026-07-13
@@ -41,6 +42,18 @@ Suby's answer to why most small businesses have an artificially high CAC: they o
 4. **60% — not problem aware.** Don't yet recognize they have the problem, but may be a good fit once they do.
 
 Marketing engineered to speak to the *entire* pyramid — not just the top 3% — is the mechanism for scaling a business as large as ambition allows, because it unlocks 97% more addressable audience than competitors chasing only the ready-to-buy segment.
+
+### Schwartz's five levels of awareness (Hormozi's framing)
+Hormozi maps the same pyramid onto Eugene Schwartz's canonical five named stages (from *Breakthrough Advertising*), and uses them to explain why an ad account hits a scaling ceiling:
+1. **Unaware** — no idea they (or a problem) exist.
+2. **Problem-aware** — feel the pain but don't know solutions exist (ads that ask "having trouble sleeping? back pain when you lean over?").
+3. **Solution-aware** — know solutions exist, not which product.
+4. **Product-aware** — know your product; you're pitching it directly.
+5. **Most-aware** — your existing/past customers (an email or post converts them for almost nothing).
+
+Beginners get cheap returns marketing to *most-aware* people; each step *down* the ladder is a much larger audience but demands an order-of-magnitude better ad to reach. **The scaling wall usually isn't a small market — it's that your ads aren't good enough (or specific enough) to convert the next, colder tranche.** Because the addressable area grows non-linearly as you move outward (the "watermelon slice": dense with buyers at the tip, sparse further down), density of sales per thousand eyeballs falls, so this only pays when LTV and optimization are strong enough to stay profitable on colder traffic — at which point the absolute return dwarfs the warm-only game.
+
+**Size of the plane = length of the runway.** The amount of selling/advertising required is proportional to *both* price and coldness: the longest sale is an expensive thing to a completely unaware person; the shortest is a cheap thing to a most-aware person. Trouble scaling usually means a mismatch — a warm message sent to a cold audience, or under-warmed prospects pushed to a big-ticket close.
 
 ### The Halo Strategy (market research method)
 1. **Bullseye keyword** — identify the single term the market organizes around (e.g., "SEO," "Facebook ads," "weight loss").
@@ -74,3 +87,4 @@ Marketing engineered to speak to the *entire* pyramid — not just the top 3% �
 
 - **primary:** [[06-Source-Library/Videos/2026-07-10_Video_SabriSuby_CustomerAcquisitionOffersAndAdsPlaybook|Customer Acquisition, Offers, And Ads Playbook]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_MarketingPlayground_RawTranscript|Marketing Playground - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Videos/2026-07-20_Video_AlexHormozi_13YearsOfMarketingAdvice_RawTranscript|13 Years of Marketing Advice in 85 Minutes - Raw Transcript]]

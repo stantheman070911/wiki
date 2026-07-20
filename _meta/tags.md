@@ -171,9 +171,11 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - person/april-dunford
 - person/atul-gawande
 - person/ava-jurgens
+- person/ben-watkins
 - person/bill-burnett
 - person/brent-adamson
 - person/caleb-ralston
+- person/charlotte-jarden
 - person/chen-tsung-hsien
 - person/chen-xiuping
 - person/chris-voss
@@ -184,6 +186,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - person/elon-musk
 - person/gabriel-weinberg
 - person/gary-vaynerchuk
+- person/grace-andrews
 - person/greg-lavecchia
 - person/james-dale-davidson
 - person/jeff-cox
@@ -193,11 +196,13 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - person/jun-yuh
 - person/justin-mares
 - person/keenan
+- person/kent-yashimura
 - person/kim
 - person/matt-gray
 - person/matthew-dixon
 - person/michael-gerber
 - person/nassim-nicholas-taleb
+- person/natalie-barbou
 - person/naval-ravikant
 - person/neil-rackham
 - person/paul-graham
@@ -213,8 +218,10 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - person/sam-parr
 - person/seth-godin
 - person/sharran-srivatsaa
+- person/steve-blank
 - person/steve-jobs
 - person/steven-bartlett
+- person/steven-pinker
 - person/t-harv-eker
 - person/tahl-raz
 - person/tuan-le
@@ -235,6 +242,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - source/daniel-priestley-youtube
 - source/designing-your-life
 - source/designing-your-new-work-life
+- source/diary-of-a-ceo
 - source/e-myth-revisited
 - source/founder-marketing-roundup
 - source/gap-selling

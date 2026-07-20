@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"06-Source-Library\" -path:\"00-Templates\" -path:\"_meta\" -path:\"_Inbox\"",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.35445246572220823,
+  "scale": 0.26070463291375734,
   "close": true
 }
