@@ -4944,9 +4944,9 @@ Chapter 2
 
 3. “Darwin Smith May Have Done Too Good a Job,” Business Week, August 1, 1988, 57; “Rae Takes On the Paper Industry’s Tough Lone Wolf,” Globe and Mail, July 20, 1991; “Former CEO of K-C Dies,” Dallas Morning News, December 27, 1995, 1D.
 
-4. Research Interview #5-E, page 26.
+4. Research Interview, page 26.
 
-5. Research Interview #5-E, page 26.
+5. Research Interview, page 26.
 
 6. “Darwin Smith May Have Done Too Good a Job,” Business Week, August 1, 1988, 57.
 
@@ -4956,7 +4956,7 @@ Chapter 2
 
 9. International Directory of Company Histories, vol. 3 (Chicago: St. James Press, 1991), 40; “Kimberly-Clark—Aiming for the Consumer,” Financial World, April 1, 1970, 15.
 
-10. Robert Spector, based on research and a manuscript by William W. Wicks, Shared Values: A History of Kimberly-Clark (Connecticut: Greenwich Publishing Group, 1997), 106, 112; “Darwin E. Smith, 69, Executive Who Remade a Paper Company,” New York Times, December 28, 1995, B9; “Former CEO of K-C Dies,” Dallas Morning News, December 27, 1995, 1D; Research Interview #5-E, page 6; “Paper Tiger: How Kimberly-Clark Wraps Its Bottom Line in Disposable Huggies,” Wall Street Journal, July 23, 1987, 1.
+10. Robert Spector, based on research and a manuscript by William W. Wicks, Shared Values: A History of Kimberly-Clark (Connecticut: Greenwich Publishing Group, 1997), 106, 112; “Darwin E. Smith, 69, Executive Who Remade a Paper Company,” New York Times, December 28, 1995, B9; “Former CEO of K-C Dies,” Dallas Morning News, December 27, 1995, 1D; Research Interview, page 6; “Paper Tiger: How Kimberly-Clark Wraps Its Bottom Line in Disposable Huggies,” Wall Street Journal, July 23, 1987, 1.
 
 11. “The Battle of the Bottoms,” Forbes, March 24, 1997, 98.
 
@@ -4992,7 +4992,7 @@ Chapter 2
 
 27. “Is Rubbermaid Reacting Too Late?” New York Times, December 22, 1996, A1.
 
-28. Research Interview #7-D, page 17.
+28. Research Interview, page 17.
 
 29. Chris Jones and Duane Duffy, “Media Hype Analysis” (unpublished), Good to Great research project, summers 1998, 1999.
 
@@ -5014,7 +5014,7 @@ Chapter 2
 
 38. “Will Success Spoil Chrysler?” Fortune, January 10, 1994; “Company of the Year: Chrysler Has the Hot Cars. More Important, It Has a Smart, Disciplined Management Team,” Forbes, January 13, 1997, 82; “Daimler-Benz Will Acquire Chrysler in $36 Billion Deal That Will Reshape Industry,” New York Times, May 7, 1998, A6.
 
-39. Research Interview #1-A, page 3; Research Interview #1-G, page 35; “A Drugmaker’s Return to Health,” Business Week, April 26, 1976, 38; Herman Kogan, The Long White Line: The Story of Abbott Laboratories (New York: Random House, 1963),249.
+39. Research Interview, page 3; Research Interview, page 35; “A Drugmaker’s Return to Health,” Business Week, April 26, 1976, 38; Herman Kogan, The Long White Line: The Story of Abbott Laboratories (New York: Random House, 1963),249.
 
 40. The Upjohn Company, International Directory of Company Histories, 707; “The Medicine Men of Kalamazoo,” Fortune, July 1959, 106.
 
@@ -5022,19 +5022,19 @@ Chapter 2
 
 42. University of Chicago Center for Research in Securities Prices data, all dividends reinvested and adjusted for stock splits.
 
-43. Research Interview #10-D, pages 9–10.
+43. Research Interview, pages 9–10.
 
-44. Herman Kogan and Rick Kogan, Pharmacist to the Nation (Deerfield, Ill.: Walgreens Company, 1989), 236; Research Interview #10-F, page 3.
+44. Herman Kogan and Rick Kogan, Pharmacist to the Nation (Deerfield, Ill.: Walgreens Company, 1989), 236; Research Interview, page 3.
 
-45. Research Interview #2-G, page 10.
+45. Research Interview, page 10.
 
 46. University of Chicago Center for Research in Securities Prices data, all dividends reinvested and adjusted for stock splits.
 
-47. Research Interview #2-G, page 16.
+47. Research Interview, page 16.
 
-48. Research Interview #7-H, page 12.
+48. Research Interview, page 12.
 
-49. Research Interview #8-A, pages 4–5, 9, 10.
+49. Research Interview, pages 4–5, 9, 10.
 
 50. Joseph F. Cullman 3d, I’m a Lucky Guy (Joseph F. Cullman 3d, 1998),1.
 
@@ -5054,15 +5054,15 @@ Chapter 3
 
 2. Warren Buffett, The Essays of Warren Buffett: Lessons for Corporate America, selected, arranged, and introduced by Lawrence A. Cunningham (Lawrence A. Cunningham, Benjamin N. Cardozo School of Law, Yeshiva University, 1998),97.
 
-3. Research Interview #11-B, page 5.
+3. Research Interview, page 5.
 
 4. Duane Duffy, “Industry Analysis Unit” (unpublished), Good to Great research project, summer 1998, CRSP financial data analysis.
 
-5. Research Interview #11-H, page 5; “A Banker Even Keynes Might Love,” Forbes, July 2, 1984, 40.
+5. Research Interview, page 5; “A Banker Even Keynes Might Love,” Forbes, July 2, 1984, 40.
 
-6. Research Interview #11-F, pages 1–2, 5.
+6. Research Interview, pages 1–2, 5.
 
-7. Research Interview #11-H, pages 15, 20.
+7. Research Interview, pages 15, 20.
 
 8. Gary Hector, Breaking the Bank: The Decline of BankAmerica (Little, Brown & Company, 1988),145.
 
@@ -5072,23 +5072,23 @@ Chapter 3
 
 11. “Combat Banking,” Wall Street Journal, October 2, 1989, A1.
 
-12. Research Interview #3-I, page 7.
+12. Research Interview, page 7.
 
-13. Research Interview #3-I, pages 3–14.
+13. Research Interview, pages 3–14.
 
-14. Research Interview #3-I, page 7.
+14. Research Interview, page 7.
 
-15. Research Interview #3-I, pages 3, 15.
+15. Research Interview, pages 3, 15.
 
-16. Research Interview #3-A, page 13.
+16. Research Interview, page 13.
 
-17. Research Interview #3-D, page 6.
+17. Research Interview, page 6.
 
 18. “Eckerd Ad Message: Tailored to Fit,” Chainstore Age Executive, May 1988, 242; “Heard on the Street,” Wall Street Journal, January 21, 1964, B25; “Jack Eckerd Resigns as Chief Executive,” Wall Street Journal, July 24, 1974, 17; “J. C. Penney Gets Eckerd Shares,” Wall Street Journal, December 18, 1996, B10; “J. C. Penney Has Seen the Future,” Kiplinger’s Personal Finance Magazine, February 1, 1997, 28.
 
-19. Research Interview #10-E, page 16.
+19. Research Interview, page 16.
 
-20. “Tuning In,” Forbes, April 13, 1981, 96; “Video Follies,” Forbes, November 5, 1984, 43; Research Interview #10-F, page 10.
+20. “Tuning In,” Forbes, April 13, 1981, 96; “Video Follies,” Forbes, November 5, 1984, 43; Research Interview, page 10.
 
 21. “The Forbes Four Hundred,” Forbes, October 17, 1994, 200.
 
@@ -5114,7 +5114,7 @@ Chapter 3
 
 32. “Nucor Gets Loan,” Wall Street Journal, March 3, 1972, B11.
 
-33. Research Interview #9-F, page 29.
+33. Research Interview, page 29.
 
 34. Joseph F. Cullman 3d, I’m a Lucky Guy (Joseph F. Cullman 3d, 1998),82.
 
@@ -5122,11 +5122,11 @@ Chapter 3
 
 36. “Bold Banker: Wells Fargo Takeover of Crocker Is Yielding Profit but Some Pain,” Wall Street Journal, August 5, 1986, A1.
 
-37. Research Interview #11-G, page 10; Research Interview #11-A, page 29; Research Interview #11-F, page 11; “Bold Banker: Wells Fargo Takeover of Crocker Is Yielding Profit but Some Pain,” Wall Street Journal, August 5, 1986, A1.
+37. Research Interview, page 10; Research Interview, page 29; Research Interview, page 11; “Bold Banker: Wells Fargo Takeover of Crocker Is Yielding Profit but Some Pain,” Wall Street Journal, August 5, 1986, A1.
 
 38. “Boot Camp for Bankers,” Forbes, July 23, 1990, 273.
 
-39. Research Interview #11-H, pages 10–11.
+39. Research Interview, pages 10–11.
 
 40. Chris Jones and Duane Duffy, “Layoffs Analysis” (unpublished), Good to Great research project, summers 1998 and 1999.
 
@@ -5134,13 +5134,13 @@ Chapter 3
 
 42. Chris Jones and Duane Duffy, “Layoffs Analysis” (unpublished), Good to Great research project, summers 1998 and 1999.
 
-43. Research Interview #2-A, pages 1, 11.
+43. Research Interview, pages 1, 11.
 
 44. “Industry Fragmentation Spells Opportunity for Appliance Retailer,” Investment Dealers’ Digest, October 12, 1971, 23.
 
 45. “Circuit City: Paying Close Attention to Its People,” Consumer Electronics, June 1988, 36.
 
-46. Research Interview #2-D, pages 1–2.
+46. Research Interview, pages 1–2.
 
 47. “Dixons Makes $384 Million U.S. Bid,” Financial Times, February 18, 1987, 1; “UK Electronics Chain Maps US Strategy; Dixons Moving to Acquire Silo,” HFD—the Weekly Home Furnishing Newspaper, March 2, 1987; “Dixons Tightens Grip on Silo,” HFD—the Weekly Home Furnishings Newspaper, February 3, 1992, 77.
 
@@ -5150,25 +5150,25 @@ Chapter 3
 
 50. “When Marketing Takes Over at R. J. Reynolds,” Business Week, November 13, 1978, 82; “Tar Wars,” Forbes, November 10, 1980, 190; Bryan Burrough and John Helyar, Barbarians at the Gate (New York: Harper-Collins, 1991),51.
 
-51. Research Interview #8-D, page 7.
+51. Research Interview, page 7.
 
 52. “The George Weissman Road Show,” Forbes, November 10, 1980, 179.
 
 53. Joseph F. Cullman 3d, I’m a Lucky Guy (Joseph F. Cullman 3d, 1998),120.
 
-54. Research Interview #5-B, page 8.
+54. Research Interview, page 8.
 
-55. Research Interview #5-A, page 7.
+55. Research Interview, page 7.
 
 56. “How Do Tobacco Executives Live with Themselves?” New York Times Magazine, March 20, 1994, 40.
 
-57. Research Interview #8-B, page 5.
+57. Research Interview, page 5.
 
 58. Gordon McKibben, Cutting Edge: Gillette’s Journey to Global Leadership (Boston: Harvard Business School Press, 1998),256.
 
 59. Joseph F. Cullman 3d, I’m a Lucky Guy (Joseph F. Cullman 3d, 1998),149.
 
-60. Research Interview #5-A, page 10.
+60. Research Interview, page 10.
 
 Chapter 4
 
@@ -5194,7 +5194,7 @@ Chapter 4
 
 11. “Shifting Gears: A&P’s Price-Cutting Didn’t Create Kroger’s Problems…” Forbes, November 1, 1972, 29; “Superstores May Suit Customers to a T-shirt or a T-bone,” Wall Street Journal, March 13, 1973, A1; “Plain and Fancy: Supermarket Boutiques Spur Kroger’s Gains,” Barron’s, May 25, 1981, 37; “250,000 Unpaid Consultants,” Forbes, September 14, 1981, 147.
 
-12. Research Interview #6-C, page 6.
+12. Research Interview, page 6.
 
 13. “Kroger and Fred Meyer Merge to Create No. 1 U.S. Grocery Biz,” Discount Store News, May 3, 1999, 1.
 
@@ -5220,17 +5220,17 @@ Chapter 4
 
 24. “AM International: The Cash Bind That Threatens a Turnaround,” Business Week, August 18, 1980, 118; “Ash Forced Out of Two AM Posts,” New York Times, February 24, 1981, D1; “When Technology Was Not Enough,” Business Week, January 25, 1982, 62.
 
-25. Research Interview #9-G, page 12.
+25. Research Interview, page 12.
 
-26. Research Interview #9-E, page 11.
+26. Research Interview, page 11.
 
-27. Research Interview #9-C, page 17.
+27. Research Interview, page 17.
 
-28. Research Interview #9-G, page 12.
+28. Research Interview, page 12.
 
-29. Research Interview #9-I, page 21.
+29. Research Interview, page 21.
 
-30. Research Interview #9-C, page 20; #9-I, pages 21–22; #9-D, page 11.
+30. Research Interview, page 20;, pages 21–22;, page 11.
 
 31. Winston S. Churchill, The Grand Alliance (Boston: Houghton Mifflin, 1950),371.
 
@@ -5238,19 +5238,19 @@ Chapter 4
 
 33. Winston S. Churchill, The Gathering Storm (Boston: Houghton Mifflin, 1948),667.
 
-34. Research Interview, #2-C, page 16.
+34. Research Interview,, page 16.
 
 35. “Man of Steel: Correnti Hopes to Take Nucor to No. 1,” Business Journal–Charlotte, September 19, 1994, 3.
 
 36. Standard & Poor’s Industry Survey Database, Metals: Industrial, Iron and Steel, January 18, 2001, Leo J. Larkin, metals analyst.
 
-37. Research Interview #7-C, page 13.
+37. Research Interview, page 13.
 
-38. Research Interview #7-E, page 7; Jeffrey L. Rodengen, The Legend of Nucor (Fort Lauderdale, Fla.: Write Stuff, 1997),45.
+38. Research Interview, page 7; Jeffrey L. Rodengen, The Legend of Nucor (Fort Lauderdale, Fla.: Write Stuff, 1997),45.
 
 39. Jeffrey L. Rodengen, The Legend of Nucor (Fort Lauderdale, Fla.: Write Stuff, 1997),39.
 
-40. Research Interview #7-A, page 3.
+40. Research Interview, page 3.
 
 41. Joseph F. Cullman 3d, I’m a Lucky Guy (Joseph F. Cullman 3d, 1998), 144; Richard Kluger, Ashes to Ashes (New York: Alfred A. Knopf. 1996), 485; “Beverage Management: Risky—but Straight Up 7UP,” Forbes, April 12, 1982, 208; “Coke Peppers 7UP and Pepsi,” Advertising Age, February 24, 1986, 2, 86.
 
@@ -5260,7 +5260,7 @@ Chapter 4
 
 44. “Upjohn: Safety of Upjohn’s Oral Antidiabetic Drug Doubted in Study; Firm Disputes Finding,” Wall Street Journal, May 21, 1970, A6; “Upjohn: A Bitter Pill for Upjohn Shareholders (Drug Company Involved in Antibiotic Controversy),” Financial World, January 23, 1974, 28; “Upjohn: The Upjohn Company: Presentation by R. T. Parfet, Jr., Chairman of the Board and Chief Executive Officer, and L. C. Hoff, Vice President and General Manager, Pharmaceutical Division, to the Security Analysts of San Francisco, September 11, 1975,” Wall Street Transcript, October 13, 1975, 41648–41650; “Upjohn: Hair-Raising Happenings at Upjohn (Testing a Cure for Baldness, the Company Squirms at the Unwelcome Clamor),” Fortune, April 6, 1981, 67–69; “Upjohn: FDA Says Upjohn Exaggerated Claims on Drug’s Value in Treating Baldness,” Wall Street Journal, June 18, 1986, A6; “Upjohn: Riptide: Can Upjohn Manage Its Way out of a Product Gap? If Not, It Could Be Swept into the Industry Merger Wave,” Financial World, September 5, 1989, 26–28; “Upjohn: The Corporation: Strategies: Will This Formula Cure What Ails Upjohn? As the Sharks Circle, It’s Spending Big on R&D and Marketing,” Business Week, September 18, 1989, 65; “Upjohn: Technology and Medicine: Upjohn Sleep Drug Being Investigated for Safety by FDA,” Wall Street Journal, September 20, 1984, B4; “Upjohn: Medicine: Halcion Takes Another Hit: Tainted Data Played a Key Role in FDA Approval,” Newsweek, February 17, 1992, 58; “Upjohn: Medicine: Fueling the Fire over Halcion: Upjohn’s Own Staff Has Raised Safety Concerns,” Newsweek, May 25, 1992, 84; “Upjohn: Top of the News: Successions: At Upjohn, a Grim Changing of the Guard: Ley Smith Inherits the Problem-Plagued Drugmaker at a Critical Juncture,” Business Week, May 3, 1993, 36.
 
-45. Research Interview #11-B, page 7.
+45. Research Interview, page 7.
 
 46. “No-Longer-So-Great Scott,” Forbes, August 1, 1972, 25.
 
@@ -5270,11 +5270,11 @@ Chapter 4
 
 49. “Scott Paper: Back on the Attack,” Financial World, August 1, 1979, 22–23; “A Paper Tiger Grows Claws,” Business Week, August 23, 1969, 100–102; “Outlook for 1970—Year-End Statement,” Paper Trade Journal, December 22, 1969, 33; “Profits Peak for Scott Paper,” Financial World, April 22, 1970, 13, 28; “No-Longer-So-Great Scott,” Forbes, August 1, 1972, 25.
 
-50. Research Interview #5-F, page 2.
+50. Research Interview, page 2.
 
-51. Research Interview #5-E, page 22.
+51. Research Interview, page 22.
 
-52. Research Interview #6-A, page 19.
+52. Research Interview, page 19.
 
 53. Ann Kaiser Stearns, Coming Back: Rebuilding Lives after Crisis and Loss (New York: Ballantine, 1988), 294. In her work, Stearns describes the findings of these studies, which we believe provide a scientific basis for understanding the effectiveness of the Stockdale Paradox. We were also influenced by the work of Mihaly Csikszentmihalyi. In his comprehensive investigation into the nature of happiness in the book Flow, Mihaly Csikszentmihalyi discusses the transformational potential of apparent tragedy, using as an example the studies of Professor Fausto Massimini of the University of Milan. In these studies, some paraplegics and other severely handicapped people asserted that their personal tragedies had actually resulted in a positive experience that led them to live fuller lives. (Mihaly Csikszentmihalyi, Flow [New York: HarperPerennial, 1990], 192–193.) For another viewpoint on this subject, also see the work of Dr. Al Siebert, who wrote The Survivor Personality—How Life’s Best Survivors Thrive in Difficult Situations and Convert Misfortune into Good Luck.
 
@@ -5298,9 +5298,9 @@ Chapter 5
 
 3. Conversation with Marvin Bressler, October2000.
 
-4. Research Interview #10-F, page 3.
+4. Research Interview, page 3.
 
-5. Research Interview #10-D, page 22.
+5. Research Interview, page 22.
 
 6. “Convenience with a Difference,” Forbes, June 11, 1990.
 
@@ -5320,9 +5320,9 @@ Chapter 5
 
 14. “BankAmerica Launches Probe,” Wall Street Journal, January 28, 1985, A27; “More Than Mortgages Ails BankAmerica,” Fortune, April 1, 1985, 50; “Big Quarterly Deficit Stuns BankAmerica,” Wall Street Journal, July 18, 1985, A1; “Sam Armacost’s Sea of Troubles,” Banker, September 1, 1985, 18.
 
-15. Research Interview #11-H, pages 5, 13.
+15. Research Interview, pages 5, 13.
 
-16. Research Interview #11-F, pages 5, 11.
+16. Research Interview, pages 5, 11.
 
 17. “Boot Camp for Bankers,” Forbes, July 23, 1990, 273.
 
@@ -5344,13 +5344,13 @@ Chapter 5
 
 26. Bryan Burrough and John Helyar, Barbarians at the Gate (New York: HarperCollins, 1991).
 
-27. Research Interview #5-A, page 13.
+27. Research Interview, page 13.
 
 28. “An Iconoclast in a Cutthroat World,” Chief Executive, March1996.
 
 29. “Gillette Holds Its Edge by Endlessly Searching for a Better Shave,” Wall Street Journal, December 10, 1992, A1.
 
-30. Research Interview #3-G, page 7.
+30. Research Interview, page 7.
 
 31. The comparison companies that displayed an obsession with growth were Bank of America, Addressograph-Multigraph, Eckerd, Great Western Financial, Silo, Upjohn, Warner-Lambert, Burroughs, Chrysler, Harris, Rubbermaid, and Teledyne.
 
@@ -5368,33 +5368,33 @@ Chapter 6
 
 2. Hoover’s Online, www.hoovers.com.
 
-3. Research Interview #1-E, page 11.
+3. Research Interview, page 11.
 
 4. Bernard H. Semler, Putting It All Together (autobiography, draft version, 1998),66.
 
 5. Bernard H. Semler, “Measuring Operating Performance,” 1. Article sent to the research team directly from Mr. Semler.
 
-6. Research Interview #1-E, page 3.
+6. Research Interview, page 3.
 
 7. “How ‘Dr.’ Ledder Cured Abbott Labs: Abbott Labs Was a Sick Company …” Forbes, August 1, 1975, 26; “Abbott Shapes Up,” Chemical Week, October 20, 1976, 20; “Abbott Labs: Adding Hospital Supplies to Bolster Drug Operations,” Business Week, July 23, 1979, 177; “Earnings Per Share for First Nine Months of 1980,” PR Newswire, September 17, 1980; “Robert A. Schoellhorn Report on Company at Annual Shareholders Meeting,” Business Wire, April 13, 1984; “Abbott: Profiting from Products That Cut Costs,” Business Week, June 18, 1984, 56.
 
-8. Research Interview #1-G, page 23.
+8. Research Interview, page 23.
 
-9. Research Interview #2-E, page 1.
+9. Research Interview, page 1.
 
-10. Research Interview #2-F, page 3.
+10. Research Interview, page 3.
 
 11. “Managing: Carl E. Reichardt, Chairman, Wells Fargo & Co.,” Fortune, February 27, 1989, 42.
 
-12. Research Interview #11-H, pages 5, 9.
+12. Research Interview, pages 5, 9.
 
 13. “Bold Banker: Wells Fargo Takeover of Crocker Is Yielding Profit but Some Pain,” Wall Street Journal, August 5, 1986, A1.
 
-14. Research Interview #11-H, pages 5, 9, 16.
+14. Research Interview, pages 5, 9, 16.
 
-15. Research Interview #11-H, pages 5, 9.
+15. Research Interview, pages 5, 9.
 
-16. Research Interview #11-H, page 10.
+16. Research Interview, page 10.
 
 17. “Managing: Carl E. Reichardt, Chairman, Wells Fargo & Co.,” Fortune, February 27, 1989, 42; “A Banker Even Keynes Might Love,” Forbes, July 2, 1984, 40; “Bold Banker: Wells Fargo Takeover of Crocker Is Yielding Profit but Some Pain,” Wall Street Journal, August 5, 1986, A1.
 
@@ -5472,7 +5472,7 @@ Chapter 6
 
 54. Jeffrey L. Rodengen, The Legend of Nucor Corporation (Fort Lauderdale, Fla.: Write Stuff, 1997), 73–74; “The Nucor Story” (Nucor Web site)/Egalitarian Benefits, August 22, 1997.
 
-55. Research Interview #7-G, page 4.
+55. Research Interview, page 4.
 
 56. “Maverick Remakes Old-Line Steel: Nucor’s Ken Iverson…” Industry Week, January 21, 1991, 26.
 
@@ -5494,7 +5494,7 @@ Chapter 6
 
 65. “Report of Darwin E. Smith to the Stockholders and the Men and Women of Kimberly-Clark Corporation,” February 28, 1972.
 
-66. Research Interview #5-E, page 10.
+66. Research Interview, page 10.
 
 67. “Rae Takes On Paper Industry’s Tough Lone Wolf,” Globe and Mail, July 20, 1991, B1.
 
@@ -5530,13 +5530,13 @@ Chapter 7
 
 15. “Gillette: At Gillette, Disposable Is a Dirty Word,” Business Week, May 29, 1989, 58.
 
-16. Research Interview #3-E, page 13.
+16. Research Interview, page 13.
 
-17. Research Interview #3-E, page 13.
+17. Research Interview, page 13.
 
-18. Research Interview #3-F, page 5.
+18. Research Interview, page 5.
 
-19. Research Interview #3-E, page 13.
+19. Research Interview, page 13.
 
 20. Prominent physicists of the time had already developed similar theories, bolstered by remarkably good experimental evidence, that were mathematically consistent and equivalent to Einstein’s exposition of relativity theory. All they lacked was the clear statement of a fundamental principle to start the chain of thinking that resulted in a clear picture of relativity theory and its consequences. In Understanding Relativity, by Stanley Goldberg (Boston: Birkhauser, 1984), the author points out, “There was not complete satisfaction with the theory that Lorentz and Poincaré produced in 1904, although that theory was formally identical to the theory that Einstein introduced a year later” (page 324). (Emphasis added.)
 
@@ -5544,7 +5544,7 @@ Chapter 7
 
 22. Richard Preston, American Steel (New York: Avon, 1991),75.
 
-23. Research Interview #7-E, pages 2–3.
+23. Research Interview, pages 2–3.
 
 24. “Nucor Corporation: Corporate Profile,” Wall Street Corporate Reporter, September 9–15, 1996, 19.
 
@@ -5568,9 +5568,9 @@ Chapter 7
 
 34. Kara Swisher, aol.com (New York: Random House, 1998),64.
 
-35. Research Interview #9-D, page 11.
+35. Research Interview, page 11.
 
-36. Research Interview #5-E, page 5.
+36. Research Interview, page 5.
 
 Chapter 8
 
@@ -5584,47 +5584,47 @@ Chapter 8
 
 5. Jeffrey L. Rodengen, The Legend of Nucor (Fort Lauderdale, Fla.: Write Stuff, 1997), 63, 70, 82.
 
-6. Research Interview #5-B, page 5.
+6. Research Interview, page 5.
 
-7. Research Interview #5-C, page 2.
+7. Research Interview, page 2.
 
 8. “The Battle of the Bottoms,” Forbes, March 24, 1997, 98.
 
-9. Research Interview #1-C, page 7.
+9. Research Interview, page 7.
 
-10. Research Interview #1-E, page 9.
+10. Research Interview, page 9.
 
 11. Conversation between the author and Alan Wurtzel.
 
-12. Research Interview #3-B, page 13.
+12. Research Interview, page 13.
 
-13. Research Interview #4-D, page 3. The interviewee in this case was responding to the question, “Did the company make a conscious decision to initiate a major change or transition at some point during that time frame?”
+13. Research Interview, page 3. The interviewee in this case was responding to the question, “Did the company make a conscious decision to initiate a major change or transition at some point during that time frame?”
 
-14. Research Interview #5-A, page 7.
+14. Research Interview, page 7.
 
-15. Research Interview #6-A, page 12.
+15. Research Interview, page 12.
 
-16. Research Interview #7-A, page 3.
+16. Research Interview, page 3.
 
-17. Research Interview #8-C, page 6.
+17. Research Interview, page 6.
 
-18. Research Interview #9-F, page 25.
+18. Research Interview, page 25.
 
-19. Research Interview #10-F, page 7.
+19. Research Interview, page 7.
 
-20. Research Interview #11-G, page 6.
+20. Research Interview, page 6.
 
 21. John Wooden and Jack Tobin, They Call Me Coach (Chicago: Contemporary, 1988),244.
 
-22. Research Interview #3-I, page 21.
+22. Research Interview, page 21.
 
-23. Research Interview #1-G, page 31; Research Interview #1-A, page 14.
+23. Research Interview, page 31; Research Interview, page 14.
 
 24. “Upjohn: The Upjohn Company: Remarks by C. H. Ludlow, Vice President and Treasurer, and L. C. Hoff, Vice President, before the Washington Society of Investment Analysts,” February 20, 1974, Wall Street Transcript, March 11, 1974, 36246–36247.
 
-25. Research Interview #6-C, pages 16–17.
+25. Research Interview, pages 16–17.
 
-26. Research Interview #7-F, page 11.
+26. Research Interview, page 11.
 
 27. Fortune 1000 rankings, from Fortune.com Web site, February 9, 2001.
 
