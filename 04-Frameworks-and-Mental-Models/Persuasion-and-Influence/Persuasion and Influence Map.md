@@ -36,6 +36,7 @@ Use this map for negotiation, framing, risk reversal, social influence, and word
 - [[Practical Value - The Psychology of Deals and the Rule of 100]]
 - [[Risk Reversal - The Guarantee Toolkit]]
 - [[Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
+- [[Storytelling for Business - The Four Pillars]]
 
 ### Social influence and group behavior
 

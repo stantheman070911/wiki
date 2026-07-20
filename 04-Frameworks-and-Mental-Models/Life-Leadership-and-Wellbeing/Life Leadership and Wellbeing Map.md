@@ -71,6 +71,7 @@ Happiness, presence, flow, acceptance, curiosity, and resilience.
 - [[Life Is Short - Ruthless Attention Allocation]]
 - [[Simple Flow - Presence Beyond Peak Performance]]
 - [[The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
+- [[The Four Vectors of Mental Toughness]]
 - [[The Wonder Formula - Curiosity Plus Mystery]]
 - [[Transactional and Flow Worlds - Intent Versus What Is]]
 - [[決策、幸福與心智管理]]

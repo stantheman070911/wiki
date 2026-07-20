@@ -89,6 +89,7 @@ Receptivity, cringe, perfectionism, and origin stories.
 - [[Creative Receptivity - Awareness, Attention, and the Artist's Filter]]
 - [[Creative Success - Judge the Work Before the Outcome]]
 - [[Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]]
+- [[Founders Are Artists - Calling, Cargo Cults, and the Drive to Create]]
 - [[Hardship as Origin Story - Heroes Use Pain]]
 - [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 - [[The Passionate Visionary Scientist - A Three-Part Founder Mindset]]

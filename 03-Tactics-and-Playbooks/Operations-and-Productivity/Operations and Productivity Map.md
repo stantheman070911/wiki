@@ -40,6 +40,7 @@ Use this map for diagnosing operating problems, managing flow and constraints, s
 ### Standards, checklists, and protocols
 
 - [[Checklist Design - Pause Points, Killer Items, and Field Testing]]
+- [[Don't Outsource the Thinking - Where AI Belongs and Where It Doesn't]]
 - [[Make It Chimp-Proof - SOPs, Checklists, and Systematizing the Vital 20%]]
 - [[Team Checklists - Communication Before Coordination]]
 - [[Use Tools and Protocols to Shape How Work Is Done]]

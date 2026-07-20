@@ -27,12 +27,15 @@ Use this map for capturing ideas, developing messages, producing short-form and 
 - [[Content Planner and the Analyze-Double-Down Loop]]
 - [[Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
 - [[Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers]]
+- [[The Content City Map - Goal, Signal, Content]]
+- [[We Need to Be Reminded, Not Taught - The Repetition Engine]]
 - [[Writing as a Discovery Tool - Useful, Simple, and Rewritten]]
 
 ### Messaging and copy
 
 - [[Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
 - [[Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]
+- [[The Curse of Knowledge - Why Experts Write Badly]]
 - [[Direct-Response Copywriting]]
 - [[Declarative to Sell, Procedural to Deliver]]
 - [[The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment]]
@@ -42,6 +45,7 @@ Use this map for capturing ideas, developing messages, producing short-form and 
 
 - [[Hacking Attention - Topic, Format, Hook and the Content Engine]]
 - [[Hyperdopamine Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy]]
+- [[The Kaleidoscope Process - Squeeze Every Winning Ad]]
 - [[Promise, Proof, Path - Engineering the Video Intro]]
 - [[Silent Film Storytelling - Struggle Hook, Rising Action, Timestamp, Pacing]]
 - [[The Seven Factors of a Short - Topic to Editing]]

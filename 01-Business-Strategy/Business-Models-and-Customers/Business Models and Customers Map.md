@@ -25,6 +25,7 @@ Use this map for business-model quality, customer selection, value delivery, ret
 Business shapes, recurring revenue, services, software, education, e-commerce, and productized intellectual property.
 
 - [[From Proof Story to Scalable IP - Productize, Attract, Convert, and Amplify]]
+- [[Startups Search, Companies Execute - The Lean Startup Stack]]
 - [[The AI-Ready Business Redesign - Speed to Value and Experience Moats]]
 - [[The E-commerce Shape - Scale Fast, Then Fight Cash, Supply, and Brand]]
 - [[The Five Advantages of a Perfect Business]]
@@ -49,6 +50,7 @@ Ideal customers, qualification, niches, communities, and smallest viable markets
 - [[Smallest Viable Market - Specificity Before Scale]]
 - [[Survive vs Thrive]]
 - [[The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
+- [[Willingness to Pay Is the Only Signal]]
 - [[人群場景痛點解決方案：客戶洞察與需求驗證框架]]
 
 ### Value delivery

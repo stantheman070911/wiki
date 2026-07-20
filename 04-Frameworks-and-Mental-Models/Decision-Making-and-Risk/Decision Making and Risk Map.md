@@ -53,6 +53,7 @@ Pre-mortems, boundary conditions, reversibility, and feedback.
 - [[Focus Questions - Formation Beyond Problem Solving]]
 - [[Gap Selling - Current State, Future State, and the Value of Change]]
 - [[Learn How to Make Decisions Effectively - Expected Value, Levels, and Algorithms]]
+- [[Push or Pivot - The Disproven-Thesis Test]]
 - [[Reframe Gravity Problems into Actionable Problems]]
 - [[Solve the Problem You Have, Not the One You're Afraid Of]]
 - [[The Effective Decision Process]]
