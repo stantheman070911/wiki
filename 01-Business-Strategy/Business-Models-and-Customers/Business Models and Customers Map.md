@@ -34,6 +34,7 @@ Business shapes, recurring revenue, services, software, education, e-commerce, a
 - [[The Seven Questions Every Business Must Answer]]
 - [[The SMB Service Barbell - Go Cheap or Go Proven, the Middle Is a Dead Zone]]
 - [[The Software Shape - Survive to Product-Market Fit, Then Retain Forever]]
+- [[The Talent Business - Back High-Attribute People and Let Them Follow Their Energy]]
 - [[The Virtuous Cycle of Service Businesses]]
 - [[全代操短影音代理商商業模式]]
 - [[商業四大需求層次：救命、治病、養生、建體]]

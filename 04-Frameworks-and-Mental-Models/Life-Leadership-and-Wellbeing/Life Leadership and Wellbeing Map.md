@@ -69,6 +69,7 @@ Happiness, presence, flow, acceptance, curiosity, and resilience.
 - [[Good Enough for Now - Acceptance Without Settling]]
 - [[Happiness Is a Skill - Presence, Peace, and Self-Care]]
 - [[Life Is Short - Ruthless Attention Allocation]]
+- [[Pull Out Your Nails - Everything You Want Is on the Other Side of Worse First]]
 - [[Simple Flow - Presence Beyond Peak Performance]]
 - [[The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
 - [[The Four Vectors of Mental Toughness]]

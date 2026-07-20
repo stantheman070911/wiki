@@ -59,6 +59,7 @@ Pre-mortems, boundary conditions, reversibility, and feedback.
 - [[The Effective Decision Process]]
 - [[The Pre-Mortem - Imagine Failure Before It Happens]]
 - [[Three Odyssey Plans - Parallel Futures Before Commitment]]
+- [[Trust Your Second Voice - Energy Is the Language of Your Soul]]
 - [[When a Partnership Makes Sense - The Five Things a Partner Must Bring]]
 - [[用數學做決策：損益表、PDCA與預測降低不確定性]]
 - [[賽道選擇的兩個模型：Ikigai與市場五要素]]

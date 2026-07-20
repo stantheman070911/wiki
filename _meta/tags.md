@@ -187,6 +187,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - person/gabriel-weinberg
 - person/gary-vaynerchuk
 - person/grace-andrews
+- person/graham-weaver
 - person/greg-lavecchia
 - person/james-dale-davidson
 - person/jeff-cox
