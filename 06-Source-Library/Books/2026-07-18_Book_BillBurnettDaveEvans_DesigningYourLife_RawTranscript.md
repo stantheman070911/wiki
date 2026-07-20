@@ -3058,7 +3058,6 @@ Questions
 3. “Will I be able to raise venture capital money?”
 OceanofPDF.com
 
-[Embedded visual 1 on PDF page 104 (546x305 px). OCR-readable text: 2—~ 3 4 : / ‘ ie se sd ep ee EN 0 / emma YEkeeo|—F i aoroees aS / (ape Obes s slog? . / Emit) JN che guge = / ee es a ee Can / - \ atte | = epee ‘sz | / ‘Atematve Pian #L_ jicid=rle ca voy Sey / aC HES. / C9 CaP) AE]
 
 
 
@@ -3085,10 +3084,6 @@ Questions:
 OceanofPDF.com
 
 [Embedded visual 1 on PDF page 106 (546x302 px). OCR-readable text: 9 1 sma >) xp lneet P / jelly, | rawnary mee: ers Ca / aeen Caf ae pace pee / ( Ls cance pea ee me / Born eo See ROREATS or, 28 / Alternative Pan #22 = PPG coisiaRTY “10K Vr ATINE!]
-
-
-
-[Embedded visual 1 on PDF page 107 (546x780 px). OCR-readable text: a hs nd ud od ly / Alternative Plan #__ word tile / Alternative Plan #__ | | Te: / Alternative Plan # LE ile]
 
 
 

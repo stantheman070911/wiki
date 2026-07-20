@@ -5830,8 +5830,8 @@ To my three daughters, Kenna, Elle, and Ava, because you rock.
 Stephanie Land, you’re a saint, and your work is unparalleled. You lived in
 my head for six months and came out unscathed; you are a true superhero.
 Thank you for pushing me, challenging me, and making sure I got it right.
-  #keenanpeeps, none of this happens without you. I can’t thank you guys
-enough. You guys motivate me. #keenanpeeps is unequivocally the greatest
+  keenanpeeps, none of this happens without you. I can’t thank you guys
+enough. You guys motivate me. keenanpeeps is unequivocally the greatest
 sales community on the web today. You guys are true badasses.
   To every buyer, prospect, and customer who said no, yes, or maybe. To
 every sales leader, sales person or direct report I’ve ever had, to every sales
