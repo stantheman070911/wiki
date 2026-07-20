@@ -34,6 +34,7 @@ Return to the PowerBook. Apple did not place an advertisement beside the product
 
 ## Relationships
 
+- **中文版：** [[為第二群觀眾設計]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]
 - **Derives from:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a Brand Signal|Absurdity as a Brand Signal]]
 - **Derives from:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/What a Brand Actually Is - Association, Influence, Direction, Reach|What a Brand Actually Is - Association, Influence, Direction, Reach]]

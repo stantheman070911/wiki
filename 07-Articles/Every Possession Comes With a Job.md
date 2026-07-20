@@ -32,6 +32,7 @@ Return to the piano. Its purchase price may be zero, but moving and tuning may n
 
 ## Relationships
 
+- **中文版：** [[每一件物品，都附帶一份差事]]
 - **Derives from:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time - Record, Eliminate, and Consolidate|Know Thy Time - Record, Eliminate, and Consolidate]]
 - **Derives from:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is Short - Ruthless Attention Allocation|Life Is Short - Ruthless Attention Allocation]]

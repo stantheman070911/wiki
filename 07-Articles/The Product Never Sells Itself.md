@@ -37,6 +37,7 @@ None of this diminishes the product. It relocates it. The best-*known* option wi
 
 ## Relationships
 
+- **中文版：** [[產品從來不會自己賣自己]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Distribution Is Destiny - The Sales Channel Power Law|Distribution Is Destiny - The Sales Channel Power Law]]
 - **Derives from:** [[01-Business-Strategy/Positioning-and-Branding/Distribution Beats Product - The Best-Known Wins, Not the Best|Distribution Beats Product - The Best-Known Wins, Not the Best]]
 - **Derives from:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The 50 Percent Rule - Build Product and Traction in Parallel|The 50 Percent Rule - Build Product and Traction in Parallel]]

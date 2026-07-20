@@ -35,6 +35,7 @@ So the next time you are unsure whether to trust someone, replace the character 
 
 ## Relationships
 
+- **中文版：** [[信任應該有信用額度]]
 - **Derives from:** [[01-Business-Strategy/Traffic-and-Acquisition/Centers of Influence - Selling Through Trusted Referrers|Centers of Influence - Selling Through Trusted Referrers]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Selling Upmarket - Contextual Adjacency and Land-and-Expand|Selling Upmarket - Contextual Adjacency and Land-and-Expand]]
 - **Derives from:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
