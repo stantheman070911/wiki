@@ -9,6 +9,7 @@ Outward-facing essays synthesized from multiple entries. Belongs here: finished 
 
 Add a line here when publishing a new article (newest first).
 
+- [[07-Articles/Fear the Right Loss|Fear the Right Loss]]
 - [[07-Articles/Clarity Is an Outside Job|Clarity Is an Outside Job]] · [[07-Articles/清楚，是一份對外的工作|中文版]]
 - [[07-Articles/The Product Never Sells Itself|The Product Never Sells Itself]] · [[07-Articles/產品從來不會自己賣自己|中文版]]
 - [[07-Articles/Good Ideas Aren't Hidden, They're Avoided|Good Ideas Aren't Hidden, They're Avoided]] · [[07-Articles/好點子不是沒被發現，而是被避開了|中文版]]
