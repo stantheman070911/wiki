@@ -5,55 +5,48 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"01-Business-Strategy\"",
+      "query": "path:01-Business-Strategy  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14048348
       }
     },
     {
-      "query": "path:\"02-Social-Media-Strategy\"",
+      "query": "path:02-Social-Media-Strategy  ",
       "color": {
         "a": 1,
-        "rgb": 4886754
+        "rgb": 14069084
       }
     },
     {
-      "query": "path:\"03-Tactics-and-Playbooks\"",
+      "query": "path:03-Tactics-and-Playbooks  ",
       "color": {
         "a": 1,
-        "rgb": 16753920
+        "rgb": 11392604
       }
     },
     {
-      "query": "path:\"04-Frameworks-and-Mental-Models\"",
+      "query": "path:04-Frameworks-and-Mental-Models  ",
       "color": {
         "a": 1,
-        "rgb": 10181046
+        "rgb": 6084188
       }
     },
     {
-      "query": "path:\"05-Intelligence-and-Research\"",
+      "query": "path:05-Intelligence-and-Research  ",
       "color": {
         "a": 1,
-        "rgb": 2924588
+        "rgb": 6084269
       }
     },
     {
-      "query": "path:\"07-Articles\"",
+      "query": "path:07-Articles  ",
       "color": {
         "a": 1,
-        "rgb": 16737095
-      }
-    },
-    {
-      "query": "path:\"Reports\"",
-      "color": {
-        "a": 1,
-        "rgb": 13281708
+        "rgb": 6073814
       }
     }
   ],
@@ -67,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.26070463291375734,
+  "scale": 0.3048190951102781,
   "close": true
 }
