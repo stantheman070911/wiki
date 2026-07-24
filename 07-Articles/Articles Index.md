@@ -9,6 +9,7 @@ Outward-facing essays synthesized from multiple entries. Belongs here: finished 
 
 Add a line here when publishing a new article (newest first).
 
+- [[07-Articles/Absorb the Altitude, Not the Answers|Absorb the Altitude, Not the Answers]]
 - [[07-Articles/No One Gets Fired for a Solution|No One Gets Fired for a Solution]]
 - [[07-Articles/Fear the Right Loss|Fear the Right Loss]]
 - [[07-Articles/Clarity Is an Outside Job|Clarity Is an Outside Job]] · [[07-Articles/清楚，是一份對外的工作|中文版]]
