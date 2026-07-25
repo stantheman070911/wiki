@@ -30,6 +30,7 @@ Believability, track records, independent thinking, and triangulation.
 - [[Independent-Mindedness - Separate Truth from Identity and Conformism]]
 - [[Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]]
 - [[Recognize How to Get Beyond Disagreements]]
+- [[Timeless and Universal - Pressure-Test Your Principles Against All History and Every Country]]
 
 ### Risk
 
@@ -76,6 +77,7 @@ Lindy effects, repeated exposure, and long-term consequences.
 - [[The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats]]
 - [[The Lindy Effect - Time as a Filter for Robust Ideas and Practices]]
 - [[Three Odyssey Plans - Parallel Futures Before Commitment]]
+- [[Timeless and Universal - Pressure-Test Your Principles Against All History and Every Country]]
 - [[選擇、承諾與人生取捨]]
 
 ### Strategic change
