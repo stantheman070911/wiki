@@ -14,7 +14,7 @@ Business models, growth strategy, pricing, operations, negotiation, hiring, fina
 
 Belongs here: markets, business models, positioning, pricing, growth, org strategy, and unit economics. Does not belong here: pure execution checklists, raw research clippings, or platform-specific content tactics unless they directly change the business model.
 
-*Full placement rules are canonical in [[Vault Conventions#Placement rules (canonical)]].*
+*Full placement rules are canonical in [[Vault Conventions#Placement]].*
 
 ## Start here
 

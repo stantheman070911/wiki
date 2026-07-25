@@ -75,6 +75,7 @@ AMA 3 generalizes the offer design into three value vectors. A home-service comp
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold Traffic Before the Core Offer|The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Virtuous Cycle of Price - Why Premium Pricing Serves Customers Better|The Virtuous Cycle of Price - Why Premium Pricing Serves Customers Better]]
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/情緒價值與功能性價值：跳脫價格戰的定位框架|情緒價值與功能性價值：跳脫價格戰的定位框架]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Pattern Disruption - Win Attention With a 10 Percent Difference|Pattern Disruption - Win Attention With a 10 Percent Difference]]
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

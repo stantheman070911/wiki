@@ -13,6 +13,8 @@ updated: 2026-07-20
 
 # The Talent Business - Back High-Attribute People and Let Them Follow Their Energy
 
+> **Up:** [[Home|Home]] → [[01-Business-Strategy/Business Strategy Index|Business Strategy]] → [[01-Business-Strategy/Business-Models-and-Customers/Business Models and Customers Map|Business Models and Customers]]
+
 ## One-line summary
 The most powerful business formula is a high-attribute person doing something that genuinely lights them up over a long period — so the highest-leverage move is to back such people and give them permission to follow their own energy.
 

@@ -64,6 +64,7 @@ Musk's "biggest epiphany" building Tesla was that competitive advantage lives in
 - **Related:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-4-商品規劃與獲利結構|連鎖經營學 · Module 4：商品規劃與獲利結構]]
 - **Related:** [[01-Business-Strategy/連鎖經營學-陳宗賢/Module-6-物流與供應鏈周轉|連鎖經營學 · Module 6：物流管理與供應鏈周轉]]
 - **Related:** [[01-Business-Strategy/連鎖經營學-陳宗賢/連鎖經營學總覽|連鎖經營學 · 總覽與方法論]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Build for the Height - Time Horizon Sets the Foundation|Build for the Height - Time Horizon Sets the Foundation]]
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_EricJorgenson_TheBookOfElon|The Book Of Elon]]

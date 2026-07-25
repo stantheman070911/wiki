@@ -14,7 +14,7 @@ Reusable thinking tools: mental models, decision frameworks, and named principle
 
 Belongs here: reusable decision tools and cross-domain thinking models. Does not belong here: one-off examples, source summaries, or tactical workflows unless the entry abstracts them into a reusable model.
 
-*Full placement rules are canonical in [[Vault Conventions#Placement rules (canonical)]].*
+*Full placement rules are canonical in [[Vault Conventions#Placement]].*
 
 ## Start here
 

@@ -87,6 +87,7 @@ You can only be canceled if *all* means of communicating with an audience are re
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections|Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a Brand Signal|Absurdity as a Brand Signal]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/H2H Marketing - Human-Centered Service, Trust, and Co-Creation|H2H Marketing - Human-Centered Service, Trust, and Co-Creation]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Pattern Disruption - Win Attention With a 10 Percent Difference|Pattern Disruption - Win Attention With a 10 Percent Difference]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Psychological Moonshots - Improve Perception Before Reality|Psychological Moonshots - Improve Perception Before Reality]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension Trap - Why One Name Can't Own Two Things|The Line-Extension Trap - Why One Name Can't Own Two Things]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Seven Principles of Building an Iconic Brand|The Seven Principles of Building an Iconic Brand]]

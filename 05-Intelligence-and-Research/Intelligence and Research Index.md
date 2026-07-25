@@ -14,7 +14,7 @@ Market intelligence, competitor analysis, research findings, and notable real-wo
 
 Belongs here: observations, research, forecasts, examples, and cases not yet generalized. Does not belong here: evergreen frameworks, finished playbooks, or raw source archives.
 
-*Full placement rules are canonical in [[Vault Conventions#Placement rules (canonical)]].*
+*Full placement rules are canonical in [[Vault Conventions#Placement]].*
 
 ## Start here
 

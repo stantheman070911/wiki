@@ -13,7 +13,7 @@ updated: 2026-07-20
 
 # The Four Vectors of Mental Toughness
 
-> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life Leadership and Wellbeing]]
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
 
 ## One-line summary
 Mental toughness isn't one trait but four measurable responses to a bad event — how much you can take before your behavior changes, how far you fall, how fast you recover, and whether you come back better — and the operating rule underneath all four is that emotional discomfort is not, by itself, an adequate reason to change what you're doing.

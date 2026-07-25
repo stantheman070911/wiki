@@ -12,6 +12,8 @@ updated: 2026-07-20
 
 # Life Is an Internal Game Played in an External Arena
 
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
+
 ## One-line summary
 You are always playing two games at once — an external game of achievements and an internal game of your relationship with yourself — and almost all of your joy comes from the one most people ignore.
 

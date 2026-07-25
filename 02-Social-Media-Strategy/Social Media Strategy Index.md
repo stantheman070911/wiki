@@ -14,7 +14,7 @@ Platform-specific strategy, content strategy, audience growth, algorithms, distr
 
 Belongs here: platforms, audience growth, distribution, creator positioning, and content strategy. Does not belong here: generic business strategy, raw source notes, or execution checklists that should live as playbooks.
 
-*Full placement rules are canonical in [[Vault Conventions#Placement rules (canonical)]].*
+*Full placement rules are canonical in [[Vault Conventions#Placement]].*
 
 ## Start here
 

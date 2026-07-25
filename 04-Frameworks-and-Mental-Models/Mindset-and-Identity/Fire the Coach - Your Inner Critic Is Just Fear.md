@@ -13,6 +13,8 @@ updated: 2026-07-20
 
 # Fire the Coach - Your Inner Critic Is Just Fear
 
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Mindset and Identity Map|Mindset and Identity]]
+
 ## One-line summary
 The harsh inner voice you think drives you is not a coach — it's your fear, incarnate; it produces nothing of value and it poisons everyone who depends on you, so the most loving thing you can do is fire it.
 

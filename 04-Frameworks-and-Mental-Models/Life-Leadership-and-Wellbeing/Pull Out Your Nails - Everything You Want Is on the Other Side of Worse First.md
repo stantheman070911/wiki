@@ -12,6 +12,8 @@ updated: 2026-07-20
 
 # Pull Out Your Nails - Everything You Want Is on the Other Side of Worse First
 
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Leadership and Wellbeing Map|Life, Leadership, and Wellbeing]]
+
 ## One-line summary
 The thing you're avoiding — the "nail in your head" — defines your life for as long as you leave it in, and the only reason you don't pull it out is that doing so makes things worse before they get better.
 

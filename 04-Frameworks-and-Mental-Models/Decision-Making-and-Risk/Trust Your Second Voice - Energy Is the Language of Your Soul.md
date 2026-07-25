@@ -12,6 +12,8 @@ updated: 2026-07-20
 
 # Trust Your Second Voice - Energy Is the Language of Your Soul
 
+> **Up:** [[Home|Home]] → [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|Frameworks and Mental Models]] → [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decision Making and Risk Map|Decision Making and Risk]]
+
 ## One-line summary
 Beneath the voice of fear is a second voice — intuition — that speaks not in words but in energy, and most "hard decisions" aren't unclear at all; you already know the answer and are just negotiating with your fear.
 

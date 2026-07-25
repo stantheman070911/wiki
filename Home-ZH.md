@@ -23,8 +23,10 @@ lang: zh
 - [[03-Tactics-and-Playbooks/Tactics and Playbooks Index|戰術與執行手冊]] — 可重複執行的流程、清單與操作方法
 - [[04-Frameworks-and-Mental-Models/Frameworks and Mental Models Index|框架與心智模型]] — 可跨情境重複使用的思考與決策模型
 - [[05-Intelligence-and-Research/Intelligence and Research Index|情報與研究]] — 觀察、案例、預測與尚未一般化的研究
+- [[06-Source-Library/Source Library Index|來源庫]] — 依來源類型封存的原始材料
 - [[07-Articles/Articles Index|文章]] — 由多個條目綜合而成的對外文章
 - [[Reports/Reports Index|報告]] — 由知識庫產生的日期化綜合分析
+- [[_Inbox/Inbox Index|收件匣]] — 尚未分類處理的材料
 
 ## 主要系列
 

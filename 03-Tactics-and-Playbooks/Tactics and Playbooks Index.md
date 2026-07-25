@@ -14,7 +14,7 @@ Step-by-step, repeatable how-tos and checklists for recurring, concrete tasks.
 
 Belongs here: repeatable execution steps, checklists, workflows, and operating procedures. Does not belong here: broad strategic principles, abstract mental models, or raw research that has not been converted into action.
 
-*Full placement rules are canonical in [[Vault Conventions#Placement rules (canonical)]].*
+*Full placement rules are canonical in [[Vault Conventions#Placement]].*
 
 ## Start here
 
