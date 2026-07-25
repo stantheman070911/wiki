@@ -9,6 +9,7 @@ Outward-facing essays synthesized from multiple entries. Belongs here: finished 
 
 Add a line here when publishing a new article (newest first).
 
+- [[07-Articles/The Missing Second Commitment|The Missing Second Commitment]]
 - [[07-Articles/Quit the Plan, Not the Question|Quit the Plan, Not the Question]]
 - [[07-Articles/You Are the Guide, Not the Hero|You Are the Guide, Not the Hero]]
 - [[07-Articles/Absorb the Altitude, Not the Answers|Absorb the Altitude, Not the Answers]]
