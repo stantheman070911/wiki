@@ -57,6 +57,7 @@ In Haiti, a family faced a $150,000 ransom demand. By learning that the kidnappe
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Black Swans - Find Unknown Unknowns and Hidden Leverage|Black Swans - Find Unknown Unknowns and Hidden Leverage]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Practical Value - The Psychology of Deals and the Rule of 100|Practical Value - The Psychology of Deals and the Rule of 100]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and Urgency - Engineering Demand with Supply and Deadlines|Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Heuristics and Biases - Substitution, Anchoring, Availability, and Base-Rate Neglect|Heuristics and Biases]] — the experimental base for these anchoring tactics, and how large the effect actually is.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapter 6

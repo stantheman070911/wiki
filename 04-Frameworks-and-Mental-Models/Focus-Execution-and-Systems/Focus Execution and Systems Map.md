@@ -17,6 +17,7 @@ Use this map for constraints, prioritization, operating systems, experimentation
 - [[The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]] — focus before novelty
 - [[Contribution Before Activity - Define Results and Make Knowledge Usable]] — results over motion
 - [[Out-Fail the Competition - Building an Experimentation System]] — disciplined learning loops
+- [[The Six Key Components - EOS's Model of a Whole Business]] — locate which part of the business is actually weak
 
 ## Conceptual clusters
 
@@ -57,6 +58,8 @@ Goals, diagnosis, accountability, and feedback.
 - [[The Breakfast Factory - Limiting Steps, WIP, and Capacity]]
 - [[The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician]]
 - [[The Effective Executive - Five Learnable Practices]]
+- [[The Six Key Components - EOS's Model of a Whole Business]]
+- [[The V-TO - Eight Questions That Turn a Vision Into a Plan|The V/TO - Eight Questions That Turn a Vision Into a Plan]]
 
 ### Experimentation
 

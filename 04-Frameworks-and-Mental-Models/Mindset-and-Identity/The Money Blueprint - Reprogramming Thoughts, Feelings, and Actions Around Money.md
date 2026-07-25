@@ -61,6 +61,7 @@ Eker frames wealth as having both an "outer game" (business knowledge, investing
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money Well - The Habit Matters More Than the Amount|Manage Your Money Well - The Habit Matters More Than the Amount]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs. Playing Not to Lose|Playing to Win vs. Playing Not to Lose]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think 'Both' vs. Think 'Either-Or' - Abundance Over Scarcity|Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity]]
+- **Contrast:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Wealth Is What You Don't See - Enough, Freedom, and the Man in the Car Paradox|Wealth Is What You Don't See]] — the counterpart: the psychology of not spending, and why wealthy people are structurally hard to learn from.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

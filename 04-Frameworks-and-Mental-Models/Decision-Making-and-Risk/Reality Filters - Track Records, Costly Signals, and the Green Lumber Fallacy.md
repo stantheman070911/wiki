@@ -63,6 +63,7 @@ Taleb's surgeon who looks like a butcher may be the stronger choice because a su
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the Game - Aligning Upside, Downside, and Accountability|Skin in the Game - Aligning Upside, Downside, and Accountability]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Lindy Effect - Time as a Filter for Robust Ideas and Practices|The Lindy Effect - Time as a Filter for Robust Ideas and Practices]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Contribution Before Activity - Define Results and Make Knowledge Usable|Contribution Before Activity - Define Results and Make Knowledge Usable]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/System 1 and System 2 - The Two-Character Model of Judgment|System 1 and System 2]] — Kahneman reaches the same conclusion from the lab: confidence is a coherence signal, which is why track records beat explanations.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript|Skin in the Game - Raw Transcript]]

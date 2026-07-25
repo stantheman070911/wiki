@@ -61,6 +61,7 @@ Priestley contrasts a costly property producing modest rent with a much smaller 
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)|The 5-Step Process - Goals, Problems, Diagnosis, Design, and Doing (Dalio)]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary Aim and Strategic Objective - Make the Business Serve the Life|Primary Aim and Strategic Objective - Make the Business Serve the Life]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **Contrast:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Six Key Components - EOS's Model of a Whole Business|The Six Key Components]] — a competing whole-business operating model; compare which unit each treats as primitive.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_FiveAGoalSettingFramework_RawTranscript|Five-A Goal-Setting Framework - Raw Transcript]]

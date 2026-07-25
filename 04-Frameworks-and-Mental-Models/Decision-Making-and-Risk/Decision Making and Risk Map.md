@@ -17,6 +17,7 @@ Use this map for judgment, uncertainty, evidence, asymmetric bets, and survival.
 - [[Fear, Regret, and Asymmetric Bets]] — separate emotion from payoff structure
 - [[Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]] — survival as the first constraint
 - [[The Pre-Mortem - Imagine Failure Before It Happens]] — expose failure modes before commitment
+- [[System 1 and System 2 - The Two-Character Model of Judgment]] — why confident judgment is a coherence signal, not an accuracy signal
 
 ## Conceptual clusters
 
@@ -28,8 +29,10 @@ Believability, track records, independent thinking, and triangulation.
 - [[Believability-Weight Your Decision Making]]
 - [[First-Principles Thinking - Reason from Physics, Not Analogy]]
 - [[Independent-Mindedness - Separate Truth from Identity and Conformism]]
+- [[Heuristics and Biases - Substitution, Anchoring, Availability, and Base-Rate Neglect]]
 - [[Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]]
 - [[Recognize How to Get Beyond Disagreements]]
+- [[System 1 and System 2 - The Two-Character Model of Judgment]]
 - [[Timeless and Universal - Pressure-Test Your Principles Against All History and Every Country]]
 
 ### Risk
@@ -37,7 +40,9 @@ Believability, track records, independent thinking, and triangulation.
 Ruin, optionality, asymmetric bets, and skin in the game.
 
 - [[Fear, Regret, and Asymmetric Bets]]
+- [[Getting Wealthy vs. Staying Wealthy - Survival, Room for Error, and Tails]]
 - [[Increase the Surface Area of Luck]]
+- [[Prospect Theory - Reference Points, Loss Aversion, and the Fourfold Pattern]]
 - [[Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
 - [[Skin in the Game - Aligning Upside, Downside, and Accountability]]
 - [[The Power Law of Venture Capital and Careers]]
@@ -59,6 +64,7 @@ Pre-mortems, boundary conditions, reversibility, and feedback.
 - [[Reframe Gravity Problems into Actionable Problems]]
 - [[Solve the Problem You Have, Not the One You're Afraid Of]]
 - [[The Effective Decision Process]]
+- [[The Outside View - Reference Classes Against the Planning Fallacy]]
 - [[The Pre-Mortem - Imagine Failure Before It Happens]]
 - [[Three Odyssey Plans - Parallel Futures Before Commitment]]
 - [[Trust Your Second Voice - Energy Is the Language of Your Soul]]
@@ -73,6 +79,7 @@ Lindy effects, repeated exposure, and long-term consequences.
 
 - [[Choosing Well - Narrow, Decide, Let Go, and Move On]]
 - [[Focus Questions - Formation Beyond Problem Solving]]
+- [[Getting Wealthy vs. Staying Wealthy - Survival, Room for Error, and Tails]]
 - [[Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
 - [[The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats]]
 - [[The Lindy Effect - Time as a Filter for Robust Ideas and Practices]]

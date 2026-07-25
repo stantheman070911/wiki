@@ -51,6 +51,7 @@ Use this map for diagnosing operating problems, managing flow and constraints, s
 - [[Don't Overlook Governance]]
 - [[Manage as Someone Operating a Machine to Achieve a Goal]]
 - [[Meetings as Managerial Production]]
+- [[The Level 10 Meeting - A Weekly Pulse of Scorecard, Rocks, and IDS]]
 - [[The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
 - [[The Perfect Repeatable Week - Designing a Predictable Business Rhythm]]
 

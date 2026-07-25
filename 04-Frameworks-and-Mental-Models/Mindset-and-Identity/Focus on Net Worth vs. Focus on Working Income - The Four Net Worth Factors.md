@@ -39,6 +39,7 @@ Wealth File #13. Eker points out that income alone reliably fails to create weal
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money Well - The Habit Matters More Than the Amount|Manage Your Money Well - The Habit Matters More Than the Amount]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Paid on Results vs. Paid on Time|Paid on Results vs. Paid on Time]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think Small - The Law of Income|Think Big vs. Think Small - The Law of Income]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Wealth Is What You Don't See - Enough, Freedom, and the Man in the Car Paradox|Wealth Is What You Don't See]] — rich (current income) versus wealthy (income not spent), stated as a definition rather than a measurement choice.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

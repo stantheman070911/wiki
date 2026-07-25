@@ -61,6 +61,7 @@ Annual strategic direction and shorter operational cycles can run in parallel wh
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/CFRs - Continuous Conversations, Feedback, and Recognition|CFRs - Continuous Conversations, Feedback, and Recognition]]
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth Sprints - Analyze, Ask, and Act|Triple-A Growth Sprints - Analyze, Ask, and Act]]
+- **Contrast:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Level 10 Meeting - A Weekly Pulse of Scorecard, Rocks, and IDS|The Level 10 Meeting]] — the same quarterly rhythm with binary Rocks in place of graded key results.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_JohnDoerr_MeasureWhatMatters_RawTranscript|Measure What Matters]]

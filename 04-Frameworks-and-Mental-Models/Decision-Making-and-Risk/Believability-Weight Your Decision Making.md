@@ -59,6 +59,7 @@ Fifth chapter of Work Principles; supplies the third leg of Dalio's master formu
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in Radical Truth and Radical Transparency|Trust in Radical Truth and Radical Transparency]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Black Swans - Find Unknown Unknowns and Hidden Leverage|Black Swans - Find Unknown Unknowns and Hidden Leverage]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open|Start With Agreement - Keep the Other Mind Open]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/System 1 and System 2 - The Two-Character Model of Judgment|System 1 and System 2]] — why felt confidence is a bad proxy for believability and has to be replaced by a demonstrated record.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 5

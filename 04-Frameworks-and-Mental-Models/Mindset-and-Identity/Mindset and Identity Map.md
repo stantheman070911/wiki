@@ -84,6 +84,7 @@ Earning, receiving, wealth, risk, and self-promotion.
 - [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 - [[Think 'Both' vs. Think 'Either-Or' - Abundance Over Scarcity]]
 - [[Think Big vs. Think Small - The Law of Income]]
+- [[Wealth Is What You Don't See - Enough, Freedom, and the Man in the Car Paradox]]
 - [[Willing to Self-Promote vs. Averse to Selling]]
 
 ### Creative identity

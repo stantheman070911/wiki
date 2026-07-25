@@ -65,6 +65,7 @@ Collins extends the rule into three people disciplines:
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Hire Right, Because the Penalties for Hiring Wrong Are Huge|Hire Right, Because the Penalties for Hiring Wrong Are Huge]]
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design Jobs Around Exceptional Contribution|Staff for Strength - Design Jobs Around Exceptional Contribution]]
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Don't Overlook Governance|Don't Overlook Governance]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Right People, Right Seats - The Accountability Chart and GWC|Right People, Right Seats]] — the same claim split into two testable halves — values fit and seat fit — with the GWC filter.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 7

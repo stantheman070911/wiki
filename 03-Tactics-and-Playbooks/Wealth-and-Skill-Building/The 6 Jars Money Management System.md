@@ -49,6 +49,7 @@ This is the concrete allocation system Eker teaches inside Wealth File #14 ("Ric
 - **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Have Money Work Hard for You vs. Working Hard for Your Money|Have Money Work Hard for You vs. Working Hard for Your Money]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money Well - The Habit Matters More Than the Amount|Manage Your Money Well - The Habit Matters More Than the Amount]]
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - Defense-Before-Offense Playbook|The First 100k - Defense-Before-Offense Playbook]]
+- **Prerequisite:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Your Savings Rate Is the Variable You Control - Efficiency Over Returns|Your Savings Rate Is the Variable You Control]] — the rate matters more than the allocation; this system distributes what that rate produces.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

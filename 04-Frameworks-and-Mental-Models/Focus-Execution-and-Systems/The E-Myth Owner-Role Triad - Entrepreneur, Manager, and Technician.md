@@ -58,6 +58,7 @@ Gerber’s running example is Sarah, an excellent pie baker whose love of the cr
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time|You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone Operating a Machine to Achieve a Goal|Manage as Someone Operating a Machine to Achieve a Goal]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Six Key Components - EOS's Model of a Whole Business|The Six Key Components]] — EOS turns "work on the business, not in it" into six diagnosable components; Wickman cites Gerber directly.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_MichaelEGerber_TheEMythRevisited_RawTranscript|The E-Myth Revisited - Raw Transcript]] — locator: chapters 1–3 and 6

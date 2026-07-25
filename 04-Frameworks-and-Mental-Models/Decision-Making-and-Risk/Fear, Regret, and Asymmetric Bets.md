@@ -72,6 +72,7 @@ Source for this section: *Alex Hormozi Answers Your Questions (Ask Me Anything)*
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80% Mindset - Risk Tolerance and Refusing to Quit|Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain|Hardship as Origin Story - Heroes Use Pain]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle|The Reference Group and Re-engineering Your Circle]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Prospect Theory - Reference Points, Loss Aversion, and the Fourfold Pattern|Prospect Theory]] — the measured asymmetry — losses weighted about twice as heavily as gains — and the fourfold pattern it produces.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]

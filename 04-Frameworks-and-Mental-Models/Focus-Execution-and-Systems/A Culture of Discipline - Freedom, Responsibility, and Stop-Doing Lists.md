@@ -67,6 +67,7 @@ Abbott used responsibility accounting to assign every meaningful cost, investmen
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Flywheel and the Doom Loop - Compound Momentum in One Direction|The Flywheel and the Doom Loop - Compound Momentum in One Direction]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Hybrid Organizations and Dual Reporting|Hybrid Organizations and Dual Reporting]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is Short - Ruthless Attention Allocation|Life Is Short - Ruthless Attention Allocation]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The V-TO - Eight Questions That Turn a Vision Into a Plan|The V/TO]] — Wickman's core focus is the hedgehog concept reduced to a two-question exercise.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript|Good to Great - Raw Transcript]] — locator: chapter 6

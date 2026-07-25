@@ -26,9 +26,11 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - topic/chain-store
 - topic/channel-strategy
 - topic/churn
+- topic/cognitive-bias
 - topic/commitment
 - topic/compensation
 - topic/competition
+- topic/compounding
 - topic/consistency
 - topic/content-formats
 - topic/content-pillars
@@ -55,6 +57,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - topic/feedback
 - topic/first-100k
 - topic/focus
+- topic/forecasting
 - topic/founder-brand
 - topic/franchise
 - topic/front-end-offer
@@ -179,6 +182,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - person/chen-tsung-hsien
 - person/chen-xiuping
 - person/chris-voss
+- person/daniel-kahneman
 - person/daniel-priestley
 - person/dave-evans
 - person/donald-miller
@@ -186,6 +190,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - person/elon-musk
 - person/gabriel-weinberg
 - person/gary-vaynerchuk
+- person/gino-wickman
 - person/grace-andrews
 - person/graham-weaver
 - person/greg-lavecchia
@@ -202,6 +207,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - person/matt-gray
 - person/matthew-dixon
 - person/michael-gerber
+- person/morgan-housel
 - person/napoleon-hill
 - person/nassim-nicholas-taleb
 - person/natalie-barbou
@@ -264,11 +270,14 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - source/skin-in-the-game
 - source/the-challenger-sale
 - source/the-goal
+- source/the-psychology-of-money
 - source/the-sovereign-individual
 - source/the-spin-selling-fieldbook
 - source/think-and-grow-rich
+- source/thinking-fast-and-slow
 - source/this-is-marketing
 - source/traction
+- source/traction-eos
 
 ## Boundaries
 
@@ -279,4 +288,7 @@ Disambiguation notes for overlapping terms:
 - `topic/owned-audience` is any directly reachable audience asset; `topic/private-domain` is the Chinese private-traffic operating model and is narrower.
 - `topic/short-form-video` is the cross-platform format; platform tags such as `topic/tiktok` are used only when platform mechanics matter.
 - `topic/leadership` concerns direction and influence; `topic/management` concerns planning and control; `topic/org-design` concerns roles, structure, decision rights, and coordination.
+- `topic/mental-models` is the general category of reusable thinking tools; `topic/cognitive-bias` is narrower — a documented, systematic error in human judgment.
+- `topic/forecasting` is predicting a future quantity or date; `topic/decision-making` is choosing among options. A planning estimate is forecasting; a go/no-go call is decision-making.
+- `source/traction` is Weinberg and Mares' *Traction* on customer-acquisition channels; `source/traction-eos` is Gino Wickman's *Traction*, the EOS operating system. Two unrelated books with the same title.
 - Use `person/` and `source/` tags only when that entity is part of the page provenance, not for people or brands mentioned merely as examples.

@@ -69,6 +69,7 @@ ask which one thing (market, skill, relationship, channel) is most likely to be 
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine - Why Computers Complement Humans Instead of Replacing Them|Man and Machine - Why Computers Complement Humans Instead of Replacing Them]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Definite vs. Indefinite Optimism - Planning Your Way to the Future|Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities|The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Getting Wealthy vs. Staying Wealthy - Survival, Room for Error, and Tails|Getting Wealthy vs. Staying Wealthy]] — the same tail distribution found inside public equities, art dealing, and film.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_PeterThiel_ZeroToOne|Zero to One]] — locator: ch. 7

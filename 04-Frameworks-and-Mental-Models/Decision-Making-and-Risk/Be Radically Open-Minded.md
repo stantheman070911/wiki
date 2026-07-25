@@ -67,6 +67,7 @@ Before committing to an important, uncertain decision, deliberately seek out peo
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula|Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt|Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That People Are Wired Very Differently|Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/System 1 and System 2 - The Two-Character Model of Judgment|System 1 and System 2]] — the machinery under closed-mindedness: your first impression feels right because the story is coherent, not because the evidence is good.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 3

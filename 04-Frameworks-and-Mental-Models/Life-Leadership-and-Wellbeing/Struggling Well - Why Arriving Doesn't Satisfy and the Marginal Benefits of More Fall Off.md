@@ -50,6 +50,7 @@ The closing chapter of Dalio's memoir, written at 67 after four decades of runni
 - **Contrast:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite Games - Winning by Emptying the Tank|Finite vs Infinite Games]] — a different reading of why the goal isn't the point.
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth]] — matching your life to your nature, stated as a selection rule.
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Maker Mix - Money, Impact, and Expression|The Maker Mix]].
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Wealth Is What You Don't See - Enough, Freedom, and the Man in the Car Paradox|Wealth Is What You Don't See]] — the goalpost problem and why the ceiling of social comparison can never be reached.
 
 ## Source reference
 

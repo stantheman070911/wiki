@@ -52,6 +52,7 @@ Eighth chapter of Work Principles, the first of the two "people" chapters that f
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More Important Than the WHAT|Remember That the WHO Is More Important Than the WHAT]]
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Staff for Strength - Design Jobs Around Exceptional Contribution|Staff for Strength - Design Jobs Around Exceptional Contribution]]
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/備忘錄文化與 A 級人才招募 playbook|備忘錄文化與 A 級人才招募 playbook]]
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Right People, Right Seats - The Accountability Chart and GWC|Right People, Right Seats]] — GWC as the pre-hire filter, and the two distinct ways a placement fails.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 8

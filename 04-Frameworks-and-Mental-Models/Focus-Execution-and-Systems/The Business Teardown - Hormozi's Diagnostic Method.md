@@ -112,6 +112,7 @@ The eight-item intake is the spine; below is the fuller question bank he draws f
 - **Related:** [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M Scaling Roadmap Overview]] — the stage-by-stage constraint map he references on-screen.
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Swamp - The Messy Middle and the 40-for-2 Management Trade|The Swamp - The Messy Middle]] — where over-expanded, spread-thin owners get stuck.
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win|CAC, LTV, and Payback Period]] — the economics the intake reads first.
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Six Key Components - EOS's Model of a Whole Business|The Six Key Components]] — an operations-side diagnostic to run alongside this growth-side teardown.
 
 ## Source reference
 

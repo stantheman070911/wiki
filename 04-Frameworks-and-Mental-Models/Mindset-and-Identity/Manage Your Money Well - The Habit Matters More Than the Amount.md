@@ -40,6 +40,7 @@ Wealth File #14. This is the mindset half of the file; the concrete money-manage
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Have Money Work Hard for You vs. Working Hard for Your Money|Have Money Work Hard for You vs. Working Hard for Your Money]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think 'Both' vs. Think 'Either-Or' - Abundance Over Scarcity|Think 'Both' vs. Think 'Either/Or' - Abundance Over Scarcity]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Your Savings Rate Is the Variable You Control - Efficiency Over Returns|Your Savings Rate Is the Variable You Control]] — Housel's version: savings is the gap between your ego and your income, so raise humility rather than income.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

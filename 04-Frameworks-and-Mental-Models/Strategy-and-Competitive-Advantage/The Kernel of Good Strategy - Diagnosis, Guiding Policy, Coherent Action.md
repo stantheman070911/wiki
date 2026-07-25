@@ -60,6 +60,7 @@ Test any strategy document by asking, for each element: is this a diagnosis, a p
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Proximate Objectives - Setting the Next Achievable Target|Proximate Objectives - Setting the Next Achievable Target]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategic Leverage - Anticipation, Pivot Points, Concentration|Strategic Leverage - Anticipation, Pivot Points, Concentration]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy as Design - Coordinating Actions Under Constraint|Strategy as Design - Coordinating Actions Under Constraint]]
+- **Contrast:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The V-TO - Eight Questions That Turn a Vision Into a Plan|The V/TO]] — a two-page vision template that is mostly goal-setting; bolt the kernel's diagnosis discipline onto it.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 5

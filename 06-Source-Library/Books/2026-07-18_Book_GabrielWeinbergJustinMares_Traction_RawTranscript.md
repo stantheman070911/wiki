@@ -8,6 +8,8 @@ published: "2015"
 archived: 2026-07-18
 ---
 
+*Weinberg and Mares on customer-acquisition channels (the Bullseye framework). Not to be confused with Gino Wickman's [[06-Source-Library/Books/2026-07-26_Book_GinoWickman_Traction|Traction: Get a Grip on Your Business]], the EOS operating-system book — two unrelated works with the same title. Tagged `source/traction`; Wickman's is `source/traction-eos`.*
+
 Traction
 
 Traction

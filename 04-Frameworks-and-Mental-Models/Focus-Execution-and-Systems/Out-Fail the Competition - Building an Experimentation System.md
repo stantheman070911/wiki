@@ -62,6 +62,7 @@ Booking.com built an experimentation platform and normalized thousands of concur
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed and Aspirational OKRs - Separate Reliability from Stretch|Committed and Aspirational OKRs - Separate Reliability from Stretch]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Innovation, Quantification, and Orchestration - The Business Development Loop|Innovation, Quantification, and Orchestration - The Business Development Loop]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Getting Wealthy vs. Staying Wealthy - Survival, Room for Error, and Tails|Getting Wealthy vs. Staying Wealthy]] — why a low hit rate is the expected state — Bezos on the Fire Phone, Hastings on cancel rates, Chris Rock in club sets.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 21

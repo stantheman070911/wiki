@@ -61,6 +61,7 @@ Priestley compares the model with a touring band: the show, pack-down, travel, s
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Know Thy Time - Record, Eliminate, and Consolidate|Know Thy Time - Record, Eliminate, and Consolidate]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Level 10 Meeting - A Weekly Pulse of Scorecard, Rocks, and IDS|The Level 10 Meeting]] — the weekly leadership block to anchor the rhythm around.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_SevenBoringHabitsForSevenFigureBusinesses_RawTranscript|Seven Boring Habits for Seven-Figure Businesses - Raw Transcript]]

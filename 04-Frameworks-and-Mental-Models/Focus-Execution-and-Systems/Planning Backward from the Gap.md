@@ -61,6 +61,7 @@ Grove distinguishes today's gap from today's decision: a car that has run out of
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical Path - Work Backward from a Traction Goal|Critical Path - Work Backward from a Traction Goal]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial Output and Leverage|Managerial Output and Leverage]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Breakfast Factory - Limiting Steps, WIP, and Capacity|The Breakfast Factory - Limiting Steps, WIP, and Capacity]]
+- **Prerequisite:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Outside View - Reference Classes Against the Planning Fallacy|The Outside View]] — set the baseline from a reference class first, or you plan backward from a best-case estimate.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript|High Output Management - Raw Transcript]] — locator: chapter 6

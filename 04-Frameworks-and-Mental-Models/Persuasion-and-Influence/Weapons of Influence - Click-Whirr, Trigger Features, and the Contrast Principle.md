@@ -66,6 +66,7 @@ Chapter 1's foundation for the whole of *Influence*. Because we're overloaded wi
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities|The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Triggers - Top of Mind, Tip of Tongue|Triggers - Top of Mind, Tip of Tongue]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Heuristics and Biases - Substitution, Anchoring, Availability, and Base-Rate Neglect|Heuristics and Biases]] — the contrast principle measured — anchoring indices of 30–55%, including with demonstrably random anchors.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion|Influence Psychology Of Persuasion]] — locator: ch. 1

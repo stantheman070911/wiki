@@ -58,6 +58,7 @@ Closes out Dalio's Life Principles by turning the preceding chapters (reality, t
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine - Why Computers Complement Humans Instead of Replacing Them|Man and Machine - Why Computers Complement Humans Instead of Replacing Them]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Effective Decision Process|The Effective Decision Process - Principles, Boundary Conditions, Action, and Feedback]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/用數學做決策：損益表、PDCA與預測降低不確定性|用數學做決策：損益表、PDCA與預測降低不確定性]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Heuristics and Biases - Substitution, Anchoring, Availability, and Base-Rate Neglect|Heuristics and Biases]] — the systematic errors that expected-value discipline exists to displace.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 5
