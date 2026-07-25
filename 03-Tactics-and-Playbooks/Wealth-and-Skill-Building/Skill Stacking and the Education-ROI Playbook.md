@@ -64,6 +64,7 @@ Hormozi's core allocation rule for the early years: put savings into yourself, n
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The Entrepreneur Apprenticeship|The Entrepreneur Apprenticeship - Commercial Awareness and 90-Day Side-Hustle Tests]]
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - Defense-Before-Offense Playbook|The First 100k - Defense-Before-Offense Playbook]]
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The Complete Six-Step Roadmap|The First $100k - The Complete Six-Step Roadmap]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Specialized Knowledge - Power Is Knowledge Organized and Directed|Specialized Knowledge - Power Is Knowledge Organized and Directed]] — the acquire-vs-ally decision that sits above any stacking plan.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]

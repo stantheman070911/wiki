@@ -71,6 +71,7 @@ The book's most personal chapter turns the doctrine inward. The same rules that 
 - **Applies:** [[02-Social-Media-Strategy/Personal-Brand Positioning and the No-Competition Model|Personal-Brand Positioning and the No-Competition Model]]
 - **Applies:** [[02-Social-Media-Strategy/The Personal-Brand House - Foundation, Interior, Exterior|The Personal-Brand House - Foundation, Interior, Exterior]]
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and the Education-ROI Playbook|Skill Stacking and the Education-ROI Playbook]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Marketing Personal Services - QQS, the Written Brief, and the Capital Value of Brains|Marketing Personal Services - QQS, the Written Brief, and the Capital Value of Brains]] — how to present yourself once you've chosen the horse.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_RiesTrout_Positioning|Positioning]] — locator: ch. 23–25

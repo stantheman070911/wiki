@@ -60,6 +60,7 @@ Before leaving Apple, Bill Burnett spent months arranging promotions for two des
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good Enough for Now - Acceptance Without Settling|Good Enough for Now - Acceptance Without Settling]]
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Don't Resign, Redesign - Four Ways to Change Work in Place|Don't Resign, Redesign - Four Ways to Change Work in Place]]
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Prototype Before You Pivot - Life Design Interviews and Experiences|Prototype Before You Pivot - Life Design Interviews and Experiences]]
+- **Contrast:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Persistence as a Trained Habit - Eight Causes, Sixteen Symptoms, Four Steps|Persistence as a Trained Habit]] — Hill's case for never quitting; hold both, because he offers no test for when stopping is right.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourNewWorkLife_RawTranscript|Designing Your New Work Life - Raw Transcript]]

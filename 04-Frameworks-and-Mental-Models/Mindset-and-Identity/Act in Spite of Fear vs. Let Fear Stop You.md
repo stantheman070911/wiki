@@ -41,6 +41,7 @@ Wealth File #16. Eker returns to the Process of Manifestation (thoughts→feelin
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting|Committed to Rich vs. Wanting to Be Rich - The Three Levels of Wanting]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim|Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Six Basic Fears and Susceptibility to Negative Influence|The Six Basic Fears and Susceptibility to Negative Influence]] — the diagnostic half: which fear is actually operating, read from behaviour.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

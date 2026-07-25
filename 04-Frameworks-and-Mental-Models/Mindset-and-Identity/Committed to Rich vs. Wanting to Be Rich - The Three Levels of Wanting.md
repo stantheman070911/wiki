@@ -36,6 +36,7 @@ Wealth File #3. Eker's seminar exercise — asking people to list the possible d
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Act in Spite of Fear vs. Let Fear Stop You|Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Playing to Win vs. Playing Not to Lose|Playing to Win vs. Playing Not to Lose]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Definite Major Purpose - The Six-Step Method for Turning Desire Into Money|Definite Major Purpose - The Six-Step Method for Turning Desire Into Money]] — Hill's 1937 version of the same commitment claim, with a written procedure attached.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

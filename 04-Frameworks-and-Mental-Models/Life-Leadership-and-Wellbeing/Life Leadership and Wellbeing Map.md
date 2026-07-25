@@ -31,7 +31,9 @@ Coherency, wayfinding, choices, moments, and parallel futures.
 - [[Meaning in Life Is Designed in Particular Moments]]
 - [[Moment-Making - Crafted, Discovered, and Savored Experiences]]
 - [[Primary Aim and Strategic Objective - Make the Business Serve the Life]]
+- [[Struggling Well - Why Arriving Doesn't Satisfy and the Marginal Benefits of More Fall Off]]
 - [[The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
+- [[The Three Phases of Life and Returning the Boon]]
 - [[商業是連結與解決問題的方式：賺錢是驗證訊號而非目的]]
 - [[金錢真相、清晰溝通與人生取捨]]
 
@@ -71,6 +73,7 @@ Happiness, presence, flow, acceptance, curiosity, and resilience.
 - [[Life Is Short - Ruthless Attention Allocation]]
 - [[Pull Out Your Nails - Everything You Want Is on the Other Side of Worse First]]
 - [[Simple Flow - Presence Beyond Peak Performance]]
+- [[Struggling Well - Why Arriving Doesn't Satisfy and the Marginal Benefits of More Fall Off]]
 - [[The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
 - [[The Four Vectors of Mental Toughness]]
 - [[The Wonder Formula - Curiosity Plus Mystery]]

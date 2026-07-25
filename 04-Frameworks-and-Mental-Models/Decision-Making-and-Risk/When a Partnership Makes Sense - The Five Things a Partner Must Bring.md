@@ -63,6 +63,7 @@ An 18-year-old weighing a partnership in a $200k pest-control business (5% equit
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/選擇、承諾與人生取捨|選擇、承諾與人生取捨]]
+- **Contrast:** [[03-Tactics-and-Playbooks/Hiring-and-Team/The Master Mind Alliance - Borrowed Brains Held in Harmony|The Master Mind Alliance - Borrowed Brains Held in Harmony]] — a looser, lower-commitment alternative when you need the capability but not a co-owner.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
