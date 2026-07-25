@@ -38,6 +38,7 @@ Accountability, victimhood, fear, and self-belief.
 - [[No One's Opinion Pays Your Bills - Immunity to Critics]]
 - [[Playing to Win vs. Playing Not to Lose]]
 - [[Relentlessly Resourceful - The Founder Trait Stack]]
+- [[The Six Basic Fears and Susceptibility to Negative Influence]]
 - [[身份、故事與致勝三步]]
 
 ### Identity and behavior
@@ -64,6 +65,7 @@ Patience, consistency, process, and gratification.
 - [[Definite vs. Indefinite Optimism - Planning Your Way to the Future]]
 - [[Delayed Gratification - Patience and Inputs vs Outputs]]
 - [[Finite vs Infinite Games - Winning by Emptying the Tank]]
+- [[Persistence as a Trained Habit - Eight Causes, Sixteen Symptoms, Four Steps]]
 - [[Playing to Win vs. Playing Not to Lose]]
 - [[Process as the Goal - The Zero-Follower Consistency Engine]]
 - [[The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]

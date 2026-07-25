@@ -1,5 +1,7 @@
 ---
-title: Steal the Format, Not the Idea
+title: Originality Is a Bad Starting Point
+aliases:
+  - Steal the Format, Not the Idea
 lang: en
 tags:
   - topic/content-strategy
@@ -8,10 +10,10 @@ tags:
   - topic/hooks
   - topic/mental-models
 status: draft
-updated: 2026-07-10
+updated: 2026-07-26
 ---
 
-# Steal the Format, Not the Idea
+# Originality Is a Bad Starting Point
 
 > **Up:** [[Home|Home]] → [[07-Articles/Articles Index|Articles]]
 
@@ -31,7 +33,7 @@ Originality is overrated. Fluency is the game — and fluency is learned by copy
 
 ## Relationships
 
-- **中文版：** [[偷格式，不偷點子]]
+- **中文版：** [[一張白紙，是內容創作最貴的起點]]
 - **Derives from:** [[02-Social-Media-Strategy/對標方法論與靈感池系統|對標方法論與靈感池系統]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope|Copywriting Fundamentals - AIDA, the Headline, and the Slippery Slope]]

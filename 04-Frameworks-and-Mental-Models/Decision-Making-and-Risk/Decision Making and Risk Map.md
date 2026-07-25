@@ -49,6 +49,7 @@ Ruin, optionality, asymmetric bets, and skin in the game.
 Pre-mortems, boundary conditions, reversibility, and feedback.
 
 - [[Choosing Well - Narrow, Decide, Let Go, and Move On]]
+- [[Decide Promptly, Change Slowly - Indecision as the Seed of Fear]]
 - [[First-Principles Thinking - Reason from Physics, Not Analogy]]
 - [[Focus Questions - Formation Beyond Problem Solving]]
 - [[Gap Selling - Current State, Future State, and the Value of Change]]

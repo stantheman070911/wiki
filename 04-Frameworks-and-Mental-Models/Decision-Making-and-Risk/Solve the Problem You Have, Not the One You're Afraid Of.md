@@ -52,7 +52,7 @@ A website-as-a-service company doing $20M/year on 100% outbound cold calling wor
 
 ## Relationships
 
-- **Has derivative:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
+- **Has derivative:** [[07-Articles/The Bottleneck Sets the Pace|The Bottleneck Sets the Pace]]
 - **Has example:** [[05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job|Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
 - **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS - The Percentage Lies|Maximize Net Cash, Not ROAS - The Percentage Lies]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems to Get at Their Root Causes|Diagnose Problems to Get at Their Root Causes]]

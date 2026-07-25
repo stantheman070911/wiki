@@ -1,5 +1,7 @@
 ---
-title: Confidence Is a Receipt, Not a Requirement
+title: Confidence Comes After the Reps
+aliases:
+  - Confidence Is a Receipt, Not a Requirement
 lang: en
 tags:
   - topic/mindset
@@ -10,10 +12,10 @@ tags:
   - topic/identity
   - topic/inputs-vs-outputs
 status: draft
-updated: 2026-07-11
+updated: 2026-07-26
 ---
 
-# Confidence Is a Receipt, Not a Requirement
+# Confidence Comes After the Reps
 
 > **Up:** [[Home|Home]] → [[07-Articles/Articles Index|Articles]]
 
@@ -33,7 +35,7 @@ Confidence is not the admission ticket. It is the receipt you collect after doin
 
 ## Relationships
 
-- **中文版：** [[自信是收據，不是入場券]]
+- **中文版：** [[自信，從第一筆真實數據開始]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The Complete Six-Step Roadmap|The First $100k - The Complete Six-Step Roadmap]]
 - **Derives from:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]

@@ -49,7 +49,7 @@ Will Barron (salesman.com), after working with over 1,000 service-business owner
 
 ## Relationships
 
-- **Has derivative:** [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
+- **Has derivative:** [[07-Articles/Confidence Comes After the Reps|Confidence Comes After the Reps]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor Dilution Problem - Four Ways to Scale Past Yourself|The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]]

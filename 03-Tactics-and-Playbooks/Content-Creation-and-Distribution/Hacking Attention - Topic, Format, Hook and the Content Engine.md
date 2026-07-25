@@ -62,7 +62,7 @@ remove introductions, logos, establishing shots, and pleasantries from the openi
 
 - **Applies:** [[02-Social-Media-Strategy/對標方法論與靈感池系統|對標方法論與靈感池系統]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Absurdity as a Brand Signal|Absurdity as a Brand Signal]]
-- **Has derivative:** [[07-Articles/Steal the Format, Not the Idea|Steal the Format, Not the Idea]]
+- **Has derivative:** [[07-Articles/Originality Is a Bad Starting Point|Originality Is a Bad Starting Point]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Double-Down and the 70-20-10 Rule - Templatizing Viral Outliers|Double-Down and the 70/20/10 Rule - Templatizing Viral Outliers]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Hyperdopamine Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy|Hyperdopamine Ads - Pattern Interrupt, Curiosity, and Native Ad Anatomy]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]

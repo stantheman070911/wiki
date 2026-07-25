@@ -54,7 +54,7 @@ Hormozi observes that nearly every millionaire and billionaire he knows started 
 - **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite Games - Winning by Emptying the Tank|Finite vs Infinite Games - Winning by Emptying the Tank]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue|Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal - The Zero-Follower Consistency Engine|Process as the Goal - The Zero-Follower Consistency Engine]]
-- **Has derivative:** [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
+- **Has derivative:** [[07-Articles/Confidence Comes After the Reps|Confidence Comes After the Reps]]
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Outbound and Inbound Are Separate Teams - The Sales Career Ladder|Outbound and Inbound Are Separate Teams - The Sales Career Ladder]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]

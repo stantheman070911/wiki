@@ -58,7 +58,7 @@ updated: 2026-07-08
 
 ## 關係
 
-- **具有衍生成果:** [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
+- **具有衍生成果:** [[07-Articles/Confidence Comes After the Reps|Confidence Comes After the Reps]]
 - **相關:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/賽道選擇的兩個模型：Ikigai與市場五要素|賽道選擇的兩個模型：Ikigai與市場五要素]]
 - **相關:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/商業是連結與解決問題的方式：賺錢是驗證訊號而非目的|商業是連結與解決問題的方式：賺錢是驗證訊號而非目的]]
 - **相關:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]

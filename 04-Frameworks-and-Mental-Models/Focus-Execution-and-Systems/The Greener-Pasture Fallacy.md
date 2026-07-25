@@ -59,7 +59,7 @@ Sabri Suby frames the same fallacy as the more common cause of business death: n
 
 ## Relationships
 
-- **Has derivative:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
+- **Has derivative:** [[07-Articles/The Bottleneck Sets the Pace|The Bottleneck Sets the Pace]]
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept - Three Circles and the Economic Denominator|The Hedgehog Concept - Three Circles and the Economic Denominator]]
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/The Direct-Response Doom Loop and the One-Brand Bet|The Direct-Response Doom Loop and the One-Brand Bet]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor Dilution Problem - Four Ways to Scale Past Yourself|The X-Factor Dilution Problem - Four Ways to Scale Past Yourself]]

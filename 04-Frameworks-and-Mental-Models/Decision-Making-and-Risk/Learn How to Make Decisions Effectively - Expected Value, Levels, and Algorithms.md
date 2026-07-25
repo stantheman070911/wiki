@@ -41,6 +41,7 @@ Closes out Dalio's Life Principles by turning the preceding chapters (reality, t
 - Before deciding, explicitly separate the "learning" phase from the "deciding" phase — write down what you've learned before you let yourself form a conclusion.
 - Run genuinely close calls as an explicit expected-value calculation (reward × P(right) − penalty × P(wrong)) rather than a gut call, especially for consequential, reversible-cost decisions.
 - When you notice a decision "feels familiar," name the pattern explicitly ("this is another one of those") and check whether you already have — or should write — a standing principle for it.
+- Build the taxonomy deliberately: Dalio suggests logging the *type* of every encounter you have (the birth of a child, the loss of a job, a personal disagreement) as it happens. Compiled, the list runs to only a few hundred items and few are unique to you — and it doubles as the index of what you still need principles for.
 - When building any decision-support tool (a spreadsheet rule, a dashboard, an AI prompt), be honest with yourself about whether it's an expert system (you understand and specified the causal logic) or mimicking/data-mining (it just found a pattern) — trust the former far more than the latter, especially in fast-changing domains.
 
 ## Notable examples
@@ -50,6 +51,8 @@ Closes out Dalio's Life Principles by turning the preceding chapters (reality, t
 ## Relationships
 
 - **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/The Holy Grail of Investing - Diversification via Uncorrelated Return Streams|The Holy Grail of Investing - Diversification via Uncorrelated Return Streams]]
+- **Prerequisite:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Timeless and Universal - Pressure-Test Your Principles Against All History and Every Country|Timeless and Universal]] — recognising "another one of those" only works if your sample of "those" extends past your own lifetime and country.
+- **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/Don't Forecast, Detect - The Risk-Neutral Benchmark and Alpha-Beta Separation|Don't Forecast, Detect]] — the expert-system approach as Bridgewater actually ran it.
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Be Radically Open-Minded|Be Radically Open-Minded - The Ego Barrier, the Blind-Spot Barrier, and Triangulating Truth]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine - Why Computers Complement Humans Instead of Replacing Them|Man and Machine - Why Computers Complement Humans Instead of Replacing Them]]

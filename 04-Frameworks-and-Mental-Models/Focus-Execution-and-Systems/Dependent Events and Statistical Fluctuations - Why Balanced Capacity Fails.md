@@ -54,7 +54,7 @@ In the book's dice-and-match simulation, every station had identical average cap
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Drum-Buffer-Rope - Release Work at the Constraint's Pace|Drum-Buffer-Rope - Release Work at the Constraint's Pace]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of Constraints - The Five Focusing Steps|Theory of Constraints - The Five Focusing Steps]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput Accounting - Manage the System, Not Local Costs|Throughput Accounting - Manage the System, Not Local Costs]]
-- **Related:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
+- **Related:** [[07-Articles/The Bottleneck Sets the Pace|The Bottleneck Sets the Pace]]
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_EliyahuMGoldrattJeffCox_TheGoal_RawTranscript|The Goal]]

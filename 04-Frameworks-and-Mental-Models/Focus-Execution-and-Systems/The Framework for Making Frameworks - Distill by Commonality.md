@@ -47,7 +47,7 @@ Hormozi is known for framework-ing everything; asked for his method, he gives a 
 
 ## Relationships
 
-- **Has derivative:** [[07-Articles/Steal the Format, Not the Idea|Steal the Format, Not the Idea]]
+- **Has derivative:** [[07-Articles/Originality Is a Bad Starting Point|Originality Is a Bad Starting Point]]
 - **Is applied by:** [[02-Social-Media-Strategy/對標方法論與靈感池系統|對標方法論與靈感池系統]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Content Planner and the Analyze-Double-Down Loop|Content Planner and the Analyze-Double-Down Loop]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Promise, Proof, Path - Engineering the Video Intro|Promise, Proof, Path - Engineering the Video Intro]]

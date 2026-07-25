@@ -49,7 +49,7 @@ Musk's "biggest epiphany" building Tesla was that competitive advantage lives in
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Megapolitics - How Technology Changes the Returns to Violence|Megapolitics - How Technology Changes the Returns to Violence]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Technology as an Accelerator, Not a Strategy|Technology as an Accelerator, Not a Strategy]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines|Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]]
-- **Has derivative:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
+- **Has derivative:** [[07-Articles/The Bottleneck Sets the Pace|The Bottleneck Sets the Pace]]
 - **Has example:** [[05-Intelligence-and-Research/Technology Platforms - How New Protocols and Tools Shift Power|Technology Platforms - How New Protocols and Tools Shift Power]]
 - **Has example:** [[05-Intelligence-and-Research/供應鏈風險與關鍵人風險分散|供應鏈風險與關鍵人風險分散]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm - Musk's Five-Step Process Method|The Algorithm - Musk's Five-Step Process Method]]

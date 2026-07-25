@@ -13,13 +13,32 @@ archived: 2026-07-13
 ---
 
 ## Nature of the source
-Three-part book: Part I is Dalio's autobiographical memoir (founding and running Bridgewater Associates, the 1982 near-collapse, the transition out of the CEO role); Part II is "Life Principles" (5 chapters); Part III is "Work Principles" (16 chapters). Life and Work Principles both appear twice in the text — a full essay version and a condensed "Summary and Table" version — the essays carry the detail, the summary tables are a strict compression. The vault had no coverage of Dalio or Bridgewater before this pass.
+Three-part book: Part I is Dalio's autobiographical memoir (founding and running Bridgewater Associates, the 1982 near-collapse, the transition out of the CEO role); Part II is "Life Principles" (5 chapters); Part III is "Work Principles" (16 chapters). Life and Work Principles both appear twice in the text — a full essay version and a condensed "Summary and Table" version — the essays carry the detail, the summary tables are a strict compression. The vault had no coverage of Dalio or Bridgewater before the first pass.
+
+## Processing history
+
+- **2026-07-13 — first pass.** One entry per principle chapter (5 Life + 16 Work), plus two memoir ideas that stood alone. Part I was otherwise treated as origin-story colour and folded into the chapter entries as "Notable examples."
+- **2026-07-26 — second pass.** Re-read against the full text specifically for material the chapter-per-entry structure had compressed away. Nearly all of it was in **Part I**: the memoir carries Dalio's macro framework, his research methodology, his investment-process innovations, the succession playbook, and the closing life reflections — none of which map onto a Life or Work Principles chapter. Six entries added (below). A duplicate PDF of the same edition arrived in `_Inbox/` and was discarded; the archived `.txt` is the same book and slightly richer (it carries OCR of image-only pages).
 
 ## Net-new signal → derived entries
 
-**Memoir (Part I)** — narrative context and origin stories, folded into the matching principle-chapter entry below as "Notable examples" rather than treated as separate entries (e.g., the 1982 depression-call collapse feeds *Be Radically Open-Minded*; the 1993 "Ray Feedback Memo" feeds *Trust in Radical Truth and Radical Transparency*; the Issue Log's origin feeds *Create a Culture Where Mistakes Are Okay*; the 2016 CEO-succession crisis feeds *Don't Overlook Governance*). Two memoir ideas were generalizable enough to stand alone:
+**Memoir (Part I)** — origin stories that stayed folded into the matching principle-chapter entries as "Notable examples" (the 1982 depression-call collapse feeds *Be Radically Open-Minded*; the 1993 "Ray Feedback Memo" feeds *Trust in Radical Truth and Radical Transparency*; the Issue Log's origin feeds *Create a Culture Where Mistakes Are Okay*; the 2016 CEO-succession crisis feeds *Don't Overlook Governance*). Standalone entries drawn from Part I:
+
+*First pass:*
 - The "Holy Grail of Investing" (diversification across uncorrelated, well-balanced, leveraged return streams) → *The Holy Grail of Investing - Diversification via Uncorrelated Return Streams*.
 - The "Shapers" archetype and Dalio's own Hero's Journey → *Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt*.
+
+*Second pass:*
+- Chs. 2, 5–6 — economies as machines, the physician's diagnosis sequence, spending = money + credit, the depression gauge, beautiful deleveraging, the 1971 devaluation lesson, why investors and policymakers read differently → *The Economic Machine - Debt Cycles, Deleveragings, and Why Spending Is Money Plus Credit*.
+- Chs. 2–3, 5 — the "timeless and universal" validation standard, the day-by-day Depression/Weimar study, recruiting refutation, encoding triggers, balancing bets while confident → *Timeless and Universal - Pressure-Test Your Principles Against All History and Every Country*.
+- Ch. 4 — the January 1987 "Making Money vs. Making Forecasts" piece, the risk-neutral benchmark, alpha overlay / alpha-beta separation, systems run in parallel with the brain → *Don't Forecast, Detect - The Risk-Neutral Benchmark and Alpha-Beta Separation*.
+- Chs. 6–7 — key-man risk as the motive, mentor-vs-clean-exit, the "Ray gap" log, the up-to-ten-year plan, the 2016 co-CEO/co-CIO overload failure, Jim Collins' two-part advice → *Founder Succession - The Gap Log, the Mentor Seat, and the Ten-Year Handover*.
+- Chs. 6, 8 — the three phases of life (dependency-defined), Campbell's "returning the boon," knowledge as DNA, the widening circle of concern, philanthropy as its own apprenticeship → *The Three Phases of Life and Returning the Boon*.
+- Ch. 8 — satisfaction comes from struggling well not from achieving, successful people aren't a different species, the marginal benefits of more falling off and turning negative, matching your life to your nature → *Struggling Well - Why Arriving Doesn't Satisfy and the Marginal Benefits of More Fall Off*.
+
+Also on the second pass: the encounter-log practice (log the *type* of every encounter; the compiled list runs to a few hundred items) was added to the existing *Learn How to Make Decisions Effectively* entry rather than split out, since that entry already carries "another one of those."
+
+**Deliberately not distilled:** the Appendix tool-by-tool walkthrough (the tools are named and characterised in *Use Tools and Protocols to Shape How Work Is Done*; the per-tool UI detail is Bridgewater-specific), the Transcendental Meditation thread (a few scattered paragraphs, no method given), and the "Summary and Table" compressions of both principle sets (strictly redundant with the essays).
 
 **Life Principles (Part II)** — five chapters, each one entry:
 1. Ch. 1 — hyperrealism, truth-seeking, nature's lessons, Pain + Reflection = Progress, 2nd/3rd-order consequences, owning outcomes, the machine viewed from above. → *Embrace Reality and Deal With It*.
@@ -50,8 +69,11 @@ Three-part book: Part I is Dalio's autobiographical memoir (founding and running
 
 **01-Business-Strategy**
 - Finance-Capital-and-Exit: The Holy Grail of Investing - Diversification via Uncorrelated Return Streams
+- Finance-Capital-and-Exit: The Economic Machine - Debt Cycles, Deleveragings, and Why Spending Is Money Plus Credit
+- Finance-Capital-and-Exit: Don't Forecast, Detect - The Risk-Neutral Benchmark and Alpha-Beta Separation
 
 **03-Tactics-and-Playbooks**
+- Hiring-and-Team: Founder Succession - The Gap Log, the Mentor Seat, and the Ten-Year Handover
 - Hiring-and-Team: Remember That the WHO Is More Important Than the WHAT
 - Hiring-and-Team: Hire Right, Because the Penalties for Hiring Wrong Are Huge
 - Hiring-and-Team: Constantly Train, Test, Evaluate, and Sort People
@@ -71,11 +93,14 @@ Three-part book: Part I is Dalio's autobiographical memoir (founding and running
 - Decision-Making-and-Risk: Learn How to Make Decisions Effectively
 - Decision-Making-and-Risk: Believability-Weight Your Decision Making
 - Decision-Making-and-Risk: Recognize How to Get Beyond Disagreements
+- Decision-Making-and-Risk: Timeless and Universal - Pressure-Test Your Principles Against All History and Every Country
 - Focus-Execution-and-Systems: Use the 5-Step Process to Get What You Want Out of Life
 - Life-Leadership-and-Wellbeing: Trust in Radical Truth and Radical Transparency
 - Life-Leadership-and-Wellbeing: Cultivate Meaningful Work and Meaningful Relationships
 - Life-Leadership-and-Wellbeing: Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't
 - Life-Leadership-and-Wellbeing: Get and Stay in Sync
+- Life-Leadership-and-Wellbeing: The Three Phases of Life and Returning the Boon
+- Life-Leadership-and-Wellbeing: Struggling Well - Why Arriving Doesn't Satisfy and the Marginal Benefits of More Fall Off
 
 ## Key specifics (for accuracy)
 - **Believability** (precise definition used throughout): a person (1) has repeatedly and successfully accomplished the thing in question (3+ times), and (2) can logically explain the cause-effect reasoning behind their conclusions.

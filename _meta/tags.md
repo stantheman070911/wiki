@@ -202,6 +202,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - person/matt-gray
 - person/matthew-dixon
 - person/michael-gerber
+- person/napoleon-hill
 - person/nassim-nicholas-taleb
 - person/natalie-barbou
 - person/naval-ravikant
@@ -265,6 +266,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - source/the-goal
 - source/the-sovereign-individual
 - source/the-spin-selling-fieldbook
+- source/think-and-grow-rich
 - source/this-is-marketing
 - source/traction
 

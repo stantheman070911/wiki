@@ -68,7 +68,7 @@ AI disrupts creators from lowest risk to highest, in that order. To protect your
 - **Applies:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/No One's Opinion Pays Your Bills - Immunity to Critics|No One's Opinion Pays Your Bills - Immunity to Critics]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Public - Observability and Behavioral Residue|Public - Observability and Behavioral Residue]]
 - **Has derivative:** [[07-Articles/Design for the Second Audience|Design for the Second Audience]]
-- **Has derivative:** [[07-Articles/Steal the Format, Not the Idea|Steal the Format, Not the Idea]]
+- **Has derivative:** [[07-Articles/Originality Is a Bad Starting Point|Originality Is a Bad Starting Point]]
 - **Has example:** [[05-Intelligence-and-Research/The Risk Continuum - Building an AI-Resistant Personal Brand|The Risk Continuum: Building an AI-Resistant Personal Brand]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Declarative to Sell, Procedural to Deliver|Declarative to Sell, Procedural to Deliver]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Story-Selling - Heros Journey, the Trojan Horse, and Handling Objections|Story-Selling - Hero's Journey, the Trojan Horse, and Handling Objections]]

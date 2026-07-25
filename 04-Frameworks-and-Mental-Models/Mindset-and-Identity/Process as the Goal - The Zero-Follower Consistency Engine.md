@@ -47,7 +47,7 @@ The near-universal reason people never build an audience from zero is that they 
 
 ## Relationships
 
-- **Has derivative:** [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
+- **Has derivative:** [[07-Articles/Confidence Comes After the Reps|Confidence Comes After the Reps]]
 - **Is applied by:** [[02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model|Interest Media and the Zero-Follower Reach Model]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Audience-Growth/Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing|Personal-Brand Growth Ladder - Fixing Views, Formats, and Timing]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]

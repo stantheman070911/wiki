@@ -1,5 +1,7 @@
 ---
-title: Good Ideas Aren't Hidden, They're Avoided
+title: Where Everyone Else Refuses to Look
+aliases:
+  - Good Ideas Aren't Hidden, They're Avoided
 lang: en
 tags:
   - topic/secrets
@@ -9,10 +11,10 @@ tags:
   - topic/courage
   - topic/research
 status: draft
-updated: 2026-07-19
+updated: 2026-07-26
 ---
 
-# Good Ideas Aren't Hidden, They're Avoided
+# Where Everyone Else Refuses to Look
 
 > **Up:** [[Home|Home]] → [[07-Articles/Articles Index|Articles]]
 
@@ -34,7 +36,7 @@ So the useful question is not *where is the idea nobody has found?* That keeps y
 
 ## Relationships
 
-- **中文版：** [[好點子不是沒被發現，而是被避開了]]
+- **中文版：** [[沒人想碰的地方，往往有機會]]
 - **Derives from:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How to Find What Everyone Else Has Missed|Secrets - How to Find What Everyone Else Has Missed]]
 - **Derives from:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress|The Contrarian Question and Zero to One - Vertical vs. Horizontal Progress]]
 - **Derives from:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New Ideas - Work at the Fractal Edge of Knowledge|Finding New Ideas - Work at the Fractal Edge of Knowledge]]

@@ -72,7 +72,7 @@ Alex Hormozi / Acquisition.com 的 230 頁擴張指南，把一家公司從「�
 - **具有衍生成果:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-7-Categorize|$100M 擴張路線圖 · Stage 7：Categorize 分工]]
 - **具有衍生成果:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-8-Specialize|$100M 擴張路線圖 · Stage 8：Specialize 專精]]
 - **具有衍生成果:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-9-Capitalize|$100M 擴張路線圖 · Stage 9：Capitalize 下注]]
-- **具有衍生成果:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
+- **具有衍生成果:** [[07-Articles/The Bottleneck Sets the Pace|The Bottleneck Sets the Pace]]
 - **相關:** [[01-Business-Strategy/Business-Models-and-Customers/The Five Advantages of a Perfect Business|The Five Advantages of a Perfect Business]]
 - **相關:** [[01-Business-Strategy/Business-Models-and-Customers/商業四大需求層次：救命、治病、養生、建體|商業四大需求層次：救命、治病、養生、建體]]
 - **相關:** [[01-Business-Strategy/Business-Models-and-Customers/從零到十萬美元聯盟套利劇本與商業基本面|從零到十萬美元聯盟套利劇本與商業基本面]]

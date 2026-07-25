@@ -50,7 +50,7 @@ Hormozi inverts "fake it till you make it." Confidence without evidence is delus
 
 ## Relationships
 
-- **Has derivative:** [[07-Articles/Confidence Is a Receipt, Not a Requirement|Confidence Is a Receipt, Not a Requirement]]
+- **Has derivative:** [[07-Articles/Confidence Comes After the Reps|Confidence Comes After the Reps]]
 - **Has example:** [[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat|The Attention Barbell - Brand as the AI-Era Moat]]
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Brand and Product Compounding - Too Good to Fail|Brand and Product Compounding - Too Good to Fail]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]

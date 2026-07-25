@@ -66,7 +66,9 @@ Failure, measurement, iteration, and Kaizen.
 - [[Innovation, Quantification, and Orchestration - The Business Development Loop]]
 - [[Kaizen and the Progress Principle]]
 - [[Out-Fail the Competition - Building an Experimentation System]]
+- [[Synthetic vs. Creative Imagination - Sitting for Ideas]]
 - [[Taste for Makers - Constraints for Designing Good Things]]
+- [[Temporary Defeat Is a Plan Signal - Organized Planning and the Quitter's Test]]
 - [[The Four-Phase Creative Process - Seeds, Experimentation, Crafting, Completion]]
 - [[The Framework for Making Frameworks - Distill by Commonality]]
 
@@ -79,6 +81,7 @@ Urgency, completion, contribution, and discipline.
 - [[Five Energies of Execution - Vision, Strategy, People, Work, Refinement]]
 - [[How to Do Great Work - Curiosity, Taste, Projects, and Endurance]]
 - [[Maniacal Urgency - Speed, Parallelism, and Aggressive Timelines]]
+- [[Temporary Defeat Is a Plan Signal - Organized Planning and the Quitter's Test]]
 - [[The Flywheel and the Doom Loop - Compound Momentum in One Direction]]
 
 ### System design

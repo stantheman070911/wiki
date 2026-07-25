@@ -83,7 +83,7 @@ series: $100M Scaling Roadmap
 
 - **應用於:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/孤獨、簡單勝過輕鬆與犧牲平庸|孤獨、簡單勝過輕鬆與犧牲平庸]]
 - **衍生自:** [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
-- **具有衍生成果:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
+- **具有衍生成果:** [[07-Articles/The Bottleneck Sets the Pace|The Bottleneck Sets the Pace]]
 - **是其前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-7-Categorize|$100M 擴張路線圖 · Stage 7：Categorize 分工]]
 - **前置概念:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-5-Productize|$100M 擴張路線圖 · Stage 5：Productize 產品化]]
 ## 來源

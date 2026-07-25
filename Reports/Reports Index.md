@@ -10,4 +10,4 @@ Reports are dated syntheses derived from the wiki. They are browsing nodes, not 
 Add a line here when a new report lands (newest first).
 
 - [[Reports/Creator and Personal Brand Businesses - Industry Handbook|Creator and Personal Brand Businesses: An Industry Handbook]] — 2026-07-18
-- [[Reports/How In-Person Training Businesses Really Work|How In-Person Training Businesses Really Work]] — 2026-07-18
+- [[Reports/How In-Person Training Businesses Really Work|How In-Person Training Businesses Really Work]] — 2026-07-18, revised 2026-07-25

@@ -1,5 +1,7 @@
 ---
-title: Absorb the Altitude, Not the Answers
+title: The Best Room Cannot Think for You
+aliases:
+  - Absorb the Altitude, Not the Answers
 lang: en
 tags:
   - topic/mindset
@@ -9,10 +11,10 @@ tags:
   - topic/mental-models
   - topic/leadership
 status: draft
-updated: 2026-07-24
+updated: 2026-07-26
 ---
 
-# Absorb the Altitude, Not the Answers
+# The Best Room Cannot Think for You
 
 > **Up:** [[Home|Home]] → [[07-Articles/Articles Index|Articles]]
 

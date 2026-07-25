@@ -1,5 +1,7 @@
 ---
-title: Fix the Bottleneck, Not Everything
+title: The Bottleneck Sets the Pace
+aliases:
+  - Fix the Bottleneck, Not Everything
 lang: en
 tags:
   - topic/theory-of-constraints
@@ -9,10 +11,10 @@ tags:
   - topic/scaling
   - topic/simplification
 status: draft
-updated: 2026-07-10
+updated: 2026-07-26
 ---
 
-# Fix the Bottleneck, Not Everything
+# The Bottleneck Sets the Pace
 
 > **Up:** [[Home|Home]] → [[07-Articles/Articles Index|Articles]]
 
@@ -32,7 +34,7 @@ Progress is not how many things are moving. It is whether the bottleneck moved.
 
 ## Relationships
 
-- **中文版：** [[修好瓶頸，而不是修好一切]]
+- **中文版：** [[那個不動的數字，才是今天的工作]]
 - **Derives from:** [[01-Business-Strategy/100M-Scaling-Roadmap/$100M Scaling Roadmap Overview|$100M 擴張路線圖 · 總覽與方法論]]
 - **Derives from:** [[01-Business-Strategy/100M-Scaling-Roadmap/Stage-6-Optimize|$100M 擴張路線圖 · Stage 6：Optimize 優化]]
 - **Derives from:** [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product - Manufacturing as the Moat]]

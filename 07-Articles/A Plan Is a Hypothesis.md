@@ -1,5 +1,7 @@
 ---
-title: Quit the Plan, Not the Question
+title: A Plan Is a Hypothesis
+aliases:
+  - Quit the Plan, Not the Question
 lang: en
 tags:
   - topic/decision-making
@@ -7,10 +9,10 @@ tags:
   - topic/commitment
   - topic/feedback
 status: draft
-updated: 2026-07-25
+updated: 2026-07-26
 ---
 
-# Quit the Plan, Not the Question
+# A Plan Is a Hypothesis
 
 > **Up:** [[Home|Home]] → [[07-Articles/Articles Index|Articles]]
 

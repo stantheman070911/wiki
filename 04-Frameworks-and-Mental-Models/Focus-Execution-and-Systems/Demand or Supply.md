@@ -63,7 +63,7 @@ In AMA 3, a virtual-assistant business appeared to have many constraints, but th
 
 ## Relationships
 
-- **Has derivative:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
+- **Has derivative:** [[07-Articles/The Bottleneck Sets the Pace|The Bottleneck Sets the Pace]]
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/人群場景痛點解決方案：客戶洞察與需求驗證框架|人群場景痛點解決方案：客戶洞察與需求驗證框架]]
 - **Is applied by:** [[01-Business-Strategy/Growth-and-Scaling/少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門|少即是多的擴張系統：Traffic-Systems-Skills 診斷、1-1-1 與萬能前門]]
 - **Is applied by:** [[01-Business-Strategy/Traffic-and-Acquisition/Oversubscribed|Oversubscribed - Signal Collection, Official Capacity, and Campaign-Driven Demand]]

@@ -1,5 +1,7 @@
 ---
-title: You Are the Guide, Not the Hero
+title: Let the Customer Wear the Cape
+aliases:
+  - You Are the Guide, Not the Hero
 lang: en
 tags:
   - topic/storytelling
@@ -9,10 +11,10 @@ tags:
   - topic/founder-brand
   - topic/identity
 status: draft
-updated: 2026-07-25
+updated: 2026-07-26
 ---
 
-# You Are the Guide, Not the Hero
+# Let the Customer Wear the Cape
 
 > **Up:** [[Home|Home]] → [[07-Articles/Articles Index|Articles]]
 

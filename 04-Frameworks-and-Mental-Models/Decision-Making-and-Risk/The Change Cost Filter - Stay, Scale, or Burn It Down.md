@@ -71,7 +71,7 @@ To a serial-visionary founder juggling five businesses, Hormozi laid out the 20%
 
 ## Relationships
 
-- **Has derivative:** [[07-Articles/Fix the Bottleneck, Not Everything|Fix the Bottleneck, Not Everything]]
+- **Has derivative:** [[07-Articles/The Bottleneck Sets the Pace|The Bottleneck Sets the Pace]]
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/商業四大需求層次：救命、治病、養生、建體|商業四大需求層次：救命、治病、養生、建體]]
 - **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/Buy Bigger|Buy Bigger - Why Small Acquisitions Break and the Founder Is Usually the Constraint]]
 - **Is applied by:** [[01-Business-Strategy/Finance-Capital-and-Exit/How Money Is Made - Value, Return on Time, and Money Rules|How Money Is Made - Value, Return on Time, and Money Rules]]
