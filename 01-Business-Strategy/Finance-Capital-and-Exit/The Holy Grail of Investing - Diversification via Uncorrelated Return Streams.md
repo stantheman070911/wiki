@@ -47,6 +47,8 @@ Discovered around 1990 by Dalio with Bob Prince and Dan Bernstein while research
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin - Time Probability, Repeated Exposure, and Survival First|Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
 - **Has example:** [[05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions Competing as Service Providers|Commercialized Sovereignty - Jurisdictions Competing as Service Providers]]
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win|CAC, LTV, and Payback Period - The Three Numbers That Decide If You Win]]
+- **Prerequisite:** [[01-Business-Strategy/Finance-Capital-and-Exit/Don't Forecast, Detect - The Risk-Neutral Benchmark and Alpha-Beta Separation|Don't Forecast, Detect]] — separating baseline exposure from active bets is what makes the bets countable in the first place.
+- **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/The Economic Machine - Debt Cycles, Deleveragings, and Why Spending Is Money Plus Credit|The Economic Machine]] — the growth/inflation 2×2 behind All Weather comes from this macro template.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Part I

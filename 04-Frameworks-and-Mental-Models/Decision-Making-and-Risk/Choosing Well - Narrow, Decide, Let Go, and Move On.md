@@ -63,6 +63,7 @@ Andy compared two routes into health policy by inhabiting each choice rather tha
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Design Compass - Workview, Lifeview, and Coherency|Life Design Compass - Workview, Lifeview, and Coherency]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Designer's Way - Acceptance, Availability, and Engaged Detachment|The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Failure Reframing and Immunity|Failure Reframing and Immunity]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Decide Promptly, Change Slowly - Indecision as the Seed of Fear|Decide Promptly, Change Slowly - Indecision as the Seed of Fear]] — the same let-go-and-move-on discipline, stated as a speed asymmetry.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript|Designing Your Life - Raw Transcript]]

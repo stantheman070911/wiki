@@ -48,6 +48,7 @@ Developed while Dalio was transitioning out of the CEO role at Bridgewater (2011
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Founder's Paradox|The Founder's Paradox - Why Extreme, Contradictory Individuals Build the Most Valuable Companies]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passionate Visionary Scientist - A Three-Part Founder Mindset|The Passionate Visionary Scientist - A Three-Part Founder Mindset]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That People Are Wired Very Differently|Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Three Phases of Life and Returning the Boon|The Three Phases of Life and Returning the Boon]] — the late stages of the same Campbell schema, where the hero returns the boon.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Part I

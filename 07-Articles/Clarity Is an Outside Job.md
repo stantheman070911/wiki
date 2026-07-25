@@ -34,6 +34,7 @@ So when your next explanation doesn't land, the tempting diagnosis is that the a
 
 ## Relationships
 
+- **中文版：** [[清楚，是一份對外的工作]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Curse of Knowledge - Why Experts Write Badly|The Curse of Knowledge - Why Experts Write Badly]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Clear Over Clever - Write Below Third Grade and Meet the Avatar|Clear Over Clever - Write Below Third Grade and Meet the Avatar]]
 - **Derives from:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Writing as a Discovery Tool - Useful, Simple, and Rewritten|Writing as a Discovery Tool - Useful, Simple, and Rewritten]]

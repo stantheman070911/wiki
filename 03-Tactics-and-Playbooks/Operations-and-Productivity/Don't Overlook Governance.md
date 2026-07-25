@@ -46,6 +46,7 @@ Sixteenth and final chapter of Work Principles. Dalio explicitly frames this as 
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More Important Than the WHAT|Remember That the WHO Is More Important Than the WHAT]]
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting|Startup Foundations - Co-founders, Ownership, Possession, Control, and Vesting]]
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone Operating a Machine to Achieve a Goal|Manage as Someone Operating a Machine to Achieve a Goal]]
+- **Applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Founder Succession - The Gap Log, the Mentor Seat, and the Ten-Year Handover|Founder Succession - The Gap Log, the Mentor Seat, and the Ten-Year Handover]] — the handover this governance gap was discovered during, and Collins' other half of the advice.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 16

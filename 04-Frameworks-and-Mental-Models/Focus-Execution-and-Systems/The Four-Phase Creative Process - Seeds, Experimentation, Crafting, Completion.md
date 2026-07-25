@@ -55,6 +55,7 @@ Chinese alchemists seeking immortality produced gunpowder; penicillin and Post-i
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Finish and Release - Abundance Beats Perfectionism|Finish and Release - Abundance Beats Perfectionism]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Taste for Makers - Constraints for Designing Good Things|Taste for Makers - Constraints for Designing Good Things]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Creative Receptivity - Awareness, Attention, and the Artist's Filter|Creative Receptivity - Awareness, Attention, and the Artist's Filter]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Synthetic vs. Creative Imagination - Sitting for Ideas|Synthetic vs. Creative Imagination - Sitting for Ideas]] — a concrete incubation procedure for the gap between experimentation and arrival.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RickRubin_TheCreativeAct_RawTranscript|The Creative Act - Raw Transcript]]
