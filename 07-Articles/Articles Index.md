@@ -9,6 +9,7 @@ Outward-facing essays synthesized from multiple entries. Belongs here: finished 
 
 Add a line here when publishing a new article (newest first).
 
+- [[07-Articles/Nothing Stays Extreme|Nothing Stays Extreme]]
 - [[07-Articles/The Missing Second Commitment|The Missing Second Commitment]]
 - [[07-Articles/A Plan Is a Hypothesis|A Plan Is a Hypothesis]]
 - [[07-Articles/Let the Customer Wear the Cape|Let the Customer Wear the Cape]]
