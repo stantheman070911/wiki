@@ -80,6 +80,7 @@ Housel's universal guidepost, and the reason no fixed savings percentage is pres
 
 - **Prerequisite:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Wealth Is What You Don't See - Enough, Freedom, and the Man in the Car Paradox|Wealth Is What You Don't See]] — the humility this playbook runs on, and why the savings gap is really an ego gap.
 - **Applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money Management System|The 6 Jars Money Management System]] — a concrete allocation mechanism for the rate this entry argues for.
+- **Applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/F-You Money - The Three-Part Formula and the 25x Target|F-You Money]] — Collins puts a number on the rate (50%) and on what it buys (25× annual spending).
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Getting Wealthy vs. Staying Wealthy - Survival, Room for Error, and Tails|Getting Wealthy vs. Staying Wealthy]] — savings are where margin of safety physically comes from.
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - Defense-Before-Offense Playbook|The First 100k - Defense-Before-Offense Playbook]] — the same defence-first sequencing, at a specific milestone.
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money Well - The Habit Matters More Than the Amount|Manage Your Money Well]] — Eker's version of the same claim.

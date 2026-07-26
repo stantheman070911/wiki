@@ -39,6 +39,7 @@ Wealth File #15. Eker's blunt observation: billions of people work extremely har
 ## Relationships
 
 - **Is applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money Management System|The 6 Jars Money Management System]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/How to Think About Money - Opportunity Cost Is Compounding's Evil Twin|How to Think About Money]] — Collins' four-level version of the same shift, with opportunity cost as the arithmetic behind it.
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors|Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Manage Your Money Well - The Habit Matters More Than the Amount|Manage Your Money Well - The Habit Matters More Than the Amount]]
 ## Source reference

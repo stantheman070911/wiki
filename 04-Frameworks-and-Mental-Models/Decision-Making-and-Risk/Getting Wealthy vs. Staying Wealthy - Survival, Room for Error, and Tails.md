@@ -95,6 +95,8 @@ Housel's own version: he assumes his lifetime returns will be **⅓ lower than t
 
 - **Prerequisite:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin - Time Probability, Repeated Exposure, and Survival First|Risk of Ruin]] — Taleb's formal version; Housel is the behavioural gloss on it.
 - **Applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Your Savings Rate Is the Variable You Control - Efficiency Over Returns|Your Savings Rate Is the Variable You Control]] — where the room for error actually comes from.
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Market Always Goes Up - Self-Cleansing Indexes and the Foam You Should Ignore|The Market Always Goes Up]] — Collins on the same requirement to stay in the game, with the structural reasons the index rewards it.
+- **Applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The Simple Path Portfolio - Two Funds, Two Stages, and Why Complexity Costs You|The Simple Path Portfolio]] — the accumulate-then-preserve switch expressed as two concrete allocations.
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Power Law of Venture Capital and Careers|The Power Law of Venture Capital and Careers]] — the tails argument developed as a portfolio strategy.
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Prospect Theory - Reference Points, Loss Aversion, and the Fourfold Pattern|Prospect Theory]] — why staying invested through a drawdown is emotionally expensive, and why a written policy beats a live decision.
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]].

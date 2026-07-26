@@ -1,3 +1,19 @@
+---
+title: "The Simple Path to Wealth: Your Road Map to Financial Independence and a Rich, Free Life"
+author: JL Collins
+archived: 2026-07-27
+published: "2016"
+url: https://jlcollinsnh.com
+lang: en
+---
+
+# The Simple Path to Wealth
+
+*by JL Collins (self-published, 2016) — full text extraction of the ebook edition,
+archived for traceability. Quoted sparingly in entries.*
+
+---
+
 The Simple Path to Wealth Copyright © 2016 by JL Collins. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means—electronic, mechanical, photocopy, recording or any other—except for brief quotations in printed reviews, without prior written permission of the author.
 
 [jlcollinsnh.com](http://jlcollinsnh.com)

@@ -80,6 +80,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - topic/innovation
 - topic/inputs-vs-outputs
 - topic/instagram
+- topic/investing
 - topic/ip
 - topic/leadership
 - topic/learning
@@ -211,6 +212,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - person/james-dale-davidson
 - person/jeff-cox
 - person/jim-collins
+- person/jl-collins
 - person/john-doerr
 - person/jonah-berger
 - person/jun-yuh
@@ -295,6 +297,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - source/the-laws-of-human-nature
 - source/the-mountain-is-you
 - source/the-psychology-of-money
+- source/the-simple-path-to-wealth
 - source/the-sovereign-individual
 - source/the-spin-selling-fieldbook
 - source/think-and-grow-rich
@@ -326,4 +329,6 @@ Disambiguation notes for overlapping terms:
 - `topic/health` is physical condition as a resource or constraint on what a life can contain; it is not a business or market topic.
 - `topic/retirement` is the transition out of paid work and the decumulation that follows; `topic/wealth` is the stock itself.
 - `topic/philanthropy` is giving money or time away; `topic/money-management` is administering your own.
+- `topic/investing` is deploying capital into assets — markets, funds, allocation, withdrawal; `topic/money-management` is the household layer around it: earning, saving, budgeting, and debt. Where the money goes is investing; how the money is run is money management.
+- `person/jl-collins` is JL Collins of *The Simple Path to Wealth*; `person/jim-collins` is Jim Collins of *Good to Great*. Unrelated authors with similar names.
 - Use `person/` and `source/` tags only when that entity is part of the page provenance, not for people or brands mentioned merely as examples.

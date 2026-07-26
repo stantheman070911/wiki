@@ -58,6 +58,8 @@ Then: **wait ~36 months** — patient with outputs, impatient with inputs.
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 6 Jars Money Management System|The 6 Jars Money Management System]]
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The First 100k - The Complete Six-Step Roadmap|The First $100k - The Complete Six-Step Roadmap]]
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Your Savings Rate Is the Variable You Control - Efficiency Over Returns|Your Savings Rate Is the Variable You Control]] — the same defence-first claim generalised — savings rate is the only input fully under your control.
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Debt Is Not Normal - The Avoid-and-Eliminate Playbook|Debt Is Not Normal]] — the defence half in full: what to clear before the first $100k can begin accumulating.
+- **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/F-You Money - The Three-Part Formula and the 25x Target|F-You Money]] — the milestone after this one, and the target the accumulation is pointed at.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]

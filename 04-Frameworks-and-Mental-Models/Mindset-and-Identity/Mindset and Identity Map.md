@@ -84,6 +84,7 @@ Earning, receiving, wealth, risk, and self-promotion.
 - [[Excellent Receivers vs. Poor Receivers - Worthiness Is a Story You Tell Yourself]]
 - [[Focus on Net Worth vs. Focus on Working Income - The Four Net Worth Factors]]
 - [[Have Money Work Hard for You vs. Working Hard for Your Money]]
+- [[How to Think About Money - Opportunity Cost Is Compounding's Evil Twin]]
 - [[Manage Your Money Well - The Habit Matters More Than the Amount]]
 - [[Paid on Results vs. Paid on Time]]
 - [[The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]

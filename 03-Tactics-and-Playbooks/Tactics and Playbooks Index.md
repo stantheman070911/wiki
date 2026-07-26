@@ -34,6 +34,7 @@ Belongs here: repeatable execution steps, checklists, workflows, and operating p
 - **Content map:** [[Content Creation and Distribution Map]]
 - **Operations map:** [[Operations and Productivity Map]]
 - **Additional guided paths:** [[Permission and Remarkability - Own Attention and Design Word of Mouth|Permission and word of mouth]] · [[The Podcast Guest Ladder - Hook, Product Ecosystem, and Podcast Pyramid|Podcast guest progression]] · [[家族企業與伴侶共創的邊界設計：分工、拍板與共同改善會議|Family-business and partner boundaries]]
+- **Financial independence path:** [[Debt Is Not Normal - The Avoid-and-Eliminate Playbook|clear the debt]] → [[F-You Money - The Three-Part Formula and the 25x Target|set the savings rate and the 25x target]] → [[The Simple Path Portfolio - Two Funds, Two Stages, and Why Complexity Costs You|invest the surplus simply]] → [[The 4 Percent Rule - Withdrawal Rates and the Flexibility That Makes Them Safe|live off it]]
 - **Major series:** none currently; ordered collections require a `series-hub` and explicit `series` metadata.
 
 ## Index
