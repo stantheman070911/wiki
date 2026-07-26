@@ -103,6 +103,8 @@ Housel's own version: he assumes his lifetime returns will be **⅓ lower than t
 - **Contrast:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine - Why Computers Complement Humans Instead of Replacing Them|Man and Machine]] — Housel's "historians are not prophets" warning applies to any model trained on the past.
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/First Be Invincible - Secure Against Defeat Before Seeking Victory|First Be Invincible]] — the same asymmetry between not-losing and winning, in a competitive rather than a portfolio setting.
 
+- **Contrast:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Die With Zero - Life Energy, the Net Worth Peak, and Decumulation|Die With Zero]] — Perkins agrees survival comes first, then argues that a cushion held past the point of use is itself the waste.
+
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-26_Book_MorganHousel_ThePsychologyOfMoney|The Psychology of Money]] — chapters 4–6 (compounding, staying wealthy, tails), 12–13 (surprise, room for error), and the summary in chapter 19.

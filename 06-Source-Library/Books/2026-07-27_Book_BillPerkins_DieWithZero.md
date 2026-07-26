@@ -1,3 +1,17 @@
+---
+title: "Die with Zero: Getting All You Can from Your Money and Your Life"
+author: Bill Perkins
+archived: 2026-07-27
+published: "2020"
+lang: en
+---
+
+# Die with Zero
+
+*by Bill Perkins (Houghton Mifflin Harcourt, 2020) — full text extraction of the ebook edition, archived for traceability. Quoted sparingly in entries.*
+
+---
+
 > Contents
 
 > Title Page

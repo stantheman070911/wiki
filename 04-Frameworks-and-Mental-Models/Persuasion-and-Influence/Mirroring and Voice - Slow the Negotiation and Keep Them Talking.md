@@ -53,6 +53,8 @@ In a bank-hostage negotiation, Voss's team used a calm voice, mirrors, and long 
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated Questions - How and What Create the Illusion of Control|Calibrated Questions - How and What Create the Illusion of Control]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open|Start With Agreement - Keep the Other Mind Open]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical Empathy - Labels, Silence, and the Accusation Audit|Tactical Empathy - Labels, Silence, and the Accusation Audit]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/See Through the Mask - Baselines, Mixed Signals, and Impression Management|See Through the Mask]] — the observational training that makes mirroring accurate rather than mechanical.
+
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapters 1–2

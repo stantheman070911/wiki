@@ -67,6 +67,8 @@ Steve Jobs used a daily mortality question for decades. Its value was not predic
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Happiness Is a Skill - Presence, Peace, and Self-Care|Happiness Is a Skill - Presence, Peace, and Self-Care]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The View From Above - Scale, Impermanence, and the Vanity of Fame|The View From Above]] — Marcus Aurelius reaches the same allocation rule from finitude and scale, eighteen centuries earlier.
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Time Buckets - Plan Experiences Against the Health Curve|Time Buckets]] — the same finitude argument turned into a scheduling tool across decades.
+
 ## Source reference
 
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

@@ -86,6 +86,8 @@ Housel's universal guidepost, and the reason no fixed savings percentage is pres
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Lindy Effect - Time as a Filter for Robust Ideas and Practices|The Lindy Effect]] — why a strategy's survivability matters more than its modelled optimum.
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Skill Stacking and the Education-ROI Playbook|Skill Stacking and the Education-ROI Playbook]] — the other response to a globalised talent pool.
 
+- **Contrast:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Die With Zero - Life Energy, the Net Worth Peak, and Decumulation|Die With Zero]] — where the saving should stop; Perkins rejects a constant savings rate across a life and puts the switch to spending at 45–60.
+
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-26_Book_MorganHousel_ThePsychologyOfMoney|The Psychology of Money]] — chapters 10 (Save Money) and 11 (Reasonable > Rational).

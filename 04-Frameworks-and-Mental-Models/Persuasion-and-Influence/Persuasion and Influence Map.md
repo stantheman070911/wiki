@@ -34,6 +34,8 @@ Use this map for negotiation, framing, risk reversal, social influence, and word
 
 ### Rapport and everyday influence
 
+- [[Confirm Their Self-Opinion - Lowering Defenses Before You Persuade]]
+- [[See Through the Mask - Baselines, Mixed Signals, and Impression Management]]
 - [[Six Ways to Make People Like You - Attention as the Scarce Good]]
 - [[The Desire to Be Important - Why Criticism Fails and Appreciation Works]]
 - [[Winning Agreement Without Winning the Argument - Carnegie's Twelve Moves]]

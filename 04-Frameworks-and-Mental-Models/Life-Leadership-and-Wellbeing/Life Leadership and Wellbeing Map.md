@@ -26,6 +26,7 @@ Use this map for life design, meaningful work, wellbeing, formative relationship
 
 Coherency, wayfinding, choices, moments, and parallel futures.
 
+- [[Give While Living - Timing Gifts and Charity for Maximum Impact]]
 - [[Life Design Compass - Workview, Lifeview, and Coherency]]
 - [[Life Is Short - Ruthless Attention Allocation]]
 - [[Meaning in Life Is Designed in Particular Moments]]
@@ -34,8 +35,10 @@ Coherency, wayfinding, choices, moments, and parallel futures.
 - [[Rise and Do the Work of a Human Being - Duty, Society, and the Vine]]
 - [[Struggling Well - Why Arriving Doesn't Satisfy and the Marginal Benefits of More Fall Off]]
 - [[The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
+- [[The Memory Dividend - Experiences as Compounding Investments]]
 - [[The Three Phases of Life and Returning the Boon]]
 - [[The View From Above - Scale, Impermanence, and the Vanity of Fame]]
+- [[Time Buckets - Plan Experiences Against the Health Curve]]
 - [[商業是連結與解決問題的方式：賺錢是驗證訊號而非目的]]
 - [[金錢真相、清晰溝通與人生取捨]]
 
@@ -55,6 +58,7 @@ Motivation, workplace influence, redesign, quitting, and skill-shaped contributi
 Maturity, output, feedback, trust, hybrid structures, and coordination.
 
 - [[Adaptive Leadership - Consistent Standards, Individual Treatment]]
+- [[Authority Is Earned, Not Assumed - Ambivalence, Vision, and the Entitlement Curse]]
 - [[Changing People Without Giving Offense - Carnegie's Nine Leadership Moves]]
 - [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
 - [[Cultivate Meaningful Work and Meaningful Relationships]]
@@ -73,6 +77,7 @@ Happiness, presence, flow, acceptance, curiosity, and resilience.
 
 - [[Good Enough for Now - Acceptance Without Settling]]
 - [[Happiness Is a Skill - Presence, Peace, and Self-Care]]
+- [[Your Triggers Are Guides - Decoding Anger, Jealousy, Regret, and Resentment]]
 - [[Life Is Short - Ruthless Attention Allocation]]
 - [[Pull Out Your Nails - Everything You Want Is on the Other Side of Worse First]]
 - [[Simple Flow - Presence Beyond Peak Performance]]

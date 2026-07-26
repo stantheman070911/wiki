@@ -54,6 +54,8 @@ One crafted moment is waking early to meditate in a quiet favorite chair. A disc
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Simple Flow - Presence Beyond Peak Performance|Simple Flow - Presence Beyond Peak Performance]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Designer's Way - Acceptance, Availability, and Engaged Detachment|The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Wonder Formula - Curiosity Plus Mystery|The Wonder Formula - Curiosity Plus Mystery]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Memory Dividend - Experiences as Compounding Investments|The Memory Dividend]] — why a crafted moment keeps paying, and why savoring is the mechanism that compounds it.
+
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_HowToLiveAMeaningfulLife_RawTranscript|How to Live a Meaningful Life]]

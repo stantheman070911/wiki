@@ -1,3 +1,17 @@
+---
+title: The Laws of Human Nature
+author: Robert Greene
+archived: 2026-07-27
+published: "2018"
+lang: en
+---
+
+# The Laws of Human Nature
+
+*by Robert Greene (Viking, 2018) — full text extraction of the ebook edition, archived for traceability. Quoted sparingly in entries.*
+
+---
+
 Also by Robert Greene Mastery The 50th Law (with 50 Cent) The 33 Strategies of War (a Joost Elffers Production) The Art of Seduction (a Joost Elffers Production) The 48 Laws of Power (a Joost Elffers Production)
 
 VIKING An imprint of Penguin Random House LLC 375 Hudson Street New York, New York 10014 penguinrandomhouse.com Copyright © 2018 by Robert Greene Penguin supports copyright. Copyright fuels creativity, encourages diverse voices, promotes free speech, and creates a vibrant culture. Thank you for buying an authorized edition of this book and for complying with copyright laws by not reproducing, scanning, or distributing any part of it in any form without permission. You are supporting writers and allowing Penguin to continue to publish books for every reader. ISBN 9780525428145 (hardcover) ISBN 9780698184541 (ebook) ISBN 9780525561804 (international edition) Version_1

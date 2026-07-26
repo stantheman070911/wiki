@@ -102,6 +102,8 @@ The honest reading is that this process is a filter, and filters remove people. 
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor Dilution Problem - Four Ways to Scale Past Yourself|The X-Factor Dilution Problem]] — the limit case of delegating what only the founder can do.
 - **Contrast:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Changing People Without Giving Offense - Carnegie's Nine Leadership Moves|Changing People Without Giving Offense]] — encouragement changes behaviour but cannot fix a seat mismatch; use GWC to tell which problem you have.
 
+- **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Read Character, Not Charm - Patterns, Tests, and Toxic Types|Read Character, Not Charm]] — how to actually judge the "right people" half rather than trusting the interview impression.
+
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-26_Book_GinoWickman_Traction|Traction: Get a Grip on Your Business]] — chapter 4 (The People Component): right people, right seats, the Accountability Chart, GWC, and Delegate and Elevate.

@@ -26,6 +26,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - topic/cash-flow
 - topic/chain-store
 - topic/channel-strategy
+- topic/character
 - topic/churn
 - topic/cognitive-bias
 - topic/commitment
@@ -42,8 +43,8 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - topic/creative-volume
 - topic/creativity
 - topic/cta
-- topic/deception
 - topic/culture
+- topic/deception
 - topic/decision-making
 - topic/delegation
 - topic/differentiation
@@ -53,6 +54,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - topic/education
 - topic/efficiency
 - topic/email-marketing
+- topic/emotional-intelligence
 - topic/enterprise
 - topic/equity
 - topic/execution
@@ -67,6 +69,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - topic/funnel
 - topic/growth
 - topic/happiness
+- topic/health
 - topic/hiring
 - topic/hooks
 - topic/idea-meritocracy
@@ -118,6 +121,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - topic/persona
 - topic/personal-brand
 - topic/persuasion
+- topic/philanthropy
 - topic/positioning
 - topic/power-law
 - topic/pricing
@@ -136,6 +140,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - topic/reputation
 - topic/research
 - topic/retention
+- topic/retirement
 - topic/risk
 - topic/root-cause
 - topic/rule-of-100
@@ -144,6 +149,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - topic/scriptwriting
 - topic/secrets
 - topic/self-belief
+- topic/self-sabotage
 - topic/service-business
 - topic/short-form-video
 - topic/simplicity
@@ -171,6 +177,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - topic/word-of-mouth
 - topic/writing
 
+
 ## person/
 
 - person/alex-hormozi
@@ -180,7 +187,9 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - person/ava-jurgens
 - person/ben-watkins
 - person/bill-burnett
+- person/bill-perkins
 - person/brent-adamson
+- person/brianna-wiest
 - person/caleb-ralston
 - person/charlotte-jarden
 - person/chen-tsung-hsien
@@ -228,6 +237,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - person/rick-rubin
 - person/ries-trout
 - person/robert-cialdini
+- person/robert-greene
 - person/sabri-suby
 - person/sam-parr
 - person/seth-godin
@@ -246,6 +256,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - person/will-barron
 - person/william-rees-mogg
 
+
 ## source/
 
 - source/acquisition-100m-roadmap
@@ -258,6 +269,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - source/designing-your-life
 - source/designing-your-new-work-life
 - source/diary-of-a-ceo
+- source/die-with-zero
 - source/e-myth-revisited
 - source/founder-marketing-roundup
 - source/gap-selling
@@ -280,6 +292,8 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - source/the-art-of-war
 - source/the-challenger-sale
 - source/the-goal
+- source/the-laws-of-human-nature
+- source/the-mountain-is-you
 - source/the-psychology-of-money
 - source/the-sovereign-individual
 - source/the-spin-selling-fieldbook
@@ -288,6 +302,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - source/this-is-marketing
 - source/traction
 - source/traction-eos
+
 
 ## Boundaries
 
@@ -305,4 +320,10 @@ Disambiguation notes for overlapping terms:
 - `topic/deception` is deliberately shaping what a rival believes about you — feints, concealment, misdirection; `topic/competition` is the broader condition of contested markets. Deception is a tactic used within competition, not a synonym for it.
 - `topic/adaptability` is changing your method as conditions change; `topic/optionality` is holding open alternatives so you retain the right to change. Adaptability is a response, optionality a prior arrangement.
 - `topic/mortality` is finitude of life and time as a decision input; `topic/risk` concerns exposure to loss more generally.
+- `topic/self-sabotage` is behaviour that undermines a stated goal to serve an unstated need; `topic/mindset` is the general category of belief-and-attitude models. Tag `topic/self-sabotage` only when the self-defeating mechanism is the subject.
+- `topic/emotional-intelligence` is reading and regulating emotions — your own and other people's; `topic/persuasion` is moving someone toward a position. Emotional intelligence is an input to persuasion, not a synonym.
+- `topic/character` is the durable pattern of a person's conduct as a thing to be assessed; `topic/reputation` is what others believe about them. Greene's point is that these routinely diverge.
+- `topic/health` is physical condition as a resource or constraint on what a life can contain; it is not a business or market topic.
+- `topic/retirement` is the transition out of paid work and the decumulation that follows; `topic/wealth` is the stock itself.
+- `topic/philanthropy` is giving money or time away; `topic/money-management` is administering your own.
 - Use `person/` and `source/` tags only when that entity is part of the page provenance, not for people or brands mentioned merely as examples.

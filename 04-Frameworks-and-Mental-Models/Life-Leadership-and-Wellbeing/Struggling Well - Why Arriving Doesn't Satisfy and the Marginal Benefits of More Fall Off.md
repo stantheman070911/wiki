@@ -52,6 +52,8 @@ The closing chapter of Dalio's memoir, written at 67 after four decades of runni
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Maker Mix - Money, Impact, and Expression|The Maker Mix]].
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Wealth Is What You Don't See - Enough, Freedom, and the Man in the Car Paradox|Wealth Is What You Don't See]] — the goalpost problem and why the ceiling of social comparison can never be reached.
 
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Microshifts, Not Breakthroughs - The Homeostatic Impulse and Adjustment Shock|Microshifts, Not Breakthroughs]] — the neurological version: dopamine pays for wanting, not having, so arriving reliably resets the baseline.
+
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Part I, Ch. 8 (Looking Back from a Higher Level).

@@ -1,3 +1,17 @@
+---
+title: "The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery"
+author: Brianna Wiest
+archived: 2026-07-27
+published: "2020"
+lang: en
+---
+
+# The Mountain Is You
+
+*by Brianna Wiest (Thought Catalog Books, 2020) — full text extraction of the ebook edition, archived for traceability. Quoted sparingly in entries.*
+
+---
+
 Table of Contents Title Copyright Reviews Introduction Chapter 1 Chapter 2 Chapter 3 Chapter 4 Chapter 5 Chapter 6 Chapter 7 References About the Author Other Books Publisher
 
 ### THE

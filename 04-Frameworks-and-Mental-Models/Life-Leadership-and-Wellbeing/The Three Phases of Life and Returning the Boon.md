@@ -61,6 +61,8 @@ The boundaries are about dependency, not age or wealth. Dalio's own signal that 
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Teach to Learn - Public Obligation and the Feynman Loop|Teach to Learn]] — returning the boon, at a much smaller scale and much earlier.
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The View From Above - Scale, Impermanence, and the Vanity of Fame|The View From Above]] — the finitude argument that makes phasing a life worth doing deliberately.
 
+- **Contrast:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Give While Living - Timing Gifts and Charity for Maximum Impact|Give While Living]] — Perkins argues most of the giving belongs earlier than a late phase, because a gift's impact declines with the recipient's age.
+
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Part I, Chs. 6–8.

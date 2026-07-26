@@ -41,5 +41,7 @@ Picture a coach telling an 8-year-old after a bad game: "Your value is based on 
 - [[Failure Reframing and Immunity]] — reframing the losses the coach weaponizes.
 - **Contrast:** [[Playing to Win vs. Playing Not to Lose]] — the coach keeps you playing not to lose.
 
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Self-Sabotage Is a Coping Mechanism - Unmet Needs and Hidden Attachments|Self-Sabotage Is a Coping Mechanism]] — the same reframe extended from the inner critic to the whole catalogue of self-defeating behaviour.
+
 ## Source reference
 [[2026-07-20_Video_GrahamWeaver_HowToWinWithoutCrushingYourSoul_RawTranscript]]

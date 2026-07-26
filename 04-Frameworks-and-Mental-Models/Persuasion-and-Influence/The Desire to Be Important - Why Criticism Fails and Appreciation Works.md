@@ -67,6 +67,8 @@ Carnegie is explicit that this is not manipulation and not a bag of tricks: each
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay]] — the organizational version of refusing to make error shameful.
 - **Contrast:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/No One's Opinion Pays Your Bills - Immunity to Critics|No One's Opinion Pays Your Bills]] — the receiving end: why *your* need to feel important is worth engineering away.
 
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Confirm Their Self-Opinion - Lowering Defenses Before You Persuade|Confirm Their Self-Opinion]] — Greene's mechanism for Carnegie's maxim: the three universals a person needs confirmed, and what happens when you challenge one.
+
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-27_Book_DaleCarnegie_HowToWinFriendsAndInfluencePeople|How to Win Friends and Influence People]] — Part One, "Fundamental Techniques in Handling People."

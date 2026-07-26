@@ -51,6 +51,8 @@ Hormozi's meta-skill of wealth-building is the ability to act without an immedia
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/完美主義是恐懼的偽裝：用行動與deadline打破癱瘓|完美主義是恐懼的偽裝：用行動與deadline打破癱瘓]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Build for the Height - Time Horizon Sets the Foundation|Build for the Height - Time Horizon Sets the Foundation]]
+- **Contrast:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Memory Dividend - Experiences as Compounding Investments|The Memory Dividend]] — Perkins's bound on the same virtue: deferral has an expiry date, and indefinitely delayed gratification is no gratification.
+
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]

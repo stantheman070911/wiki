@@ -6,12 +6,14 @@ tags:
   - topic/risk
   - topic/decision-making
   - person/alex-hormozi
+  - person/bill-perkins
   - person/daniel-priestley
   - person/nassim-nicholas-taleb
   - source/daniel-priestley-youtube
+  - source/die-with-zero
   - source/skin-in-the-game
 status: reviewed
-updated: 2026-07-08
+updated: 2026-07-27
 ---
 
 # Fear, Regret, and Asymmetric Bets
@@ -53,6 +55,20 @@ A later Q&A added three nuances to the same framework:
 
 Source for this section: *Alex Hormozi Answers Your Questions (Ask Me Anything)* — see [[2026-07-08_Video_AlexHormozi_AskMeAnything]].
 
+## Perkins: the asymmetry decays with age, and fear should be quantified
+
+Bill Perkins reaches the same conclusion from the life-allocation side, and adds two things Hormozi's version leaves implicit.
+
+**Both sides of the asymmetry move against you as you age.** The downside rises — dependents share it, and recovery time shrinks — but so does the upside fall, because *even in the best case you have fewer years left to enjoy the win.* So the risk/reward balance tilts twice, not once. Mark Cuban on his early moves: *"I had nothing. So I had nothing to lose, right? It was all about going for it."* Perkins's own version: fired as a junior trader at 23, unemployed a month, took a broker job he didn't want — *"I was 23. It was easy to correct course."* The same reasoning stopped him riding motorcycles and taking flying lessons once he had children: *"I no longer had the right to put my life on the line for the sake of those thrills."*
+
+**Quantify every fear.** The generic reason people miss asymmetric windows is that they magnify the downside into a worst case (homelessness) that is not remotely realistic, so the asymmetry becomes invisible — *"it's as if disastrous failure is as likely as any kind of success."* Perkins's method is to price the fear rather than argue with it. Afraid to move cities for a job paying $70,000 more? Ask how much time you actually spend with the people you'd leave, and what a same-day round-trip first-class ticket costs. That price is the true cost of the relationship you're protecting. If you still stay, fine — but now you know you paid $70,000 for the comfort of not moving.
+
+**Name the risk of inaction.** Staying put registers as neutral; it isn't. If avoiding the move leaves you with 7,000 experience points instead of 10,000, you chose a **30% less fulfilling life** in exchange for peace of mind. That may be a fair trade for a genuinely risk-averse person — Perkins declines to tell anyone their number — but it should be a priced decision rather than a default.
+
+**A late corollary.** Boldness in the second half of life takes a different form: not career risk but *the courage to spend.* Walking away from work you no longer want, and drawing down money you spent decades accumulating, is the older person's asymmetric bet. *"People are more afraid of running out of money than wasting their life, and that's got to switch."*
+
+Source for this section: [[06-Source-Library/Books/2026-07-27_Book_BillPerkins_DieWithZero|Die with Zero]], rule 9 (be bold — not foolish).
+
 ## Relationships
 
 - **Has example:** [[05-Intelligence-and-Research/Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job|Winning with AI - Workflow Thinking, BYOA, and Risk as the Last Human Job]]
@@ -73,9 +89,13 @@ Source for this section: *Alex Hormozi Answers Your Questions (Ask Me Anything)*
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain|Hardship as Origin Story - Heroes Use Pain]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle|The Reference Group and Re-engineering Your Circle]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Prospect Theory - Reference Points, Loss Aversion, and the Fourfold Pattern|Prospect Theory]] — the measured asymmetry — losses weighted about twice as heavily as gains — and the fourfold pattern it produces.
+- **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Die With Zero - Life Energy, the Net Worth Peak, and Decumulation|Die With Zero]] — where the second-half version of boldness (spending down rather than accumulating) is worked out in full.
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Time Buckets - Plan Experiences Against the Health Curve|Time Buckets]] — the schedule of closing windows that makes the age decay concrete.
+
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_25HarshTruthsAt45_RawTranscript|25 Harsh Truths at 45 - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Books/2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript|Skin in the Game - Raw Transcript]]
 - **supporting:** [[06-Source-Library/Podcasts/2026-07-20_Podcast_DiaryOfACEO_AlexHormozi_RawTranscript|The Man Who Made $100 Million Before 32 - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Books/2026-07-27_Book_BillPerkins_DieWithZero|Die with Zero]] — rule 9, the age-decay and fear-quantification section.

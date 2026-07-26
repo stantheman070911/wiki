@@ -39,6 +39,7 @@ Believability, track records, independent thinking, and triangulation.
 
 Ruin, optionality, asymmetric bets, and skin in the game.
 
+- [[Die With Zero - Life Energy, the Net Worth Peak, and Decumulation]]
 - [[Fear, Regret, and Asymmetric Bets]]
 - [[Getting Wealthy vs. Staying Wealthy - Survival, Room for Error, and Tails]]
 - [[Increase the Surface Area of Luck]]
@@ -78,6 +79,7 @@ Pre-mortems, boundary conditions, reversibility, and feedback.
 Lindy effects, repeated exposure, and long-term consequences.
 
 - [[Choosing Well - Narrow, Decide, Let Go, and Move On]]
+- [[Die With Zero - Life Energy, the Net Worth Peak, and Decumulation]]
 - [[Focus Questions - Formation Beyond Problem Solving]]
 - [[Getting Wealthy vs. Staying Wealthy - Survival, Room for Error, and Tails]]
 - [[Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]

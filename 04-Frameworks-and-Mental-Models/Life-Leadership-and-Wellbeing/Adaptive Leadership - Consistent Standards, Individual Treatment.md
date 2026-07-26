@@ -59,6 +59,8 @@ Sir Alex Ferguson’s former players described sharply different treatment: some
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Task-Relevant Maturity|Task-Relevant Maturity]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Understand That People Are Wired Very Differently|Understand That People Are Wired Very Differently - Baseball Cards and the Team Dimensions Profile]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Changing People Without Giving Offense - Carnegie's Nine Leadership Moves|Changing People Without Giving Offense]] — the delivery mechanics for individual treatment when the message is a correction.
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Authority Is Earned, Not Assumed - Ambivalence, Vision, and the Entitlement Curse|Authority Is Earned, Not Assumed]] — why consistent standards must sit on top of earned authority: without it, group ambivalence turns fixed standards into friction.
+
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 32

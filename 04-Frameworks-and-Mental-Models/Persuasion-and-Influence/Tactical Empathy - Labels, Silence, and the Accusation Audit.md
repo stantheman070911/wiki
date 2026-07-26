@@ -55,6 +55,8 @@ When a consulting contract was about to be cut, a negotiator named Anna opened b
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open|Start With Agreement - Keep the Other Mind Open]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Trust and Tension - Move People Without Coercion|Trust and Tension - Move People Without Coercion]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Desire to Be Important - Why Criticism Fails and Appreciation Works|The Desire to Be Important]] — the same instruction to understand before condemning, arrived at from ordinary rather than adversarial situations.
+- **Prerequisite:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/See Through the Mask - Baselines, Mixed Signals, and Impression Management|See Through the Mask]] — you can only label what you detected; baselines and mixed signals are where the detection comes from.
+
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapter 3
