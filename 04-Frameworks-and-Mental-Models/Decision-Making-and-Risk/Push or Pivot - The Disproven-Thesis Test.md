@@ -45,6 +45,7 @@ Pushing is not blind stubbornness. The rule assumes you're in a live feedback lo
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Greener-Pasture Fallacy|The Greener-Pasture Fallacy]] — fixing the business you have before jumping to a new one.
 - **Contrast:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Temporary Defeat Is a Plan Signal - Organized Planning and the Quitter's Test|Temporary Defeat Is a Plan Signal]] — Hill's rule that failure indicts the plan, never the goal; this entry supplies the missing test for when the goal is what's wrong.
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Outside View - Reference Classes Against the Planning Fallacy|The Outside View]] — Kahneman's "irrational perseverance" names the failure this test is built to catch.
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Rapidity Over Protraction - The Economics of a Campaign|Rapidity Over Protraction]] — the cost side of the same question: what a campaign burns for every week the decision is deferred.
 
 ## Source reference
 

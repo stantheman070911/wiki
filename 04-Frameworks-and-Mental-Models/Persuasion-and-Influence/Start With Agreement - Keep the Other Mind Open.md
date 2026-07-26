@@ -68,6 +68,7 @@ In a kidnapping negotiation described by Voss, the negotiator repeatedly summari
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No - Protect Autonomy to Start the Real Negotiation|Master No - Protect Autonomy to Start the Real Negotiation]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Mirroring and Voice - Slow the Negotiation and Keep Them Talking|Mirroring and Voice - Slow the Negotiation and Keep Them Talking]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical Empathy - Labels, Silence, and the Accusation Audit|Tactical Empathy - Labels, Silence, and the Accusation Audit]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Winning Agreement Without Winning the Argument - Carnegie's Twelve Moves|Winning Agreement Without Winning the Argument]] — the yes-momentum move sits inside a fuller twelve-step sequence for contested conversations.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_StevenBartlett_TheDiaryOfACEO33LawsOfBusinessAndLife_RawTranscript|The Diary of a CEO - The 33 Laws of Business and Life]] — locator: Law 3

@@ -60,6 +60,7 @@ When one sales director invited a peer into a proposal, Keenan assumed the two l
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes - Decision Criteria, Buying Process, and Mutual Effort|The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem Identification Chart - Problems, Impacts, and Root Causes|The Problem Identification Chart - Problems, Impacts, and Root Causes]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Six Ways to Make People Like You - Attention as the Scarce Good|Six Ways to Make People Like You]] — the listening discipline this call structure depends on, stated as rehearsable behaviour.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_Keenan_GapSelling_RawTranscript|Gap Selling]] — locator: chapters 7–8

@@ -10,6 +10,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 
 ## topic/
 
+- topic/adaptability
 - topic/advertising
 - topic/agency-model
 - topic/ai
@@ -41,6 +42,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - topic/creative-volume
 - topic/creativity
 - topic/cta
+- topic/deception
 - topic/culture
 - topic/decision-making
 - topic/delegation
@@ -98,6 +100,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - topic/money
 - topic/money-management
 - topic/monopoly
+- topic/mortality
 - topic/narrative
 - topic/niche
 - topic/offers
@@ -148,6 +151,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - topic/skill-acquisition
 - topic/skills
 - topic/startups
+- topic/stoicism
 - topic/storytelling
 - topic/strategy
 - topic/supply-and-demand
@@ -182,6 +186,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - person/chen-tsung-hsien
 - person/chen-xiuping
 - person/chris-voss
+- person/dale-carnegie
 - person/daniel-kahneman
 - person/daniel-priestley
 - person/dave-evans
@@ -204,6 +209,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - person/keenan
 - person/kent-yashimura
 - person/kim
+- person/marcus-aurelius
 - person/matt-gray
 - person/matthew-dixon
 - person/michael-gerber
@@ -230,6 +236,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - person/steve-jobs
 - person/steven-bartlett
 - person/steven-pinker
+- person/sun-tzu
 - person/t-harv-eker
 - person/tahl-raz
 - person/tuan-le
@@ -259,8 +266,10 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - source/h2h-marketing
 - source/high-output-management
 - source/how-to-live-a-meaningful-life
+- source/how-to-win-friends-and-influence-people
 - source/kim-startup-qa
 - source/measure-what-matters
+- source/meditations
 - source/modern-wisdom
 - source/never-split-the-difference
 - source/obviously-awesome
@@ -268,6 +277,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - source/personal-brand-launch
 - source/product-led-growth
 - source/skin-in-the-game
+- source/the-art-of-war
 - source/the-challenger-sale
 - source/the-goal
 - source/the-psychology-of-money
@@ -291,4 +301,8 @@ Disambiguation notes for overlapping terms:
 - `topic/mental-models` is the general category of reusable thinking tools; `topic/cognitive-bias` is narrower — a documented, systematic error in human judgment.
 - `topic/forecasting` is predicting a future quantity or date; `topic/decision-making` is choosing among options. A planning estimate is forecasting; a go/no-go call is decision-making.
 - `source/traction` is Weinberg and Mares' *Traction* on customer-acquisition channels; `source/traction-eos` is Gino Wickman's *Traction*, the EOS operating system. Two unrelated books with the same title.
+- `topic/stoicism` is the specific philosophical school and its practices (dichotomy of control, view from above, memento mori); `topic/mindset` is the general category of belief-and-attitude models. Tag a page `topic/stoicism` only when the Stoic framing is doing the work.
+- `topic/deception` is deliberately shaping what a rival believes about you — feints, concealment, misdirection; `topic/competition` is the broader condition of contested markets. Deception is a tactic used within competition, not a synonym for it.
+- `topic/adaptability` is changing your method as conditions change; `topic/optionality` is holding open alternatives so you retain the right to change. Adaptability is a response, optionality a prior arrangement.
+- `topic/mortality` is finitude of life and time as a decision input; `topic/risk` concerns exposure to loss more generally.
 - Use `person/` and `source/` tags only when that entity is part of the page provenance, not for people or brands mentioned merely as examples.

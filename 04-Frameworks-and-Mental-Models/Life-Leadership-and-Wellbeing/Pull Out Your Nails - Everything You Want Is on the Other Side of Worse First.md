@@ -48,6 +48,7 @@ Life isn't linear. You reach a **local peak or plateau** and get stuck — becau
 - [[Solve the Problem You Have, Not the One You're Afraid Of]] — the avoidance this entry confronts.
 - [[The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats]] — "worse first, better later" as second-order thinking.
 - [[Act in Spite of Fear vs. Let Fear Stop You]] — the descent into the valley in practice.
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Impediment Becomes the Way - Obstacles as Material|The Impediment Becomes the Way]] — the Stoic mechanism for treating the thing in your way as the work itself.
 
 ## Source reference
 [[2026-07-20_Video_GrahamWeaver_HowToWinWithoutCrushingYourSoul_RawTranscript]]

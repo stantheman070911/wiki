@@ -37,6 +37,7 @@ Wealth File #9. Eker generalizes this into a container metaphor: your wealth can
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Act in Spite of Fear vs. Let Fear Stop You|Act in Spite of Fear vs. Let Fear Stop You - The Comfort Zone Equals the Wealth Zone]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim|Focus on Opportunities vs. Focus on Obstacles - Ready, Fire, Aim]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle|I Create My Life vs. Life Happens to Me - Escaping the Victim Triangle]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Impediment Becomes the Way - Obstacles as Material|The Impediment Becomes the Way]] — the mechanism by which growing bigger than the problem actually works: the obstacle becomes the object of the work.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

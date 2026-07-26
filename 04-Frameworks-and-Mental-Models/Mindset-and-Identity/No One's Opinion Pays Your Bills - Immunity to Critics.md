@@ -42,6 +42,7 @@ As a business grows it draws attention, and attention brings detractors, one-sta
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Business Is 80% Mindset - Risk Tolerance and Refusing to Quit|Business Is 80% Mindset - Risk Tolerance and Refusing to Quit]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle|Cringe Is a Status Signal - Shame, Guilt, and Documenting the Struggle]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle|The Reference Group and Re-engineering Your Circle]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The View From Above - Scale, Impermanence, and the Vanity of Fame|The View From Above]] — the scale exercise that shrinks the critics to their real number before you argue with them.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-12_Video_SabriSuby_11BrutalTruthsToGrowYourBusinessFast_RawTranscript|11 Brutal Truths To Grow Your Business Fast]]

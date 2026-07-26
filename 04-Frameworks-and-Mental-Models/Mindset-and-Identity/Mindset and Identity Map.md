@@ -13,6 +13,7 @@ Use this map to navigate identity, beliefs, motivation, emotional resilience, an
 ## Start here
 
 - [[Build Evidence, Not Confidence]] — confidence as accumulated proof
+- [[Things Do Not Touch the Soul - Judgment Is Where Disturbance Lives]] — the dichotomy of control, and where disturbance actually enters
 - [[Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue]] — identity translated into repeated behavior
 - [[Embrace Reality and Deal With It - Pain, Truth, and the Hyperrealist's Formula]] — reality orientation
 - [[Delayed Gratification - Patience and Inputs vs Outputs]] — time horizon and process
@@ -38,7 +39,9 @@ Accountability, victimhood, fear, and self-belief.
 - [[No One's Opinion Pays Your Bills - Immunity to Critics]]
 - [[Playing to Win vs. Playing Not to Lose]]
 - [[Relentlessly Resourceful - The Founder Trait Stack]]
+- [[The Impediment Becomes the Way - Obstacles as Material]]
 - [[The Six Basic Fears and Susceptibility to Negative Influence]]
+- [[Things Do Not Touch the Soul - Judgment Is Where Disturbance Lives]]
 - [[身份、故事與致勝三步]]
 
 ### Identity and behavior

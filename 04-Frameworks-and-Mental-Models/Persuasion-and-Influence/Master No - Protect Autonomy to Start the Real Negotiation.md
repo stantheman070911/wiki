@@ -56,6 +56,7 @@ A nonprofit fundraiser improved an unproductive call by asking a donor whether h
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated Questions - How and What Create the Illusion of Control|Calibrated Questions - How and What Create the Illusion of Control]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Start With Agreement - Keep the Other Mind Open|Start With Agreement - Keep the Other Mind Open]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical Empathy - Labels, Silence, and the Accusation Audit|Tactical Empathy - Labels, Silence, and the Accusation Audit]]
+- **Contrast:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Winning Agreement Without Winning the Argument - Carnegie's Twelve Moves|Winning Agreement Without Winning the Argument]] — Carnegie works to prevent a defensive "no"; Voss works to invite a protective one. The two apply to different kinds of "no."
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapter 4

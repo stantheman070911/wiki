@@ -46,6 +46,7 @@ Hormozi argues that mystical self-talk ("I have demons," "it's stored in my body
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Accountability and the Blame-Power Law|Accountability and the Blame-Power Law]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite Games - Winning by Emptying the Tank|Finite vs Infinite Games - Winning by Emptying the Tank]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Hardship as Origin Story - Heroes Use Pain|Hardship as Origin Story - Heroes Use Pain]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Things Do Not Touch the Soul - Judgment Is Where Disturbance Lives|Things Do Not Touch the Soul]] — the classical ancestor of separating the event from the verdict passed on it.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_HowToGetRichInYour20s_7HourGuide|How to Get Rich in Your 20s - 7-Hour Guide]]

@@ -62,6 +62,7 @@ Circuit City spent roughly a decade refining its warehouse-showroom model before
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Kaizen and the Progress Principle|Kaizen and the Progress Principle - Small Wins, Course Corrections, and Motivation]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Process as the Goal - The Zero-Follower Consistency Engine|Process as the Goal - The Zero-Follower Consistency Engine]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Cheng and Chi - Direct and Indirect, Momentum and Timing|Cheng and Ch'i]] — the round stone on the mountain: design the slope rather than recruiting people to push.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_JimCollins_GoodToGreat_RawTranscript|Good to Great - Raw Transcript]] — locator: chapter 8

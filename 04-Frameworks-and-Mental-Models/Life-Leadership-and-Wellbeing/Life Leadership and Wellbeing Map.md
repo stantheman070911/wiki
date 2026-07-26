@@ -31,9 +31,11 @@ Coherency, wayfinding, choices, moments, and parallel futures.
 - [[Meaning in Life Is Designed in Particular Moments]]
 - [[Moment-Making - Crafted, Discovered, and Savored Experiences]]
 - [[Primary Aim and Strategic Objective - Make the Business Serve the Life]]
+- [[Rise and Do the Work of a Human Being - Duty, Society, and the Vine]]
 - [[Struggling Well - Why Arriving Doesn't Satisfy and the Marginal Benefits of More Fall Off]]
 - [[The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
 - [[The Three Phases of Life and Returning the Boon]]
+- [[The View From Above - Scale, Impermanence, and the Vanity of Fame]]
 - [[商業是連結與解決問題的方式：賺錢是驗證訊號而非目的]]
 - [[金錢真相、清晰溝通與人生取捨]]
 
@@ -53,6 +55,7 @@ Motivation, workplace influence, redesign, quitting, and skill-shaped contributi
 Maturity, output, feedback, trust, hybrid structures, and coordination.
 
 - [[Adaptive Leadership - Consistent Standards, Individual Treatment]]
+- [[Changing People Without Giving Offense - Carnegie's Nine Leadership Moves]]
 - [[Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
 - [[Cultivate Meaningful Work and Meaningful Relationships]]
 - [[Get and Stay in Sync]]
@@ -76,6 +79,7 @@ Happiness, presence, flow, acceptance, curiosity, and resilience.
 - [[Struggling Well - Why Arriving Doesn't Satisfy and the Marginal Benefits of More Fall Off]]
 - [[The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
 - [[The Four Vectors of Mental Toughness]]
+- [[The View From Above - Scale, Impermanence, and the Vanity of Fame]]
 - [[The Wonder Formula - Curiosity Plus Mystery]]
 - [[Transactional and Flow Worlds - Intent Versus What Is]]
 - [[決策、幸福與心智管理]]

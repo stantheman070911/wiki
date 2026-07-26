@@ -53,6 +53,7 @@ Diagnostic test for "stuck": has incremental, one-link-at-a-time investment fail
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Inertia and Entropy - Three Kinds of Organizational Stuckness|Inertia and Entropy - Three Kinds of Organizational Stuckness]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy as Design - Coordinating Actions Under Constraint|Strategy as Design - Coordinating Actions Under Constraint]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action|The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Weak Points and Strong - Concentrate Where They Are Not|Weak Points and Strong]] — a rival's weakest link is the undefended point; the same logic read offensively.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_RichardRumelt_GoodStrategyBadStrategy_RawTranscript|Good Strategy/Bad Strategy: The Difference and Why It Matters]] — locator: Ch. 8

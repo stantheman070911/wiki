@@ -56,6 +56,7 @@ The existing entry [[決策、幸福與心智管理]] covers Naval's happiness *
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed Gratification - Patience and Inputs vs Outputs|Delayed Gratification - Patience and Inputs vs Outputs]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle|The Reference Group and Re-engineering Your Circle]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Struggling Well - Why Arriving Doesn't Satisfy and the Marginal Benefits of More Fall Off|Struggling Well]] — the same conclusion reported from the far end of an extreme outcome.
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The View From Above - Scale, Impermanence, and the Vanity of Fame|The View From Above]] — the Stoic exercise behind "only the present is owned," which is what makes presence trainable.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_EricJorgenson_TheAlmanackOfNavalRavikant|The Almanack Of Naval Ravikant]]

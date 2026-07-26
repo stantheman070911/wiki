@@ -100,6 +100,7 @@ The honest reading is that this process is a filter, and filters remove people. 
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time|You Have a Job, Not a Business]] — Delegate and Elevate reached from the founder's time budget.
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The E-Myth Owner-Role Triad - Entrepreneur, Manager, and Technician|The E-Myth Owner-Role Triad]] — the Visionary/Integrator split is Gerber's Entrepreneur/Manager distinction made structural.
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The X-Factor Dilution Problem - Four Ways to Scale Past Yourself|The X-Factor Dilution Problem]] — the limit case of delegating what only the founder can do.
+- **Contrast:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Changing People Without Giving Offense - Carnegie's Nine Leadership Moves|Changing People Without Giving Offense]] — encouragement changes behaviour but cannot fix a seat mismatch; use GWC to tell which problem you have.
 
 ## Source reference
 

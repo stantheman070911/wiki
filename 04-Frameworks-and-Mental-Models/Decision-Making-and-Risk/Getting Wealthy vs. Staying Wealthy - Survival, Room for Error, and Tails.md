@@ -101,6 +101,7 @@ Housel's own version: he assumes his lifetime returns will be **⅓ lower than t
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Delayed Gratification - Patience and Inputs vs Outputs|Delayed Gratification]] — the compounding argument as a personal discipline.
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Out-Fail the Competition - Building an Experimentation System|Out-Fail the Competition]] — the operating system for a high failure rate.
 - **Contrast:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Man and Machine - Why Computers Complement Humans Instead of Replacing Them|Man and Machine]] — Housel's "historians are not prophets" warning applies to any model trained on the past.
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/First Be Invincible - Secure Against Defeat Before Seeking Victory|First Be Invincible]] — the same asymmetry between not-losing and winning, in a competitive rather than a portfolio setting.
 
 ## Source reference
 

@@ -52,6 +52,7 @@ This is the opening chapter of Dalio's "Life Principles" and the philosophical f
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Trust in Radical Truth and Radical Transparency|Trust in Radical Truth and Radical Transparency]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Build Evidence, Not Confidence|Build Evidence, Not Confidence]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Things Do Not Touch the Soul - Judgment Is Where Disturbance Lives|Things Do Not Touch the Soul]] — Dalio's pain-plus-reflection and Marcus Aurelius's dichotomy of control arrive at the same posture from opposite directions.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_RayDalio_Principles|Principles]] — locator: Ch. 1

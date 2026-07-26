@@ -58,6 +58,7 @@ Cialdini's first two principles are the deepest because they exploit near-univer
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Tactical Empathy - Labels, Silence, and the Accusation Audit|Tactical Empathy - Labels, Silence, and the Accusation Audit]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle|Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Desire to Be Important - Why Criticism Fails and Appreciation Works|The Desire to Be Important]] — Carnegie's pre-experimental version of the same lever, argued from the hunger appreciation feeds.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion|Influence Psychology Of Persuasion]] — locator: ch. 2–3

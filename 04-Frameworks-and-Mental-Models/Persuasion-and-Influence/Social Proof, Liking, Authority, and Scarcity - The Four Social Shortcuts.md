@@ -66,6 +66,7 @@ Rounding out Cialdini's six principles. Each is a heuristic that outsources a ha
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities|The Minority Rule - How Intransigent Preferences Dominate Flexible Majorities]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle|Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Six Ways to Make People Like You - Attention as the Scarce Good|Six Ways to Make People Like You]] — the liking shortcut, stated as six rehearsable behaviours rather than as a compliance finding.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-08_Book_Cialdini_InfluencePsychologyOfPersuasion|Influence Psychology Of Persuasion]] — locator: ch. 4–7

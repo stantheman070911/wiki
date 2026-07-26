@@ -75,6 +75,7 @@ That is the actionable claim: this is an institutional problem with institutiona
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning Backward from the Gap|Planning Backward from the Gap]] — use an outside-view baseline as the input to backward planning, or you will plan backward from a fantasy.
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Critical Path - Work Backward from a Traction Goal|Critical Path]].
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin - Time Probability, Repeated Exposure, and Survival First|Risk of Ruin]] — what an overrun costs when you financed the plan on the inside-view estimate.
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Five Factors and Seven Comparisons - Calculate Before You Commit|Five Factors and Seven Comparisons]] — a structured pre-commitment comparison, which is an outside view applied to a rival rather than to a project.
 
 ## Source reference
 

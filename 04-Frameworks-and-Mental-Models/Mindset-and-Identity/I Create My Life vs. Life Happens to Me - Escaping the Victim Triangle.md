@@ -41,6 +41,7 @@ This is Wealth File #1 in Eker's seventeen contrasts between rich and poor minds
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Admire vs. Resent the Rich - Bless That Which You Want|Admire vs. Resent the Rich - Bless That Which You Want]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Bigger Than Your Problems vs. Smaller Than Your Problems|Bigger Than Your Problems vs. Smaller Than Your Problems]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Things Do Not Touch the Soul - Judgment Is Where Disturbance Lives|Things Do Not Touch the Soul]] — the same locus-of-control move, argued from what is genuinely yours rather than from wealth outcomes.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

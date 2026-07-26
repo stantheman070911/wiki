@@ -44,6 +44,7 @@ Wealth File #2. Eker argues the size of the goal itself, not effort or ability, 
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Finite vs Infinite Games - Winning by Emptying the Tank|Finite vs Infinite Games - Winning by Emptying the Tank]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Think Big vs. Think Small - The Law of Income|Think Big vs. Think Small - The Law of Income]]
+- **Contrast:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/First Be Invincible - Secure Against Defeat Before Seeking Victory|First Be Invincible]] — Sun Tzu inverts the emphasis: secure against defeat first, then attack. Read together, invulnerability is the precondition for aggression, not a substitute for it.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_THarvEker_SecretsOfTheMillionaireMind|Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth]]

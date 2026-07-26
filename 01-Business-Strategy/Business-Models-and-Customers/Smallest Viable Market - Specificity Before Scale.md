@@ -58,6 +58,7 @@ The Grateful Dead built a durable career around a comparatively small group of d
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Three Market Positioning Styles - Head to Head, Big Fish, or New Game|Three Market Positioning Styles - Head to Head, Big Fish, or New Game]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The 50 Percent Rule - Build Product and Traction in Parallel|The 50 Percent Rule - Build Product and Traction in Parallel]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Weak Points and Strong - Concentrate Where They Are Not|Weak Points and Strong]] — the military form of the same rule: choose ground narrow enough to be the largest force present.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_SethGodin_ThisIsMarketing_RawTranscript|This Is Marketing]]

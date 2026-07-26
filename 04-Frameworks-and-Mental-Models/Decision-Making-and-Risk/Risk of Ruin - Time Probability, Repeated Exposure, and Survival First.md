@@ -61,6 +61,7 @@ One hundred people each visiting a casino once may show a stable percentage of f
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Skin in the Game - Aligning Upside, Downside, and Accountability|Skin in the Game - Aligning Upside, Downside, and Accountability]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Pre-Mortem - Imagine Failure Before It Happens|The Pre-Mortem - Imagine Failure Before It Happens]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Getting Wealthy vs. Staying Wealthy - Survival, Room for Error, and Tails|Getting Wealthy vs. Staying Wealthy]] — Housel's behavioural version, with the compounding and tails arguments for why survival is the high-return strategy.
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/First Be Invincible - Secure Against Defeat Before Seeking Victory|First Be Invincible]] — the strategic form of survival-first: invulnerability is yours to arrange, the win is not.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-13_Book_NassimNicholasTaleb_SkinInTheGame_RawTranscript|Skin in the Game - Raw Transcript]]

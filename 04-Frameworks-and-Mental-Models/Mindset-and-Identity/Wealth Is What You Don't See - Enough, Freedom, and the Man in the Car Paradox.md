@@ -88,6 +88,7 @@ Karl Pillemer interviewed a thousand elderly Americans about their most importan
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Happiness Is a Skill - Presence, Peace, and Self-Care|Happiness Is a Skill]].
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Reference Group and Re-engineering Your Circle|The Reference Group and Re-engineering Your Circle]] — social comparison is the mechanism; your reference group sets the ceiling.
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Primary Aim and Strategic Objective - Make the Business Serve the Life|Primary Aim and Strategic Objective]] — Gerber's version of designing for control over your time.
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The View From Above - Scale, Impermanence, and the Vanity of Fame|The View From Above]] — the older version of the man-in-the-car discovery: nobody is watching for as long as you assume.
 
 ## Source reference
 

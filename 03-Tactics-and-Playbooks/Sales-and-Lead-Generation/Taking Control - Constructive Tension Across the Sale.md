@@ -60,6 +60,7 @@ A paint supplier’s rep refused to concede a price increase unsupported by the 
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Challenger Selling Model - Teach, Tailor, and Take Control|The Challenger Selling Model - Teach, Tailor, and Take Control]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Next Yes - Decision Criteria, Buying Process, and Mutual Effort|The Next Yes - Decision Criteria, Buying Process, and Mutual Effort]]
+- **Contrast:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Winning Agreement Without Winning the Argument - Carnegie's Twelve Moves|Winning Agreement Without Winning the Argument]] — Carnegie removes tension to protect the relationship; the Challenger model adds it to move the deal. Choose by which one is at risk.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_MatthewDixonBrentAdamson_TheChallengerSale_RawTranscript|The Challenger Sale]]

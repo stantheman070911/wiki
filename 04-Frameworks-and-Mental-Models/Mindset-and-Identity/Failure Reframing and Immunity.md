@@ -58,6 +58,7 @@ After an angry client call, Dave Evans recognized that he had skipped the brief 
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Choosing Well - Narrow, Decide, Let Go, and Move On|Choosing Well - Narrow, Decide, Let Go, and Move On]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reframe Gravity Problems into Actionable Problems|Reframe Gravity Problems into Actionable Problems]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Impediment Becomes the Way - Obstacles as Material|The Impediment Becomes the Way]] — the same conversion stated as a mechanism: the blocked action redirects, the intention does not break.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_BillBurnettDaveEvans_DesigningYourLife_RawTranscript|Designing Your Life - Raw Transcript]]

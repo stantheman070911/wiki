@@ -60,6 +60,8 @@ SORT file.name ASC
 
 ### Strategy & Competitive Advantage
 
+**Classical sequence (Sun Tzu):** read in this order — [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Five Factors and Seven Comparisons - Calculate Before You Commit|Five Factors and Seven Comparisons]] → [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Rapidity Over Protraction - The Economics of a Campaign|Rapidity Over Protraction]] → [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Win Without Fighting - The Hierarchy of Strategic Attack|Win Without Fighting]] → [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/First Be Invincible - Secure Against Defeat Before Seeking Victory|First Be Invincible]] → [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Cheng and Chi - Direct and Indirect, Momentum and Timing|Cheng and Ch'i]] → [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Weak Points and Strong - Concentrate Where They Are Not|Weak Points and Strong]] → [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Foreknowledge - Intelligence Is the Cheapest Line Item|Foreknowledge]]. Rumelt's [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The Kernel of Good Strategy - Diagnosis, Guiding Policy, Coherent Action|Kernel of Good Strategy]] is the modern counterpart to the first.
+
 ```dataview
 TABLE WITHOUT ID file.link AS "Entry", lang AS "Lang", status AS "Status", updated AS "Updated"
 FROM "04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage"

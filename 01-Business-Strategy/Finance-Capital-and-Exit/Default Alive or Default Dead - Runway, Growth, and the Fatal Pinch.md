@@ -54,6 +54,7 @@ Airbnb waited four months after YC fundraising to hire its first employee. The f
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Fundraising Is a Process - Momentum, Herd Dynamics, and Survival|Fundraising Is a Process - Momentum, Herd Dynamics, and Survival]]
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Profit Is Unnatural - Defending Margin Against Organizational Creep|Profit Is Unnatural - Defending Margin Against Organizational Creep]]
 - **Related:** [[01-Business-Strategy/Growth-and-Scaling/Startup Equals Growth - Weekly Compounding and Market Size|Startup Equals Growth - Weekly Compounding and Market Size]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Rapidity Over Protraction - The Economics of a Campaign|Rapidity Over Protraction]] — the strategic reading of the same fact: a contested campaign ends when the runway does, whatever the tactical merits.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Essays/2026-07-13_Essays_PaulGraham_CollectedEssays|Paul Graham - Collected Essays]]

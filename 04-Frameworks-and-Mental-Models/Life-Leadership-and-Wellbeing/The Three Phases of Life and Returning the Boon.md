@@ -59,6 +59,7 @@ The boundaries are about dependency, not age or wealth. Dalio's own signal that 
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Design Compass - Workview, Lifeview, and Coherency|Life Design Compass]] — a method for deciding what any given phase should contain.
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Meaning in Life Is Designed in Particular Moments|Meaning in Life Is Designed in Particular Moments]].
 - **Related:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Teach to Learn - Public Obligation and the Feynman Loop|Teach to Learn]] — returning the boon, at a much smaller scale and much earlier.
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The View From Above - Scale, Impermanence, and the Vanity of Fame|The View From Above]] — the finitude argument that makes phasing a life worth doing deliberately.
 
 ## Source reference
 

@@ -41,6 +41,7 @@ Steve Blank built the customer-development half of the Lean Startup (see [[01-Bu
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Smallest Viable Market - Specificity Before Scale|Smallest Viable Market - Specificity Before Scale]] — who to test against first.
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]] — feedback volume as the engine of learning.
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Organic Startup Ideas - Live in the Future and Notice What Is Missing|Organic Startup Ideas]] — where the vision comes from in the first place.
+- **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Foreknowledge - Intelligence Is the Cheapest Line Item|Foreknowledge]] — the classical argument for why this cannot be replaced by inference: intentions come from people alone.
 
 ## Source reference
 

@@ -12,6 +12,7 @@ Use this map for negotiation, framing, risk reversal, social influence, and word
 
 ## Start here
 
+- [[The Desire to Be Important - Why Criticism Fails and Appreciation Works]] — the substrate every other technique on this map runs on
 - [[Tactical Empathy - Labels, Silence, and the Accusation Audit]] — understand before attempting to move
 - [[Calibrated Questions - How and What Create the Illusion of Control]] — reveal constraints without confrontation
 - [[Weapons of Influence - Click-Whirr, Trigger Features, and the Contrast Principle]] — understand automatic influence mechanisms
@@ -29,6 +30,13 @@ Use this map for negotiation, framing, risk reversal, social influence, and word
 - [[Mirroring and Voice - Slow the Negotiation and Keep Them Talking]]
 - [[Start With Agreement - Keep the Other Mind Open]]
 - [[Tactical Empathy - Labels, Silence, and the Accusation Audit]]
+- [[Winning Agreement Without Winning the Argument - Carnegie's Twelve Moves]]
+
+### Rapport and everyday influence
+
+- [[Six Ways to Make People Like You - Attention as the Scarce Good]]
+- [[The Desire to Be Important - Why Criticism Fails and Appreciation Works]]
+- [[Winning Agreement Without Winning the Argument - Carnegie's Twelve Moves]]
 
 ### Framing, risk, and deal mechanics
 

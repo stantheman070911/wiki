@@ -57,6 +57,7 @@ A consultant whose client kept assigning work without paying summarized the situ
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Guarantee Execution - How, the Rule of Three, and Hidden Players|Guarantee Execution - How, the Rule of Three, and Hidden Players]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Master No - Protect Autonomy to Start the Real Negotiation|Master No - Protect Autonomy to Start the Real Negotiation]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Mirroring and Voice - Slow the Negotiation and Keep Them Talking|Mirroring and Voice - Slow the Negotiation and Keep Them Talking]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Winning Agreement Without Winning the Argument - Carnegie's Twelve Moves|Winning Agreement Without Winning the Argument]] — the question forms here are how "let the other person feel the idea is theirs" becomes reproducible.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_ChrisVossTahlRaz_NeverSplitTheDifference_RawTranscript|Never Split the Difference]] — locator: Chapter 7
