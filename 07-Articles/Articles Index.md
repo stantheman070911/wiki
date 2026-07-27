@@ -9,6 +9,7 @@ Outward-facing essays synthesized from multiple entries. Belongs here: finished 
 
 Add a line here when publishing a new article (newest first).
 
+- [[07-Articles/A Gift Can Arrive Too Late|A Gift Can Arrive Too Late]]
 - [[07-Articles/Nobody Rehearses the Small Things|Nobody Rehearses the Small Things]]
 - [[07-Articles/Your Goal Has a Tuesday Inside It|Your Goal Has a Tuesday Inside It]]
 - [[07-Articles/Nothing Stays Extreme|Nothing Stays Extreme]]
