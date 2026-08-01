@@ -6,9 +6,11 @@ tags:
   - topic/distribution
   - topic/reach
   - topic/volume
+  - topic/niche
   - person/gary-vaynerchuk
+  - person/alex-hormozi
 status: reviewed
-updated: 2026-07-08
+updated: 2026-08-02
 ---
 
 # Interest Media and the Zero-Follower Reach Model
@@ -27,6 +29,9 @@ The mechanics of distribution flipped: five years ago your feed showed the peopl
 - **Reach can be near-instant and enormous.** A brand-new account's first post hit 8.2M organic views by remixing a proven video — evidence that distribution is decoupled from audience size.
 - **Volume compounds the odds, and it can be distributed.** Because reach doesn't need followers, you can post at high volume and across many handles (topic-, format-, or persona-specific accounts) rather than funnelling everything through one profile.
 - **Delivery polish is not the gate.** You need not be high-energy or camera-pretty; monotone delivery works. The blocker is usually insecurity, not capability.
+- **The content *is* the targeting.** Because distribution follows interest, what you make selects who sees it. The practical instruction for a business is therefore to make content only your ideal customer would tolerate — a plumber posting relationship memes is buying the wrong audience.
+- **Being good now carries more leverage, and starting late costs nothing.** Every post is judged on its own merits, so an incumbent's years of grinding have converted into skill and nothing else. A beginner's only deficit is craft, which is learnable — the structural head start is gone.
+- **Tiny audiences can be highly commercial.** Revenue tracks relevance, not reach. Two examples make the point: a coach teaching registered dietitians to improve insurance reimbursement makes seven figures a year off ~8,100 followers, because nobody consumes Medicare-credentialing content except the exact people who buy her product; a gym-equipment brand does many millions a year off ~5,000 followers by posting nothing but people using its equipment.
 
 ## Framework / model (if applicable)
 **Organic-first, then amplify.** The old motion — make an ad, run paid media cold — is dead, because paid reach still collapses when the creative isn't relevant. The new motion:
@@ -58,6 +63,9 @@ This turns the organic feed into a free, real-market pre-test and stops money be
 - **Related:** [[02-Social-Media-Strategy/The AI-Era Content Barbell|The AI-Era Content Barbell - Raw Shorts, Produced Long Form, and Live Interaction]]
 - **Related:** [[02-Social-Media-Strategy/品牌即媒體公司：注意力到信任框架|品牌即媒體公司：注意力到信任框架]]
 - **Related:** [[02-Social-Media-Strategy/對標方法論與靈感池系統|對標方法論與靈感池系統]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]] — where the customer-specific content comes from once "the content is the targeting."
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Leverage Is the Scaling Variable - Demand, Conversion, Delivery|Leverage Is the Scaling Variable - Demand, Conversion, Delivery]] — the shift that makes leveraged demand available to a zero-follower business.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Podcasts/2026-07-08_Talk_GaryVaynerchuk_NewRulesOfSocialMedia2026|New Rules of Social Media 2026]]
+- **supporting:** [[06-Source-Library/Presentations/2026-08-02_Presentation_AlexHormozi_ScalingRoadmap1MTo10M_RawTranscript|Scaling Roadmap - $1M to $10M - Raw Transcript]]

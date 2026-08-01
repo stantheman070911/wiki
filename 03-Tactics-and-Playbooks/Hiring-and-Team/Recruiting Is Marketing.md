@@ -10,7 +10,7 @@ tags:
   - topic/funnel
   - person/alex-hormozi
 status: reviewed
-updated: 2026-07-08
+updated: 2026-08-02
 ---
 
 # Recruiting Is Marketing - The Talent Bow-Tie, CAT Economics, and Hiring Pulled Not Pushed
@@ -22,6 +22,19 @@ Every service business needs two funnels, not one — a demand-gen funnel for cu
 
 ## Principle
 Talent acquisition is demand generation pointed at candidates. Scaling a people-heavy business requires a "bow-tie": customer funnels on one side, talent funnels on the other. You run recruiting with marketing math — a cost to acquire talent (CAT) against lifetime gross profit per employee — and you set the standard by hiring pulled, not pushed, while remembering the best talent is always in the future.
+
+The two processes are the same process with different labels, stage for stage:
+
+| Customer acquisition | Talent acquisition |
+| --- | --- |
+| Lead generation | Application generation |
+| Lead nurturing | Applicant nurturing |
+| Sales call | Interview |
+| Customer onboarding | Employee onboarding |
+| Customer success | Training and management |
+| Retention (resell) | Employee retention |
+
+The job ad *is* an ad. The conversation that gets someone to accept *is* a sale. People who are excellent at marketing are routinely terrible at recruiting and vice versa, purely because the vocabulary differs — which is why a founder who would never accept "we post occasionally and hope" as a customer strategy accepts exactly that for talent.
 
 ## Scenario
 Use this for any service, trades, sales, or operations business where headcount is the constraint, where the founder is stuck doing everything while trying to hire, and where recruiting is ad-hoc (referrals and hope) rather than systematized.
@@ -55,6 +68,8 @@ A later Cash Cow business breakdown added the small-business angle: an operator 
 
 AMA 3 sharpened the repeat-frequency rule: use an external recruiter when the role is rare enough that building a pipeline is wasteful, but internalize recruiting for roles the company will fill continuously. The same session reiterates that talent outreach suffers from the same insufficient-volume error as customer acquisition—contacting 15 candidates is not a search strategy.
 
+A scaling-roadmap session applied the mirror directly: an operator with two roles he could not fill stopped posting listings, ran a funnel against them instead — including a VSL, on the reasoning that you would obviously use one on the customer side if you had too many leads — and had a strong applicant pool within days.
+
 ## Caveats / Exceptions
 - Contingency recruiters suit one-off/specialized roles; repeatable roles justify building the internal system because they're core to the business.
 - Systematizing recruiting lets lower-skill, high-work-ethic hires produce consistent outcomes — but only if the training/onboarding process is real.
@@ -77,8 +92,10 @@ AMA 3 sharpened the repeat-frequency rule: use an external recruiter when the ro
 - **Related:** [[03-Tactics-and-Playbooks/Hiring-and-Team/備忘錄文化與 A 級人才招募 playbook|備忘錄文化與 A 級人才招募 playbook]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Outbound and Inbound Are Separate Teams - The Sales Career Ladder|Outbound and Inbound Are Separate Teams - The Sales Career Ladder]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Leveraged Delivery - Twelve Swaps to Serve More for Less|Leveraged Delivery - Twelve Swaps to Serve More for Less]] — the talent funnel as the third lever on delivery capacity.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
 - **supporting:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns|Cash Cow Breakdowns]]
 - **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Presentations/2026-08-02_Presentation_AlexHormozi_ScalingRoadmap1MTo10M_RawTranscript|Scaling Roadmap - $1M to $10M - Raw Transcript]]

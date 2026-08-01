@@ -82,6 +82,7 @@ Alex Hormozi / Acquisition.com 的 230 頁擴張指南，把一家公司從「�
 - **相關:** [[01-Business-Strategy/Positioning-and-Branding/業績公式與商業定位：從流量思維到變現路徑|業績公式與商業定位：從流量思維到變現路徑]]
 - **相關:** [[02-Social-Media-Strategy/受眾定位與先小後大法則|受眾定位與先小後大法則]]
 - **相關:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/招募、領導與地理紅利|招募、領導與地理紅利]]
+- **相關:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Leverage Is the Scaling Variable - Demand, Conversion, Delivery|Leverage Is the Scaling Variable - Demand, Conversion, Delivery]] — 同一條爬升路徑的槓桿版本：需求、轉換、交付三段輪替。
 ## 來源
 
 - **primary:** [[06-Source-Library/Presentations/2026-07-08_Guide_AlexHormozi_100M-Scaling-Roadmap|$100M Scaling Roadmap（Personalized Guide）]]

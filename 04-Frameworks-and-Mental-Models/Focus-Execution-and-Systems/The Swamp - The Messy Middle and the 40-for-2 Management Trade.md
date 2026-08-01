@@ -10,7 +10,7 @@ tags:
   - topic/decision-making
   - person/alex-hormozi
 status: reviewed
-updated: 2026-07-08
+updated: 2026-08-02
 ---
 
 # The Swamp - The Messy Middle and the 40-for-2 Management Trade
@@ -35,6 +35,8 @@ Use this for owner-operators stuck at $1–3M who can't seem to grow, who are pe
 
 ## Why It Happens
 At this size, profit is thin and the founder is the production capacity, so any hire is a high-stakes bet against the very margin that keeps the lights on — and training a replacement temporarily lowers output before it raises it. That's why it feels like a swamp: both exits (more founder hours; bet-the-profit hire) are uncomfortable. But leverage only comes from the trade — swap 40 hours of doing for 2 hours of managing a person who does the 40 — and repeat it up the stack until you're managing managers.
+
+**The risk asymmetry.** It takes *more* risk to get out of the $1–3M band than it took to get into it. Getting in rewarded working as hard as possible; getting out requires changing how you work and how you price risk — betting most of a thin profit on a hire, a narrower avatar, a price increase, or a replaced offer, any one of which could make or break the business. This inversion is counterintuitive, which is why the band is crowded.
 
 ## Recommended Action
 1. Accept the swamp's two options honestly: work more/higher-value hours, or bet your profit on a strong hire — there is no painless third path.
@@ -64,6 +66,8 @@ An apartment broker doing $250k couldn't identify his highest-leverage 6am actio
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Greener-Pasture Fallacy|The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Founder Is the Lid - Who-Not-How and Planning Backward From the Goal|Founder Is the Lid - Who-Not-How and Planning Backward From the Goal]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Leverage Is the Scaling Variable - Demand, Conversion, Delivery|Leverage Is the Scaling Variable - Demand, Conversion, Delivery]] — the same plateau read as a leverage deficit rather than a labor trade.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Presentations/2026-08-02_Presentation_AlexHormozi_ScalingRoadmap1MTo10M_RawTranscript|Scaling Roadmap - $1M to $10M - Raw Transcript]]

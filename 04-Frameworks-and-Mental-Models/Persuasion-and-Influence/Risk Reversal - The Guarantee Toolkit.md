@@ -66,6 +66,7 @@ Combine an unconditional short-window guarantee with a conditional longer-window
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Scarcity and Urgency - Engineering Demand with Supply and Deadlines|Scarcity and Urgency - Engineering Demand with Supply and Deadlines]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Prospect Theory - Reference Points, Loss Aversion, and the Fourfold Pattern|Prospect Theory]] — the certainty premium: buyers pay far more than proportionally to eliminate a risk rather than reduce it.
+- **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Conviction Continuum - Tune Friction and Give Salespeople Six-Inch Putts|The Conviction Continuum - Tune Friction and Give Salespeople Six-Inch Putts]] — lowering perceived risk lowers how much information a buyer needs.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AlexHormozi_100MOffers_RawTranscript|$100M Offers]]

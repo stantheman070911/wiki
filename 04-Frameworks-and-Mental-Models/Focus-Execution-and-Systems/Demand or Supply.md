@@ -77,6 +77,7 @@ In AMA 3, a virtual-assistant business appeared to have many constraints, but th
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Greener-Pasture Fallacy|The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Theory of Constraints - The Five Focusing Steps|Theory of Constraints - The Five Focusing Steps]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput Accounting - Manage the System, Not Local Costs|Throughput Accounting - Manage the System, Not Local Costs]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Leverage Is the Scaling Variable - Demand, Conversion, Delivery|Leverage Is the Scaling Variable - Demand, Conversion, Delivery]] — subdivides the demand/supply binary into a three-stage throughput chain.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

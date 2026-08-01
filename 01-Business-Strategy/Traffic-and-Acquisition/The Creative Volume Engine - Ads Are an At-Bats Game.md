@@ -6,9 +6,10 @@ tags:
   - topic/creative-volume
   - topic/cac
   - topic/marketing
+  - topic/avatar
   - person/alex-hormozi
 status: reviewed
-updated: 2026-07-08
+updated: 2026-08-02
 ---
 
 # The Creative Volume Engine - Ads Are an At-Bats Game
@@ -32,6 +33,8 @@ Use this when a business has a proven offer and positive unit economics but grow
 - The founder judges the month by whether it broke even rather than by at-bats and learning.
 
 ## Why It Happens
+AI-driven ad targeting sharpened the requirement further. Platform targeting engines (Meta's Andromeda being the current example) now match individual creatives to individual people far more precisely than a media buyer can define an audience — but they need many narrow creatives to choose from. The shift is **from advertising to an ocean to advertising to a hundred ponds**: not one ad for "business owners" but separate ads for plumbers, chiropractors, electricians, and marketing agencies; not "hey ladies" but "hey vegan powerlifting moms." Where a generic ad and a specific ad both technically include the viewer, the specific one converts better every time. This means a thousand ads inside one campaign — and a higher return *per ad*, not just in aggregate.
+
 When CAC is $3,500 and spend is $1,300/day, you buy roughly one customer every three days — the same conversion rate feels like chaos because the sample is tiny. **Insufficient volume feels like volatility.** With too few creatives, the algorithm has nothing fresh to serve and fatigue sets in fast. And optimizing toward a rare event (the close) gives the pixel too weak a signal; a mid-funnel event you can generate by the thousand teaches it far faster.
 
 ## Recommended Action
@@ -44,6 +47,8 @@ When CAC is $3,500 and spend is $1,300/day, you buy roughly one customer every t
 
 ## Example from the AMA
 A fitness-coaching business co-founded with a well-known athlete was spending $1,300/day at a $3,500 CAC and producing about five ads per week, then wondering why revenue was erratic. Hormozi's fix was structural: push spend toward CAC (~$3,600/day) for one sale a day, lift creative from ~5/week to ~100/week, and optimize the pixel on the qualified-application page. He contrasted the volume directly — "we put out 250 new ads per day … you're putting out five per week." A separate caller building AI video ads was told the market doesn't want a few beautiful $18k commercials; it wants 100 pieces of creative at ~$50 each, because advertisers "don't know and I don't know which one's going to work."
+
+A later scaling-roadmap session made the volume-to-revenue link explicit: an operator switched from conventional to AI-assisted ad production, produced 3–4x more creative variants, and 4x'd revenue while holding ROAS — "how did he 4x the revenue? He 4x'd the creative volume." Another ran the Rule of 100 against the new targeting: 20 new ads across five ad sets with ten variations each — 100 ads launched in a day — against $44,000 of spend and $299,000 collected. The bottleneck this creates is creative supply, which is the argument for sourcing creative from customer activity rather than commissioning it.
 
 ## Caveats / Exceptions
 - Volume cannot rescue a broken offer or a funnel that leaks before the creative ever matters; fix decommoditization and the sales motion first.
@@ -66,6 +71,9 @@ A fitness-coaching business co-founded with a well-known athlete was spending $1
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Maximize Net Cash, Not ROAS - The Percentage Lies|Maximize Net Cash, Not ROAS - The Percentage Lies]]
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Fishing Is Best Where the Fewest Go|The Fishing Is Best Where the Fewest Go - Underpriced Channels and the Contrarian Move]]
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/網紅行銷引擎：以CPM反推的分散式機器|網紅行銷引擎：以CPM反推的分散式機器]]
+- **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]] — where the hundred ponds' worth of creative actually comes from.
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Leverage Is the Scaling Variable - Demand, Conversion, Delivery|Leverage Is the Scaling Variable - Demand, Conversion, Delivery]] — creative volume as a leveraged-demand mechanism.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]
+- **supporting:** [[06-Source-Library/Presentations/2026-08-02_Presentation_AlexHormozi_ScalingRoadmap1MTo10M_RawTranscript|Scaling Roadmap - $1M to $10M - Raw Transcript]]

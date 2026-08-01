@@ -84,6 +84,7 @@ Pipeline rhythms, intellectual property, onboarding, conversion paths, and feedb
 - [[Outbound and Inbound Are Separate Teams - The Sales Career Ladder]]
 - [[Sales Systems as Intellectual Property - Process Above the Player]]
 - [[The Bowling Alley Framework - Straight-Line Onboarding and Two Bumpers]]
+- [[The Conviction Continuum - Tune Friction and Give Salespeople Six-Inch Putts]]
 - [[The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
 - [[The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
 - [[Volume and Feedback - Sales as the Training Ground]]

@@ -57,6 +57,7 @@ Bearington first identified heat treatment and the NCX-10 as bottlenecks. It gai
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails|Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Throughput Accounting - Manage the System, Not Local Costs|Throughput Accounting - Manage the System, Not Local Costs]]
 - **Related:** [[07-Articles/The Bottleneck Sets the Pace|The Bottleneck Sets the Pace]]
+- **Is applied by:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Leverage Is the Scaling Variable - Demand, Conversion, Delivery|Leverage Is the Scaling Variable - Demand, Conversion, Delivery]] — the demand → conversion → delivery rotation as a founder-level constraint cycle.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_EliyahuMGoldrattJeffCox_TheGoal_RawTranscript|The Goal]]

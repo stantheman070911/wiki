@@ -59,6 +59,7 @@ A couple running "Coupleneur," a relationship-coaching business built on their o
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Demand or Supply|Demand or Supply - The One-Constraint Diagnosis, Three Functions, and the Ticking Time Bomb]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Greener-Pasture Fallacy|The Greener-Pasture Fallacy - Fix the Business You Have Before You Start the Next One]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue|Identity and Systems - The Two Psychological Shifts Behind Consistent Revenue]]
+- **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Leveraged Delivery - Twelve Swaps to Serve More for Less|Leveraged Delivery - Twelve Swaps to Serve More for Less]] — the delivery-terms levers available when the founder is not the constraint.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript|Cash Cow Breakdowns - Raw Transcript]]

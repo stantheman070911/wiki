@@ -75,6 +75,7 @@ For a health newsletter in AMA 3, repeated generic meal-plan offers had failed. 
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model|Marrying Traffic and Monetization - The Give-Content, Ask-Ads Model]]
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]]
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Marketing Playground - Problem, Process, and Prize Experiences|The Marketing Playground - Problem, Process, and Prize Experiences]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Conviction Continuum - Tune Friction and Give Salespeople Six-Inch Putts|The Conviction Continuum - Tune Friction and Give Salespeople Six-Inch Putts]] — a paid step read as the friction that qualifies and warms.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-08_Video_AlexHormozi_AskMeAnything|Ask Me Anything]]

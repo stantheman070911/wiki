@@ -61,6 +61,7 @@ In Grove's breakfast, the three-minute egg initially determines the schedule, so
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity Needs Standards and Distributed Judgment|Complexity Needs Standards and Distributed Judgment]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial Output and Leverage|Managerial Output and Leverage]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Planning Backward from the Gap|Planning Backward from the Gap]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Leveraged Delivery - Twelve Swaps to Serve More for Less|Leveraged Delivery - Twelve Swaps to Serve More for Less]] — batching and scope limits as delivery-side capacity moves.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Books/2026-07-18_Book_AndrewSGrove_HighOutputManagement_RawTranscript|High Output Management - Raw Transcript]] — locator: chapters 1–2

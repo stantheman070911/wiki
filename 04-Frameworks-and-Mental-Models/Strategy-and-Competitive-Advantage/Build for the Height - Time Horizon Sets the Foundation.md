@@ -6,10 +6,11 @@ tags:
   - topic/patience
   - topic/focus
   - topic/moat
+  - topic/scaling
   - person/alex-hormozi
   - source/diary-of-a-ceo
 status: draft
-updated: 2026-07-20
+updated: 2026-08-02
 ---
 
 # Build for the Height - Time Horizon Sets the Foundation
@@ -28,6 +29,11 @@ Hormozi does a physical exercise with entrepreneurs: "build the tallest tower yo
 - **Obsess over the factory, not the prototype.** Committing to build for the long term (Hormozi decided to run his holding company "forever") immediately changes the decision set — you start building the machine that builds the thing, i.e. the durable foundations, rather than the next quick win. (This is the same insight as [[01-Business-Strategy/Growth-and-Scaling/The Factory Is the Product - Manufacturing as the Moat|The Factory Is the Product]], viewed through time horizon.)
 - **Long-horizon choices become the moat 7 years later.** Musk building Tesla's batteries and charging network from scratch, or Bezos deciding logistics — trucks and warehouses — would be Amazon's competitive advantage: these looked slow and expensive up front and produced moats no one can now unseat. The durable advantage was a *byproduct* of thinking over a longer time horizon.
 
+## Why most scaling advice is built for the wrong height
+- **The advice you receive is capped by the height its author reached.** Most scaling advice comes from someone who got to $8–10M and stopped. They teach you to build a house while you are trying to build a skyscraper — and the difference matters most while you are digging.
+- **The odds justify the caution.** Roughly one in ten people start a business; of those, about one in 250 reaches $10M a year; of those, about one in 250 again reaches $100M. Advice from inside the common case does not describe the rare one.
+- **Structural walls look like plateaus.** Fast growth that stops dead at a specific number is usually not a marketing problem but a founding-decisions problem: the business was designed in a way that makes the next level unreachable. The repair is to hold the upper stories up while re-digging the trenches — redesign parts or all of the business rather than pushing harder on the existing structure.
+
 ## Focus and patience are the antihuman advantages
 - **Focus and patience are enduring competitive advantages precisely because they're antihuman** — and anti-Instagram. They're hard to sustain because they're boring: "I've got no announcement this month because I'm doing boring stuff like hiring."
 - **You can't witness focus or patience — only the win.** "People only see the choices you made, not the options you had," so focus looks like luck. Patience is invisible for the same reason: in a marathon, spectators show up for the start and the finish; no one watches the middle. Because almost no one can *observe* these traits, almost no one imitates them — which is exactly why they stay a competitive edge.
@@ -44,7 +50,9 @@ Hormozi does a physical exercise with entrepreneurs: "build the tallest tower yo
 - **Related:** [[01-Business-Strategy/Growth-and-Scaling/Growth Is Not a Strategy - When Expansion Destroys Value|Growth Is Not a Strategy - When Expansion Destroys Value]] — the failure mode of building height on a bad base.
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Virtuous Cycle of Service Businesses|The Virtuous Cycle of Service Businesses]] — retention as the foundation that lets growth stack instead of leak.
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats|The Hard Road Is the Right Road - Second-Order Thinking and Effort Moats]] — hard, slow choices as defensible advantage.
+- **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Leverage Is the Scaling Variable - Demand, Conversion, Delivery|Leverage Is the Scaling Variable - Demand, Conversion, Delivery]] — what you actually rebuild when the foundation turns out to be too shallow.
 
 ## Source reference
 
 - **primary:** [[06-Source-Library/Podcasts/2026-07-20_Podcast_DiaryOfACEO_AlexHormozi_RawTranscript|The Man Who Made $100 Million Before 32 - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Presentations/2026-08-02_Presentation_AlexHormozi_ScalingRoadmap1MTo10M_RawTranscript|Scaling Roadmap - $1M to $10M - Raw Transcript]]

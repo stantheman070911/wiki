@@ -82,6 +82,7 @@ Source for this section: *Alex Hormozi Answers Your Questions (Ask Me Anything)*
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content Repository - Four Topic Buckets and Tweet-First Capture|The Content Repository - Four Topic Buckets and Tweet-First Capture]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume|The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Leveraged Delivery - Twelve Swaps to Serve More for Less|Leveraged Delivery - Twelve Swaps to Serve More for Less]] — where the automated half of a decomposed role fits in delivery.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Podcasts/2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000|How to Make Your First $100,000]]

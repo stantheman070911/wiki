@@ -35,6 +35,7 @@ Use this map for diagnosing operating problems, managing flow and constraints, s
 - [[Drum-Buffer-Rope - Release Work at the Constraint's Pace]]
 - [[Focus as Elimination - The Deep-Work Playbook]]
 - [[Know Thy Time - Record, Eliminate, and Consolidate]]
+- [[Leveraged Delivery - Twelve Swaps to Serve More for Less]]
 - [[工作習慣與誠實忠告]]
 
 ### Standards, checklists, and protocols

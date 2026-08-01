@@ -56,6 +56,7 @@ Hormozi points to six-figure cars bought online as a counterexample to the claim
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Paid Front Door - Warm Cold Traffic Before the Core Offer|The Paid Front Door - Warm Cold Traffic Before the Core Offer]]
 - **Related:** [[01-Business-Strategy/Pricing-and-Offers/The Value Equation and the Grand Slam Offer|The Value Equation and the Grand Slam Offer]]
 - **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Buyer Awareness Pyramid and the Halo Strategy|The Buyer Awareness Pyramid and the Halo Strategy - Marketing to the Market That Isn't Ready to Buy Yet]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Conviction Continuum - Tune Friction and Give Salespeople Six-Inch Putts|The Conviction Continuum - Tune Friction and Give Salespeople Six-Inch Putts]] — the general friction dial, of which self-checkout is the removal end.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]

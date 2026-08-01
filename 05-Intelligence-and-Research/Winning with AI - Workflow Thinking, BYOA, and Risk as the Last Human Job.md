@@ -61,6 +61,7 @@ Hormozi frames AI as the biggest coming shift for Main Street, not just tech, an
 - **Related:** [[05-Intelligence-and-Research/AI、資料與內容的賭注理論|AI、資料與內容的賭注理論]]
 - **Related:** [[05-Intelligence-and-Research/The Attention Barbell - Brand as the AI-Era Moat|The Attention Barbell - Brand as the AI-Era Moat]]
 - **Related:** [[05-Intelligence-and-Research/The Risk Continuum - Building an AI-Resistant Personal Brand|The Risk Continuum: Building an AI-Resistant Personal Brand]]
+- **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Leveraged Delivery - Twelve Swaps to Serve More for Less|Leveraged Delivery - Twelve Swaps to Serve More for Less]] — workflow-over-titles applied to a delivery bottleneck.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Podcasts/2026-07-08_Playlist_AlexHormozi_HowToMakeYourFirst100000|How to Make Your First $100,000]]

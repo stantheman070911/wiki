@@ -64,6 +64,7 @@ To add a tag: reuse an existing term if one fits; otherwise add a line to the ri
 - topic/forecasting
 - topic/founder-brand
 - topic/franchise
+- topic/friction
 - topic/front-end-offer
 - topic/frugality
 - topic/funnel
@@ -329,6 +330,7 @@ Disambiguation notes for overlapping terms:
 - `topic/health` is physical condition as a resource or constraint on what a life can contain; it is not a business or market topic.
 - `topic/retirement` is the transition out of paid work and the decumulation that follows; `topic/wealth` is the stock itself.
 - `topic/philanthropy` is giving money or time away; `topic/money-management` is administering your own.
+- `topic/friction` is deliberate resistance placed in a buyer's path — steps, effort, or commitment added or removed to tune who gets through; `topic/qualification` is judging whether a prospect is a fit. Friction is a mechanism, qualification an assessment, and friction is often how qualification is enforced.
 - `topic/investing` is deploying capital into assets — markets, funds, allocation, withdrawal; `topic/money-management` is the household layer around it: earning, saving, budgeting, and debt. Where the money goes is investing; how the money is run is money management.
 - `person/jl-collins` is JL Collins of *The Simple Path to Wealth*; `person/jim-collins` is Jim Collins of *Good to Great*. Unrelated authors with similar names.
 - Use `person/` and `source/` tags only when that entity is part of the page provenance, not for people or brands mentioned merely as examples.

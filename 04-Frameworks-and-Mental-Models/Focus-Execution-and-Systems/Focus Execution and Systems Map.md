@@ -30,6 +30,7 @@ Bottlenecks, deletion, prioritization, and stop-doing.
 - [[Demand or Supply]]
 - [[Dependent Events and Statistical Fluctuations - Why Balanced Capacity Fails]]
 - [[Focus and Align - Make Priorities and Dependencies Public]]
+- [[Leverage Is the Scaling Variable - Demand, Conversion, Delivery]]
 - [[More, Better, New - The Scaling Priority Sequence]]
 - [[Overwhelm Is a System Signal - Diagnose Before Burnout]]
 - [[Planning Backward from the Gap]]

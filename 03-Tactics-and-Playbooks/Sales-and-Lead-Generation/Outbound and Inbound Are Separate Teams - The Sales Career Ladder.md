@@ -56,6 +56,7 @@ A door-to-door roofing sales organization saw its outbound door-knocking hustle 
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Sales Systems as Intellectual Property - Process Above the Player|Sales Systems as Intellectual Property - Process Above the Player]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume|The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Volume and Feedback - Sales as the Training Ground|Volume and Feedback - Sales as the Training Ground]]
+- **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Conviction Continuum - Tune Friction and Give Salespeople Six-Inch Putts|The Conviction Continuum - Tune Friction and Give Salespeople Six-Inch Putts]] — what rep roles become once the process delivers short putts.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-09_Video_AlexHormozi_CashCowBreakdowns_RawTranscript|Cash Cow Breakdowns - Raw Transcript]]

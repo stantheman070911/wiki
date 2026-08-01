@@ -10,7 +10,7 @@ tags:
   - topic/ai
   - person/alex-hormozi
 status: reviewed
-updated: 2026-07-13
+updated: 2026-08-02
 ---
 
 # Capture, Don't Create: Engineering Proof at Scale
@@ -35,6 +35,21 @@ Bake proof components into how you already service customers, so documentation a
 
 - B2C example (hair extensions): insert sweepstakes/lottery tickets into the product → creates a marketing motion → call winners personally → install in your salon → document the whole loop.
 - B2B example (marketing agency): bring the customer in, walk through the campaign, show the results, document it — do it with every customer, regardless of size.
+
+**The six-step loop, with paid amplification.** The scaling-roadmap version closes the circle through advertising rather than stopping at organic reach:
+
+1. Customers enter the business.
+2. Their experience, results, questions, demos, and testimonials are captured.
+3. That material becomes content.
+4. Content that performs becomes advertising.
+5. Advertising produces more customers.
+6. New customers produce more content.
+
+**One action solves all five demand problems.** This is why the loop outranks other content tactics — the five common complaints are answered by the same move: *not enough demand* (you post far more), *can't afford more* (servicing customers is already paid for), *no time for more* (the work is already happening), *it's inconsistent* (you serve customers consistently, so the media is consistent), *it attracts the wrong people* (advertising your actual customers is the sharpest possible targeting). It also generates the endless creative variety that AI-targeted ad platforms now require.
+
+- **It works outside in-person businesses.** A facial surgeon posts patient before-and-afters; a strength coach films himself teaching his athletes while running an otherwise-online business; a hair coach with no in-person business keeps a tiny studio purely to do the unscalable thing that produces scalable content. The in-person component exists to *feed the machine*.
+- **It works at any ticket size.** A business law firm running a fraction of this process reactivated a past client into a $45,000 referral.
+- **Production is no longer a department.** With AI handling post-production, a channel publishing five mid-form and fifteen short-form pieces per day can be run by one person — work that once needed a team of ten or twenty.
 
 **c) If you lack enough customers, manufacture the opportunity.**
 Offer free audits or free work to 5-10 people, and document them. "Let me do real work for free and give it away" — few refuse, and you generate proof publicly.
@@ -76,7 +91,11 @@ AI disrupts creators from lowest risk to highest, in that order. To protect your
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment|The StoryBrand Messaging Campaign - Curiosity, Enlightenment, Commitment]]
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Using AI in Your Business - Train Like an Employee and the Department Playbook|Using AI in Your Business - Train Like an Employee and the Department Playbook]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop|The Launch Sequence - Build in Public, Daily Cadence, Post-Launch Loop]]
+- **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Leverage Is the Scaling Variable - Demand, Conversion, Delivery|Leverage Is the Scaling Variable - Demand, Conversion, Delivery]] — this loop is the demand stage of that chain.
+- **Related:** [[02-Social-Media-Strategy/Interest Media and the Zero-Follower Reach Model|Interest Media and the Zero-Follower Reach Model]] — why customer-specific capture is also the targeting.
+- **Related:** [[01-Business-Strategy/Traffic-and-Acquisition/The Creative Volume Engine - Ads Are an At-Bats Game|The Creative Volume Engine - Ads Are an At-Bats Game]] — the capture loop is how you supply the creative volume ads now demand.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Podcasts/2026-07-02_Podcast_AlexHormozi_PersonalBrandVsAI|Personal Brand vs. AI]]
 - **supporting:** [[06-Source-Library/Conversations/2026-07-13_Conversation_AlexHormozi_AMA3_RawTranscript|Alex Hormozi AMA 3 - Raw Transcript]]
+- **supporting:** [[06-Source-Library/Presentations/2026-08-02_Presentation_AlexHormozi_ScalingRoadmap1MTo10M_RawTranscript|Scaling Roadmap - $1M to $10M - Raw Transcript]]

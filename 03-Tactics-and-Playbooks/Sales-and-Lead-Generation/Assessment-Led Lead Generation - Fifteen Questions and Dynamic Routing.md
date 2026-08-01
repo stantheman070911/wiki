@@ -58,6 +58,7 @@ Priestley's model uses a sleep assessment to show the structure: test the enviro
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume|The Four Lead-Conversion Levers - Speed, Availability, Personalization, Volume]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales|The LAPS Revenue Rhythm - Leads, Appointments, Presentations, and Sales]]
 - **Related:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Problem Identification Chart - Problems, Impacts, and Root Causes|The Problem Identification Chart - Problems, Impacts, and Root Causes]]
+- **Applies:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The Conviction Continuum - Tune Friction and Give Salespeople Six-Inch Putts|The Conviction Continuum - Tune Friction and Give Salespeople Six-Inch Putts]] — an assessment as one mechanism for moving prospects along the continuum.
 ## Source reference
 
 - **primary:** [[06-Source-Library/Videos/2026-07-13_Video_DanielPriestley_OnlineAssessmentLeadGenerationSystem_RawTranscript|Online-Assessment Lead-Generation System - Raw Transcript]]
