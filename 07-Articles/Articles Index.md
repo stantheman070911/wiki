@@ -9,6 +9,7 @@ Outward-facing essays synthesized from multiple entries. Belongs here: finished 
 
 Add a line here when publishing a new article (newest first).
 
+- [[07-Articles/Where the Checklist Ends|Where the Checklist Ends]]
 - [[07-Articles/What Could Have Killed This|What Could Have Killed This?]]
 - [[07-Articles/Growth Can Starve a Profitable Business|Growth Can Starve a Profitable Business]]
 - [[07-Articles/Everything You Can't Stop Is Working|Everything You Can't Stop Is Working]]
