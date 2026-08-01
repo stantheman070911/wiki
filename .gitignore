@@ -11,9 +11,12 @@ Icon?
 .Trashes
 
 # Local app/session state
-.claude/
+.claude/*
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# …but the vault's own skills are tooling, not state — they are versioned
+!.claude/skills/
 
 # Obsidian community plugin binaries (installed locally)
 .obsidian/plugins/

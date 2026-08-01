@@ -27,8 +27,17 @@ THE WIKI/
 ├── Reports/                           Dated syntheses generated from the wiki
 ├── _Inbox/                            Unprocessed material awaiting triage
 ├── _meta/tags.md                      The tag vocabulary
+├── .claude/skills/                    The vault's own skills (versioned)
 └── tools/check-vault.mjs              The lint gate (`npm run check`)
 ```
+
+`.claude/skills/` holds the three skills this vault operates by — `process-inbox`,
+`article-of-the-day`, and `industry-report`. They are versioned with the vault
+because the conventions below assume them. One external dependency is *not* in
+this repo: `article-of-the-day` delivers through a user-level `telegram-notify`
+skill (`~/.claude/skills/`) that is shared with other tools and reads its bot
+token from an environment file. A fresh clone gets the vault's workflow but not
+that delivery step.
 
 Information flows one way: archived sources in `06` feed knowledge entries in `01`–`05`, which are composed into articles (`07`) and reports (`Reports/`). Articles and reports cite entries; they are never treated as sources.
 
