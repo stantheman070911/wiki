@@ -40,6 +40,7 @@ A **trigger** is an environmental cue that makes a related idea accessible; a pr
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/You Get Bored Before They Remember|You Get Bored Before They Remember]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
 - **Contrast:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Currency - We Share What Makes Us Look Good|Social Currency - We Share What Makes Us Look Good]]
 - **Is applied by:** [[01-Business-Strategy/Positioning-and-Branding/Borrowed Reference-Points - Anchor a New Position to What's Already Believed|Borrowed Reference-Points - Anchor a New Position to What's Already Believed]]

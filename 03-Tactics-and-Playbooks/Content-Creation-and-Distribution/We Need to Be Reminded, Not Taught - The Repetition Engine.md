@@ -42,6 +42,8 @@ The amount of novelty required to make something feel fresh is very small; layer
 - Mine your own ongoing work for fresh "names" (new case studies, new events) to re-tell the same lessons.
 
 ## Related
+
+- **Has derivative:** [[07-Articles/You Get Bored Before They Remember|You Get Bored Before They Remember]]
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Kaleidoscope Process - Squeeze Every Winning Ad|The Kaleidoscope Process - Squeeze Every Winning Ad]] — the paid-ads sibling: remix a proven winner instead of making new.
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create - Engineering Proof at Scale]] — "do epic stuff, then talk about what you did" as the source of new stories.
 - **Related:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/The Content Repository - Four Topic Buckets and Tweet-First Capture|The Content Repository - Four Topic Buckets and Tweet-First Capture]] — organizing the core ideas you'll repeat.

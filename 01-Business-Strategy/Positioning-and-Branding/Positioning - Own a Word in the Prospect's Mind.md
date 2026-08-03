@@ -50,6 +50,7 @@ Ries and Trout's founding thesis (coined 1972). Kotler frames it as the step tha
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/You Get Bored Before They Remember|You Get Bored Before They Remember]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Own What the Prospect Already Gives You - Research-Based Positioning|Own What the Prospect Already Gives You - Research-Based Positioning]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/Positioning as Context - Make the Product Obviously Valuable|Positioning as Context - Make the Product Obviously Valuable]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Line-Extension Trap - Why One Name Can't Own Two Things|The Line-Extension Trap - Why One Name Can't Own Two Things]]

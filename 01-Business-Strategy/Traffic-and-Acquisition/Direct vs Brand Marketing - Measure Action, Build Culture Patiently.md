@@ -58,6 +58,7 @@ Traditional direct-mail businesses compared the cost of sending letters with the
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/You Get Bored Before They Remember|You Get Bored Before They Remember]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability - Own Attention and Design Word of Mouth|Permission and Remarkability - Own Attention and Design Word of Mouth]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Referrals - Engineering Word of Mouth Through Goodwill|Referrals - Engineering Word of Mouth Through Goodwill]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/The StoryBrand Conversion Path - Problem, Plan, and Calls to Action|The StoryBrand Conversion Path - Problem, Plan, and Calls to Action]]
