@@ -36,6 +36,7 @@ Steve Blank built the customer-development half of the Lean Startup (see [[01-Bu
 - Treat disconfirming evidence as the point: you're looking to catch yourself hallucinating early, cheaply.
 
 ## Related
+- **Has derivative:** [[07-Articles/The Audience Comes Last, Not Never|The Audience Comes Last, Not Never]]
 - **Prerequisite:** [[01-Business-Strategy/Business-Models-and-Customers/Startups Search, Companies Execute - The Lean Startup Stack|Startups Search, Companies Execute - The Lean Startup Stack]] — the search framework this executes.
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop]] — the iterate-on-feedback discipline.
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Smallest Viable Market - Specificity Before Scale|Smallest Viable Market - Specificity Before Scale]] — who to test against first.

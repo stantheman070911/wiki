@@ -52,6 +52,7 @@ Programming languages, paintings, mathematical proofs, and physical products sha
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/The Audience Comes Last, Not Never|The Audience Comes Last, Not Never]]
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight|The Startup Product-Discovery Loop - Launch, Learn, Evolve, Delight]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/The Seven Principles of Building an Iconic Brand|The Seven Principles of Building an Iconic Brand]]

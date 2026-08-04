@@ -52,6 +52,7 @@ VisionSpring initially presented affordable eyeglasses as a shopping choice and 
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/The Audience Comes Last, Not Never|The Audience Comes Last, Not Never]]
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/Smallest Viable Market - Specificity Before Scale|Smallest Viable Market - Specificity Before Scale]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/H2H Marketing - Human-Centered Service, Trust, and Co-Creation|H2H Marketing - Human-Centered Service, Trust, and Co-Creation]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand, Communicate, and Deliver Customer Value|UCD - Understand, Communicate, and Deliver Customer Value]]

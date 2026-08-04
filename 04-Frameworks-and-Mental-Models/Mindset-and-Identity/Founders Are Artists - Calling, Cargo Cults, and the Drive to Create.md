@@ -43,6 +43,7 @@ Copying the *appearance* of success without the substance is a **cargo cult** �
 - Watch for hubris: the more press and money you get, the more deliberately you must keep getting out of the building.
 
 ## Related
+- **Has derivative:** [[07-Articles/The Audience Comes Last, Not Never|The Audience Comes Last, Not Never]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth]] — a counterpoint on how "passion" actually forms.
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Shapers and the Hero's Journey - The Founder Archetype Who Builds Against Doubt|Shapers and the Hero's Journey]] — the founder-as-visionary archetype.
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Fear, Regret, and Asymmetric Bets|Fear, Regret, and Asymmetric Bets]] — the risk-profile and "name the fear" logic.

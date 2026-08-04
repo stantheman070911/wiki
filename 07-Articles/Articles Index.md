@@ -9,6 +9,7 @@ Outward-facing essays synthesized from multiple entries. Belongs here: finished 
 
 Add a line here when publishing a new article (newest first).
 
+- [[07-Articles/The Audience Comes Last, Not Never|The Audience Comes Last, Not Never]]
 - [[07-Articles/You Get Bored Before They Remember|You Get Bored Before They Remember]]
 - [[07-Articles/Every Admission Changes the Product|Every Admission Changes the Product]]
 - [[07-Articles/Where the Checklist Ends|Where the Checklist Ends]]
