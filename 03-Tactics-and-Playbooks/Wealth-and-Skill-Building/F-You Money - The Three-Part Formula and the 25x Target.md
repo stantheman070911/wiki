@@ -95,6 +95,7 @@ Two operational notes: automate the transfers, because *"it is easier and makes 
 
 ## Related
 
+- **Has derivative:** [[07-Articles/The First Money Buys a Conversation|The First Money Buys a Conversation]]
 - **Prerequisite:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Debt Is Not Normal - The Avoid-and-Eliminate Playbook|Debt Is Not Normal]] — the third clause of the formula, and the thing that must be finished before the surplus exists.
 - **Next step:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The Simple Path Portfolio - Two Funds, Two Stages, and Why Complexity Costs You|The Simple Path Portfolio]] — where the surplus actually goes.
 - **Next step:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/The 4 Percent Rule - Withdrawal Rates and the Flexibility That Makes Them Safe|The 4 Percent Rule]] — where the 25× number comes from, and when to distrust it.

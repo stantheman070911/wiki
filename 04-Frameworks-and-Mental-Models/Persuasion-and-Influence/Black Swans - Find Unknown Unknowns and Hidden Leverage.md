@@ -53,6 +53,7 @@ A real-estate broker described a fully occupied building as a cash cow, yet the 
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/The First Money Buys a Conversation|The First Money Buys a Conversation]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Believability-Weight Your Decision Making|Believability-Weight Your Decision Making]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Bend Their Reality - Loss, Fairness, Deadlines, and Anchors|Bend Their Reality - Loss, Fairness, Deadlines, and Anchors]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Calibrated Questions - How and What Create the Illusion of Control|Calibrated Questions - How and What Create the Illusion of Control]]

@@ -46,6 +46,7 @@ Airbnb waited four months after YC fundraising to hire its first employee. The f
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/The First Money Buys a Conversation|The First Money Buys a Conversation]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Risk of Ruin - Time Probability, Repeated Exposure, and Survival First|Risk of Ruin - Time Probability, Repeated Exposure, and Survival First]]
 - **Has example:** [[05-Intelligence-and-Research/Commercialized Sovereignty - Jurisdictions Competing as Service Providers|Commercialized Sovereignty - Jurisdictions Competing as Service Providers]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/You Have a Job, Not a Business - The 50% Hire and Buying Back Time|You Have a Job, Not a Business - The 50% Hire and Buying Back Time]]

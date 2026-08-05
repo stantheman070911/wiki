@@ -54,6 +54,7 @@ Sarah loved technical leadership but was drained by budgets and schedules. She p
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/The First Money Buys a Conversation|The First Money Buys a Conversation]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Change Cost Filter - Stay, Scale, or Burn It Down|The Change Cost Filter - Stay, Scale, or Burn It Down]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Overwhelm Is a System Signal - Diagnose Before Burnout|Overwhelm Is a System Signal - Diagnose Before Burnout]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Good Enough for Now - Acceptance Without Settling|Good Enough for Now - Acceptance Without Settling]]
