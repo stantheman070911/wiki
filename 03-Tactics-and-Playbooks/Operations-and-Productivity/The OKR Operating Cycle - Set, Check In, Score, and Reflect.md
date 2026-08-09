@@ -55,6 +55,7 @@ Annual strategic direction and shorter operational cycles can run in parallel wh
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/What the Number Makes Rational|What the Number Makes Rational]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed and Aspirational OKRs - Separate Reliability from Stretch|Committed and Aspirational OKRs - Separate Reliability from Stretch]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Focus and Align - Make Priorities and Dependencies Public|Focus and Align - Make Priorities and Dependencies Public]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/OKRs - Define Objectives Through Sufficient Key Results|OKRs - Define Objectives Through Sufficient Key Results]]

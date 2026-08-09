@@ -9,6 +9,7 @@ Outward-facing essays synthesized from multiple entries. Belongs here: finished 
 
 Add a line here when publishing a new article (newest first).
 
+- [[07-Articles/What the Number Makes Rational|What the Number Makes Rational]]
 - [[07-Articles/The First Money Buys a Conversation|The First Money Buys a Conversation]]
 - [[07-Articles/The Audience Comes Last, Not Never|The Audience Comes Last, Not Never]]
 - [[07-Articles/You Get Bored Before They Remember|You Get Bored Before They Remember]]

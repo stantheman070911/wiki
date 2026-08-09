@@ -55,6 +55,7 @@ Use the **Objective–Key Result sufficiency test**:
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/What the Number Makes Rational|What the Number Makes Rational]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Do What You Set Out to Do|Do What You Set Out to Do]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The OKR Operating Cycle - Set, Check In, Score, and Reflect|The OKR Operating Cycle - Set, Check In, Score, and Reflect]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Committed and Aspirational OKRs - Separate Reliability from Stretch|Committed and Aspirational OKRs - Separate Reliability from Stretch]]

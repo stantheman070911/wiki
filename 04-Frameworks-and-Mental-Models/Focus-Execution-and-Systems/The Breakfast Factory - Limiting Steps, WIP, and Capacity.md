@@ -57,6 +57,7 @@ In Grove's breakfast, the three-minute egg initially determines the schedule, so
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/What the Number Makes Rational|What the Number Makes Rational]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/The Algorithm - Musk's Five-Step Process Method|The Algorithm - Musk's Five-Step Process Method]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Complexity Needs Standards and Distributed Judgment|Complexity Needs Standards and Distributed Judgment]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/Managerial Output and Leverage|Managerial Output and Leverage]]
