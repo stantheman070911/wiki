@@ -51,6 +51,7 @@ A real-estate-focused SaaS at $60/month was losing ~100 of 150 weekly signups, l
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/What the Invoice Says About the Product|What the Invoice Says About the Product]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/用數學做決策：損益表、PDCA與預測降低不確定性|用數學做決策：損益表、PDCA與預測降低不確定性]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Sales-and-Lead-Generation/Activation Before Automation - Manual Onboarding to Fix Churn|Activation Before Automation - Manual Onboarding to Fix Churn]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Community Quality Is the Offer - Qualification, Curation, and Network Effects|Community Quality Is the Offer - Qualification, Curation, and Network Effects]]

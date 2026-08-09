@@ -55,6 +55,7 @@ For weight loss, Hormozi maps the difference between current and target weight t
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/What the Invoice Says About the Product|What the Invoice Says About the Product]]
 - **Applies:** [[01-Business-Strategy/Positioning-and-Branding/The Aesop Playbook|The Aesop Playbook - Ritual Economics, Diagnostic Selling, and Engineering the Second Sale]]
 - **Applies:** [[01-Business-Strategy/Pricing-and-Offers/Barbell Pricing and the Unscalable Premium Offer|Barbell Pricing and the Unscalable Premium Offer]]
 - **Applies:** [[01-Business-Strategy/Pricing-and-Offers/Give Them What They Want to Get Them What They Need - The Defined-End Offer|Give Them What They Want to Get Them What They Need - The Defined-End Offer]]

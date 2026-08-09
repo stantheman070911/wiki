@@ -6,10 +6,11 @@ tags:
   - topic/value-creation
   - topic/unit-economics
   - topic/product
+  - topic/proof
   - person/wes-bush
   - source/product-led-growth
-status: draft
-updated: 2026-07-18
+status: reviewed
+updated: 2026-08-09
 ---
 
 # Value Metrics - Price and Grow With Customer Outcomes
@@ -29,6 +30,7 @@ Feature tiers and arbitrary per-seat prices can make revenue diverge from custom
 - **It should grow with the customer.** A good metric creates natural expansion revenue while allowing lighter users to pay less.
 - **Per-user pricing is not a default.** It fits when access creates differentiated value, standardization matters, budget predictability is essential, or network effects make each added user more valuable; otherwise it can suppress adoption.
 - **The best metric is evidence for product decisions.** Patterns among retained, high-value users reveal which behaviors are worth accelerating and which users should not shape the experience.
+- **Make received value visible when payment is salient.** Usage reviews can show meaningful work completed, time saved, or outcomes produced; restating that value when invoicing places evidence of the product beside the charge.
 
 ## Framework / model (if applicable)
 Run every candidate through the three-part value-metric test:
@@ -45,6 +47,7 @@ Generate candidates from customer outcomes and product behavior, then validate t
 - Test functional candidates against closer-to-outcome alternatives; prefer the nearest reliable proxy that the product can measure.
 - Ask customers which pricing bases they most and least prefer to expose hidden aversion to a proposed unit.
 - Put the metric at the center of the pricing page and make tier thresholds easy to self-select.
+- Send periodic usage reviews built around accomplishments rather than raw activity, and restate the product's core value when the invoice arrives.
 - Review the metric as the product evolves; choosing an initial hypothesis is better than pretending the first answer is permanent.
 
 ## Notable examples
@@ -55,6 +58,7 @@ Generate candidates from customer outcomes and product behavior, then validate t
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/What the Invoice Says About the Product|What the Invoice Says About the Product]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Brand-and-Positioning/UCD - Understand, Communicate, and Deliver Customer Value|UCD - Understand, Communicate, and Deliver Customer Value]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/The MOAT Framework - Choose Freemium, Free Trial, or Demo|The MOAT Framework - Choose Freemium, Free Trial, or Demo]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Triple-A Growth Sprints - Analyze, Ask, and Act|Triple-A Growth Sprints - Analyze, Ask, and Act]]

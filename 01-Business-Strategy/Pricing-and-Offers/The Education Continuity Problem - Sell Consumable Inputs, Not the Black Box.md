@@ -67,6 +67,7 @@ AMA 3 adds the strongest form of this model: hair-extension and permanent-makeup
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/What the Invoice Says About the Product|What the Invoice Says About the Product]]
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
 - **Prerequisite:** [[01-Business-Strategy/Business-Models-and-Customers/The Four Business Shapes - E-commerce, Service, Education, Software|The Four Business Shapes - E-commerce, Service, Education, Software]]
 - **Related:** [[01-Business-Strategy/Business-Models-and-Customers/Community Quality Is the Offer - Qualification, Curation, and Network Effects|Community Quality Is the Offer - Qualification, Curation, and Network Effects]]
