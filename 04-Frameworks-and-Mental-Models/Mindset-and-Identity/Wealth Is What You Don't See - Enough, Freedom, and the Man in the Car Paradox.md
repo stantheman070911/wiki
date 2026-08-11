@@ -80,6 +80,7 @@ Karl Pillemer interviewed a thousand elderly Americans about their most importan
 
 ## Related
 
+- **Has derivative:** [[07-Articles/The Driver Disappears|The Driver Disappears]]
 - **Contrast:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Money Blueprint - Reprogramming Thoughts, Feelings, and Actions Around Money|The Money Blueprint]] — Eker on the psychology of acquiring; Housel on the psychology of not spending. Read together.
 - **Applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/Your Savings Rate Is the Variable You Control - Efficiency Over Returns|Your Savings Rate Is the Variable You Control]] — the mechanics of turning humility into savings.
 - **Applied by:** [[03-Tactics-and-Playbooks/Wealth-and-Skill-Building/F-You Money - The Three-Part Formula and the 25x Target|F-You Money]] — freedom priced as a number, and Collins' monk-and-minister case that limiting needs does as much work as growing assets.

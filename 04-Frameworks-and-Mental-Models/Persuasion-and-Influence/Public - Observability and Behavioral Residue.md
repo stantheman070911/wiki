@@ -46,6 +46,7 @@ Physical traces that persist *after* use. Livestrong's **yellow** bands (a rarel
 ## Relationships
 
 - **Applies:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The STEPPS Framework - Six Drivers of Word of Mouth|The STEPPS Framework - Six Drivers of Word of Mouth]]
+- **Has derivative:** [[07-Articles/The Driver Disappears|The Driver Disappears]]
 - **Has derivative:** [[07-Articles/Design for the Second Audience|Design for the Second Audience]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Audience-Growth/Permission and Remarkability - Own Attention and Design Word of Mouth|Permission and Remarkability - Own Attention and Design Word of Mouth]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Capture Dont Create - Engineering Proof at Scale|Capture, Don't Create: Engineering Proof at Scale]]

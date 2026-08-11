@@ -58,6 +58,7 @@ The sixth principle carries the whole set: it only works when the interest is re
 
 ## Related
 
+- **Has derivative:** [[07-Articles/The Driver Disappears|The Driver Disappears]]
 - **Prerequisite:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/The Desire to Be Important - Why Criticism Fails and Appreciation Works|The Desire to Be Important]] — the underlying hunger these six behaviours feed.
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Social Proof, Liking, Authority, and Scarcity - The Four Social Shortcuts|Social Proof, Liking, Authority, and Scarcity]] — Cialdini's experimental case for liking as a compliance lever, and its exploitation by professionals.
 - **Related:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Mirroring and Voice - Slow the Negotiation and Keep Them Talking|Mirroring and Voice]] — two mechanical techniques for keeping the other party talking when curiosity alone will not.

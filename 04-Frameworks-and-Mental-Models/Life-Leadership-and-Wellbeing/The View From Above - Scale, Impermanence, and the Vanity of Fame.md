@@ -66,6 +66,7 @@ The view from above is a corrective, not a worldview. Applied constantly it flat
 
 ## Related
 
+- **Has derivative:** [[07-Articles/The Driver Disappears|The Driver Disappears]]
 - **Prerequisite:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/Things Do Not Touch the Soul - Judgment Is Where Disturbance Lives|Things Do Not Touch the Soul]] — reputation is an indifferent; this is the exercise that makes that felt rather than merely agreed.
 - **Counterweight:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Rise and Do the Work of a Human Being - Duty, Society, and the Vine|Rise and Do the Work of a Human Being]] — what Marcus does with the perspective once he has it.
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Is Short - Ruthless Attention Allocation|Life Is Short]] — Graham's version, arriving at the same prioritization rule from a modern direction.
