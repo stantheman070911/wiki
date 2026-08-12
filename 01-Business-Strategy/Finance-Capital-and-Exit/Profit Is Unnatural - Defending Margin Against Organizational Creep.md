@@ -51,6 +51,7 @@ Hormozi relays a billionaire mentor's observation that businesses slowly eat the
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/A Business Can Lose Without Being Attacked|A Business Can Lose Without Being Attacked]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch|Default Alive or Default Dead - Runway, Growth, and the Fatal Pinch]]
 - **Related:** [[01-Business-Strategy/Finance-Capital-and-Exit/Wealth Creation - Measurement, Leverage, and Compressed Work|Wealth Creation - Measurement, Leverage, and Compressed Work]]

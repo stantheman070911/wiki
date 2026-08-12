@@ -43,6 +43,7 @@ Eleventh chapter of Work Principles, and the first of the four-chapter run (perc
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/A Business Can Lose Without Being Attacked|A Business Can Lose Without Being Attacked]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Solve the Problem You Have, Not the One You're Afraid Of|Solve the Problem You Have, Not the One You're Afraid Of - Metrics Over Narrative]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
 - **Related:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Diagnose Problems to Get at Their Root Causes|Diagnose Problems to Get at Their Root Causes]]

@@ -53,6 +53,7 @@ Abbott used responsibility accounting to assign every meaningful cost, investmen
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/A Business Can Lose Without Being Attacked|A Business Can Lose Without Being Attacked]]
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/The Hedgehog Concept - Three Circles and the Economic Denominator|The Hedgehog Concept - Three Circles and the Economic Denominator]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior|Culture as Reinforcement Rules - Codify, Transfer, and Train Behavior]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More Important Than the WHAT|Remember That the WHO Is More Important Than the WHAT]]

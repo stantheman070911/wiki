@@ -52,6 +52,7 @@ Names the internal-decay half of what [[Riding Waves of Change - Five Guideposts
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/A Business Can Lose Without Being Attacked|A Business Can Lose Without Being Attacked]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Chain-Link Systems - Getting Stuck and Getting Unstuck|Chain-Link Systems - Getting Stuck and Getting Unstuck]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Riding Waves of Change - Five Guideposts for Industry Transitions|Riding Waves of Change - Five Guideposts for Industry Transitions]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Strategy-and-Competitive-Advantage/Strategy as Design - Coordinating Actions Under Constraint|Strategy as Design - Coordinating Actions Under Constraint]]
