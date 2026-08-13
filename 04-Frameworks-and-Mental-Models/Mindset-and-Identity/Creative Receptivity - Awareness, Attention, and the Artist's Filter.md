@@ -52,6 +52,7 @@ AlphaGo's famous move 37 looked wrong to experienced Go players because it did n
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/A Name Is Where Looking Stops|A Name Is Where Looking Stops]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Content-Creation-and-Distribution/Creative Experiments - Opposites, Constraints, A-B Tests, and Context|Creative Experiments - Opposites, Constraints, A-B Tests, and Context]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New Ideas - Work at the Fractal Edge of Knowledge|Finding New Ideas - Work at the Fractal Edge of Knowledge]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness - Separate Truth from Identity and Conformism|Independent-Mindedness - Separate Truth from Identity and Conformism]]

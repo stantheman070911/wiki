@@ -46,6 +46,7 @@ Knowledge grows like a fractal: its edge appears smooth from afar, yet becomes m
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/A Name Is Where Looking Stops|A Name Is Where Looking Stops]]
 - **Is applied by:** [[01-Business-Strategy/Business-Models-and-Customers/Organic Startup Ideas - Live in the Future and Notice What Is Missing|Organic Startup Ideas - Live in the Future and Notice What Is Missing]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Independent-Mindedness - Separate Truth from Identity and Conformism|Independent-Mindedness - Separate Truth from Identity and Conformism]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Secrets - How to Find What Everyone Else Has Missed|Secrets - How to Find What Everyone Else Has Missed]]

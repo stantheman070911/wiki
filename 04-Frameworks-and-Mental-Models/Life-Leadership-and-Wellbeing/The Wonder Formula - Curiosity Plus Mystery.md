@@ -53,6 +53,7 @@ A garden can first appear as weeds to pull, flowers to prune, and roses to ferti
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/A Name Is Where Looking Stops|A Name Is Where Looking Stops]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to Love to Read - Foundations, Clear Thinking, and Mental Models|Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Moment-Making - Crafted, Discovered, and Savored Experiences|Moment-Making - Crafted, Discovered, and Savored Experiences]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Simple Flow - Presence Beyond Peak Performance|Simple Flow - Presence Beyond Peak Performance]]

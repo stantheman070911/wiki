@@ -51,6 +51,7 @@ After leaving Reed College's required curriculum, Steve Jobs studied calligraphy
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/A Name Is Where Looking Stops|A Name Is Where Looking Stops]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Finding New Ideas - Work at the Fractal Edge of Knowledge|Finding New Ideas - Work at the Fractal Edge of Knowledge]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Learn to Love to Read - Foundations, Clear Thinking, and Mental Models|Learn to Love to Read - Foundations, Clear Thinking, and Mental Models]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Mindset-and-Identity/The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance|The Passion Myth - Proficiency, Pain Tolerance, and Frustration Tolerance]]
