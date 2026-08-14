@@ -83,6 +83,7 @@ Happiness, presence, flow, acceptance, curiosity, and resilience.
 - [[Simple Flow - Presence Beyond Peak Performance]]
 - [[Struggling Well - Why Arriving Doesn't Satisfy and the Marginal Benefits of More Fall Off]]
 - [[The Designer's Way - Acceptance, Availability, and Engaged Detachment]]
+- [[The Experiencing and Remembering Selves - Duration, Peaks, and Endings]]
 - [[The Four Vectors of Mental Toughness]]
 - [[The View From Above - Scale, Impermanence, and the Vanity of Fame]]
 - [[The Wonder Formula - Curiosity Plus Mystery]]

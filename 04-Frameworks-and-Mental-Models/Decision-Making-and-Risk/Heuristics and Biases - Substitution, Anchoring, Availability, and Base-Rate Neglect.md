@@ -83,6 +83,7 @@ Intuitive predictions are as extreme as the evidence; corrected ones are not. Th
 
 ## Related
 
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Experiencing and Remembering Selves - Duration, Peaks, and Endings|The Experiencing and Remembering Selves]] — peak-end weighting and duration neglect show substitution inside remembered experience.
 - **Prerequisite:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/System 1 and System 2 - The Two-Character Model of Judgment|System 1 and System 2]] — the machinery that runs every substitution listed here.
 - **Applied by:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/The Outside View - Reference Classes Against the Planning Fallacy|The Outside View]] — base-rate neglect at project scale, with the remedy.
 - **Applied by:** [[04-Frameworks-and-Mental-Models/Persuasion-and-Influence/Bend Their Reality - Loss, Fairness, Deadlines, and Anchors|Bend Their Reality]] — anchoring used deliberately in negotiation rather than suffered.

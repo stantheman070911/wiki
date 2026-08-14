@@ -52,6 +52,8 @@ In Stanford’s Distinguished Careers Institute, highly accomplished and well-co
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/The Day and the Story It Becomes|The Day and the Story It Becomes]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Experiencing and Remembering Selves - Duration, Peaks, and Endings|The Experiencing and Remembering Selves]] — shared reflection changes what a remembered episode contributes after it ends.
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Focus Questions - Formation Beyond Problem Solving|Focus Questions - Formation Beyond Problem Solving]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Cultivate Meaningful Work and Meaningful Relationships|Cultivate Meaningful Work and Meaningful Relationships]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Life Design Compass - Workview, Lifeview, and Coherency|Life Design Compass - Workview, Lifeview, and Coherency]]

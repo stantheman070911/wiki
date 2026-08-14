@@ -62,6 +62,7 @@ Steve Jobs used a daily mortality question for decades. Its value was not predic
 ## Relationships
 
 - **Has derivative:** [[07-Articles/Every Possession Comes With a Job|Every Possession Comes With a Job]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Experiencing and Remembering Selves - Duration, Peaks, and Endings|The Experiencing and Remembering Selves]] — lived time remains finite even when remembered stories neglect duration.
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Focus as Elimination - The Deep-Work Playbook|Focus as Elimination - The Deep-Work Playbook]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/選擇、承諾與人生取捨|選擇、承諾與人生取捨]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists|A Culture of Discipline - Freedom, Responsibility, and Stop-Doing Lists]]

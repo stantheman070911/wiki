@@ -49,6 +49,8 @@ One crafted moment is waking early to meditate in a quiet favorite chair. A disc
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/The Day and the Story It Becomes|The Day and the Story It Becomes]]
+- **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Experiencing and Remembering Selves - Duration, Peaks, and Endings|The Experiencing and Remembering Selves]] — savoring revisits an episode whose remembered story is not identical to its lived duration.
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Formative Communities - Become Better Together|Formative Communities - Become Better Together]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Meaning in Life Is Designed in Particular Moments|Meaning in Life Is Designed in Particular Moments]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Simple Flow - Presence Beyond Peak Performance|Simple Flow - Presence Beyond Peak Performance]]

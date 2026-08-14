@@ -63,6 +63,8 @@ The counter-tool is simple awareness of the trade. On the "latte factor": Perkin
 
 ## Related
 
+- **Has derivative:** [[07-Articles/The Day and the Story It Becomes|The Day and the Story It Becomes]]
+- **Corrected by:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/The Experiencing and Remembering Selves - Duration, Peaks, and Endings|The Experiencing and Remembering Selves]] — later recall can create value while still misrepresenting the original duration.
 - **Prerequisite:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Die With Zero - Life Energy, the Net Worth Peak, and Decumulation|Die With Zero]] — the money-side argument this one supplies the return calculation for.
 - **Applied by:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Time Buckets - Plan Experiences Against the Health Curve|Time Buckets]] — the scheduling tool for the list this entry tells you to write.
 - **Related:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Moment-Making - Crafted, Discovered, and Savored Experiences|Moment-Making]] — how to build the experiences that generate the dividend rather than waiting to stumble on them.
