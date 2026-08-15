@@ -56,6 +56,7 @@ Organizations exist to combine specific strengths while making weaknesses irrele
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/The Third Failure Belongs to the Job|The Third Failure Belongs to the Job]]
 - **Applies:** [[01-Business-Strategy/Business-Models-and-Customers/The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages|The Employment Dependence Trade - Reliability, Freedom, and Hidden Hostages]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Effective Executive - Five Learnable Practices|The Effective Executive - Five Learnable Practices]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Level 5 Leadership - Humility and Professional Will|Level 5 Leadership - Humility and Professional Will]]

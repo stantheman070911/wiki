@@ -9,6 +9,7 @@ Outward-facing essays synthesized from multiple entries. Belongs here: finished 
 
 Add a line here when publishing a new article (newest first).
 
+- [[07-Articles/The Third Failure Belongs to the Job|The Third Failure Belongs to the Job]]
 - [[07-Articles/The Day and the Story It Becomes|The Day and the Story It Becomes]]
 - [[07-Articles/A Name Is Where Looking Stops|A Name Is Where Looking Stops]]
 - [[07-Articles/A Business Can Lose Without Being Attacked|A Business Can Lose Without Being Attacked]]

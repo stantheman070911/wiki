@@ -54,6 +54,7 @@ Intel moved an outstanding field sales manager into factory leadership. His perf
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/The Third Failure Belongs to the Job|The Third Failure Belongs to the Job]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Constantly Train, Test, Evaluate, and Sort People|Constantly Train, Test, Evaluate, and Sort People]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Performance Appraisal as a Management System|Performance Appraisal as a Management System]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Meetings as Managerial Production|Meetings as Managerial Production]]

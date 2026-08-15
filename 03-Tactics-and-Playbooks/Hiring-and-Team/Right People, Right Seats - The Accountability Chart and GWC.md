@@ -92,6 +92,7 @@ The honest reading is that this process is a filter, and filters remove people. 
 
 ## Related
 
+- **Has derivative:** [[07-Articles/The Third Failure Belongs to the Job|The Third Failure Belongs to the Job]]
 - **Prerequisite:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The V-TO - Eight Questions That Turn a Vision Into a Plan|The V/TO]] — core values come from the V/TO, and without them "right people" is untestable.
 - **Prerequisite:** [[04-Frameworks-and-Mental-Models/Focus-Execution-and-Systems/The Six Key Components - EOS's Model of a Whole Business|The Six Key Components]] — this is the People component.
 - **Contrast:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More Important Than the WHAT|Remember That the WHO Is More Important Than the WHAT]] — Dalio's version, which treats the person-role fit as a matching problem rather than a filter.

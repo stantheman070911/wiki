@@ -80,6 +80,7 @@ Add the **three-bars test**: “If everyone here had this person’s cultural va
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/The Third Failure Belongs to the Job|The Third Failure Belongs to the Job]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Adaptive Leadership - Consistent Standards, Individual Treatment|Adaptive Leadership - Consistent Standards, Individual Treatment]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't|Create a Culture Where Mistakes Are Okay But Not Learning From Them Isn't]]
 - **Applies:** [[04-Frameworks-and-Mental-Models/Life-Leadership-and-Wellbeing/Task-Relevant Maturity|Task-Relevant Maturity]]

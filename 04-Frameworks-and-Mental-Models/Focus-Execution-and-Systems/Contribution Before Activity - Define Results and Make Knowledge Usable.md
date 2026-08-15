@@ -55,6 +55,7 @@ Specialized knowledge is incomplete by itself. It becomes productive only when a
 
 ## Relationships
 
+- **Has derivative:** [[07-Articles/The Third Failure Belongs to the Job|The Third Failure Belongs to the Job]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Hiring-and-Team/Remember That the WHO Is More Important Than the WHAT|Remember That the WHO Is More Important Than the WHAT]]
 - **Is applied by:** [[03-Tactics-and-Playbooks/Operations-and-Productivity/Manage as Someone Operating a Machine to Achieve a Goal|Manage as Someone Operating a Machine to Achieve a Goal]]
 - **Related:** [[04-Frameworks-and-Mental-Models/Decision-Making-and-Risk/Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy|Reality Filters - Track Records, Costly Signals, and the Green Lumber Fallacy]]
